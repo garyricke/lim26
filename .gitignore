@@ -4,7 +4,7 @@
 
 # Exclude entire images-master; only used images are committed explicitly
 images-master/*
-!images-master/prayer-people-circle-outside.jpg
+!images-master/people-prayer-circle.jpg
 !images-master/people-haskell-man-drum.jpg
 !images-master/people-women-prayer-before-cross.jpg
 !images-master/people-lame-deer-women-tipi-healing-retreat.jpg
