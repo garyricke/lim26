@@ -5,7 +5,7 @@
 # Exclude entire images-master; only used images are committed explicitly
 images-master/*
 !images-master/stock-people-old-couple.jpg
-!images-master/people-haskell-man-drum.jpg
+!images-master/people-lodge-training-workshop.jpg
 !images-master/people-women-prayer-before-cross.jpg
 !images-master/people-lame-deer-women-tipi-healing-retreat.jpg
 !images-master/people-healing-embrace.jpg
