@@ -1,0 +1,1269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Lutheran Indian Ministries is a Native-led ministry proclaiming the Gospel, discipling Native leaders, and healing generations of trauma across 574 tribal communities.">
+  <title>Lutheran Indian Ministries — Where Faith Meets Tradition</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --red: #ED1C24; --red-h: #c8151c;
+      --yellow: #FFDE16;
+      --charcoal: #282924;
+      --sage: #B2AC88; --sage-d: #8a8665;
+      --sky: #A2C2D1; --sky-d: #6fa3b8;
+      --stone: #EBE9E4;
+      --white: #FFFFFF;
+      --muted: #5a5a52;
+      --border: #d9d6ce;
+      --serif: 'Merriweather', Georgia, serif;
+      --cond: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+      --body: 'Open Sans', system-ui, sans-serif;
+      --max: 1200px;
+      --r: 8px; --rl: 16px;
+      --sh: 0 2px 8px rgba(0,0,0,.08);
+      --shm: 0 6px 24px rgba(0,0,0,.12);
+      --shl: 0 16px 48px rgba(0,0,0,.18);
+      --t: .3s ease;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--body);color:var(--charcoal);background:#fff;line-height:1.7;overflow-x:hidden}
+    img{max-width:100%;height:auto;display:block}
+    a{color:inherit;text-decoration:none}
+    button{cursor:pointer;font-family:inherit;border:none;background:none}
+
+    /* Utilities */
+    .wrap{max-width:var(--max);margin:0 auto;padding:0 1.5rem}
+    .lbl{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.6rem}
+    .h2{font-family:var(--serif);font-size:clamp(1.8rem,3.5vw,2.75rem);line-height:1.2;color:var(--charcoal);margin-bottom:1.2rem}
+    .intro{font-size:1.05rem;color:var(--muted);line-height:1.8;max-width:640px}
+    .btn{display:inline-flex;align-items:center;gap:.5rem;padding:.85rem 1.9rem;border-radius:var(--r);font-family:var(--cond);font-size:1rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;transition:var(--t);cursor:pointer;border:2px solid transparent}
+    .btn-red{background:var(--red);color:#fff;border-color:var(--red)}
+    .btn-red:hover{background:var(--red-h);border-color:var(--red-h);transform:translateY(-1px);box-shadow:var(--shm)}
+    .btn-sky{background:var(--sky);color:var(--charcoal);border-color:var(--sky)}
+    .btn-sky:hover{background:var(--sky-d);color:#fff;border-color:var(--sky-d);transform:translateY(-1px);box-shadow:var(--shm)}
+    .btn-ol{background:transparent;color:var(--charcoal);border-color:var(--charcoal)}
+    .btn-ol:hover{background:var(--charcoal);color:#fff}
+    .btn-olw{background:transparent;color:#fff;border-color:rgba(255,255,255,.55)}
+    .btn-olw:hover{background:rgba(255,255,255,.12);border-color:#fff}
+    .fi{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s ease}
+    .fi.vis{opacity:1;transform:none}
+
+
+    /* Nav */
+    #nav{position:sticky;top:0;z-index:1000;background:var(--charcoal);box-shadow:var(--shm)}
+    .nav-i{display:flex;align-items:center;justify-content:space-between;height:66px;max-width:var(--max);margin:0 auto;padding:0 1.5rem}
+    .nav-logo img{height:42px}
+    .nav-links{display:flex;align-items:center;gap:1.75rem;list-style:none}
+    .nav-links a{font-family:var(--cond);font-size:.85rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:rgba(255,255,255,.75);transition:var(--t);padding-bottom:2px;border-bottom:2px solid transparent}
+    .nav-links a:hover{color:var(--yellow);border-color:var(--yellow)}
+    .nav-give{background:var(--red);color:#fff;font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.55rem 1.4rem;border-radius:4px;border:2px solid var(--red);transition:var(--t)}
+    .nav-give:hover{background:var(--red-h);border-color:var(--red-h)}
+    .ham{display:none;flex-direction:column;gap:5px;padding:6px}
+    .ham span{display:block;width:22px;height:2px;background:#fff;transition:var(--t)}
+
+    /* Hero */
+    #hero{position:relative;min-height:92vh;display:flex;align-items:center;overflow:hidden}
+    .hero-bg{position:absolute;inset:0;overflow:hidden}
+    .hero-bg video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;filter:brightness(.52)}
+    .hero-c{position:relative;z-index:2;max-width:760px;padding:6rem 1.5rem;margin:0 0 0 7vw}
+    .hero-eye{font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--yellow);display:flex;align-items:center;gap:.75rem;margin-bottom:1.2rem}
+    .hero-eye::before{content:'';width:36px;height:2px;background:var(--yellow)}
+    .hero-h1{font-family:var(--serif);font-size:clamp(2.4rem,5.5vw,3.9rem);line-height:1.15;color:#fff;text-shadow:0 2px 14px rgba(0,0,0,.4);margin-bottom:1.4rem}
+    .hero-h1 em{font-style:italic;color:var(--yellow)}
+    .hero-sub{font-size:1.1rem;color:rgba(255,255,255,.85);max-width:540px;line-height:1.8;margin-bottom:2.5rem}
+    .hero-ctas{display:flex;gap:1rem;flex-wrap:wrap}
+    .hero-scroll{position:absolute;bottom:1.75rem;left:50%;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:.4rem;color:rgba(255,255,255,.5);font-family:var(--cond);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;z-index:2;animation:bob 2.2s ease-in-out infinite}
+    @keyframes bob{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(7px)}}
+
+    /* About */
+    #about{background:var(--charcoal);padding:5rem 1.5rem}
+    .about-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:center}
+    .about-lbl{color:rgba(255,255,255,.45)!important}
+    .about-h2{color:#fff!important}
+    .about-q{font-family:var(--serif);font-size:1.2rem;font-style:italic;color:rgba(255,255,255,.72);border-left:3px solid var(--yellow);padding-left:1.4rem;margin:1.5rem 0;line-height:1.7}
+    .about-p{color:rgba(255,255,255,.65);line-height:1.8;margin-bottom:.9rem}
+    .about-btns{display:flex;gap:1rem;flex-wrap:wrap;margin-top:2rem}
+
+    /* Video thumbnail */
+    .vid-wrap{display:flex;justify-content:center;align-items:center}
+    .vid-thumb{position:relative;aspect-ratio:9/16;max-width:290px;width:100%;border-radius:18px;overflow:hidden;cursor:pointer;background:#000;box-shadow:0 24px 64px rgba(0,0,0,.65);flex-shrink:0}
+    .vid-thumb video{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease}
+    .vid-thumb:hover video{transform:scale(1.04)}
+    .vid-play{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.85rem;background:rgba(0,0,0,.28);transition:background .3s ease}
+    .vid-thumb:hover .vid-play{background:rgba(0,0,0,.1)}
+    .vid-play-ic{width:74px;height:74px;background:rgba(255,255,255,.92);border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 28px rgba(0,0,0,.45);transition:transform .25s ease,background .25s ease}
+    .vid-thumb:hover .vid-play-ic{transform:scale(1.13);background:#fff}
+    .vid-play-lbl{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#fff;text-shadow:0 1px 6px rgba(0,0,0,.7)}
+    /* Video modal */
+    #m-video .modal{background:#000;max-width:none;width:auto;max-height:92vh;aspect-ratio:9/16;border-radius:12px;overflow:hidden;display:flex;align-items:center;justify-content:center}
+    #m-video .modal video{width:100%;height:100%;object-fit:contain;display:block}
+    .vid-close{position:absolute;top:.75rem;right:.75rem;z-index:10;background:rgba(0,0,0,.6);border:none;color:#fff;width:38px;height:38px;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:1rem;transition:background .2s ease}
+    .vid-close:hover{background:var(--red)}
+
+    /* ── Video Gallery ── */
+    #videos{background:#1a1a16;padding:4.5rem 0 5rem}
+    .vids-hd{max-width:var(--max);margin:0 auto 2rem;padding:0 1.5rem}
+    .vids-tabs{max-width:var(--max);margin:0 auto 1.75rem;padding:0 1.5rem;display:flex;gap:0;overflow-x:auto;scrollbar-width:none;border-bottom:1px solid rgba(255,255,255,.1)}
+    .vids-tabs::-webkit-scrollbar{display:none}
+    .vt-btn{flex-shrink:0;position:relative;font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.38);background:none;border:none;cursor:pointer;padding:.75rem 1.1rem .65rem;transition:color .2s ease}
+    .vt-btn:hover{color:rgba(255,255,255,.75)}
+    .vt-btn.act{color:var(--yellow)}
+    .vt-prog{position:absolute;bottom:-1px;left:0;height:2px;width:0;background:var(--yellow)}
+    .vt-btn.act .vt-prog{animation:vtprog 5s linear forwards}
+    @keyframes vtprog{from{width:0}to{width:100%}}
+    .vids-strip{overflow-x:auto;padding-bottom:.5rem;scrollbar-width:thin;scrollbar-color:rgba(255,255,255,.18) transparent}
+    .vids-strip::-webkit-scrollbar{height:4px}
+    .vids-strip::-webkit-scrollbar-thumb{background:rgba(255,255,255,.18);border-radius:2px}
+    .vids-row{display:flex;gap:10px;padding:0 max(1.5rem,calc((100vw - var(--max)) / 2))}
+    .vc{position:relative;flex-shrink:0;width:185px;aspect-ratio:9/16;border-radius:12px;overflow:hidden;cursor:pointer;background:#111;transition:transform .3s ease,box-shadow .3s ease}
+    .vc:hover{transform:scale(1.04);box-shadow:0 12px 40px rgba(0,0,0,.6)}
+    .vc video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+    .vc-ov{position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,.82) 0%,rgba(0,0,0,.18) 55%,rgba(0,0,0,.06) 100%);transition:background .3s ease}
+    .vc:hover .vc-ov{background:linear-gradient(to top,rgba(0,0,0,.7) 0%,rgba(0,0,0,.06) 60%,transparent 100%)}
+    .vc-play-ic{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:44px;height:44px;background:rgba(255,255,255,.92);border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 20px rgba(0,0,0,.55);transition:transform .2s ease,background .2s ease}
+    .vc:hover .vc-play-ic{transform:translate(-50%,-50%) scale(1.15);background:#fff}
+    .vc-title{position:absolute;bottom:0;left:0;right:0;padding:.65rem .75rem;font-family:var(--cond);font-size:.79rem;font-weight:700;color:#fff;line-height:1.3;letter-spacing:.02em}
+    .vids-panel{display:none}.vids-panel.on{display:block}
+
+    /* Impact */
+    #impact{background:var(--yellow);padding:2.75rem 1.5rem}
+    .impact-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(4,1fr);gap:2rem;text-align:center}
+    .i-num{font-family:var(--cond);font-size:clamp(2.4rem,4.5vw,3.75rem);font-weight:800;color:var(--charcoal);line-height:1;display:block}
+    .i-lbl{font-family:var(--cond);font-size:.8rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:rgba(40,41,36,.65);margin-top:.4rem;display:block}
+
+    /* Pillars */
+    #pillars{padding:5rem 1.5rem;background:var(--stone)}
+    .pillars-hd{text-align:center;margin-bottom:3.5rem}
+    .pillars-hd .intro{margin:0 auto}
+    .pillars-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:1.75rem}
+    .pc{background:#fff;border-radius:var(--rl);overflow:hidden;box-shadow:var(--sh);transition:var(--t);display:flex;flex-direction:column}
+    .pc:hover{transform:translateY(-4px);box-shadow:var(--shm)}
+    .pc-img{height:210px;overflow:hidden}
+    .pc-img img{width:100%;height:100%;object-fit:cover;transition:transform .5s ease}
+    .pc:hover .pc-img img{transform:scale(1.05)}
+    .pc-body{padding:1.65rem;flex:1;display:flex;flex-direction:column}
+    .pc-n{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.4rem}
+    .pc-title{font-family:var(--serif);font-size:1.45rem;font-weight:700;color:var(--charcoal);margin-bottom:.65rem}
+    .pc-body p{color:var(--muted);line-height:1.7;margin-bottom:1.4rem;flex:1}
+    .pc-more{display:inline-flex;align-items:center;gap:.4rem;font-family:var(--cond);font-size:.88rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--charcoal);border-bottom:2px solid var(--yellow);padding-bottom:2px;transition:var(--t)}
+    .pc-more svg{transition:transform var(--t)}
+    .pc-more:hover{color:var(--red);border-color:var(--red)}
+    .pc-more:hover svg{transform:translateX(4px)}
+
+    /* Healing */
+    #healing{padding:5rem 1.5rem;background:#fff}
+    .heal-intro{max-width:var(--max);margin:0 auto 3.5rem;display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:center}
+    .heal-stats{display:flex;gap:2.25rem;margin:1.5rem 0;flex-wrap:wrap}
+    .hs-n{font-family:var(--cond);font-size:2.1rem;font-weight:800;color:var(--red);line-height:1;display:block}
+    .hs-l{font-size:.78rem;color:var(--muted);font-family:var(--cond);text-transform:uppercase;letter-spacing:.08em}
+    .heal-quote-box{background:var(--sky);border-radius:var(--rl);padding:2.5rem}
+    .heal-bq{font-family:var(--serif);font-size:1.25rem;font-style:italic;color:var(--charcoal);line-height:1.65;margin-bottom:1.2rem}
+    .heal-bq::before{content:'\201C';font-size:3rem;line-height:0;vertical-align:-.4em;color:rgba(40,41,36,.18);margin-right:.08em}
+    .heal-attr{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:rgba(40,41,36,.6)}
+    .heal-photos{max-width:var(--max);margin:0 auto 3.5rem;display:grid;grid-template-columns:2fr 1fr 1fr;height:280px;gap:.75rem;border-radius:var(--rl);overflow:hidden}
+    .heal-photos img{width:100%;height:100%;object-fit:cover}
+
+    /* Accordion */
+    .acc-wrap{max-width:var(--max);margin:0 auto 3rem}
+    .acc-hd{text-align:center;margin-bottom:2rem}
+    .acc-list{border:1px solid var(--border);border-radius:var(--rl);overflow:hidden}
+    .acc-item{border-bottom:1px solid var(--border)}
+    .acc-item:last-child{border-bottom:none}
+    .acc-btn{width:100%;display:flex;align-items:center;justify-content:space-between;padding:1.2rem 1.65rem;background:#fff;text-align:left;transition:background var(--t);gap:1rem}
+    .acc-btn:hover{background:var(--stone)}
+    .acc-btn.open{background:var(--sky)}
+    .acc-left{display:flex;align-items:center;gap:.9rem}
+    .acc-num{font-family:var(--cond);font-size:.75rem;font-weight:700;background:var(--charcoal);color:#fff;width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+    .acc-btn.open .acc-num{background:var(--red)}
+    .acc-q{font-family:var(--cond);font-size:1rem;font-weight:700;color:var(--charcoal)}
+    .acc-chev{flex-shrink:0;color:var(--muted);transition:transform var(--t)}
+    .acc-btn.open .acc-chev{transform:rotate(180deg)}
+    .acc-body{max-height:0;overflow:hidden;transition:max-height .42s ease}
+    .acc-inner{padding:1.1rem 1.65rem 1.6rem 4.25rem;color:var(--muted);line-height:1.8;border-top:1px solid var(--border)}
+    .acc-inner p{margin-bottom:.5rem}
+
+    /* Heal CTA bar */
+    .heal-cta{max-width:var(--max);margin:0 auto;background:var(--charcoal);border-radius:var(--rl);padding:2.75rem 2.5rem;display:flex;align-items:center;justify-content:space-between;gap:2rem;flex-wrap:wrap}
+    .heal-cta h3{font-family:var(--serif);font-size:1.65rem;color:#fff;margin-bottom:.4rem}
+    .heal-cta p{color:rgba(255,255,255,.65);max-width:480px}
+    .heal-cta-btns{display:flex;gap:1rem;flex-wrap:wrap}
+
+    /* Medicine wheel divider */
+    .mw-div{padding:2.5rem 1.5rem;background:var(--stone);display:flex;flex-direction:column;align-items:center;gap:.75rem}
+    .mw-div img{width:72px;height:72px;opacity:.65}
+    .mw-div p{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--muted)}
+
+    /* Haskell */
+    #haskell{padding:5rem 1.5rem;background:var(--stone)}
+    .hsk-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:start}
+    .hsk-media{display:flex;flex-direction:column;gap:.85rem}
+    .hsk-hero{border-radius:var(--rl);overflow:hidden;height:300px}
+    .hsk-hero img{width:100%;height:100%;object-fit:cover}
+    .hsk-row{display:grid;grid-template-columns:1fr 1fr;gap:.85rem}
+    .hsk-row div{border-radius:var(--r);overflow:hidden;height:155px}
+    .hsk-row div img{width:100%;height:100%;object-fit:cover}
+    .hsk-q{font-family:var(--serif);font-size:1.05rem;font-style:italic;color:var(--muted);border-left:3px solid var(--sage);padding:1rem 1.4rem;margin:1.4rem 0;background:rgba(178,172,136,.12);border-radius:0 var(--r) var(--r) 0}
+    .hsk-btns{margin-top:2rem;display:flex;gap:1rem;flex-wrap:wrap}
+
+    /* Testimonials */
+    #testimonials{padding:5rem 1.5rem;background:var(--charcoal)}
+    .test-hd{text-align:center;margin-bottom:3rem}
+    .test-hd .lbl{color:rgba(255,255,255,.45)}
+    .test-hd .h2{color:#fff}
+    .test-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:1.4rem}
+    .tc{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:var(--rl);padding:1.9rem;transition:var(--t)}
+    .tc:hover{background:rgba(255,255,255,.1);transform:translateY(-2px)}
+    .tc::before{content:'\201C';font-family:var(--serif);font-size:3.5rem;color:var(--yellow);opacity:.38;line-height:1;display:block;margin-bottom:.4rem}
+    .tc-text{font-family:var(--serif);font-size:.98rem;font-style:italic;color:rgba(255,255,255,.82);line-height:1.75;margin-bottom:1.4rem}
+    .tc-person{display:flex;align-items:center;gap:.7rem}
+    .tc-av{width:42px;height:42px;border-radius:50%;object-fit:cover;border:2px solid var(--yellow)}
+    .tc-name{font-family:var(--cond);font-size:.85rem;font-weight:700;color:#fff;text-transform:uppercase;letter-spacing:.05em}
+    .tc-role{font-size:.78rem;color:rgba(255,255,255,.45)}
+
+    /* Help */
+    #help{padding:5rem 1.5rem;background:#fff}
+    .help-hd{text-align:center;margin-bottom:3.5rem}
+    .help-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:1.75rem}
+    .hcard{border-radius:var(--rl);padding:2.75rem;display:flex;flex-direction:column;gap:1.4rem}
+    .hcard.seek{background:var(--sky)}
+    .hcard.give{background:var(--charcoal)}
+    .hcard h3{font-family:var(--serif);font-size:1.65rem;line-height:1.25}
+    .hcard.seek h3{color:var(--charcoal)}
+    .hcard.give h3{color:#fff}
+    .hcard p{line-height:1.8}
+    .hcard.seek p{color:rgba(40,41,36,.78)}
+    .hcard.give p{color:rgba(255,255,255,.7)}
+    .hcard ul{list-style:none;display:flex;flex-direction:column;gap:.55rem}
+    .hcard ul li{display:flex;gap:.55rem;font-size:.95rem;align-items:flex-start}
+    .hcard.seek ul li{color:var(--charcoal)}
+    .hcard.give ul li{color:rgba(255,255,255,.78)}
+    .hcard ul li::before{content:'✓';font-weight:700;flex-shrink:0;margin-top:2px}
+    .hcard.seek ul li::before{color:var(--charcoal)}
+    .hcard.give ul li::before{color:var(--yellow)}
+    .hcard-btns{display:flex;gap:1rem;flex-wrap:wrap;margin-top:auto}
+
+    /* Footer */
+    #footer{background:#191916;padding:4rem 1.5rem 2rem}
+    .foot-top{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:3rem;padding-bottom:3rem;border-bottom:1px solid rgba(255,255,255,.07);margin-bottom:2rem}
+    .foot-brand img{height:50px;margin-bottom:1.2rem}
+    .foot-brand p{font-size:.88rem;color:rgba(255,255,255,.45);line-height:1.7;margin-bottom:1.4rem}
+    .foot-seals{display:flex;gap:.75rem;flex-wrap:wrap}
+    .foot-seal{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.13);border-radius:5px;padding:.35rem .7rem;font-family:var(--cond);font-size:.65rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.45);display:flex;flex-direction:column;align-items:center;gap:2px;line-height:1.3}
+    .foot-seal .stars{color:var(--yellow);font-size:.6rem;letter-spacing:2px}
+    .foot-col h4{font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35);margin-bottom:1.1rem}
+    .foot-col ul{list-style:none;display:flex;flex-direction:column;gap:.55rem}
+    .foot-col ul li a{font-size:.88rem;color:rgba(255,255,255,.55);transition:var(--t)}
+    .foot-col ul li a:hover{color:var(--yellow)}
+    .foot-bot{max-width:var(--max);margin:0 auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem}
+    .foot-bot p{font-size:.78rem;color:rgba(255,255,255,.28)}
+
+    /* Donation modal */
+    .don-modal{max-width:500px}
+    .don-hero{width:100%;height:200px;object-fit:cover;object-position:top center;display:block;border-radius:var(--rl) var(--rl) 0 0;flex-shrink:0}
+    .don-freq{display:flex;gap:0;border:2px solid var(--stone);border-radius:8px;overflow:hidden;margin-bottom:1.5rem}
+    .don-freq-btn{flex:1;font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase;background:none;border:none;padding:.65rem .5rem;cursor:pointer;color:rgba(40,41,36,.45);transition:background .2s,color .2s;position:relative}
+    .don-freq-btn.act{background:var(--charcoal);color:#fff}
+    .don-freq-badge{display:inline-block;background:var(--yellow);color:var(--charcoal);font-size:.6rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:.15rem .45rem;border-radius:20px;margin-left:.4rem;vertical-align:middle}
+    .don-amounts{display:grid;grid-template-columns:repeat(4,1fr);gap:.5rem;margin-bottom:.75rem}
+    .don-amt{font-family:var(--cond);font-size:1.1rem;font-weight:800;background:var(--stone);border:2px solid transparent;border-radius:8px;padding:.7rem .5rem;cursor:pointer;color:var(--charcoal);transition:all .2s ease}
+    .don-amt:hover{border-color:var(--charcoal)}
+    .don-amt.act{background:var(--charcoal);color:#fff;border-color:var(--charcoal)}
+    .don-custom-wrap{position:relative;margin-bottom:1rem}
+    .don-dollar{position:absolute;left:.85rem;top:50%;transform:translateY(-50%);font-family:var(--cond);font-weight:700;color:rgba(40,41,36,.5);font-size:1rem}
+    .don-custom-wrap input{width:100%;padding:.65rem .85rem .65rem 1.8rem;border:2px solid var(--stone);border-radius:8px;font-family:var(--cond);font-size:1rem;font-weight:700;color:var(--charcoal);background:#fff;transition:border .2s;box-sizing:border-box}
+    .don-custom-wrap input:focus{outline:none;border-color:var(--charcoal)}
+    .don-impact{font-family:var(--serif);font-style:italic;font-size:.92rem;color:var(--charcoal);background:var(--stone);border-left:3px solid var(--yellow);padding:.65rem .9rem;border-radius:0 6px 6px 0;margin-bottom:1.25rem;line-height:1.6;min-height:2.8rem;transition:opacity .2s}
+    .don-row{display:grid;grid-template-columns:1fr 1fr;gap:.75rem}
+    .don-field{display:flex;flex-direction:column;gap:.35rem;margin-bottom:.75rem}
+    .don-field label{font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:rgba(40,41,36,.55)}
+    .don-field input{padding:.65rem .85rem;border:2px solid var(--stone);border-radius:8px;font-size:.95rem;color:var(--charcoal);transition:border .2s;background:#fff}
+    .don-field input:focus{outline:none;border-color:var(--charcoal)}
+    .don-ded{margin-bottom:1.25rem}
+    .don-ded-toggle{display:flex;align-items:center;gap:.55rem;cursor:pointer;font-family:var(--cond);font-size:.82rem;font-weight:600;color:rgba(40,41,36,.6)}
+    .don-ded-toggle input{accent-color:var(--charcoal);width:15px;height:15px}
+    .don-ded-input{width:100%;margin-top:.6rem;padding:.6rem .85rem;border:2px solid var(--stone);border-radius:8px;font-size:.9rem;color:var(--charcoal);box-sizing:border-box}
+    .don-submit{width:100%;font-size:1rem;padding:.9rem;margin-top:.5rem;justify-content:center}
+    .don-trust{font-size:.72rem;color:rgba(40,41,36,.42);text-align:center;margin-top:.85rem;display:flex;align-items:center;justify-content:center;gap:.4rem}
+    .don-success{text-align:center;padding:2rem 1rem}
+    .don-success-ic{width:64px;height:64px;background:var(--charcoal);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 1.25rem;color:var(--yellow);font-size:1.8rem}
+    .don-success h3{font-family:var(--serif);font-size:1.6rem;margin-bottom:.75rem}
+    .don-success p{color:rgba(40,41,36,.65);line-height:1.7;margin-bottom:1.5rem}
+
+    /* Modals */
+    .mbk{position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:5000;display:flex;align-items:center;justify-content:center;padding:1.5rem;opacity:0;pointer-events:none;transition:opacity .3s ease;backdrop-filter:blur(4px)}
+    .mbk.on{opacity:1;pointer-events:all}
+    .modal{background:#fff;border-radius:var(--rl);max-width:660px;width:100%;max-height:85vh;overflow-y:auto;transform:translateY(18px) scale(.97);transition:transform .3s ease;position:relative}
+    .mbk.on .modal{transform:none}
+    .mhd{padding:1.9rem 1.9rem 1.2rem;border-bottom:1px solid var(--border);display:flex;align-items:flex-start;justify-content:space-between;gap:1rem;position:sticky;top:0;background:#fff;z-index:1}
+    .m-title{font-family:var(--serif);font-size:1.45rem;color:var(--charcoal)}
+    .m-x{width:34px;height:34px;border-radius:50%;background:var(--stone);display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:var(--t);font-size:1.1rem;color:var(--muted)}
+    .m-x:hover{background:var(--red);color:#fff}
+    .mbody{padding:1.65rem 1.9rem 2rem}
+    .mbody h4{font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--sage-d);margin:1.4rem 0 .45rem}
+    .mbody h4:first-child{margin-top:0}
+    .mbody p{color:var(--muted);line-height:1.8;margin-bottom:.7rem}
+    .mbody ul{list-style:none;display:flex;flex-direction:column;gap:.45rem;margin-bottom:1rem}
+    .mbody ul li{display:flex;gap:.55rem;color:var(--muted);font-size:.95rem;line-height:1.6}
+    .mbody ul li::before{content:'→';color:var(--red);flex-shrink:0;font-weight:700}
+    .m-img{width:100%;height:190px;object-fit:cover;border-radius:var(--r);margin-bottom:1.4rem}
+    .m-cta{margin-top:1.9rem;display:flex;gap:1rem;flex-wrap:wrap}
+
+    /* Responsive */
+    @media(max-width:960px){
+      .about-g{grid-template-columns:1fr;gap:3rem}
+      .vid-wrap{order:-1}
+      .vid-thumb{max-width:220px}
+      .impact-g{grid-template-columns:repeat(2,1fr)}
+      .pillars-g{grid-template-columns:1fr;max-width:500px}
+      .heal-intro{grid-template-columns:1fr;gap:2rem}
+      .heal-photos{grid-template-columns:1fr 1fr;height:auto;grid-template-rows:180px 180px}
+      .heal-photos img:first-child{grid-column:1/-1}
+      .hsk-g{grid-template-columns:1fr}
+      .test-g{grid-template-columns:1fr}
+      .help-g{grid-template-columns:1fr}
+      .foot-top{grid-template-columns:1fr 1fr;gap:2rem}
+      .nav-links{display:none}
+      .ham{display:flex}
+    }
+    @media(max-width:600px){
+      .hero-c{margin-left:0}
+      .heal-photos{grid-template-columns:1fr;height:auto}
+      .heal-photos img{height:200px}
+      .heal-cta{flex-direction:column;align-items:flex-start}
+      .foot-top{grid-template-columns:1fr}
+      .foot-bot{flex-direction:column;text-align:center}
+    }
+  </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav id="nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-i">
+    <a href="index.html" class="nav-logo">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    </a>
+    <button class="ham" aria-label="Toggle menu" onclick="this.nextElementSibling.classList.toggle('open')">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links" id="navlinks">
+      <li><a href="#about">About</a></li>
+      <li><a href="#healing">Healing Groups</a></li>
+      <li><a href="#haskell">Haskell LIGHT</a></li>
+      <li><a href="#testimonials">Stories</a></li>
+      <li><a href="#videos">Videos</a></li>
+      <li><a href="healing-groups.html">Find a Group</a></li>
+    </ul>
+    <button onclick="openModal('m-donate')" class="nav-give">Donate</button>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section id="hero" aria-label="Hero">
+  <div class="hero-bg">
+    <video autoplay muted loop playsinline aria-hidden="true">
+      <source src="https://res.cloudinary.com/dsbllwpbh/video/upload/v1773678183/cross-tepee-zoom-in_xxrmpc.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="hero-c">
+    <span class="hero-eye">Native-Led Ministry Since 1985</span>
+    <h1 class="hero-h1">Where <em>Faith</em> Meets Tradition.<br>Where Healing Begins.</h1>
+    <p class="hero-sub">A Native-led ministry proclaiming the Gospel, discipling leaders, and healing generations of trauma across 574 tribal communities.</p>
+    <div class="hero-ctas">
+      <a href="healing-groups.html" class="btn btn-sky">Find a Healing Group</a>
+      <button onclick="openModal('m-donate')" class="btn btn-red">Partner With Us</button>
+      <a href="#about" class="btn btn-olw">Watch Our Story</a>
+    </div>
+  </div>
+  <div class="hero-scroll" aria-hidden="true">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+    <span>Scroll</span>
+  </div>
+</section>
+
+<!-- About / Video -->
+<section id="about" style="background:var(--charcoal);padding:5rem 1.5rem" aria-label="About LIM">
+  <div class="about-g">
+    <div class="fi">
+      <span class="lbl about-lbl">Our Story</span>
+      <h2 class="h2 about-h2">God Is Building Something <em style="color:var(--yellow)">Lasting</em></h2>
+      <blockquote class="about-q">"There is a place where faith meets tradition, where God's healing touches the deepest wounds, and where hope rises from generations of silence. That place… is Lutheran Indian Ministries."</blockquote>
+      <p class="about-p" style="color:rgba(255,255,255,.5);font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin-bottom:1.2rem">— Robert Heffle, Executive Director (Iñupiat Eskimo)</p>
+      <p class="about-p">Our mission is to proclaim the Gospel of Jesus Christ with Native people — training Native leaders, nurturing healing, and witnessing Christ-centered growth. We are led by Native people who know the stories, the traditions, the culture, and the humor.</p>
+      <p class="about-p">We don't show up with answers. We arrive with open hearts, traveling by small plane, boat, and snowmachine — by invitation, guided by tribal protocol and cultural humility.</p>
+      <div class="about-btns">
+        <button class="btn btn-olw" onclick="openModal('m-about')">Our Mission &amp; Vision</button>
+        <a href="#pillars" class="btn btn-sky">Our Three Pillars</a>
+      </div>
+    </div>
+    <div class="vid-wrap fi">
+      <div class="vid-thumb" role="button" tabindex="0" aria-label="Watch Our Story — click to play full video"
+        onclick="openVid()" onkeydown="if(event.key==='Enter')openVid()"
+        onmouseenter="vidHover(this,true)" onmouseleave="vidHover(this,false)">
+        <video class="vid-preview" muted playsinline preload="auto" loop>
+          <source src="https://player.vimeo.com/progressive_redirect/playback/1125923234/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=d5c9c10bfb465c09533496149bc3b735afd8f6865a31f89f7990f69a18057cd2" type="video/mp4">
+        </video>
+        <div class="vid-play" aria-hidden="true">
+          <div class="vid-play-ic">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="var(--charcoal)"><polygon points="8,5 20,12 8,19"/></svg>
+          </div>
+          <span class="vid-play-lbl">Watch Our Story</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Impact Bar -->
+<section id="impact" aria-label="Impact statistics">
+  <div class="impact-g">
+    <div class="fi"><span class="i-num" data-target="574">0</span><span class="i-lbl">Federally Recognized Tribes</span></div>
+    <div class="fi" style="transition-delay:.1s"><span class="i-num" data-target="390">0</span><span class="i-lbl">Scriptures Per Healing Group</span></div>
+    <div class="fi" style="transition-delay:.2s"><span class="i-num" data-target="16">0</span><span class="i-lbl">Hours of Healing Training</span></div>
+    <div class="fi" style="transition-delay:.3s"><span class="i-num" data-target="40">0</span><span class="i-lbl">Years of Native Ministry</span></div>
+  </div>
+</section>
+
+<!-- Three Pillars -->
+<section id="pillars" aria-label="Three pillars of ministry">
+  <div class="pillars-hd wrap fi">
+    <span class="lbl" style="display:block;text-align:center">How We Serve</span>
+    <h2 class="h2" style="text-align:center">Three Pillars of Ministry</h2>
+    <p class="intro" style="text-align:center">Everything LIM does flows from three deeply integrated commitments — each one reinforcing the others in a whole-life approach to Gospel ministry.</p>
+  </div>
+  <div class="pillars-g wrap">
+    <article class="pc fi">
+      <div class="pc-img"><img src="images-master/prayer-people-circle-outside.jpg" alt="People praying in a circle outside" loading="lazy"></div>
+      <div class="pc-body">
+        <span class="pc-n">Pillar 01</span>
+        <h3 class="pc-title">Proclaim</h3>
+        <p>Sharing the Gospel in culturally grounded ways — honoring Native traditions as vessels of God's grace. God speaks in Native tongues to Native hearts.</p>
+        <button class="pc-more" onclick="openModal('m-proclaim')">Learn More <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg></button>
+      </div>
+    </article>
+    <article class="pc fi" style="transition-delay:.1s">
+      <div class="pc-img"><img src="images-master/people-haskell-man-drum.jpg" alt="Haskell student with drum" loading="lazy"></div>
+      <div class="pc-body">
+        <span class="pc-n">Pillar 02</span>
+        <h3 class="pc-title">Disciple</h3>
+        <p>Developing Native leaders through campus ministry at Haskell Indian Nations University — a home away from home for students from 130+ tribes.</p>
+        <button class="pc-more" onclick="openModal('m-disciple')">Learn More <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg></button>
+      </div>
+    </article>
+    <article class="pc fi" style="transition-delay:.2s">
+      <div class="pc-img"><img src="images-master/people-women-prayer-before-cross.jpg" alt="Women praying before the cross at a healing group" loading="lazy"></div>
+      <div class="pc-body">
+        <span class="pc-n">Pillar 03</span>
+        <h3 class="pc-title">Heal</h3>
+        <p>Healing the Wounds of Trauma — a life-changing, scripture-based program addressing generational trauma, grief, and loss in the safety of community.</p>
+        <button class="pc-more" onclick="openModal('m-heal')">Learn More <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg></button>
+      </div>
+    </article>
+  </div>
+</section>
+
+<!-- Healing Wounds of Trauma -->
+<section id="healing" aria-label="Healing the Wounds of Trauma">
+  <!-- Intro -->
+  <div class="heal-intro wrap fi">
+    <div>
+      <span class="lbl">Our Most Impactful Program</span>
+      <h2 class="h2">Healing the Wounds<br>of Trauma</h2>
+      <p class="intro" style="max-width:100%">A Bible-based small group program grounded in the American Bible Society model — led by Native facilitators, supported by prayer warriors, and open to everyone 18 and older regardless of faith background.</p>
+      <div class="heal-stats">
+        <div><span class="hs-n">16</span><span class="hs-l">Hours</span></div>
+        <div><span class="hs-n">6</span><span class="hs-l">Core Sessions</span></div>
+        <div><span class="hs-n">390</span><span class="hs-l">Scriptures</span></div>
+        <div><span class="hs-n">18+</span><span class="hs-l">All Welcome</span></div>
+      </div>
+      <p style="color:var(--muted);line-height:1.8">No pressure, no force. You come as you are and leave when the time is right. The Holy Spirit does the heavy lifting.</p>
+    </div>
+    <div class="heal-quote-box">
+      <p class="heal-bq">I got to let go of hurts and disappointments that I've experienced in my entire life. And talk about freedom. Oh, the freedom. I have a hard time putting into words how you feel so much lighter — how you feel so not shackled anymore.</p>
+      <p class="heal-attr">— Roberta (Kitirak), Ministry Coordinator &amp; Healing Group Participant<br>Anchorage, Alaska</p>
+    </div>
+  </div>
+  <!-- Photos -->
+  <div class="heal-photos wrap fi">
+    <img src="images-master/people-lame-deer-women-tipi-healing-retreat.jpg" alt="Women's healing retreat inside a tipi at Lame Deer" loading="lazy">
+    <img src="images-master/people-healing-embrace.jpg" alt="Two people embracing at a healing session" loading="lazy">
+    <img src="images-master/place-lame-deer-tipi-altar-cross.jpg" alt="Cross on altar inside a tipi" loading="lazy">
+  </div>
+  <!-- Session Accordion -->
+  <div class="acc-wrap fi">
+    <div class="acc-hd">
+      <span class="lbl" style="display:block;text-align:center">Inside the Program</span>
+      <h3 class="h2" style="text-align:center;font-size:1.7rem">What Happens in a Healing Group?</h3>
+      <p style="text-align:center;color:var(--muted);max-width:560px;margin:.75rem auto 0">Six core sessions over 16 hours walk participants through scripture and personal reflection. Each session builds on the last.</p>
+    </div>
+    <div class="acc-list">
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">1</span><span class="acc-q">If God Loves Us, Why Do We Suffer?</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>Perhaps the most honest question we carry. This session doesn't avoid it — scripture reveals that God is present <em>in</em> suffering, not absent from it. Participants discover that their pain is not a sign of abandonment, but of a God who weeps with them.</p></div></div>
+      </div>
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">2</span><span class="acc-q">What Is a Wound of the Heart?</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>Heart wounds can begin in childhood, young adulthood, or today. This session helps participants name and understand their wounds — from abuse and loss to historical trauma. Naming the wound is the first step toward healing it.</p></div></div>
+      </div>
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">3</span><span class="acc-q">What Can Help Our Heart Wounds Heal?</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>Practical, scripture-based tools for the healing journey. Participants discover that healing is a process supported by community, prayer, and God's Word. Exercises move understanding from the head to the heart — which is where lasting change happens.</p></div></div>
+      </div>
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">4</span><span class="acc-q">What Happens When Someone Is Grieving?</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>A compassionate look at what grief actually looks like — and where people get stuck. When Roberta learned that <em>Jesus wept</em>, it gave her permission to feel. Understanding grief and knowing you don't have to stay stuck is profoundly freeing.</p></div></div>
+      </div>
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">5</span><span class="acc-q">Bringing Our Pain to the Cross &amp; Forgiving Others</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>One of the most powerful — and most difficult — sessions. Participants are gently led through releasing pain and beginning the journey of forgiving others. There is no force, no timeline. You go only where you are ready to go, supported by the community around you.</p></div></div>
+      </div>
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">6</span><span class="acc-q">Looking Back, Looking Forward — Closing with Hope</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>The closing session brings everything together — looking back at the journey and forward with hope. Participants also begin seeing how they can share this with their own communities. The healing group is not a one-and-done; it's the beginning of a lifelong journey.</p></div></div>
+      </div>
+    </div>
+    <p style="text-align:center;margin-top:1.25rem;color:var(--muted);font-size:.88rem"><em>Over 390 scriptures woven throughout all six sessions using the Restoring Hope Bible.</em></p>
+  </div>
+  <!-- Prayer Warrior accordion -->
+  <div class="acc-wrap fi" style="margin-bottom:3.5rem">
+    <div class="acc-list" style="background:var(--stone)">
+      <div class="acc-item" style="background:var(--stone)">
+        <button class="acc-btn" style="background:var(--stone)" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left">
+            <span class="acc-num" style="background:var(--sage-d);font-size:.7rem">✦</span>
+            <span class="acc-q">What Is a Prayer Warrior? How Is Prayer Woven Into Every Session?</span>
+          </div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body">
+          <div class="acc-inner" style="background:var(--stone)">
+            <p>A Prayer Warrior is someone who has been through the healing group process and wants to support others without facilitating directly. They pray — before, during, and after every session — for every participant, for those who couldn't attend, and for the facilitators and host church.</p>
+            <p>No one is missed. Prayer Warriors also serve as a private resource: if someone needs to talk outside the group setting, a Prayer Warrior is there. Every healing group is fully prayed up before it begins.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- CTA bar -->
+  <div class="heal-cta wrap fi">
+    <div>
+      <h3>Ready to Begin?</h3>
+      <p>Sessions held on reservations, in villages, in cities. In-person and online. Lunch provided at in-person sessions. All are welcome — no faith background required.</p>
+    </div>
+    <div class="heal-cta-btns">
+      <a href="healing-groups.html" class="btn btn-sky">Find a Healing Group</a>
+      <a href="healing-groups.html#facilitator" class="btn btn-olw">Become a Facilitator</a>
+    </div>
+  </div>
+</section>
+
+<!-- Medicine Wheel Divider -->
+<div class="mw-div" aria-hidden="true">
+  <img src="generated_imgs/thing-medicine-wheel-cross-center.png" alt="">
+  <p>Proclaim · Disciple · Heal</p>
+</div>
+
+<!-- Haskell LIGHT -->
+<section id="haskell" aria-label="Haskell LIGHT campus ministry">
+  <div class="hsk-g wrap">
+    <div class="hsk-media fi">
+      <div class="hsk-hero"><img src="images-master/people-women-flowers-haskell.jpg" alt="Students at Haskell Indian Nations University" loading="lazy"></div>
+      <div class="hsk-row">
+        <div><img src="images-master/thing-haskell-light-logo.jpg" alt="Haskell LIGHT logo" loading="lazy"></div>
+        <div><img src="images-master/people-haskell-graduation-ceremony.jpg" alt="Haskell graduation celebration" loading="lazy"></div>
+      </div>
+    </div>
+    <div class="fi" style="transition-delay:.1s">
+      <span class="lbl">Discipleship · Campus Ministry</span>
+      <h2 class="h2">Haskell LIGHT</h2>
+      <p style="color:var(--muted);line-height:1.8;margin-bottom:.9rem">At Haskell Indian Nations University in Lawrence, Kansas — home to students from 130+ tribes — our campus ministry center is more than a gathering place. It's a home away from home.</p>
+      <blockquote class="hsk-q">Leo is Keetowah Cherokee and Western Shoshone. One day he asked Pola for a Bible — and shared it on social media. Leo began reading and didn't stop. Today, Leo is walking a new path, guided by faith.</blockquote>
+      <p style="color:var(--muted);line-height:1.8">Students come for meals and quilts, but stay for something deeper. A Bible study. A conversation. A reminder: <strong>"You don't have to change to be loved by God."</strong></p>
+      <div class="acc-list" style="margin-top:1.75rem">
+        <div class="acc-item">
+          <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+            <div class="acc-left"><span class="acc-num" style="width:auto;border-radius:4px;padding:0 6px;font-size:.7rem">♀</span><span class="acc-q">Sister 2 Sister — Women's Ministry</span></div>
+            <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </button>
+          <div class="acc-body"><div class="acc-inner"><p>A safe circle for Native women students to share, pray, and grow together. Sister 2 Sister builds deep relational trust through shared faith and cultural identity — reminding each woman she is seen, known, and loved.</p></div></div>
+        </div>
+        <div class="acc-item">
+          <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+            <div class="acc-left"><span class="acc-num" style="width:auto;border-radius:4px;padding:0 6px;font-size:.7rem">♂</span><span class="acc-q">Real Warriors — Men's Ministry</span></div>
+            <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </button>
+          <div class="acc-body"><div class="acc-inner"><p>Real Warriors redefines strength for Native men — grounding true warrior identity in faith, responsibility, and community. A space for men to be vulnerable, honest, and held accountable in love.</p></div></div>
+        </div>
+        <div class="acc-item">
+          <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+            <div class="acc-left"><span class="acc-num" style="width:auto;border-radius:4px;padding:0 6px;font-size:.7rem">★</span><span class="acc-q">Champions in Training — All Students</span></div>
+            <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </button>
+          <div class="acc-body"><div class="acc-inner"><p>Leadership development rooted in biblical principles for all Haskell students. What starts as comfort becomes a calling — and we walk with students every step of the way.</p></div></div>
+        </div>
+      </div>
+      <div class="hsk-btns">
+        <button class="btn btn-red" onclick="openModal('m-disciple')">Support Haskell LIGHT</button>
+        <a href="#donate" class="btn btn-ol">Give to Campus Ministry</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Testimonials -->
+<section id="testimonials" aria-label="Stories of transformation">
+  <div class="wrap">
+    <div class="test-hd fi">
+      <span class="lbl" style="color:rgba(255,255,255,.4);display:block;text-align:center">Testimonials</span>
+      <h2 class="h2" style="color:#fff;text-align:center">Stories of Transformation</h2>
+    </div>
+    <div class="test-g">
+      <article class="tc fi">
+        <p class="tc-text">I got to let go of hurts and disappointments from my entire life. And talk about freedom. I feel so much lighter — not shackled anymore. I'm so thankful I said yes. I wish I could have done this decades ago.</p>
+        <div class="tc-person">
+          <img class="tc-av" src="images-master/people-healing-embrace.jpg" alt="Healing moment" loading="lazy">
+          <div><div class="tc-name">Roberta (Kitirak)</div><div class="tc-role">Ministry Coordinator · Anchorage, AK</div></div>
+        </div>
+      </article>
+      <article class="tc fi" style="transition-delay:.1s">
+        <p class="tc-text">"This was the first time I felt God's Word speak to my pain." We don't promise quick fixes — but we create safe spaces where people can gather, share, and heal while holding onto hope that only God's Word can give.</p>
+        <div class="tc-person">
+          <img class="tc-av" src="images-master/robert-talking.jpg" alt="Robert Heffle" loading="lazy">
+          <div><div class="tc-name">Robert Heffle</div><div class="tc-role">Executive Director · Iñupiat Eskimo</div></div>
+        </div>
+      </article>
+      <article class="tc fi" style="transition-delay:.2s">
+        <p class="tc-text">Can you imagine what it would be like if all our communities could be that helper to one another — scripture-rooted, safe, not judging, not forcing? Just coming from that place of love and grace. That is what this is.</p>
+        <div class="tc-person">
+          <img class="tc-av" src="images-master/people-women-prayer-before-cross.jpg" alt="Healing group" loading="lazy">
+          <div><div class="tc-name">Roberta, Trained Facilitator</div><div class="tc-role">Healing the Wounds of Trauma</div></div>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- Video Gallery -->
+<section id="videos" aria-label="Video library" onmouseenter="vgStopAuto()" ontouchstart="vgStopAuto()">
+  <div class="vids-hd fi">
+    <span class="lbl" style="color:rgba(255,255,255,.35)">Watch &amp; Listen</span>
+    <h2 class="h2" style="color:#fff;margin-top:.3rem">Videos</h2>
+  </div>
+  <div class="vids-tabs" id="vids-tabs" role="tablist" aria-label="Video categories"></div>
+  <div id="vids-panels"></div>
+</section>
+
+<!-- How You Can Help -->
+<section id="help" aria-label="How you can help">
+  <div class="wrap">
+    <div class="help-hd fi">
+      <span class="lbl" style="display:block;text-align:center">Two Paths to Engage</span>
+      <h2 class="h2" style="text-align:center">How Can We Walk Together?</h2>
+    </div>
+    <div class="help-g">
+      <div class="hcard seek fi">
+        <div style="font-size:2.25rem">🕊️</div>
+        <h3>Are You Seeking Healing?</h3>
+        <p>You don't have to carry this alone. Healing Groups are open, safe, and led by people who understand the journey from the inside.</p>
+        <ul>
+          <li>Free to attend — ages 18+</li>
+          <li>No faith background required</li>
+          <li>In-person and online options</li>
+          <li>Held on reservations, in villages and cities</li>
+          <li>Lunch provided at in-person sessions</li>
+          <li>Confidential and community-supported</li>
+        </ul>
+        <div class="hcard-btns">
+          <a href="healing-groups.html" class="btn btn-ol">Find a Healing Group →</a>
+        </div>
+      </div>
+      <div id="donate" class="hcard give fi" style="transition-delay:.1s">
+        <div style="font-size:2.25rem">🤝</div>
+        <h3>Ready to Fuel the Mission?</h3>
+        <p>Your partnership makes it possible for LIM to reach every tribe, train every facilitator, and hold every healing group.</p>
+        <ul>
+          <li>Monthly giving sustains year-round ministry</li>
+          <li>One-time gifts fund specific programs</li>
+          <li>Gifts of stock, IRA, and DAFs welcomed</li>
+          <li>3-Star Charity Navigator rated</li>
+          <li>GuideStar Platinum transparency</li>
+          <li>Every gift is tax-deductible</li>
+        </ul>
+        <div class="hcard-btns">
+          <button onclick="openModal('m-donate')" class="btn btn-red">Give Now</button>
+          <button class="btn btn-olw" onclick="openModal('m-giving')">Ways to Give</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+  <div class="foot-top">
+    <div class="foot-brand">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+      <p>A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.</p>
+      <div class="foot-seals">
+        <div class="foot-seal"><span class="stars">★★★</span><span>Charity Navigator</span></div>
+        <div class="foot-seal"><span>⬡</span><span>GuideStar Platinum</span></div>
+      </div>
+    </div>
+    <div class="foot-col">
+      <h4>Ministry</h4>
+      <ul>
+        <li><a href="#pillars">Three Pillars</a></li>
+        <li><a href="#healing">Healing Wounds of Trauma</a></li>
+        <li><a href="#haskell">Haskell LIGHT</a></li>
+        <li><a href="#about">About LIM</a></li>
+      </ul>
+    </div>
+    <div class="foot-col">
+      <h4>Get Involved</h4>
+      <ul>
+        <li><a href="healing-groups.html">Find a Healing Group</a></li>
+        <li><a href="healing-groups.html#facilitator">Become a Facilitator</a></li>
+        <li><a href="#" onclick="openModal('m-donate');return false">Donate</a></li>
+        <li><a href="#" onclick="openModal('m-giving');return false">Ways to Give</a></li>
+      </ul>
+    </div>
+    <div class="foot-col">
+      <h4>Contact</h4>
+      <ul>
+        <li><a href="tel:2624395663">(262) 439-5663</a></li>
+        <li><a href="tel:2627835267">(262) 783-5267</a></li>
+        <li><a href="mailto:info@lutheranindianministries.org">Email LIM</a></li>
+        <li><a href="https://www.lutheranindianministries.org" target="_blank" rel="noopener">Official Website</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="foot-bot">
+    <p>© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · All Rights Reserved</p>
+  </div>
+</footer>
+
+<!-- ═══════════ MODALS ═══════════ -->
+
+<!-- Donation Modal -->
+<div id="m-donate" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-donate-t">
+  <div class="modal don-modal">
+    <img src="images-master/people-boy-purple-flower.jpg" alt="" class="don-hero" aria-hidden="true">
+    <div class="mhd">
+      <h2 class="m-title" id="m-donate-t">Partner With Us</h2>
+      <button class="m-x" onclick="closeModal('m-donate')" aria-label="Close">✕</button>
+    </div>
+    <div class="mbody">
+
+      <!-- Frequency toggle -->
+      <div class="don-freq" role="group" aria-label="Gift frequency">
+        <button class="don-freq-btn act" data-freq="one-time" onclick="donFreq(this)">One-Time</button>
+        <button class="don-freq-btn" data-freq="monthly" onclick="donFreq(this)">
+          Monthly <span class="don-freq-badge">Most Impact</span>
+        </button>
+      </div>
+
+      <!-- Preset amounts -->
+      <div class="don-amounts" role="group" aria-label="Select gift amount">
+        <button class="don-amt" data-amt="25"  onclick="donAmt(this)">$25</button>
+        <button class="don-amt" data-amt="50"  onclick="donAmt(this)">$50</button>
+        <button class="don-amt act" data-amt="100" onclick="donAmt(this)">$100</button>
+        <button class="don-amt" data-amt="250" onclick="donAmt(this)">$250</button>
+      </div>
+
+      <!-- Custom amount -->
+      <div class="don-custom-wrap">
+        <span class="don-dollar">$</span>
+        <input id="don-custom-input" type="number" min="1" placeholder="Other amount" oninput="donCustom(this)" aria-label="Custom gift amount">
+      </div>
+
+      <!-- Impact message -->
+      <p id="don-impact" class="don-impact">$100 sponsors a full healing group participant — all 6 sessions, rooted in God's Word.</p>
+
+      <!-- Netlify form -->
+      <form id="don-form" name="donation" method="POST" data-netlify="true" onsubmit="donSubmit(event)" netlify>
+        <input type="hidden" name="form-name" value="donation">
+        <input type="hidden" name="frequency" id="don-freq-val" value="one-time">
+        <input type="hidden" name="amount"    id="don-amt-val"  value="100">
+
+        <div class="don-row">
+          <div class="don-field">
+            <label for="don-first">First Name *</label>
+            <input type="text" id="don-first" name="first-name" required placeholder="First">
+          </div>
+          <div class="don-field">
+            <label for="don-last">Last Name *</label>
+            <input type="text" id="don-last" name="last-name" required placeholder="Last">
+          </div>
+        </div>
+        <div class="don-field">
+          <label for="don-email">Email *</label>
+          <input type="email" id="don-email" name="email" required placeholder="you@example.com">
+        </div>
+
+        <div class="don-ded">
+          <label class="don-ded-toggle">
+            <input type="checkbox" id="don-ded-chk" onchange="donDedicate(this)">
+            <span>Dedicate this gift (in honor or memory of someone)</span>
+          </label>
+          <div id="don-ded-body" style="display:none">
+            <input type="text" name="dedication" class="don-ded-input" placeholder="In honor / memory of…">
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-red don-submit">
+          Give <span id="don-submit-lbl">$100</span> Now
+        </button>
+        <p class="don-trust">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          Secure &amp; encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
+        </p>
+      </form>
+
+      <!-- Success state -->
+      <div id="don-success" style="display:none" class="don-success">
+        <div class="don-success-ic">✓</div>
+        <h3>Thank You!</h3>
+        <p>Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.</p>
+        <button class="btn btn-ol" onclick="closeModal('m-donate')">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- Video Modal -->
+<div id="m-video" class="mbk" role="dialog" aria-modal="true" aria-label="Our Story video">
+  <div class="modal" style="position:relative">
+    <button class="vid-close" onclick="closeVid()" aria-label="Close video">✕</button>
+    <video id="vid-player" controls playsinline preload="none" src="" aria-label="Video player"></video>
+  </div>
+</div>
+
+<!-- About -->
+<div id="m-about" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-about-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-about-t">Our Mission &amp; Vision</h2><button class="m-x" onclick="closeModal('m-about')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <img class="m-img" src="images-master/robert-talking.jpg" alt="Robert Heffle, Executive Director">
+      <h4>Our Mission</h4>
+      <p>Lutheran Indian Ministries shares the Gospel of Jesus Christ with Native people, encouraging them to proclaim Christ's Kingdom. We train Native leaders, nurture healing, and witness Christ-centered growth.</p>
+      <h4>Our Vision</h4>
+      <p>That one day, all nations will walk together in the light of Christ — restored, thriving, and sharing the cultural heritage God gave them.</p>
+      <h4>Core Belief</h4>
+      <p>All healing comes from God. Love is an action, not just an emotion. We listen before we speak, walk beside, and build relationships rooted in trust — not transactions.</p>
+      <h4>Native Led</h4>
+      <p>LIM is led by Native people who know the stories, the traditions, the culture, and the humor. With 574 federally recognized tribes in the U.S. — 229 in Alaska alone — we travel by small plane, boat, and snowmachine to reach every community God calls us to serve.</p>
+      <div class="m-cta">
+        <a href="#pillars" class="btn btn-red" onclick="closeModal('m-about')">Our Three Pillars</a>
+        <button class="btn btn-ol" onclick="closeModal('m-about');openModal('m-donate')">Partner With Us</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Proclaim -->
+<div id="m-proclaim" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-proclaim-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-proclaim-t">Pillar 01 — Proclaim</h2><button class="m-x" onclick="closeModal('m-proclaim')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <img class="m-img" src="images-master/prayer-people-circle-outside.jpg" alt="Community prayer circle outdoors">
+      <h4>The Gospel in Native Voices</h4>
+      <p>We share the Gospel through culturally context-specific ways that honor Native epistemologies: oral tradition, storytelling, and visual metaphors that resonate with how Native communities have always understood the world.</p>
+      <h4>Christ, the Bridge</h4>
+      <p>LIM's conviction: God speaks in Native tongues to Native hearts. Faith in Christ does not require abandoning Indigenous identity. Native traditions are vessels of God's grace — not obstacles to faith.</p>
+      <h4>How We Proclaim</h4>
+      <ul>
+        <li>Outreach visits by invitation, guided by tribal protocol and cultural humility</li>
+        <li>Traveling by small plane, boat, and snowmachine to reach remote communities</li>
+        <li>Sacred Connections Podcast — sharing the Gospel through story</li>
+        <li>Partnership with local churches and Native leaders across 574 tribes</li>
+      </ul>
+      <div class="m-cta"><button class="btn btn-red" onclick="closeModal('m-proclaim');openModal('m-donate')">Support Gospel Outreach</button></div>
+    </div>
+  </div>
+</div>
+
+<!-- Disciple -->
+<div id="m-disciple" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-disciple-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-disciple-t">Pillar 02 — Disciple</h2><button class="m-x" onclick="closeModal('m-disciple')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <img class="m-img" src="images-master/people-haskell-man-drum.jpg" alt="Haskell student with drum">
+      <h4>Haskell LIGHT Campus Ministry</h4>
+      <p>At Haskell Indian Nations University in Lawrence, Kansas — the only federally operated tribal university in the country — our campus ministry serves students from more than 130 tribes. Students come for meals and quilts, but stay for something deeper.</p>
+      <h4>Leo's Story</h4>
+      <p>Leo is Keetowah Cherokee and Western Shoshone. He visited our campus center and met Pola Farve — Haskell LIGHT Director and a Haskell graduate herself. One day, Leo asked Pola for a Bible. Touched by the moment, he shared it on social media. Leo began reading — and didn't stop. Today, Leo walks a new path, guided by faith.</p>
+      <h4>Campus Programs</h4>
+      <ul>
+        <li><strong>Sister 2 Sister</strong> — Faith and belonging for Native women</li>
+        <li><strong>Real Warriors</strong> — Biblical leadership and brotherhood for Native men</li>
+        <li><strong>Champions in Training</strong> — Leadership for all students</li>
+        <li>Home-cooked meals, quilts, Bible study, and one-on-one discipleship</li>
+      </ul>
+      <div class="m-cta"><button class="btn btn-red" onclick="closeModal('m-disciple');openModal('m-donate')">Support Haskell LIGHT</button></div>
+    </div>
+  </div>
+</div>
+
+<!-- Heal -->
+<div id="m-heal" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-heal-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-heal-t">Pillar 03 — Heal</h2><button class="m-x" onclick="closeModal('m-heal')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <img class="m-img" src="images-master/people-women-prayer-before-cross.jpg" alt="Women praying before the cross">
+      <h4>Healing the Wounds of Trauma</h4>
+      <p>For generations, Native communities have carried the weight of trauma — boarding schools, family separation, cultural erasure, and abuse. Healing the Wounds of Trauma addresses these wounds directly, through scripture, community, and the love of God.</p>
+      <h4>The Program</h4>
+      <ul>
+        <li>16 hours across 2–3 days, 6 core sessions</li>
+        <li>American Bible Society Trauma Healing Institute model</li>
+        <li>390+ scripture references using the Restoring Hope Bible</li>
+        <li>Led by trained Native facilitators; supported by Prayer Warriors</li>
+        <li>All welcome — no faith background required · Ages 18+</li>
+        <li>Held on reservations, in villages, cities — in-person and online</li>
+      </ul>
+      <h4>Become a Facilitator</h4>
+      <p>From the beginning, participants are equipped to share with others. Trained facilitators take these tools back to their own communities — creating a ripple effect of healing across generations.</p>
+      <div class="m-cta">
+        <a href="healing-groups.html" class="btn btn-sky" onclick="closeModal('m-heal')">Find a Healing Group</a>
+        <a href="healing-groups.html#facilitator" class="btn btn-ol" onclick="closeModal('m-heal')">Become a Facilitator</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Ways to Give -->
+<div id="m-giving" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-giving-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-giving-t">Ways to Give</h2><button class="m-x" onclick="closeModal('m-giving')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <h4>Online Giving</h4>
+      <p>Secure online giving with credit/debit card, Apple Pay, and Google Pay. Set up monthly recurring giving to provide sustained support year-round.</p>
+      <h4>Gifts of Stock</h4>
+      <p>Transferring appreciated securities is one of the most tax-efficient ways to give. Contact us to initiate a stock transfer directly to LIM's brokerage account.</p>
+      <h4>Donor Advised Funds (DAFs)</h4>
+      <p>Recommend a grant from your DAF to Lutheran Indian Ministries. Our EIN is available upon request.</p>
+      <h4>IRA Qualified Charitable Distribution</h4>
+      <p>If you are 70½ or older, you may make a tax-free gift directly from your IRA to LIM — up to $100,000 per year.</p>
+      <h4>Planned Giving &amp; Legacy Gifts</h4>
+      <p>Include LIM in your will or trust and ensure Native Gospel ministry for generations to come. Contact us to discuss options.</p>
+      <h4>By Mail</h4>
+      <p>Checks payable to <strong>Lutheran Indian Ministries</strong> · Brookfield, WI · Call (262) 439-5663 for mailing address.</p>
+      <div class="m-cta">
+        <button class="btn btn-red" onclick="closeModal('m-giving');openModal('m-donate')">Give Online Now</button>
+        <a href="tel:2624395663" class="btn btn-ol">Call to Give</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Video thumbnail — paint first frame on load
+  (function(){
+    var v=document.querySelector('.vid-preview');
+    if(!v)return;
+    v.addEventListener('loadeddata',function(){v.currentTime=0.001;},{once:true});
+  })();
+  function vidHover(el,on){
+    var v=el.querySelector('.vid-preview');
+    if(on){v.play();}else{v.pause();v.currentTime=0.001;}
+  }
+  var VID_ABOUT_URL='https://player.vimeo.com/progressive_redirect/playback/1125923234/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=d5c9c10bfb465c09533496149bc3b735afd8f6865a31f89f7990f69a18057cd2';
+  function openVidModal(url,title){
+    var v=document.getElementById('vid-player');
+    v.pause();v.src=url;v.load();
+    v.setAttribute('aria-label',title||'Video player');
+    openModal('m-video');
+    v.play().catch(function(){});
+  }
+  function openVid(){openVidModal(VID_ABOUT_URL,'About LIM');}
+  function closeVid(){
+    var v=document.getElementById('vid-player');
+    v.pause();v.currentTime=0;v.src='';
+    closeModal('m-video');
+  }
+
+  // Modals
+  function openModal(id){
+    document.getElementById(id).classList.add('on');
+    document.body.style.overflow='hidden';
+  }
+  function closeModal(id){
+    document.getElementById(id).classList.remove('on');
+    document.body.style.overflow='';
+  }
+  document.querySelectorAll('.mbk').forEach(b=>{
+    b.addEventListener('click',e=>{
+      if(e.target===b){
+        if(b.id==='m-video')closeVid();
+        else closeModal(b.id);
+      }
+    });
+  });
+  document.addEventListener('keydown',e=>{
+    if(e.key==='Escape')document.querySelectorAll('.mbk.on').forEach(m=>{if(m.id==='m-video')closeVid();else closeModal(m.id);});
+  });
+
+  // Accordion
+  function acc(btn){
+    const body=btn.closest('.acc-item').querySelector('.acc-body');
+    const open=btn.classList.contains('open');
+    btn.closest('.acc-list').querySelectorAll('.acc-btn.open').forEach(b=>{
+      if(b!==btn){b.classList.remove('open');b.setAttribute('aria-expanded','false');b.closest('.acc-item').querySelector('.acc-body').style.maxHeight='0';}
+    });
+    if(open){btn.classList.remove('open');btn.setAttribute('aria-expanded','false');body.style.maxHeight='0';}
+    else{btn.classList.add('open');btn.setAttribute('aria-expanded','true');body.style.maxHeight=body.scrollHeight+'px';}
+  }
+
+  // Fade in
+  const fi=new IntersectionObserver(entries=>{
+    entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('vis');fi.unobserve(e.target);}});
+  },{threshold:.1});
+  document.querySelectorAll('.fi').forEach(el=>fi.observe(el));
+
+  // Counters
+  function runCounter(el){
+    const t=+el.dataset.target,d=1800,s=t/(d/16);
+    let c=0;
+    const id=setInterval(()=>{c=Math.min(c+s,t);el.textContent=Math.round(c).toLocaleString();if(c>=t)clearInterval(id);},16);
+  }
+  const co=new IntersectionObserver(entries=>{
+    entries.forEach(e=>{
+      if(e.isIntersecting){
+        e.target.querySelectorAll('[data-target]').forEach(runCounter);
+        co.unobserve(e.target);
+      }
+    });
+  },{threshold:.4});
+  const imp=document.getElementById('impact');
+  if(imp)co.observe(imp);
+
+  // ── Donation form ──
+  var DON_IMPACT={
+    '25':  '$25 provides Scripture materials for one healing group participant.',
+    '50':  '$50 funds a complete session of Healing the Wounds of Trauma.',
+    '100': '$100 sponsors a full healing group participant — all 6 sessions, rooted in God\'s Word.',
+    '250': '$250 equips and trains a new Native facilitator to lead in their own community.'
+  };
+  function donSetLabel(amt){
+    var freq=document.getElementById('don-freq-val').value==='monthly'?' / mo':'';
+    document.getElementById('don-submit-lbl').textContent='$'+amt+freq;
+    document.getElementById('don-amt-val').value=amt;
+    var imp=document.getElementById('don-impact');
+    if(imp){imp.textContent=DON_IMPACT[String(amt)]||'Your gift directly supports Native-led Gospel ministry.';imp.style.opacity=1;}
+  }
+  function donFreq(btn){
+    document.querySelectorAll('.don-freq-btn').forEach(function(b){b.classList.remove('act');});
+    btn.classList.add('act');
+    document.getElementById('don-freq-val').value=btn.dataset.freq;
+    donSetLabel(document.getElementById('don-amt-val').value);
+  }
+  function donAmt(btn){
+    document.querySelectorAll('.don-amt').forEach(function(b){b.classList.remove('act');});
+    btn.classList.add('act');
+    document.getElementById('don-custom-input').value='';
+    donSetLabel(btn.dataset.amt);
+  }
+  function donCustom(input){
+    if(input.value){
+      document.querySelectorAll('.don-amt').forEach(function(b){b.classList.remove('act');});
+      donSetLabel(input.value);
+    }
+  }
+  function donDedicate(chk){
+    document.getElementById('don-ded-body').style.display=chk.checked?'block':'none';
+  }
+  function donSubmit(e){
+    e.preventDefault();
+    var form=document.getElementById('don-form');
+    var btn=form.querySelector('.don-submit');
+    btn.disabled=true;btn.textContent='Processing…';
+    fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams(new FormData(form)).toString()})
+      .then(function(){
+        form.style.display='none';
+        document.getElementById('don-impact').style.display='none';
+        document.querySelectorAll('.don-freq,.don-amounts,.don-custom-wrap').forEach(function(el){el.style.display='none';});
+        document.getElementById('don-success').style.display='block';
+      })
+      .catch(function(){
+        btn.disabled=false;
+        btn.textContent='Give Now — please try again';
+      });
+  }
+  // Reset donation modal state when reopened
+  var _origOpenModal=openModal;
+  openModal=function(id){
+    if(id==='m-donate'){
+      var form=document.getElementById('don-form');
+      var success=document.getElementById('don-success');
+      if(form&&success){
+        form.style.display='';success.style.display='none';
+        document.getElementById('don-impact').style.display='';
+        document.querySelectorAll('.don-freq,.don-amounts,.don-custom-wrap').forEach(function(el){el.style.display='';});
+        form.reset();
+        document.getElementById('don-freq-val').value='one-time';
+        document.getElementById('don-amt-val').value='100';
+        document.querySelectorAll('.don-freq-btn').forEach(function(b,i){b.classList.toggle('act',i===0);});
+        document.querySelectorAll('.don-amt').forEach(function(b){b.classList.toggle('act',b.dataset.amt==='100');});
+        donSetLabel('100');
+        var sb=form.querySelector('.don-submit');if(sb){sb.disabled=false;}
+      }
+    }
+    _origOpenModal(id);
+  };
+
+  // ── Video Gallery ──
+  ;(function(){
+    var AU='https://player.vimeo.com/progressive_redirect/playback/1125923234/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=d5c9c10bfb465c09533496149bc3b735afd8f6865a31f89f7990f69a18057cd2';
+    var TABS=[
+      {id:'featured',name:'Featured',videos:[
+        {id:'vid-about',title:'About LIM',url:AU},
+        {id:'vid-gods-plan',title:"God's Perfect Plan",url:'https://player.vimeo.com/progressive_redirect/playback/1154138599/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=bd6862761cd30f0f2fda84b75d14ecff4ffb2d6b125ce7f7033f237d8d88483f'},
+        {id:'vid-drinking-days',title:'If You Knew Me in My Drinking Days',url:'https://player.vimeo.com/progressive_redirect/playback/780795626/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=af865766380073059f0a79d8c58fc4d1414ed4e48ecd0577c241f4af011e12f4'},
+      ]},
+      {id:'pastor-tony',name:'Pastor Tony',videos:[
+        {id:'vid-5th-grade',title:'5th Grade Question',url:'https://player.vimeo.com/progressive_redirect/playback/1165417789/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=d0f0aefba12fd26660b99c5b15b1bda28d24523d949c75bb79ed7bf594ee3a46'},
+        {id:'vid-gods-kindness',title:"God's Kindness",url:'https://player.vimeo.com/progressive_redirect/playback/1161138361/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=a78590349b958643a22951e99049e19682650b4d10eac1b1949468850a722148'},
+        {id:'vid-pastor-gods-plan',title:"God's Perfect Plan",url:'https://player.vimeo.com/progressive_redirect/playback/1154138599/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=bd6862761cd30f0f2fda84b75d14ecff4ffb2d6b125ce7f7033f237d8d88483f'},
+      ]},
+      {id:'healing',name:'Healing Wounds of Trauma',videos:[
+        {id:'vid-max',title:'Max: From Self to Abba — A Journey of Faith',url:'https://player.vimeo.com/progressive_redirect/playback/940879736/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=4d35742e03b5f84d5bf372f8a75a76c6b5fa43fba0b7caed3d8543683cf16986'},
+        {id:'vid-tanya',title:'Tanya D — Part 1',url:'https://player.vimeo.com/progressive_redirect/playback/950889488/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=d34d0d68c70ff6f35d71330d3a160c0c4c462a9ca100a3291d52d3d78874a243'},
+        {id:'vid-suzette',title:'Suzette: From Rejection to Redemption',url:'https://player.vimeo.com/progressive_redirect/playback/988479175/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=1fa7373763f74f202af0b6f14d38791e071589ff4a4cf4d52ace4549e351079d'},
+        {id:'vid-andrea',title:'Andrea: With God, All Things Are Possible',url:'https://player.vimeo.com/progressive_redirect/playback/995096597/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=83ad9ff14d0af332ad91dcb90a83df66f8173d21fa3edcccc3c1bdeadeaa9eb8'},
+      ]},
+      {id:'about-tab',name:'About',videos:[
+        {id:'vid-about-lim',title:'About LIM',url:AU},
+        {id:'vid-about-healing',title:'About Healing Groups',url:'https://player.vimeo.com/progressive_redirect/playback/1062051828/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=d75e2d6efb5eeee65b07767dda67f8c70988f0973b2d2cca404f5028d45de601'},
+        {id:'vid-about-haskell',title:'About Haskell',url:'https://player.vimeo.com/progressive_redirect/playback/1062091377/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=1bb5cef5460dd388dca278c5880d8bf4bade4d4e1c5f9dad91cd81b29b808dfc'},
+      ]},
+      {id:'podcast',name:'Podcast',videos:[
+        {id:'vid-podcast',title:'An Example of Hope',url:'https://player.vimeo.com/progressive_redirect/playback/1021850555/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=c92cf882e82753ebff2df74cfc7b7ae0596a8cedb883d4af202c3ca748f9b5d6'},
+      ]},
+      {id:'stories',name:'Stories of Reflection',videos:[
+        {id:'vid-mustard-seed',title:'Faith as Small as a Mustard Seed',url:'https://player.vimeo.com/progressive_redirect/playback/831576428/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=4b8b1bef46b6e7976c7c8b5ca5b22a6d9027f8eddaeb51834d2fb26a8b1ce50b'},
+        {id:'vid-drinking-stories',title:'If You Knew Me in My Drinking Days',url:'https://player.vimeo.com/progressive_redirect/playback/780795626/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=af865766380073059f0a79d8c58fc4d1414ed4e48ecd0577c241f4af011e12f4'},
+      ]},
+    ];
+
+    var vgActive=0,vgStopped=false,vgTimer=null;
+
+    function vgBuild(){
+      var tabsEl=document.getElementById('vids-tabs');
+      var panelsEl=document.getElementById('vids-panels');
+      if(!tabsEl||!panelsEl)return;
+      TABS.forEach(function(tab,ti){
+        var btn=document.createElement('button');
+        btn.className='vt-btn'+(ti===0?' act':'');
+        btn.setAttribute('role','tab');
+        btn.setAttribute('aria-selected',ti===0?'true':'false');
+        btn.setAttribute('aria-controls','vp-'+tab.id);
+        btn.innerHTML=tab.name+'<span class="vt-prog" aria-hidden="true"></span>';
+        btn.onclick=function(){vgSwitch(ti,true);};
+        tabsEl.appendChild(btn);
+
+        var panel=document.createElement('div');
+        panel.id='vp-'+tab.id;
+        panel.className='vids-panel'+(ti===0?' on':'');
+        panel.setAttribute('role','tabpanel');
+        var strip=document.createElement('div');
+        strip.className='vids-strip';
+        var row=document.createElement('div');
+        row.className='vids-row';
+        tab.videos.forEach(function(vid){
+          var card=document.createElement('div');
+          card.className='vc';
+          card.setAttribute('role','button');
+          card.setAttribute('tabindex','0');
+          card.setAttribute('aria-label','Play: '+vid.title);
+          card.innerHTML='<video preload="metadata" muted playsinline loop tabindex="-1"><source src="'+vid.url+'" type="video/mp4"></video>'
+            +'<div class="vc-ov"></div>'
+            +'<div class="vc-play-ic" aria-hidden="true"><svg width="15" height="15" viewBox="0 0 24 24" fill="var(--charcoal)"><polygon points="7,5 19,12 7,19"/></svg></div>'
+            +'<span class="vc-title">'+vid.title+'</span>';
+          card.onclick=function(){openVidModal(vid.url,vid.title);};
+          card.onkeydown=function(e){if(e.key==='Enter')openVidModal(vid.url,vid.title);};
+          card.addEventListener('mouseenter',function(){card.querySelector('video').play().catch(function(){});});
+          card.addEventListener('mouseleave',function(){var v=card.querySelector('video');v.pause();v.currentTime=0;});
+          row.appendChild(card);
+        });
+        strip.appendChild(row);
+        panel.appendChild(strip);
+        panelsEl.appendChild(panel);
+      });
+    }
+
+    function vgSwitch(i,manual){
+      if(manual)vgStopAuto();
+      vgActive=i;
+      document.querySelectorAll('#vids-tabs .vt-btn').forEach(function(b,bi){
+        var on=bi===i;
+        b.classList.toggle('act',on);
+        b.setAttribute('aria-selected',on?'true':'false');
+        var prog=b.querySelector('.vt-prog');
+        prog.style.animation='none';
+        void b.offsetHeight;
+        prog.style.animation='';
+      });
+      document.querySelectorAll('.vids-panel').forEach(function(p,pi){
+        p.classList.toggle('on',pi===i);
+      });
+    }
+
+    window.vgStopAuto=function(){vgStopped=true;};
+
+    function vgStartAuto(){
+      vgTimer=setInterval(function(){
+        if(vgStopped)return;
+        vgSwitch((vgActive+1)%TABS.length,false);
+      },5000);
+    }
+
+    function vgOpenByHash(hash){
+      if(!hash)return;
+      for(var ti=0;ti<TABS.length;ti++){
+        for(var vi=0;vi<TABS[ti].videos.length;vi++){
+          var vid=TABS[ti].videos[vi];
+          if(vid.id===hash){
+            vgSwitch(ti,true);
+            var sec=document.getElementById('videos');
+            if(sec)sec.scrollIntoView({behavior:'smooth',block:'start'});
+            (function(u,t){setTimeout(function(){openVidModal(u,t);},650);})(vid.url,vid.title);
+            return;
+          }
+        }
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded',function(){
+      vgBuild();
+      vgStartAuto();
+      vgOpenByHash(window.location.hash.slice(1));
+      window.addEventListener('hashchange',function(){vgOpenByHash(window.location.hash.slice(1));});
+    });
+  })();
+</script>
+</body>
+</html>

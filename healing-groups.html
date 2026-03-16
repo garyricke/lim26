@@ -1,0 +1,1106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Find a Healing the Wounds of Trauma group near you. LIM's scripture-based healing program is led by Native facilitators, free to attend, and open to everyone 18+.">
+  <title>Healing Groups — Lutheran Indian Ministries</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --red:#ED1C24;--red-h:#c8151c;--yellow:#FFDE16;
+      --charcoal:#282924;--sage:#B2AC88;--sage-d:#8a8665;
+      --sky:#A2C2D1;--sky-d:#6fa3b8;--stone:#EBE9E4;
+      --white:#FFFFFF;--muted:#5a5a52;--border:#d9d6ce;
+      --serif:'Merriweather',Georgia,serif;
+      --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --body:'Open Sans',system-ui,sans-serif;
+      --max:1200px;--r:8px;--rl:16px;
+      --sh:0 2px 8px rgba(0,0,0,.08);
+      --shm:0 6px 24px rgba(0,0,0,.12);
+      --t:.3s ease;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--body);color:var(--charcoal);background:#fff;line-height:1.7;overflow-x:hidden}
+    img{max-width:100%;height:auto;display:block}
+    a{color:inherit;text-decoration:none}
+    button{cursor:pointer;font-family:inherit;border:none;background:none}
+    .wrap{max-width:var(--max);margin:0 auto;padding:0 1.5rem}
+    .lbl{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.6rem}
+    .h2{font-family:var(--serif);font-size:clamp(1.75rem,3vw,2.65rem);line-height:1.2;color:var(--charcoal);margin-bottom:1.2rem}
+    .btn{display:inline-flex;align-items:center;gap:.5rem;padding:.85rem 1.9rem;border-radius:var(--r);font-family:var(--cond);font-size:1rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;transition:var(--t);cursor:pointer;border:2px solid transparent}
+    .btn-red{background:var(--red);color:#fff;border-color:var(--red)}
+    .btn-red:hover{background:var(--red-h);border-color:var(--red-h);transform:translateY(-1px);box-shadow:var(--shm)}
+    .btn-sky{background:var(--sky);color:var(--charcoal);border-color:var(--sky)}
+    .btn-sky:hover{background:var(--sky-d);color:#fff;border-color:var(--sky-d);transform:translateY(-1px);box-shadow:var(--shm)}
+    .btn-ol{background:transparent;color:var(--charcoal);border-color:var(--charcoal)}
+    .btn-ol:hover{background:var(--charcoal);color:#fff}
+    .btn-olw{background:transparent;color:#fff;border-color:rgba(255,255,255,.55)}
+    .btn-olw:hover{background:rgba(255,255,255,.12);border-color:#fff}
+    .fi{opacity:0;transform:translateY(20px);transition:opacity .65s ease,transform .65s ease}
+    .fi.vis{opacity:1;transform:none}
+
+
+    /* Nav */
+    #nav{position:sticky;top:0;z-index:1000;background:var(--charcoal);box-shadow:var(--shm)}
+    .nav-i{display:flex;align-items:center;justify-content:space-between;height:66px;max-width:var(--max);margin:0 auto;padding:0 1.5rem}
+    .nav-logo img{height:42px}
+    .nav-links{display:flex;align-items:center;gap:1.75rem;list-style:none}
+    .nav-links a{font-family:var(--cond);font-size:.85rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:rgba(255,255,255,.75);transition:var(--t);padding-bottom:2px;border-bottom:2px solid transparent}
+    .nav-links a:hover,.nav-links a.act{color:var(--yellow);border-color:var(--yellow)}
+    .nav-give{background:var(--red);color:#fff;font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.55rem 1.4rem;border-radius:4px;border:2px solid var(--red);transition:var(--t)}
+    .nav-give:hover{background:var(--red-h)}
+    .ham{display:none;flex-direction:column;gap:5px;padding:6px}
+    .ham span{display:block;width:22px;height:2px;background:#fff;transition:var(--t)}
+
+    /* Hero */
+    #hero{position:relative;min-height:70vh;display:flex;align-items:center;overflow:hidden}
+    .hero-bg{position:absolute;inset:0;overflow:hidden}
+    .hero-bg video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;filter:brightness(.48)}
+    .hero-c{position:relative;z-index:2;max-width:720px;padding:5rem 1.5rem;margin:0 auto 0 7vw}
+    .hero-eye{font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--yellow);display:flex;align-items:center;gap:.7rem;margin-bottom:1.1rem}
+    .hero-eye::before{content:'';width:34px;height:2px;background:var(--yellow)}
+    .hero-h1{font-family:var(--serif);font-size:clamp(2.1rem,4.5vw,3.4rem);line-height:1.15;color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.4);margin-bottom:1.3rem}
+    .hero-sub{font-size:1.05rem;color:rgba(255,255,255,.85);max-width:520px;line-height:1.8;margin-bottom:2.25rem}
+    .hero-ctas{display:flex;gap:1rem;flex-wrap:wrap}
+
+    /* Trust bar */
+    .trust{background:var(--sky);padding:1.1rem 1.5rem}
+    .trust-inner{max-width:var(--max);margin:0 auto;display:flex;align-items:center;justify-content:center;gap:3rem;flex-wrap:wrap}
+    .trust-item{display:flex;align-items:center;gap:.55rem;font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--charcoal)}
+    .trust-item span:first-child{font-size:1.1rem}
+
+    /* What is HWOT */
+    #what{padding:5rem 1.5rem;background:#fff}
+    .what-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:4.5rem;align-items:center}
+    .what-img{border-radius:var(--rl);overflow:hidden;height:440px}
+    .what-img img{width:100%;height:100%;object-fit:cover}
+    .what-pull{font-family:var(--serif);font-size:1.15rem;font-style:italic;color:var(--charcoal);border-left:3px solid var(--sky);padding:1rem 1.4rem;margin:1.4rem 0;background:rgba(162,194,209,.1);border-radius:0 var(--r) var(--r) 0;line-height:1.65}
+    .what-stats{display:flex;gap:2rem;flex-wrap:wrap;margin:1.5rem 0}
+    .ws{text-align:center}
+    .ws-n{font-family:var(--cond);font-size:2rem;font-weight:800;color:var(--red);line-height:1;display:block}
+    .ws-l{font-size:.75rem;font-family:var(--cond);text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+
+    /* Sessions calendar */
+    #sessions{padding:5rem 1.5rem;background:var(--stone)}
+    .sess-hd{text-align:center;margin-bottom:3rem}
+    .filter-bar{display:flex;gap:.75rem;justify-content:center;flex-wrap:wrap;margin-bottom:2.5rem}
+    .filter-btn{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.45rem 1.1rem;border-radius:20px;border:2px solid var(--border);background:#fff;color:var(--muted);transition:var(--t);cursor:pointer}
+    .filter-btn.act,.filter-btn:hover{background:var(--charcoal);color:#fff;border-color:var(--charcoal)}
+    .sessions-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:1.4rem}
+    .scard{background:#fff;border-radius:var(--rl);overflow:hidden;box-shadow:var(--sh);transition:var(--t);display:flex;flex-direction:column}
+    .scard:hover{transform:translateY(-3px);box-shadow:var(--shm)}
+    .scard.full{opacity:.7}
+    .scard-top{padding:1.3rem 1.5rem 1rem;border-bottom:1px solid var(--border);display:flex;align-items:flex-start;justify-content:space-between;gap:.75rem}
+    .scard-date{font-family:var(--cond);font-size:1.05rem;font-weight:700;color:var(--charcoal);line-height:1.3}
+    .scard-date span{display:block;font-size:.75rem;font-weight:600;color:var(--muted);letter-spacing:.08em;text-transform:uppercase;margin-top:.2rem}
+    .badge{font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.25rem .65rem;border-radius:20px;white-space:nowrap}
+    .badge-ip{background:rgba(162,194,209,.25);color:var(--sky-d)}
+    .badge-on{background:rgba(178,172,136,.25);color:var(--sage-d)}
+    .badge-full{background:rgba(237,28,36,.1);color:var(--red)}
+    .badge-mil{background:rgba(40,41,36,.1);color:var(--charcoal)}
+    .scard-body{padding:1rem 1.5rem;flex:1}
+    .scard-title{font-family:var(--serif);font-size:1.05rem;font-weight:700;color:var(--charcoal);margin-bottom:.4rem}
+    .scard-loc{font-family:var(--cond);font-size:.82rem;font-weight:600;color:var(--muted);display:flex;align-items:center;gap:.35rem;margin-bottom:.6rem;text-transform:uppercase;letter-spacing:.04em}
+    .scard-body p{font-size:.9rem;color:var(--muted);line-height:1.7}
+    .scard-foot{padding:1rem 1.5rem 1.4rem;display:flex;gap:.75rem;flex-wrap:wrap}
+
+    /* Session detail modal trigger */
+    .sess-detail-link{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--border);transition:var(--t);align-self:center}
+    .sess-detail-link:hover{color:var(--charcoal);border-color:var(--charcoal)}
+
+    /* Accordion */
+    .acc-list{border:1px solid var(--border);border-radius:var(--rl);overflow:hidden}
+    .acc-item{border-bottom:1px solid var(--border)}
+    .acc-item:last-child{border-bottom:none}
+    .acc-btn{width:100%;display:flex;align-items:center;justify-content:space-between;padding:1.2rem 1.65rem;background:#fff;text-align:left;transition:background var(--t);gap:1rem}
+    .acc-btn:hover{background:var(--stone)}
+    .acc-btn.open{background:var(--sky)}
+    .acc-left{display:flex;align-items:center;gap:.9rem}
+    .acc-num{font-family:var(--cond);font-size:.75rem;font-weight:700;background:var(--charcoal);color:#fff;width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+    .acc-btn.open .acc-num{background:var(--red)}
+    .acc-q{font-family:var(--cond);font-size:1rem;font-weight:700;color:var(--charcoal)}
+    .acc-chev{flex-shrink:0;color:var(--muted);transition:transform var(--t)}
+    .acc-btn.open .acc-chev{transform:rotate(180deg)}
+    .acc-body{max-height:0;overflow:hidden;transition:max-height .42s ease}
+    .acc-inner{padding:1.1rem 1.65rem 1.6rem 4.25rem;color:var(--muted);line-height:1.8;border-top:1px solid var(--border)}
+
+    /* Facilitator section */
+    #facilitator{padding:5rem 1.5rem;background:var(--charcoal)}
+    .fac-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:4.5rem;align-items:center}
+    .fac-img{border-radius:var(--rl);overflow:hidden;height:420px}
+    .fac-img img{width:100%;height:100%;object-fit:cover}
+    .fac-lbl{color:rgba(255,255,255,.4)!important}
+    .fac-h2{color:#fff!important}
+    .fac-p{color:rgba(255,255,255,.68);line-height:1.8;margin-bottom:.9rem}
+    .fac-pull{font-family:var(--serif);font-size:1.05rem;font-style:italic;color:rgba(255,255,255,.72);border-left:3px solid var(--yellow);padding-left:1.3rem;margin:1.4rem 0;line-height:1.65}
+    .fac-steps{list-style:none;display:flex;flex-direction:column;gap:.9rem;margin:1.4rem 0}
+    .fac-steps li{display:flex;gap:.9rem;align-items:flex-start;color:rgba(255,255,255,.72);font-size:.95rem;line-height:1.6}
+    .fac-steps li .step-n{font-family:var(--cond);font-size:.75rem;font-weight:700;background:var(--yellow);color:var(--charcoal);width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:2px}
+
+    /* FAQ */
+    #faq{padding:5rem 1.5rem;background:#fff}
+    .faq-hd{text-align:center;margin-bottom:3rem}
+    .faq-wrap{max-width:760px;margin:0 auto}
+
+    /* Contact section */
+    #contact{padding:4rem 1.5rem;background:var(--sky)}
+    .contact-inner{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:3.5rem;align-items:center}
+    .contact-h{font-family:var(--serif);font-size:1.9rem;color:var(--charcoal);margin-bottom:.75rem}
+    .contact-p{color:rgba(40,41,36,.75);line-height:1.8;margin-bottom:1.5rem}
+    .contact-items{display:flex;flex-direction:column;gap:1rem}
+    .ci{display:flex;align-items:flex-start;gap:.85rem}
+    .ci-icon{font-size:1.3rem;flex-shrink:0;margin-top:2px}
+    .ci-label{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(40,41,36,.55);display:block;margin-bottom:.15rem}
+    .ci-val{font-size:.95rem;color:var(--charcoal);font-weight:500}
+    .ci-val a{transition:var(--t)}
+    .ci-val a:hover{color:var(--red)}
+    .contact-form{background:#fff;border-radius:var(--rl);padding:2.25rem;box-shadow:var(--shm)}
+    .contact-form h3{font-family:var(--serif);font-size:1.3rem;color:var(--charcoal);margin-bottom:1.4rem}
+    .form-row{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-bottom:1rem}
+    .form-group{display:flex;flex-direction:column;gap:.35rem;margin-bottom:1rem}
+    .form-group label{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+    .form-group input,.form-group select,.form-group textarea{width:100%;padding:.75rem 1rem;border:1.5px solid var(--border);border-radius:var(--r);font-family:var(--body);font-size:.95rem;color:var(--charcoal);transition:var(--t);background:#fff}
+    .form-group input:focus,.form-group select:focus,.form-group textarea:focus{outline:none;border-color:var(--sky-d);box-shadow:0 0 0 3px rgba(162,194,209,.25)}
+    .form-group textarea{resize:vertical;min-height:90px}
+    .form-note{font-size:.8rem;color:var(--muted);line-height:1.6;margin-bottom:1.25rem}
+
+    /* Modals */
+    .mbk{position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:5000;display:flex;align-items:center;justify-content:center;padding:1.5rem;opacity:0;pointer-events:none;transition:opacity .3s ease;backdrop-filter:blur(4px)}
+    .mbk.on{opacity:1;pointer-events:all}
+    .modal{background:#fff;border-radius:var(--rl);max-width:640px;width:100%;max-height:85vh;overflow-y:auto;transform:translateY(18px) scale(.97);transition:transform .3s ease}
+    .mbk.on .modal{transform:none}
+    /* Registration form modal */
+    #m-reg .modal{max-width:720px}
+    .reg-event-summary{background:var(--charcoal);color:#fff;padding:.85rem 1.75rem;display:flex;align-items:baseline;gap:.75rem;flex-wrap:wrap}
+    .reg-event-title{font-family:var(--cond);font-size:1rem;font-weight:800;color:var(--yellow);letter-spacing:.04em}
+    .reg-event-detail{font-family:var(--cond);font-size:.8rem;font-weight:600;color:rgba(255,255,255,.55);letter-spacing:.05em;text-transform:uppercase}
+    .reg-body{padding:1.25rem 1.75rem 1.75rem}
+    .reg-section{margin-bottom:1.5rem}
+    .reg-section-title{font-family:var(--cond);font-size:.72rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:rgba(40,41,36,.42);border-bottom:1px solid var(--border);padding-bottom:.45rem;margin-bottom:.85rem}
+    .reg-row{display:grid;grid-template-columns:1fr 1fr;gap:.75rem;margin-bottom:.75rem}
+    .reg-row.full{grid-template-columns:1fr}
+    .reg-field{display:flex;flex-direction:column;gap:.3rem}
+    .reg-field label{font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:rgba(40,41,36,.55)}
+    .reg-field .req{color:var(--red)}
+    .reg-field .opt{color:rgba(40,41,36,.35);font-size:.68rem;text-transform:none;letter-spacing:0}
+    .reg-field input,.reg-field select,.reg-field textarea{padding:.6rem .8rem;border:2px solid var(--border);border-radius:8px;font-size:.9rem;color:var(--charcoal);background:#fff;transition:border .2s,box-shadow .2s;font-family:var(--body)}
+    .reg-field input:focus,.reg-field select:focus,.reg-field textarea:focus{outline:none;border-color:var(--charcoal);box-shadow:0 0 0 3px rgba(40,41,36,.08)}
+    .reg-field textarea{resize:vertical;min-height:72px}
+    .reg-field input[type="text"][style*="uppercase"]{text-transform:uppercase}
+    .reg-radio{display:flex;gap:1rem;flex-wrap:wrap;padding:.3rem 0}
+    .reg-radio label{display:flex;align-items:center;gap:.4rem;font-family:var(--body);font-size:.88rem;font-weight:400;letter-spacing:0;text-transform:none;color:var(--charcoal);cursor:pointer}
+    .reg-radio input{accent-color:var(--charcoal)}
+    .reg-check{display:flex;align-items:flex-start;gap:.55rem;margin-bottom:.75rem}
+    .reg-check input{accent-color:var(--charcoal);width:16px;height:16px;flex-shrink:0;margin-top:.15rem}
+    .reg-check label{font-size:.88rem;line-height:1.5;color:rgba(40,41,36,.75);cursor:pointer}
+    .reg-check label strong{color:var(--charcoal)}
+    .reg-mil-notice{background:#fef3e2;border-left:3px solid #b5720a;border-radius:0 8px 8px 0;padding:.8rem 1rem;margin-bottom:1rem;font-size:.88rem;line-height:1.5}
+    .reg-free-badge{display:flex;align-items:center;gap:.5rem;font-family:var(--cond);font-size:.82rem;font-weight:700;color:#2e6b42;margin-bottom:.85rem}
+    .reg-free-badge::before{content:'✓';width:20px;height:20px;background:#e8f4ec;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:.75rem;font-weight:900;flex-shrink:0}
+    .reg-submit{width:100%;font-size:1rem;padding:.9rem;justify-content:center}
+    .reg-alt{text-align:center;font-size:.82rem;color:rgba(40,41,36,.45);margin-top:.85rem}
+    .reg-alt a{color:var(--red)}
+    .reg-success{display:none;text-align:center;padding:2.5rem 1rem}
+    .reg-success-ic{width:70px;height:70px;background:var(--charcoal);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 1.25rem;color:var(--yellow);font-size:2rem}
+    .reg-success h3{font-family:var(--serif);font-size:1.7rem;margin-bottom:.75rem}
+    .reg-success p{color:rgba(40,41,36,.6);line-height:1.7;margin-bottom:1.5rem}
+    @media(max-width:600px){.reg-row{grid-template-columns:1fr}#m-reg .modal{border-radius:var(--rl) var(--rl) 0 0;position:fixed;bottom:0;left:0;right:0;max-height:92vh}.mbk{padding:0;align-items:flex-end}.reg-body{padding:1rem 1.25rem 1.5rem}.reg-event-summary{padding:.75rem 1.25rem}}
+    .mhd{padding:1.75rem 1.75rem 1.1rem;border-bottom:1px solid var(--border);display:flex;align-items:flex-start;justify-content:space-between;gap:1rem;position:sticky;top:0;background:#fff;z-index:1}
+    .m-title{font-family:var(--serif);font-size:1.35rem;color:var(--charcoal)}
+    .m-x{width:32px;height:32px;border-radius:50%;background:var(--stone);display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:var(--t);font-size:1rem;color:var(--muted)}
+    .m-x:hover{background:var(--red);color:#fff}
+    .mbody{padding:1.5rem 1.75rem 1.9rem}
+    .mbody p{color:var(--muted);line-height:1.8;margin-bottom:.75rem}
+    .mbody ul{list-style:none;display:flex;flex-direction:column;gap:.45rem;margin-bottom:1rem}
+    .mbody ul li{display:flex;gap:.5rem;color:var(--muted);font-size:.93rem;line-height:1.6}
+    .mbody ul li::before{content:'→';color:var(--red);flex-shrink:0;font-weight:700}
+    .m-cta{margin-top:1.75rem;display:flex;gap:1rem;flex-wrap:wrap}
+    .m-detail-row{display:flex;gap:.75rem;flex-wrap:wrap;margin-bottom:.9rem}
+    .m-badge{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.3rem .8rem;border-radius:20px;background:var(--stone);color:var(--charcoal)}
+
+    /* Footer */
+    #footer{background:#191916;padding:3.5rem 1.5rem 2rem}
+    .foot-top{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:3rem;padding-bottom:2.5rem;border-bottom:1px solid rgba(255,255,255,.07);margin-bottom:1.75rem}
+    .foot-brand img{height:48px;margin-bottom:1.1rem}
+    .foot-brand p{font-size:.86rem;color:rgba(255,255,255,.42);line-height:1.7}
+    .foot-col h4{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.33);margin-bottom:1rem}
+    .foot-col ul{list-style:none;display:flex;flex-direction:column;gap:.5rem}
+    .foot-col ul li a{font-size:.86rem;color:rgba(255,255,255,.52);transition:var(--t)}
+    .foot-col ul li a:hover{color:var(--yellow)}
+    .foot-bot{max-width:var(--max);margin:0 auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem}
+    .foot-bot p{font-size:.76rem;color:rgba(255,255,255,.25)}
+
+    @media(max-width:960px){
+      .what-g{grid-template-columns:1fr;gap:2.5rem}
+      .what-img{height:280px}
+      .sessions-g{grid-template-columns:repeat(2,1fr)}
+      .fac-g{grid-template-columns:1fr;gap:2.5rem}
+      .fac-img{height:280px}
+      .contact-inner{grid-template-columns:1fr}
+      .foot-top{grid-template-columns:1fr 1fr;gap:2rem}
+      .nav-links{display:none}
+      .ham{display:flex}
+    }
+    @media(max-width:600px){
+      .sessions-g{grid-template-columns:1fr}
+      .form-row{grid-template-columns:1fr}
+      .hero-c{margin-left:0}
+      .foot-top{grid-template-columns:1fr}
+      .foot-bot{flex-direction:column;text-align:center}
+    }
+  </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav id="nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-i">
+    <a href="index.html" class="nav-logo">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    </a>
+    <button class="ham" aria-label="Toggle menu" onclick="this.nextElementSibling.classList.toggle('open')">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="#what">About the Program</a></li>
+      <li><a href="#sessions" class="act">Find a Group</a></li>
+      <li><a href="#facilitator">Become a Facilitator</a></li>
+      <li><a href="#faq">FAQ</a></li>
+    </ul>
+    <a href="index.html#donate" class="nav-give">Donate</a>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section id="hero" aria-label="Healing Groups hero">
+  <div class="hero-bg">
+    <video autoplay muted loop playsinline aria-hidden="true">
+      <source src="https://res.cloudinary.com/dsbllwpbh/video/upload/v1773678377/healing-groups-video-hero_tuktsy.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="hero-c">
+    <span class="hero-eye">Healing the Wounds of Trauma</span>
+    <h1 class="hero-h1">You Don't Have to<br>Carry This Alone.</h1>
+    <p class="hero-sub">A safe, scripture-based healing program led by Native facilitators. Free to attend. Open to everyone 18 and older — no faith background required.</p>
+    <div class="hero-ctas">
+      <a href="#sessions" class="btn btn-sky">Find a Healing Group</a>
+      <a href="#what" class="btn btn-olw">How It Works</a>
+    </div>
+  </div>
+</section>
+
+<!-- Trust bar -->
+<div class="trust" role="complementary" aria-label="Program highlights">
+  <div class="trust-inner">
+    <div class="trust-item"><span>📖</span><span>390+ Scriptures</span></div>
+    <div class="trust-item"><span>⏱</span><span>16 Hours · 6 Sessions</span></div>
+    <div class="trust-item"><span>🙌</span><span>All Welcome · Ages 18+</span></div>
+    <div class="trust-item"><span>🍽</span><span>Free · Lunch Provided</span></div>
+    <div class="trust-item"><span>📍</span><span>In-Person &amp; Online</span></div>
+  </div>
+</div>
+
+<!-- What Is HWOT -->
+<section id="what" style="padding:5rem 1.5rem;background:#fff" aria-label="What is Healing the Wounds of Trauma">
+  <div class="what-g wrap">
+    <div class="what-img fi">
+      <img src="images-master/people-lame-deer-women-tipi-healing-retreat.jpg" alt="Women's healing retreat inside a tipi at Lame Deer" loading="lazy">
+    </div>
+    <div class="fi" style="transition-delay:.1s">
+      <span class="lbl">The Program</span>
+      <h2 class="h2">What Is Healing the Wounds of Trauma?</h2>
+      <p style="color:var(--muted);line-height:1.8;margin-bottom:.9rem">A Bible-based small group healing program using the American Bible Society's Trauma Healing Institute model. It addresses spiritual and emotional wounds from violence, loss, abuse, and historical trauma — through applied scripture and the power of community.</p>
+      <blockquote class="what-pull">
+        "I got to let go of hurts and disappointments I've experienced in my entire life. And talk about freedom. Oh, the freedom. I have a hard time putting into words how you feel so much lighter — how you feel so not shackled anymore. I'm so thankful I said yes."
+        <footer style="margin-top:.75rem;font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)">— Roberta (Kitirak), Ministry Coordinator · Anchorage, AK</footer>
+      </blockquote>
+      <div class="what-stats">
+        <div class="ws"><span class="ws-n">16</span><span class="ws-l">Hours</span></div>
+        <div class="ws"><span class="ws-n">6</span><span class="ws-l">Sessions</span></div>
+        <div class="ws"><span class="ws-n">390+</span><span class="ws-l">Scriptures</span></div>
+        <div class="ws"><span class="ws-n">Free</span><span class="ws-l">To Attend</span></div>
+      </div>
+      <p style="color:var(--muted);line-height:1.8;margin-bottom:1.5rem">Healing is self-directed — you share only what you're comfortable with, and go only where you're ready to go. The Holy Spirit does the heavy lifting. No pressure, no force.</p>
+      <div style="display:flex;gap:1rem;flex-wrap:wrap">
+        <a href="#sessions" class="btn btn-red">Find a Group Near You</a>
+        <button class="btn btn-ol" onclick="openModal('m-sessions')">What Happens in Each Session?</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Upcoming Sessions -->
+<section id="sessions" style="padding:5rem 1.5rem;background:var(--stone)" aria-label="Upcoming healing group sessions">
+  <div class="sess-hd wrap fi">
+    <span class="lbl" style="display:block;text-align:center">Register Now</span>
+    <h2 class="h2" style="text-align:center">Upcoming Healing Groups — 2026</h2>
+    <p style="text-align:center;color:var(--muted);max-width:560px;margin:.75rem auto 0">Sessions fill quickly. Participants must attend all sessions for full benefit. In-person sessions include lunch. Contact us if you need accommodations.</p>
+  </div>
+  <div class="filter-bar" role="group" aria-label="Filter sessions">
+    <button class="filter-btn act" onclick="filter(this,'all')">All Sessions</button>
+    <button class="filter-btn" onclick="filter(this,'in-person')">In-Person</button>
+    <button class="filter-btn" onclick="filter(this,'online')">Online</button>
+    <button class="filter-btn" onclick="filter(this,'open')">Open Spots</button>
+  </div>
+  <div class="sessions-g wrap">
+
+    <!-- Card 1 -->
+    <div class="scard fi" data-type="in-person" data-open="true">
+      <div class="scard-top">
+        <div class="scard-date">March 13–14, 2026<span>2 Days · Thu–Fri</span></div>
+        <span class="badge badge-mil">Military</span>
+      </div>
+      <div class="scard-body">
+        <h3 class="scard-title">Military Personnel Healing Group</h3>
+        <div class="scard-loc">📍 Fairbanks, AK — In-Person</div>
+        <p>A focused healing group designed for active military, veterans, and their families. Same scripture-based framework in a setting that honors service and sacrifice.</p>
+      </div>
+      <div class="scard-foot">
+        <button class="btn btn-red" style="font-size:.85rem;padding:.7rem 1.4rem" onclick="openReg('Military Personnel Healing Group','March 13–14, 2026 · Fairbanks, AK',true)">Register Now</button>
+        <button class="sess-detail-link" onclick="openModal('m-fairbanks-mil')">Details</button>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="scard full fi" data-type="online" data-open="false" style="transition-delay:.05s">
+      <div class="scard-top">
+        <div class="scard-date">March 18–27, 2026<span>2 Weeks · Online</span></div>
+        <span class="badge badge-full">Currently Full</span>
+      </div>
+      <div class="scard-body">
+        <h3 class="scard-title">Online Healing Group</h3>
+        <div class="scard-loc">💻 Zoom — Online</div>
+        <p>This session is currently full. August sessions are available — register now to secure your spot. A waitlist is available for this session.</p>
+      </div>
+      <div class="scard-foot">
+        <button class="btn btn-ol" style="font-size:.85rem;padding:.7rem 1.4rem" onclick="openModal('m-waitlist')">Join Waitlist</button>
+        <a href="#sessions" class="sess-detail-link" onclick="openModal('m-aug-online')">See August Dates</a>
+      </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="scard fi" data-type="in-person" data-open="true" style="transition-delay:.1s">
+      <div class="scard-top">
+        <div class="scard-date">April 14–17, 2026<span>4 Days · Tue–Fri</span></div>
+        <span class="badge badge-ip">In-Person</span>
+      </div>
+      <div class="scard-body">
+        <h3 class="scard-title">Healing Group + Equipping Training</h3>
+        <div class="scard-loc">📍 Winnebago, NE</div>
+        <p>A combined healing group and facilitator equipping training. Experience healing yourself <em>and</em> learn how to lead others through it. Lunch provided daily.</p>
+      </div>
+      <div class="scard-foot">
+        <button class="btn btn-red" style="font-size:.85rem;padding:.7rem 1.4rem" onclick="openReg('Healing Group + Equipping Training','April 14–17, 2026 · Winnebago, NE',false)">Register Now</button>
+        <button class="sess-detail-link" onclick="openModal('m-winnebago')">Details</button>
+      </div>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="scard fi" data-type="in-person" data-open="true" style="transition-delay:.15s">
+      <div class="scard-top">
+        <div class="scard-date">May 27–29, 2026<span>3 Days · Wed–Fri</span></div>
+        <span class="badge badge-ip">In-Person</span>
+      </div>
+      <div class="scard-body">
+        <h3 class="scard-title">Community Healing Group</h3>
+        <div class="scard-loc">📍 Fairbanks, AK</div>
+        <p>In-person healing group in Fairbanks. Starts Wednesday at noon with lunch, continues Thursday and Friday 9 AM–4:30 PM. All community members welcome.</p>
+      </div>
+      <div class="scard-foot">
+        <button class="btn btn-red" style="font-size:.85rem;padding:.7rem 1.4rem" onclick="openReg('Community Healing Group','May 27–29, 2026 · Fairbanks, AK',false)">Register Now</button>
+        <button class="sess-detail-link" onclick="openModal('m-fairbanks-may')">Details</button>
+      </div>
+    </div>
+
+    <!-- Card 5 -->
+    <div class="scard fi" data-type="online" data-open="true" style="transition-delay:.2s">
+      <div class="scard-top">
+        <div class="scard-date">August 5–14, 2026<span>2 Weeks · Online</span></div>
+        <span class="badge badge-on">Online</span>
+      </div>
+      <div class="scard-body">
+        <h3 class="scard-title">Online Healing Group</h3>
+        <div class="scard-loc">💻 Zoom — Online</div>
+        <p>A two-week online format. Ideal if you can't travel or prefer to participate from home. Same curriculum, same community, same scripture-grounded experience.</p>
+      </div>
+      <div class="scard-foot">
+        <button class="btn btn-red" style="font-size:.85rem;padding:.7rem 1.4rem" onclick="openReg('Online Healing Group','August 5–14, 2026 · Zoom — Online',false)">Register Now</button>
+        <button class="sess-detail-link" onclick="openModal('m-aug-online')">Details</button>
+      </div>
+    </div>
+
+    <!-- Card 6 -->
+    <div class="scard fi" data-type="in-person" data-open="true" style="transition-delay:.25s">
+      <div class="scard-top">
+        <div class="scard-date">September 2026<span>Dates TBC</span></div>
+        <span class="badge badge-ip">In-Person</span>
+      </div>
+      <div class="scard-body">
+        <h3 class="scard-title">Community Healing Group</h3>
+        <div class="scard-loc">📍 Fairbanks, AK</div>
+        <p>Fall session in Fairbanks. Exact dates to be confirmed. Register your interest and we'll contact you as soon as dates are set.</p>
+      </div>
+      <div class="scard-foot">
+        <button class="btn btn-sky" style="font-size:.85rem;padding:.7rem 1.4rem" onclick="openReg('Community Healing Group — Fall','September 2026 · Fairbanks, AK',false)">Register Interest</button>
+      </div>
+    </div>
+
+  </div>
+  <p style="text-align:center;margin-top:2rem;color:var(--muted);font-size:.9rem">Additional sessions planned for Anchorage, AK (October–November 2026). <button onclick="openReg('Anchorage, AK — Interest','October–November 2026',false)" style="color:var(--red);font-weight:600;text-decoration:underline;cursor:pointer">Contact us</button> to be notified.</p>
+</section>
+
+<!-- What to Expect: 6 Sessions -->
+<section id="sessions-detail" style="padding:5rem 1.5rem;background:#fff" aria-label="What to expect in each session">
+  <div class="wrap">
+    <div class="fi" style="text-align:center;margin-bottom:2.75rem">
+      <span class="lbl" style="display:block;text-align:center">The Curriculum</span>
+      <h2 class="h2" style="text-align:center">The Six Core Sessions</h2>
+      <p style="color:var(--muted);max-width:560px;margin:.75rem auto 0;line-height:1.8">Each session builds on the last. Over 390 scriptures are woven throughout, using the Restoring Hope Bible. You go only where you're ready to go.</p>
+    </div>
+    <div class="acc-list fi">
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">1</span><span class="acc-q">If God Loves Us, Why Do We Suffer?</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>The most honest question we carry. Scripture reveals that God is present <em>in</em> suffering — not absent from it. Participants discover that pain is not a sign of abandonment. We learn that Jesus wept — and that changes everything.</p></div></div>
+      </div>
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">2</span><span class="acc-q">What Is a Wound of the Heart?</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>Heart wounds can begin in childhood, young adulthood, or today. This session helps participants name and understand their specific wounds — whether from abuse, loss, historical trauma, or grief. Naming the wound is the first step toward healing it.</p></div></div>
+      </div>
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">3</span><span class="acc-q">What Can Help Our Heart Wounds Heal?</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>Practical tools for the healing journey — exercises that move understanding from head to heart. Participants discover that healing is a process supported by community, prayer, and scripture. This session also addresses how stress and trauma are held in the body.</p></div></div>
+      </div>
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">4</span><span class="acc-q">What Happens When Someone Is Grieving?</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>A compassionate look at what grief actually looks like — and where people get stuck. Understanding the grief journey is often cathartic and transforming. Participants learn they don't have to stay stuck, and that tears are cleansing, not weakness.</p></div></div>
+      </div>
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">5</span><span class="acc-q">Bringing Our Pain to the Cross &amp; Forgiving Others</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>One of the most powerful sessions. Participants are gently led through releasing pain and beginning the journey of forgiving others. No pressure, no timeline. You go only where you're ready. The community around you holds space with grace and love.</p></div></div>
+      </div>
+      <div class="acc-item">
+        <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+          <div class="acc-left"><span class="acc-num">6</span><span class="acc-q">Looking Back, Looking Forward — Closing with Hope</span></div>
+          <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="acc-body"><div class="acc-inner"><p>The closing session brings everything together — looking back at the healing journey, looking forward with hope. Participants also discover how they can share this with others. The healing group is the beginning, not the end.</p></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Facilitator Training -->
+<section id="facilitator" aria-label="Become a facilitator">
+  <div class="fac-g wrap">
+    <div class="fac-img fi">
+      <img src="images-master/people-lame-deer-women-event-setup.jpg" alt="Women preparing for a healing group event in the forest" loading="lazy">
+    </div>
+    <div class="fi" style="transition-delay:.1s">
+      <span class="lbl fac-lbl">Train &amp; Multiply</span>
+      <h2 class="h2 fac-h2">Become a Facilitator</h2>
+      <p class="fac-p">After experiencing healing yourself, you may feel called to lead others through it. Facilitator training equips you to run healing groups in your own community — multiplying the impact across generations.</p>
+      <blockquote class="fac-pull">
+        "Once I got my ego out of the way and understood it's not my responsibility to change someone — I just follow the guide, like a tour guide — I started enjoying it. It's the Holy Spirit doing all the work."
+        <footer style="margin-top:.75rem;font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:rgba(255,255,255,.45)">— Roberta, Trained Facilitator</footer>
+      </blockquote>
+      <p class="fac-p">You don't need to be a Bible scholar or a pastor. You need a heart for people and a willingness to follow the facilitator guide — which is detailed, well-structured, and easy to use.</p>
+      <ol class="fac-steps">
+        <li><span class="step-n">1</span><span>Attend a healing group as a participant — experience it firsthand</span></li>
+        <li><span class="step-n">2</span><span>Complete the facilitator equipping training (often combined with a healing group session)</span></li>
+        <li><span class="step-n">3</span><span>Co-facilitate a healing group alongside an experienced facilitator</span></li>
+        <li><span class="step-n">4</span><span>Lead your own community healing group — supported by LIM's team</span></li>
+      </ol>
+      <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:.5rem">
+        <a href="#sessions" class="btn btn-sky">See Equipping Training Dates</a>
+        <button class="btn btn-olw" onclick="openModal('m-reg')">Express Interest</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="faq" aria-label="Frequently asked questions">
+  <div class="wrap">
+    <div class="faq-hd fi">
+      <span class="lbl" style="display:block;text-align:center">Common Questions</span>
+      <h2 class="h2" style="text-align:center">Frequently Asked Questions</h2>
+    </div>
+    <div class="faq-wrap fi">
+      <div class="acc-list">
+        <div class="acc-item">
+          <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+            <div class="acc-left"><span class="acc-num" style="font-size:.65rem">Q</span><span class="acc-q">Do I have to be Christian or Lutheran to attend?</span></div>
+            <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </button>
+          <div class="acc-body"><div class="acc-inner"><p>No. All are welcome — regardless of faith, religion, or background. You don't need to prescribe or ascribe to any specific religion to attend. The program is grounded in biblical scripture, but you come as you are and take what is meaningful to you.</p></div></div>
+        </div>
+        <div class="acc-item">
+          <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+            <div class="acc-left"><span class="acc-num" style="font-size:.65rem">Q</span><span class="acc-q">Is it really free? What does the cost cover?</span></div>
+            <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </button>
+          <div class="acc-body"><div class="acc-inner"><p>Yes, completely free to attend. LIM covers all curriculum costs, and in-person sessions include lunch each day. Travel and accommodation are not included, but contact us if cost is a barrier — we want to make this accessible to everyone.</p></div></div>
+        </div>
+        <div class="acc-item">
+          <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+            <div class="acc-left"><span class="acc-num" style="font-size:.65rem">Q</span><span class="acc-q">What if I registered but can't make it?</span></div>
+            <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </button>
+          <div class="acc-body"><div class="acc-inner"><p>Life happens — we understand. Contact us as soon as possible and we'll transfer your registration to a future session. The good news is that we run multiple healing groups throughout the year, so there's always another opportunity. We don't want to miss anyone.</p></div></div>
+        </div>
+        <div class="acc-item">
+          <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+            <div class="acc-left"><span class="acc-num" style="font-size:.65rem">Q</span><span class="acc-q">Do I have to share personal things in the group?</span></div>
+            <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </button>
+          <div class="acc-body"><div class="acc-inner"><p>No. The healing journey is completely self-directed. You share only what you are comfortable sharing, and you go only where you're ready to go. There is no pressure and no force. The group agrees to confidentiality guidelines at the start of every session.</p></div></div>
+        </div>
+        <div class="acc-item">
+          <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+            <div class="acc-left"><span class="acc-num" style="font-size:.65rem">Q</span><span class="acc-q">Must I attend all sessions?</span></div>
+            <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </button>
+          <div class="acc-body"><div class="acc-inner"><p>Yes — the sessions build on each other, and the connections you form with others are an important part of the experience. If you miss a session, contact us; we'll do our best to help you catch up or transfer to a future group where you can attend fully.</p></div></div>
+        </div>
+        <div class="acc-item">
+          <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+            <div class="acc-left"><span class="acc-num" style="font-size:.65rem">Q</span><span class="acc-q">What is a Prayer Warrior?</span></div>
+            <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </button>
+          <div class="acc-body"><div class="acc-inner"><p>A Prayer Warrior is someone who has been through the healing group process and supports others through prayer — before, during, and after every session. They pray for every participant by name, including those who wanted to come but couldn't. They're also available for private conversation if someone needs it. Every healing group is fully prayed up.</p></div></div>
+        </div>
+        <div class="acc-item">
+          <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
+            <div class="acc-left"><span class="acc-num" style="font-size:.65rem">Q</span><span class="acc-q">Can we host a healing group at our church or community?</span></div>
+            <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </button>
+          <div class="acc-body"><div class="acc-inner"><p>Absolutely. LIM partners with churches, community organizations, and tribal entities to bring healing groups to new locations. Contact us to discuss hosting a group in your community. We provide curriculum, training, and ongoing support.</p></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Contact / Register -->
+<section id="contact" aria-label="Register or contact us">
+  <div class="contact-inner wrap">
+    <div class="fi">
+      <h2 class="contact-h">Ready to Register?</h2>
+      <p class="contact-p">Questions? Want to talk to someone before registering? We're here. Every warm, gentle invitation matters — and we don't want to miss anyone.</p>
+      <div class="contact-items">
+        <div class="ci"><span class="ci-icon">📞</span><div><span class="ci-label">Phone</span><span class="ci-val"><a href="tel:2624395663">(262) 439-5663</a> · <a href="tel:2627835267">(262) 783-5267</a></span></div></div>
+        <div class="ci"><span class="ci-icon">✉️</span><div><span class="ci-label">Email</span><span class="ci-val"><a href="mailto:info@lutheranindianministries.org">info@lutheranindianministries.org</a></span></div></div>
+        <div class="ci"><span class="ci-icon">📍</span><div><span class="ci-label">Mailing</span><span class="ci-val">Lutheran Indian Ministries · Brookfield, WI</span></div></div>
+      </div>
+    </div>
+    <div class="contact-form fi" style="transition-delay:.1s">
+      <h3>Register / Get More Information</h3>
+      <div class="form-row">
+        <div class="form-group"><label for="fn">First Name *</label><input type="text" id="fn" name="first_name" required placeholder="Your first name"></div>
+        <div class="form-group"><label for="ln">Last Name *</label><input type="text" id="ln" name="last_name" required placeholder="Your last name"></div>
+      </div>
+      <div class="form-group"><label for="em">Email Address *</label><input type="email" id="em" name="email" required placeholder="your@email.com"></div>
+      <div class="form-group"><label for="ph">Phone Number</label><input type="tel" id="ph" name="phone" placeholder="(optional)"></div>
+      <div class="form-group">
+        <label for="sess">Which Session Are You Interested In? *</label>
+        <select id="sess" name="session" required>
+          <option value="">— Select a session —</option>
+          <option>March 13–14 · Military · Fairbanks, AK</option>
+          <option>April 14–17 · Healing + Equipping · Winnebago, NE</option>
+          <option>May 27–29 · Community Healing · Fairbanks, AK</option>
+          <option>August 5–14 · Online</option>
+          <option>September 2026 · Fairbanks, AK (dates TBC)</option>
+          <option>Join waitlist for March Online (Currently Full)</option>
+          <option>Facilitator Training Interest</option>
+          <option>Contact me about hosting a group</option>
+        </select>
+      </div>
+      <div class="form-group"><label for="msg">Anything you'd like us to know?</label><textarea id="msg" name="message" placeholder="Questions, accessibility needs, or anything else..."></textarea></div>
+      <p class="form-note">Your information is confidential. We will only use it to contact you about healing group registration. You may opt out at any time.</p>
+      <button type="button" class="btn btn-red" style="width:100%;justify-content:center;font-size:1rem" onclick="submitForm()">Submit Registration</button>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+  <div class="foot-top">
+    <div class="foot-brand">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+      <p>A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.</p>
+    </div>
+    <div class="foot-col">
+      <h4>Healing Groups</h4>
+      <ul>
+        <li><a href="#what">About the Program</a></li>
+        <li><a href="#sessions">Find a Group</a></li>
+        <li><a href="#facilitator">Become a Facilitator</a></li>
+        <li><a href="#faq">FAQ</a></li>
+      </ul>
+    </div>
+    <div class="foot-col">
+      <h4>Ministry</h4>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="index.html#pillars">Three Pillars</a></li>
+        <li><a href="index.html#haskell">Haskell LIGHT</a></li>
+        <li><a href="index.html#donate">Donate</a></li>
+      </ul>
+    </div>
+    <div class="foot-col">
+      <h4>Contact</h4>
+      <ul>
+        <li><a href="tel:2624395663">(262) 439-5663</a></li>
+        <li><a href="tel:2627835267">(262) 783-5267</a></li>
+        <li><a href="mailto:info@lutheranindianministries.org">Email LIM</a></li>
+        <li><a href="https://www.lutheranindianministries.org" target="_blank" rel="noopener">Official Website</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="foot-bot">
+    <p>© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit · All Rights Reserved</p>
+  </div>
+</footer>
+
+<!-- ═══════════ MODALS ═══════════ -->
+
+<!-- Registration modal -->
+<div id="m-reg" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-reg-t">
+  <div class="modal">
+
+    <!-- Header -->
+    <div class="mhd" style="padding:1.25rem 1.75rem 1rem">
+      <h2 class="m-title" id="m-reg-t" style="font-size:1.15rem">Free Event Registration</h2>
+      <button class="m-x" onclick="closeModal('m-reg')" aria-label="Close">✕</button>
+    </div>
+
+    <!-- Selected session banner -->
+    <div class="reg-event-summary">
+      <span class="reg-event-title" id="reg-event-title">Healing Group</span>
+      <span class="reg-event-detail" id="reg-event-detail"></span>
+    </div>
+
+    <!-- Form + Success wrapper -->
+    <div class="reg-body">
+
+      <!-- Success state -->
+      <div class="reg-success" id="reg-success">
+        <div class="reg-success-ic">✓</div>
+        <h3>You're Registered!</h3>
+        <p>Thank you for signing up. We'll be in touch with confirmation details and — for online sessions — your Zoom link.<br><br>Questions? Call <strong>(262) 439-5663</strong></p>
+        <button class="btn btn-ol" onclick="closeModal('m-reg')">Close</button>
+      </div>
+
+      <!-- The form -->
+      <form id="reg-form" name="healing-group-registration" method="POST" data-netlify="true" onsubmit="regSubmit(event)" netlify novalidate>
+        <input type="hidden" name="form-name" value="healing-group-registration">
+        <input type="hidden" name="session" id="reg-session-val">
+
+        <!-- Your Information -->
+        <div class="reg-section">
+          <p class="reg-section-title">Your Information</p>
+          <div class="reg-row">
+            <div class="reg-field">
+              <label for="reg-fname">First Name <span class="req">*</span></label>
+              <input type="text" id="reg-fname" name="first-name" autocomplete="given-name" required placeholder="First">
+            </div>
+            <div class="reg-field">
+              <label for="reg-lname">Last Name <span class="req">*</span></label>
+              <input type="text" id="reg-lname" name="last-name" autocomplete="family-name" required placeholder="Last">
+            </div>
+          </div>
+          <div class="reg-row full">
+            <div class="reg-field">
+              <label for="reg-email">Email Address <span class="req">*</span></label>
+              <input type="email" id="reg-email" name="email" autocomplete="email" required placeholder="you@example.com">
+            </div>
+          </div>
+          <div class="reg-row full">
+            <div class="reg-field">
+              <label for="reg-phone">Cell Phone <span class="req">*</span></label>
+              <input type="tel" id="reg-phone" name="phone" autocomplete="tel" required placeholder="(___) ___-____">
+            </div>
+          </div>
+          <div class="reg-row">
+            <div class="reg-field">
+              <label for="reg-age">Age <span class="opt">(optional)</span></label>
+              <input type="number" id="reg-age" name="age" min="1" max="120" placeholder="Age">
+            </div>
+            <div class="reg-field">
+              <label>Gender <span class="opt">(optional)</span></label>
+              <div class="reg-radio">
+                <label><input type="radio" name="gender" value="male"> Male</label>
+                <label><input type="radio" name="gender" value="female"> Female</label>
+                <label><input type="radio" name="gender" value="other"> Other</label>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Home Address -->
+        <div class="reg-section">
+          <p class="reg-section-title">Home Address</p>
+          <div class="reg-row full">
+            <div class="reg-field">
+              <label for="reg-addr1">Street Address <span class="req">*</span></label>
+              <input type="text" id="reg-addr1" name="address" autocomplete="street-address" required placeholder="Street address">
+            </div>
+          </div>
+          <div class="reg-row full">
+            <div class="reg-field">
+              <label for="reg-addr2">Apt / Suite <span class="opt">(optional)</span></label>
+              <input type="text" id="reg-addr2" name="address-line2" autocomplete="address-line2" placeholder="Apt, suite, etc.">
+            </div>
+          </div>
+          <div class="reg-row">
+            <div class="reg-field">
+              <label for="reg-city">City <span class="req">*</span></label>
+              <input type="text" id="reg-city" name="city" autocomplete="address-level2" required placeholder="City">
+            </div>
+            <div class="reg-field">
+              <label for="reg-state">State <span class="req">*</span></label>
+              <input type="text" id="reg-state" name="state" autocomplete="address-level1" required placeholder="ST" maxlength="2" style="text-transform:uppercase">
+            </div>
+          </div>
+          <div class="reg-row">
+            <div class="reg-field">
+              <label for="reg-zip">ZIP Code <span class="req">*</span></label>
+              <input type="text" id="reg-zip" name="zip" autocomplete="postal-code" required placeholder="ZIP" maxlength="10">
+            </div>
+            <div class="reg-field">
+              <label for="reg-country">Country</label>
+              <select id="reg-country" name="country" autocomplete="country-name">
+                <option value="US" selected>United States</option>
+                <option value="CA">Canada</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <!-- Emergency Contact -->
+        <div class="reg-section">
+          <p class="reg-section-title">Emergency Contact <span style="font-weight:400;text-transform:none;font-size:.78rem;letter-spacing:0">(recommended)</span></p>
+          <div class="reg-row">
+            <div class="reg-field">
+              <label for="reg-ecname">Contact Name</label>
+              <input type="text" id="reg-ecname" name="emergency-contact-name" placeholder="Full name">
+            </div>
+            <div class="reg-field">
+              <label for="reg-ecphone">Contact Phone</label>
+              <input type="tel" id="reg-ecphone" name="emergency-contact-phone" placeholder="(___) ___-____">
+            </div>
+          </div>
+        </div>
+
+        <!-- Military Section (conditional) -->
+        <div class="reg-section" id="reg-mil-section" style="display:none">
+          <p class="reg-section-title">🎖️ Military Eligibility</p>
+          <div class="reg-mil-notice">
+            <strong>This is a closed group for Ft. Wainwright personnel.</strong><br>
+            This healing group is offered exclusively to active duty military members. Civilian registrations cannot be accepted for this session.
+          </div>
+          <div class="reg-row">
+            <div class="reg-field">
+              <label for="reg-mil-branch">Branch of Service <span class="req">*</span></label>
+              <select id="reg-mil-branch" name="military-branch">
+                <option value="">— Select branch —</option>
+                <option>Army</option><option>Navy</option><option>Marine Corps</option>
+                <option>Air Force</option><option>Space Force</option><option>Coast Guard</option>
+              </select>
+            </div>
+            <div class="reg-field">
+              <label for="reg-mil-unit">Unit / Battalion <span class="opt">(optional)</span></label>
+              <input type="text" id="reg-mil-unit" name="military-unit" placeholder="e.g. 1-5 Cav, 25th ID">
+            </div>
+          </div>
+          <div class="reg-check">
+            <input type="checkbox" id="reg-ack-mil" name="military-acknowledgement">
+            <label for="reg-ack-mil">I confirm I am currently <strong>active duty military personnel</strong> and understand this group is limited to Ft. Wainwright service members. <span class="req">*</span></label>
+          </div>
+        </div>
+
+        <!-- Acknowledgements -->
+        <div class="reg-section">
+          <p class="reg-section-title">A Few Things to Know</p>
+          <div class="reg-check">
+            <input type="checkbox" id="reg-ack-attend" name="attendance-acknowledgement" required>
+            <label for="reg-ack-attend">I understand that if I'm unable to attend, this may affect my ability to access the healing group in the future. <span class="req">*</span></label>
+          </div>
+          <div class="reg-check">
+            <input type="checkbox" id="reg-ack-cert" name="certificate-acknowledgement" required>
+            <label for="reg-ack-cert">I understand that a certificate of completion requires attending all scheduled sessions. <span class="req">*</span></label>
+          </div>
+          <div class="reg-row full" style="margin-top:.5rem">
+            <div class="reg-field">
+              <label for="reg-dietary">Dietary Needs <span class="opt">(optional)</span></label>
+              <textarea id="reg-dietary" name="dietary-needs" placeholder="Any dietary restrictions or needs…"></textarea>
+            </div>
+          </div>
+        </div>
+
+        <!-- Submit -->
+        <div class="reg-free-badge">This event is completely free</div>
+        <button type="submit" class="btn btn-red reg-submit">Complete Registration</button>
+        <p class="reg-alt">Prefer to register by phone? Call <a href="tel:2624395663">(262) 439-5663</a></p>
+      </form>
+
+    </div>
+  </div>
+</div>
+
+<!-- Waitlist modal -->
+<div id="m-waitlist" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-waitlist-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-waitlist-t">Join the Waitlist</h2><button class="m-x" onclick="closeModal('m-waitlist')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <p>The March 18–27 online session is currently full. Use the registration form to note your interest in this session and we'll contact you if a spot opens — or automatically register you for the August 5–14 session if you prefer.</p>
+      <p>The August online session has open spots and follows the same curriculum. We encourage you to register for August now.</p>
+      <div class="m-cta">
+        <a href="#contact" class="btn btn-red" onclick="closeModal('m-waitlist')">Join Waitlist / Register for August</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Session detail: Fairbanks Military -->
+<div id="m-fairbanks-mil" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-fmil-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-fmil-t">Military Personnel Healing Group</h2><button class="m-x" onclick="closeModal('m-fairbanks-mil')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <div class="m-detail-row">
+        <span class="m-badge">📅 March 13–14, 2026</span>
+        <span class="m-badge">📍 Fairbanks, AK</span>
+        <span class="m-badge">🎖 Military Focus</span>
+        <span class="m-badge">🍽 Lunch Included</span>
+      </div>
+      <p>A healing group specifically for active military personnel, veterans, and their families. Same scripture-based curriculum, same compassionate community — in a setting that honors the unique experiences of those who have served.</p>
+      <ul>
+        <li>Open to active military, veterans, and family members</li>
+        <li>Confidential and community-supported</li>
+        <li>All faith backgrounds welcome</li>
+        <li>Lunch provided both days</li>
+        <li>Ages 18+</li>
+      </ul>
+      <div class="m-cta">
+        <button class="btn btn-red" onclick="closeModal('m-fairbanks-mil');openModal('m-reg')">Register Now</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Session detail: Winnebago -->
+<div id="m-winnebago" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-win-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-win-t">Healing Group + Equipping · Winnebago, NE</h2><button class="m-x" onclick="closeModal('m-winnebago')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <div class="m-detail-row">
+        <span class="m-badge">📅 April 14–17, 2026</span>
+        <span class="m-badge">📍 Winnebago, NE</span>
+        <span class="m-badge">🍽 Lunch Included</span>
+        <span class="m-badge">4 Days</span>
+      </div>
+      <p>A unique combined event: experience a full healing group <em>and</em> receive facilitator equipping training in the same week. Ideal for community leaders, pastors, and anyone who wants to bring healing groups to their own community.</p>
+      <ul>
+        <li>Attend healing group sessions as a participant</li>
+        <li>Receive facilitator training to lead your own groups</li>
+        <li>Leave equipped and empowered to multiply healing in your community</li>
+        <li>Lunch provided daily · All welcome · Ages 18+</li>
+      </ul>
+      <div class="m-cta">
+        <button class="btn btn-red" onclick="closeModal('m-winnebago');openModal('m-reg')">Register Now</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Session detail: Fairbanks May -->
+<div id="m-fairbanks-may" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-fmay-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-fmay-t">Community Healing Group · Fairbanks, AK</h2><button class="m-x" onclick="closeModal('m-fairbanks-may')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <div class="m-detail-row">
+        <span class="m-badge">📅 May 27–29, 2026</span>
+        <span class="m-badge">📍 Fairbanks, AK</span>
+        <span class="m-badge">🍽 Lunch Included</span>
+        <span class="m-badge">3 Days</span>
+      </div>
+      <p>A typical Fairbanks healing group schedule:</p>
+      <ul>
+        <li><strong>Wednesday:</strong> Noon – 4:30 PM (includes lunch)</li>
+        <li><strong>Thursday:</strong> 9 AM – 4:30 PM (includes lunch)</li>
+        <li><strong>Friday:</strong> 9 AM – 1:00 PM (includes lunch)</li>
+        <li>Open to all community members · Ages 18+ · All backgrounds welcome</li>
+      </ul>
+      <div class="m-cta">
+        <button class="btn btn-red" onclick="closeModal('m-fairbanks-may');openModal('m-reg')">Register Now</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Session detail: August Online -->
+<div id="m-aug-online" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-aug-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-aug-t">Online Healing Group · August 2026</h2><button class="m-x" onclick="closeModal('m-aug-online')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <div class="m-detail-row">
+        <span class="m-badge">📅 August 5–14, 2026</span>
+        <span class="m-badge">💻 Zoom · Online</span>
+        <span class="m-badge">2 Weeks</span>
+        <span class="m-badge">Open Spots</span>
+      </div>
+      <p>A two-week online format using Zoom. Ideal for participants who cannot travel or prefer to join from home. The same full curriculum, the same community experience, the same scripture-grounded healing.</p>
+      <ul>
+        <li>Sessions held over two weeks via Zoom video call</li>
+        <li>Technology support available for those who need it</li>
+        <li>Same 6 core sessions, same 390+ scriptures</li>
+        <li>You will receive a Zoom link and schedule upon registration</li>
+        <li>Open to all · Ages 18+ · Free</li>
+      </ul>
+      <div class="m-cta">
+        <button class="btn btn-red" onclick="closeModal('m-aug-online');openModal('m-reg')">Register Now</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Session detail: Six sessions popup -->
+<div id="m-sessions" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-sess-t">
+  <div class="modal">
+    <div class="mhd"><h2 class="m-title" id="m-sess-t">The Six Core Sessions</h2><button class="m-x" onclick="closeModal('m-sessions')" aria-label="Close">✕</button></div>
+    <div class="mbody">
+      <p>Over 16 hours across 2–3 days, six sessions walk participants through scripture and personal reflection. Each builds on the last, supported by 390+ scriptures from the Restoring Hope Bible.</p>
+      <ul>
+        <li><strong>Session 1:</strong> If God loves us, why do we suffer?</li>
+        <li><strong>Session 2:</strong> What is a wound of the heart?</li>
+        <li><strong>Session 3:</strong> What can help our heart wounds heal?</li>
+        <li><strong>Session 4:</strong> What happens when someone is grieving?</li>
+        <li><strong>Session 5:</strong> Bringing our pain to the cross &amp; forgiving others</li>
+        <li><strong>Session 6:</strong> Looking back, looking forward — closing with hope</li>
+      </ul>
+      <p style="font-size:.9rem;margin-top:.75rem">Healing is self-directed. You share only what you're comfortable sharing, and go only where you're ready to go. The Holy Spirit does the heavy lifting.</p>
+      <div class="m-cta">
+        <a href="#sessions" class="btn btn-red" onclick="closeModal('m-sessions')">Find a Session Near You</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  function openModal(id){document.getElementById(id).classList.add('on');document.body.style.overflow='hidden';}
+  function closeModal(id){
+    document.getElementById(id).classList.remove('on');
+    document.body.style.overflow='';
+    if(id==='m-reg'){
+      // reset form state on close
+      var form=document.getElementById('reg-form');
+      var success=document.getElementById('reg-success');
+      if(form){form.style.display='';form.reset();}
+      if(success){success.style.display='none';}
+      var milSec=document.getElementById('reg-mil-section');
+      if(milSec){milSec.style.display='none';}
+      var sb=form&&form.querySelector('.reg-submit');
+      if(sb){sb.disabled=false;sb.textContent='Complete Registration';}
+    }
+  }
+
+  function openReg(title, detail, isMilitary){
+    document.getElementById('reg-event-title').textContent = title;
+    document.getElementById('reg-event-detail').textContent = detail;
+    document.getElementById('reg-session-val').value = title + ' — ' + detail;
+    var milSec = document.getElementById('reg-mil-section');
+    var milBranch = document.getElementById('reg-mil-branch');
+    var milAck = document.getElementById('reg-ack-mil');
+    if(isMilitary){
+      milSec.style.display = 'block';
+      milBranch.required = true;
+      milAck.required = true;
+    } else {
+      milSec.style.display = 'none';
+      milBranch.required = false;
+      milAck.required = false;
+    }
+    openModal('m-reg');
+    setTimeout(function(){
+      var first = document.getElementById('reg-fname');
+      if(first) first.focus();
+    }, 120);
+  }
+
+  function regSubmit(e){
+    e.preventDefault();
+    var form = document.getElementById('reg-form');
+    if(!form.checkValidity()){form.reportValidity();return;}
+    var btn = form.querySelector('.reg-submit');
+    btn.disabled = true; btn.textContent = 'Submitting…';
+    fetch('/', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+      body: new URLSearchParams(new FormData(form)).toString()
+    }).then(function(){
+      form.style.display = 'none';
+      document.getElementById('reg-success').style.display = 'block';
+      document.getElementById('reg-success').scrollIntoView({behavior:'smooth', block:'start'});
+    }).catch(function(){
+      btn.disabled = false;
+      btn.textContent = 'Try Again';
+    });
+  }
+  document.querySelectorAll('.mbk').forEach(b=>{b.addEventListener('click',e=>{if(e.target===b)closeModal(b.id)});});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape')document.querySelectorAll('.mbk.on').forEach(m=>closeModal(m.id));});
+
+  function acc(btn){
+    const body=btn.closest('.acc-item').querySelector('.acc-body');
+    const open=btn.classList.contains('open');
+    btn.closest('.acc-list').querySelectorAll('.acc-btn.open').forEach(b=>{
+      if(b!==btn){b.classList.remove('open');b.setAttribute('aria-expanded','false');b.closest('.acc-item').querySelector('.acc-body').style.maxHeight='0';}
+    });
+    if(open){btn.classList.remove('open');btn.setAttribute('aria-expanded','false');body.style.maxHeight='0';}
+    else{btn.classList.add('open');btn.setAttribute('aria-expanded','true');body.style.maxHeight=body.scrollHeight+'px';}
+  }
+
+  // Filter sessions
+  function filter(btn, type){
+    document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('act'));
+    btn.classList.add('act');
+    document.querySelectorAll('.scard').forEach(card=>{
+      if(type==='all') card.style.display='';
+      else if(type==='open') card.style.display=card.dataset.open==='true'?'':'none';
+      else card.style.display=card.dataset.type===type?'':'none';
+    });
+  }
+
+  // Fade in
+  const fi=new IntersectionObserver(entries=>{
+    entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('vis');fi.unobserve(e.target);}});
+  },{threshold:.08});
+  document.querySelectorAll('.fi').forEach(el=>fi.observe(el));
+
+  // Form submit placeholder
+  function submitForm(){
+    alert('Thank you for registering! A member of our team will contact you within 1–2 business days. If you need immediate assistance, please call (262) 439-5663.\n\nGod bless you for saying yes.');
+  }
+</script>
+</body>
+</html>

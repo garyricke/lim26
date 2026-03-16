@@ -1,0 +1,18 @@
+.DS_Store
+**/.DS_Store
+.claude/
+
+# Exclude entire images-master; only used images are committed explicitly
+images-master/*
+!images-master/prayer-people-circle-outside.jpg
+!images-master/people-haskell-man-drum.jpg
+!images-master/people-women-prayer-before-cross.jpg
+!images-master/people-lame-deer-women-tipi-healing-retreat.jpg
+!images-master/people-healing-embrace.jpg
+!images-master/place-lame-deer-tipi-altar-cross.jpg
+!images-master/people-women-flowers-haskell.jpg
+!images-master/thing-haskell-light-logo.jpg
+!images-master/people-haskell-graduation-ceremony.jpg
+!images-master/robert-talking.jpg
+!images-master/people-boy-purple-flower.jpg
+!images-master/people-lame-deer-women-event-setup.jpg

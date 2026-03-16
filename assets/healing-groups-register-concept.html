@@ -1,0 +1,1267 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>LIM Healing Groups Calendar and Reg feb 2026</title>
+    
+
+  </head>
+    
+  <body>
+  <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Healing Groups — Upcoming Sessions</title>
+  <style>
+    /* ── Reset & Base ─────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: #f5f2ee;
+      color: #2c3540;
+      line-height: 1.6;
+    }
+    a { color: inherit; text-decoration: none; }
+    button { cursor: pointer; font-family: inherit; }
+
+    /* ── Colour tokens ────────────────────────────────────────── */
+    :root {
+      --teal:       #1a526b;
+      --teal-light: #e8f4f8;
+      --green:      #2e6b42;
+      --green-light:#e8f4ec;
+      --purple:     #5a3e78;
+      --purple-light:#f0ebf7;
+      --gold:       #b5720a;
+      --gold-light: #fef3e2;
+      --warm-white: #faf8f5;
+      --border:     #e4dfd8;
+      --text-muted: #6b7280;
+      --shadow-sm:  0 1px 4px rgba(0,0,0,.08);
+      --shadow-md:  0 4px 16px rgba(0,0,0,.12);
+      --shadow-lg:  0 8px 32px rgba(0,0,0,.18);
+      --radius-card: 14px;
+      --radius-pill: 999px;
+    }
+
+    /* ── Hero / Header ────────────────────────────────────────── */
+    .hero {
+      background: linear-gradient(135deg, #1a526b 0%, #2e6b42 100%);
+      color: #fff;
+      text-align: center;
+      padding: 3.5rem 1.5rem 2.5rem;
+    }
+    .hero__eyebrow {
+      font-size: .8rem;
+      letter-spacing: .15em;
+      text-transform: uppercase;
+      opacity: .75;
+      margin-bottom: .5rem;
+    }
+    .hero h1 {
+      font-size: clamp(1.8rem, 4vw, 2.8rem);
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: .75rem;
+    }
+    .hero__sub {
+      font-size: 1rem;
+      opacity: .85;
+      max-width: 540px;
+      margin: 0 auto 1.5rem;
+    }
+    .hero__contact {
+      display: inline-flex;
+      align-items: center;
+      gap: .5rem;
+      background: rgba(255,255,255,.15);
+      border: 1px solid rgba(255,255,255,.3);
+      border-radius: var(--radius-pill);
+      padding: .5rem 1.25rem;
+      font-size: .9rem;
+    }
+
+    /* ── Filter Bar ───────────────────────────────────────────── */
+    .filter-bar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: var(--warm-white);
+      border-bottom: 1px solid var(--border);
+      padding: .75rem 1.5rem;
+      display: flex;
+      gap: .5rem;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+    }
+    .filter-bar__label {
+      font-size: .8rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      margin-right: .25rem;
+    }
+    .filter-btn {
+      padding: .35rem 1rem;
+      border-radius: var(--radius-pill);
+      border: 2px solid var(--border);
+      background: #fff;
+      font-size: .85rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      transition: all .18s ease;
+    }
+    .filter-btn:hover { border-color: var(--teal); color: var(--teal); }
+    .filter-btn.active {
+      background: var(--teal);
+      border-color: var(--teal);
+      color: #fff;
+    }
+    .filter-btn[data-type="in-person"].active  { background: var(--teal);   border-color: var(--teal); }
+    .filter-btn[data-type="online"].active     { background: var(--green);  border-color: var(--green); }
+    .filter-btn[data-type="equipping"].active  { background: var(--purple); border-color: var(--purple); }
+    .filter-btn[data-type="cop"].active        { background: var(--gold);   border-color: var(--gold); }
+
+    /* ── Events Grid ──────────────────────────────────────────── */
+    .events-section {
+      max-width: 1160px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+    }
+    .events-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+      gap: 1.5rem;
+    }
+
+    /* ── Event Card ───────────────────────────────────────────── */
+    .event-card {
+      background: #fff;
+      border-radius: var(--radius-card);
+      box-shadow: var(--shadow-sm);
+      border: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      transition: transform .2s ease, box-shadow .2s ease;
+    }
+    .event-card:hover {
+      transform: translateY(-3px);
+      box-shadow: var(--shadow-md);
+    }
+    .event-card.hidden { display: none; }
+
+    /* Card colour stripe */
+    .card-stripe {
+      height: 5px;
+      flex-shrink: 0;
+    }
+    .type-in-person  .card-stripe { background: var(--teal); }
+    .type-online     .card-stripe { background: var(--green); }
+    .type-equipping  .card-stripe { background: var(--purple); }
+    .type-cop        .card-stripe { background: var(--gold); }
+
+    .card-body {
+      padding: 1.25rem 1.5rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: .75rem;
+    }
+
+    /* Type badge */
+    .card-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: .35rem;
+      font-size: .72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+      padding: .2rem .65rem;
+      border-radius: var(--radius-pill);
+      width: fit-content;
+    }
+    .type-in-person  .card-badge { background: var(--teal-light);   color: var(--teal); }
+    .type-online     .card-badge { background: var(--green-light);  color: var(--green); }
+    .type-equipping  .card-badge { background: var(--purple-light); color: var(--purple); }
+    .type-cop        .card-badge { background: var(--gold-light);   color: var(--gold); }
+
+    .card-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      line-height: 1.3;
+      color: #1a1a2e;
+    }
+
+    /* Date block */
+    .card-dates {
+      display: flex;
+      flex-direction: column;
+      gap: .25rem;
+    }
+    .card-date-row {
+      display: flex;
+      align-items: baseline;
+      gap: .5rem;
+      font-size: .88rem;
+    }
+    .card-date-label {
+      font-weight: 700;
+      color: #1a1a2e;
+      white-space: nowrap;
+    }
+    .card-time {
+      color: var(--text-muted);
+      font-size: .83rem;
+    }
+    .card-tz {
+      font-size: .75rem;
+      color: var(--text-muted);
+      font-style: italic;
+      margin-top: .1rem;
+    }
+
+    /* Location row */
+    .card-location {
+      display: flex;
+      gap: .5rem;
+      align-items: flex-start;
+      font-size: .88rem;
+      color: var(--text-muted);
+    }
+    .card-location .icon { flex-shrink: 0; margin-top: 2px; }
+
+    /* Notice / info block */
+    .card-notice {
+      font-size: .82rem;
+      color: var(--text-muted);
+      background: #f9f7f4;
+      border-left: 3px solid var(--border);
+      padding: .5rem .75rem;
+      border-radius: 4px;
+    }
+
+    /* Card footer */
+    .card-footer {
+      padding: .75rem 1.5rem 1.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid #f0ece6;
+      gap: .5rem;
+    }
+    .card-footer__info {
+      font-size: .8rem;
+      color: var(--text-muted);
+    }
+
+    .btn-register {
+      padding: .55rem 1.4rem;
+      border-radius: var(--radius-pill);
+      border: none;
+      font-size: .9rem;
+      font-weight: 700;
+      color: #fff;
+      transition: opacity .18s, transform .18s;
+      white-space: nowrap;
+    }
+    .btn-register:hover { opacity: .88; transform: scale(1.02); }
+    .type-in-person  .btn-register { background: var(--teal); }
+    .type-online     .btn-register { background: var(--green); }
+    .type-equipping  .btn-register { background: var(--purple); }
+    .type-cop        .btn-register { background: var(--gold); cursor: default; }
+
+    /* ── No-results message ───────────────────────────────────── */
+    .no-results {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--text-muted);
+      display: none;
+    }
+
+    /* ── Modal Overlay ────────────────────────────────────────── */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(20, 30, 40, .65);
+      backdrop-filter: blur(3px);
+      z-index: 200;
+      display: none;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 1rem;
+      overflow-y: auto;
+    }
+    .modal-overlay.open { display: flex; }
+    .modal {
+      background: #fff;
+      border-radius: 18px;
+      box-shadow: var(--shadow-lg);
+      width: 100%;
+      max-width: 580px;
+      margin: auto;
+      animation: slideUp .25s ease;
+    }
+    @keyframes slideUp {
+      from { opacity: 0; transform: translateY(24px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Modal header */
+    .modal-header {
+      padding: 1.5rem 1.75rem 1rem;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+    .modal-header__text h2 {
+      font-size: 1.25rem;
+      font-weight: 700;
+    }
+    .modal-header__text p {
+      font-size: .88rem;
+      color: var(--text-muted);
+      margin-top: .2rem;
+    }
+    .btn-close {
+      background: #f3f0eb;
+      border: none;
+      border-radius: 50%;
+      width: 34px;
+      height: 34px;
+      font-size: 1.1rem;
+      line-height: 1;
+      color: var(--text-muted);
+      flex-shrink: 0;
+      transition: background .15s;
+    }
+    .btn-close:hover { background: #e8e3dc; }
+
+    /* Selected event summary in modal */
+    .modal-event-summary {
+      margin: 1rem 1.75rem;
+      padding: .85rem 1rem;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: var(--teal-light);
+      font-size: .9rem;
+    }
+    .modal-event-summary strong { display: block; font-size: 1rem; margin-bottom: .25rem; }
+
+    /* Form sections */
+    .modal-form { padding: 0 1.75rem 1.75rem; }
+    .form-section { margin-top: 1.25rem; }
+    .form-section__title {
+      font-size: .8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+      color: var(--text-muted);
+      margin-bottom: .75rem;
+      padding-bottom: .4rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: .75rem;
+      margin-bottom: .75rem;
+    }
+    .form-row.full { grid-template-columns: 1fr; }
+    .form-group { display: flex; flex-direction: column; gap: .3rem; }
+    .form-group label {
+      font-size: .82rem;
+      font-weight: 600;
+      color: #3d4655;
+    }
+    .form-group label .req { color: #c0392b; margin-left: 2px; }
+    .form-group label .opt { color: var(--text-muted); font-weight: 400; font-size: .78rem; }
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+      padding: .55rem .8rem;
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      font-size: .9rem;
+      font-family: inherit;
+      color: #2c3540;
+      background: #fff;
+      transition: border-color .15s, box-shadow .15s;
+      width: 100%;
+    }
+    .form-group input:focus,
+    .form-group select:focus,
+    .form-group textarea:focus {
+      outline: none;
+      border-color: var(--teal);
+      box-shadow: 0 0 0 3px rgba(26,82,107,.1);
+    }
+    .form-group textarea { resize: vertical; min-height: 60px; }
+
+    /* Checkbox row */
+    .check-row {
+      display: flex;
+      align-items: flex-start;
+      gap: .65rem;
+      margin-bottom: .65rem;
+      font-size: .88rem;
+    }
+    .check-row input[type="checkbox"] {
+      margin-top: 3px;
+      width: 16px;
+      height: 16px;
+      accent-color: var(--teal);
+      flex-shrink: 0;
+    }
+    .check-row .check-label { line-height: 1.45; }
+
+    /* Gender radios */
+    .radio-group { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: .15rem; }
+    .radio-item { display: flex; align-items: center; gap: .4rem; font-size: .9rem; }
+    .radio-item input[type="radio"] { accent-color: var(--teal); width: 15px; height: 15px; }
+
+    /* Free badge */
+    .free-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: .3rem;
+      background: var(--green-light);
+      color: var(--green);
+      font-size: .8rem;
+      font-weight: 700;
+      padding: .2rem .65rem;
+      border-radius: var(--radius-pill);
+      margin-bottom: .5rem;
+    }
+
+    /* Submit button */
+    .btn-submit {
+      display: block;
+      width: 100%;
+      padding: .85rem;
+      background: var(--teal);
+      color: #fff;
+      border: none;
+      border-radius: var(--radius-pill);
+      font-size: 1rem;
+      font-weight: 700;
+      margin-top: 1.25rem;
+      transition: opacity .18s, transform .15s;
+    }
+    .btn-submit:hover { opacity: .88; transform: scale(1.01); }
+    .btn-submit:active { transform: scale(.99); }
+
+    .form-alt-contact {
+      text-align: center;
+      font-size: .83rem;
+      color: var(--text-muted);
+      margin-top: .75rem;
+    }
+    .form-alt-contact a { color: var(--teal); font-weight: 600; }
+
+    /* ── Success state ─────────────────────────────────────────── */
+    .modal-success {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 2.5rem 2rem;
+      gap: 1rem;
+    }
+    .modal-success.show { display: flex; }
+    .success-icon {
+      width: 64px; height: 64px;
+      background: var(--green-light);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.8rem;
+    }
+    .modal-success h2 { font-size: 1.4rem; }
+    .modal-success p { font-size: .92rem; color: var(--text-muted); max-width: 380px; }
+    .btn-done {
+      padding: .65rem 2rem;
+      background: var(--teal);
+      color: #fff;
+      border: none;
+      border-radius: var(--radius-pill);
+      font-weight: 700;
+      font-size: .95rem;
+      margin-top: .5rem;
+    }
+
+    /* ── Footer note ──────────────────────────────────────────── */
+    .page-footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      font-size: .82rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+      background: var(--warm-white);
+    }
+
+    /* ── Responsive ───────────────────────────────────────────── */
+    @media (max-width: 520px) {
+      .form-row { grid-template-columns: 1fr; }
+      .hero { padding: 2.5rem 1rem 2rem; }
+      .modal { border-radius: 14px 14px 0 0; margin-top: auto; }
+      .modal-overlay { align-items: flex-end; padding: 0; }
+    }
+
+    /* ── Icons (inline SVG helpers via pseudo) ────────────────── */
+    .icon-pin::before   { content: "📍"; font-size: .9em; }
+    .icon-clock::before { content: "🕐"; font-size: .9em; }
+    .icon-zoom::before  { content: "💻"; font-size: .9em; }
+    .icon-group::before { content: "🤝"; font-size: .9em; }
+    .icon-star::before  { content: "⭐"; font-size: .9em; }
+    .icon-invite::before{ content: "✉️"; font-size: .9em; }
+    .icon-check::before { content: "✓"; }
+    .icon-military::before { content: "🎖️"; font-size: .9em; }
+
+    /* ── Military / Closed Group ──────────────────────────────── */
+    .card-restricted-banner {
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+      background: #3a3a2e;
+      color: #e8e0c0;
+      font-size: .75rem;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      padding: .4rem 1rem;
+    }
+    .card-restricted-banner .lock { font-size: .85rem; }
+
+    /* Military-only section inside the form (hidden by default) */
+    #militarySection { display: none; }
+    #militarySection.visible { display: block; }
+    .military-notice {
+      background: #f5f3e8;
+      border: 1.5px solid #c9b96e;
+      border-radius: 10px;
+      padding: .9rem 1rem;
+      font-size: .88rem;
+      margin-bottom: .75rem;
+      line-height: 1.5;
+    }
+    .military-notice strong { display: block; margin-bottom: .3rem; color: #3a3a2e; }
+  </style>
+</head>
+<body>
+
+<!-- ── Hero ──────────────────────────────────────────────────────── -->
+<header class="hero">
+  <p class="hero__eyebrow">Lutheran Indian Ministries</p>
+  <h1>Healing Group Sessions</h1>
+  <p class="hero__sub">Free trauma healing groups offered in-person and online throughout 2026. All are welcome — no experience needed.</p>
+  <span class="hero__contact">
+    Questions? Call or leave a message: <strong>(262) 439-5663</strong>
+  </span>
+</header>
+
+<!-- ── Filter Bar ─────────────────────────────────────────────────── -->
+<nav class="filter-bar" aria-label="Filter sessions by type">
+  <span class="filter-bar__label">Show:</span>
+  <button class="filter-btn active" data-type="all">All Sessions</button>
+  <button class="filter-btn" data-type="in-person">🤝 In-Person</button>
+  <button class="filter-btn" data-type="online">💻 Online (Zoom)</button>
+  <button class="filter-btn" data-type="equipping">⭐ Equipping Training</button>
+  <button class="filter-btn" data-type="cop">✉️ Community of Practice</button>
+</nav>
+
+<!-- ── Events Grid ────────────────────────────────────────────────── -->
+<main class="events-section">
+  <div class="events-grid" id="eventsGrid">
+
+    <!-- ── Card 1: Muddy Cluster, MT ─────────────────────────── -->
+    <article class="event-card type-in-person" data-type="in-person"
+      data-event-id="muddy-cluster-feb26"
+      data-event-title="Muddy Cluster, MT Healing Group"
+      data-event-summary="Feb 26–27, 2026 · The Lodge, Muddy Cluster (Mountain Standard Time)">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-group"></span> In-Person Healing Group</span>
+        <h2 class="card-title">Muddy Cluster, MT</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Feb 26</span>
+            <span class="card-time">9:00 am – 5:00 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">Feb 27</span>
+            <span class="card-time">9:00 am – 5:00 pm</span>
+          </div>
+          <p class="card-tz">Mountain Standard Time</p>
+        </div>
+        <div class="card-location">
+          <span class="icon icon-pin"></span>
+          <span>The Lodge, Muddy Cluster<br><em>Behind Circle of Life Lutheran Church</em></span>
+        </div>
+        <p class="card-notice">Lunch provided. Dietary needs? Please bring your own.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Must attend all sessions</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+    <!-- ── Card 2: Anchorage Feb ──────────────────────────────── -->
+    <article class="event-card type-in-person" data-type="in-person"
+      data-event-id="anchorage-feb26"
+      data-event-title="Anchorage, AK Healing Group — February 2026"
+      data-event-summary="Feb 27–28, 2026 · Anchorage Lutheran Church, 1420 N Street, Anchorage AK (Alaska Standard Time)">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-group"></span> In-Person Healing Group</span>
+        <h2 class="card-title">Anchorage, AK — February</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Feb 27–28</span>
+            <span class="card-time">9:00 am – 4:30 pm</span>
+          </div>
+          <p class="card-tz">Alaska Standard Time</p>
+        </div>
+        <div class="card-location">
+          <span class="icon icon-pin"></span>
+          <span>Anchorage Lutheran Church<br>1420 N Street, Anchorage, AK 99501<br><em>Park on West 15th St. for easier access</em></span>
+        </div>
+        <p class="card-notice">Lunch provided. Dietary needs? Please bring your own.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Must attend all sessions</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+    <!-- ── Card 3: Community of Practice Q1 ──────────────────── -->
+    <article class="event-card type-cop" data-type="cop"
+      data-event-id="cop-q1-2026"
+      data-event-title="1st Quarter Community of Practice"
+      data-event-summary="Wednesday, Mar 11, 2026 · Online via Zoom invite (no registration required)">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-invite"></span> Community of Practice</span>
+        <h2 class="card-title">1st Quarter Online Community of Practice</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Wed Mar 11</span>
+          </div>
+          <div style="font-size:.83rem; color:var(--text-muted); margin-top:.25rem; line-height:1.7;">
+            12–2 pm Alaska &nbsp;·&nbsp; 1–3 pm Pacific<br>
+            2–4 pm Mountain &nbsp;·&nbsp; 3–5 pm Central<br>
+            4–6 pm Eastern
+          </div>
+        </div>
+        <p class="card-notice">For Trauma Healing Facilitators connected with LIM. A Zoom invite will be emailed to you directly — <strong>no registration required.</strong></p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Facilitators only · Invite via email</span>
+        <button class="btn-register" style="cursor:default; opacity:.6;" disabled>No Sign-Up Needed</button>
+      </div>
+    </article>
+
+    <!-- ── Card 4: Online March 2026 ──────────────────────────── -->
+    <article class="event-card type-online" data-type="online"
+      data-event-id="online-march-2026"
+      data-event-title="Online (Zoom) Healing Group — March 2026"
+      data-event-summary="Week 1: Mar 18–20 · Week 2: Mar 25–27, 2026 · 12:00–3:00 pm Alaska Standard Time">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-zoom"></span> Online Zoom Healing Group</span>
+        <h2 class="card-title">Online (Zoom) — March 2026</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Week 1 · Mar 18–20</span>
+            <span class="card-time">12–3 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">Week 2 · Mar 25–27</span>
+            <span class="card-time">12–3 pm</span>
+          </div>
+          <p class="card-tz">Alaska Standard Time · Zoom link sent after registration</p>
+        </div>
+        <p class="card-notice">Both weeks required for completion and certification.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Both weeks required</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+    <!-- ── Card 5: Winnebago Healing Group ───────────────────── -->
+    <article class="event-card type-in-person" data-type="in-person"
+      data-event-id="winnebago-apr26-hg"
+      data-event-title="Winnebago, NE Healing Group — April 2026"
+      data-event-summary="Apr 14–15, 2026 · Whirling Thunder Wellness Center, 205 Bluff St., Ho-Chunk classroom (Central Daylight Time)">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-group"></span> In-Person Healing Group</span>
+        <h2 class="card-title">Winnebago, NE — April</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Apr 14–15</span>
+            <span class="card-time">9:00 am – 4:30 pm</span>
+          </div>
+          <p class="card-tz">Central Daylight Time</p>
+        </div>
+        <div class="card-location">
+          <span class="icon icon-pin"></span>
+          <span>Whirling Thunder Wellness Center<br>205 Bluff St. · Ho-Chunk classroom<br>Winnebago, NE</span>
+        </div>
+        <p class="card-notice">Lunch provided. Dietary needs? Please bring your own.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Must attend all sessions</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+    <!-- ── Card 6: Winnebago Equipping Training ───────────────── -->
+    <article class="event-card type-equipping" data-type="equipping"
+      data-event-id="winnebago-apr26-eq"
+      data-event-title="Winnebago, NE Equipping Training — April 2026"
+      data-event-summary="Apr 16–17, 2026 · Whirling Thunder Wellness Center, 205 Bluff St. (Central Daylight Time). You must have completed a Healing Group to attend.">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-star"></span> Equipping Training</span>
+        <h2 class="card-title">Winnebago, NE — Equipping Training</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Apr 16–17</span>
+            <span class="card-time">9:00 am – 4:30 pm</span>
+          </div>
+          <p class="card-tz">Central Daylight Time</p>
+        </div>
+        <div class="card-location">
+          <span class="icon icon-pin"></span>
+          <span>Whirling Thunder Wellness Center<br>205 Bluff St. · Ho-Chunk classroom<br>Winnebago, NE</span>
+        </div>
+        <p class="card-notice">⚠️ Must have completed a Healing Group (in-person or online) before attending this training.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Prerequisite: Healing Group</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+    <!-- ── Card 7: Fairbanks May ───────────────────────────────── -->
+    <article class="event-card type-in-person" data-type="in-person"
+      data-event-id="fairbanks-may26"
+      data-event-title="Fairbanks, AK Healing Group — May 2026"
+      data-event-summary="May 27–29, 2026 · Zion Lutheran Church, Fairbanks AK (Alaska Standard Time)">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-group"></span> In-Person Healing Group</span>
+        <h2 class="card-title">Fairbanks, AK — May</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">May 27</span>
+            <span class="card-time">12:00 pm – 4:30 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">May 28</span>
+            <span class="card-time">9:00 am – 4:30 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">May 29</span>
+            <span class="card-time">9:00 am – 1:00 pm</span>
+          </div>
+          <p class="card-tz">Alaska Standard Time</p>
+        </div>
+        <div class="card-location">
+          <span class="icon icon-pin"></span>
+          <span>Zion Lutheran Church, Fairbanks, AK</span>
+        </div>
+        <p class="card-notice">Lunch provided. Dietary needs? Please bring your own.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Must attend all sessions</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+    <!-- ── Card 7b: Ft. Wainwright July 2026 (Closed / Military) ── -->
+    <article class="event-card type-in-person" data-type="in-person"
+      data-event-id="ft-wainwright-jul26"
+      data-event-title="Ft. Wainwright, AK Healing Group — July 2026"
+      data-event-summary="Jul 15–17, 2026 · Ft. Wainwright, Fairbanks AK (Alaska Daylight Time) — Closed group for active duty military personnel only."
+      data-military="true">
+      <div class="card-restricted-banner">
+        <span class="lock">🔒</span> Closed Group — Active Duty Military Personnel Only
+      </div>
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-military"></span> In-Person Healing Group</span>
+        <h2 class="card-title">Ft. Wainwright, AK — July</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Jul 15</span>
+            <span class="card-time">12:00 pm – 4:30 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">Jul 16</span>
+            <span class="card-time">9:00 am – 4:30 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">Jul 17</span>
+            <span class="card-time">9:00 am – 1:00 pm</span>
+          </div>
+          <p class="card-tz">Alaska Daylight Time</p>
+        </div>
+        <div class="card-location">
+          <span class="icon icon-pin"></span>
+          <span>Ft. Wainwright, Fairbanks, AK<br><em>Location details provided upon registration</em></span>
+        </div>
+        <p class="card-notice">⚠️ This is a <strong>closed group</strong> hosted by Lutheran Indian Ministries in partnership with Ft. Wainwright. Registration is open to <strong>active duty military personnel only.</strong> Lunch provided.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Active duty only · Must attend all sessions</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+    <!-- ── Card 8: Online August 2026 ─────────────────────────── -->
+    <article class="event-card type-online" data-type="online"
+      data-event-id="online-aug-2026"
+      data-event-title="Online (Zoom) Healing Group — August 2026"
+      data-event-summary="Week 1: Aug 5–7 · Week 2: Aug 12–14, 2026 · 12:00–3:00 pm Alaska Standard Time">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-zoom"></span> Online Zoom Healing Group</span>
+        <h2 class="card-title">Online (Zoom) — August 2026</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Week 1 · Aug 5–7</span>
+            <span class="card-time">12–3 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">Week 2 · Aug 12–14</span>
+            <span class="card-time">12–3 pm</span>
+          </div>
+          <p class="card-tz">Alaska Standard Time · Zoom link sent after registration</p>
+        </div>
+        <p class="card-notice">Both weeks required for completion and certification.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Both weeks required</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+    <!-- ── Card 9: Fairbanks September ───────────────────────── -->
+    <article class="event-card type-in-person" data-type="in-person"
+      data-event-id="fairbanks-sep26"
+      data-event-title="Fairbanks, AK Healing Group — September 2026"
+      data-event-summary="Sep 16–18, 2026 · Zion Lutheran Church, Fairbanks AK (Alaska Standard Time)">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-group"></span> In-Person Healing Group</span>
+        <h2 class="card-title">Fairbanks, AK — September</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Sep 16</span>
+            <span class="card-time">12:00 pm – 4:30 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">Sep 17</span>
+            <span class="card-time">9:00 am – 4:30 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">Sep 18</span>
+            <span class="card-time">9:00 am – 1:00 pm</span>
+          </div>
+          <p class="card-tz">Alaska Standard Time</p>
+        </div>
+        <div class="card-location">
+          <span class="icon icon-pin"></span>
+          <span>Zion Lutheran Church, Fairbanks, AK</span>
+        </div>
+        <p class="card-notice">Lunch provided. Dietary needs? Please bring your own.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Must attend all sessions</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+    <!-- ── Card 10: Anchorage October ────────────────────────── -->
+    <article class="event-card type-in-person" data-type="in-person"
+      data-event-id="anchorage-oct26"
+      data-event-title="Anchorage, AK Healing Group — October 2026"
+      data-event-summary="Oct 9–10, 2026 · Anchorage Lutheran Church, 1420 N Street, Anchorage AK (Alaska Standard Time)">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-group"></span> In-Person Healing Group</span>
+        <h2 class="card-title">Anchorage, AK — October</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Oct 9–10</span>
+            <span class="card-time">9:00 am – 4:30 pm</span>
+          </div>
+          <p class="card-tz">Alaska Standard Time</p>
+        </div>
+        <div class="card-location">
+          <span class="icon icon-pin"></span>
+          <span>Anchorage Lutheran Church<br>1420 N Street, Anchorage, AK 99501<br><em>Park on West 15th St. for easier access</em></span>
+        </div>
+        <p class="card-notice">Lunch provided. Dietary needs? Please bring your own.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Must attend all sessions</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+    <!-- ── Card 11: Fairbanks November ───────────────────────── -->
+    <article class="event-card type-in-person" data-type="in-person"
+      data-event-id="fairbanks-nov26"
+      data-event-title="Fairbanks, AK Healing Group — November 2026"
+      data-event-summary="Nov 4–6, 2026 · Zion Lutheran Church, Fairbanks AK (Alaska Standard Time)">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <span class="card-badge"><span class="icon-group"></span> In-Person Healing Group</span>
+        <h2 class="card-title">Fairbanks, AK — November</h2>
+        <div class="card-dates">
+          <div class="card-date-row">
+            <span class="card-date-label">Nov 4</span>
+            <span class="card-time">12:00 pm – 4:30 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">Nov 5</span>
+            <span class="card-time">9:00 am – 4:30 pm</span>
+          </div>
+          <div class="card-date-row">
+            <span class="card-date-label">Nov 6</span>
+            <span class="card-time">9:00 am – 1:00 pm</span>
+          </div>
+          <p class="card-tz">Alaska Standard Time</p>
+        </div>
+        <div class="card-location">
+          <span class="icon icon-pin"></span>
+          <span>Zion Lutheran Church, Fairbanks, AK</span>
+        </div>
+        <p class="card-notice">Lunch provided. Dietary needs? Please bring your own.</p>
+      </div>
+      <div class="card-footer">
+        <span class="card-footer__info">Must attend all sessions</span>
+        <button class="btn-register" onclick="openModal(this.closest('.event-card'))">Register — Free</button>
+      </div>
+    </article>
+
+  </div><!-- /events-grid -->
+  <p class="no-results" id="noResults">No sessions found for that filter. Try "All Sessions" to see everything.</p>
+</main>
+
+<!-- ── Registration Modal ─────────────────────────────────────────── -->
+<div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal" id="modal">
+
+    <!-- Success view -->
+    <div class="modal-success" id="modalSuccess">
+      <div class="success-icon">🎉</div>
+      <h2>You're registered!</h2>
+      <p>Thank you for signing up. We'll be in touch with confirmation details and (for online sessions) your Zoom link.</p>
+      <p style="font-size:.82rem; color:var(--text-muted);">Questions? Call <strong>(262) 439-5663</strong></p>
+      <button class="btn-done" onclick="closeModal()">Close</button>
+    </div>
+
+    <!-- Form view -->
+    <div id="modalFormView">
+      <div class="modal-header">
+        <div class="modal-header__text">
+          <h2 id="modalTitle">Free Event Registration</h2>
+          <p>We're glad you're joining us. Fill out the form below to reserve your spot.</p>
+        </div>
+        <button class="btn-close" onclick="closeModal()" aria-label="Close">&times;</button>
+      </div>
+
+      <!-- Selected event summary -->
+      <div class="modal-event-summary" id="modalEventSummary">
+        <strong id="modalEventTitle"></strong>
+        <span id="modalEventDetails"></span>
+      </div>
+
+      <form class="modal-form" id="registrationForm" onsubmit="handleSubmit(event)" novalidate>
+
+        <!-- Section: Your Info -->
+        <div class="form-section">
+          <p class="form-section__title">Your Information</p>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="fname">First Name <span class="req">*</span></label>
+              <input type="text" id="fname" name="fname" autocomplete="given-name" required placeholder="First name" />
+            </div>
+            <div class="form-group">
+              <label for="lname">Last Name <span class="req">*</span></label>
+              <input type="text" id="lname" name="lname" autocomplete="family-name" required placeholder="Last name" />
+            </div>
+          </div>
+          <div class="form-row full">
+            <div class="form-group">
+              <label for="email">Email Address <span class="req">*</span></label>
+              <input type="email" id="email" name="email" autocomplete="email" required placeholder="you@example.com" />
+            </div>
+          </div>
+          <div class="form-row full">
+            <div class="form-group">
+              <label for="phone">Cell Phone <span class="req">*</span></label>
+              <input type="tel" id="phone" name="phone" autocomplete="tel" required placeholder="(___) ___-____" />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="age">Age <span class="opt">(optional)</span></label>
+              <input type="number" id="age" name="age" min="1" max="120" placeholder="Age" />
+            </div>
+            <div class="form-group">
+              <label>Gender <span class="opt">(optional)</span></label>
+              <div class="radio-group">
+                <label class="radio-item"><input type="radio" name="gender" value="male" /> Male</label>
+                <label class="radio-item"><input type="radio" name="gender" value="female" /> Female</label>
+                <label class="radio-item"><input type="radio" name="gender" value="other" /> Other</label>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section: Home Address -->
+        <div class="form-section">
+          <p class="form-section__title">Home Address</p>
+          <div class="form-row full">
+            <div class="form-group">
+              <label for="addr1">Street Address <span class="req">*</span></label>
+              <input type="text" id="addr1" name="addr1" autocomplete="street-address" required placeholder="Street address" />
+            </div>
+          </div>
+          <div class="form-row full">
+            <div class="form-group">
+              <label for="addr2">Apt / Suite <span class="opt">(optional)</span></label>
+              <input type="text" id="addr2" name="addr2" autocomplete="address-line2" placeholder="Apt, suite, etc." />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="city">City <span class="req">*</span></label>
+              <input type="text" id="city" name="city" autocomplete="address-level2" required placeholder="City" />
+            </div>
+            <div class="form-group">
+              <label for="state">State <span class="req">*</span></label>
+              <input type="text" id="state" name="state" autocomplete="address-level1" required placeholder="State" maxlength="2" style="text-transform:uppercase;" />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="zip">ZIP Code <span class="req">*</span></label>
+              <input type="text" id="zip" name="zip" autocomplete="postal-code" required placeholder="ZIP" maxlength="10" />
+            </div>
+            <div class="form-group">
+              <label for="country">Country</label>
+              <select id="country" name="country" autocomplete="country-name">
+                <option value="US" selected>United States</option>
+                <option value="CA">Canada</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section: Emergency Contact -->
+        <div class="form-section">
+          <p class="form-section__title">Emergency Contact <span style="font-weight:400;text-transform:none;font-size:.82rem;">(recommended)</span></p>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="ecname">Contact Name</label>
+              <input type="text" id="ecname" name="ecname" placeholder="Full name" />
+            </div>
+            <div class="form-group">
+              <label for="ecphone">Contact Phone</label>
+              <input type="tel" id="ecphone" name="ecphone" placeholder="(___) ___-____" />
+            </div>
+          </div>
+        </div>
+
+        <!-- Section: Military eligibility (shown only for Ft. Wainwright) -->
+        <div class="form-section" id="militarySection">
+          <p class="form-section__title">🎖️ Military Eligibility</p>
+          <div class="military-notice">
+            <strong>This is a closed group for Ft. Wainwright personnel.</strong>
+            This healing group is offered exclusively to active duty military members in partnership with Ft. Wainwright. Civilian registrations cannot be accepted for this session.
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="militaryBranch">Branch of Service <span class="req">*</span></label>
+              <select id="militaryBranch" name="militaryBranch">
+                <option value="">— Select branch —</option>
+                <option>Army</option>
+                <option>Navy</option>
+                <option>Marine Corps</option>
+                <option>Air Force</option>
+                <option>Space Force</option>
+                <option>Coast Guard</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="militaryUnit">Unit / Battalion <span class="opt">(optional)</span></label>
+              <input type="text" id="militaryUnit" name="militaryUnit" placeholder="e.g. 1-5 Cav, 25th ID" />
+            </div>
+          </div>
+          <div class="check-row">
+            <input type="checkbox" id="ackMilitary" name="ackMilitary" />
+            <label class="check-label" for="ackMilitary">
+              I confirm that I am currently <strong>active duty military personnel</strong> and understand this group is limited to Ft. Wainwright service members. <span class="req">*</span>
+            </label>
+          </div>
+        </div>
+
+        <!-- Section: Acknowledgements -->
+        <div class="form-section">
+          <p class="form-section__title">A Few Things to Know</p>
+
+          <div class="check-row">
+            <input type="checkbox" id="ackAttend" name="ackAttend" required />
+            <label class="check-label" for="ackAttend">
+              I understand that if I'm unable to attend, this may affect my ability to access the healing group in the future. <span class="req">*</span>
+            </label>
+          </div>
+
+          <div class="check-row">
+            <input type="checkbox" id="ackCert" name="ackCert" required />
+            <label class="check-label" for="ackCert">
+              I understand that a certificate of completion requires attending all scheduled sessions. <span class="req">*</span>
+            </label>
+          </div>
+
+          <div class="form-row full" style="margin-top:.75rem;">
+            <div class="form-group">
+              <label for="dietary">Dietary Needs <span class="opt">(optional)</span></label>
+              <textarea id="dietary" name="dietary" placeholder="Let us know if you have any dietary restrictions or needs…"></textarea>
+            </div>
+          </div>
+        </div>
+
+        <!-- Submit -->
+        <div class="free-badge"><span class="icon-check"></span> This event is completely free</div>
+        <button type="submit" class="btn-submit">Complete Registration</button>
+        <p class="form-alt-contact">Prefer to register by phone? Call <a href="tel:+12624395663">(262) 439-5663</a> and leave a message.</p>
+
+      </form>
+    </div><!-- /modalFormView -->
+
+  </div><!-- /modal -->
+</div><!-- /modal-overlay -->
+
+<!-- ── Footer ─────────────────────────────────────────────────────── -->
+<footer class="page-footer">
+  Lutheran Indian Ministries · Healing Groups &amp; Training Sessions 2026 · <a href="tel:+12624395663" style="color:var(--teal);">(262) 439-5663</a>
+</footer>
+
+<!-- ── JavaScript ─────────────────────────────────────────────────── -->
+<script>
+  /* ── Filter ──────────────────────────────────────────────────── */
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const cards      = document.querySelectorAll('.event-card');
+  const noResults  = document.getElementById('noResults');
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      filterBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const type = btn.dataset.type;
+      let visible = 0;
+      cards.forEach(card => {
+        const match = type === 'all' || card.dataset.type === type;
+        card.classList.toggle('hidden', !match);
+        if (match) visible++;
+      });
+      noResults.style.display = visible === 0 ? 'block' : 'none';
+    });
+  });
+
+  /* ── Modal open/close ────────────────────────────────────────── */
+  const overlay     = document.getElementById('modalOverlay');
+  const formView    = document.getElementById('modalFormView');
+  const successView = document.getElementById('modalSuccess');
+
+  function openModal(card) {
+    const title     = card.dataset.eventTitle   || '';
+    const details   = card.dataset.eventSummary || '';
+    const isMilitary = card.dataset.military === 'true';
+
+    document.getElementById('modalEventTitle').textContent   = title;
+    document.getElementById('modalEventDetails').textContent = details;
+
+    // Show / hide military section and toggle required fields
+    const milSection  = document.getElementById('militarySection');
+    const milBranch   = document.getElementById('militaryBranch');
+    const milAck      = document.getElementById('ackMilitary');
+    if (isMilitary) {
+      milSection.classList.add('visible');
+      milBranch.required = true;
+      milAck.required    = true;
+    } else {
+      milSection.classList.remove('visible');
+      milBranch.required = false;
+      milAck.required    = false;
+    }
+
+    // Show form, hide success
+    formView.style.display    = '';
+    successView.classList.remove('show');
+    document.getElementById('registrationForm').reset();
+
+    overlay.classList.add('open');
+    document.body.style.overflow = 'hidden';
+
+    // Focus first field
+    setTimeout(() => {
+      const first = overlay.querySelector('input:not([type="radio"]):not([type="checkbox"])');
+      if (first) first.focus();
+    }, 100);
+  }
+
+  function closeModal() {
+    overlay.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  // Close on overlay click
+  overlay.addEventListener('click', e => {
+    if (e.target === overlay) closeModal();
+  });
+
+  // Close on Escape
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closeModal();
+  });
+
+  /* ── Form submit ─────────────────────────────────────────────── */
+  function handleSubmit(e) {
+    e.preventDefault();
+    const form = e.target;
+
+    // Basic HTML5 validation
+    if (!form.checkValidity()) {
+      form.reportValidity();
+      return;
+    }
+
+    // In a real integration this would POST to your form backend
+    // For now, show the success state
+    formView.style.display = 'none';
+    successView.classList.add('show');
+    successView.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+</script>
+    
+  </body>
+  
+</html>
