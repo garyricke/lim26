@@ -69,10 +69,12 @@
     .hero-ctas{display:flex;gap:1rem;flex-wrap:wrap}
 
     /* Trust bar */
-    .trust{background:var(--sky);padding:1.1rem 1.5rem}
-    .trust-inner{max-width:var(--max);margin:0 auto;display:flex;align-items:center;justify-content:center;gap:3rem;flex-wrap:wrap}
-    .trust-item{display:flex;align-items:center;gap:.55rem;font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--charcoal)}
-    .trust-item span:first-child{font-size:1.1rem}
+    .trust{background:var(--yellow);padding:2.75rem 1.5rem}
+    .trust-inner{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(5,1fr);gap:2rem;text-align:center}
+    .trust-item{display:flex;flex-direction:column;align-items:center;gap:.35rem}
+    .trust-ic{color:var(--charcoal);margin-bottom:.35rem}
+    .trust-stat{font-family:var(--cond);font-size:clamp(2rem,3.5vw,3rem);font-weight:800;color:var(--charcoal);line-height:1}
+    .trust-lbl{font-family:var(--cond);font-size:.78rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:rgba(40,41,36,.7);margin-top:.15rem}
 
     /* What is HWOT */
     #what{padding:5rem 1.5rem;background:#fff}
@@ -103,6 +105,7 @@
     .badge-on{background:rgba(178,172,136,.25);color:var(--sage-d)}
     .badge-full{background:rgba(237,28,36,.1);color:var(--red)}
     .badge-mil{background:rgba(40,41,36,.1);color:var(--charcoal)}
+    .badge-fac{background:rgba(255,222,22,.3);color:#7a6900}
     .scard-body{padding:1rem 1.5rem;flex:1}
     .scard-title{font-family:var(--serif);font-size:1.05rem;font-weight:700;color:var(--charcoal);margin-bottom:.4rem}
     .scard-loc{font-family:var(--cond);font-size:.82rem;font-weight:600;color:var(--muted);display:flex;align-items:center;gap:.35rem;margin-bottom:.6rem;text-transform:uppercase;letter-spacing:.04em}
@@ -176,9 +179,9 @@
     .mbk.on .modal{transform:none}
     /* Registration form modal */
     #m-reg .modal{max-width:720px}
-    .reg-event-summary{background:var(--charcoal);color:#fff;padding:.85rem 1.75rem;display:flex;align-items:baseline;gap:.75rem;flex-wrap:wrap}
-    .reg-event-title{font-family:var(--cond);font-size:1rem;font-weight:800;color:var(--yellow);letter-spacing:.04em}
-    .reg-event-detail{font-family:var(--cond);font-size:.8rem;font-weight:600;color:rgba(255,255,255,.55);letter-spacing:.05em;text-transform:uppercase}
+    .reg-event-summary{position:absolute;bottom:0;left:0;right:0;background:rgba(0,0,0,.25);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);color:#fff;padding:1.4rem 1.75rem;display:flex;align-items:baseline;gap:.75rem;flex-wrap:wrap}
+    .reg-event-title{font-family:var(--cond);font-size:1.35rem;font-weight:800;color:#fff;letter-spacing:.04em}
+    .reg-event-detail{font-family:var(--cond);font-size:1rem;font-weight:700;color:rgba(255,255,255,.75);letter-spacing:.05em;text-transform:uppercase}
     .reg-body{padding:1.25rem 1.75rem 1.75rem}
     .reg-section{margin-bottom:1.5rem}
     .reg-section-title{font-family:var(--cond);font-size:.72rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:rgba(40,41,36,.42);border-bottom:1px solid var(--border);padding-bottom:.45rem;margin-bottom:.85rem}
@@ -209,7 +212,7 @@
     .reg-success-ic{width:70px;height:70px;background:var(--charcoal);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 1.25rem;color:var(--yellow);font-size:2rem}
     .reg-success h3{font-family:var(--serif);font-size:1.7rem;margin-bottom:.75rem}
     .reg-success p{color:rgba(40,41,36,.6);line-height:1.7;margin-bottom:1.5rem}
-    @media(max-width:600px){.reg-row{grid-template-columns:1fr}#m-reg .modal{border-radius:var(--rl) var(--rl) 0 0;position:fixed;bottom:0;left:0;right:0;max-height:92vh}.mbk{padding:0;align-items:flex-end}.reg-body{padding:1rem 1.25rem 1.5rem}.reg-event-summary{padding:.75rem 1.25rem}}
+    @media(max-width:600px){.reg-row{grid-template-columns:1fr}#m-reg .modal{border-radius:var(--rl) var(--rl) 0 0;position:fixed;bottom:0;left:0;right:0;max-height:92vh}.mbk{padding:0;align-items:flex-end}.reg-body{padding:1rem 1.25rem 1.5rem}.reg-event-summary{padding:.85rem 1.25rem}}
     /* Cancel modal */
     #m-cancel .modal{max-width:480px}
     .can-body{padding:1.5rem 1.75rem 1.75rem;display:flex;flex-direction:column;gap:1rem}
@@ -252,6 +255,8 @@
     .foot-bot p{font-size:.76rem;color:rgba(255,255,255,.25)}
 
     @media(max-width:960px){
+      .trust-inner{grid-template-columns:repeat(3,1fr)}
+      .found-3{grid-template-columns:1fr 1fr!important}
       .what-g{grid-template-columns:1fr;gap:2.5rem}
       .what-img{height:280px}
       .sessions-g{grid-template-columns:repeat(2,1fr)}
@@ -263,6 +268,9 @@
       .ham{display:flex}
     }
     @media(max-width:600px){
+      .trust-inner{grid-template-columns:repeat(2,1fr)}
+      .found-g{grid-template-columns:1fr!important}
+      .found-3{grid-template-columns:1fr!important}
       .sessions-g{grid-template-columns:1fr}
       .form-row{grid-template-columns:1fr}
       .hero-c{margin-left:0}
@@ -312,15 +320,51 @@
 </section>
 
 <!-- Trust bar -->
-<div class="trust" role="complementary" aria-label="Program highlights">
+<section class="trust" role="complementary" aria-label="Program highlights">
   <div class="trust-inner">
-    <div class="trust-item"><span>📖</span><span>390+ Scriptures</span></div>
-    <div class="trust-item"><span>⏱</span><span>16 Hours · 6 Sessions</span></div>
-    <div class="trust-item"><span>🙌</span><span>All Welcome · Ages 18+</span></div>
-    <div class="trust-item"><span>🍽</span><span>Free · Lunch Provided</span></div>
-    <div class="trust-item"><span>📍</span><span>In-Person &amp; Online</span></div>
+
+    <div class="trust-item fi">
+      <div class="trust-ic">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+      </div>
+      <span class="trust-stat">390+</span>
+      <span class="trust-lbl">Scriptures Woven In</span>
+    </div>
+
+    <div class="trust-item fi" style="transition-delay:.05s">
+      <div class="trust-ic">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+      </div>
+      <span class="trust-stat">16</span>
+      <span class="trust-lbl">Hours · 6 Sessions</span>
+    </div>
+
+    <div class="trust-item fi" style="transition-delay:.1s">
+      <div class="trust-ic">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      </div>
+      <span class="trust-stat">18+</span>
+      <span class="trust-lbl">All Welcome · Any Background</span>
+    </div>
+
+    <div class="trust-item fi" style="transition-delay:.15s">
+      <div class="trust-ic">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 12 20 22 4 22 4 12"/><rect x="2" y="7" width="20" height="5"/><line x1="12" y1="22" x2="12" y2="7"/><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"/></svg>
+      </div>
+      <span class="trust-stat">Free</span>
+      <span class="trust-lbl">Lunch Provided Daily</span>
+    </div>
+
+    <div class="trust-item fi" style="transition-delay:.2s">
+      <div class="trust-ic">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+      </div>
+      <span class="trust-stat">Both</span>
+      <span class="trust-lbl">In-Person &amp; Online</span>
+    </div>
+
   </div>
-</div>
+</section>
 
 <!-- What Is HWOT -->
 <section id="what" style="padding:5rem 1.5rem;background:#fff" aria-label="What is Healing the Wounds of Trauma">
@@ -351,6 +395,70 @@
   </div>
 </section>
 
+<!-- Foundation Section -->
+<section id="foundation" style="padding:5rem 1.5rem;background:var(--charcoal)" aria-label="Program foundation and credentialing">
+  <div class="wrap">
+    <div class="fi" style="text-align:center;margin-bottom:3rem">
+      <span class="lbl" style="display:block;text-align:center;color:rgba(255,255,255,.5)">A Proven Curriculum</span>
+      <h2 class="h2" style="color:#fff;text-align:center">Built on a Global Foundation</h2>
+      <p style="color:rgba(255,255,255,.65);max-width:600px;margin:.75rem auto 0;line-height:1.8">This program is not invented. It is proven — used in over 100 countries and grounded in the work of two of the world's leading institutions in Scripture-based trauma care.</p>
+    </div>
+
+    <!-- Two org cards -->
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:1.75rem;max-width:860px;margin:0 auto 3.5rem" class="fi found-g">
+
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:var(--rl);padding:2rem 2rem 2rem">
+        <div style="color:var(--yellow);margin-bottom:1rem">
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+        </div>
+        <h3 style="font-family:var(--cond);font-size:1.2rem;font-weight:800;color:#fff;letter-spacing:.03em;margin-bottom:.6rem">American Bible Society</h3>
+        <p style="color:rgba(255,255,255,.65);font-size:.93rem;line-height:1.75;margin-bottom:1rem">The curriculum is built on <em style="color:rgba(255,255,255,.85)">Healing the Wounds of Trauma: How the Church Can Help</em> — a resource developed by the American Bible Society that weaves over 390 scriptures from the Restoring Hope Bible into every session.</p>
+        <p style="color:rgba(255,255,255,.55);font-size:.82rem;font-family:var(--cond);letter-spacing:.06em;text-transform:uppercase">americanbible.org</p>
+      </div>
+
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:var(--rl);padding:2rem 2rem 2rem">
+        <div style="color:var(--yellow);margin-bottom:1rem">
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+        </div>
+        <h3 style="font-family:var(--cond);font-size:1.2rem;font-weight:800;color:#fff;letter-spacing:.03em;margin-bottom:.6rem">Trauma Healing Institute</h3>
+        <p style="color:rgba(255,255,255,.65);font-size:.93rem;line-height:1.75;margin-bottom:1rem">The Trauma Healing Institute (THI) is a global network of practitioners training churches and ministries to bring Scripture-centered healing to communities in crisis. The program has been implemented in <strong style="color:#fff">over 100 countries</strong> across <strong style="color:#fff">194 language groups</strong> in Africa, Asia, the Pacific, and the Americas.</p>
+        <p style="color:rgba(255,255,255,.55);font-size:.82rem;font-family:var(--cond);letter-spacing:.06em;text-transform:uppercase">TraumaHealingInstitute.org</p>
+      </div>
+
+    </div>
+
+    <!-- How LIM applies it -->
+    <div style="max-width:860px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr 1fr;gap:1.5rem;text-align:center" class="fi found-3">
+
+      <div style="transition-delay:.05s" class="fi">
+        <div style="color:var(--yellow);margin-bottom:.75rem;display:flex;justify-content:center">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        </div>
+        <h4 style="font-family:var(--cond);font-size:1rem;font-weight:800;color:#fff;letter-spacing:.04em;margin-bottom:.4rem">Scripture + Mental Health</h4>
+        <p style="color:rgba(255,255,255,.6);font-size:.87rem;line-height:1.7">The model integrates contemporary mental health principles with Biblical truth — addressing the whole person: spirit, mind, and community.</p>
+      </div>
+
+      <div style="transition-delay:.1s" class="fi">
+        <div style="color:var(--yellow);margin-bottom:.75rem;display:flex;justify-content:center">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        </div>
+        <h4 style="font-family:var(--cond);font-size:1rem;font-weight:800;color:#fff;letter-spacing:.04em;margin-bottom:.4rem">Native-Led Facilitation</h4>
+        <p style="color:rgba(255,255,255,.6);font-size:.87rem;line-height:1.7">LIM trains and certifies Native facilitators to lead groups in their own communities — ensuring the curriculum is delivered with cultural understanding and relational trust.</p>
+      </div>
+
+      <div style="transition-delay:.15s" class="fi">
+        <div style="color:var(--yellow);margin-bottom:.75rem;display:flex;justify-content:center">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+        </div>
+        <h4 style="font-family:var(--cond);font-size:1rem;font-weight:800;color:#fff;letter-spacing:.04em;margin-bottom:.4rem">Taken to the Community</h4>
+        <p style="color:rgba(255,255,255,.6);font-size:.87rem;line-height:1.7">LIM brings this curriculum to reservations, villages, urban centers, and online — traveling by small plane, boat, and snowmachine to reach communities wherever they are.</p>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
 <!-- Upcoming Sessions -->
 <section id="sessions" style="padding:5rem 1.5rem;background:var(--stone)" aria-label="Upcoming healing group sessions">
   <div class="sess-hd wrap fi">
@@ -363,6 +471,7 @@
     <button class="filter-btn" onclick="filter(this,'in-person')">In-Person</button>
     <button class="filter-btn" onclick="filter(this,'online')">Online</button>
     <button class="filter-btn" onclick="filter(this,'open')">Open Spots</button>
+    <button class="filter-btn" onclick="filter(this,'facilitator')">Facilitator Training</button>
   </div>
   <div class="sessions-g wrap">
 
@@ -401,10 +510,10 @@
     </div>
 
     <!-- Card 3 -->
-    <div class="scard fi" data-type="in-person" data-open="true" style="transition-delay:.1s">
+    <div class="scard fi" data-type="facilitator" data-open="true" style="transition-delay:.1s">
       <div class="scard-top">
         <div class="scard-date">April 14–17, 2026<span>4 Days · Tue–Fri</span></div>
-        <span class="badge badge-ip">In-Person</span>
+        <span class="badge badge-fac">Facilitator Training</span>
       </div>
       <div class="scard-body">
         <h3 class="scard-title">Healing Group + Equipping Training</h3>
@@ -464,6 +573,22 @@
       </div>
       <div class="scard-foot">
         <button class="btn btn-sky" style="font-size:.85rem;padding:.7rem 1.4rem" onclick="openReg('Community Healing Group — Fall','September 2026 · Fairbanks, AK',false)">Register Interest</button>
+      </div>
+    </div>
+
+    <!-- Card 7 — Facilitator Training (Placeholder) -->
+    <div class="scard fi" data-type="facilitator" data-open="true" style="transition-delay:.3s">
+      <div class="scard-top">
+        <div class="scard-date">October 2026<span>Dates TBC</span></div>
+        <span class="badge badge-fac">Facilitator Training</span>
+      </div>
+      <div class="scard-body">
+        <h3 class="scard-title">Facilitator Equipping Training</h3>
+        <div class="scard-loc">📍 Location TBC</div>
+        <p>Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.</p>
+      </div>
+      <div class="scard-foot">
+        <button class="btn btn-sky" style="font-size:.85rem;padding:.7rem 1.4rem" onclick="openReg('Facilitator Equipping Training','October 2026 · Location TBC',false)">Register Interest</button>
       </div>
     </div>
 
@@ -714,10 +839,13 @@
       <button class="m-x" onclick="closeModal('m-reg')" aria-label="Close">✕</button>
     </div>
 
-    <!-- Selected session banner -->
-    <div class="reg-event-summary">
-      <span class="reg-event-title" id="reg-event-title">Healing Group</span>
-      <span class="reg-event-detail" id="reg-event-detail"></span>
+    <!-- Hero image + overlaid session banner -->
+    <div style="position:relative;width:100%;height:220px;overflow:hidden;line-height:0">
+      <img src="images-master/healing-groups-registration-form-hero.jpg" alt="Healing group participants embracing during a session" style="width:100%;height:100%;object-fit:cover;object-position:center 30%;display:block">
+      <div class="reg-event-summary">
+        <span class="reg-event-title" id="reg-event-title">Healing Group</span>
+        <span class="reg-event-detail" id="reg-event-detail"></span>
+      </div>
     </div>
 
     <!-- Form + Success wrapper -->
@@ -924,6 +1052,7 @@
             <option value="fairbanks-may">Community Healing Group — May 27–29, 2026 · Fairbanks, AK</option>
             <option value="online-aug">Online Healing Group — August 5–14, 2026 · Zoom</option>
             <option value="fairbanks-sep">Community Healing Group — September 2026 · Fairbanks, AK</option>
+            <option value="facilitator-oct">Facilitator Equipping Training — October 2026</option>
             <option value="other">Other / Not Listed</option>
           </select>
         </div>

@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="About Lutheran Indian Ministries — a Native-led ministry proclaiming the Gospel, discipling Native leaders, and healing generations of trauma since 1985.">
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <title>About LIM — Lutheran Indian Ministries</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --red:#ED1C24;--red-h:#c8151c;--yellow:#FFDE16;--charcoal:#282924;
+      --sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--sky-d:#6fa3b8;
+      --stone:#EBE9E4;--white:#FFFFFF;--muted:#5a5a52;--border:#d9d6ce;
+      --serif:'Merriweather',Georgia,serif;--cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --body:'Open Sans',system-ui,sans-serif;--max:1200px;
+      --r:8px;--rl:16px;--sh:0 2px 8px rgba(0,0,0,.08);
+      --shm:0 6px 24px rgba(0,0,0,.12);--shl:0 16px 48px rgba(0,0,0,.18);--t:.3s ease;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--body);color:var(--charcoal);background:#fff;line-height:1.7;overflow-x:hidden}
+    img{max-width:100%;height:auto;display:block}
+    a{color:inherit;text-decoration:none}
+    button{cursor:pointer;font-family:inherit;border:none;background:none}
+
+    /* Utilities */
+    .wrap{max-width:var(--max);margin:0 auto;padding:0 1.5rem}
+    .lbl{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.6rem}
+    .h2{font-family:var(--serif);font-size:clamp(1.8rem,3.5vw,2.75rem);line-height:1.2;color:var(--charcoal);margin-bottom:1.2rem}
+    .intro{font-size:1.05rem;color:var(--muted);line-height:1.8;max-width:640px}
+    .btn{display:inline-flex;align-items:center;gap:.5rem;padding:.85rem 1.9rem;border-radius:var(--r);font-family:var(--cond);font-size:1rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;transition:var(--t);cursor:pointer;border:2px solid transparent}
+    .btn-red{background:var(--red);color:#fff;border-color:var(--red)}
+    .btn-red:hover{background:var(--red-h);border-color:var(--red-h);transform:translateY(-1px);box-shadow:var(--shm)}
+    .btn-sky{background:var(--sky);color:var(--charcoal);border-color:var(--sky)}
+    .btn-sky:hover{background:var(--sky-d);color:#fff;border-color:var(--sky-d);transform:translateY(-1px);box-shadow:var(--shm)}
+    .btn-ol{background:transparent;color:var(--charcoal);border-color:var(--charcoal)}
+    .btn-ol:hover{background:var(--charcoal);color:#fff}
+    .btn-olw{background:transparent;color:#fff;border-color:rgba(255,255,255,.55)}
+    .btn-olw:hover{background:rgba(255,255,255,.12);border-color:#fff}
+    .fi{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s ease}
+    .fi.vis{opacity:1;transform:none}
+
+    /* Nav */
+    #nav{position:sticky;top:0;z-index:1000;background:var(--charcoal);box-shadow:var(--shm)}
+    .nav-i{display:flex;align-items:center;justify-content:space-between;height:66px;max-width:var(--max);margin:0 auto;padding:0 1.5rem}
+    .nav-logo img{height:42px}
+    .nav-links{display:flex;align-items:center;gap:1.75rem;list-style:none}
+    .nav-links a{font-family:var(--cond);font-size:.85rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:rgba(255,255,255,.75);transition:var(--t);padding-bottom:2px;border-bottom:2px solid transparent}
+    .nav-links a:hover,.nav-links a.act{color:var(--yellow);border-color:var(--yellow)}
+    .nav-give{background:var(--red);color:#fff;font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.55rem 1.4rem;border-radius:4px;border:2px solid var(--red);transition:var(--t)}
+    .nav-give:hover{background:var(--red-h);border-color:var(--red-h)}
+    .ham{display:none;flex-direction:column;gap:5px;padding:6px}
+    .ham span{display:block;width:22px;height:2px;background:#fff;transition:var(--t)}
+    .nav-links.open{display:flex!important;flex-direction:column;position:absolute;top:66px;left:0;right:0;background:var(--charcoal);padding:1.5rem;gap:1rem;z-index:999}
+
+    /* Hero */
+    #hero{position:relative;min-height:88vh;display:flex;align-items:center;overflow:hidden}
+    .hero-bg{position:absolute;inset:0}
+    .hero-bg img{width:100%;height:100%;object-fit:cover;object-position:center 30%;display:block;filter:brightness(.45)}
+    .hero-c{position:relative;z-index:2;max-width:820px;padding:6rem 1.5rem;margin:0 0 0 7vw}
+    .hero-eye{font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--yellow);display:flex;align-items:center;gap:.75rem;margin-bottom:1.2rem}
+    .hero-eye::before{content:'';width:36px;height:2px;background:var(--yellow)}
+    .hero-h1{font-family:var(--serif);font-size:clamp(2.4rem,5.5vw,3.9rem);line-height:1.15;color:#fff;text-shadow:0 2px 14px rgba(0,0,0,.4);margin-bottom:1.4rem}
+    .hero-h1 em{font-style:italic;color:var(--yellow)}
+    .hero-sub{font-size:1.1rem;color:rgba(255,255,255,.85);max-width:580px;line-height:1.8;margin-bottom:2.5rem}
+    .hero-ctas{display:flex;gap:1rem;flex-wrap:wrap}
+    .hero-scroll{position:absolute;bottom:1.75rem;left:50%;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:.4rem;color:rgba(255,255,255,.5);font-family:var(--cond);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;z-index:2;animation:bob 2.2s ease-in-out infinite}
+    @keyframes bob{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(7px)}}
+
+    /* Mission / Vision / Belief */
+    #mission{background:var(--charcoal);padding:5rem 1.5rem}
+    .mvg{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:2.5rem}
+    .mv-card{border-top:3px solid var(--yellow);padding-top:1.5rem}
+    .mv-num{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:rgba(255,255,255,.3);margin-bottom:.75rem}
+    .mv-title{font-family:var(--serif);font-size:1.3rem;color:#fff;margin-bottom:.9rem;line-height:1.3}
+    .mv-body{color:rgba(255,255,255,.65);font-size:.95rem;line-height:1.8}
+    .scripture-strip{background:rgba(255,255,255,.05);border-left:3px solid var(--yellow);padding:1.5rem 1.9rem;margin-top:3rem;max-width:var(--max);margin-left:auto;margin-right:auto;border-radius:0 var(--r) var(--r) 0}
+    .scripture-text{font-family:var(--serif);font-style:italic;color:rgba(255,255,255,.8);font-size:1.05rem;line-height:1.75}
+    .scripture-ref{font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.4);margin-top:.6rem}
+
+    /* Impact Bar */
+    #impact{background:var(--yellow);padding:2.75rem 1.5rem}
+    .impact-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(4,1fr);gap:2rem;text-align:center}
+    .i-num{font-family:var(--cond);font-size:clamp(2.4rem,4.5vw,3.75rem);font-weight:800;color:var(--charcoal);line-height:1;display:block}
+    .i-lbl{font-family:var(--cond);font-size:.8rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:rgba(40,41,36,.65);margin-top:.4rem;display:block}
+
+    /* Who We Are */
+    #who{padding:5rem 1.5rem;background:#fff}
+    .who-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:center}
+    .who-media{position:relative}
+    .who-main{border-radius:var(--rl);overflow:hidden;height:480px}
+    .who-main img{width:100%;height:100%;object-fit:cover}
+    .who-badge{position:absolute;bottom:-1.5rem;right:-1.5rem;background:var(--yellow);border-radius:var(--rl);padding:1.25rem 1.5rem;text-align:center;box-shadow:var(--shm)}
+    .who-badge-n{font-family:var(--cond);font-size:2.4rem;font-weight:800;color:var(--charcoal);line-height:1;display:block}
+    .who-badge-l{font-family:var(--cond);font-size:.7rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(40,41,36,.65)}
+    .who-list{list-style:none;display:flex;flex-direction:column;gap:.65rem;margin:1.5rem 0}
+    .who-list li{display:flex;gap:.7rem;align-items:flex-start;color:var(--muted);line-height:1.65;font-size:.95rem}
+    .who-list li svg{flex-shrink:0;margin-top:2px;color:var(--red)}
+
+    /* Video Feature */
+    #story-vid{padding:5rem 1.5rem;background:var(--charcoal)}
+    .story-vid-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:center}
+    .vid-card{position:relative;border-radius:var(--rl);overflow:hidden;cursor:pointer;background:#000;box-shadow:var(--shl);aspect-ratio:16/9}
+    .vid-card img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease;filter:brightness(.85)}
+    .vid-card:hover img{transform:scale(1.03);filter:brightness(.7)}
+    .vid-card-play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
+    .vid-card-ic{width:80px;height:80px;background:rgba(255,255,255,.92);border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 8px 32px rgba(0,0,0,.5);transition:transform .25s ease}
+    .vid-card:hover .vid-card-ic{transform:scale(1.12)}
+    .vid-card-lbl{position:absolute;bottom:1.25rem;left:1.25rem;font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:rgba(255,255,255,.8)}
+
+    /* Three Pillars */
+    #pillars{padding:5rem 1.5rem;background:var(--stone)}
+    .pil-hd{text-align:center;margin-bottom:3.5rem}
+    .pil-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:1.75rem}
+    .pc{background:#fff;border-radius:var(--rl);overflow:hidden;box-shadow:var(--sh);transition:var(--t);display:flex;flex-direction:column}
+    .pc:hover{transform:translateY(-4px);box-shadow:var(--shm)}
+    .pc-img{height:210px;overflow:hidden}
+    .pc-img img{width:100%;height:100%;object-fit:cover;transition:transform .4s ease}
+    .pc:hover .pc-img img{transform:scale(1.05)}
+    .pc-body{padding:1.5rem 1.75rem 2rem;flex:1;display:flex;flex-direction:column}
+    .pc-n{font-family:var(--cond);font-size:.7rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.6rem}
+    .pc-title{font-family:var(--serif);font-size:1.45rem;margin-bottom:.75rem;color:var(--charcoal)}
+    .pc-body p{color:var(--muted);line-height:1.75;font-size:.95rem;flex:1}
+
+    /* Stories */
+    #stories{padding:5rem 1.5rem;background:var(--charcoal)}
+    .stories-hd{text-align:center;margin-bottom:3rem}
+    .stories-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:2rem}
+    .stc{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:var(--rl);overflow:hidden;display:flex;flex-direction:column;transition:var(--t)}
+    .stc:hover{background:rgba(255,255,255,.09);transform:translateY(-2px)}
+    .stc-img{height:240px;overflow:hidden}
+    .stc-img img{width:100%;height:100%;object-fit:cover;object-position:center 20%;transition:transform .4s ease}
+    .stc:hover .stc-img img{transform:scale(1.04)}
+    .stc-body{padding:1.75rem 1.75rem 2rem;flex:1;display:flex;flex-direction:column}
+    .stc-tag{font-family:var(--cond);font-size:.7rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--yellow);margin-bottom:.75rem}
+    .stc-name{font-family:var(--serif);font-size:1.2rem;color:#fff;margin-bottom:.85rem;line-height:1.3}
+    .stc-text{font-family:var(--serif);font-style:italic;color:rgba(255,255,255,.7);font-size:.95rem;line-height:1.75;flex:1}
+
+    /* History */
+    #history{padding:5rem 1.5rem;background:var(--stone)}
+    .hist-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:center}
+    .hist-img{border-radius:var(--rl);overflow:hidden;height:420px}
+    .hist-img img{width:100%;height:100%;object-fit:cover}
+    .hist-tl{display:flex;flex-direction:column;gap:1.5rem;margin:2rem 0}
+    .htl{display:flex;gap:1.25rem;align-items:flex-start}
+    .htl-yr{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.1em;background:var(--charcoal);color:var(--yellow);padding:.25rem .65rem;border-radius:4px;flex-shrink:0;margin-top:.2rem}
+    .htl-body{font-size:.93rem;color:var(--muted);line-height:1.65}
+    .htl-body strong{color:var(--charcoal)}
+
+    /* Team */
+    #team{padding:5rem 1.5rem;background:#fff}
+    .team-hd{text-align:center;margin-bottom:3.5rem}
+    .team-sect-title{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);text-align:center;margin:2.5rem 0 1.5rem}
+    .team-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1.25rem}
+    .tm{background:var(--stone);border-radius:var(--rl);padding:1.5rem 1.25rem;text-align:center;transition:var(--t)}
+    .tm:hover{transform:translateY(-3px);box-shadow:var(--shm)}
+    .tm-av{width:72px;height:72px;border-radius:50%;background:var(--sky);margin:0 auto .85rem;display:flex;align-items:center;justify-content:center;color:var(--charcoal);font-family:var(--cond);font-size:1.4rem;font-weight:800}
+    .tm-name{font-family:var(--cond);font-size:1rem;font-weight:700;color:var(--charcoal);letter-spacing:.03em;margin-bottom:.25rem}
+    .tm-role{font-size:.8rem;color:var(--muted);line-height:1.5}
+    .tm-loc{font-family:var(--cond);font-size:.72rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--sage-d);margin-top:.4rem}
+    .board-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.75rem}
+    .bm{background:rgba(178,172,136,.15);border:1px solid var(--border);border-radius:var(--r);padding:1rem 1.25rem}
+    .bm-name{font-family:var(--cond);font-size:.95rem;font-weight:700;color:var(--charcoal)}
+    .bm-loc{font-size:.8rem;color:var(--muted);margin-top:.2rem}
+
+    /* Partner CTA */
+    #partner{padding:5rem 1.5rem;background:#fff}
+    .partner-hd{text-align:center;margin-bottom:3.5rem}
+    .partner-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:1.75rem}
+    .pcard{border-radius:var(--rl);padding:2.75rem;display:flex;flex-direction:column;gap:1.25rem}
+    .pcard.seek{background:var(--sky)}
+    .pcard.give{background:var(--charcoal)}
+    .pcard h3{font-family:var(--serif);font-size:1.65rem;line-height:1.25}
+    .pcard.seek h3{color:var(--charcoal)}
+    .pcard.give h3{color:#fff}
+    .pcard p{line-height:1.8;font-size:.95rem}
+    .pcard.seek p{color:rgba(40,41,36,.78)}
+    .pcard.give p{color:rgba(255,255,255,.7)}
+    .pcard ul{list-style:none;display:flex;flex-direction:column;gap:.5rem}
+    .pcard ul li{display:flex;gap:.55rem;font-size:.93rem;align-items:flex-start}
+    .pcard.seek ul li{color:var(--charcoal)}
+    .pcard.give ul li{color:rgba(255,255,255,.78)}
+    .pcard ul li::before{content:'✓';font-weight:700;flex-shrink:0;margin-top:2px}
+    .pcard.seek ul li::before{color:var(--charcoal)}
+    .pcard.give ul li::before{color:var(--yellow)}
+    .pcard-btns{display:flex;gap:1rem;flex-wrap:wrap;margin-top:auto}
+
+    /* Footer */
+    #footer{background:#191916;padding:4rem 1.5rem 2rem}
+    .foot-top{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:3rem;padding-bottom:3rem;border-bottom:1px solid rgba(255,255,255,.07);margin-bottom:2rem}
+    .foot-brand img{height:50px;margin-bottom:1.2rem}
+    .foot-brand p{font-size:.88rem;color:rgba(255,255,255,.45);line-height:1.7;margin-bottom:1.4rem}
+    .foot-seals{display:flex;gap:.75rem;flex-wrap:wrap}
+    .foot-seal{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.13);border-radius:5px;padding:.35rem .7rem;font-family:var(--cond);font-size:.65rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.45);display:flex;flex-direction:column;align-items:center;gap:2px;line-height:1.3}
+    .foot-seal .stars{color:var(--yellow);font-size:.6rem;letter-spacing:2px}
+    .foot-col h4{font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35);margin-bottom:1.1rem}
+    .foot-col ul{list-style:none;display:flex;flex-direction:column;gap:.55rem}
+    .foot-col ul li a{font-size:.88rem;color:rgba(255,255,255,.55);transition:var(--t)}
+    .foot-col ul li a:hover{color:var(--yellow)}
+    .foot-bot{max-width:var(--max);margin:0 auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem}
+    .foot-bot p{font-size:.78rem;color:rgba(255,255,255,.28)}
+
+    /* Donation modal */
+    .don-modal{max-width:500px}
+    .don-hero{width:100%;height:auto;display:block;border-radius:var(--rl) var(--rl) 0 0;flex-shrink:0}
+    .don-freq{display:flex;gap:0;border:2px solid var(--stone);border-radius:8px;overflow:hidden;margin-bottom:1.5rem}
+    .don-freq-btn{flex:1;font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase;background:none;border:none;padding:.65rem .5rem;cursor:pointer;color:rgba(40,41,36,.45);transition:background .2s,color .2s}
+    .don-freq-btn.act{background:var(--charcoal);color:#fff}
+    .don-freq-badge{display:inline-block;background:var(--yellow);color:var(--charcoal);font-size:.6rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:.15rem .45rem;border-radius:20px;margin-left:.4rem;vertical-align:middle}
+    .don-amounts{display:grid;grid-template-columns:repeat(4,1fr);gap:.5rem;margin-bottom:.75rem}
+    .don-amt{font-family:var(--cond);font-size:1.1rem;font-weight:800;background:var(--stone);border:2px solid transparent;border-radius:8px;padding:.7rem .5rem;cursor:pointer;color:var(--charcoal);transition:all .2s ease}
+    .don-amt:hover{border-color:var(--charcoal)}
+    .don-amt.act{background:var(--charcoal);color:#fff;border-color:var(--charcoal)}
+    .don-custom-wrap{position:relative;margin-bottom:1rem}
+    .don-dollar{position:absolute;left:.85rem;top:50%;transform:translateY(-50%);font-family:var(--cond);font-weight:700;color:rgba(40,41,36,.5);font-size:1rem}
+    .don-custom-wrap input{width:100%;padding:.65rem .85rem .65rem 1.8rem;border:2px solid var(--stone);border-radius:8px;font-family:var(--cond);font-size:1rem;font-weight:700;color:var(--charcoal);background:#fff;transition:border .2s;box-sizing:border-box}
+    .don-custom-wrap input:focus{outline:none;border-color:var(--charcoal)}
+    .don-impact{font-family:var(--serif);font-style:italic;font-size:.92rem;color:var(--charcoal);background:var(--stone);border-left:3px solid var(--yellow);padding:.65rem .9rem;border-radius:0 6px 6px 0;margin-bottom:1.25rem;line-height:1.6;min-height:2.8rem;transition:opacity .2s}
+    .don-row{display:grid;grid-template-columns:1fr 1fr;gap:.75rem}
+    .don-field{display:flex;flex-direction:column;gap:.35rem;margin-bottom:.75rem}
+    .don-field label{font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:rgba(40,41,36,.55)}
+    .don-field input{padding:.65rem .85rem;border:2px solid var(--stone);border-radius:8px;font-size:.95rem;color:var(--charcoal);transition:border .2s;background:#fff}
+    .don-field input:focus{outline:none;border-color:var(--charcoal)}
+    .don-ded{margin-bottom:1.25rem}
+    .don-ded-toggle{display:flex;align-items:center;gap:.55rem;cursor:pointer;font-family:var(--cond);font-size:.82rem;font-weight:600;color:rgba(40,41,36,.6)}
+    .don-ded-toggle input{accent-color:var(--charcoal);width:15px;height:15px}
+    .don-ded-input{width:100%;margin-top:.6rem;padding:.6rem .85rem;border:2px solid var(--stone);border-radius:8px;font-size:.9rem;color:var(--charcoal);box-sizing:border-box}
+    .don-submit{width:100%;font-size:1rem;padding:.9rem;margin-top:.5rem;justify-content:center}
+    .don-trust{font-size:.72rem;color:rgba(40,41,36,.42);text-align:center;margin-top:.85rem;display:flex;align-items:center;justify-content:center;gap:.4rem}
+    .don-success{text-align:center;padding:2rem 1rem}
+    .don-success-ic{width:64px;height:64px;background:var(--charcoal);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 1.25rem;color:var(--yellow);font-size:1.8rem}
+    .don-success h3{font-family:var(--serif);font-size:1.6rem;margin-bottom:.75rem}
+    .don-success p{color:rgba(40,41,36,.65);line-height:1.7;margin-bottom:1.5rem}
+
+    /* Modals shared */
+    .mbk{position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:5000;display:flex;align-items:center;justify-content:center;padding:1.5rem;opacity:0;pointer-events:none;transition:opacity .3s ease;backdrop-filter:blur(4px)}
+    .mbk.on{opacity:1;pointer-events:all}
+    .modal{background:#fff;border-radius:var(--rl);max-width:660px;width:100%;max-height:85vh;overflow-y:auto;transform:translateY(18px) scale(.97);transition:transform .3s ease;position:relative}
+    .mbk.on .modal{transform:none}
+    .mhd{padding:1.9rem 1.9rem 1.2rem;border-bottom:1px solid var(--border);display:flex;align-items:flex-start;justify-content:space-between;gap:1rem;position:sticky;top:0;background:#fff;z-index:1}
+    .m-title{font-family:var(--serif);font-size:1.45rem;color:var(--charcoal)}
+    .m-x{width:34px;height:34px;border-radius:50%;background:var(--stone);display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:var(--t);font-size:1.1rem;color:var(--muted)}
+    .m-x:hover{background:var(--red);color:#fff}
+    .mbody{padding:1.65rem 1.9rem 2rem}
+    .mbody h4{font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--sage-d);margin:1.4rem 0 .45rem}
+    .mbody h4:first-child{margin-top:0}
+    .mbody p{color:var(--muted);line-height:1.8;margin-bottom:.7rem}
+    .m-cta{margin-top:1.9rem;display:flex;gap:1rem;flex-wrap:wrap}
+    #m-video .modal{background:#000;max-width:none;width:auto;max-height:92vh;aspect-ratio:16/9;border-radius:12px;overflow:hidden;display:flex;align-items:center;justify-content:center}
+    #m-video .modal video{width:100%;height:100%;object-fit:contain;display:block}
+    .vid-close{position:absolute;top:.75rem;right:.75rem;z-index:10;background:rgba(0,0,0,.6);border:none;color:#fff;width:38px;height:38px;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:1rem;transition:background .2s ease}
+    .vid-close:hover{background:var(--red)}
+
+    /* Responsive */
+    @media(max-width:960px){
+      .mvg{grid-template-columns:1fr;gap:2rem}
+      .impact-g{grid-template-columns:repeat(2,1fr)}
+      .who-g{grid-template-columns:1fr;gap:3.5rem}
+      .who-badge{bottom:1rem;right:1rem}
+      .story-vid-g{grid-template-columns:1fr;gap:3rem}
+      .pil-g{grid-template-columns:1fr;max-width:500px}
+      .stories-g{grid-template-columns:1fr}
+      .hist-g{grid-template-columns:1fr;gap:2.5rem}
+      .partner-g{grid-template-columns:1fr}
+      .foot-top{grid-template-columns:1fr 1fr;gap:2rem}
+      .nav-links{display:none}
+      .ham{display:flex}
+    }
+    @media(max-width:600px){
+      .hero-c{margin-left:0}
+      .impact-g{grid-template-columns:repeat(2,1fr)}
+      .foot-top{grid-template-columns:1fr}
+      .foot-bot{flex-direction:column;text-align:center}
+    }
+  </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav id="nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-i">
+    <a href="index.html" class="nav-logo">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    </a>
+    <button class="ham" aria-label="Toggle menu" onclick="this.nextElementSibling.classList.toggle('open')">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links" id="navlinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="#mission">Mission</a></li>
+      <li><a href="#who">Who We Are</a></li>
+      <li><a href="#team">Our Team</a></li>
+      <li><a href="healing-groups.html">Healing Groups</a></li>
+    </ul>
+    <button onclick="openModal('m-donate')" class="nav-give">Donate</button>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section id="hero" aria-label="About LIM">
+  <div class="hero-bg">
+    <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/620e3027-e727-4f32-868b-c536f10e9f5c/about-header-hero-blur-bottom-blackgradient-b.jpg" alt="" aria-hidden="true">
+  </div>
+  <div class="hero-c">
+    <span class="hero-eye">Native-Led Ministry Since 1985</span>
+    <h1 class="hero-h1">Where <em>Faith</em> Meets Tradition.<br>Where Healing Begins.</h1>
+    <p class="hero-sub">Lutheran Indian Ministries is a Native-led organization sharing the Gospel of Jesus Christ with Native American and Alaska Native people — building lasting relationships rooted in trust, healing, and hope.</p>
+    <div class="hero-ctas">
+      <a href="#mission" class="btn btn-sky">Our Mission</a>
+      <button onclick="openVidModal('https://player.vimeo.com/progressive_redirect/playback/1125923234/rendition/1080p/file.mp4?loc=external&log_user=0&signature=42610c9b8ce45c0c7f1678b0f18ed85dd6c391a211046a1d865ded2f2d4bbcac','About LIM')" class="btn btn-olw">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="8,5 20,12 8,19"/></svg>
+        Watch Our Story
+      </button>
+    </div>
+  </div>
+  <div class="hero-scroll" aria-hidden="true">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+    <span>Scroll</span>
+  </div>
+</section>
+
+<!-- Mission / Vision / Core Belief -->
+<section id="mission" aria-label="Mission, vision, and core belief">
+  <div style="background:var(--charcoal);padding:5rem 1.5rem">
+    <div class="mvg wrap">
+      <div class="mv-card fi">
+        <div class="mv-num">01 — Mission</div>
+        <h2 class="mv-title">Share the Gospel. Proclaim the Kingdom.</h2>
+        <p class="mv-body">Lutheran Indian Ministries shares the Gospel of Jesus Christ with Native American people, encouraging them to proclaim Christ's Kingdom to their own and to others. We identify, recruit, and prepare Native Christian leaders — and nurture healing within communities.</p>
+      </div>
+      <div class="mv-card fi" style="transition-delay:.1s">
+        <div class="mv-num">02 — Vision</div>
+        <h2 class="mv-title">All Nations Walking Together in Light.</h2>
+        <p class="mv-body">Every nation, tribe and people comes to know and experience the Father's love — receiving forgiveness, recognizing God-given worth, thriving in healthy communities, and celebrating the unique cultural heritage God gave them in Christ.</p>
+      </div>
+      <div class="mv-card fi" style="transition-delay:.2s">
+        <div class="mv-num">03 — Core Belief</div>
+        <h2 class="mv-title">Love Is an Action, Not an Emotion.</h2>
+        <p class="mv-body">We listen before we speak. We walk beside and build relationships rooted in trust, not transactions. If Native people cannot see Jesus through our actions, they will never listen to our words. We arrive by invitation — guided by tribal protocol and cultural humility.</p>
+      </div>
+    </div>
+    <div class="scripture-strip fi wrap" style="transition-delay:.3s">
+      <p class="scripture-text">"There before me was a great multitude no one could count, from every nation, tribe, people, and language, standing before the throne and the Lamb, crying out, 'Salvation belongs to our God.'"</p>
+      <p class="scripture-ref">— Revelation 7:9–10</p>
+    </div>
+  </div>
+</section>
+
+<!-- Impact Stats -->
+<section id="impact" aria-label="Ministry statistics">
+  <div class="impact-g">
+    <div class="fi">
+      <span class="i-num" data-target="574">0</span>
+      <span class="i-lbl">Federally Recognized Tribes</span>
+    </div>
+    <div class="fi" style="transition-delay:.1s">
+      <span class="i-num" data-target="229">0</span>
+      <span class="i-lbl">Alaska Native Tribes</span>
+    </div>
+    <div class="fi" style="transition-delay:.2s">
+      <span class="i-num" data-target="40">0</span>
+      <span class="i-lbl">Years of Native Ministry</span>
+    </div>
+    <div class="fi" style="transition-delay:.3s">
+      <span class="i-num" data-target="100">0</span>
+      <span class="i-lbl">Countries With Trauma Healing</span>
+    </div>
+  </div>
+</section>
+
+<!-- Who We Are -->
+<section id="who" aria-label="Who we are" style="padding:5rem 1.5rem;background:#fff">
+  <div class="who-g wrap">
+    <div class="who-media fi">
+      <div class="who-main">
+        <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651346906187-2RJF1J6XGHPO3ONCXDC1/people-old-woman-sky+copy.jpg" alt="Native elder woman against the sky" loading="lazy">
+      </div>
+      <div class="who-badge">
+        <span class="who-badge-n">574</span>
+        <span class="who-badge-l">Tribal Communities</span>
+      </div>
+    </div>
+    <div class="fi" style="transition-delay:.1s">
+      <span class="lbl">Who We Are</span>
+      <h2 class="h2">Native-Led. Relationship-First.</h2>
+      <p style="color:var(--muted);line-height:1.8;margin-bottom:1.1rem">Founded in 1985, Lutheran Indian Ministries is an independent nonprofit with no denominational funding — entirely supported by people who believe in this work. We serve Native American and Alaska Native communities across the United States.</p>
+      <p style="color:var(--muted);line-height:1.8;margin-bottom:1.5rem">LIM is led by Native people who know the stories, the traditions, the culture, and the humor. With 574 federally recognized tribes — 229 in Alaska alone — we travel by small plane, boat, and snowmachine to reach communities wherever they are. We don't show up with answers. We arrive with open hearts.</p>
+      <ul class="who-list">
+        <li>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+          We go by invitation only — guided by tribal protocol and cultural humility
+        </li>
+        <li>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+          We don't bring a model — we build relationships, and that changes everything
+        </li>
+        <li>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+          We develop Native leaders to share the Gospel in their own language and culture
+        </li>
+        <li>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+          Audited financials published annually — full transparency and accountability
+        </li>
+      </ul>
+      <div style="display:flex;gap:1rem;flex-wrap:wrap">
+        <button onclick="openModal('m-donate')" class="btn btn-red">Partner With Us</button>
+        <a href="#pillars" class="btn btn-ol">Our Three Pillars</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Watch Our Story -->
+<section id="story-vid" aria-label="About LIM video">
+  <div class="story-vid-g wrap">
+    <div class="fi">
+      <span class="lbl" style="color:rgba(255,255,255,.45)">Our Story</span>
+      <h2 class="h2" style="color:#fff">God Is Building Something <em style="color:var(--yellow)">Lasting</em></h2>
+      <blockquote style="font-family:var(--serif);font-size:1.1rem;font-style:italic;color:rgba(255,255,255,.72);border-left:3px solid var(--yellow);padding-left:1.4rem;margin:1.5rem 0;line-height:1.7">"There is a place where faith meets tradition, where God's healing touches the deepest wounds, and where hope rises from generations of silence. That place… is Lutheran Indian Ministries."</blockquote>
+      <p style="color:rgba(255,255,255,.65);line-height:1.8;margin-bottom:.85rem">Led by Robert Heffle, Yup'ik Eskimo and Executive Director of LIM, our ministry is built on one conviction: that all healing comes from God, and that love is an action — not just an emotion.</p>
+      <p style="color:rgba(255,255,255,.5);line-height:1.8;font-size:.92rem">Robert's mother was from Kotzebue, Alaska — 35 miles above the Arctic Circle. This story is personal. It is ours.</p>
+      <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:2rem">
+        <button onclick="openVidModal('https://player.vimeo.com/progressive_redirect/playback/1125923234/rendition/1080p/file.mp4?loc=external&log_user=0&signature=42610c9b8ce45c0c7f1678b0f18ed85dd6c391a211046a1d865ded2f2d4bbcac','About LIM')" class="btn btn-sky">Watch Full Video</button>
+        <button onclick="openModal('m-donate')" class="btn btn-olw">Partner With Us</button>
+      </div>
+    </div>
+    <div class="vid-card fi" style="transition-delay:.15s" onclick="openVidModal('https://player.vimeo.com/progressive_redirect/playback/1125923234/rendition/1080p/file.mp4?loc=external&log_user=0&signature=42610c9b8ce45c0c7f1678b0f18ed85dd6c391a211046a1d865ded2f2d4bbcac','About LIM')" role="button" aria-label="Play About LIM video">
+      <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a2cc73ae-0a54-4b63-9e1d-cac96dde2153/About+LIM+2025+Vid+Thumb-logo-top-right.jpeg" alt="About LIM 2025 video thumbnail" loading="lazy">
+      <div class="vid-card-play">
+        <div class="vid-card-ic">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="var(--charcoal)" aria-hidden="true"><polygon points="8,5 20,12 8,19"/></svg>
+        </div>
+      </div>
+      <span class="vid-card-lbl">Watch Our Story</span>
+    </div>
+  </div>
+</section>
+
+<!-- Three Pillars -->
+<section id="pillars" aria-label="Three pillars of ministry">
+  <div class="pil-hd wrap fi">
+    <span class="lbl" style="display:block;text-align:center">How We Serve</span>
+    <h2 class="h2" style="text-align:center">Three Pillars of Ministry</h2>
+    <p class="intro" style="text-align:center;margin:0 auto">Everything LIM does flows from three deeply integrated commitments — each reinforcing the others in a whole-life approach to Gospel ministry.</p>
+  </div>
+  <div class="pil-g wrap">
+    <article class="pc fi">
+      <div class="pc-img">
+        <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651424921338-EWQLUNDT056AUR7BZBQW/people-girl-dog.jpg" alt="Native girl with dog" loading="lazy">
+      </div>
+      <div class="pc-body">
+        <span class="pc-n">Pillar 01</span>
+        <h3 class="pc-title">Proclaim</h3>
+        <p>Sharing the Gospel in culturally grounded ways that honor Native traditions as vessels of God's grace. God speaks in Native tongues to Native hearts. We travel by small plane, boat, and snowmachine — going by invitation, guided by tribal protocol.</p>
+      </div>
+    </article>
+    <article class="pc fi" style="transition-delay:.1s">
+      <div class="pc-img">
+        <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/38f3d191-6237-4d40-a4ba-6e8948418d34/14-opt.jpg" alt="Haskell campus ministry" loading="lazy">
+      </div>
+      <div class="pc-body">
+        <span class="pc-n">Pillar 02</span>
+        <h3 class="pc-title">Disciple</h3>
+        <p>Developing Native leaders through campus ministry at Haskell Indian Nations University — serving students from 130+ tribes. A home away from home: meals, Bible studies, mentorship, and the reminder that you don't have to change to be loved by God.</p>
+      </div>
+    </article>
+    <article class="pc fi" style="transition-delay:.2s">
+      <div class="pc-img">
+        <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/e776e276-8de9-4b80-abc0-080129251f55/5.jpg" alt="Healing group session" loading="lazy">
+      </div>
+      <div class="pc-body">
+        <span class="pc-n">Pillar 03</span>
+        <h3 class="pc-title">Heal</h3>
+        <p>A Bible-based small group program addressing the wounds of historical trauma — boarding schools, family separation, cultural erasure, and generations of loss. The curriculum reaches reservations, villages, urban centers, and online across Native communities.</p>
+      </div>
+    </article>
+  </div>
+</section>
+
+<!-- Stories of Transformation -->
+<section id="stories" aria-label="Stories of transformation">
+  <div class="stories-hd wrap fi">
+    <span class="lbl" style="display:block;text-align:center;color:rgba(255,255,255,.45)">Changed Lives</span>
+    <h2 class="h2" style="text-align:center;color:#fff">Stories of Transformation</h2>
+    <p style="text-align:center;color:rgba(255,255,255,.6);max-width:560px;margin:.75rem auto 0;line-height:1.8">These are not programs. These are people. And God is moving — one life, one relationship, one scripture at a time.</p>
+  </div>
+  <div class="stories-g wrap">
+    <div class="stc fi">
+      <div class="stc-img">
+        <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/f34f2c2f-3606-42cf-a297-f3d9bf7680b7/Roberta_Healing_Grps_Intro-thumb.jpg" alt="Roberta Richardson" loading="lazy">
+      </div>
+      <div class="stc-body">
+        <span class="stc-tag">Healing the Wounds of Trauma</span>
+        <h3 class="stc-name">Roberta Richardson (Uuvanagaa Atigah Kitgruak) — Anchorage, AK</h3>
+        <p class="stc-text">"I wish I could have done the Healing the Wounds of Trauma decades ago… but we experience freedom when the time is right. I got to let go of hurts and disappointments I've experienced in my entire life. Talk about freedom. Oh, the freedom. I have a hard time putting into words how you feel so much lighter — how you feel so not shackled anymore."</p>
+      </div>
+    </div>
+    <div class="stc fi" style="transition-delay:.1s">
+      <div class="stc-img">
+        <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a3e01435-218e-4f4a-8003-b9bf716da5ec/Haskell+LIGHT+%282%29.jpg" alt="Haskell LIGHT campus ministry" loading="lazy">
+      </div>
+      <div class="stc-body">
+        <span class="stc-tag">Haskell LIGHT Campus Ministry</span>
+        <h3 class="stc-name">Leo Grass — Keetowah Cherokee &amp; Western Shoshone</h3>
+        <p class="stc-text">Leo visited Haskell LIGHT and met director Pola Farve — herself a Haskell graduate. One day, Leo asked for a Bible. Touched by the moment, he shared it on social media. Leo began reading — and didn't stop. Today, Leo walks a new path guided by faith. What starts as comfort becomes a calling.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- History -->
+<section id="history" aria-label="Our history" style="padding:5rem 1.5rem;background:var(--stone)">
+  <div class="hist-g wrap">
+    <div class="hist-img fi">
+      <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/ce7a88a9-5b18-4891-97e6-7085c709119e/place-tipi-night-crop.jpg" alt="Tipi at night" loading="lazy">
+    </div>
+    <div class="fi" style="transition-delay:.1s">
+      <span class="lbl">Our History</span>
+      <h2 class="h2">40 Years of Walking Alongside.</h2>
+      <p style="color:var(--muted);line-height:1.8;margin-bottom:1.5rem">Lutheran Indian Ministries began in 1985 — first as the Lutheran Association of Missionaries and Pilots, renamed in 2010 to better reflect the people and communities at the heart of this work. For four decades, we have walked with Native people not as outsiders, but as partners, learners, and friends.</p>
+      <div class="hist-tl">
+        <div class="htl">
+          <span class="htl-yr">1884</span>
+          <p class="htl-body"><strong>Haskell's roots.</strong> Haskell Indian Nations University founded as a boarding school during forced assimilation. Today a federally funded university — and a symbol of cultural resilience serving students from 100+ tribes.</p>
+        </div>
+        <div class="htl">
+          <span class="htl-yr">1985</span>
+          <p class="htl-body"><strong>Founded</strong> as the Lutheran Association of Missionaries and Pilots — a ministry rooted in reaching remote Native communities, traveling by small plane across Alaska and the rural West.</p>
+        </div>
+        <div class="htl">
+          <span class="htl-yr">2010</span>
+          <p class="htl-body"><strong>Renamed</strong> to Lutheran Indian Ministries — more accurately reflecting the breadth of Native communities served and the relational, people-first nature of the work.</p>
+        </div>
+        <div class="htl">
+          <span class="htl-yr">Today</span>
+          <p class="htl-body"><strong>Active in 574 tribal communities</strong> — proclaiming the Gospel, discipling leaders at Haskell, and bringing healing groups to reservations, villages, urban centers, and online.</p>
+        </div>
+      </div>
+      <a href="healing-groups.html" class="btn btn-red">Find a Healing Group</a>
+    </div>
+  </div>
+</section>
+
+<!-- Team -->
+<section id="team" aria-label="Our team" style="padding:5rem 1.5rem;background:#fff">
+  <div class="wrap">
+    <div class="team-hd fi">
+      <span class="lbl" style="display:block;text-align:center">The People</span>
+      <h2 class="h2" style="text-align:center">Who Carries This Work</h2>
+      <p class="intro" style="text-align:center;margin:0 auto">LIM is led by Native people and supported by partners who share a deep commitment to Native communities.</p>
+    </div>
+
+    <div class="team-sect-title fi">Ministry Team</div>
+    <div class="team-g fi" style="transition-delay:.05s">
+      <div class="tm">
+        <div class="tm-av">PF</div>
+        <div class="tm-name">Pola Farve (Punchegun)</div>
+        <div class="tm-role">Haskell LIGHT Director</div>
+        <div class="tm-loc">Lawrence, KS</div>
+      </div>
+      <div class="tm">
+        <div class="tm-av">CM</div>
+        <div class="tm-name">Cheristine Mousseau</div>
+        <div class="tm-role">Ministry Team</div>
+        <div class="tm-loc">Lawrence, KS</div>
+      </div>
+      <div class="tm">
+        <div class="tm-av">SS</div>
+        <div class="tm-name">Suzette Shreffler</div>
+        <div class="tm-role">Ministry Team</div>
+        <div class="tm-loc">Busby, MT</div>
+      </div>
+      <div class="tm">
+        <div class="tm-av">RR</div>
+        <div class="tm-name">Roberta Richardson</div>
+        <div class="tm-role">Ministry Coordinator</div>
+        <div class="tm-loc">Anchorage, AK</div>
+      </div>
+      <div class="tm">
+        <div class="tm-av">EC</div>
+        <div class="tm-name">Esther Cetina</div>
+        <div class="tm-role">Ministry Team</div>
+        <div class="tm-loc">Anchorage, AK</div>
+      </div>
+    </div>
+
+    <div class="team-sect-title fi">Administrative Team</div>
+    <div class="team-g fi" style="transition-delay:.05s">
+      <div class="tm">
+        <div class="tm-av" style="background:var(--charcoal);color:var(--yellow)">RH</div>
+        <div class="tm-name">Robert Heffle</div>
+        <div class="tm-role">Executive Director</div>
+        <div class="tm-loc">Yup'ik Eskimo · Brookfield, WI</div>
+      </div>
+      <div class="tm">
+        <div class="tm-av">AP</div>
+        <div class="tm-name">Angie Pantazon</div>
+        <div class="tm-role">Asst. Financial Officer</div>
+        <div class="tm-loc">Brookfield, WI</div>
+      </div>
+      <div class="tm">
+        <div class="tm-av">RD</div>
+        <div class="tm-name">Rachel Doerner</div>
+        <div class="tm-role">Data Entry &amp; Mail</div>
+        <div class="tm-loc">Brookfield, WI</div>
+      </div>
+    </div>
+
+    <div class="team-sect-title fi">Board of Trustees</div>
+    <div class="board-g fi" style="transition-delay:.05s">
+      <div class="bm"><div class="bm-name">Richard Baranzini</div><div class="bm-loc">Phoenix, AZ</div></div>
+      <div class="bm"><div class="bm-name">Rev. Daniel Kempin</div><div class="bm-loc">Midland, MI</div></div>
+      <div class="bm"><div class="bm-name">Daniel Novitch</div><div class="bm-loc">Merrill, WI</div></div>
+      <div class="bm"><div class="bm-name">Jaylene Peterson-Nyren</div><div class="bm-loc">Anchorage, AK</div></div>
+      <div class="bm"><div class="bm-name">Rev. Roger Stauffer</div><div class="bm-loc">Sanford, MI</div></div>
+      <div class="bm"><div class="bm-name">Ted Kober</div><div class="bm-loc">Billings, MT</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- Partner / Get Involved -->
+<section id="partner" aria-label="Get involved" style="padding:5rem 1.5rem;background:var(--stone)">
+  <div class="wrap">
+    <div class="partner-hd fi">
+      <span class="lbl" style="display:block;text-align:center">Join the Work</span>
+      <h2 class="h2" style="text-align:center">How You Can Be Part of This</h2>
+    </div>
+    <div class="partner-g fi">
+      <div class="pcard seek">
+        <h3>Seeking Healing or Community?</h3>
+        <p>Our healing groups are open to all Native people — free to attend, grounded in scripture, and led by people who understand the weight of what you carry.</p>
+        <ul>
+          <li>Free healing group sessions — in-person and online</li>
+          <li>Trained Native facilitators who understand historical trauma</li>
+          <li>Safe, confidential, scripture-grounded community</li>
+          <li>Sessions in Fairbanks, Winnebago, online, and more</li>
+        </ul>
+        <div class="pcard-btns">
+          <a href="healing-groups.html" class="btn btn-red">Find a Healing Group</a>
+        </div>
+      </div>
+      <div class="pcard give">
+        <h3>Ready to Give or Partner?</h3>
+        <p>LIM is funded entirely through the generosity of individuals, churches, and ministry partners. Your gift directly supports Native-led Gospel ministry.</p>
+        <ul>
+          <li>$25 provides scripture materials for one participant</li>
+          <li>$100 sponsors a full healing group — all 6 sessions</li>
+          <li>$250 trains and equips a new Native facilitator</li>
+          <li>Audited financials available — full transparency</li>
+        </ul>
+        <div class="pcard-btns">
+          <button onclick="openModal('m-donate')" class="btn btn-sky">Donate Now</button>
+          <a href="mailto:info@lutheranindianministries.org" class="btn btn-olw">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+  <div class="foot-top">
+    <div class="foot-brand">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+      <p>A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.</p>
+      <div class="foot-seals">
+        <div class="foot-seal"><span class="stars">★★★</span><span>Charity Navigator</span></div>
+        <div class="foot-seal"><span>⬡</span><span>GuideStar Platinum</span></div>
+      </div>
+    </div>
+    <div class="foot-col">
+      <h4>About</h4>
+      <ul>
+        <li><a href="#mission">Mission &amp; Vision</a></li>
+        <li><a href="#who">Who We Are</a></li>
+        <li><a href="#pillars">Three Pillars</a></li>
+        <li><a href="#team">Our Team</a></li>
+        <li><a href="#history">Our History</a></li>
+      </ul>
+    </div>
+    <div class="foot-col">
+      <h4>Ministry</h4>
+      <ul>
+        <li><a href="healing-groups.html">Healing Groups</a></li>
+        <li><a href="healing-groups.html#facilitator">Become a Facilitator</a></li>
+        <li><a href="index.html#haskell">Haskell LIGHT</a></li>
+        <li><a href="index.html#videos">Videos</a></li>
+      </ul>
+    </div>
+    <div class="foot-col">
+      <h4>Contact</h4>
+      <ul>
+        <li><a href="tel:2624395663">(262) 439-5663</a></li>
+        <li><a href="tel:2627835267">(262) 783-5267</a></li>
+        <li><a href="mailto:info@lutheranindianministries.org">Email LIM</a></li>
+        <li><a href="https://www.lutheranindianministries.org" target="_blank" rel="noopener">Official Website</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="foot-bot">
+    <p>© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · EIN 39-1506889 · All Rights Reserved</p>
+    <div style="display:flex;gap:1rem">
+      <a href="https://facebook.com/lutheranindianministries" target="_blank" rel="noopener" style="color:rgba(255,255,255,.35);transition:var(--t)" onmouseover="this.style.color='var(--yellow)'" onmouseout="this.style.color='rgba(255,255,255,.35)'" aria-label="Facebook">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+      </a>
+      <a href="https://instagram.com/lutheranindianministries" target="_blank" rel="noopener" style="color:rgba(255,255,255,.35);transition:var(--t)" onmouseover="this.style.color='var(--yellow)'" onmouseout="this.style.color='rgba(255,255,255,.35)'" aria-label="Instagram">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+      </a>
+      <a href="https://youtube.com/@LutheranIndianMinistries" target="_blank" rel="noopener" style="color:rgba(255,255,255,.35);transition:var(--t)" onmouseover="this.style.color='var(--yellow)'" onmouseout="this.style.color='rgba(255,255,255,.35)'" aria-label="YouTube">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46a2.78 2.78 0 0 0-1.95 1.96A29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58A2.78 2.78 0 0 0 3.41 19.6C5.12 20 12 20 12 20s6.88 0 8.59-.46a2.78 2.78 0 0 0 1.95-1.95A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58z"/><polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02" fill="#191916"/></svg>
+      </a>
+    </div>
+  </div>
+</footer>
+
+<!-- Donation Modal -->
+<div id="m-donate" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-donate-t">
+  <div class="modal don-modal">
+    <img src="images-master/people-girl-half-smile-alaska-background-ar-ultrawide.jpg" alt="" class="don-hero" aria-hidden="true">
+    <div class="mhd">
+      <h2 class="m-title" id="m-donate-t">Partner With Us</h2>
+      <button class="m-x" onclick="closeModal('m-donate')" aria-label="Close">✕</button>
+    </div>
+    <div class="mbody">
+      <div class="don-freq" role="group" aria-label="Gift frequency">
+        <button class="don-freq-btn act" data-freq="one-time" onclick="donFreq(this)">One-Time</button>
+        <button class="don-freq-btn" data-freq="monthly" onclick="donFreq(this)">
+          Monthly <span class="don-freq-badge">Most Impact</span>
+        </button>
+      </div>
+      <div class="don-amounts" role="group" aria-label="Select gift amount">
+        <button class="don-amt" data-amt="25"  onclick="donAmt(this)">$25</button>
+        <button class="don-amt" data-amt="50"  onclick="donAmt(this)">$50</button>
+        <button class="don-amt act" data-amt="100" onclick="donAmt(this)">$100</button>
+        <button class="don-amt" data-amt="250" onclick="donAmt(this)">$250</button>
+      </div>
+      <div class="don-custom-wrap">
+        <span class="don-dollar">$</span>
+        <input id="don-custom-input" type="number" min="1" placeholder="Other amount" oninput="donCustom(this)" aria-label="Custom gift amount">
+      </div>
+      <p id="don-impact" class="don-impact">$100 sponsors a full healing group participant — all 6 sessions, rooted in God's Word.</p>
+      <form id="don-form" name="donation" method="POST" data-netlify="true" onsubmit="donSubmit(event)" netlify>
+        <input type="hidden" name="form-name" value="donation">
+        <input type="hidden" name="frequency" id="don-freq-val" value="one-time">
+        <input type="hidden" name="amount"    id="don-amt-val"  value="100">
+        <div class="don-row">
+          <div class="don-field">
+            <label for="don-first">First Name *</label>
+            <input type="text" id="don-first" name="first-name" required placeholder="First">
+          </div>
+          <div class="don-field">
+            <label for="don-last">Last Name *</label>
+            <input type="text" id="don-last" name="last-name" required placeholder="Last">
+          </div>
+        </div>
+        <div class="don-field">
+          <label for="don-email">Email *</label>
+          <input type="email" id="don-email" name="email" required placeholder="you@example.com">
+        </div>
+        <div class="don-ded">
+          <label class="don-ded-toggle">
+            <input type="checkbox" id="don-ded-chk" onchange="donDedicate(this)">
+            <span>Dedicate this gift (in honor or memory of someone)</span>
+          </label>
+          <div id="don-ded-body" style="display:none">
+            <input type="text" name="dedication" class="don-ded-input" placeholder="In honor / memory of…">
+          </div>
+        </div>
+        <button type="submit" class="btn btn-red don-submit">
+          Give <span id="don-submit-lbl">$100</span> Now
+        </button>
+        <p class="don-trust">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          Secure &amp; encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
+        </p>
+      </form>
+      <div id="don-success" style="display:none" class="don-success">
+        <div class="don-success-ic">✓</div>
+        <h3>Thank You!</h3>
+        <p>Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.</p>
+        <button class="btn btn-ol" onclick="closeModal('m-donate')">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Video Modal -->
+<div id="m-video" class="mbk" role="dialog" aria-modal="true" aria-label="Video player">
+  <div class="modal" style="position:relative">
+    <button class="vid-close" onclick="closeVid()" aria-label="Close video">✕</button>
+    <video id="vid-player" controls playsinline preload="none" src="" aria-label="Video player"></video>
+  </div>
+</div>
+
+<script>
+  // ── Modals ──
+  function openModal(id){
+    document.getElementById(id).classList.add('on');
+    document.body.style.overflow='hidden';
+  }
+  function closeModal(id){
+    document.getElementById(id).classList.remove('on');
+    document.body.style.overflow='';
+  }
+  document.querySelectorAll('.mbk').forEach(function(m){
+    m.addEventListener('click',function(e){if(e.target===m)closeModal(m.id);});
+  });
+  document.addEventListener('keydown',function(e){
+    if(e.key==='Escape'){
+      document.querySelectorAll('.mbk.on').forEach(function(m){
+        if(m.id==='m-video')closeVid();else closeModal(m.id);
+      });
+    }
+  });
+
+  // ── Video modal ──
+  function openVidModal(url,title){
+    var v=document.getElementById('vid-player');
+    v.src=url;v.load();v.play();
+    document.getElementById('m-video').classList.add('on');
+    document.body.style.overflow='hidden';
+  }
+  function closeVid(){
+    var v=document.getElementById('vid-player');
+    v.pause();v.src='';
+    document.getElementById('m-video').classList.remove('on');
+    document.body.style.overflow='';
+  }
+
+  // ── Count-up ──
+  function runCounter(el){
+    var t=+el.dataset.target,s=t/(1800/16),c=0;
+    var id=setInterval(function(){
+      c=Math.min(c+s,t);
+      el.textContent=Math.round(c).toLocaleString()+(el.dataset.suffix||'');
+      if(c>=t)clearInterval(id);
+    },16);
+  }
+  var co=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(e.isIntersecting){
+        e.target.querySelectorAll('[data-target]').forEach(runCounter);
+        co.unobserve(e.target);
+      }
+    });
+  },{threshold:.4});
+  var imp=document.getElementById('impact');
+  if(imp)co.observe(imp);
+
+  // ── Donation form ──
+  var DON_IMPACT={
+    '25':'$25 provides Scripture materials for one healing group participant.',
+    '50':'$50 funds a complete session of Healing the Wounds of Trauma.',
+    '100':'$100 sponsors a full healing group participant — all 6 sessions, rooted in God\'s Word.',
+    '250':'$250 equips and trains a new Native facilitator to lead in their own community.'
+  };
+  function donSetLabel(amt){
+    var freq=document.getElementById('don-freq-val').value==='monthly'?' / mo':'';
+    document.getElementById('don-submit-lbl').textContent='$'+amt+freq;
+    document.getElementById('don-amt-val').value=amt;
+    var imp=document.getElementById('don-impact');
+    if(imp){imp.textContent=DON_IMPACT[String(amt)]||'Your gift directly supports Native-led Gospel ministry.';imp.style.opacity=1;}
+  }
+  function donFreq(btn){
+    document.querySelectorAll('.don-freq-btn').forEach(function(b){b.classList.remove('act');});
+    btn.classList.add('act');
+    document.getElementById('don-freq-val').value=btn.dataset.freq;
+    donSetLabel(document.getElementById('don-amt-val').value);
+  }
+  function donAmt(btn){
+    document.querySelectorAll('.don-amt').forEach(function(b){b.classList.remove('act');});
+    btn.classList.add('act');
+    document.getElementById('don-custom-input').value='';
+    donSetLabel(btn.dataset.amt);
+  }
+  function donCustom(input){
+    if(input.value){
+      document.querySelectorAll('.don-amt').forEach(function(b){b.classList.remove('act');});
+      donSetLabel(input.value);
+    }
+  }
+  function donDedicate(chk){
+    document.getElementById('don-ded-body').style.display=chk.checked?'block':'none';
+  }
+  function donSubmit(e){
+    e.preventDefault();
+    var form=document.getElementById('don-form');
+    var btn=form.querySelector('.don-submit');
+    btn.disabled=true;btn.textContent='Processing…';
+    fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams(new FormData(form)).toString()})
+      .then(function(){
+        form.style.display='none';
+        document.getElementById('don-impact').style.display='none';
+        document.querySelectorAll('.don-freq,.don-amounts,.don-custom-wrap').forEach(function(el){el.style.display='none';});
+        document.getElementById('don-success').style.display='block';
+      })
+      .catch(function(){btn.disabled=false;btn.textContent='Give Now — please try again';});
+  }
+  var _origOpenModal=openModal;
+  openModal=function(id){
+    if(id==='m-donate'){
+      var form=document.getElementById('don-form'),success=document.getElementById('don-success');
+      if(form&&success){
+        form.style.display='';success.style.display='none';
+        document.getElementById('don-impact').style.display='';
+        document.querySelectorAll('.don-freq,.don-amounts,.don-custom-wrap').forEach(function(el){el.style.display='';});
+        form.reset();
+        document.getElementById('don-freq-val').value='one-time';
+        document.getElementById('don-amt-val').value='100';
+        document.querySelectorAll('.don-freq-btn').forEach(function(b,i){b.classList.toggle('act',i===0);});
+        document.querySelectorAll('.don-amt').forEach(function(b){b.classList.toggle('act',b.dataset.amt==='100');});
+        donSetLabel('100');
+        var sb=form.querySelector('.don-submit');if(sb){sb.disabled=false;}
+      }
+    }
+    _origOpenModal(id);
+  };
+
+  // ── Fade-in ──
+  var fi=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('vis');fi.unobserve(e.target);}});
+  },{threshold:.08});
+  document.querySelectorAll('.fi').forEach(function(el){fi.observe(el);});
+</script>
+</body>
+</html>
