@@ -202,12 +202,22 @@
     /* Haskell */
     #haskell{padding:5rem 1.5rem;background:var(--stone)}
     .hsk-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:start}
-    .hsk-media{display:flex;flex-direction:column;gap:.85rem}
-    .hsk-hero{border-radius:var(--rl);overflow:hidden;height:300px}
-    .hsk-hero img{width:100%;height:100%;object-fit:cover;object-position:center top}
-    .hsk-row{display:grid;grid-template-columns:1fr 1fr;gap:.85rem}
-    .hsk-row div{border-radius:var(--r);overflow:hidden;height:155px}
-    .hsk-row div img{width:100%;height:100%;object-fit:cover}
+    .hsk-media{display:flex;flex-direction:column;gap:1rem}
+    .hsk-logos{display:flex;gap:1rem;align-items:center}
+    .hsk-logo-wrap{flex:1;display:flex;align-items:center;justify-content:center;padding:.85rem 1rem;border-radius:var(--r)}
+    .hsk-logo-light{background:#fff;box-shadow:var(--sh)}
+    .hsk-logo-wrap img{max-height:72px;width:100%;object-fit:contain}
+    .hsk-carousel{position:relative;border-radius:var(--rl);overflow:hidden;height:340px}
+    .hsk-car-track{display:flex;height:100%;transition:transform .45s ease;will-change:transform}
+    .hsk-car-slide{min-width:100%;height:100%}
+    .hsk-car-slide img{width:100%;height:100%;object-fit:cover;display:block}
+    .hsk-car-btn{position:absolute;top:50%;transform:translateY(-50%);background:rgba(255,255,255,.88);border:none;border-radius:50%;width:38px;height:38px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--charcoal);box-shadow:var(--shm);transition:var(--t);z-index:2}
+    .hsk-car-btn:hover{background:#fff;transform:translateY(-50%) scale(1.06)}
+    .hsk-car-prev{left:.75rem}
+    .hsk-car-next{right:.75rem}
+    .hsk-car-dots{position:absolute;bottom:.7rem;left:50%;transform:translateX(-50%);display:flex;gap:.35rem;z-index:2}
+    .hsk-car-dot{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.45);border:none;cursor:pointer;transition:var(--t);padding:0}
+    .hsk-car-dot.act{background:#fff;width:18px;border-radius:4px}
     .hsk-q{font-family:var(--serif);font-size:1.05rem;font-style:italic;color:var(--muted);border-left:3px solid var(--sage);padding:1rem 1.4rem;margin:1.4rem 0;background:rgba(178,172,136,.12);border-radius:0 var(--r) var(--r) 0}
     .hsk-btns{margin-top:2rem;display:flex;gap:1rem;flex-wrap:wrap}
 
@@ -625,10 +635,30 @@
 <section id="haskell" aria-label="Haskell LIGHT campus ministry">
   <div class="hsk-g wrap">
     <div class="hsk-media fi">
-      <div class="hsk-hero"><img src="images-master/people-women-flowers-haskell.jpg" alt="Students at Haskell Indian Nations University" loading="lazy"></div>
-      <div class="hsk-row">
-        <div><img src="images-master/thing-haskell-light-logo.jpg" alt="Haskell LIGHT logo" loading="lazy"></div>
-        <div><img src="images-master/people-haskell-graduation-ceremony.jpg" alt="Haskell graduation celebration" loading="lazy"></div>
+      <div class="hsk-logos">
+        <div class="hsk-logo-wrap hsk-logo-light">
+          <img src="brand/Haskell+LIGHT-logo.webp" alt="Haskell LIGHT Campus Ministry">
+        </div>
+        <div class="hsk-logo-wrap">
+          <img src="brand/haskell-indian-nations-university-logo-trans-back-opt.webp" alt="Haskell Indian Nations University">
+        </div>
+      </div>
+      <div class="hsk-carousel">
+        <div class="hsk-car-track" id="hskTrack">
+          <div class="hsk-car-slide"><img src="images-master/people-women-flowers-haskell.jpg" alt="Students at Haskell" loading="lazy"></div>
+          <div class="hsk-car-slide"><img src="images-master/event-haskell-graduation-hug.jpg" alt="Graduation hug" loading="lazy"></div>
+          <div class="hsk-car-slide"><img src="images-master/people-haskell-graduation-ceremony.jpg" alt="Haskell graduation ceremony" loading="lazy"></div>
+          <div class="hsk-car-slide"><img src="images-master/event-haskell-graduation-sillystring.jpg" alt="Graduation celebration" loading="lazy"></div>
+          <div class="hsk-car-slide"><img src="images-master/auth-haskell-night-dance.jpg" alt="Night dance at Haskell" loading="lazy"></div>
+          <div class="hsk-car-slide"><img src="images-master/lim-haskell-grads-walkway.jpg" alt="Graduates on walkway" loading="lazy"></div>
+          <div class="hsk-car-slide"><img src="images-master/people-haskell-man-drum.jpg" alt="Man with drum at Haskell" loading="lazy"></div>
+          <div class="hsk-car-slide"><img src="images-master/auth-haskell-women-walking.jpg" alt="Women walking at Haskell" loading="lazy"></div>
+          <div class="hsk-car-slide"><img src="images-master/haskell-light-building.jpg" alt="Haskell LIGHT building" loading="lazy"></div>
+          <div class="hsk-car-slide"><img src="images-master/place-haskell-grads-banner.jpg" alt="Graduates at Haskell banner" loading="lazy"></div>
+        </div>
+        <button class="hsk-car-btn hsk-car-prev" onclick="hskSlide(-1)" aria-label="Previous image"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 18l-6-6 6-6"/></svg></button>
+        <button class="hsk-car-btn hsk-car-next" onclick="hskSlide(1)" aria-label="Next image"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M9 18l6-6-6-6"/></svg></button>
+        <div class="hsk-car-dots" id="hskDots"></div>
       </div>
     </div>
     <div class="fi" style="transition-delay:.1s">
@@ -1073,6 +1103,26 @@
     if(open){btn.classList.remove('open');btn.setAttribute('aria-expanded','false');body.style.maxHeight='0';}
     else{btn.classList.add('open');btn.setAttribute('aria-expanded','true');body.style.maxHeight=body.scrollHeight+'px';}
   }
+
+  // Haskell carousel
+  (function(){
+    var idx=0,total=10,track=document.getElementById('hskTrack'),dots=document.getElementById('hskDots');
+    if(!track)return;
+    for(var i=0;i<total;i++){
+      var d=document.createElement('button');
+      d.className='hsk-car-dot'+(i===0?' act':'');
+      d.setAttribute('aria-label','Slide '+(i+1));
+      d.dataset.i=i;
+      d.onclick=function(){idx=+this.dataset.i;upd();};
+      dots.appendChild(d);
+    }
+    function upd(){
+      track.style.transform='translateX(-'+idx*100+'%)';
+      dots.querySelectorAll('.hsk-car-dot').forEach(function(d,i){d.classList.toggle('act',i===idx);});
+    }
+    window.hskSlide=function(dir){idx=(idx+dir+total)%total;upd();};
+    setInterval(function(){idx=(idx+1)%total;upd();},4500);
+  })();
 
   // Fade in
   const fi=new IntersectionObserver(entries=>{
