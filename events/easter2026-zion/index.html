@@ -51,7 +51,8 @@
       text-align: center;
     }
 
-    .hero-img {
+    .hero-img,
+    .hero-video {
       position: absolute;
       inset: 0;
       width: 100%;
@@ -483,7 +484,7 @@
         page-break-inside: avoid;
       }
 
-      .hero-img { display: none; }
+      .hero-video { display: none; }
       .hero-overlay { display: none; }
 
       .hero-content {
@@ -512,7 +513,10 @@
 
   <!-- HERO -->
   <section class="hero">
-    <img class="hero-img" src="hero-cross-candles.png" alt="Wooden cross surrounded by candlelight in a stone sanctuary">
+    <video class="hero-video" autoplay muted loop playsinline poster="hero-cross-candles.png">
+      <source src="https://res.cloudinary.com/dsbllwpbh/video/upload/v1774384766/garyricke_httpss.mj.runid3Z2P5LOvc_--ar_256143_--video_1_--en_459886c8-35ef-4af3-849b-ea4acbb750e3_1_fu3loi.mp4" type="video/mp4">
+      <img class="hero-img" src="hero-cross-candles.png" alt="Wooden cross surrounded by candlelight in a stone sanctuary">
+    </video>
     <div class="hero-overlay"></div>
     <div class="hero-content">
       <p class="hero-eyebrow">Zion Lutheran Church · Fairbanks, Alaska</p>
