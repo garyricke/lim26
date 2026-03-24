@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Promotional Materials — Service of Shadows and Stones</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --charcoal: #1C1A17;
+      --charcoal-mid: #2A2520;
+      --charcoal-light: #3A342D;
+      --amber: #C8922A;
+      --amber-light: #E8B84B;
+      --parchment: #F0EBE1;
+      --parchment-dim: #A89880;
+      --stone: #7A7268;
+    }
+
+    body {
+      background: var(--charcoal);
+      color: var(--parchment);
+      font-family: 'Lato', sans-serif;
+      font-weight: 300;
+      line-height: 1.7;
+    }
+
+    /* ── HEADER ── */
+    .page-header {
+      background: var(--charcoal-mid);
+      border-bottom: 1px solid var(--charcoal-light);
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--amber);
+      text-decoration: none;
+      margin-bottom: 1.5rem;
+    }
+
+    .back-link:hover { color: var(--amber-light); }
+
+    .page-header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.8rem, 4vw, 2.8rem);
+      color: #fff;
+      margin-bottom: 0.75rem;
+    }
+
+    .page-header p {
+      font-size: 1rem;
+      color: var(--parchment-dim);
+      max-width: 540px;
+      margin: 0 auto;
+    }
+
+    /* ── INTRO BAR ── */
+    .intro-bar {
+      background: var(--charcoal-light);
+      padding: 1.5rem 2rem;
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--parchment-dim);
+      border-bottom: 1px solid rgba(200,146,42,0.2);
+    }
+
+    .intro-bar strong { color: var(--amber-light); font-weight: 700; }
+
+    /* ── AD CARDS ── */
+    .ads-container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 4rem 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 5rem;
+    }
+
+    .ad-card {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 3rem;
+      align-items: start;
+    }
+
+    .ad-card.reverse { direction: rtl; }
+    .ad-card.reverse > * { direction: ltr; }
+
+    .ad-preview {
+      position: relative;
+    }
+
+    .ad-preview img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 4px;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+    }
+
+    .ad-badge {
+      position: absolute;
+      top: -12px;
+      left: 16px;
+      background: var(--amber);
+      color: var(--charcoal);
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      padding: 0.3rem 0.75rem;
+      border-radius: 2px;
+    }
+
+    .ad-info {}
+
+    .ad-number {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 0.5rem;
+    }
+
+    .ad-info h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.4rem, 2.5vw, 1.9rem);
+      color: #fff;
+      margin-bottom: 1rem;
+      line-height: 1.25;
+    }
+
+    .ad-info p {
+      font-size: 0.95rem;
+      color: var(--parchment);
+      margin-bottom: 1rem;
+    }
+
+    /* Specs table */
+    .specs {
+      margin: 1.5rem 0;
+      border-top: 1px solid var(--charcoal-light);
+      padding-top: 1.25rem;
+    }
+
+    .specs-title {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--parchment-dim);
+      margin-bottom: 0.75rem;
+    }
+
+    .spec-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: 0.35rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      font-size: 0.85rem;
+    }
+
+    .spec-row:last-child { border-bottom: none; }
+
+    .spec-label {
+      color: var(--parchment-dim);
+      font-size: 0.78rem;
+    }
+
+    .spec-value {
+      color: var(--parchment);
+      font-weight: 400;
+      text-align: right;
+    }
+
+    /* Where to use tags */
+    .use-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 1.25rem;
+    }
+
+    .use-tag {
+      background: var(--charcoal-light);
+      border: 1px solid var(--charcoal-light);
+      color: var(--parchment-dim);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 0.3rem 0.65rem;
+      border-radius: 2px;
+    }
+
+    .use-tag.primary {
+      background: rgba(200,146,42,0.15);
+      border-color: rgba(200,146,42,0.4);
+      color: var(--amber-light);
+    }
+
+    /* Download link */
+    .download-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 1.5rem;
+      padding: 0.7rem 1.4rem;
+      background: transparent;
+      border: 1px solid var(--amber);
+      color: var(--amber);
+      font-family: 'Lato', sans-serif;
+      font-weight: 700;
+      font-size: 0.75rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      text-decoration: none;
+      border-radius: 3px;
+      transition: all 0.2s;
+    }
+
+    .download-btn:hover {
+      background: var(--amber);
+      color: var(--charcoal);
+    }
+
+    /* ── DIVIDER ── */
+    .section-divider {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      border-top: 1px solid var(--charcoal-light);
+    }
+
+    /* ── EMAIL COPY SECTION ── */
+    .email-section {
+      background: var(--charcoal-mid);
+      padding: 5rem 2rem;
+    }
+
+    .email-inner {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .email-section .label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 1rem;
+    }
+
+    .email-section h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
+      color: #fff;
+      margin-bottom: 1.5rem;
+    }
+
+    .email-section p {
+      font-size: 0.95rem;
+      color: var(--parchment);
+      margin-bottom: 0.75rem;
+    }
+
+    .email-box {
+      margin-top: 2rem;
+      background: var(--charcoal);
+      border: 1px solid var(--charcoal-light);
+      border-left: 3px solid var(--amber);
+      border-radius: 3px;
+      padding: 2rem;
+    }
+
+    .email-box .email-subject {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--parchment-dim);
+      margin-bottom: 0.5rem;
+    }
+
+    .email-box .subject-line {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.1rem;
+      color: var(--amber-light);
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--charcoal-light);
+    }
+
+    .email-body {
+      font-size: 0.9rem;
+      color: var(--parchment);
+      line-height: 1.9;
+      white-space: pre-line;
+    }
+
+    /* ── NEWSMINER SECTION ── */
+    .newsminer-section {
+      padding: 5rem 2rem;
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .newsminer-section .label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 1rem;
+    }
+
+    .newsminer-section h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
+      color: #fff;
+      margin-bottom: 1.5rem;
+    }
+
+    .newsminer-section p {
+      font-size: 0.95rem;
+      color: var(--parchment);
+      margin-bottom: 1rem;
+    }
+
+    .tip-box {
+      margin-top: 1.5rem;
+      background: rgba(200,146,42,0.08);
+      border: 1px solid rgba(200,146,42,0.25);
+      border-radius: 3px;
+      padding: 1.5rem;
+    }
+
+    .tip-box h3 {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 0.75rem;
+    }
+
+    .tip-box p, .tip-box li {
+      font-size: 0.88rem;
+      color: var(--parchment-dim);
+      margin-bottom: 0.4rem;
+    }
+
+    .tip-box ul {
+      padding-left: 1.2rem;
+    }
+
+    .tip-box li { margin-bottom: 0.3rem; }
+
+    .ad-copy-box {
+      margin-top: 1.5rem;
+      background: var(--charcoal-mid);
+      border: 1px solid var(--charcoal-light);
+      border-left: 3px solid var(--amber);
+      border-radius: 3px;
+      padding: 1.5rem 2rem;
+    }
+
+    .ad-copy-box .copy-label {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--parchment-dim);
+      margin-bottom: 0.75rem;
+    }
+
+    .ad-copy-box p {
+      font-size: 0.9rem;
+      color: var(--parchment);
+      line-height: 1.8;
+      margin-bottom: 0.5rem;
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      padding: 2rem;
+      text-align: center;
+      border-top: 1px solid var(--charcoal-light);
+    }
+
+    footer p { font-size: 0.8rem; color: var(--stone); }
+    footer a { color: var(--amber); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 700px) {
+      .ad-card, .ad-card.reverse {
+        grid-template-columns: 1fr;
+        direction: ltr;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="page-header">
+    <a class="back-link" href="index.html">
+      ← Back to Event Page
+    </a>
+    <h1>Promotional Materials</h1>
+    <p>Four ready-to-use ads for print, email, and social media — all sized and formatted for their intended channels.</p>
+  </header>
+
+  <div class="intro-bar">
+    Right-click any image to save it · <strong>Newsminer ad</strong> should be sent to your advertising rep as a PNG file ·
+    <strong>Email banner</strong> attaches to your email or paste the link · <strong>Social &amp; Story</strong> post directly from your phone
+  </div>
+
+  <div class="ads-container">
+
+    <!-- AD 1: NEWSMINER PRINT -->
+    <div class="ad-card">
+      <div class="ad-preview">
+        <span class="ad-badge">Print Ad</span>
+        <img src="ad-newsminer-print.png" alt="Newsminer display ad — Service of Shadows and Stones">
+      </div>
+      <div class="ad-info">
+        <p class="ad-number">Ad 01 of 04</p>
+        <h2>Fairbanks Daily News-Miner Display Ad</h2>
+        <p>
+          A high-contrast portrait ad designed for newspaper print. The dramatic candlelit cross and bold gold typography
+          will stand out on a newsprint page surrounded by text-heavy content.
+        </p>
+        <p>
+          Submit this image file directly to your News-Miner advertising representative.
+          Request a <strong>display ad</strong> placement — ideally in the weekly church listings
+          section or Faith &amp; Community page the week of March 30.
+        </p>
+
+        <div class="specs">
+          <p class="specs-title">Specifications</p>
+          <div class="spec-row">
+            <span class="spec-label">Format</span>
+            <span class="spec-value">PNG image file</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Aspect Ratio</span>
+            <span class="spec-value">3:4 portrait</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Resolution</span>
+            <span class="spec-value">2048px — suitable for print</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Suggested Print Size</span>
+            <span class="spec-value">2.5" × 3.3" or 3" × 4"</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Best Run Date</span>
+            <span class="spec-value">Week of March 30, 2026</span>
+          </div>
+        </div>
+
+        <div class="use-tags">
+          <span class="use-tag primary">Newsminer Print</span>
+          <span class="use-tag">Church Bulletin Board</span>
+          <span class="use-tag">Printed Flyer</span>
+          <span class="use-tag">Coffee Shop Posting</span>
+        </div>
+
+        <a class="download-btn" href="ad-newsminer-print.png" download="shadows-stones-newsminer-ad.png">
+          ↓ Download Ad
+        </a>
+      </div>
+    </div>
+
+    <div class="section-divider"></div>
+
+    <!-- AD 2: SOCIAL SQUARE -->
+    <div class="ad-card reverse">
+      <div class="ad-preview">
+        <span class="ad-badge">Social Media</span>
+        <img src="ad-social-square.png" alt="Square social media post — Service of Shadows and Stones">
+      </div>
+      <div class="ad-info">
+        <p class="ad-number">Ad 02 of 04</p>
+        <h2>Facebook &amp; Social Media Post</h2>
+        <p>
+          A bold 1:1 square post optimized for Facebook, Instagram feed, and Nextdoor.
+          The single candle against a dark background is eye-stopping in a crowded feed.
+        </p>
+        <p>
+          Post this to <strong>Zion's Facebook page</strong>, your personal Facebook,
+          and the <strong>Fairbanks Nextdoor</strong> community board.
+          Pin it to the top of Zion's page once posted so it stays visible.
+          Suggested caption is below.
+        </p>
+
+        <div class="specs">
+          <p class="specs-title">Specifications</p>
+          <div class="spec-row">
+            <span class="spec-label">Format</span>
+            <span class="spec-value">PNG image file</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Aspect Ratio</span>
+            <span class="spec-value">1:1 square</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Resolution</span>
+            <span class="spec-value">2048 × 2048px</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Platforms</span>
+            <span class="spec-value">Facebook · Instagram · Nextdoor</span>
+          </div>
+        </div>
+
+        <div class="use-tags">
+          <span class="use-tag primary">Facebook</span>
+          <span class="use-tag primary">Nextdoor</span>
+          <span class="use-tag">Instagram Feed</span>
+          <span class="use-tag">Text Message</span>
+        </div>
+
+        <a class="download-btn" href="ad-social-square.png" download="shadows-stones-social-post.png">
+          ↓ Download Ad
+        </a>
+      </div>
+    </div>
+
+    <div class="section-divider"></div>
+
+    <!-- AD 3: EMAIL BANNER -->
+    <div class="ad-card">
+      <div class="ad-preview">
+        <span class="ad-badge">Email</span>
+        <img src="ad-email-banner.png" alt="Email banner — Service of Shadows and Stones">
+      </div>
+      <div class="ad-info">
+        <p class="ad-number">Ad 03 of 04</p>
+        <h2>Email Invitation Banner</h2>
+        <p>
+          A wide landscape banner designed to open your email invitation. Place this image
+          at the very top of your email — before any text — so the first thing recipients
+          see when they open the message is the event title and date.
+        </p>
+        <p>
+          Works perfectly in Gmail, Outlook, Apple Mail, and Constant Contact.
+          Attach the image and insert it inline at the top, or use it as the header
+          in any email newsletter template.
+        </p>
+
+        <div class="specs">
+          <p class="specs-title">Specifications</p>
+          <div class="spec-row">
+            <span class="spec-label">Format</span>
+            <span class="spec-value">PNG image file</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Aspect Ratio</span>
+            <span class="spec-value">16:9 landscape</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Resolution</span>
+            <span class="spec-value">2048 × 1152px</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Best Use</span>
+            <span class="spec-value">Top of email body, above text</span>
+          </div>
+        </div>
+
+        <div class="use-tags">
+          <span class="use-tag primary">Email Invitation</span>
+          <span class="use-tag">Constant Contact</span>
+          <span class="use-tag">Gmail / Outlook</span>
+          <span class="use-tag">Church Newsletter</span>
+        </div>
+
+        <a class="download-btn" href="ad-email-banner.png" download="shadows-stones-email-banner.png">
+          ↓ Download Banner
+        </a>
+      </div>
+    </div>
+
+    <div class="section-divider"></div>
+
+    <!-- AD 4: VERTICAL STORY / FLYER -->
+    <div class="ad-card reverse">
+      <div class="ad-preview">
+        <span class="ad-badge">Story / Flyer</span>
+        <img src="ad-vertical-flyer.png" alt="Vertical flyer — Service of Shadows and Stones">
+      </div>
+      <div class="ad-info">
+        <p class="ad-number">Ad 04 of 04</p>
+        <h2>Vertical Flyer &amp; Story Post</h2>
+        <p>
+          The most dramatic of the four — a stone cross against a stormy sky with amber light breaking through.
+          Formatted for mobile-first viewing. Use as an Instagram Story, Facebook Story,
+          or print as a full-page 8.5×11 flyer for bulletin boards.
+        </p>
+        <p>
+          This format works especially well forwarded directly from a smartphone — the full-screen
+          portrait image commands attention when someone opens a text or DM.
+          Forward it to anyone you're personally inviting.
+        </p>
+
+        <div class="specs">
+          <p class="specs-title">Specifications</p>
+          <div class="spec-row">
+            <span class="spec-label">Format</span>
+            <span class="spec-value">PNG image file</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Aspect Ratio</span>
+            <span class="spec-value">9:16 vertical</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Resolution</span>
+            <span class="spec-value">1152 × 2048px</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Print Size</span>
+            <span class="spec-value">8.5 × 11" or 5 × 7" postcard</span>
+          </div>
+          <div class="spec-row">
+            <span class="spec-label">Platforms</span>
+            <span class="spec-value">Instagram Stories · Facebook Stories</span>
+          </div>
+        </div>
+
+        <div class="use-tags">
+          <span class="use-tag primary">Instagram Story</span>
+          <span class="use-tag primary">Printed Flyer</span>
+          <span class="use-tag">Text / DM Forward</span>
+          <span class="use-tag">Facebook Story</span>
+        </div>
+
+        <a class="download-btn" href="ad-vertical-flyer.png" download="shadows-stones-vertical-flyer.png">
+          ↓ Download Flyer
+        </a>
+      </div>
+    </div>
+
+  </div><!-- /ads-container -->
+
+
+  <!-- EMAIL COPY SECTION -->
+  <section class="email-section">
+    <div class="email-inner">
+      <p class="label">Ready-to-Send</p>
+      <h2>Email Invitation Copy</h2>
+      <p>
+        Copy and paste the text below into your email. Attach the <strong>email banner</strong> (Ad 03)
+        as an inline image at the top of the message body, then paste this text beneath it.
+        Personalize the greeting line for closer contacts.
+      </p>
+      <p>
+        Send to your Zion directory contacts and personal list
+        <strong>no later than March 31</strong> — giving people three days' notice for a Friday evening service.
+      </p>
+
+      <div class="email-box">
+        <p class="email-subject">Suggested Subject Line</p>
+        <p class="subject-line">You're invited — a Good Friday service unlike any other (April 3 · 6PM)</p>
+        <div class="email-body">Dear [Name / Friends],
+
+I wanted to personally invite you to a very special Good Friday service this year.
+
+Zion Lutheran Church in Fairbanks is holding a Service of Shadows and Stones on Good Friday, April 3, 2026 at 6:00 PM at 2982 Davis Road.
+
+This is not a service you simply watch — it's one you enter. The congregation participates at every turn as the story of Christ's passion unfolds. Many who have attended describe it as the most meaningful Good Friday experience of their lives, and say it completely transforms the way they celebrate Easter Sunday.
+
+You don't need to be Lutheran. You don't need to be a regular churchgoer. The door is simply open. Come as you are.
+
+Date: Good Friday, April 3, 2026
+Time: 6:00 PM (doors open 5:30 PM)
+Where: Zion Lutheran Church · 2982 Davis Road · Fairbanks
+More info: lim2026.netlify.app/events/easter2026-zion/
+
+I hope to see you there.
+
+Warmly,
+Bill Slayden
+(907) 322-0735
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- NEWSMINER GUIDANCE -->
+  <section class="newsminer-section">
+    <p class="label">Newspaper Advertising</p>
+    <h2>Placing the News-Miner Ad</h2>
+    <p>
+      The Fairbanks Daily News-Miner is the most effective paid print channel for reaching
+      Fairbanks residents who are not already in your email or social networks — especially
+      older adults and those less active online.
+    </p>
+    <p>
+      Call their advertising department to place a display ad. Ask specifically about their
+      <strong>Church &amp; Faith community</strong> section and their rates for the
+      <strong>March 31 – April 2 editions</strong> (the days immediately before Good Friday).
+      The print ad image (Ad 01) is ready to send as a PNG file attachment.
+    </p>
+
+    <div class="tip-box">
+      <h3>Tips for the Newsminer Call</h3>
+      <ul>
+        <li>Ask for a <strong>display ad</strong>, not a classified. Display ads include your image.</li>
+        <li>Request the <strong>church listings</strong> or <strong>community events</strong> section for lower rates.</li>
+        <li>Mention you have a <strong>print-ready image file</strong> — no design work needed on their end.</li>
+        <li>Ask about a <strong>3-day run</strong>: Tuesday, Wednesday, and Thursday before Good Friday.</li>
+        <li>Typical size: <strong>2-column × 4-inch</strong> display ad (confirm with their rep).</li>
+      </ul>
+    </div>
+
+    <div class="tip-box" style="margin-top:1rem;">
+      <h3>Other Free Channels Worth Using</h3>
+      <ul>
+        <li><strong>Nextdoor Fairbanks &amp; North Pole</strong> — post the square ad with a short message. Free and very effective locally.</li>
+        <li><strong>UAF Campus bulletin boards</strong> — print the vertical flyer and post in the Wood Center and Rasmuson Library.</li>
+        <li><strong>Zion's Facebook page</strong> — post the square ad, pin it to the top, share to your personal profile.</li>
+        <li><strong>Local Facebook community groups</strong> — "Fairbanks Community Board," "North Pole Neighbors," etc.</li>
+      </ul>
+    </div>
+
+    <div class="ad-copy-box">
+      <p class="copy-label">Suggested Newsminer Ad Copy (if they need text-only version)</p>
+      <p><strong>SERVICE OF SHADOWS AND STONES</strong></p>
+      <p>A unique, participatory Good Friday service at Zion Lutheran Church.<br>
+      Friday, April 3, 2026 · 6:00 PM<br>
+      2982 Davis Road · Fairbanks<br>
+      All are welcome. Come as you are.<br>
+      zionfairbanks.org</p>
+    </div>
+  </section>
+
+
+  <footer>
+    <p>
+      <a href="index.html">← Back to Event Page</a>
+      &nbsp;·&nbsp;
+      Zion Lutheran Church · 2982 Davis Road, Fairbanks, AK
+      &nbsp;·&nbsp;
+      Good Friday, April 3, 2026
+    </p>
+  </footer>
+
+</body>
+</html>
