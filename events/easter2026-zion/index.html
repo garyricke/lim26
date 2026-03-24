@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Service of Shadows and Stones — Good Friday 2026 | Zion Lutheran Church Fairbanks</title>
+  <meta name="description" content="A unique, participatory Good Friday service at Zion Lutheran Church in Fairbanks. April 3, 2026 at 6:00 PM. All are welcome.">
+  <!-- Open Graph for email/social link previews -->
+  <meta property="og:title" content="Service of Shadows and Stones — Good Friday, April 3, 2026">
+  <meta property="og:description" content="A Good Friday service unlike any other. You don't just watch — you enter the story. Zion Lutheran Church, Fairbanks. 6:00 PM. All are welcome.">
+  <meta property="og:image" content="hero-cross-candles.png">
+  <meta property="og:type" content="event">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --charcoal: #1C1A17;
+      --charcoal-mid: #2A2520;
+      --charcoal-light: #3A342D;
+      --amber: #C8922A;
+      --amber-light: #E8B84B;
+      --parchment: #F0EBE1;
+      --parchment-dim: #A89880;
+      --stone: #7A7268;
+      --white: #FFFFFF;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--charcoal);
+      color: var(--parchment);
+      font-family: 'Lato', sans-serif;
+      font-weight: 300;
+      line-height: 1.7;
+    }
+
+    /* ── HERO ── */
+    .hero {
+      position: relative;
+      height: 100vh;
+      min-height: 560px;
+      max-height: 860px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .hero-img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 30%;
+    }
+
+    .hero-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        to bottom,
+        rgba(28,26,23,0.35) 0%,
+        rgba(28,26,23,0.55) 55%,
+        rgba(28,26,23,0.92) 100%
+      );
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      padding: 2rem;
+      max-width: 700px;
+    }
+
+    .hero-eyebrow {
+      font-family: 'Lato', sans-serif;
+      font-weight: 700;
+      font-size: 0.75rem;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--amber-light);
+      margin-bottom: 1rem;
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2.4rem, 6vw, 4.2rem);
+      font-weight: 700;
+      line-height: 1.15;
+      color: var(--white);
+      margin-bottom: 1.5rem;
+      text-shadow: 0 2px 24px rgba(0,0,0,0.6);
+    }
+
+    .hero-title em {
+      font-style: italic;
+      color: var(--amber-light);
+    }
+
+    .hero-date-bar {
+      display: inline-flex;
+      flex-wrap: wrap;
+      gap: 0.5rem 1.5rem;
+      justify-content: center;
+      background: rgba(200,146,42,0.18);
+      border: 1px solid rgba(200,146,42,0.4);
+      border-radius: 4px;
+      padding: 0.75rem 1.5rem;
+      font-size: 1rem;
+      font-weight: 400;
+      color: var(--parchment);
+      letter-spacing: 0.04em;
+    }
+
+    .hero-date-bar span {
+      white-space: nowrap;
+    }
+
+    .hero-date-bar span + span::before {
+      content: '·';
+      margin-right: 1.5rem;
+      color: var(--amber);
+    }
+
+    .scroll-cue {
+      position: absolute;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.4rem;
+      color: var(--parchment-dim);
+      font-size: 0.7rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      animation: fadeFloat 2.5s ease-in-out infinite;
+    }
+
+    .scroll-cue svg { opacity: 0.5; }
+
+    @keyframes fadeFloat {
+      0%, 100% { opacity: 0.5; transform: translateX(-50%) translateY(0); }
+      50% { opacity: 1; transform: translateX(-50%) translateY(6px); }
+    }
+
+    /* ── SCRIPTURE SECTION ── */
+    .scripture-section {
+      background: var(--charcoal-mid);
+      padding: 5rem 2rem;
+      text-align: center;
+    }
+
+    .scripture-label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 2rem;
+    }
+
+    .scripture-text {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: clamp(1rem, 2.2vw, 1.25rem);
+      line-height: 1.9;
+      color: var(--parchment);
+      max-width: 640px;
+      margin: 0 auto 1.5rem;
+    }
+
+    .scripture-ref {
+      font-size: 0.8rem;
+      letter-spacing: 0.12em;
+      color: var(--parchment-dim);
+    }
+
+    /* ── MAIN CONTENT ── */
+    .section {
+      padding: 5rem 2rem;
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .section-label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 1rem;
+    }
+
+    .section h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.8rem, 3.5vw, 2.5rem);
+      font-weight: 600;
+      line-height: 1.25;
+      color: var(--white);
+      margin-bottom: 1.5rem;
+    }
+
+    .section p {
+      font-size: 1.05rem;
+      color: var(--parchment);
+      margin-bottom: 1.25rem;
+    }
+
+    .section p:last-child { margin-bottom: 0; }
+
+    /* ── DIVIDER ── */
+    .divider {
+      width: 48px;
+      height: 2px;
+      background: var(--amber);
+      margin: 0 auto 3rem;
+    }
+
+    /* ── STONE IMAGE QUOTE ── */
+    .stone-section {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      min-height: 420px;
+    }
+
+    .stone-img-wrap {
+      overflow: hidden;
+    }
+
+    .stone-img-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .stone-quote {
+      background: var(--charcoal-light);
+      display: flex;
+      align-items: center;
+      padding: 3.5rem;
+    }
+
+    .stone-quote blockquote {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: clamp(1.2rem, 2vw, 1.6rem);
+      line-height: 1.55;
+      color: var(--parchment);
+    }
+
+    .stone-quote blockquote::before {
+      content: '\201C';
+      display: block;
+      font-size: 4rem;
+      color: var(--amber);
+      line-height: 0.6;
+      margin-bottom: 1rem;
+    }
+
+    /* ── WELCOME SECTION ── */
+    .welcome-section {
+      background: var(--charcoal-mid);
+      padding: 5rem 2rem;
+      text-align: center;
+    }
+
+    .welcome-section .inner {
+      max-width: 680px;
+      margin: 0 auto;
+    }
+
+    .welcome-section h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.8rem, 3.5vw, 2.5rem);
+      color: var(--white);
+      margin-bottom: 1.5rem;
+    }
+
+    .welcome-section p {
+      font-size: 1.05rem;
+      color: var(--parchment);
+      margin-bottom: 1.25rem;
+    }
+
+    /* ── WHAT TO EXPECT ── */
+    .expect-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2.5rem;
+    }
+
+    .expect-card {
+      background: var(--charcoal-light);
+      border-left: 3px solid var(--amber);
+      padding: 1.5rem;
+      border-radius: 2px;
+    }
+
+    .expect-card .icon {
+      font-size: 1.5rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .expect-card h3 {
+      font-family: 'Lato', sans-serif;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--amber-light);
+      margin-bottom: 0.4rem;
+    }
+
+    .expect-card p {
+      font-size: 0.9rem;
+      color: var(--parchment-dim);
+      margin: 0;
+    }
+
+    /* ── DETAILS SECTION ── */
+    .details-section {
+      padding: 5rem 2rem;
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .details-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 3rem;
+      margin-top: 2.5rem;
+    }
+
+    .detail-block h3 {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 0.75rem;
+    }
+
+    .detail-block p, .detail-block a {
+      font-size: 1rem;
+      color: var(--parchment);
+      text-decoration: none;
+      line-height: 1.8;
+    }
+
+    .detail-block a:hover { color: var(--amber-light); }
+
+    .detail-block .big {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.1rem, 2vw, 1.4rem);
+      color: var(--white);
+      margin-bottom: 0.25rem;
+    }
+
+    /* ── CTA BUTTON ── */
+    .cta-btn {
+      display: inline-block;
+      margin-top: 2rem;
+      padding: 0.9rem 2.2rem;
+      background: var(--amber);
+      color: var(--charcoal);
+      font-family: 'Lato', sans-serif;
+      font-weight: 700;
+      font-size: 0.85rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      text-decoration: none;
+      border-radius: 3px;
+      transition: background 0.2s;
+    }
+
+    .cta-btn:hover { background: var(--amber-light); }
+
+    /* ── CONTACT SECTION ── */
+    .contact-section {
+      background: var(--charcoal-mid);
+      padding: 4rem 2rem;
+      text-align: center;
+    }
+
+    .contact-section .inner {
+      max-width: 580px;
+      margin: 0 auto;
+    }
+
+    .contact-section h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.6rem;
+      color: var(--white);
+      margin-bottom: 0.5rem;
+    }
+
+    .contact-section .subtitle {
+      font-size: 0.85rem;
+      color: var(--parchment-dim);
+      margin-bottom: 2rem;
+    }
+
+    .contact-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .contact-list li {
+      font-size: 0.95rem;
+      color: var(--parchment);
+    }
+
+    .contact-list a {
+      color: var(--amber-light);
+      text-decoration: none;
+    }
+
+    .contact-list a:hover { text-decoration: underline; }
+
+    /* ── FOOTER ── */
+    footer {
+      padding: 2rem;
+      text-align: center;
+      border-top: 1px solid var(--charcoal-light);
+    }
+
+    footer p {
+      font-size: 0.8rem;
+      color: var(--stone);
+    }
+
+    footer a {
+      color: var(--amber);
+      text-decoration: none;
+    }
+
+    footer a:hover { text-decoration: underline; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 640px) {
+      .stone-section {
+        grid-template-columns: 1fr;
+      }
+
+      .stone-img-wrap {
+        height: 280px;
+      }
+
+      .stone-quote {
+        padding: 2.5rem 1.5rem;
+      }
+
+      .details-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+    }
+
+    /* ── PRINT STYLES ── */
+    @media print {
+      body {
+        background: #fff;
+        color: #1a1a1a;
+      }
+
+      .hero {
+        height: auto;
+        max-height: none;
+        min-height: 0;
+        page-break-inside: avoid;
+      }
+
+      .hero-img { display: none; }
+      .hero-overlay { display: none; }
+
+      .hero-content {
+        background: #1C1A17;
+        padding: 2rem;
+        margin: 0 auto;
+        max-width: 100%;
+      }
+
+      .scroll-cue { display: none; }
+
+      .scripture-section, .welcome-section, .contact-section {
+        background: #f5f2ed;
+      }
+
+      .stone-section { display: block; }
+      .stone-img-wrap img { max-height: 200px; object-fit: cover; width: 100%; }
+
+      .cta-btn { display: none; }
+
+      a[href]::after { content: " (" attr(href) ")"; font-size: 0.75em; color: #555; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <section class="hero">
+    <img class="hero-img" src="hero-cross-candles.png" alt="Wooden cross surrounded by candlelight in a stone sanctuary">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <p class="hero-eyebrow">Zion Lutheran Church · Fairbanks, Alaska</p>
+      <h1 class="hero-title">Service of<br><em>Shadows and Stones</em></h1>
+      <div class="hero-date-bar">
+        <span>Good Friday</span>
+        <span>April 3, 2026</span>
+        <span>6:00 PM</span>
+      </div>
+    </div>
+    <div class="scroll-cue">
+      <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+    </div>
+  </section>
+
+  <!-- SCRIPTURE -->
+  <section class="scripture-section">
+    <p class="scripture-label">John 19 · The Passion</p>
+    <p class="scripture-text">
+      They shouted, "Crucify him, crucify him!" Pilate asked, "Shall I crucify your King?"
+      The chief priests answered, "We have no king but the emperor."
+      Then he handed him over to them to be crucified. So they took Jesus;
+      and carrying the cross by himself, he went out to The Place of the Skull.
+      There they crucified him, and with him two others, one on either side with Jesus between them.
+      Pilate also had an inscription written and put on the cross.
+      It read "Jesus of Nazareth, the King of the Jews."
+    </p>
+    <p class="scripture-ref">— John 19:15b–19</p>
+  </section>
+
+  <!-- ABOUT THE SERVICE -->
+  <section class="section">
+    <p class="section-label">About This Service</p>
+    <h2>A Good Friday Service Unlike Any Other</h2>
+    <div class="divider"></div>
+    <p>
+      The Service of Shadows and Stones is not a service you simply watch — it is one you enter.
+      At Zion Lutheran Church, the congregation participates at every turn as the story of Christ's passion unfolds.
+      Voices, movement, silence, and the weight of a stone in your hand draw you into the ancient events
+      of that first Good Friday in ways that linger long after you leave.
+    </p>
+    <p>
+      As the service progresses, the sanctuary slowly dims — each shadow a reminder of what was lost,
+      each stone a symbol of the burden Christ bore on our behalf.
+      By the time the room falls fully dark and quiet, something has happened in you.
+    </p>
+    <p>
+      Many who attend find that this service transforms the way they experience Easter Sunday.
+      When you have truly stood at the cross, resurrection morning carries a joy that nothing else can match.
+    </p>
+  </section>
+
+  <!-- STONE IMAGE + QUOTE -->
+  <div class="stone-section">
+    <div class="stone-img-wrap">
+      <img src="stone-hand-candle.png" alt="A hand holding a stone by candlelight">
+    </div>
+    <div class="stone-quote">
+      <blockquote>
+        When you have truly stood at the cross, resurrection morning carries a joy that nothing else can match.
+      </blockquote>
+    </div>
+  </div>
+
+  <!-- WELCOME -->
+  <section class="welcome-section">
+    <div class="inner">
+      <p class="section-label">You Are Welcome Here</p>
+      <h2>No Experience Necessary</h2>
+      <p>
+        You don't need to be Lutheran. You don't need to be a regular churchgoer.
+        You don't need to have all the answers — or none of the questions.
+      </p>
+      <p>
+        This service is for anyone who wants to encounter, perhaps for the first time or the hundredth,
+        the extraordinary love behind the cross. Come as you are. Bring a friend.
+        The door is open.
+      </p>
+
+      <div class="expect-grid">
+        <div class="expect-card">
+          <div class="icon">🕯</div>
+          <h3>Participatory</h3>
+          <p>You are part of the service, not just an observer. No prior experience needed.</p>
+        </div>
+        <div class="expect-card">
+          <div class="icon">⏱</div>
+          <h3>About 75 Minutes</h3>
+          <p>Doors open at 5:30 PM. Service begins at 6:00 PM.</p>
+        </div>
+        <div class="expect-card">
+          <div class="icon">🅿</div>
+          <h3>Free Parking</h3>
+          <p>Ample parking available on site at Zion Lutheran Church.</p>
+        </div>
+        <div class="expect-card">
+          <div class="icon">👕</div>
+          <h3>Dress Comfortably</h3>
+          <p>Come as you are. There is no dress code — you are simply welcome.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DETAILS -->
+  <section class="details-section">
+    <p class="section-label">Event Details</p>
+    <h2>Find Us in Fairbanks</h2>
+    <div class="divider"></div>
+    <div class="details-grid">
+      <div class="detail-block">
+        <h3>Date &amp; Time</h3>
+        <p class="big">Good Friday, April 3, 2026</p>
+        <p>Service begins at 6:00 PM<br>Doors open at 5:30 PM</p>
+      </div>
+      <div class="detail-block">
+        <h3>Location</h3>
+        <p class="big">Zion Lutheran Church</p>
+        <p>
+          2982 Davis Road<br>
+          Fairbanks, Alaska<br>
+          <a href="https://www.zionfairbanks.org" target="_blank" rel="noopener">zionfairbanks.org</a>
+        </p>
+      </div>
+    </div>
+    <a class="cta-btn" href="https://maps.apple.com/?address=2982+Davis+Road,Fairbanks,AK" target="_blank" rel="noopener">Get Directions</a>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact-section">
+    <div class="inner">
+      <h2>Questions?</h2>
+      <p class="subtitle">Reach out to event host William Slayden</p>
+      <ul class="contact-list">
+        <li>William L. Slayden</li>
+        <li>2325 Granite Drive, North Pole, AK 99705</li>
+        <li><a href="tel:+19074882091">(907) 488-2091</a> · Alaska Home</li>
+        <li><a href="tel:+19073220735">(907) 322-0735</a> · Mobile</li>
+        <li><a href="mailto:bill@slaydenplumbing.com">bill@slaydenplumbing.com</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      Hosted by <a href="https://www.zionfairbanks.org" target="_blank" rel="noopener">Zion Lutheran Church</a>
+      · 2982 Davis Road, Fairbanks, Alaska
+      · Good Friday, April 3, 2026
+    </p>
+  </footer>
+
+</body>
+</html>
