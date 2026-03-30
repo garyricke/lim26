@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Blackbaud Integration — LIM Developer Docs</title>
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+      --sage-d:#8a8665;--sky:#A2C2D1;--stone:#EBE9E4;
+      --muted:#5a5a52;--border:#d9d6ce;
+      --serif:'Merriweather',Georgia,serif;
+      --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --body:'Open Sans',system-ui,sans-serif;
+      --max:860px;--r:8px;--rl:16px;
+      --shm:0 6px 24px rgba(0,0,0,.12);
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.7}
+    a{color:var(--red);text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    /* Top bar */
+    #topbar{background:var(--charcoal);padding:.75rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
+    #topbar img{height:34px}
+    #topbar span{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4)}
+
+    /* Page layout */
+    .doc-wrap{max-width:var(--max);margin:0 auto;padding:3rem 1.5rem 5rem}
+
+    /* Header */
+    .doc-header{margin-bottom:3rem;padding-bottom:2rem;border-bottom:2px solid var(--border)}
+    .doc-eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.75rem;display:block}
+    .doc-title{font-family:var(--serif);font-size:clamp(1.8rem,3.5vw,2.4rem);color:var(--charcoal);line-height:1.2;margin-bottom:1rem}
+    .doc-intro{font-size:1rem;color:var(--muted);line-height:1.8;max-width:640px}
+
+    /* Alert box */
+    .doc-alert{background:var(--yellow);border-radius:var(--r);padding:1.1rem 1.4rem;margin-bottom:2.5rem;display:flex;gap:.75rem;align-items:flex-start}
+    .doc-alert-icon{font-size:1.1rem;flex-shrink:0;margin-top:1px}
+    .doc-alert p{font-size:.92rem;color:var(--charcoal);line-height:1.65}
+    .doc-alert strong{font-weight:700}
+
+    /* Section */
+    .doc-section{background:#fff;border-radius:var(--rl);border:1px solid var(--border);overflow:hidden;margin-bottom:1.75rem;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+    .doc-section-head{background:var(--charcoal);padding:1rem 1.5rem;display:flex;align-items:center;gap:.85rem}
+    .doc-section-num{font-family:var(--cond);font-size:.7rem;font-weight:800;letter-spacing:.15em;background:var(--yellow);color:var(--charcoal);width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+    .doc-section-title{font-family:var(--cond);font-size:1rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#fff}
+    .doc-section-body{padding:1.75rem}
+    .doc-section-body p{color:var(--muted);line-height:1.8;margin-bottom:1rem;font-size:.95rem}
+    .doc-section-body p:last-child{margin-bottom:0}
+
+    /* Step label */
+    .doc-step{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.5rem;margin-top:1.5rem;display:block}
+    .doc-step:first-child{margin-top:0}
+
+    /* Code block */
+    .doc-code-wrap{position:relative;margin:.75rem 0 1rem}
+    .doc-code-label{font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;background:var(--charcoal);color:var(--yellow);display:inline-block;padding:.2rem .65rem;border-radius:4px 4px 0 0;margin-bottom:0}
+    pre{background:#1a1a16;color:#e8e6e0;border-radius:0 var(--r) var(--r) var(--r);padding:1.25rem 1.4rem;overflow-x:auto;font-size:.85rem;line-height:1.7;white-space:pre}
+    code{font-family:'Fira Code','Cascadia Code','Courier New',monospace}
+    .hl-comment{color:#6a9955}
+    .hl-tag{color:#4ec9b0}
+    .hl-attr{color:#9cdcfe}
+    .hl-val{color:#ce9178}
+    .hl-kw{color:#c586c0}
+    .hl-fn{color:#dcdcaa}
+    .hl-str{color:#ce9178}
+
+    /* Inline code */
+    .ic{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.1em .4em;color:var(--charcoal)}
+
+    /* List */
+    .doc-list{list-style:none;display:flex;flex-direction:column;gap:.65rem;margin:.75rem 0 1rem}
+    .doc-list li{display:flex;gap:.65rem;font-size:.95rem;color:var(--muted);line-height:1.65}
+    .doc-list li::before{content:'→';color:var(--red);font-weight:700;flex-shrink:0;margin-top:1px}
+
+    /* Requirements & summary cards */
+    .doc-cards{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-top:1rem}
+    .doc-card{background:var(--stone);border-radius:var(--r);padding:1.25rem}
+    .doc-card h4{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--charcoal);margin-bottom:.6rem}
+    .doc-card p{font-size:.88rem;color:var(--muted);line-height:1.65}
+
+    /* Option label */
+    .doc-option-badge{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;background:var(--sky);color:var(--charcoal);padding:.3rem .8rem;border-radius:20px;margin-bottom:1rem}
+    .doc-option-badge.recommended::after{content:'Recommended';background:var(--red);color:#fff;font-size:.65rem;padding:.15rem .5rem;border-radius:10px;margin-left:.25rem}
+
+    /* Divider */
+    .doc-divider{border:none;border-top:1px solid var(--border);margin:2rem 0}
+
+    @media(max-width:600px){
+      .doc-cards{grid-template-columns:1fr}
+    }
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_docs_auth',HASH='fbb7e71f6658977d5d5092c4a0ef302ee21f429af79600be63b7b0f1fea60ef4';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');
+      o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<h2 style="color:#fff;font-family:\'Merriweather\',serif;font-size:1.2rem;margin:0 0 .5rem;text-align:center">Developer Documentation</h2>'
+        +'<p style="color:rgba(255,255,255,.45);font-size:.85rem;margin:0 0 2rem;text-align:center">Restricted access — staff only</p>'
+        +'<input id="ag-pw" type="password" placeholder="Enter password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw'),btn=document.getElementById('ag-btn'),err=document.getElementById('ag-err');
+      function attempt(){
+        var pw=inp.value;
+        if(!pw){err.textContent='Please enter the password.';return;}
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password.';inp.value='';inp.focus();}
+        });
+      }
+      btn.addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+
+<div id="topbar">
+  <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+  <span>Developer Docs</span>
+</div>
+
+<div class="doc-wrap">
+
+  <div class="doc-header">
+    <span class="doc-eyebrow">Integration Guide</span>
+    <h1 class="doc-title">Connecting the Donation Form to Blackbaud</h1>
+    <p class="doc-intro">This guide explains how to replace the current Netlify form logic with Blackbaud's BBOX (Blackbaud Checkout) script so that donations sync directly to Raiser's Edge / Blackbaud CRM.</p>
+  </div>
+
+  <div class="doc-alert">
+    <span class="doc-alert-icon">⚠</span>
+    <p><strong>Before you start:</strong> Log into your Blackbaud Merchant Services or Raiser's Edge portal and add the production domain to the <strong>Approved Domains</strong> list. The form will silently fail on unapproved domains.</p>
+  </div>
+
+  <!-- Option 1 -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">1</div>
+      <span class="doc-section-title">Option 1 — The Clean Swap</span>
+    </div>
+    <div class="doc-section-body">
+      <div class="doc-option-badge recommended">Option 1</div>
+      <p>Replaces the internal fields of the current modal with the official Blackbaud form. Ensures 100% PCI compliance and connects directly to your Blackbaud merchant account. Recommended for most deployments.</p>
+
+      <span class="doc-step">Step 1 — Update the Modal HTML in <span class="ic">index.html</span></span>
+      <p>Find the <span class="ic">&lt;div id="m-donate"&gt;</span> section and replace the <span class="ic">&lt;form&gt;</span> and its contents with the Blackbaud root div.</p>
+
+      <p><strong>Remove:</strong></p>
+      <div class="doc-code-wrap">
+        <span class="doc-code-label">HTML — remove</span>
+        <pre><code><span class="hl-tag">&lt;form</span> <span class="hl-attr">id</span>=<span class="hl-val">"don-form"</span> <span class="hl-attr">...</span><span class="hl-tag">&gt;</span>
+  <span class="hl-comment">&lt;!-- all form fields --&gt;</span>
+<span class="hl-tag">&lt;/form&gt;</span></code></pre>
+      </div>
+
+      <p><strong>Replace with:</strong></p>
+      <div class="doc-code-wrap">
+        <span class="doc-code-label">HTML — add</span>
+        <pre><code><span class="hl-tag">&lt;div</span> <span class="hl-attr">id</span>=<span class="hl-val">"bbox-root"</span><span class="hl-tag">&gt;&lt;/div&gt;</span></code></pre>
+      </div>
+
+      <span class="doc-step">Step 2 — Add the Blackbaud Loader Script</span>
+      <p>Add this script just before the closing <span class="ic">&lt;/body&gt;</span> tag in <span class="ic">index.html</span>:</p>
+      <div class="doc-code-wrap">
+        <span class="doc-code-label">JavaScript</span>
+        <pre><code><span class="hl-tag">&lt;script</span> <span class="hl-attr">type</span>=<span class="hl-val">"text/javascript"</span><span class="hl-tag">&gt;</span>
+  window.bboxInit = <span class="hl-kw">function</span> () {
+    <span class="hl-comment">// Replace with your actual Blackbaud Form ID</span>
+    bbox.<span class="hl-fn">showForm</span>(<span class="hl-str">'82adc758-cd1c-42f0-981c-36c79eaabd08'</span>);
+  };
+  (<span class="hl-kw">function</span> () {
+    <span class="hl-kw">var</span> e = document.<span class="hl-fn">createElement</span>(<span class="hl-str">'script'</span>);
+    e.async = <span class="hl-kw">true</span>;
+    e.src = <span class="hl-str">'https://bbox.blackbaudhosting.com/webforms/bbox-min.js'</span>;
+    document.<span class="hl-fn">getElementsByTagName</span>(<span class="hl-str">'head'</span>)[0].<span class="hl-fn">appendChild</span>(e);
+  }());
+<span class="hl-tag">&lt;/script&gt;</span></code></pre>
+      </div>
+    </div>
+  </div>
+
+  <!-- Option 2 -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">2</div>
+      <span class="doc-section-title">Option 2 — Hybrid (Keep Custom UI)</span>
+    </div>
+    <div class="doc-section-body">
+      <div class="doc-option-badge">Option 2</div>
+      <p>Keeps the custom yellow preset-amount buttons and frequency toggle, and only hands off to Blackbaud when the user clicks "Give Now." The selected amount and frequency are passed as parameters.</p>
+
+      <span class="doc-step">Update <span class="ic">donSubmit()</span> in the script block of <span class="ic">index.html</span></span>
+      <div class="doc-code-wrap">
+        <span class="doc-code-label">JavaScript</span>
+        <pre><code><span class="hl-kw">function</span> <span class="hl-fn">donSubmit</span>(e) {
+  e.<span class="hl-fn">preventDefault</span>();
+
+  <span class="hl-kw">const</span> amount    = document.<span class="hl-fn">getElementById</span>(<span class="hl-str">'don-amt-val'</span>).value;
+  <span class="hl-kw">const</span> frequency = document.<span class="hl-fn">getElementById</span>(<span class="hl-str">'don-freq-val'</span>).value;
+  <span class="hl-comment">// frequency value is 'one-time' or 'monthly'</span>
+
+  bbox.<span class="hl-fn">showForm</span>({
+    formId:    <span class="hl-str">'82adc758-cd1c-42f0-981c-36c79eaabd08'</span>,
+    amount:    amount,
+    recurring: frequency === <span class="hl-str">'monthly'</span>
+  });
+}</code></pre>
+      </div>
+      <p>You will still need to add the Blackbaud loader script from Option 1 Step 2 for this approach to work.</p>
+    </div>
+  </div>
+
+  <!-- Requirements -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">3</div>
+      <span class="doc-section-title">Key Requirements</span>
+    </div>
+    <div class="doc-section-body">
+      <ul class="doc-list">
+        <li><strong>Approved Domain:</strong> Log into Blackbaud Merchant Services or Raiser's Edge and add the production domain to the Approved Domains list. Blackbaud will silently block the form on unapproved domains.</li>
+        <li><strong>Form ID:</strong> The ID used above (<span class="ic">82adc758-cd1c-42f0-981c-36c79eaabd08</span>) must match the specific Web Form created in your Blackbaud dashboard. Verify this before going live.</li>
+      </ul>
+      <div class="doc-cards">
+        <div class="doc-card">
+          <h4>Option 1 is right if…</h4>
+          <p>You want the simplest, most compliant path and are OK with Blackbaud rendering the form fields.</p>
+        </div>
+        <div class="doc-card">
+          <h4>Option 2 is right if…</h4>
+          <p>You want to preserve the custom preset amounts and frequency toggle before handing off to Blackbaud's payment screen.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Benefits -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">4</div>
+      <span class="doc-section-title">Benefits After Integration</span>
+    </div>
+    <div class="doc-section-body">
+      <ul class="doc-list">
+        <li><strong>Direct CRM Sync:</strong> Donations automatically appear in Raiser's Edge / Blackbaud CRM — no manual entry.</li>
+        <li><strong>Security:</strong> Credit card data never touches LIM's server; it goes directly to Blackbaud's encrypted vault (PCI-DSS compliant).</li>
+        <li><strong>Payment Methods:</strong> Once integrated, the form supports Apple Pay, Google Pay, and ACH if those are enabled in your Blackbaud account.</li>
+      </ul>
+    </div>
+  </div>
+
+  <p style="font-size:.8rem;color:var(--muted);text-align:center;margin-top:3rem">
+    <a href="index.html" style="color:var(--muted)">← Back to Site</a>
+    &nbsp;·&nbsp; LIM Developer Documentation &nbsp;·&nbsp; Restricted Access
+  </p>
+
+</div>
+</body>
+</html>

@@ -110,7 +110,7 @@
     /* Video Feature */
     #story-vid{padding:5rem 1.5rem;background:var(--charcoal)}
     .story-vid-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:center}
-    .vid-card{position:relative;border-radius:var(--rl);overflow:hidden;cursor:pointer;background:#000;box-shadow:var(--shl);aspect-ratio:16/9}
+    .vid-card{position:relative;border-radius:var(--rl);overflow:hidden;cursor:pointer;background:#000;box-shadow:var(--shl);aspect-ratio:9/16;max-width:340px;margin:0 auto}
     .vid-card img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease;filter:brightness(.85)}
     .vid-card:hover img{transform:scale(1.03);filter:brightness(.7)}
     .vid-card-play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
@@ -256,7 +256,7 @@
     .mbody h4:first-child{margin-top:0}
     .mbody p{color:var(--muted);line-height:1.8;margin-bottom:.7rem}
     .m-cta{margin-top:1.9rem;display:flex;gap:1rem;flex-wrap:wrap}
-    #m-video .modal{background:#000;max-width:none;width:auto;max-height:92vh;aspect-ratio:16/9;border-radius:12px;overflow:hidden;display:flex;align-items:center;justify-content:center}
+    #m-video .modal{background:#000;max-width:none;width:auto;max-height:92vh;aspect-ratio:9/16;border-radius:12px;overflow:hidden;display:flex;align-items:center;justify-content:center}
     #m-video .modal video{width:100%;height:100%;object-fit:contain;display:block}
     .vid-close{position:absolute;top:.75rem;right:.75rem;z-index:10;background:rgba(0,0,0,.6);border:none;color:#fff;width:38px;height:38px;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:1rem;transition:background .2s ease}
     .vid-close:hover{background:var(--red)}
@@ -434,7 +434,14 @@
   <div class="who-g wrap">
     <div class="who-media fi">
       <div class="who-main">
-        <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651346906187-2RJF1J6XGHPO3ONCXDC1/people-old-woman-sky+copy.jpg" alt="Native elder woman against the sky" loading="lazy">
+        <img
+          src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_800/v1774884219/auth-woman-river_k0v5ts.jpg"
+          srcset="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_400/v1774884219/auth-woman-river_k0v5ts.jpg 400w,
+                  https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_800/v1774884219/auth-woman-river_k0v5ts.jpg 800w,
+                  https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_1200/v1774884219/auth-woman-river_k0v5ts.jpg 1200w"
+          sizes="(max-width:960px) 100vw, 50vw"
+          alt="Native woman by the river"
+          loading="lazy">
       </div>
       <div class="who-badge">
         <span class="who-badge-n">574</span>

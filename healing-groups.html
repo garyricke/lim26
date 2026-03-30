@@ -510,7 +510,7 @@
   <div class="sessions-g wrap">
 
     <!-- Card 1 -->
-    <div class="scard fi" data-type="in-person" data-open="true">
+    <div class="scard fi" data-type="in-person" data-open="true" data-end="2026-03-14">
       <div class="scard-top">
         <div class="scard-date">March 13–14, 2026<span>2 Days · Thu–Fri</span></div>
         <span class="badge badge-mil">Military</span>
@@ -527,7 +527,7 @@
     </div>
 
     <!-- Card 2 -->
-    <div class="scard full fi" data-type="online" data-open="false" style="transition-delay:.05s">
+    <div class="scard full fi" data-type="online" data-open="false" data-end="2026-03-27" style="transition-delay:.05s">
       <div class="scard-top">
         <div class="scard-date">March 18–27, 2026<span>2 Weeks · Online</span></div>
         <span class="badge badge-full">Currently Full</span>
@@ -544,7 +544,7 @@
     </div>
 
     <!-- Card 3 -->
-    <div class="scard fi" data-type="facilitator" data-open="true" style="transition-delay:.1s">
+    <div class="scard fi" data-type="facilitator" data-open="true" data-end="2026-04-17" style="transition-delay:.1s">
       <div class="scard-top">
         <div class="scard-date">April 14–17, 2026<span>4 Days · Tue–Fri</span></div>
         <span class="badge badge-fac">Facilitator Training</span>
@@ -561,7 +561,7 @@
     </div>
 
     <!-- Card 4 -->
-    <div class="scard fi" data-type="in-person" data-open="true" style="transition-delay:.15s">
+    <div class="scard fi" data-type="in-person" data-open="true" data-end="2026-05-29" style="transition-delay:.15s">
       <div class="scard-top">
         <div class="scard-date">May 27–29, 2026<span>3 Days · Wed–Fri</span></div>
         <span class="badge badge-ip">In-Person</span>
@@ -578,7 +578,7 @@
     </div>
 
     <!-- Card 5 -->
-    <div class="scard fi" data-type="online" data-open="true" style="transition-delay:.2s">
+    <div class="scard fi" data-type="online" data-open="true" data-end="2026-08-14" style="transition-delay:.2s">
       <div class="scard-top">
         <div class="scard-date">August 5–14, 2026<span>2 Weeks · Online</span></div>
         <span class="badge badge-on">Online</span>
@@ -595,7 +595,7 @@
     </div>
 
     <!-- Card 6 -->
-    <div class="scard fi" data-type="in-person" data-open="true" style="transition-delay:.25s">
+    <div class="scard fi" data-type="in-person" data-open="true" data-end="2026-09-30" style="transition-delay:.25s">
       <div class="scard-top">
         <div class="scard-date">September 2026<span>Dates TBC</span></div>
         <span class="badge badge-ip">In-Person</span>
@@ -611,7 +611,7 @@
     </div>
 
     <!-- Card — July 2026 Robert's House -->
-    <div class="scard fi" data-type="in-person" data-open="true" style="transition-delay:.28s">
+    <div class="scard fi" data-type="in-person" data-open="true" data-end="2026-07-31" style="transition-delay:.28s">
       <div class="scard-top">
         <div class="scard-date">July 2026<span>Dates TBC</span></div>
         <span class="badge badge-ip">In-Person</span>
@@ -627,7 +627,7 @@
     </div>
 
     <!-- Card 7 — Facilitator Training (Placeholder) -->
-    <div class="scard fi" data-type="facilitator" data-open="true" style="transition-delay:.3s">
+    <div class="scard fi" data-type="facilitator" data-open="true" data-end="2026-10-31" style="transition-delay:.3s">
       <div class="scard-top">
         <div class="scard-date">October 2026<span>Dates TBC</span></div>
         <span class="badge badge-fac">Facilitator Training</span>
@@ -1382,11 +1382,19 @@
     else{btn.classList.add('open');btn.setAttribute('aria-expanded','true');body.style.maxHeight=body.scrollHeight+'px';}
   }
 
+  // Hide past events on load
+  const today = new Date(); today.setHours(0,0,0,0);
+  document.querySelectorAll('.scard[data-end]').forEach(card=>{
+    const end = new Date(card.dataset.end + 'T00:00:00');
+    if(end < today){ card.style.display='none'; card.dataset.past='true'; }
+  });
+
   // Filter sessions
   function filter(btn, type){
     document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('act'));
     btn.classList.add('act');
     document.querySelectorAll('.scard').forEach(card=>{
+      if(card.dataset.past==='true'){ card.style.display='none'; return; }
       if(type==='all') card.style.display='';
       else if(type==='open') card.style.display=card.dataset.open==='true'?'':'none';
       else card.style.display=card.dataset.type===type?'':'none';
