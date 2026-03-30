@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Session Feedback — Healing the Wounds of Trauma · LIM</title>
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --red: #ED1C24; --red-h: #c8151c;
+      --yellow: #FFDE16;
+      --charcoal: #282924;
+      --sage: #B2AC88; --sage-d: #8a8665;
+      --sky: #A2C2D1;
+      --stone: #EBE9E4;
+      --muted: #5a5a52;
+      --serif: 'Merriweather', Georgia, serif;
+      --cond: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+      --body: 'Open Sans', system-ui, sans-serif;
+      --max: 1200px; --r: 8px; --rl: 16px;
+      --sh: 0 2px 8px rgba(0,0,0,.08);
+      --shm: 0 6px 24px rgba(0,0,0,.14);
+      --shl: 0 16px 48px rgba(0,0,0,.22);
+      --t: .3s ease;
+    }
+    *,*::before,*::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body { font-family: var(--body); color: var(--charcoal); background: #fff; line-height: 1.7; overflow-x: hidden; }
+    img { max-width: 100%; height: auto; display: block; }
+    a { color: inherit; text-decoration: none; }
+    button { cursor: pointer; font-family: inherit; border: none; background: none; }
+
+    /* Utilities */
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 0 1.5rem; }
+    .lbl { font-family: var(--cond); font-size: .8rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: var(--sage-d); display: block; margin-bottom: .6rem; }
+    .btn { display: inline-flex; align-items: center; gap: .5rem; padding: .85rem 1.9rem; border-radius: var(--r); font-family: var(--cond); font-size: 1rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; transition: var(--t); cursor: pointer; border: 2px solid transparent; }
+    .btn-yellow { background: var(--yellow); color: var(--charcoal); border-color: var(--yellow); }
+    .btn-yellow:hover { background: #f0cf00; border-color: #f0cf00; transform: translateY(-1px); box-shadow: var(--shm); }
+    .btn-ol { background: transparent; color: var(--charcoal); border-color: var(--charcoal); }
+    .btn-ol:hover { background: var(--charcoal); color: #fff; }
+    .btn-olw { background: transparent; color: #fff; border-color: rgba(255,255,255,.55); }
+    .btn-olw:hover { background: rgba(255,255,255,.12); border-color: #fff; }
+    .fi { opacity: 0; transform: translateY(22px); transition: opacity .7s ease, transform .7s ease; }
+    .fi.vis { opacity: 1; transform: none; }
+    .fi-d1 { transition-delay: .1s; }
+    .fi-d2 { transition-delay: .2s; }
+    .fi-d3 { transition-delay: .3s; }
+    .fi-d4 { transition-delay: .4s; }
+
+    /* ── Nav ── */
+    #nav { position: sticky; top: 0; z-index: 1000; background: var(--charcoal); box-shadow: var(--shm); }
+    .nav-i { display: flex; align-items: center; justify-content: space-between; height: 66px; max-width: var(--max); margin: 0 auto; padding: 0 1.5rem; }
+    .nav-logo img { height: 42px; }
+    .nav-label { font-family: var(--cond); font-size: .82rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: rgba(255,255,255,.45); display: flex; align-items: center; gap: .65rem; }
+    .nav-label::before { content: ''; display: block; width: 1px; height: 22px; background: rgba(255,255,255,.18); }
+    .nav-label span { color: rgba(255,255,255,.7); }
+
+    /* ── Hero ── */
+    #hero {
+      position: relative;
+      min-height: 80vh;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      background: var(--charcoal);
+    }
+    /* CSS noise grain overlay */
+    #hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.06'/%3E%3C/svg%3E");
+      background-repeat: repeat;
+      background-size: 256px 256px;
+      opacity: .45;
+      pointer-events: none;
+      z-index: 1;
+    }
+    /* radial gradient depth */
+    #hero::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at 30% 60%, rgba(162,194,209,.07) 0%, transparent 65%),
+                  linear-gradient(160deg, rgba(40,41,36,.0) 0%, rgba(20,20,16,.65) 100%);
+      z-index: 1;
+      pointer-events: none;
+    }
+    .hero-c { position: relative; z-index: 2; max-width: 780px; padding: 6rem 1.5rem; margin: 0 0 0 7vw; }
+    .hero-eye { font-family: var(--cond); font-size: .82rem; font-weight: 700; letter-spacing: .22em; text-transform: uppercase; color: var(--yellow); display: flex; align-items: center; gap: .75rem; margin-bottom: 1rem; }
+    .hero-eye::before { content: ''; width: 36px; height: 2px; background: var(--yellow); flex-shrink: 0; }
+    .hero-date { font-family: var(--cond); font-size: .9rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.5); margin-bottom: 1.1rem; }
+    .hero-h1 { font-family: var(--serif); font-size: clamp(2.4rem, 5vw, 3.75rem); line-height: 1.15; color: #fff; text-shadow: 0 2px 20px rgba(0,0,0,.5); margin-bottom: 1.3rem; }
+    .hero-h1 em { font-style: italic; color: var(--yellow); }
+    .hero-sub { font-size: 1.1rem; color: rgba(255,255,255,.78); max-width: 520px; line-height: 1.8; margin-bottom: 2.25rem; }
+    .hero-rule { width: 64px; height: 3px; background: var(--yellow); border-radius: 2px; margin-bottom: 2.5rem; }
+
+    /* Stats bar */
+    .stats-bar { background: rgba(255,255,255,.05); border-top: 1px solid rgba(255,255,255,.08); }
+    .stats-inner { max-width: var(--max); margin: 0 auto; padding: 1.25rem 1.5rem; display: flex; align-items: center; gap: 0; flex-wrap: wrap; }
+    .stat-item { display: flex; align-items: center; gap: .6rem; font-family: var(--cond); font-size: .88rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: rgba(255,255,255,.65); padding: .5rem 1.75rem .5rem 0; }
+    .stat-item:not(:last-child) { border-right: 1px solid rgba(255,255,255,.12); margin-right: 1.75rem; }
+    .stat-item svg { color: var(--yellow); flex-shrink: 0; }
+
+    /* ── Audio Player ── */
+    #audio { background: #1a1a16; padding: 3.5rem 1.5rem; }
+    .ap-wrap { max-width: 860px; margin: 0 auto; }
+    .ap-header { display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem; }
+    .ap-play-btn {
+      width: 64px; height: 64px; flex-shrink: 0;
+      background: var(--red); border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      border: none; cursor: pointer;
+      transition: background var(--t), transform var(--t), box-shadow var(--t);
+      box-shadow: 0 4px 20px rgba(237,28,36,.35);
+    }
+    .ap-play-btn:hover { background: var(--red-h); transform: scale(1.06); box-shadow: 0 6px 28px rgba(237,28,36,.5); }
+    .ap-play-icon, .ap-pause-icon { color: #fff; }
+    .ap-pause-icon { display: none; }
+    #audio-player.playing .ap-play-icon { display: none; }
+    #audio-player.playing .ap-pause-icon { display: flex; }
+    .ap-meta { flex: 1; min-width: 0; }
+    .ap-label { font-family: var(--cond); font-size: .72rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: rgba(255,255,255,.3); margin-bottom: .3rem; }
+    .ap-title { font-family: var(--cond); font-size: 1.15rem; font-weight: 700; color: #fff; letter-spacing: .02em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .ap-pending { font-family: var(--cond); font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: rgba(255,255,255,.28); margin-top: .35rem; }
+
+    /* Waveform */
+    .ap-waveform { display: flex; align-items: center; gap: 3px; height: 52px; margin-bottom: 1.25rem; overflow: hidden; }
+    .wv-bar {
+      flex: 1; min-width: 3px; max-width: 6px;
+      background: rgba(255,255,255,.15);
+      border-radius: 2px;
+      transition: background .15s ease;
+    }
+    .wv-bar.played { background: var(--yellow); }
+    #audio-player.playing .wv-bar { animation: wv-pulse var(--dur, .8s) ease-in-out infinite alternate; }
+    @keyframes wv-pulse {
+      0% { opacity: .4; transform: scaleY(.6); }
+      100% { opacity: 1; transform: scaleY(1); }
+    }
+
+    /* Progress */
+    .ap-progress-wrap { position: relative; height: 4px; background: rgba(255,255,255,.12); border-radius: 2px; margin-bottom: 1rem; cursor: pointer; }
+    .ap-progress-fill { height: 100%; width: 0%; background: var(--yellow); border-radius: 2px; pointer-events: none; }
+    .ap-progress-thumb { position: absolute; top: 50%; right: auto; transform: translateY(-50%); width: 14px; height: 14px; background: var(--yellow); border-radius: 50%; left: 0%; margin-left: -7px; pointer-events: none; box-shadow: 0 2px 8px rgba(0,0,0,.4); opacity: 0; transition: opacity .2s; }
+    .ap-progress-wrap:hover .ap-progress-thumb { opacity: 1; }
+
+    /* Controls row */
+    .ap-controls { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+    .ap-ctrl-left { display: flex; align-items: center; gap: 1.1rem; }
+    .ap-ctrl-btn { background: none; border: none; cursor: pointer; color: rgba(255,255,255,.45); padding: .3rem; display: flex; align-items: center; justify-content: center; transition: color var(--t); border-radius: 4px; }
+    .ap-ctrl-btn:hover { color: #fff; }
+    .ap-ctrl-btn.primary { color: rgba(255,255,255,.75); }
+    .ap-time { font-family: var(--cond); font-size: .85rem; font-weight: 600; letter-spacing: .06em; color: rgba(255,255,255,.45); }
+    .ap-vol { display: flex; align-items: center; gap: .6rem; }
+    .ap-vol-icon { color: rgba(255,255,255,.38); }
+    .ap-vol-track { width: 80px; height: 3px; background: rgba(255,255,255,.15); border-radius: 2px; position: relative; cursor: pointer; }
+    .ap-vol-fill { height: 100%; width: 70%; background: rgba(255,255,255,.45); border-radius: 2px; }
+    .ap-notice { text-align: center; margin-top: 1.5rem; font-family: var(--cond); font-size: .75rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.2); border-top: 1px solid rgba(255,255,255,.06); padding-top: 1.25rem; }
+
+    /* ── Pull Quotes ── */
+    #quotes { background: var(--stone); padding: 5.5rem 1.5rem; }
+    .quotes-hd { text-align: center; margin-bottom: 3.5rem; }
+    .quotes-hd h2 { font-family: var(--serif); font-size: clamp(1.8rem, 3.2vw, 2.6rem); color: var(--charcoal); margin-bottom: .75rem; line-height: 1.2; }
+    .quotes-hd p { font-size: 1rem; color: var(--muted); max-width: 520px; margin: 0 auto; }
+    .quotes-grid { max-width: var(--max); margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 1.75rem; }
+    .qcard {
+      background: var(--charcoal);
+      border-radius: var(--rl);
+      padding: 2.5rem 2.25rem 2rem;
+      border-left: 4px solid var(--yellow);
+      position: relative;
+      overflow: hidden;
+      transition: transform var(--t), box-shadow var(--t);
+    }
+    .qcard:hover { transform: translateY(-3px); box-shadow: var(--shl); }
+    .qcard::before {
+      content: '\201C';
+      font-family: var(--serif);
+      font-size: 7rem;
+      color: var(--yellow);
+      opacity: .18;
+      line-height: 1;
+      position: absolute;
+      top: -.5rem;
+      left: 1.25rem;
+      pointer-events: none;
+    }
+    .qcard-text { font-family: var(--serif); font-size: 1.1rem; font-style: italic; color: rgba(255,255,255,.88); line-height: 1.75; margin-bottom: 1.5rem; position: relative; z-index: 1; }
+    .qcard-attr { font-family: var(--cond); font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--yellow); opacity: .75; }
+
+    /* ── Participant Cards ── */
+    #stories { background: #fff; padding: 5.5rem 1.5rem; }
+    .stories-hd { text-align: center; margin-bottom: 3.5rem; }
+    .stories-hd h2 { font-family: var(--serif); font-size: clamp(1.8rem, 3.2vw, 2.5rem); color: var(--charcoal); margin-bottom: .6rem; }
+    .stories-hd p { font-size: 1rem; color: var(--muted); max-width: 500px; margin: 0 auto; }
+    .stories-grid { max-width: var(--max); margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    .pcard {
+      background: var(--charcoal);
+      border-radius: var(--rl);
+      padding: 2rem 2rem 1.75rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      transition: transform var(--t), box-shadow var(--t);
+      cursor: default;
+    }
+    .pcard:hover { transform: translateY(-4px); box-shadow: var(--shl); }
+    .pcard-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+    .pcard-num { font-family: var(--cond); font-size: 2.8rem; font-weight: 800; color: rgba(255,255,255,.08); line-height: 1; }
+    .pbadge { font-family: var(--cond); font-size: .7rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; background: var(--yellow); color: var(--charcoal); padding: .3rem .8rem; border-radius: 20px; white-space: nowrap; }
+    .pcard-name { font-family: var(--cond); font-size: .78rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: rgba(255,255,255,.38); margin-bottom: .2rem; }
+    .pcard-excerpt { font-size: .95rem; color: rgba(255,255,255,.68); line-height: 1.75; flex: 1; }
+    .pcard-excerpt em { font-style: italic; color: rgba(255,255,255,.85); }
+    .pcard-btn {
+      display: inline-flex; align-items: center; gap: .45rem;
+      font-family: var(--cond); font-size: .82rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+      color: var(--yellow); border-bottom: 1.5px solid rgba(255,222,22,.3);
+      padding-bottom: 2px; transition: var(--t); background: none; border-top: none; border-left: none; border-right: none;
+      cursor: pointer; align-self: flex-start;
+    }
+    .pcard-btn:hover { color: #fff; border-bottom-color: rgba(255,255,255,.4); }
+    .pcard-btn svg { transition: transform var(--t); }
+    .pcard-btn:hover svg { transform: translateX(3px); }
+
+    /* ── What Happened Here ── */
+    #what { background: var(--charcoal); padding: 5.5rem 1.5rem; }
+    .what-hd { text-align: center; margin-bottom: 3.5rem; }
+    .what-hd .lbl { color: rgba(255,255,255,.35); }
+    .what-hd h2 { font-family: var(--serif); font-size: clamp(1.75rem, 3vw, 2.5rem); color: #fff; margin-bottom: .6rem; }
+    .what-hd p { color: rgba(255,255,255,.55); max-width: 480px; margin: 0 auto; }
+    .what-cols { max-width: var(--max); margin: 0 auto; display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
+    .wc {
+      background: rgba(255,255,255,.04);
+      border: 1px solid rgba(255,255,255,.08);
+      border-radius: var(--rl);
+      padding: 2.5rem 2rem;
+      text-align: center;
+      transition: background var(--t), transform var(--t);
+    }
+    .wc:hover { background: rgba(255,255,255,.07); transform: translateY(-2px); }
+    .wc-icon {
+      width: 58px; height: 58px;
+      background: rgba(255,222,22,.1);
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto 1.4rem;
+      color: var(--yellow);
+    }
+    .wc h3 { font-family: var(--cond); font-size: 1.2rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--yellow); margin-bottom: .9rem; }
+    .wc p { font-size: .95rem; color: rgba(255,255,255,.62); line-height: 1.75; }
+    .wc p em { font-style: italic; color: rgba(255,255,255,.8); }
+
+    /* ── CTA ── */
+    #cta { background: var(--yellow); padding: 5rem 1.5rem; }
+    .cta-inner { max-width: 700px; margin: 0 auto; text-align: center; }
+    .cta-inner .lbl { color: rgba(40,41,36,.5); }
+    .cta-inner h2 { font-family: var(--serif); font-size: clamp(2rem, 3.5vw, 2.9rem); color: var(--charcoal); margin-bottom: 1.1rem; line-height: 1.2; }
+    .cta-inner p { font-size: 1.05rem; color: rgba(40,41,36,.75); line-height: 1.8; margin-bottom: 2.25rem; max-width: 560px; margin-left: auto; margin-right: auto; }
+    .cta-btns { display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; }
+    .btn-dark { background: var(--charcoal); color: #fff; border-color: var(--charcoal); }
+    .btn-dark:hover { background: #1a1a16; border-color: #1a1a16; transform: translateY(-1px); box-shadow: var(--shm); }
+
+    /* ── Footer ── */
+    #footer { background: #191916; padding: 3rem 1.5rem 2rem; }
+    .foot-inner { max-width: var(--max); margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1.5rem; padding-bottom: 2rem; border-bottom: 1px solid rgba(255,255,255,.07); margin-bottom: 1.5rem; }
+    .foot-logo img { height: 42px; }
+    .foot-links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .foot-links a { font-family: var(--cond); font-size: .78rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: rgba(255,255,255,.38); transition: color var(--t); }
+    .foot-links a:hover { color: rgba(255,255,255,.75); }
+    .foot-bot { max-width: var(--max); margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; }
+    .foot-bot p { font-size: .78rem; color: rgba(255,255,255,.22); }
+    .foot-bot a { color: rgba(255,255,255,.35); transition: color var(--t); }
+    .foot-bot a:hover { color: rgba(255,255,255,.65); }
+
+    /* ── Modals ── */
+    .mbk {
+      display: none; position: fixed; inset: 0; z-index: 5000;
+      background: rgba(0,0,0,.72);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+      align-items: center; justify-content: center;
+      padding: 1.5rem;
+    }
+    .mbk.open { display: flex; }
+    .modal {
+      background: #fff;
+      border-radius: var(--rl);
+      width: 100%; max-width: 680px;
+      max-height: 80vh;
+      display: flex; flex-direction: column;
+      box-shadow: 0 24px 80px rgba(0,0,0,.5);
+      overflow: hidden;
+      animation: modal-in .28s cubic-bezier(.22,.6,.35,1) both;
+    }
+    @keyframes modal-in { from { opacity: 0; transform: translateY(16px) scale(.97); } to { opacity: 1; transform: none; } }
+    .modal-head {
+      background: var(--charcoal);
+      border-bottom: 3px solid var(--yellow);
+      padding: 1.4rem 1.75rem;
+      display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+      flex-shrink: 0;
+    }
+    .modal-head-left { display: flex; flex-direction: column; gap: .3rem; }
+    .modal-pname { font-family: var(--cond); font-size: .72rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: rgba(255,255,255,.38); }
+    .modal-title { font-family: var(--cond); font-size: 1.1rem; font-weight: 800; letter-spacing: .04em; color: #fff; }
+    .modal-badge { font-family: var(--cond); font-size: .68rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; background: var(--yellow); color: var(--charcoal); padding: .25rem .7rem; border-radius: 20px; margin-top: .35rem; display: inline-block; }
+    .modal-close {
+      flex-shrink: 0; width: 36px; height: 36px; border-radius: 50%;
+      background: rgba(255,255,255,.1); color: rgba(255,255,255,.7);
+      display: flex; align-items: center; justify-content: center;
+      border: none; cursor: pointer; font-size: 1.1rem; transition: background var(--t), color var(--t);
+    }
+    .modal-close:hover { background: var(--red); color: #fff; }
+    .modal-body { flex: 1; overflow-y: auto; padding: 2rem 2rem 2.5rem; scroll-behavior: smooth; }
+    .modal-body::-webkit-scrollbar { width: 5px; }
+    .modal-body::-webkit-scrollbar-thumb { background: rgba(40,41,36,.18); border-radius: 3px; }
+    .transcript p { font-size: .97rem; color: var(--charcoal); line-height: 1.85; margin-bottom: 1rem; }
+    .transcript p:last-child { margin-bottom: 0; }
+    .transcript-note { font-family: var(--cond); font-size: .72rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); border-top: 1px solid rgba(40,41,36,.1); margin-top: 1.75rem; padding-top: 1.25rem; }
+
+    /* ── Responsive ── */
+    @media (max-width: 900px) {
+      .quotes-grid, .stories-grid, .what-cols { grid-template-columns: 1fr; }
+      .hero-c { margin: 0; }
+      .stats-inner { gap: 0; }
+      .stat-item { padding: .4rem 1rem .4rem 0; }
+      .stat-item:not(:last-child) { border-right: none; margin-right: .75rem; }
+    }
+    @media (max-width: 600px) {
+      .nav-label { display: none; }
+      .hero-h1 { font-size: 2.1rem; }
+      .ap-vol { display: none; }
+      .cta-btns { flex-direction: column; align-items: center; }
+      .cta-btns .btn { width: 100%; max-width: 320px; justify-content: center; }
+      .foot-inner { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_feedback_auth',HASH='1e0afa83c8f066fd3f94ed5a3de611a5e2a00cffa764f92de70f4f8d9ef270e6';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');
+      o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<h2 style="color:#fff;font-family:\'Merriweather\',serif;font-size:1.2rem;margin:0 0 .5rem;text-align:center">Session Feedback</h2>'
+        +'<p style="color:rgba(255,255,255,.45);font-size:.85rem;margin:0 0 2rem;text-align:center">Restricted — authorized staff only</p>'
+        +'<input id="ag-pw" type="password" placeholder="Enter password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw'),btn=document.getElementById('ag-btn'),err=document.getElementById('ag-err');
+      function attempt(){
+        var pw=inp.value;
+        if(!pw){err.textContent='Please enter the password.';return;}
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password.';inp.value='';inp.focus();}
+        });
+      }
+      btn.addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+
+<!-- ══ NAV ══ -->
+<nav id="nav">
+  <div class="nav-i">
+    <a class="nav-logo" href="index.html">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    </a>
+    <div class="nav-label"><span>Session Feedback</span></div>
+  </div>
+</nav>
+
+<!-- ══ HERO ══ -->
+<section id="hero">
+  <div class="hero-c">
+    <div class="hero-eye fi">Healing The Wounds of Trauma</div>
+    <p class="hero-date fi fi-d1">March 20, 2026 · Fort Wainwright, Fairbanks, AK</p>
+    <h1 class="hero-h1 fi fi-d2">When <em>Healing</em><br>Becomes Real</h1>
+    <p class="hero-sub fi fi-d3">Four soldiers shared what happened inside — in their own words.</p>
+    <div class="hero-rule fi fi-d4"></div>
+  </div>
+</section>
+
+<!-- Stats bar -->
+<div class="stats-bar">
+  <div class="stats-inner">
+    <div class="stat-item">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      4 Participants
+    </div>
+    <div class="stat-item">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+      1 Session
+    </div>
+    <div class="stat-item">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+      Fairbanks, Alaska
+    </div>
+    <div class="stat-item">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+      Military Chapel
+    </div>
+  </div>
+</div>
+
+<!-- ══ AUDIO PLAYER ══ -->
+<section id="audio">
+  <div class="ap-wrap">
+    <div id="audio-player">
+      <div class="ap-header fi">
+        <button class="ap-play-btn" id="ap-play-btn" aria-label="Play / Pause">
+          <!-- Play icon -->
+          <svg class="ap-play-icon" width="26" height="26" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
+          <!-- Pause icon -->
+          <svg class="ap-pause-icon" width="26" height="26" viewBox="0 0 24 24" fill="currentColor" style="display:none"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
+        </button>
+        <div class="ap-meta">
+          <div class="ap-label">Feedback Session Recording</div>
+          <div class="ap-title">March 20, 2026 · Fort Wainwright, Fairbanks AK</div>
+          <div class="ap-pending">Audio file to be added · UI ready for integration</div>
+        </div>
+      </div>
+
+      <!-- Waveform -->
+      <div class="ap-waveform fi" id="waveform"></div>
+
+      <!-- Progress bar -->
+      <div class="ap-progress-wrap fi" id="ap-progress">
+        <div class="ap-progress-fill" id="ap-progress-fill"></div>
+        <div class="ap-progress-thumb" id="ap-progress-thumb"></div>
+      </div>
+
+      <!-- Controls -->
+      <div class="ap-controls fi">
+        <div class="ap-ctrl-left">
+          <button class="ap-ctrl-btn" aria-label="Previous" title="Previous">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><polygon points="19,20 9,12 19,4"/><rect x="5" y="4" width="2" height="16"/></svg>
+          </button>
+          <button class="ap-ctrl-btn primary" id="ap-play-btn2" aria-label="Play / Pause">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
+          </button>
+          <button class="ap-ctrl-btn" aria-label="Next" title="Next">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,4 15,12 5,20"/><rect x="17" y="4" width="2" height="16"/></svg>
+          </button>
+          <span class="ap-time" id="ap-time">0:00 / 48:32</span>
+        </div>
+        <div class="ap-vol">
+          <svg class="ap-vol-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+          <div class="ap-vol-track"><div class="ap-vol-fill"></div></div>
+        </div>
+      </div>
+
+      <div class="ap-notice">Audio file to be added. UI is ready for integration.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ PULL QUOTES ══ -->
+<section id="quotes">
+  <div class="quotes-hd fi">
+    <span class="lbl">In Their Own Words</span>
+    <h2>Four Voices. Four Truths.</h2>
+    <p>Unedited. Unprompted. Unbroken.</p>
+  </div>
+  <div class="quotes-grid">
+    <div class="qcard fi fi-d1">
+      <p class="qcard-text">"For you to help others, you have to be broken like that. But you have to have Jesus."</p>
+      <span class="qcard-attr">— Participant 1</span>
+    </div>
+    <div class="qcard fi fi-d2">
+      <p class="qcard-text">"Sometimes that's not what people need. They just need you to show up and just be there, to just sit with them."</p>
+      <span class="qcard-attr">— Participant 2, Military Chaplain Support</span>
+    </div>
+    <div class="qcard fi fi-d3">
+      <p class="qcard-text">"I learned that I wasn't broken — that there was healing to be done and that it was possible. It's been one week. Changed my life already."</p>
+      <span class="qcard-attr">— Participant 3, Lieutenant, U.S. Army</span>
+    </div>
+    <div class="qcard fi fi-d4">
+      <p class="qcard-text">"It doesn't take a counselor, a chaplain, or somebody else. God can contest any one of us to be that person for someone."</p>
+      <span class="qcard-attr">— Participant 4, Infantry, 1-24</span>
+    </div>
+  </div>
+</section>
+
+<!-- ══ PARTICIPANT STORIES ══ -->
+<section id="stories">
+  <div class="stories-hd fi">
+    <span class="lbl">Participant Testimonies</span>
+    <h2>Four Voices. One Session.</h2>
+    <p>Each story is unique. Together they tell something larger.</p>
+  </div>
+  <div class="stories-grid">
+
+    <!-- Card 1 -->
+    <div class="pcard fi fi-d1">
+      <div class="pcard-top">
+        <div>
+          <div class="pcard-name">Participant 1</div>
+          <span class="pbadge">Faith Leader</span>
+        </div>
+        <div class="pcard-num">01</div>
+      </div>
+      <p class="pcard-excerpt">A minister with more than 20 years in the Lord, he came expecting to give — and found himself undone. <em>"It was like life,"</em> he told his wife that night.</p>
+      <button class="pcard-btn" onclick="openModal('m-p1')">
+        Read Full Testimony
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </button>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="pcard fi fi-d2">
+      <div class="pcard-top">
+        <div>
+          <div class="pcard-name">Participant 2</div>
+          <span class="pbadge">Sexual Assault Survivor</span>
+        </div>
+        <div class="pcard-num">02</div>
+      </div>
+      <p class="pcard-excerpt">She carried five years of injustice — watching her assailant walk away with a promotion. This course gave her a framework for grief, presence, and letting go.</p>
+      <button class="pcard-btn" onclick="openModal('m-p2')">
+        Read Full Testimony
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </button>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="pcard fi fi-d3">
+      <div class="pcard-top">
+        <div>
+          <div class="pcard-name">Participant 3</div>
+          <span class="pbadge">New Lieutenant</span>
+        </div>
+        <div class="pcard-num">03</div>
+      </div>
+      <p class="pcard-excerpt">Brand new to Fort Wainwright, she knew no one. One week after the course: <em>"I have a community here now."</em> She's already telling others to come.</p>
+      <button class="pcard-btn" onclick="openModal('m-p3')">
+        Read Full Testimony
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </button>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="pcard fi fi-d4">
+      <div class="pcard-top">
+        <div>
+          <div class="pcard-name">Participant 4</div>
+          <span class="pbadge">Infantry · Suicide Prevention</span>
+        </div>
+        <div class="pcard-num">04</div>
+      </div>
+      <p class="pcard-excerpt">1-24 Infantry. He's lost a soldier to suicide. This course gave him the missing piece — between identifying trauma and preventing the worst outcome.</p>
+      <button class="pcard-btn" onclick="openModal('m-p4')">
+        Read Full Testimony
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </button>
+    </div>
+
+  </div>
+</section>
+
+<!-- ══ WHAT HAPPENED HERE ══ -->
+<section id="what">
+  <div class="what-hd fi">
+    <span class="lbl">What This Session Was</span>
+    <h2>What Happened Here</h2>
+    <p>Inside one session at Fort Wainwright.</p>
+  </div>
+  <div class="what-cols">
+    <div class="wc fi fi-d1">
+      <div class="wc-icon">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+      </div>
+      <h3>Vulnerability</h3>
+      <p>Soldiers opened up about trauma, loss, and pain they had carried for years — some for the first time.</p>
+    </div>
+    <div class="wc fi fi-d2">
+      <div class="wc-icon">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+      </div>
+      <h3>Scripture</h3>
+      <p>The Word of God was the foundation. Not answers dropped on pain, but truth walked alongside it.</p>
+    </div>
+    <div class="wc fi fi-d3">
+      <div class="wc-icon">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      </div>
+      <h3>Community</h3>
+      <p>Strangers became family. A new lieutenant said: <em>"I have a community here now."</em></p>
+    </div>
+  </div>
+</section>
+
+<!-- ══ CTA ══ -->
+<section id="cta">
+  <div class="cta-inner fi">
+    <span class="lbl">Healing the Wounds of Trauma</span>
+    <h2>Could Your Unit Benefit?</h2>
+    <p>The Healing the Wounds of Trauma course is free, scripture-based, and facilitated by trained Native leaders. It meets people where they are.</p>
+    <div class="cta-btns">
+      <a href="healing-groups.html" class="btn btn-dark">Find a Group →</a>
+      <a href="mailto:info@lutheranindianministries.org" class="btn btn-ol">Contact Us</a>
+    </div>
+  </div>
+</section>
+
+<!-- ══ FOOTER ══ -->
+<footer id="footer">
+  <div class="foot-inner">
+    <a class="foot-logo" href="index.html">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    </a>
+    <nav class="foot-links">
+      <a href="index.html">← Back to Site</a>
+      <a href="healing-groups.html">Healing Groups</a>
+      <a href="mailto:info@lutheranindianministries.org">Contact</a>
+    </nav>
+  </div>
+  <div class="foot-bot">
+    <p>© 2026 Lutheran Indian Ministries · <a href="index.html">lim2026admin</a> access</p>
+    <p>Session: March 20, 2026 · Fort Wainwright, Fairbanks AK</p>
+  </div>
+</footer>
+
+
+<!-- ══ MODALS ══ -->
+
+<!-- Modal: Participant 1 -->
+<div class="mbk" id="m-p1" role="dialog" aria-modal="true" aria-labelledby="m-p1-title">
+  <div class="modal">
+    <div class="modal-head">
+      <div class="modal-head-left">
+        <div class="modal-pname">Full Testimony</div>
+        <div class="modal-title" id="m-p1-title">Participant 1</div>
+        <span class="modal-badge">Faith Leader</span>
+      </div>
+      <button class="modal-close" onclick="closeModal('m-p1')" aria-label="Close">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="transcript">
+        <p>"And you are more than 20 years around, 20 years here in the Lord. And you've been experienced a lot of things in his presence, and one day you just go to a place and you feel like new and great things happening. And I was able to be guided and helped to release a lot of things that happened in my life before Jesus and I from Jesus as well.</p>
+        <p>But it was a life changing course. And the outcome for me, amazing outcome for me was you just took it off from my mind. One thing that I used to think that for you to help others, you have to be perfect. For you to help others, you have to be in a great shape, right? And it's not true. The Lord told me through all the course that we had there, I say, you wanna help people?</p>
+        <p>You have to understand him. So you have to be broken like that. But you have to have Jesus. You have to word of God and you have to have the dues that only that course for healing trauma can give you the redness to help you. It was amazing for me. It was like life. I told my wife, I say you gotta go there.</p>
+        <p>You have to, you have to actually to all of you, I think you have to go there. 'cause they give us a chance to heal and understand ourselves so we are ready to help others. That is, for me was the greatest outcome."</p>
+        <div class="transcript-note">Verbatim transcript · March 20, 2026 · Fort Wainwright Feedback Session</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal: Participant 2 -->
+<div class="mbk" id="m-p2" role="dialog" aria-modal="true" aria-labelledby="m-p2-title">
+  <div class="modal">
+    <div class="modal-head">
+      <div class="modal-head-left">
+        <div class="modal-pname">Full Testimony</div>
+        <div class="modal-title" id="m-p2-title">Participant 2</div>
+        <span class="modal-badge">Military Chaplain Support</span>
+      </div>
+      <button class="modal-close" onclick="closeModal('m-p2')" aria-label="Close">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="transcript">
+        <p>"I know that there were three questions that Justin had sent us. I totally forgot everything, unless there's a paper, what God did, what did God do for that class for you? Okay. Also thank you for putting on that class. It was really good. So at the beginning of my career I was sexually assaulted and this class talked a lot about justice and forgiveness and something that I struggled with for the last five years was the concept about that especially biblically because I think the human part of me really wants to see justice and I did not get that.</p>
+        <p>When this happened to me, I got to see this person walk away with a promotion. They got to walk away with an award. They got to ETS out of the Army with full benefits. It felt like a slap in the face. And this class really when I needed people the most to sit there with me and to grieve with me as believers, we're so excited to preach the word of God. And sometimes that's not what people need. They just need you to show up and to just be there, to just sit with them.</p>
+        <p>And so that's something that this class really taught me is that I feel so much more equipped. Just wanting to walk with you guys better. To love you guys better is I'm not gonna have the words always, and maybe if I do, like that's not what you need. And so walking out of this class, what that did for me was open up my heart more and to how I can walk with you guys better through life because we are not strangers of suffering in the military.</p>
+        <p>There's something that happens every single day to one of us. And you know the persons to your left and to your right — you never know. Walking through and as much as you love sometimes scripture, like Carlos said, shelving scripture down somebody's throat is not always the best thing. Sometimes it's just, Hey, let's get a coffee. Let me make you a meal. Let me take you out. Let's go for a walk. I just wanna listen to you guys. I just wanna love you guys well and steward you guys well. And that started with that class.</p>
+        <p>I learned that vengeance is not mine as much as I want justice and I want righteousness to happen — that is in the hands of the Lord, and that is something that I have to put at the foot of the cross daily, and I'm learning that. So thank you."</p>
+        <div class="transcript-note">Verbatim transcript · March 20, 2026 · Fort Wainwright Feedback Session</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal: Participant 3 -->
+<div class="mbk" id="m-p3" role="dialog" aria-modal="true" aria-labelledby="m-p3-title">
+  <div class="modal">
+    <div class="modal-head">
+      <div class="modal-head-left">
+        <div class="modal-pname">Full Testimony</div>
+        <div class="modal-title" id="m-p3-title">Participant 3</div>
+        <span class="modal-badge">Lieutenant, U.S. Army</span>
+      </div>
+      <button class="modal-close" onclick="closeModal('m-p3')" aria-label="Close">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="transcript">
+        <p>"So I came into this course being brand new to Fort Wainwright. I got here not too long ago. I knew nobody personally, I only knew one name walking into this course. I was very nervous, didn't really know what to expect. I got actually approved for the course the night before. I knew the title. That was it.</p>
+        <p>I didn't realize going into this course how much it was actually going to impact me. The course taught a lot about trauma, healing trauma in yourself, and then helping others. For me, that was a big thing. I'm in the process of healing through my own trauma right now, and as a lieutenant in the Army, I know in the future I will have soldiers come to me that are going through some form of traumatic events. So I took this course very seriously.</p>
+        <p>What God did for me — he changed my perspective. I got to understand the trauma I went through and the experience I was in, healing, and I got to be able to learn how to help others. I got a lot more comfortable, and I know I'm not alone here now.</p>
+        <p>What changed? I definitely changed. I changed a lot. My mentality has changed. I learned that I wasn't broken, that there was healing to be done and that it was possible. And I learned how to step into the word to help with that healing, and it has changed my life already. It's been — what — a week? Changed my life already.</p>
+        <p>And then we talk about the invitation to others. For me being a new lieutenant here, I don't know very many people, but the few people I have talked to about this course said they were super interested in wanting to come. And in the future, they plan on coming just so they could hear more about what this course could do. I hope that I can help them get here so they can learn to walk the same way that I am. I have a community here now."</p>
+        <div class="transcript-note">Verbatim transcript · March 20, 2026 · Fort Wainwright Feedback Session</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal: Participant 4 -->
+<div class="mbk" id="m-p4" role="dialog" aria-modal="true" aria-labelledby="m-p4-title">
+  <div class="modal">
+    <div class="modal-head">
+      <div class="modal-head-left">
+        <div class="modal-pname">Full Testimony</div>
+        <div class="modal-title" id="m-p4-title">Participant 4</div>
+        <span class="modal-badge">Infantry · 1-24 · Suicide Prevention</span>
+      </div>
+      <button class="modal-close" onclick="closeModal('m-p4')" aria-label="Close">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="transcript">
+        <p>"So I went to the course with Felipe and Charlotte and Kelsey. It was a good course because you get to understand what people go through. Obviously we're in Alaska and Fairbanks. And one of the things in the briefs that is being told to us is that the suicide rate is very high.</p>
+        <p>And it comes from understanding — not the portion of suicide, because that's the end result — it comes from all the way in, all the steps, and understanding different things that may trigger people: trauma, so on and so forth. I'll give a prime example. I'm in 1-24 Infantry and we had a suicide just before — JP Garcia with Staff Sergeant Arnold. People weren't able to identify the signs and it was so new here and he took his own life. And unfortunately, that's something we have to live with and it's a pain we remember every single day.</p>
+        <p>Just recently there was — I think it was one or two suicide attempts — that somebody intervened in, and luckily they were able to save their life. So taking this course and understanding different people, understanding how trauma works, what you can do to identify it, and understanding how to deal with it, how to understand people — and just going through that course, being vulnerable makes you open up a little bit so that when somebody's sharing, they don't feel like it's just them releasing.</p>
+        <p>I felt it helped connect. It's almost like a missing piece in between trying to help somebody steer away from that direction when it comes to trauma, the missing peace, God, and then preventing suicide. So I found it very helpful.</p>
+        <p>It doesn't take a counselor, a chaplain, or somebody else to help prevent an incident from happening. It could be — God can contest any one of us to be that person for someone. So yeah."</p>
+        <div class="transcript-note">Verbatim transcript · March 20, 2026 · Fort Wainwright Feedback Session</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ══ SCRIPTS ══ -->
+<script>
+(function() {
+
+  // ── Fade-in on scroll ──
+  var fis = document.querySelectorAll('.fi');
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        if (e.isIntersecting) { e.target.classList.add('vis'); io.unobserve(e.target); }
+      });
+    }, { threshold: 0.12 });
+    fis.forEach(function(el) { io.observe(el); });
+  } else {
+    fis.forEach(function(el) { el.classList.add('vis'); });
+  }
+
+  // ── Waveform generation ──
+  var wfEl = document.getElementById('waveform');
+  var BAR_COUNT = 60;
+  var bars = [];
+  for (var i = 0; i < BAR_COUNT; i++) {
+    var b = document.createElement('div');
+    b.className = 'wv-bar';
+    // Varied heights — pseudo-random but deterministic
+    var h = 20 + Math.abs(Math.sin(i * 0.45 + 1.2) * 28) + Math.abs(Math.cos(i * 0.3) * 16);
+    b.style.height = Math.round(h) + 'px';
+    // Stagger animation delay
+    b.style.setProperty('--dur', (0.5 + Math.random() * 0.6).toFixed(2) + 's');
+    b.style.animationDelay = (Math.random() * 0.4).toFixed(2) + 's';
+    wfEl.appendChild(b);
+    bars.push(b);
+  }
+
+  // ── Audio player UI (placeholder — no real audio) ──
+  var player = document.getElementById('audio-player');
+  var playBtn = document.getElementById('ap-play-btn');
+  var playBtn2 = document.getElementById('ap-play-btn2');
+  var playIcon2 = playBtn2.querySelector('svg');
+  var pauseSVG = '<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';
+  var playSVG = '<polygon points="5,3 19,12 5,21"/>';
+  var isPlaying = false;
+  var animFrame;
+  var elapsed = 0; // seconds
+  var TOTAL = 48 * 60 + 32; // 48:32
+  var lastTick;
+
+  function formatTime(s) {
+    var m = Math.floor(s / 60);
+    var sec = Math.floor(s % 60);
+    return m + ':' + (sec < 10 ? '0' : '') + sec;
+  }
+
+  function updateUI() {
+    var pct = Math.min(elapsed / TOTAL * 100, 100);
+    document.getElementById('ap-progress-fill').style.width = pct + '%';
+    document.getElementById('ap-progress-thumb').style.left = pct + '%';
+    document.getElementById('ap-time').textContent = formatTime(elapsed) + ' / 48:32';
+    // Color played bars
+    var playedCount = Math.round(pct / 100 * bars.length);
+    bars.forEach(function(b, idx) {
+      if (idx < playedCount) { b.classList.add('played'); } else { b.classList.remove('played'); }
+    });
+  }
+
+  function tick(ts) {
+    if (!isPlaying) return;
+    if (lastTick) { elapsed += (ts - lastTick) / 1000; }
+    lastTick = ts;
+    if (elapsed >= TOTAL) { elapsed = TOTAL; togglePlay(); updateUI(); return; }
+    updateUI();
+    animFrame = requestAnimationFrame(tick);
+  }
+
+  function togglePlay() {
+    isPlaying = !isPlaying;
+    if (isPlaying) {
+      player.classList.add('playing');
+      playIcon2.innerHTML = pauseSVG;
+      lastTick = null;
+      animFrame = requestAnimationFrame(tick);
+    } else {
+      player.classList.remove('playing');
+      playIcon2.innerHTML = playSVG;
+      cancelAnimationFrame(animFrame);
+      lastTick = null;
+    }
+  }
+
+  playBtn.addEventListener('click', togglePlay);
+  playBtn2.addEventListener('click', togglePlay);
+
+  // Progress scrub
+  var prog = document.getElementById('ap-progress');
+  prog.addEventListener('click', function(e) {
+    var rect = prog.getBoundingClientRect();
+    var pct = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
+    elapsed = pct * TOTAL;
+    updateUI();
+  });
+
+  // ── Modal logic ──
+  window.openModal = function(id) {
+    var el = document.getElementById(id);
+    if (!el) return;
+    el.classList.add('open');
+    document.body.style.overflow = 'hidden';
+    // Focus close button
+    var cls = el.querySelector('.modal-close');
+    if (cls) setTimeout(function(){ cls.focus(); }, 80);
+  };
+
+  window.closeModal = function(id) {
+    var el = document.getElementById(id);
+    if (!el) return;
+    el.classList.remove('open');
+    document.body.style.overflow = '';
+  };
+
+  // Close on backdrop click
+  document.querySelectorAll('.mbk').forEach(function(mbk) {
+    mbk.addEventListener('click', function(e) {
+      if (e.target === mbk) closeModal(mbk.id);
+    });
+  });
+
+  // Close on Escape
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      document.querySelectorAll('.mbk.open').forEach(function(m) { closeModal(m.id); });
+    }
+  });
+
+})();
+</script>
+</body>
+</html>
