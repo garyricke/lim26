@@ -66,6 +66,13 @@
     .nav-give:hover{background:var(--red-h);border-color:var(--red-h)}
     .ham{display:none;flex-direction:column;gap:5px;padding:6px}
     .ham span{display:block;width:22px;height:2px;background:#fff;transition:var(--t)}
+    /* Dropdown */
+    .nav-has-dd{position:relative}
+    .nav-has-dd>a::after{content:' ▾';font-size:.6rem;opacity:.55;letter-spacing:0}
+    .nav-dd{position:absolute;top:calc(100% + 6px);left:0;background:#1e1e1a;border:1px solid rgba(255,255,255,.1);border-radius:var(--r);padding:.4rem 0;min-width:176px;opacity:0;pointer-events:none;transform:translateY(-5px);transition:opacity .18s ease,transform .18s ease;z-index:200;box-shadow:var(--shm)}
+    .nav-has-dd:hover .nav-dd,.nav-has-dd:focus-within .nav-dd{opacity:1;pointer-events:auto;transform:none}
+    .nav-dd a{display:block;padding:.55rem 1.1rem;font-family:var(--cond);font-size:.8rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:rgba(255,255,255,.62);white-space:nowrap;transition:color .15s,background .15s;border-bottom:none!important}
+    .nav-dd a:hover{color:var(--yellow);background:rgba(255,255,255,.06)}
 
     /* Hero */
     #hero{position:relative;min-height:92vh;display:flex;align-items:center;overflow:hidden}
@@ -339,6 +346,8 @@
       .foot-top{grid-template-columns:1fr 1fr;gap:2rem}
       .nav-links{display:none}
       .ham{display:flex}
+      .nav-links.open .nav-dd{position:static;opacity:1;pointer-events:auto;transform:none;border:none;box-shadow:none;background:rgba(255,255,255,.05);border-radius:4px;padding:.2rem 0;margin:.15rem 0 .15rem 1rem;min-width:0}
+      .nav-links.open .nav-has-dd>a::after{content:none}
     }
     @media(max-width:600px){
       .hero-c{margin-left:0}
@@ -396,12 +405,26 @@
       <span></span><span></span><span></span>
     </button>
     <ul class="nav-links" id="navlinks">
-      <li><a href="about.html">About</a></li>
-      <li><a href="#healing">Healing Groups</a></li>
+      <li class="nav-has-dd">
+        <a href="about.html">About</a>
+        <div class="nav-dd">
+          <a href="about.html#mission">Mission &amp; Vision</a>
+          <a href="about.html#who">Who We Are</a>
+          <a href="about.html#team">Our Team</a>
+          <a href="about.html#stories">Stories</a>
+        </div>
+      </li>
+      <li class="nav-has-dd">
+        <a href="#healing">What We Do</a>
+        <div class="nav-dd">
+          <a href="#healing">Healing Groups</a>
+          <a href="healing-groups.html">Find a Group</a>
+          <a href="https://limhope.org" target="_blank" rel="noopener">LIMHOPE.org ↗</a>
+        </div>
+      </li>
       <li><a href="#haskell">Haskell LIGHT</a></li>
       <li><a href="#testimonials">Stories</a></li>
       <li><a href="#videos">Videos</a></li>
-      <li><a href="healing-groups.html">Find a Group</a></li>
     </ul>
     <button onclick="openModal('m-donate')" class="nav-give">Donate</button>
   </div>

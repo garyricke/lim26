@@ -55,11 +55,18 @@
     .ham{display:none;flex-direction:column;gap:5px;padding:6px}
     .ham span{display:block;width:22px;height:2px;background:#fff;transition:var(--t)}
     .nav-links.open{display:flex!important;flex-direction:column;position:absolute;top:66px;left:0;right:0;background:var(--charcoal);padding:1.5rem;gap:1rem;z-index:999}
+    /* Dropdown */
+    .nav-has-dd{position:relative}
+    .nav-has-dd>a::after{content:' ▾';font-size:.6rem;opacity:.55;letter-spacing:0}
+    .nav-dd{position:absolute;top:calc(100% + 6px);left:0;background:#1e1e1a;border:1px solid rgba(255,255,255,.1);border-radius:var(--r);padding:.4rem 0;min-width:176px;opacity:0;pointer-events:none;transform:translateY(-5px);transition:opacity .18s ease,transform .18s ease;z-index:200;box-shadow:var(--shm)}
+    .nav-has-dd:hover .nav-dd,.nav-has-dd:focus-within .nav-dd{opacity:1;pointer-events:auto;transform:none}
+    .nav-dd a{display:block;padding:.55rem 1.1rem;font-family:var(--cond);font-size:.8rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:rgba(255,255,255,.62);white-space:nowrap;transition:color .15s,background .15s;border-bottom:none!important}
+    .nav-dd a:hover{color:var(--yellow);background:rgba(255,255,255,.06)}
 
     /* Hero */
     #hero{position:relative;min-height:88vh;display:flex;align-items:center;overflow:hidden}
-    .hero-bg{position:absolute;inset:0}
-    .hero-bg img{width:100%;height:100%;object-fit:cover;object-position:center 30%;display:block;filter:brightness(.45)}
+    .hero-bg{position:absolute;inset:0;overflow:hidden}
+    .hero-bg video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;filter:brightness(.45)}
     .hero-c{position:relative;z-index:2;max-width:820px;padding:6rem 1.5rem;margin:0 0 0 7vw}
     .hero-eye{font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--yellow);display:flex;align-items:center;gap:.75rem;margin-bottom:1.2rem}
     .hero-eye::before{content:'';width:36px;height:2px;background:var(--yellow)}
@@ -268,6 +275,8 @@
       .foot-top{grid-template-columns:1fr 1fr;gap:2rem}
       .nav-links{display:none}
       .ham{display:flex}
+      .nav-links.open .nav-dd{position:static;opacity:1;pointer-events:auto;transform:none;border:none;box-shadow:none;background:rgba(255,255,255,.05);border-radius:4px;padding:.2rem 0;margin:.15rem 0 .15rem 1rem;min-width:0}
+      .nav-links.open .nav-has-dd>a::after{content:none}
     }
     @media(max-width:600px){
       .hero-c{margin-left:0}
@@ -323,11 +332,25 @@
       <span></span><span></span><span></span>
     </button>
     <ul class="nav-links" id="navlinks">
+      <li class="nav-has-dd">
+        <a href="#mission">About</a>
+        <div class="nav-dd">
+          <a href="#mission">Mission &amp; Vision</a>
+          <a href="#who">Who We Are</a>
+          <a href="#team">Our Team</a>
+          <a href="#stories">Stories</a>
+        </div>
+      </li>
+      <li class="nav-has-dd">
+        <a href="healing-groups.html">What We Do</a>
+        <div class="nav-dd">
+          <a href="healing-groups.html">Healing Groups</a>
+          <a href="https://limhope.org" target="_blank" rel="noopener">LIMHOPE.org ↗</a>
+        </div>
+      </li>
+      <li><a href="index.html#haskell">Haskell LIGHT</a></li>
+      <li><a href="#stories">Stories</a></li>
       <li><a href="index.html">Home</a></li>
-      <li><a href="#mission">Mission</a></li>
-      <li><a href="#who">Who We Are</a></li>
-      <li><a href="#team">Our Team</a></li>
-      <li><a href="healing-groups.html">Healing Groups</a></li>
     </ul>
     <button onclick="openModal('m-donate')" class="nav-give">Donate</button>
   </div>
@@ -336,7 +359,9 @@
 <!-- Hero -->
 <section id="hero" aria-label="About LIM">
   <div class="hero-bg">
-    <img src="https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/620e3027-e727-4f32-868b-c536f10e9f5c/about-header-hero-blur-bottom-blackgradient-b.jpg" alt="" aria-hidden="true">
+    <video autoplay muted loop playsinline aria-hidden="true">
+      <source src="https://res.cloudinary.com/dsbllwpbh/video/upload/v1774880550/about-hero-video-v0_bo0qf9.mp4" type="video/mp4">
+    </video>
   </div>
   <div class="hero-c">
     <span class="hero-eye">Native-Led Ministry Since 1985</span>
