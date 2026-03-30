@@ -202,12 +202,20 @@
     .pcard {
       background: var(--charcoal);
       border-radius: var(--rl);
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      transition: transform var(--t), box-shadow var(--t);
+      cursor: default;
+      overflow: hidden;
+    }
+    .pcard-inner {
       padding: 2rem 2rem 1.75rem;
       display: flex;
       flex-direction: column;
       gap: 1rem;
-      transition: transform var(--t), box-shadow var(--t);
-      cursor: default;
+      flex: 1;
     }
     .pcard:hover { transform: translateY(-4px); box-shadow: var(--shl); }
     .pcard-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
@@ -322,6 +330,17 @@
     .transcript p { font-size: .97rem; color: var(--charcoal); line-height: 1.85; margin-bottom: 1rem; }
     .transcript p:last-child { margin-bottom: 0; }
     .transcript-note { font-family: var(--cond); font-size: .72rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); border-top: 1px solid rgba(40,41,36,.1); margin-top: 1.75rem; padding-top: 1.25rem; }
+
+    /* ── Speaker Photos ── */
+    .scard-photo { width:100%; height:200px; overflow:hidden; border-radius:var(--rl) var(--rl) 0 0; position:relative; flex-shrink:0; }
+    .scard-photo img { width:100%; height:100%; object-fit:cover; display:block; transition:transform .4s ease; }
+    .pcard:hover .scard-photo img { transform:scale(1.04); }
+    .scard-photo-grad { position:absolute; bottom:0; left:0; right:0; height:60px; background:linear-gradient(to bottom, transparent, #282924); }
+    .quote-avatar { width:48px; height:48px; border-radius:50%; object-fit:cover; border:2px solid var(--yellow); flex-shrink:0; }
+    .qcard-attr-row { display:flex; align-items:center; gap:.75rem; }
+    .modal-photo { width:100%; height:220px; overflow:hidden; position:relative; }
+    .modal-photo img { width:100%; height:100%; object-fit:cover; display:block; }
+    .modal-photo-grad { position:absolute; bottom:0; left:0; right:0; height:80px; background:linear-gradient(to bottom, transparent, #282924); }
 
     /* ── Responsive ── */
     @media (max-width: 900px) {
@@ -483,19 +502,31 @@
   <div class="quotes-grid">
     <div class="qcard fi fi-d1">
       <p class="qcard-text">"For you to help others, you have to be broken like that. But you have to have Jesus."</p>
-      <span class="qcard-attr">— Participant 1</span>
+      <div class="qcard-attr-row">
+        <img class="quote-avatar" src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_120,h_120,c_fill,g_face/v1774888348/lim2026/feedback-march2026-speaker-1.jpg" alt="Participant 1">
+        <span class="qcard-attr">— Participant 1</span>
+      </div>
     </div>
     <div class="qcard fi fi-d2">
       <p class="qcard-text">"Sometimes that's not what people need. They just need you to show up and just be there, to just sit with them."</p>
-      <span class="qcard-attr">— Participant 2, Military Chaplain Support</span>
+      <div class="qcard-attr-row">
+        <img class="quote-avatar" src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_120,h_120,c_fill,g_face/v1774888349/lim2026/feedback-march2026-speaker-2.jpg" alt="Participant 2">
+        <span class="qcard-attr">— Participant 2, Military Chaplain Support</span>
+      </div>
     </div>
     <div class="qcard fi fi-d3">
       <p class="qcard-text">"I learned that I wasn't broken — that there was healing to be done and that it was possible. It's been one week. Changed my life already."</p>
-      <span class="qcard-attr">— Participant 3, Lieutenant, U.S. Army</span>
+      <div class="qcard-attr-row">
+        <img class="quote-avatar" src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_120,h_120,c_fill,g_face/v1774888349/lim2026/feedback-march2026-speaker-3.jpg" alt="Participant 3">
+        <span class="qcard-attr">— Participant 3, Lieutenant, U.S. Army</span>
+      </div>
     </div>
     <div class="qcard fi fi-d4">
       <p class="qcard-text">"It doesn't take a counselor, a chaplain, or somebody else. God can contest any one of us to be that person for someone."</p>
-      <span class="qcard-attr">— Participant 4, Infantry, 1-24</span>
+      <div class="qcard-attr-row">
+        <img class="quote-avatar" src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_120,h_120,c_fill,g_face/v1774888350/lim2026/feedback-march2026-speaker-4.jpg" alt="Participant 4">
+        <span class="qcard-attr">— Participant 4, Infantry, 1-24</span>
+      </div>
     </div>
   </div>
 </section>
@@ -511,66 +542,90 @@
 
     <!-- Card 1 -->
     <div class="pcard fi fi-d1">
-      <div class="pcard-top">
-        <div>
-          <div class="pcard-name">Participant 1</div>
-          <span class="pbadge">Faith Leader</span>
-        </div>
-        <div class="pcard-num">01</div>
+      <div class="scard-photo">
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_600/v1774888348/lim2026/feedback-march2026-speaker-1.jpg" alt="Participant 1">
+        <div class="scard-photo-grad"></div>
       </div>
-      <p class="pcard-excerpt">A minister with more than 20 years in the Lord, he came expecting to give — and found himself undone. <em>"It was like life,"</em> he told his wife that night.</p>
-      <button class="pcard-btn" onclick="openModal('m-p1')">
-        Read Full Testimony
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-      </button>
+      <div class="pcard-inner">
+        <div class="pcard-top">
+          <div>
+            <div class="pcard-name">Participant 1</div>
+            <span class="pbadge">Faith Leader</span>
+          </div>
+          <div class="pcard-num">01</div>
+        </div>
+        <p class="pcard-excerpt">A minister with more than 20 years in the Lord, he came expecting to give — and found himself undone. <em>"It was like life,"</em> he told his wife that night.</p>
+        <button class="pcard-btn" onclick="openModal('m-p1')">
+          Read Full Testimony
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </button>
+      </div>
     </div>
 
     <!-- Card 2 -->
     <div class="pcard fi fi-d2">
-      <div class="pcard-top">
-        <div>
-          <div class="pcard-name">Participant 2</div>
-          <span class="pbadge">Sexual Assault Survivor</span>
-        </div>
-        <div class="pcard-num">02</div>
+      <div class="scard-photo">
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_600/v1774888349/lim2026/feedback-march2026-speaker-2.jpg" alt="Participant 2">
+        <div class="scard-photo-grad"></div>
       </div>
-      <p class="pcard-excerpt">She carried five years of injustice — watching her assailant walk away with a promotion. This course gave her a framework for grief, presence, and letting go.</p>
-      <button class="pcard-btn" onclick="openModal('m-p2')">
-        Read Full Testimony
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-      </button>
+      <div class="pcard-inner">
+        <div class="pcard-top">
+          <div>
+            <div class="pcard-name">Participant 2</div>
+            <span class="pbadge">Sexual Assault Survivor</span>
+          </div>
+          <div class="pcard-num">02</div>
+        </div>
+        <p class="pcard-excerpt">She carried five years of injustice — watching her assailant walk away with a promotion. This course gave her a framework for grief, presence, and letting go.</p>
+        <button class="pcard-btn" onclick="openModal('m-p2')">
+          Read Full Testimony
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </button>
+      </div>
     </div>
 
     <!-- Card 3 -->
     <div class="pcard fi fi-d3">
-      <div class="pcard-top">
-        <div>
-          <div class="pcard-name">Participant 3</div>
-          <span class="pbadge">New Lieutenant</span>
-        </div>
-        <div class="pcard-num">03</div>
+      <div class="scard-photo">
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_600/v1774888349/lim2026/feedback-march2026-speaker-3.jpg" alt="Participant 3">
+        <div class="scard-photo-grad"></div>
       </div>
-      <p class="pcard-excerpt">Brand new to Fort Wainwright, she knew no one. One week after the course: <em>"I have a community here now."</em> She's already telling others to come.</p>
-      <button class="pcard-btn" onclick="openModal('m-p3')">
-        Read Full Testimony
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-      </button>
+      <div class="pcard-inner">
+        <div class="pcard-top">
+          <div>
+            <div class="pcard-name">Participant 3</div>
+            <span class="pbadge">New Lieutenant</span>
+          </div>
+          <div class="pcard-num">03</div>
+        </div>
+        <p class="pcard-excerpt">Brand new to Fort Wainwright, she knew no one. One week after the course: <em>"I have a community here now."</em> She's already telling others to come.</p>
+        <button class="pcard-btn" onclick="openModal('m-p3')">
+          Read Full Testimony
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </button>
+      </div>
     </div>
 
     <!-- Card 4 -->
     <div class="pcard fi fi-d4">
-      <div class="pcard-top">
-        <div>
-          <div class="pcard-name">Participant 4</div>
-          <span class="pbadge">Infantry · Suicide Prevention</span>
-        </div>
-        <div class="pcard-num">04</div>
+      <div class="scard-photo">
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_600/v1774888350/lim2026/feedback-march2026-speaker-4.jpg" alt="Participant 4">
+        <div class="scard-photo-grad"></div>
       </div>
-      <p class="pcard-excerpt">1-24 Infantry. He's lost a soldier to suicide. This course gave him the missing piece — between identifying trauma and preventing the worst outcome.</p>
-      <button class="pcard-btn" onclick="openModal('m-p4')">
-        Read Full Testimony
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-      </button>
+      <div class="pcard-inner">
+        <div class="pcard-top">
+          <div>
+            <div class="pcard-name">Participant 4</div>
+            <span class="pbadge">Infantry · Suicide Prevention</span>
+          </div>
+          <div class="pcard-num">04</div>
+        </div>
+        <p class="pcard-excerpt">1-24 Infantry. He's lost a soldier to suicide. This course gave him the missing piece — between identifying trauma and preventing the worst outcome.</p>
+        <button class="pcard-btn" onclick="openModal('m-p4')">
+          Read Full Testimony
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </button>
+      </div>
     </div>
 
   </div>
@@ -645,6 +700,10 @@
 <!-- Modal: Participant 1 -->
 <div class="mbk" id="m-p1" role="dialog" aria-modal="true" aria-labelledby="m-p1-title">
   <div class="modal">
+    <div class="modal-photo">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_800/v1774888348/lim2026/feedback-march2026-speaker-1.jpg" alt="Participant 1">
+      <div class="modal-photo-grad"></div>
+    </div>
     <div class="modal-head">
       <div class="modal-head-left">
         <div class="modal-pname">Full Testimony</div>
@@ -668,6 +727,10 @@
 <!-- Modal: Participant 2 -->
 <div class="mbk" id="m-p2" role="dialog" aria-modal="true" aria-labelledby="m-p2-title">
   <div class="modal">
+    <div class="modal-photo">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_800/v1774888349/lim2026/feedback-march2026-speaker-2.jpg" alt="Participant 2">
+      <div class="modal-photo-grad"></div>
+    </div>
     <div class="modal-head">
       <div class="modal-head-left">
         <div class="modal-pname">Full Testimony</div>
@@ -692,6 +755,10 @@
 <!-- Modal: Participant 3 -->
 <div class="mbk" id="m-p3" role="dialog" aria-modal="true" aria-labelledby="m-p3-title">
   <div class="modal">
+    <div class="modal-photo">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_800/v1774888349/lim2026/feedback-march2026-speaker-3.jpg" alt="Participant 3">
+      <div class="modal-photo-grad"></div>
+    </div>
     <div class="modal-head">
       <div class="modal-head-left">
         <div class="modal-pname">Full Testimony</div>
@@ -716,6 +783,10 @@
 <!-- Modal: Participant 4 -->
 <div class="mbk" id="m-p4" role="dialog" aria-modal="true" aria-labelledby="m-p4-title">
   <div class="modal">
+    <div class="modal-photo">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_800/v1774888350/lim2026/feedback-march2026-speaker-4.jpg" alt="Participant 4">
+      <div class="modal-photo-grad"></div>
+    </div>
     <div class="modal-head">
       <div class="modal-head-left">
         <div class="modal-pname">Full Testimony</div>
