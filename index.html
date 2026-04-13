@@ -242,6 +242,39 @@
     .tc-name{font-family:var(--cond);font-size:.85rem;font-weight:700;color:#fff;text-transform:uppercase;letter-spacing:.05em}
     .tc-role{font-size:.78rem;color:rgba(255,255,255,.45)}
 
+    /* Blog */
+    #blog{padding:5rem 1.5rem;background:var(--stone)}
+    .blog-hd{text-align:center;margin-bottom:3rem}
+    /* Featured (top) card — image left, body right */
+    .blog-featured{max-width:var(--max);margin:0 auto 2.5rem;display:grid;grid-template-columns:1fr 1fr;gap:0;align-items:stretch;background:#fff;border-radius:var(--rl);overflow:hidden;box-shadow:var(--shm);text-decoration:none;transition:box-shadow var(--t)}
+    .blog-featured:hover{box-shadow:var(--shl)}
+    .blog-featured .blog-img{height:420px;overflow:hidden}
+    .blog-featured .blog-img img{width:100%;height:100%;object-fit:cover;object-position:center 25%;transition:transform .55s ease;display:block}
+    .blog-featured:hover .blog-img img{transform:scale(1.04)}
+    .blog-featured .blog-body{padding:2.75rem 3rem;display:flex;flex-direction:column;justify-content:center}
+    /* Secondary grid — smaller cards */
+    .blog-grid{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1.75rem}
+    .blog-card{background:#fff;border-radius:var(--rl);overflow:hidden;box-shadow:var(--sh);text-decoration:none;display:flex;flex-direction:column;transition:box-shadow var(--t),transform var(--t)}
+    .blog-card:hover{box-shadow:var(--shm);transform:translateY(-2px)}
+    .blog-card .blog-img{height:220px;overflow:hidden}
+    .blog-card .blog-img img{width:100%;height:100%;object-fit:cover;object-position:center 30%;transition:transform .5s ease;display:block}
+    .blog-card:hover .blog-img img{transform:scale(1.05)}
+    .blog-card .blog-body{padding:1.75rem;flex:1;display:flex;flex-direction:column}
+    /* Shared body styles */
+    .blog-badge{display:inline-flex;align-items:center;gap:.45rem;font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#fff;background:var(--red);padding:.25rem .65rem;border-radius:4px;margin-bottom:.9rem;align-self:flex-start}
+    .blog-cat{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--red);display:flex;align-items:center;gap:.6rem;margin-bottom:.85rem}
+    .blog-cat::before{content:'';width:28px;height:2px;background:var(--red);flex-shrink:0}
+    .blog-date{font-family:var(--cond);font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:.85rem}
+    .blog-title{font-family:var(--serif);line-height:1.22;color:var(--charcoal);margin-bottom:.85rem}
+    .blog-featured .blog-title{font-size:clamp(1.55rem,2.6vw,2.1rem)}
+    .blog-card .blog-title{font-size:1.22rem}
+    .blog-excerpt{color:var(--muted);line-height:1.8;font-size:.95rem;flex:1}
+    .blog-rule{width:44px;height:3px;background:var(--yellow);border-radius:2px;margin:.85rem 0 1.25rem}
+    .blog-read{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--red);display:flex;align-items:center;gap:.4rem;margin-top:1.25rem;transition:gap var(--t)}
+    .blog-featured:hover .blog-read,.blog-card:hover .blog-read{gap:.7rem}
+    @media(max-width:960px){.blog-featured{grid-template-columns:1fr}.blog-featured .blog-img{height:280px}.blog-featured .blog-body{padding:2rem}}
+    @media(max-width:600px){.blog-featured .blog-body{padding:1.5rem}.blog-grid{grid-template-columns:1fr}}
+
     /* Help */
     #help{padding:5rem 1.5rem;background:#fff}
     .help-hd{text-align:center;margin-bottom:3.5rem}
@@ -424,6 +457,7 @@
       <li><a href="#haskell">Haskell LIGHT</a></li>
       <li><a href="#testimonials">Stories</a></li>
       <li><a href="#videos">Videos</a></li>
+      <li><a href="#blog">Blog</a></li>
     </ul>
     <button onclick="openModal('m-donate')" class="nav-give">Donate</button>
   </div>
@@ -760,6 +794,85 @@
   </div>
   <div class="vids-tabs" id="vids-tabs" role="tablist" aria-label="Video categories"></div>
   <div id="vids-panels"></div>
+</section>
+
+<!-- Blog -->
+<section id="blog" aria-label="From the field">
+  <div class="wrap blog-hd fi">
+    <span class="lbl">From the Field</span>
+    <h2 class="h2">Stories &amp; Updates</h2>
+  </div>
+  <div class="wrap">
+
+    <!-- Featured post -->
+    <a href="blog-i-can-do-all-things.html" class="blog-featured fi" aria-label="Read: I Can Do All Things">
+      <div class="blog-img">
+        <img
+          src="generated_imgs/generated-2026-04-13T14-17-15-969Z-pctypi.png"
+          alt="Native American man in quiet prayer inside a sunlit chapel"
+          loading="lazy">
+      </div>
+      <div class="blog-body">
+        <span class="blog-badge">Most Read</span>
+        <div class="blog-cat">Haskell LIGHT &middot; Kansas</div>
+        <div class="blog-date">Monday, February 29</div>
+        <h3 class="blog-title">I Can Do All Things<br><em style="font-style:italic;color:var(--sage-d);font-size:.78em">Philippians 4:13</em></h3>
+        <div class="blog-rule"></div>
+        <p class="blog-excerpt">If you are like me, you can recite this verse — but in real life, find yourself far from being able "to do all things." A devotional on what changes when we stop performing strength and start receiving it.</p>
+        <span class="blog-read">Read the Devotional →</span>
+      </div>
+    </a>
+
+    <!-- Secondary cards grid -->
+    <div class="blog-grid">
+      <a href="blog-the-choice.html" class="blog-card fi" aria-label="Read: The Choice: Native OR Christian">
+        <div class="blog-img">
+          <img
+            src="generated_imgs/generated-2026-04-13T14-27-47-295Z-c3fldx.png"
+            alt="Native man with drum walking into a sunlit church"
+            loading="lazy">
+        </div>
+        <div class="blog-body">
+          <div class="blog-cat">Pillar 01 &mdash; Proclaim</div>
+          <div class="blog-date">June 13</div>
+          <h3 class="blog-title">The Choice: Native OR Christian?</h3>
+          <p class="blog-excerpt">For more than 500 years, Native Americans were told they had to choose. A letter from a Seminole man in prison — and one man's drum — show why that choice was always a lie.</p>
+          <span class="blog-read">Read the Story →</span>
+        </div>
+      </a>
+      <a href="blog-discovering-identity-bev.html" class="blog-card fi" aria-label="Read: Discovering My True Identity in Christ">
+        <div class="blog-img">
+          <img
+            src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_700/lim2026/blog-bev-hero"
+            alt="Native Alaskan woman at golden hour by a calm bay"
+            loading="lazy">
+        </div>
+        <div class="blog-body">
+          <div class="blog-cat">Stories of Transformation</div>
+          <div class="blog-date">December 26</div>
+          <h3 class="blog-title">Discovering My True Identity in Christ</h3>
+          <p class="blog-excerpt">Beverly Heyano — Tanqik, "brightness" — drank from age 10 to 38. Twenty-seven years later, she shares what she found in God's Word that alcohol could never give her.</p>
+          <span class="blog-read">Read Her Story →</span>
+        </div>
+      </a>
+      <a href="healing-group-military-march2026.html" class="blog-card fi" aria-label="Read: When Healing Becomes Real">
+        <div class="blog-img">
+          <img
+            src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_700/lim2026/feedback-march2026-hero"
+            alt="Soldiers gathered in prayer at Fort Wainwright"
+            loading="lazy">
+        </div>
+        <div class="blog-body">
+          <div class="blog-cat">Healing the Wounds of Trauma</div>
+          <div class="blog-date">March 20, 2026 &middot; Fort Wainwright, AK</div>
+          <h3 class="blog-title">When Healing Becomes Real</h3>
+          <p class="blog-excerpt">Four soldiers shared what happened inside — in their own words. Hear how God's Word moved through a military healing group.</p>
+          <span class="blog-read">Read Their Stories →</span>
+        </div>
+      </a>
+    </div>
+
+  </div>
 </section>
 
 <!-- How You Can Help -->

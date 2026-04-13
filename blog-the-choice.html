@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="For more than 500 years, Native Americans were told they had to choose: be Native, or be Christian. LIM exists to answer that false choice once and for all.">
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <title>The Choice: Native OR Christian · Lutheran Indian Ministries</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --red: #ED1C24; --red-h: #c8151c;
+      --yellow: #FFDE16;
+      --charcoal: #282924;
+      --sage: #B2AC88; --sage-d: #8a8665;
+      --sky: #A2C2D1; --sky-d: #6fa3b8;
+      --stone: #EBE9E4;
+      --muted: #5a5a52;
+      --border: #d9d6ce;
+      --serif: 'Merriweather', Georgia, serif;
+      --cond: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+      --body: 'Open Sans', system-ui, sans-serif;
+      --max: 1200px; --r: 8px; --rl: 16px;
+      --sh: 0 2px 8px rgba(0,0,0,.08);
+      --shm: 0 6px 24px rgba(0,0,0,.14);
+      --shl: 0 16px 48px rgba(0,0,0,.22);
+      --t: .3s ease;
+    }
+    *,*::before,*::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body { font-family: var(--body); color: var(--charcoal); background: #fff; line-height: 1.7; overflow-x: hidden; }
+    img { max-width: 100%; height: auto; display: block; }
+    a { color: inherit; text-decoration: none; }
+    button { cursor: pointer; font-family: inherit; border: none; background: none; }
+
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 0 1.5rem; }
+    .lbl { font-family: var(--cond); font-size: .8rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: var(--sage-d); display: block; margin-bottom: .6rem; }
+    .btn { display: inline-flex; align-items: center; gap: .5rem; padding: .85rem 1.9rem; border-radius: var(--r); font-family: var(--cond); font-size: 1rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; transition: var(--t); cursor: pointer; border: 2px solid transparent; }
+    .btn-red { background: var(--red); color: #fff; border-color: var(--red); }
+    .btn-red:hover { background: var(--red-h); border-color: var(--red-h); transform: translateY(-1px); box-shadow: var(--shm); }
+    .btn-yellow { background: var(--yellow); color: var(--charcoal); border-color: var(--yellow); }
+    .btn-yellow:hover { background: #f0cf00; border-color: #f0cf00; transform: translateY(-1px); box-shadow: var(--shm); }
+    .btn-ol { background: transparent; color: var(--charcoal); border-color: var(--charcoal); }
+    .btn-ol:hover { background: var(--charcoal); color: #fff; }
+    .btn-olw { background: transparent; color: #fff; border-color: rgba(255,255,255,.55); }
+    .btn-olw:hover { background: rgba(255,255,255,.12); border-color: #fff; }
+    .fi { opacity: 0; transform: translateY(22px); transition: opacity .7s ease, transform .7s ease; }
+    .fi.vis { opacity: 1; transform: none; }
+    .fi-d1 { transition-delay: .1s; }
+    .fi-d2 { transition-delay: .2s; }
+    .fi-d3 { transition-delay: .3s; }
+    .fi-d4 { transition-delay: .4s; }
+
+    /* ── Nav ── */
+    #nav { position: sticky; top: 0; z-index: 1000; background: var(--charcoal); box-shadow: var(--shm); }
+    .nav-i { display: flex; align-items: center; justify-content: space-between; height: 66px; max-width: var(--max); margin: 0 auto; padding: 0 1.5rem; }
+    .nav-logo img { height: 42px; }
+    .nav-back { font-family: var(--cond); font-size: .82rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.55); display: flex; align-items: center; gap: .5rem; transition: color var(--t); }
+    .nav-back:hover { color: var(--yellow); }
+    .nav-give { font-family: var(--cond); font-size: .82rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; background: var(--red); color: #fff; padding: .5rem 1.2rem; border-radius: 5px; border: none; cursor: pointer; transition: var(--t); }
+    .nav-give:hover { background: var(--red-h); }
+
+    /* ── Hero ── */
+    #hero { position: relative; height: 75vh; min-height: 520px; overflow: hidden; display: flex; align-items: flex-end; background: var(--charcoal); }
+    .hero-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 20%; filter: brightness(.4); }
+    #hero::after { content: ''; position: absolute; inset: 0; background: linear-gradient(to top, rgba(20,20,16,.95) 0%, rgba(20,20,16,.25) 55%, transparent 100%); z-index: 1; pointer-events: none; }
+    .hero-c { position: relative; z-index: 2; max-width: 820px; padding: 3.5rem 1.5rem 5rem; margin: 0 auto; width: 100%; }
+    .hero-eyebrow { font-family: var(--cond); font-size: .82rem; font-weight: 700; letter-spacing: .22em; text-transform: uppercase; color: var(--yellow); display: flex; align-items: center; gap: .75rem; margin-bottom: 1rem; }
+    .hero-eyebrow::before { content: ''; width: 36px; height: 2px; background: var(--yellow); flex-shrink: 0; }
+    .hero-date { font-family: var(--cond); font-size: .88rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.4); margin-bottom: 1rem; }
+    .hero-h1 { font-family: var(--serif); font-size: clamp(2.2rem, 5.5vw, 3.75rem); line-height: 1.12; color: #fff; text-shadow: 0 2px 24px rgba(0,0,0,.6); margin-bottom: 1.1rem; }
+    .hero-h1 em { font-style: italic; color: var(--yellow); }
+    .hero-sub { font-family: var(--serif); font-style: italic; font-size: 1.12rem; color: rgba(255,255,255,.68); max-width: 560px; line-height: 1.75; margin-bottom: 1.5rem; }
+    .hero-byline { font-family: var(--cond); font-size: .82rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: rgba(255,255,255,.45); }
+    .hero-byline strong { color: rgba(255,255,255,.75); }
+
+    /* ── Article Layout ── */
+    #article { padding: 5rem 1.5rem; }
+    .article-g { max-width: var(--max); margin: 0 auto; display: grid; grid-template-columns: 1fr 320px; gap: 4.5rem; align-items: start; }
+    .article-body { max-width: 680px; }
+    .article-body p { color: var(--muted); line-height: 1.92; margin-bottom: 1.45rem; font-size: 1.02rem; }
+    .article-body p:last-child { margin-bottom: 0; }
+    .article-body em { font-style: italic; }
+
+    /* Letter block */
+    .letter-block { background: var(--stone); border-radius: var(--rl); padding: 2rem 2.25rem; margin: 2rem 0; border: 1px solid var(--border); }
+    .letter-block .letter-lbl { font-family: var(--cond); font-size: .72rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: var(--sage-d); margin-bottom: 1rem; display: flex; align-items: center; gap: .5rem; }
+    .letter-block .letter-lbl::before { content: ''; width: 20px; height: 1px; background: var(--sage); display: block; }
+    .letter-block p { font-family: var(--serif); font-style: italic; color: var(--charcoal); line-height: 1.85; font-size: 1rem; margin-bottom: .8rem; }
+    .letter-block p:last-child { margin-bottom: 0; }
+    .letter-block .letter-sig { font-family: var(--cond); font-size: .82rem; font-weight: 600; color: var(--muted); margin-top: 1rem; display: block; }
+
+    /* Scripture block */
+    .scripture { background: var(--charcoal); border-left: 4px solid var(--yellow); border-radius: 0 var(--rl) var(--rl) 0; padding: 1.6rem 2rem; margin: 2.25rem 0; }
+    .scripture .s-ref { font-family: var(--cond); font-size: .78rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: rgba(255,255,255,.35); margin-bottom: .6rem; }
+    .scripture .s-text { font-family: var(--serif); font-size: 1.15rem; font-style: italic; color: rgba(255,255,255,.88); line-height: 1.75; }
+    .scripture .s-ver { font-family: var(--cond); font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: rgba(255,255,255,.3); margin-top: .55rem; }
+
+    /* Historical callout */
+    .hist-callout { border: 1px solid var(--border); border-left: 4px solid var(--red); border-radius: 0 var(--r) var(--r) 0; padding: 1.5rem 1.75rem; margin: 2.25rem 0; background: #fff9f9; }
+    .hist-callout .hist-lbl { font-family: var(--cond); font-size: .72rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: var(--red); margin-bottom: .75rem; }
+    .hist-callout blockquote { font-family: var(--serif); font-style: italic; color: var(--charcoal); line-height: 1.8; font-size: 1rem; margin-bottom: .65rem; }
+    .hist-callout cite { font-family: var(--cond); font-size: .75rem; font-weight: 600; letter-spacing: .06em; color: var(--muted); font-style: normal; }
+
+    /* Pull quote */
+    .pull-q { margin: 2.5rem 0; padding: 1.5rem 0 1.5rem 1.75rem; border-left: 3px solid var(--yellow); }
+    .pull-q p { font-family: var(--serif); font-size: 1.28rem; font-style: italic; color: var(--charcoal); line-height: 1.65; margin: 0 !important; }
+
+    /* Section divider */
+    .art-rule { display: flex; align-items: center; gap: 1rem; margin: 2.5rem 0; }
+    .art-rule::before, .art-rule::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+    .art-rule-dot { width: 8px; height: 8px; background: var(--yellow); border-radius: 50%; flex-shrink: 0; }
+
+    /* Interior image */
+    .art-img { border-radius: var(--rl); overflow: hidden; margin: 2.5rem 0; }
+    .art-img img { width: 100%; display: block; }
+    .art-img-cap { font-family: var(--cond); font-size: .72rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--sage-d); margin-top: .6rem; text-align: center; }
+
+    /* Section heading within body */
+    .art-h3 { font-family: var(--serif); font-size: 1.35rem; color: var(--charcoal); margin: 2.5rem 0 .85rem; line-height: 1.3; }
+
+    /* Postscript */
+    .ps-box { background: var(--stone); border-radius: var(--rl); padding: 1.75rem 2rem; margin-top: 2.5rem; }
+    .ps-box .lbl { color: var(--sage-d); margin-bottom: .85rem; }
+    .ps-box p { font-family: var(--serif); font-style: italic; color: var(--charcoal); line-height: 1.85; font-size: 1rem; }
+    .ps-box .ps-sig { font-family: var(--cond); font-size: .82rem; font-weight: 700; color: var(--muted); margin-top: .85rem; display: block; }
+
+    /* ── Bridge / CTA ── */
+    #bridge { background: var(--charcoal); padding: 5rem 1.5rem; }
+    .bridge-inner { max-width: 820px; margin: 0 auto; }
+    .bridge-inner .lbl { color: rgba(255,255,255,.35); margin-bottom: 1rem; }
+    .bridge-inner h2 { font-family: var(--serif); font-size: clamp(1.8rem, 3.5vw, 2.6rem); line-height: 1.18; color: #fff; margin-bottom: 1.25rem; }
+    .bridge-inner h2 em { font-style: italic; color: var(--yellow); }
+    .bridge-pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; margin: 2.5rem 0; }
+    .bp { background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.1); border-radius: var(--rl); padding: 1.5rem; }
+    .bp.active { background: rgba(237,28,36,.12); border-color: rgba(237,28,36,.35); }
+    .bp-n { font-family: var(--cond); font-size: .68rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: rgba(255,255,255,.3); margin-bottom: .5rem; }
+    .bp.active .bp-n { color: rgba(237,28,36,.8); }
+    .bp-t { font-family: var(--serif); font-size: 1.1rem; color: #fff; margin-bottom: .5rem; }
+    .bp-d { font-size: .88rem; color: rgba(255,255,255,.55); line-height: 1.65; }
+    .bridge-ctas { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 2rem; }
+    .bridge-verse { border-left: 3px solid var(--yellow); padding: 1.25rem 1.5rem; margin-top: 2.5rem; }
+    .bridge-verse p { font-family: var(--serif); font-style: italic; color: rgba(255,255,255,.72); line-height: 1.75; font-size: 1rem; margin-bottom: .5rem; }
+    .bridge-verse cite { font-family: var(--cond); font-size: .75rem; font-weight: 600; letter-spacing: .08em; color: rgba(255,255,255,.35); font-style: normal; }
+
+    /* ── Sidebar ── */
+    .sidebar { position: sticky; top: 90px; }
+    .sidebar-card { background: var(--stone); border-radius: var(--rl); padding: 1.75rem; margin-bottom: 1.5rem; }
+    .sidebar-card h4 { font-family: var(--cond); font-size: .75rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: var(--sage-d); margin-bottom: 1rem; }
+    .sidebar-card p { font-size: .88rem; color: var(--muted); line-height: 1.7; margin-bottom: 1rem; }
+    .sidebar-card p:last-child { margin-bottom: 0; }
+    .pillar-badge { display: flex; align-items: center; gap: .75rem; background: #fff; border-radius: var(--r); padding: .9rem 1rem; border: 1px solid var(--border); margin-bottom: 1rem; }
+    .pillar-badge-n { font-family: var(--cond); font-size: .65rem; font-weight: 800; letter-spacing: .15em; text-transform: uppercase; color: var(--red); display: block; }
+    .pillar-badge-t { font-family: var(--cond); font-size: 1.05rem; font-weight: 700; color: var(--charcoal); }
+    .sidebar-donate { background: var(--charcoal); border-radius: var(--rl); padding: 1.75rem; }
+    .sidebar-donate h4 { font-family: var(--cond); font-size: .75rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: rgba(255,255,255,.3); margin-bottom: 1rem; }
+    .sidebar-donate p { font-family: var(--serif); font-style: italic; font-size: .92rem; color: rgba(255,255,255,.6); line-height: 1.7; margin-bottom: 1.25rem; }
+    .sidebar-donate a.btn { width: 100%; justify-content: center; font-size: .88rem; }
+
+    /* ── Footer ── */
+    #footer { background: #191916; padding: 3rem 1.5rem 2rem; }
+    .foot-inner { max-width: var(--max); margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1.5rem; padding-bottom: 2rem; border-bottom: 1px solid rgba(255,255,255,.07); margin-bottom: 1.5rem; }
+    .foot-inner img { height: 40px; }
+    .foot-links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .foot-links a { font-size: .85rem; color: rgba(255,255,255,.45); transition: color var(--t); }
+    .foot-links a:hover { color: var(--yellow); }
+    .foot-copy { font-size: .75rem; color: rgba(255,255,255,.25); text-align: center; max-width: var(--max); margin: 0 auto; }
+
+    /* ── Responsive ── */
+    @media(max-width:900px) {
+      .article-g { grid-template-columns: 1fr; gap: 3rem; }
+      .sidebar { position: static; }
+      .article-body { max-width: 100%; }
+      .bridge-pillars { grid-template-columns: 1fr; }
+    }
+    @media(max-width:600px) {
+      #hero { height: 60vh; }
+      .hero-c { padding: 2rem 1.5rem 3.5rem; }
+      .letter-block { padding: 1.5rem; }
+    }
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_auth_2026',HASH='53d81e6c17c82d10718106513d7a21defa05a0d73b2c89f59be66b40f8a05aac';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');
+      o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<p style="color:rgba(255,255,255,.55);font-size:.9rem;margin-bottom:1.25rem;letter-spacing:.04em">This site is password protected</p>'
+        +'<input id="ag-pw" type="password" placeholder="Enter password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw');
+      var err=document.getElementById('ag-err');
+      function attempt(){
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(inp.value)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password';inp.value='';inp.focus();}
+        });
+      }
+      document.getElementById('ag-btn').addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+
+<!-- Nav -->
+<nav id="nav">
+  <div class="nav-i">
+    <a href="index.html" class="nav-logo">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    </a>
+    <a href="index.html#blog" class="nav-back">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M10 12L6 8l4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Blog
+    </a>
+    <button onclick="window.location='index.html'" class="nav-give">Home</button>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section id="hero" aria-label="Article hero">
+  <img class="hero-img"
+    src="generated_imgs/generated-2026-04-13T14-27-47-295Z-c3fldx.png"
+    alt="Native American man with hand drum walking reverently into a sunlit church">
+  <div class="hero-c">
+    <div class="hero-eyebrow fi">Pillar 01 &mdash; Proclaim</div>
+    <p class="hero-date fi fi-d1">June 13</p>
+    <h1 class="hero-h1 fi fi-d2">The Choice:<br><em>Native</em> OR Christian?</h1>
+    <p class="hero-sub fi fi-d3">For more than 500 years, Native Americans have been told to choose. LIM exists to answer that false ultimatum — once and for all.</p>
+    <p class="hero-byline fi fi-d4">By <strong>Tim Young Eagle, CFRE (Pawnee)</strong> · Executive Director, Lutheran Indian Ministries</p>
+  </div>
+</section>
+
+<!-- Article -->
+<section id="article" aria-label="Article content">
+  <div class="article-g">
+
+    <!-- Body -->
+    <div class="article-body fi">
+
+      <p>The letter arrived handwritten on lined notebook paper — the kind with three holes punched along the side and a red margin that you might have used for a high school composition assignment once upon a time. The return address was from a correctional facility out east.</p>
+
+      <p>We occasionally receive mail from Native American inmates. Usually, the writer tells us his life's story or about his faith journey. But this man was asking for advice on a question that cut deep.</p>
+
+      <div class="letter-block">
+        <div class="letter-lbl">A Letter Received</div>
+        <p>"I am registered as an American Indian, but my religion is listed as Lutheran. If I want to participate in the Native American activities or classes, I have to change my religion. But if I change my religion, I can't participate in the Sunday worship or Bible study."</p>
+        <p>"How can I be Lutheran and Native?"</p>
+        <span class="letter-sig">— John, Seminole tribe · Correctional Facility</span>
+      </div>
+
+      <p>John closed with a question that has echoed across Native communities for generations. And he asked it from a prison cell — where, stripped of nearly everything else, he was still being told to choose between who he was and who God made him to be.</p>
+
+      <div class="art-rule"><div class="art-rule-dot"></div></div>
+
+      <h3 class="art-h3">A 500-Year-Old Lie</h3>
+
+      <p>Sadly, John's question is one we are asked often in ministry among Native people. For more than 500 years, Native Americans were told they cannot be both Christian and Native. The Native culture, according to early missionaries, did not fit the Christian religion — and belief in the Gospel required them to give up who they were in order to become something they could never truly be.</p>
+
+      <p>It wasn't just theology. It was policy. It was enforced. Boarding schools — funded by the federal government and operated by churches — removed Native children from their families, cut their hair, banned their languages, and punished them for singing their songs or speaking their names. The logic was explicit.</p>
+
+      <div class="hist-callout">
+        <div class="hist-lbl">Historical Record — Carlisle Indian Industrial School, 1892</div>
+        <blockquote>"A great general has said that the only good Indian is a dead one... In a sense, I agree with the sentiment, but only in this: that all the Indian there is in the race should be dead. Kill the Indian in him, and save the man."</blockquote>
+        <cite>— Capt. Richard H. Pratt, Founder of Carlisle Indian School</cite>
+      </div>
+
+      <p>Only once the Indian part of a man had been purged, the thinking went, could the saving grace of Jesus' death and resurrection become available to him. Culture was the barrier. Tradition was the enemy. Identity was the price of admission.</p>
+
+      <p>This is a lie — a theological error with devastating real-world consequences. And it is still alive. It has been so thoroughly embedded in some Native communities that it is treated as obvious truth: if you follow Jesus, you leave your people behind.</p>
+
+      <div class="art-rule"><div class="art-rule-dot"></div></div>
+
+      <h3 class="art-h3">What the Gospel Actually Says</h3>
+
+      <p>Lutheran Indian Ministries, through your prayers and gifts, works every day to proclaim the truth that dispels this aged, false teaching. The Gospel of Jesus Christ does not demand cultural death as the price of salvation. It never has. What early missionaries called "pagan culture" — the drum, the dance, the language, the land — was not the enemy of the Gospel. It was the vessel through which God could speak to Native hearts in Native ways.</p>
+
+      <div class="pull-q">
+        <p>"God speaks to Native hearts in Native ways. You do not have to stop being who you are to receive what He offers."</p>
+      </div>
+
+      <p>The Gospel has always crossed cultures by <em>entering</em> them — not erasing them. Paul became "all things to all people" not to erase their humanity, but to reach them within it. The Spirit at Pentecost did not force every listener to hear in one language. Every person heard in their own tongue. The miracle was not uniformity. It was recognition.</p>
+
+      <div class="art-rule"><div class="art-rule-dot"></div></div>
+
+      <h3 class="art-h3">The Man With the Drum</h3>
+
+      <div class="art-img">
+        <img
+          src="generated_imgs/generated-2026-04-13T14-27-47-295Z-c3fldx.png"
+          alt="Native American man with drum walking into a sunlit wooden church"
+          loading="lazy">
+        <p class="art-img-cap">For the first time in his life, he felt free.</p>
+      </div>
+
+      <p>A friend of LIM was asked recently to take part in a Lutheran church service. He agreed — but standing backstage, drum in hand, waiting to process into the sanctuary, the old question rose in him: <em>How can I be Native and Christian? How will this congregation react to our drumming and regalia? How can I be one of them and still be me?</em></p>
+
+      <p>He had been invited, with a group of local Native people, to share their faith and their stories — their drumming and their culture. And yet, he felt anxious. Decades of being told to choose had left a wound that didn't close easily.</p>
+
+      <p>The pastor made the announcement. The drumbeat echoed through the sanctuary.</p>
+
+      <p>In a solemn, humble, and worshipful movement, they entered — honoring and praising their Savior, Jesus Christ, in the way they were taught by their ancestors. They honored the traditions of their people while worshipping their Holy Father from their innermost being, with all their heart and all their mind and all their soul.</p>
+
+      <div class="pull-q">
+        <p>"As he walked down the aisle, tears streamed down his face. The Holy Spirit guided him on and his heart softened. For the first time in his life, he felt <em>free.</em>"</p>
+      </div>
+
+      <p>Free to be Native and to be Christian. Free to praise God with drumming and dancing. Free to be who God had created him to be. At that moment, he knew and understood that Jesus Christ suffered, died, and was resurrected for <em>his</em> salvation — and he gave thanks to God.</p>
+
+      <div class="scripture">
+        <div class="s-ref">Psalm 149:3</div>
+        <p class="s-text">"Let them praise his name with dancing and make music to him with timbrel and harp. For the Lord takes delight in his people; he crowns the humble with salvation."</p>
+        <div class="s-ver">NIV</div>
+      </div>
+
+      <p>It is in these moments we can all rejoice and thank God that He sent His Son, Jesus, for the salvation of <em>all</em> people. Not all people who look a certain way. Not all people who conform to a certain culture. <em>All.</em> The drum was always welcome in the house of the Lord. It just took the courage of one man, and the prayers of a whole community, to prove it.</p>
+
+      <div class="art-rule"><div class="art-rule-dot"></div></div>
+
+      <h3 class="art-h3">John's Answer</h3>
+
+      <p>This is the message we returned to John — and the message we share daily with the Native American, Alaska Native, and Native Hawaiian people we encounter in this ministry:</p>
+
+      <div class="letter-block">
+        <div class="letter-lbl">John's Postscript</div>
+        <p>"I know God is with me, and I worship Him where I am. You and LIM are in my prayers. Continue to do God's work and spread His word to all Nations!"</p>
+        <span class="letter-sig">— John, Seminole tribe</span>
+      </div>
+
+      <p>From a prison cell, with almost nothing — John had already found the answer. He was worshipping. He was praying for others. He was trusting God to hold both parts of his identity together. The system around him had not caught up to the Gospel. But John had.</p>
+
+      <div class="art-img">
+        <img
+          src="generated_imgs/generated-2026-04-13T14-28-23-809Z-zgm7mi.png"
+          alt="Handwritten letter on lined notebook paper — the kind from a correctional facility"
+          loading="lazy">
+        <p class="art-img-cap">The letter arrived handwritten on lined notebook paper with three holes punched along the side.</p>
+      </div>
+
+      <div class="ps-box">
+        <span class="lbl">From the Executive Director</span>
+        <p>Your gift enables us to proclaim the truth Native people need to hear: <strong>Jesus died for YOU just as you are.</strong> Not as someone else. Not after you've erased your culture, your language, your traditions. Just as you are — Native, whole, and beloved by God.</p>
+        <p>Please prayerfully consider a gift to support God's work among Native peoples.</p>
+        <p>God's blessings — <em>In Him,</em></p>
+        <span class="ps-sig">Tim Young Eagle, CFRE (Pawnee) · Executive Director, Lutheran Indian Ministries</span>
+      </div>
+
+    </div>
+
+    <!-- Sidebar -->
+    <aside class="sidebar fi fi-d2" aria-label="About this post">
+
+      <div class="sidebar-card">
+        <h4>Pillar 01 — Proclaim</h4>
+        <div class="pillar-badge">
+          <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true"><circle cx="14" cy="14" r="13" stroke="#ED1C24" stroke-width="1.5"/><path d="M9 14l3.5 3.5L19 10" stroke="#ED1C24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <div>
+            <span class="pillar-badge-n">Pillar 01</span>
+            <span class="pillar-badge-t">Proclaim</span>
+          </div>
+        </div>
+        <p>Sharing the Gospel in ways rooted in Native culture — honoring Native traditions as vessels of God's grace. God speaks to Native hearts in Native ways.</p>
+        <a href="about.html#pillars" class="btn btn-ol" style="width:100%;justify-content:center;font-size:.85rem;padding:.65rem 1rem;">See All Three Pillars →</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h4>The Core Question</h4>
+        <p>"The choice" — between Native identity and Christian faith — is one of our greatest challenges as we proclaim the Gospel of Jesus Christ to Native peoples.</p>
+        <p>But from great challenges comes great joy. This is what LIM was built to answer.</p>
+      </div>
+
+      <div class="sidebar-donate">
+        <h4>Support This Work</h4>
+        <p>"Jesus died for YOU just as you are."</p>
+        <a href="index.html" class="btn btn-yellow">Give to LIM →</a>
+      </div>
+
+    </aside>
+
+  </div>
+</section>
+
+<!-- Bridge CTA — Proclaim Pillar -->
+<section id="bridge" aria-label="How LIM proclaims the Gospel">
+  <div class="bridge-inner">
+    <span class="lbl">The Work Continues</span>
+    <h2>Every tribe. Every tradition.<br><em>One Gospel.</em></h2>
+    <p style="color:rgba(255,255,255,.65);line-height:1.8;max-width:600px;margin-bottom:0">The false choice between "Native" and "Christian" doesn't dissolve on its own. It takes relationships, presence, and the patient proclamation of a Gospel that has always been big enough to hold the whole person. That is what LIM does — one community, one invitation, one drum-beat at a time.</p>
+
+    <div class="bridge-pillars">
+      <div class="bp active">
+        <div class="bp-n">Pillar 01</div>
+        <div class="bp-t">Proclaim</div>
+        <div class="bp-d">Sharing the Gospel in Native ways — by invitation, with deep respect for culture and tradition.</div>
+      </div>
+      <div class="bp">
+        <div class="bp-n">Pillar 02</div>
+        <div class="bp-t">Disciple</div>
+        <div class="bp-d">Developing Native leaders at Haskell Indian Nations University in Lawrence, Kansas.</div>
+      </div>
+      <div class="bp">
+        <div class="bp-n">Pillar 03</div>
+        <div class="bp-t">Heal</div>
+        <div class="bp-d">Scripture-rooted trauma healing groups in reservations, villages, cities, and online.</div>
+      </div>
+    </div>
+
+    <div class="bridge-ctas">
+      <a href="about.html#pillars" class="btn btn-yellow">Our Three Pillars →</a>
+      <a href="index.html#healing" class="btn btn-olw">Find a Healing Group</a>
+    </div>
+
+    <div class="bridge-verse">
+      <p>"There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus."</p>
+      <cite>— Galatians 3:28 (NIV)</cite>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+  <div class="foot-inner">
+    <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    <div class="foot-links">
+      <a href="index.html">Home</a>
+      <a href="about.html">About LIM</a>
+      <a href="healing-groups.html">Healing Groups</a>
+      <a href="index.html#blog">Blog</a>
+    </div>
+  </div>
+  <p class="foot-copy">&copy; 2026 Lutheran Indian Ministries · All rights reserved</p>
+</footer>
+
+<script>
+(function(){
+  var els=document.querySelectorAll('.fi');
+  if(!els.length)return;
+  var io=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('vis');}});
+  },{threshold:.12});
+  els.forEach(function(el){io.observe(el);});
+})();
+</script>
+</body>
+</html>

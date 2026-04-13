@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A devotional on Philippians 4:13 — what it really means to do all things through Christ who strengthens us, and how the prayers of others carry us toward freedom.">
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <title>I Can Do All Things — Philippians 4:13 · LIM Haskell LIGHT</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --red: #ED1C24; --red-h: #c8151c;
+      --yellow: #FFDE16;
+      --charcoal: #282924;
+      --sage: #B2AC88; --sage-d: #8a8665;
+      --sky: #A2C2D1; --sky-d: #6fa3b8;
+      --stone: #EBE9E4;
+      --white: #FFFFFF;
+      --muted: #5a5a52;
+      --border: #d9d6ce;
+      --serif: 'Merriweather', Georgia, serif;
+      --cond: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+      --body: 'Open Sans', system-ui, sans-serif;
+      --max: 1200px; --r: 8px; --rl: 16px;
+      --sh: 0 2px 8px rgba(0,0,0,.08);
+      --shm: 0 6px 24px rgba(0,0,0,.14);
+      --shl: 0 16px 48px rgba(0,0,0,.22);
+      --t: .3s ease;
+    }
+    *,*::before,*::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body { font-family: var(--body); color: var(--charcoal); background: #fff; line-height: 1.7; overflow-x: hidden; }
+    img { max-width: 100%; height: auto; display: block; }
+    a { color: inherit; text-decoration: none; }
+    button { cursor: pointer; font-family: inherit; border: none; background: none; }
+
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 0 1.5rem; }
+    .lbl { font-family: var(--cond); font-size: .8rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: var(--sage-d); display: block; margin-bottom: .6rem; }
+    .btn { display: inline-flex; align-items: center; gap: .5rem; padding: .85rem 1.9rem; border-radius: var(--r); font-family: var(--cond); font-size: 1rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; transition: var(--t); cursor: pointer; border: 2px solid transparent; }
+    .btn-red { background: var(--red); color: #fff; border-color: var(--red); }
+    .btn-red:hover { background: var(--red-h); border-color: var(--red-h); transform: translateY(-1px); box-shadow: var(--shm); }
+    .btn-sky { background: var(--sky); color: var(--charcoal); border-color: var(--sky); }
+    .btn-sky:hover { background: var(--sky-d); color: #fff; border-color: var(--sky-d); transform: translateY(-1px); box-shadow: var(--shm); }
+    .btn-ol { background: transparent; color: var(--charcoal); border-color: var(--charcoal); }
+    .btn-ol:hover { background: var(--charcoal); color: #fff; }
+    .btn-olw { background: transparent; color: #fff; border-color: rgba(255,255,255,.55); }
+    .btn-olw:hover { background: rgba(255,255,255,.12); border-color: #fff; }
+    .fi { opacity: 0; transform: translateY(22px); transition: opacity .7s ease, transform .7s ease; }
+    .fi.vis { opacity: 1; transform: none; }
+    .fi-d1 { transition-delay: .1s; }
+    .fi-d2 { transition-delay: .2s; }
+    .fi-d3 { transition-delay: .3s; }
+    .fi-d4 { transition-delay: .4s; }
+
+    /* ── Nav ── */
+    #nav { position: sticky; top: 0; z-index: 1000; background: var(--charcoal); box-shadow: var(--shm); }
+    .nav-i { display: flex; align-items: center; justify-content: space-between; height: 66px; max-width: var(--max); margin: 0 auto; padding: 0 1.5rem; }
+    .nav-logo img { height: 42px; }
+    .nav-back { font-family: var(--cond); font-size: .82rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.55); display: flex; align-items: center; gap: .5rem; transition: color var(--t); }
+    .nav-back:hover { color: var(--yellow); }
+    .nav-back svg { opacity: .7; }
+    .nav-give { font-family: var(--cond); font-size: .82rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; background: var(--red); color: #fff; padding: .5rem 1.2rem; border-radius: 5px; border: none; cursor: pointer; transition: var(--t); }
+    .nav-give:hover { background: var(--red-h); }
+
+    /* ── Hero ── */
+    #hero { position: relative; height: 70vh; min-height: 480px; overflow: hidden; display: flex; align-items: flex-end; background: var(--charcoal); }
+    .hero-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 25%; filter: brightness(.45); }
+    #hero::after { content: ''; position: absolute; inset: 0; background: linear-gradient(to top, rgba(20,20,16,.92) 0%, rgba(20,20,16,.3) 55%, transparent 100%); z-index: 1; pointer-events: none; }
+    .hero-c { position: relative; z-index: 2; max-width: 820px; padding: 3.5rem 1.5rem 4rem; margin: 0 auto; width: 100%; }
+    .hero-eyebrow { font-family: var(--cond); font-size: .82rem; font-weight: 700; letter-spacing: .22em; text-transform: uppercase; color: var(--yellow); display: flex; align-items: center; gap: .75rem; margin-bottom: 1rem; }
+    .hero-eyebrow::before { content: ''; width: 36px; height: 2px; background: var(--yellow); flex-shrink: 0; }
+    .hero-date { font-family: var(--cond); font-size: .88rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.45); margin-bottom: 1rem; }
+    .hero-h1 { font-family: var(--serif); font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.18; color: #fff; text-shadow: 0 2px 20px rgba(0,0,0,.5); margin-bottom: 1rem; }
+    .hero-h1 em { font-style: italic; color: var(--yellow); }
+    .hero-sub { font-family: var(--serif); font-style: italic; font-size: 1.15rem; color: rgba(255,255,255,.7); max-width: 560px; line-height: 1.75; }
+
+    /* ── Article Layout ── */
+    #article { padding: 5rem 1.5rem; }
+    .article-g { max-width: var(--max); margin: 0 auto; display: grid; grid-template-columns: 1fr 320px; gap: 4.5rem; align-items: start; }
+    .article-body { max-width: 680px; }
+    .article-body p { color: var(--muted); line-height: 1.9; margin-bottom: 1.4rem; font-size: 1.02rem; }
+    .article-body p:last-child { margin-bottom: 0; }
+
+    /* Scripture block */
+    .scripture { background: var(--stone); border-left: 4px solid var(--yellow); border-radius: 0 var(--rl) var(--rl) 0; padding: 1.6rem 2rem; margin: 2rem 0; }
+    .scripture-ref { font-family: var(--cond); font-size: .78rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: var(--sage-d); margin-bottom: .6rem; }
+    .scripture-text { font-family: var(--serif); font-size: 1.15rem; font-style: italic; color: var(--charcoal); line-height: 1.75; }
+    .scripture-version { font-family: var(--cond); font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--sage-d); margin-top: .55rem; }
+
+    /* Pull quote */
+    .pull-q { margin: 2.5rem 0; padding: 0 0 0 1.6rem; border-left: 3px solid var(--red); }
+    .pull-q p { font-family: var(--serif); font-size: 1.22rem; font-style: italic; color: var(--charcoal); line-height: 1.7; margin: 0 !important; }
+
+    /* Section divider */
+    .art-rule { display: flex; align-items: center; gap: 1rem; margin: 2.5rem 0; }
+    .art-rule::before, .art-rule::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+    .art-rule-dot { width: 8px; height: 8px; background: var(--yellow); border-radius: 50%; flex-shrink: 0; }
+
+    /* Interior image */
+    .art-img { border-radius: var(--rl); overflow: hidden; margin: 2.5rem 0; }
+    .art-img img { width: 100%; display: block; }
+    .art-img-cap { font-family: var(--cond); font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--sage-d); margin-top: .65rem; text-align: center; }
+
+    /* Prayer */
+    .prayer-box { background: var(--charcoal); border-radius: var(--rl); padding: 2.25rem 2.5rem; margin: 2.5rem 0; }
+    .prayer-box .lbl { color: rgba(255,255,255,.35); margin-bottom: 1rem; }
+    .prayer-box p { font-family: var(--serif); font-style: italic; color: rgba(255,255,255,.78); line-height: 1.85; font-size: 1.02rem; margin-bottom: 0; }
+    .prayer-box .amen { font-family: var(--cond); font-size: .9rem; font-weight: 700; letter-spacing: .08em; color: var(--yellow); margin-top: 1rem; display: block; }
+
+    /* ── Bridge CTA ── */
+    #bridge { background: var(--sky); padding: 5rem 1.5rem; }
+    .bridge-inner { max-width: 820px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center; }
+    .bridge-text .lbl { color: var(--charcoal); opacity: .6; }
+    .bridge-text h2 { font-family: var(--serif); font-size: clamp(1.7rem, 3vw, 2.4rem); line-height: 1.2; color: var(--charcoal); margin-bottom: 1rem; }
+    .bridge-text p { color: rgba(40,41,36,.75); line-height: 1.8; margin-bottom: 1.5rem; font-size: 1rem; }
+    .bridge-text p strong { color: var(--charcoal); font-weight: 600; }
+    .bridge-text .bridge-btns { display: flex; gap: 1rem; flex-wrap: wrap; }
+    .bridge-verse { background: rgba(255,255,255,.45); border-radius: var(--rl); padding: 2rem 2.25rem; border: 1px solid rgba(255,255,255,.7); }
+    .bridge-verse p { font-family: var(--serif); font-style: italic; font-size: 1.05rem; line-height: 1.75; color: var(--charcoal); margin-bottom: .85rem; }
+    .bridge-verse cite { font-family: var(--cond); font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--sage-d); font-style: normal; }
+
+    /* ── Sidebar ── */
+    .sidebar { position: sticky; top: 90px; }
+    .sidebar-card { background: var(--stone); border-radius: var(--rl); padding: 1.75rem; margin-bottom: 1.5rem; }
+    .sidebar-card h4 { font-family: var(--cond); font-size: .75rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: var(--sage-d); margin-bottom: 1rem; }
+    .sidebar-card p { font-size: .9rem; color: var(--muted); line-height: 1.7; margin-bottom: 1.1rem; }
+    .sidebar-ref { display: flex; flex-direction: column; gap: .5rem; margin-bottom: 1rem; }
+    .sidebar-ref a { font-family: var(--cond); font-size: .82rem; font-weight: 600; color: var(--red); display: flex; align-items: center; gap: .4rem; transition: gap var(--t); }
+    .sidebar-ref a:hover { gap: .7rem; }
+    .sidebar-series { background: var(--charcoal); border-radius: var(--rl); padding: 1.75rem; }
+    .sidebar-series h4 { font-family: var(--cond); font-size: .75rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: rgba(255,255,255,.35); margin-bottom: 1rem; }
+    .sidebar-series p { font-size: .88rem; color: rgba(255,255,255,.6); line-height: 1.65; margin-bottom: 1.25rem; }
+    .sidebar-series a.btn { width: 100%; justify-content: center; }
+
+    /* ── Footer ── */
+    #footer { background: #191916; padding: 3rem 1.5rem 2rem; }
+    .foot-inner { max-width: var(--max); margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1.5rem; padding-bottom: 2rem; border-bottom: 1px solid rgba(255,255,255,.07); margin-bottom: 1.5rem; }
+    .foot-inner img { height: 40px; }
+    .foot-links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .foot-links a { font-size: .85rem; color: rgba(255,255,255,.45); transition: color var(--t); }
+    .foot-links a:hover { color: var(--yellow); }
+    .foot-copy { font-size: .75rem; color: rgba(255,255,255,.25); text-align: center; max-width: var(--max); margin: 0 auto; }
+
+    /* ── Responsive ── */
+    @media(max-width:900px) {
+      .article-g { grid-template-columns: 1fr; gap: 3rem; }
+      .sidebar { position: static; }
+      .article-body { max-width: 100%; }
+      .bridge-inner { grid-template-columns: 1fr; gap: 2rem; }
+    }
+    @media(max-width:600px) {
+      #hero { height: 55vh; }
+      .hero-c { padding: 2rem 1.5rem 3rem; }
+      .scripture { padding: 1.25rem 1.4rem; }
+      .prayer-box { padding: 1.5rem 1.6rem; }
+    }
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_auth_2026',HASH='53d81e6c17c82d10718106513d7a21defa05a0d73b2c89f59be66b40f8a05aac';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');
+      o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<p style="color:rgba(255,255,255,.55);font-size:.9rem;margin-bottom:1.25rem;letter-spacing:.04em">This site is password protected</p>'
+        +'<input id="ag-pw" type="password" placeholder="Enter password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw');
+      var err=document.getElementById('ag-err');
+      function attempt(){
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(inp.value)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password';inp.value='';inp.focus();}
+        });
+      }
+      document.getElementById('ag-btn').addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+
+<!-- Nav -->
+<nav id="nav">
+  <div class="nav-i">
+    <a href="index.html" class="nav-logo">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    </a>
+    <a href="index.html#blog" class="nav-back">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M10 12L6 8l4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Blog
+    </a>
+    <button onclick="window.location='index.html#donate'" class="nav-give">Donate</button>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section id="hero" aria-label="Article hero">
+  <img class="hero-img"
+    src="generated_imgs/generated-2026-04-13T14-17-15-969Z-pctypi.png"
+    alt="Native American man in quiet prayer inside a sunlit chapel">
+  <div class="hero-c">
+    <div class="hero-eyebrow fi">Haskell LIGHT · Kansas</div>
+    <p class="hero-date fi fi-d1">Monday, February 29</p>
+    <h1 class="hero-h1 fi fi-d2">I Can Do <em>All Things</em></h1>
+    <p class="hero-sub fi fi-d3">"I can do all things through him who strengthens me." — Philippians 4:13 (ESV)</p>
+  </div>
+</section>
+
+<!-- Article -->
+<section id="article" aria-label="Article content">
+  <div class="article-g">
+
+    <!-- Body -->
+    <div class="article-body fi">
+
+      <div class="scripture">
+        <div class="scripture-ref">Philippians 4:13</div>
+        <p class="scripture-text">"I can do all things through him who strengthens me."</p>
+        <div class="scripture-version">ESV</div>
+      </div>
+
+      <p>If you are like me, you can recite this verse — but in real life, find yourself far from being able <em>"to do all things."</em></p>
+
+      <p>Why? Because we do not let Christ strengthen us? Every Biblically-aware believer knows "what God wants," and they seek to do it with His strength. Or do we know this verse so well that it has lost its impact on how we <em>"work out our salvation"?</em></p>
+
+      <div class="scripture">
+        <div class="scripture-ref">Philippians 2:12</div>
+        <p class="scripture-text">"Work out your own salvation with fear and trembling."</p>
+        <div class="scripture-version">ESV</div>
+      </div>
+
+      <p>It is easy for a familiar verse to become invisible — recited without being received. Philippians 4:13 is one of those verses. We put it on T-shirts and phone cases. We quote it before big moments. But Paul wrote it from prison, not from a platform. He wasn't claiming supernatural athletic performance. He was describing something quieter and harder: the ability to be <em>content</em> in every circumstance, sustained not by his own resolve, but by Someone greater moving through him.</p>
+
+      <p>The question isn't whether we know the verse. The question is whether we are actually living in the dependency it describes.</p>
+
+      <div class="art-rule"><div class="art-rule-dot"></div></div>
+
+      <div class="pull-q">
+        <p>"Years of bondage were broken and this person was set free — free indeed."</p>
+      </div>
+
+      <p>Recently, a close friend of mine discovered this truth regarding victory over alcohol, which he had struggled with for years. It was a time of deliverance preceded by many hours of fervent prayer by his family. I was fortunate to be there during his time of deliverance. I remember leaving the prayer time and thinking that something powerful had just taken place.</p>
+
+      <p>The day after, my friend attended church and was touched by the pastor's closing prayer. More prayers, more pastors — something big happened. Years of bondage were broken and this person was set free — free indeed. The intercessions of others had come to God's throne of grace and were answered.</p>
+
+      <div class="art-img">
+        <img
+          src="generated_imgs/generated-2026-04-13T14-17-56-942Z-dkbax0.png"
+          alt="A circle of people holding hands in prayer around a table"
+          loading="lazy">
+        <p class="art-img-cap">Bear one another's burdens — Galatians 6:2</p>
+      </div>
+
+      <p>Sometimes, Christ's strength is not something we summon alone. It arrives through the hands and voices of the people who carry us when we cannot carry ourselves. My friend did not find freedom through willpower. He found it through a community that refused to stop praying.</p>
+
+      <div class="scripture">
+        <div class="scripture-ref">Galatians 6:2</div>
+        <p class="scripture-text">"Bear one another's burdens, and so fulfill the law of Christ."</p>
+        <div class="scripture-version">ESV</div>
+      </div>
+
+      <p>We are to carry one another's burdens. This is not a suggestion — it is the fulfillment of the law of Christ. And prayer is the primary tool for doing it. Not prayer as ritual, but prayer as warfare. Prayer as love made active.</p>
+
+      <div class="scripture">
+        <div class="scripture-ref">2 Corinthians 10:5</div>
+        <p class="scripture-text">"We destroy arguments and every lofty opinion raised against the knowledge of God, and take every thought captive to obey Christ."</p>
+        <div class="scripture-version">ESV</div>
+      </div>
+
+      <p>Prayer is God's gift, made possible by the mediating sacrifice of Jesus. It is the tool by which our thoughts — so prone to wander, to despair, to rehearse old wounds — are brought captive to the mind of God. When we pray for someone, we are not just speaking words into the air. We are positioning ourselves, and them, before the throne of grace.</p>
+
+      <p>So the question comes back: <em>I can do all things through Christ who strengthens me.</em> Are you letting Him? And are you part of the community that strengthens others — not through advice or fixing, but through the faithful, unglamorous work of prayer?</p>
+
+      <div class="art-rule"><div class="art-rule-dot"></div></div>
+
+      <div class="prayer-box">
+        <span class="lbl">A Prayer</span>
+        <p>Jesus,<br><br>
+        Thank you for removing the barrier between us and God through Your perfect sacrifice on the cross. Thank you that your strength is not reserved for the strong — that it comes to us precisely in our weakness, through the prayers of those who love us and the Spirit who intercedes when we have no words left.<br><br>
+        Teach us to stop performing Philippians 4:13 and to start living it — in dependence on You, and in faithful care for one another.</p>
+        <span class="amen">Amen.</span>
+      </div>
+
+    </div>
+
+    <!-- Sidebar -->
+    <aside class="sidebar fi fi-d2" aria-label="Related resources">
+      <div class="sidebar-card">
+        <h4>Scripture Referenced</h4>
+        <div class="sidebar-ref">
+          <a href="#">→ Philippians 4:13 (ESV)</a>
+          <a href="#">→ Philippians 2:12 (ESV)</a>
+          <a href="#">→ Galatians 6:2 (ESV)</a>
+          <a href="#">→ 2 Corinthians 10:5 (ESV)</a>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h4>About Haskell LIGHT</h4>
+        <p>Haskell LIGHT is LIM's campus ministry at Haskell Indian Nations University in Lawrence, Kansas — reaching Native college students with the Gospel and community rooted in Christ.</p>
+        <a href="index.html#haskell" class="btn btn-ol" style="width:100%;justify-content:center;font-size:.85rem;padding:.65rem 1rem;">Visit Haskell LIGHT →</a>
+      </div>
+
+      <div class="sidebar-series">
+        <h4>Devotional Series</h4>
+        <p>This post is part of an ongoing series from LIM's campus and healing ministries — short reflections rooted in scripture and real stories of transformation.</p>
+        <a href="index.html#blog" class="btn btn-olw" style="font-size:.85rem;padding:.65rem 1rem;">All Posts →</a>
+      </div>
+    </aside>
+
+  </div>
+</section>
+
+<!-- Bridge CTA -->
+<section id="bridge" aria-label="Healing groups bridge">
+  <div class="bridge-inner">
+    <div class="bridge-text">
+      <span class="lbl">Next Step</span>
+      <h2>Finding strength is the first step.<br>Finding healing is the next.</h2>
+      <p>My friend's freedom didn't come from a single moment of willpower. It came through <strong>community, prayer, and a safe place to be honest.</strong> That's exactly what our Healing the Wounds of Trauma groups are built on — scripture-rooted, facilitator-led, and open to anyone carrying the weight of the past.</p>
+      <div class="bridge-btns">
+        <a href="healing-groups.html" class="btn btn-red">Find a Healing Group →</a>
+        <a href="index.html#healing" class="btn btn-ol">Learn More</a>
+      </div>
+    </div>
+    <div class="bridge-verse">
+      <p>"Can you imagine what it would be like if all our communities could be that helper to one another — scripture-rooted, safe, not judging, not forcing? Just coming from that place of love and grace. That is what this is."</p>
+      <cite>— Roberta, Trained Facilitator · Healing the Wounds of Trauma</cite>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+  <div class="foot-inner">
+    <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    <div class="foot-links">
+      <a href="index.html">Home</a>
+      <a href="healing-groups.html">Healing Groups</a>
+      <a href="index.html#haskell">Haskell LIGHT</a>
+      <a href="index.html#blog">Blog</a>
+    </div>
+  </div>
+  <p class="foot-copy">&copy; 2026 Lutheran Indian Ministries · All rights reserved</p>
+</footer>
+
+<script>
+// Fade-in on scroll
+(function(){
+  var els=document.querySelectorAll('.fi');
+  if(!els.length)return;
+  var io=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('vis');}});
+  },{threshold:.12});
+  els.forEach(function(el){io.observe(el);});
+})();
+</script>
+</body>
+</html>

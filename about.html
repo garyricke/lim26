@@ -107,6 +107,25 @@
     .who-list li{display:flex;gap:.7rem;align-items:flex-start;color:var(--muted);line-height:1.65;font-size:.95rem}
     .who-list li svg{flex-shrink:0;margin-top:2px;color:var(--red)}
 
+    /* Essential Reading strip */
+    #essential{padding:3rem 1.5rem;background:var(--stone);border-top:1px solid var(--border)}
+    .er-inner{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:auto 1fr auto;gap:2.5rem;align-items:center}
+    .er-label-col{display:flex;flex-direction:column;align-items:flex-start;gap:.4rem;flex-shrink:0}
+    .er-badge{font-family:var(--cond);font-size:.7rem;font-weight:800;letter-spacing:.18em;text-transform:uppercase;color:#fff;background:var(--red);padding:.3rem .75rem;border-radius:4px;display:inline-block}
+    .er-pillar{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--sage-d)}
+    .er-card{display:flex;align-items:center;gap:1.5rem;background:#fff;border-radius:var(--rl);padding:1.25rem 1.5rem;box-shadow:var(--sh);text-decoration:none;transition:box-shadow var(--t),transform var(--t)}
+    .er-card:hover{box-shadow:var(--shm);transform:translateY(-1px)}
+    .er-card-img{width:90px;height:65px;border-radius:var(--r);overflow:hidden;flex-shrink:0}
+    .er-card-img img{width:100%;height:100%;object-fit:cover;object-position:center 20%}
+    .er-card-body{flex:1}
+    .er-card-cat{font-family:var(--cond);font-size:.7rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--red);margin-bottom:.3rem}
+    .er-card-title{font-family:var(--serif);font-size:1.02rem;color:var(--charcoal);line-height:1.3;margin-bottom:.3rem}
+    .er-card-sub{font-size:.82rem;color:var(--muted);line-height:1.5}
+    .er-card-arrow{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--red);flex-shrink:0;transition:transform var(--t)}
+    .er-card:hover .er-card-arrow{transform:translateX(4px)}
+    .er-divider{width:1px;height:60px;background:var(--border);flex-shrink:0}
+    @media(max-width:800px){.er-inner{grid-template-columns:1fr;gap:1rem}.er-divider{display:none}.er-card{width:100%}}
+
     /* Video Feature */
     #story-vid{padding:5rem 1.5rem;background:var(--charcoal)}
     .story-vid-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:center}
@@ -160,18 +179,27 @@
     /* Team */
     #team{padding:5rem 1.5rem;background:#fff}
     .team-hd{text-align:center;margin-bottom:3.5rem}
-    .team-sect-title{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);text-align:center;margin:2.5rem 0 1.5rem}
-    .team-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1.25rem}
-    .tm{background:var(--stone);border-radius:var(--rl);padding:1.5rem 1.25rem;text-align:center;transition:var(--t)}
-    .tm:hover{transform:translateY(-3px);box-shadow:var(--shm)}
-    .tm-av{width:72px;height:72px;border-radius:50%;background:var(--sky);margin:0 auto .85rem;display:flex;align-items:center;justify-content:center;color:var(--charcoal);font-family:var(--cond);font-size:1.4rem;font-weight:800}
-    .tm-name{font-family:var(--cond);font-size:1rem;font-weight:700;color:var(--charcoal);letter-spacing:.03em;margin-bottom:.25rem}
-    .tm-role{font-size:.8rem;color:var(--muted);line-height:1.5}
-    .tm-loc{font-family:var(--cond);font-size:.72rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--sage-d);margin-top:.4rem}
+    .team-sect-title{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);text-align:center;margin:3rem 0 1.75rem}
+    /* Photo cards — big portrait panels */
+    .team-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:1.5rem}
+    .tm{background:var(--charcoal);border-radius:var(--rl);overflow:hidden;transition:var(--t);display:flex;flex-direction:column}
+    .tm:hover{transform:translateY(-4px);box-shadow:var(--shl)}
+    .tm-photo{height:280px;overflow:hidden;position:relative;background:var(--stone)}
+    .tm-photo img{width:100%;height:100%;object-fit:cover;object-position:center 15%;display:block;transition:transform .5s ease}
+    .tm:hover .tm-photo img{transform:scale(1.04)}
+    /* Initials placeholder shown when no photo */
+    .tm-init{width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-family:var(--cond);font-size:3rem;font-weight:800;color:var(--charcoal);background:var(--sky)}
+    .tm-body{padding:1.25rem 1.4rem;flex:1}
+    .tm-name{font-family:var(--cond);font-size:1.05rem;font-weight:700;color:#fff;letter-spacing:.03em;margin-bottom:.3rem}
+    .tm-role{font-size:.82rem;color:rgba(255,255,255,.55);line-height:1.5}
+    .tm-loc{font-family:var(--cond);font-size:.7rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--yellow);margin-top:.5rem;opacity:.75}
+    .tm-bio{font-size:.8rem;color:rgba(255,255,255,.45);line-height:1.6;margin-top:.65rem;padding-top:.65rem;border-top:1px solid rgba(255,255,255,.08)}
+    /* Board — keep compact text-only */
     .board-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.75rem}
     .bm{background:rgba(178,172,136,.15);border:1px solid var(--border);border-radius:var(--r);padding:1rem 1.25rem}
     .bm-name{font-family:var(--cond);font-size:.95rem;font-weight:700;color:var(--charcoal)}
     .bm-loc{font-size:.8rem;color:var(--muted);margin-top:.2rem}
+    @media(max-width:600px){.tm-photo{height:240px}}
 
     /* Partner CTA */
     #partner{padding:5rem 1.5rem;background:#fff}
@@ -479,6 +507,28 @@
   </div>
 </section>
 
+<!-- Essential Reading -->
+<section id="essential" aria-label="Essential reading">
+  <div class="er-inner fi">
+    <div class="er-label-col">
+      <span class="er-badge">Essential Reading</span>
+      <span class="er-pillar">Pillar 01 — Proclaim</span>
+    </div>
+    <div class="er-divider" aria-hidden="true"></div>
+    <a href="blog-the-choice.html" class="er-card" aria-label="Read: The Choice: Native OR Christian?">
+      <div class="er-card-img">
+        <img src="generated_imgs/generated-2026-04-13T14-27-47-295Z-c3fldx.png" alt="Native man with drum in church" loading="lazy">
+      </div>
+      <div class="er-card-body">
+        <div class="er-card-cat">From the Blog</div>
+        <div class="er-card-title">The Choice: Native OR Christian?</div>
+        <div class="er-card-sub">For 500+ years, Native people were told to choose. This is the story of why that choice was always a lie — and what LIM does about it every day.</div>
+      </div>
+      <span class="er-card-arrow">Read →</span>
+    </a>
+  </div>
+</section>
+
 <!-- Watch Our Story -->
 <section id="story-vid" aria-label="About LIM video">
   <div class="story-vid-g wrap">
@@ -619,59 +669,108 @@
       <p class="intro" style="text-align:center;margin:0 auto">LIM is led by Native people and supported by partners who share a deep commitment to Native communities.</p>
     </div>
 
-    <div class="team-sect-title fi">Ministry Team</div>
-    <div class="team-g fi" style="transition-delay:.05s">
-      <div class="tm">
-        <div class="tm-av">PF</div>
-        <div class="tm-name">Pola Farve (Punchegun)</div>
-        <div class="tm-role">Haskell LIGHT Director</div>
-        <div class="tm-loc">Lawrence, KS</div>
-      </div>
-      <div class="tm">
-        <div class="tm-av">CM</div>
-        <div class="tm-name">Cheristine Mousseau</div>
-        <div class="tm-role">Ministry Team</div>
-        <div class="tm-loc">Lawrence, KS</div>
-      </div>
-      <div class="tm">
-        <div class="tm-av">SS</div>
-        <div class="tm-name">Suzette Shreffler</div>
-        <div class="tm-role">Ministry Team</div>
-        <div class="tm-loc">Busby, MT</div>
-      </div>
-      <div class="tm">
-        <div class="tm-av">RR</div>
-        <div class="tm-name">Roberta Richardson</div>
-        <div class="tm-role">Ministry Coordinator</div>
-        <div class="tm-loc">Anchorage, AK</div>
-      </div>
-      <div class="tm">
-        <div class="tm-av">EC</div>
-        <div class="tm-name">Esther Cetina</div>
-        <div class="tm-role">Ministry Team</div>
-        <div class="tm-loc">Anchorage, AK</div>
-      </div>
-    </div>
-
     <div class="team-sect-title fi">Administrative Team</div>
     <div class="team-g fi" style="transition-delay:.05s">
       <div class="tm">
-        <div class="tm-av" style="background:var(--charcoal);color:var(--yellow)">RH</div>
-        <div class="tm-name">Robert Heffle</div>
-        <div class="tm-role">Executive Director</div>
-        <div class="tm-loc">Yup'ik Eskimo · Brookfield, WI</div>
+        <div class="tm-photo">
+          <img
+            src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_440,h_560/lim2026/team-robert-v2"
+            srcset="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_440,h_560/lim2026/team-robert-v2 440w,
+                    https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_660,h_840/lim2026/team-robert-v2 660w"
+            sizes="(max-width:600px) calc(100vw - 3rem), 440px"
+            alt="Robert Heffle, Executive Director"
+            loading="lazy">
+        </div>
+        <div class="tm-body">
+          <div class="tm-name">Robert Heffle</div>
+          <div class="tm-role">Executive Director</div>
+          <div class="tm-loc">Yup'ik Eskimo · Brookfield, WI</div>
+        </div>
       </div>
       <div class="tm">
-        <div class="tm-av">AP</div>
-        <div class="tm-name">Angie Pantazon</div>
-        <div class="tm-role">Asst. Financial Officer</div>
-        <div class="tm-loc">Brookfield, WI</div>
+        <div class="tm-photo">
+          <img
+            src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_440,h_560/lim2026/team-jaylene-v2"
+            srcset="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_440,h_560/lim2026/team-jaylene-v2 440w,
+                    https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_660,h_840/lim2026/team-jaylene-v2 660w"
+            sizes="(max-width:600px) calc(100vw - 3rem), 440px"
+            alt="Jaylene Peterson-Nyren, Director of Operations"
+            loading="lazy">
+        </div>
+        <div class="tm-body">
+          <div class="tm-name">Jaylene Peterson-Nyren, MBA</div>
+          <div class="tm-role">Director of Operations</div>
+          <div class="tm-loc">Anchorage, AK</div>
+          <div class="tm-bio">Jaylene brings more than two decades of operational leadership and business strategy to LIM. A proud Alaska Native, she is deeply committed to strengthening the systems that allow Native-led ministry to reach every corner of the country — from small villages to urban centers.</div>
+        </div>
       </div>
       <div class="tm">
-        <div class="tm-av">RD</div>
-        <div class="tm-name">Rachel Doerner</div>
-        <div class="tm-role">Data Entry &amp; Mail</div>
-        <div class="tm-loc">Brookfield, WI</div>
+        <div class="tm-photo"><div class="tm-init">AP</div></div>
+        <div class="tm-body">
+          <div class="tm-name">Angie Pantazon</div>
+          <div class="tm-role">Asst. Financial Officer</div>
+          <div class="tm-loc">Brookfield, WI</div>
+        </div>
+      </div>
+      <div class="tm">
+        <div class="tm-photo"><div class="tm-init">RD</div></div>
+        <div class="tm-body">
+          <div class="tm-name">Rachel Doerner</div>
+          <div class="tm-role">Data Entry &amp; Mail</div>
+          <div class="tm-loc">Brookfield, WI</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="team-sect-title fi">Ministry Team</div>
+    <div class="team-g fi" style="transition-delay:.05s">
+      <div class="tm">
+        <div class="tm-photo">
+          <img
+            src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_440,h_560/lim2026/team-pola-farve"
+            srcset="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_440,h_560/lim2026/team-pola-farve 440w,
+                    https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_660,h_840/lim2026/team-pola-farve 660w"
+            sizes="(max-width:600px) calc(100vw - 3rem), 440px"
+            alt="Pola Farve, Haskell LIGHT Director"
+            loading="lazy">
+        </div>
+        <div class="tm-body">
+          <div class="tm-name">Pola Farve (Punchegun)</div>
+          <div class="tm-role">Haskell LIGHT Director</div>
+          <div class="tm-loc">Lawrence, KS</div>
+        </div>
+      </div>
+      <div class="tm">
+        <div class="tm-photo"><div class="tm-init">CM</div></div>
+        <div class="tm-body">
+          <div class="tm-name">Cheristine Mousseau</div>
+          <div class="tm-role">Ministry Team</div>
+          <div class="tm-loc">Lawrence, KS</div>
+        </div>
+      </div>
+      <div class="tm">
+        <div class="tm-photo"><div class="tm-init">SS</div></div>
+        <div class="tm-body">
+          <div class="tm-name">Suzette Shreffler</div>
+          <div class="tm-role">Ministry Team</div>
+          <div class="tm-loc">Busby, MT</div>
+        </div>
+      </div>
+      <div class="tm">
+        <div class="tm-photo"><div class="tm-init">RR</div></div>
+        <div class="tm-body">
+          <div class="tm-name">Roberta Richardson</div>
+          <div class="tm-role">Ministry Coordinator</div>
+          <div class="tm-loc">Anchorage, AK</div>
+        </div>
+      </div>
+      <div class="tm">
+        <div class="tm-photo"><div class="tm-init">EC</div></div>
+        <div class="tm-body">
+          <div class="tm-name">Esther Cetina</div>
+          <div class="tm-role">Ministry Team</div>
+          <div class="tm-loc">Anchorage, AK</div>
+        </div>
       </div>
     </div>
 
@@ -680,7 +779,7 @@
       <div class="bm"><div class="bm-name">Richard Baranzini</div><div class="bm-loc">Phoenix, AZ</div></div>
       <div class="bm"><div class="bm-name">Rev. Daniel Kempin</div><div class="bm-loc">Midland, MI</div></div>
       <div class="bm"><div class="bm-name">Daniel Novitch</div><div class="bm-loc">Merrill, WI</div></div>
-      <div class="bm"><div class="bm-name">Jaylene Peterson-Nyren</div><div class="bm-loc">Anchorage, AK</div></div>
+      <div class="bm"><div class="bm-name">Jaylene Peterson-Nyren, MBA</div><div class="bm-loc">Director of Operations · Anchorage, AK</div></div>
       <div class="bm"><div class="bm-name">Rev. Roger Stauffer</div><div class="bm-loc">Sanford, MI</div></div>
       <div class="bm"><div class="bm-name">Ted Kober</div><div class="bm-loc">Billings, MT</div></div>
     </div>
