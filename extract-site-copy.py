@@ -321,13 +321,13 @@ def render_md_clean(pages):
         # SEO
         seo_lines = []
         if p['doc_title']:
-            seo_lines.append(f"[{p['slug']}-meta-title]\n{p['doc_title']}")
+            seo_lines.append(f"[{p['slug']}-meta-title]\n\n{p['doc_title']}")
         if p['meta_desc']:
-            seo_lines.append(f"[{p['slug']}-meta-desc]\n{p['meta_desc']}")
+            seo_lines.append(f"[{p['slug']}-meta-desc]\n\n{p['meta_desc']}")
         if p['og_title'] and p['og_title'] != p['doc_title']:
-            seo_lines.append(f"[{p['slug']}-og-title]\n{p['og_title']}")
+            seo_lines.append(f"[{p['slug']}-og-title]\n\n{p['og_title']}")
         if p['og_desc'] and p['og_desc'] != p['meta_desc']:
-            seo_lines.append(f"[{p['slug']}-og-desc]\n{p['og_desc']}")
+            seo_lines.append(f"[{p['slug']}-og-desc]\n\n{p['og_desc']}")
         if seo_lines:
             out.append("### SEO & Browser\n")
             out.append("\n\n".join(seo_lines))
@@ -358,6 +358,7 @@ def render_md_clean(pages):
             out.append(f"\n### {kind_prefix}{pretty_label}\n")
             for r in recs:
                 out.append(f"[{r['id']}]")
+                out.append("")
                 out.append(r["text"])
                 out.append("")
     return "\n".join(out)
