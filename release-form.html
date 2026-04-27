@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Video & Photo Release — Lutheran Indian Ministries</title>
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+      --sage-d:#8a8665;--sky:#A2C2D1;--stone:#EBE9E4;
+      --muted:#5a5a52;--border:#d9d6ce;
+      --serif:'Merriweather',Georgia,serif;
+      --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --body:'Open Sans',system-ui,sans-serif;
+      --max:680px;--r:8px;--rl:14px;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.7;-webkit-text-size-adjust:100%}
+    a{color:var(--red);text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    /* Top bar */
+    #topbar{background:var(--charcoal);padding:.85rem 1.5rem;display:flex;align-items:center;justify-content:center}
+    #topbar img{height:38px}
+
+    /* Page */
+    .wrap{max-width:var(--max);margin:0 auto;padding:2.5rem 1.25rem 5rem}
+
+    /* Header */
+    .head{margin-bottom:2rem;text-align:center}
+    .eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.65rem;display:block}
+    h1{font-family:var(--serif);font-size:clamp(1.7rem,4.5vw,2.2rem);color:var(--charcoal);line-height:1.25;margin-bottom:.85rem}
+    .lead{font-size:1rem;color:var(--muted);line-height:1.75;max-width:560px;margin:0 auto}
+
+    /* Notice */
+    .notice{background:var(--yellow);border-radius:var(--r);padding:1rem 1.2rem;margin-bottom:2rem;font-size:.9rem;line-height:1.6;color:var(--charcoal)}
+    .notice strong{font-weight:700}
+
+    /* Form panel */
+    .panel{background:#fff;border:1px solid var(--border);border-radius:var(--rl);padding:1.75rem 1.6rem;box-shadow:0 4px 18px rgba(0,0,0,.06);margin-bottom:1.5rem}
+    .panel + .panel{margin-top:0}
+
+    .sec-title{font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--charcoal);background:var(--stone);padding:.55rem .85rem;border-radius:5px;margin-bottom:1.2rem}
+
+    /* Fields */
+    .field{margin-bottom:1.1rem}
+    .field:last-child{margin-bottom:0}
+    label{display:block;font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--charcoal);margin-bottom:.4rem}
+    label .req{color:var(--red);margin-left:.15em}
+    .hint{font-size:.82rem;color:var(--muted);margin-top:.35rem;line-height:1.55}
+    input[type=text], input[type=email], input[type=tel], input[type=date], textarea, select{
+      width:100%;font-family:var(--body);font-size:1rem;color:var(--charcoal);
+      background:#fff;border:1.5px solid var(--border);border-radius:6px;
+      padding:.7rem .85rem;outline:none;transition:border-color .15s,box-shadow .15s;
+    }
+    input:focus, textarea:focus, select:focus{border-color:var(--red);box-shadow:0 0 0 3px rgba(237,28,36,.12)}
+    textarea{min-height:90px;resize:vertical;line-height:1.6}
+    select{appearance:none;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'><path fill='%23282924' d='M6 8L0 0h12z'/></svg>");background-repeat:no-repeat;background-position:right 1rem center;padding-right:2.5rem}
+
+    /* Radio group (usage choice) */
+    .opt-group{display:flex;flex-direction:column;gap:.6rem;margin-top:.4rem}
+    .opt{position:relative;display:block;background:#fff;border:1.5px solid var(--border);border-radius:8px;padding:.95rem 1rem .95rem 2.6rem;cursor:pointer;transition:border-color .15s,background .15s}
+    .opt:hover{border-color:var(--sky)}
+    .opt input[type=radio]{position:absolute;opacity:0;pointer-events:none}
+    .opt::before{content:'';position:absolute;left:1rem;top:1.05rem;width:18px;height:18px;border-radius:50%;border:2px solid var(--border);background:#fff;transition:border-color .15s}
+    .opt::after{content:'';position:absolute;left:1.4rem;top:1.45rem;width:8px;height:8px;border-radius:50%;background:var(--red);opacity:0;transition:opacity .15s}
+    .opt input[type=radio]:checked ~ .opt-body::before{border-color:var(--red)}
+    .opt:has(input:checked){border-color:var(--red);background:#fef7f7}
+    .opt:has(input:checked)::before{border-color:var(--red)}
+    .opt:has(input:checked)::after{opacity:1}
+    .opt-title{font-family:var(--cond);font-size:.95rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--charcoal);display:block;margin-bottom:.2rem}
+    .opt-desc{font-size:.85rem;color:var(--muted);line-height:1.6}
+
+    /* Checkboxes */
+    .check{position:relative;padding-left:2rem;display:block;font-size:.92rem;line-height:1.6;color:var(--charcoal);cursor:pointer;margin-bottom:.7rem}
+    .check:last-child{margin-bottom:0}
+    .check input[type=checkbox]{position:absolute;opacity:0;pointer-events:none}
+    .check::before{content:'';position:absolute;left:0;top:.2rem;width:18px;height:18px;border-radius:4px;border:2px solid var(--border);background:#fff;transition:all .15s}
+    .check::after{content:'';position:absolute;left:5px;top:.4rem;width:8px;height:4px;border-left:2px solid #fff;border-bottom:2px solid #fff;transform:rotate(-45deg);opacity:0;transition:opacity .15s}
+    .check:has(input:checked)::before{background:var(--red);border-color:var(--red)}
+    .check:has(input:checked)::after{opacity:1}
+    .check strong{font-weight:700}
+
+    /* Signature */
+    .sig{font-family:var(--serif);font-style:italic;font-size:1.4rem;padding:.85rem 1rem !important;background:#fdfcf7 !important}
+
+    /* Submit */
+    .submit-row{display:flex;flex-direction:column;gap:.85rem;margin-top:1.5rem}
+    .btn{display:inline-flex;justify-content:center;align-items:center;font-family:var(--cond);font-size:1.05rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.95rem 1.5rem;border-radius:8px;cursor:pointer;border:none;transition:transform .12s,background .12s}
+    .btn-primary{background:var(--red);color:#fff}
+    .btn-primary:hover{background:#c91720;transform:translateY(-1px)}
+    .btn:disabled{opacity:.5;cursor:not-allowed;transform:none}
+
+    .footnote{font-size:.78rem;color:var(--muted);text-align:center;line-height:1.65;margin-top:2rem}
+    .footnote a{color:var(--muted)}
+
+    /* Success state */
+    #success{display:none;background:#fff;border:1px solid var(--border);border-radius:var(--rl);padding:2.5rem 1.75rem;text-align:center;box-shadow:0 4px 18px rgba(0,0,0,.06)}
+    #success.shown{display:block}
+    #success h2{font-family:var(--serif);font-size:1.5rem;color:var(--charcoal);margin-bottom:.85rem}
+    #success p{color:var(--muted);font-size:.95rem;line-height:1.7;margin-bottom:.75rem}
+    #success .check-icon{width:64px;height:64px;border-radius:50%;background:#eaf3ec;color:#2d6e3f;font-size:2rem;display:flex;align-items:center;justify-content:center;margin:0 auto 1.25rem}
+
+    .hp{position:absolute;left:-9999px;width:1px;height:1px}
+
+    @media(max-width:540px){
+      .panel{padding:1.4rem 1.2rem}
+      .wrap{padding:2rem 1rem 4rem}
+    }
+  </style>
+</head>
+<body>
+
+<div id="topbar">
+  <a href="https://lim2026.netlify.app"><img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries"></a>
+</div>
+
+<div class="wrap">
+
+  <div class="head">
+    <span class="eyebrow">Permission Form</span>
+    <h1>Video &amp; Photo Release</h1>
+    <p class="lead">Thank you for sharing your story with Lutheran Indian Ministries. Before we use your video or photo, we need your written permission. This takes about two minutes.</p>
+  </div>
+
+  <div class="notice">
+    <strong>You're in control.</strong> You decide how your story is used — publicly, internally only, or not at all. You can also withdraw permission at any time by emailing <a href="mailto:info@lutheranindianministries.org">info@lutheranindianministries.org</a>.
+  </div>
+
+  <!-- Hidden static form for Netlify form detection -->
+  <form name="video-release" netlify netlify-honeypot="bot-field" hidden>
+    <input type="text" name="full-name">
+    <input type="email" name="email">
+    <input type="tel" name="phone">
+    <input type="text" name="location">
+    <input type="text" name="tribal-affiliation">
+    <input type="date" name="recording-date">
+    <input type="text" name="event-name">
+    <textarea name="recording-description"></textarea>
+    <input type="radio" name="usage-permission" value="public">
+    <input type="radio" name="usage-permission" value="internal">
+    <input type="radio" name="usage-permission" value="none">
+    <input type="checkbox" name="confirm-age">
+    <input type="checkbox" name="confirm-voluntary">
+    <input type="checkbox" name="confirm-likeness">
+    <input type="checkbox" name="confirm-no-compensation">
+    <input type="text" name="signature">
+    <input type="date" name="signed-date">
+  </form>
+
+  <form id="release-form" name="video-release" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/release-form.html?ok=1">
+    <input type="hidden" name="form-name" value="video-release">
+    <p class="hp"><label>Don't fill this out: <input name="bot-field"></label></p>
+
+    <!-- About you -->
+    <div class="panel">
+      <div class="sec-title">About You</div>
+
+      <div class="field">
+        <label for="full-name">Full Name <span class="req">*</span></label>
+        <input id="full-name" type="text" name="full-name" required autocomplete="name">
+        <div class="hint">Please use your full legal name as you'd like it to appear in any captions or credits.</div>
+      </div>
+
+      <div class="field">
+        <label for="email">Email Address <span class="req">*</span></label>
+        <input id="email" type="email" name="email" required autocomplete="email">
+        <div class="hint">We'll send you a copy of this signed release.</div>
+      </div>
+
+      <div class="field">
+        <label for="phone">Phone Number</label>
+        <input id="phone" type="tel" name="phone" autocomplete="tel">
+        <div class="hint">Optional — only used if we have a question about your release.</div>
+      </div>
+
+      <div class="field">
+        <label for="location">City / Village / Community <span class="req">*</span></label>
+        <input id="location" type="text" name="location" required>
+      </div>
+
+      <div class="field">
+        <label for="tribal-affiliation">Tribal Affiliation <em style="font-weight:400;text-transform:none;letter-spacing:0;color:var(--muted)">(if you'd like it included)</em></label>
+        <input id="tribal-affiliation" type="text" name="tribal-affiliation">
+      </div>
+    </div>
+
+    <!-- About the recording -->
+    <div class="panel">
+      <div class="sec-title">About the Recording</div>
+
+      <div class="field">
+        <label for="recording-date">Date of Recording <span class="req">*</span></label>
+        <input id="recording-date" type="date" name="recording-date" required>
+      </div>
+
+      <div class="field">
+        <label for="event-name">Event or Healing Group <span class="req">*</span></label>
+        <input id="event-name" type="text" name="event-name" placeholder="e.g. Fort Wainwright Healing Group, March 2026" required>
+      </div>
+
+      <div class="field">
+        <label for="recording-description">Brief Description</label>
+        <textarea id="recording-description" name="recording-description" placeholder="A short description of what was recorded — e.g. an interview after a healing group session, a testimony, etc."></textarea>
+      </div>
+    </div>
+
+    <!-- Permission level -->
+    <div class="panel">
+      <div class="sec-title">How May We Use Your Video?</div>
+      <p style="font-size:.92rem;color:var(--muted);margin-bottom:1rem;line-height:1.65">Choose the option that best matches what you're comfortable with. You can change your mind anytime by emailing us.</p>
+
+      <div class="opt-group">
+        <label class="opt">
+          <input type="radio" name="usage-permission" value="public" required>
+          <span class="opt-title">Yes — Public Use</span>
+          <span class="opt-desc">LIM may share my video on the website, social media, donor materials, and other public communications.</span>
+        </label>
+
+        <label class="opt">
+          <input type="radio" name="usage-permission" value="internal" required>
+          <span class="opt-title">Internal Use Only</span>
+          <span class="opt-desc">LIM may use my video for staff training, board recruitment, and partner-church previews — but please do not publish it publicly.</span>
+        </label>
+
+        <label class="opt">
+          <input type="radio" name="usage-permission" value="none" required>
+          <span class="opt-title">No — Please Do Not Use</span>
+          <span class="opt-desc">I'd prefer that LIM not use my video. Please delete the recording.</span>
+        </label>
+      </div>
+    </div>
+
+    <!-- Acknowledgements -->
+    <div class="panel">
+      <div class="sec-title">Acknowledgements</div>
+      <p style="font-size:.9rem;color:var(--muted);margin-bottom:1.1rem;line-height:1.65">Please check each box to confirm you understand and agree:</p>
+
+      <label class="check">
+        <input type="checkbox" name="confirm-age" required value="yes">
+        I am <strong>18 years of age or older</strong>, or I am the parent/legal guardian of the person being recorded.
+      </label>
+
+      <label class="check">
+        <input type="checkbox" name="confirm-voluntary" required value="yes">
+        I am giving this permission <strong>freely and voluntarily</strong>, without pressure or expectation of payment.
+      </label>
+
+      <label class="check">
+        <input type="checkbox" name="confirm-likeness" required value="yes">
+        I grant Lutheran Indian Ministries the right to <strong>edit, copy, and use my image, voice, name, and recorded statements</strong> in accordance with the permission level I selected above.
+      </label>
+
+      <label class="check">
+        <input type="checkbox" name="confirm-no-compensation" required value="yes">
+        I understand I will <strong>not receive payment</strong> for the use of my video, and that I may withdraw this permission in writing at any time by emailing <a href="mailto:info@lutheranindianministries.org">info@lutheranindianministries.org</a>.
+      </label>
+    </div>
+
+    <!-- Signature -->
+    <div class="panel">
+      <div class="sec-title">Signature</div>
+
+      <div class="field">
+        <label for="signature">Type Your Full Name to Sign <span class="req">*</span></label>
+        <input id="signature" class="sig" type="text" name="signature" required autocomplete="off" placeholder="Your full name">
+        <div class="hint">By typing your name above, you are providing your electronic signature, which has the same legal effect as a handwritten signature.</div>
+      </div>
+
+      <div class="field">
+        <label for="signed-date">Today's Date <span class="req">*</span></label>
+        <input id="signed-date" type="date" name="signed-date" required>
+      </div>
+
+      <div class="submit-row">
+        <button type="submit" class="btn btn-primary">Submit Release</button>
+      </div>
+    </div>
+  </form>
+
+  <!-- Success message (shown after submission via ?ok=1) -->
+  <div id="success">
+    <div class="check-icon">✓</div>
+    <h2>Thank you</h2>
+    <p>Your release has been received. We're grateful you trusted us with your story.</p>
+    <p>A copy will be emailed to you. If you have any questions or change your mind, you can contact us anytime at <a href="mailto:info@lutheranindianministries.org">info@lutheranindianministries.org</a>.</p>
+    <p style="margin-top:1.75rem"><a href="https://lim2026.netlify.app" style="color:var(--red);font-family:var(--cond);font-weight:700;letter-spacing:.05em;text-transform:uppercase;font-size:.92rem">Visit the LIM Website →</a></p>
+  </div>
+
+  <p class="footnote">
+    <a href="https://lim2026.netlify.app">Lutheran Indian Ministries</a>
+    &nbsp;·&nbsp; A Native-led 501(c)(3) ministry &nbsp;·&nbsp; Since 1985<br>
+    Questions about this form? Email <a href="mailto:info@lutheranindianministries.org">info@lutheranindianministries.org</a>
+  </p>
+
+</div>
+
+<script>
+  // Default the signed-date and recording-date to today
+  (function(){
+    var today = new Date().toISOString().slice(0,10);
+    var sd = document.getElementById('signed-date');
+    var rd = document.getElementById('recording-date');
+    if(sd && !sd.value) sd.value = today;
+    if(rd && !rd.value) rd.value = today;
+  })();
+
+  // Show the success panel if returning from a successful submit
+  (function(){
+    if(/[?&]ok=1\b/.test(location.search)){
+      var f = document.getElementById('release-form');
+      var s = document.getElementById('success');
+      if(f) f.style.display = 'none';
+      if(s) s.classList.add('shown');
+      // Clean the URL so a refresh doesn't re-show success forever
+      if(history.replaceState) history.replaceState({},'',location.pathname);
+      window.scrollTo({top:0,behavior:'smooth'});
+    }
+  })();
+</script>
+
+</body>
+</html>
