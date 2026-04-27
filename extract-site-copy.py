@@ -296,6 +296,72 @@ def render_md(pages):
             out.append("")
     return "\n".join(out)
 
+def render_md_clean(pages):
+    """Stripped-down version: just IDs and copy text, organized by page and section. Easier reading for reviewers."""
+    out = []
+    out.append("# LIM 2026 — Site Copy for Review (Clean)\n")
+    out.append("All customer-facing copy on the site, page by page. Each block is preceded by an ID like `[idx-001]`.\n")
+    out.append("## How to make edits\n")
+    out.append("1. **Do NOT change anything inside square brackets** like `[idx-001]`. These IDs let us locate each piece of copy back in the source.\n")
+    out.append("2. To edit, change the line beneath the ID. Keep the ID exactly as it is.\n")
+    out.append("3. To delete a block, leave the ID in place and write `[DELETE]` beneath it (or strike it through with track changes).\n")
+    out.append("4. To add a new block in a section, write `[NEW]` on its own line and the new copy beneath. We'll insert it.\n")
+    out.append("5. Send the doc back when done — we'll apply every change.\n")
+    out.append("\n---\n")
+
+    out.append("## Table of Contents\n")
+    for p in pages:
+        anchor = re.sub(r"[^a-z0-9]+","-", p["title"].lower()).strip("-")
+        out.append(f"- [{p['title']}](#{anchor})")
+    out.append("")
+
+    for p in pages:
+        out.append(f"\n---\n\n## {p['title']}\n")
+
+        # SEO
+        seo_lines = []
+        if p['doc_title']:
+            seo_lines.append(f"[{p['slug']}-meta-title]\n{p['doc_title']}")
+        if p['meta_desc']:
+            seo_lines.append(f"[{p['slug']}-meta-desc]\n{p['meta_desc']}")
+        if p['og_title'] and p['og_title'] != p['doc_title']:
+            seo_lines.append(f"[{p['slug']}-og-title]\n{p['og_title']}")
+        if p['og_desc'] and p['og_desc'] != p['meta_desc']:
+            seo_lines.append(f"[{p['slug']}-og-desc]\n{p['og_desc']}")
+        if seo_lines:
+            out.append("### SEO & Browser\n")
+            out.append("\n\n".join(seo_lines))
+            out.append("")
+
+        order = []
+        groups = {}
+        for r in p["records"]:
+            key = r["section"]
+            if key not in groups:
+                groups[key] = []
+                order.append(key)
+            groups[key].append(r)
+
+        for sect in order:
+            recs = groups[sect]
+            kind, _, label = sect.partition("#")
+            if kind == "modal" and label.startswith("m-"):
+                label = label[2:]
+            pretty_label = label.replace("-"," ").replace("_"," ").strip().title() or kind.title()
+            pretty_label = re.sub(r"\bLim\b", "LIM", pretty_label)
+            kind_prefix = {
+                "section":"", "article":"", "main":"",
+                "header":"Header — ", "footer":"Footer — ",
+                "nav":"Nav — ", "aside":"Sidebar — ", "dialog":"Modal — ",
+                "modal":"Modal — ", "(other)":"Other — ",
+            }.get(kind, kind.title()+" — ")
+            out.append(f"\n### {kind_prefix}{pretty_label}\n")
+            for r in recs:
+                out.append(f"[{r['id']}]")
+                out.append(r["text"])
+                out.append("")
+    return "\n".join(out)
+
 def main():
     all_pages = []
     sidecar = {"pages": []}
@@ -307,12 +373,16 @@ def main():
             "records": p["records"],
         })
     md = render_md(all_pages)
+    md_clean = render_md_clean(all_pages)
     out_md = os.path.join(REPO, "site-copy.md")
+    out_md_clean = os.path.join(REPO, "site-copy-clean.md")
     out_json = os.path.join(REPO, "site-copy.map.json")
     open(out_md, "w", encoding="utf-8").write(md)
+    open(out_md_clean, "w", encoding="utf-8").write(md_clean)
     open(out_json, "w", encoding="utf-8").write(json.dumps(sidecar, indent=2, ensure_ascii=False))
     total = sum(len(p["records"]) for p in all_pages)
     print(f"Wrote {out_md}  ({total} copy blocks across {len(all_pages)} pages)")
+    print(f"Wrote {out_md_clean}  (clean version)")
     print(f"Wrote {out_json}")
 
 if __name__ == "__main__":

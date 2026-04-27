@@ -1,0 +1,2900 @@
+# LIM 2026 — Site Copy for Review (Clean)
+
+All customer-facing copy on the site, page by page. Each block is preceded by an ID like `[idx-001]`.
+
+## How to make edits
+
+1. **Do NOT change anything inside square brackets** like `[idx-001]`. These IDs let us locate each piece of copy back in the source.
+
+2. To edit, change the line beneath the ID. Keep the ID exactly as it is.
+
+3. To delete a block, leave the ID in place and write `[DELETE]` beneath it (or strike it through with track changes).
+
+4. To add a new block in a section, write `[NEW]` on its own line and the new copy beneath. We'll insert it.
+
+5. Send the doc back when done — we'll apply every change.
+
+
+---
+
+## Table of Contents
+
+- [Homepage](#homepage)
+- [About LIM](#about-lim)
+- [Healing Groups](#healing-groups)
+- [Blog: I Can Do All Things (Philippians)](#blog-i-can-do-all-things-philippians)
+- [Blog: The Choice](#blog-the-choice)
+- [Blog: Discovering Identity (Bev)](#blog-discovering-identity-bev)
+- [Blog: Military Healing Group (March 2026)](#blog-military-healing-group-march-2026)
+
+
+---
+
+## Homepage
+
+### SEO & Browser
+
+[idx-meta-title]
+Lutheran Indian Ministries — Where Faith Meets Tradition
+
+[idx-meta-desc]
+Lutheran Indian Ministries is a Native-led ministry proclaiming the Gospel, discipling Native leaders, and healing generations of trauma across 574 tribal communities.
+
+
+### Nav — Main Navigation
+
+[idx-001]
+About
+
+[idx-002]
+Mission & Vision
+
+[idx-003]
+Who We Are
+
+[idx-004]
+Our Team
+
+[idx-005]
+Stories
+
+[idx-006]
+What We Do
+
+[idx-007]
+Healing Groups
+
+[idx-008]
+Find a Group
+
+[idx-009]
+Haskell LIGHT
+
+[idx-010]
+Stories
+
+[idx-011]
+Videos
+
+[idx-012]
+Blog
+
+[idx-013]
+Donate
+
+
+### Hero
+
+[idx-014]
+Where Faith Meets Culture and Tradition. Where Christ-Centered Healing Begins.
+
+[idx-015]
+A Native-led ministry sharing the Gospel, training leaders, and healing generations of trauma across 574 tribal communities.
+
+[idx-016]
+Find a Healing Group
+
+[idx-017]
+Partner With Us
+
+[idx-018]
+Watch Our Story
+
+
+### About LIM
+
+[idx-019]
+God Is Building Something Lasting
+
+[idx-020]
+"There is a place where faith meets tradition, where God's healing touches the deepest wounds, and where hope rises from generations of silence. That place… is Lutheran Indian Ministries."
+
+[idx-021]
+— Robert Heffle, Executive Director (Iñupiat Eskimo)
+
+[idx-022]
+Our mission is to share the Gospel of Jesus Christ with Native people — training Native leaders and supporting healing. We are led by Native people who know the stories, the traditions, the culture, and the humor.
+
+[idx-023]
+We don't show up with answers. We arrive with open hearts, traveling by small plane, boat, and snowmachine — by invitation, following tribal customs and showing deep respect.
+
+[idx-024]
+Our Mission & Vision
+
+[idx-025]
+Our Three Pillars
+
+
+### Three Pillars Of Ministry
+
+[idx-026]
+Three Pillars of Ministry
+
+[idx-027]
+LIM's work rests on three core commitments. Each one supports the others.
+
+
+### Article
+
+[idx-028]
+Proclaim
+
+[idx-029]
+Sharing the Gospel in ways rooted in Native culture — honoring Native traditions as vessels of God's grace. God speaks to Native hearts in Native ways.
+
+[idx-030]
+Learn More
+
+[idx-031]
+Disciple
+
+[idx-032]
+Developing Native leaders through campus ministry at Haskell Indian Nations University — a home away from home for students from 130+ tribes.
+
+[idx-033]
+Learn More
+
+[idx-034]
+Heal
+
+[idx-035]
+Healing the Wounds of Trauma — a Bible-based program for deep wounds: grief, loss, and pain passed down through generations. Held in the safety of community.
+
+[idx-036]
+Learn More
+
+[idx-078]
+I got to let go of hurts and disappointments from my entire life. And talk about freedom. I feel so much lighter — not shackled anymore. I'm so thankful I said yes. I wish I could have done this decades ago.
+
+[idx-079]
+"This was the first time I felt God's Word speak to my pain." We don't promise quick fixes — but we create safe spaces where people can gather, share, and heal while holding onto hope that only God's Word can give.
+
+[idx-080]
+Can you imagine what it would be like if all our communities could be that helper to one another — scripture-rooted, safe, not judging, not forcing? Just coming from that place of love and grace. That is what this is.
+
+
+### Healing The Wounds Of Trauma
+
+[idx-037]
+Healing the Wounds of Trauma
+
+[idx-038]
+A Bible-based small group program led by Native facilitators and supported by prayer warriors. Open to everyone 18 and older. No faith background needed.
+
+[idx-039]
+No pressure, no force. You come as you are and leave when the time is right. The Holy Spirit does the heavy lifting.
+
+[idx-040]
+I got to let go of hurts and disappointments that I've experienced in my entire life. And talk about freedom. Oh, the freedom. I have a hard time putting into words how you feel so much lighter — how you feel so not shackled anymore.
+
+[idx-041]
+— Roberta (Kitirak), Ministry Coordinator & Healing Group Participant Anchorage, Alaska
+
+[idx-042]
+What Happens in a Healing Group?
+
+[idx-043]
+Six core sessions over 16 hours walk participants through scripture and personal reflection. Each session builds on the last.
+
+[idx-044]
+1 What Is a Wound of the Heart?
+
+[idx-045]
+Heart wounds can begin in childhood, young adulthood, or today. This session helps participants name and understand their wounds — from abuse and loss to historical trauma. Naming the wound is the first step toward healing it.
+
+[idx-046]
+2 What Can Help Our Heart Wounds Heal?
+
+[idx-047]
+Practical, Bible-based tools for the healing journey. Participants discover that healing is supported by community, prayer, and God's Word. Exercises move learning from the head to the heart — where lasting change happens.
+
+[idx-048]
+3 What Happens When Someone Is Grieving?
+
+[idx-049]
+A compassionate look at what grief looks like — and where people get stuck. When Roberta learned that Jesus wept , it gave her permission to feel. Understanding grief — and knowing you don't have to stay stuck — is deeply freeing.
+
+[idx-050]
+4 If God Loves Us, Why Do We Suffer?
+
+[idx-051]
+Perhaps the most honest question we carry. This session doesn't avoid it — scripture shows that God is present in suffering, not absent from it. Your pain is not a sign God has left you. He weeps with you.
+
+[idx-052]
+5 Bringing Our Pain to the Cross & Forgiving Others
+
+[idx-053]
+One of the most powerful — and most difficult — sessions. Participants are gently led through releasing pain and beginning the journey of forgiving others. There is no force, no timeline. You go only where you are ready to go, supported by the community around you.
+
+[idx-054]
+6 Looking Back, Looking Forward — Closing with Hope
+
+[idx-055]
+The closing session brings everything together — looking back at the journey and forward with hope. Participants also begin seeing how they can share this with their own communities. The healing group is not a one-and-done; it's the beginning of a lifelong journey.
+
+[idx-056]
+Over 390 scriptures woven throughout all six sessions using the Restoring Hope Bible.
+
+[idx-057]
+✦ What Is a Prayer Warrior? How Is Prayer Woven Into Every Session?
+
+[idx-058]
+A Prayer Warrior has been through the healing group. They want to support others — not as a facilitator, but through prayer. They pray before, during, and after every session — for every participant, those who couldn't make it, and the facilitators.
+
+[idx-059]
+No one is missed. Prayer Warriors are also available one-on-one: if someone needs to talk outside the group, a Prayer Warrior is there. Every healing group is covered in prayer before it begins.
+
+[idx-060]
+Ready to Begin?
+
+[idx-061]
+Sessions held on reservations, in villages, in cities. In-person and online. Lunch provided at in-person sessions. All are welcome — no faith background required.
+
+[idx-062]
+Find a Healing Group
+
+[idx-063]
+Become a Facilitator
+
+
+### Other — Other
+
+[idx-064]
+Proclaim · Disciple · Heal
+
+
+### Haskell Light Campus Ministry
+
+[idx-065]
+Haskell LIGHT
+
+[idx-066]
+At Haskell Indian Nations University in Lawrence, Kansas — home to students from 130+ tribes — our campus ministry center is more than a gathering place. It's a home away from home.
+
+[idx-067]
+Leo is Keetowah Cherokee and Western Shoshone. One day he asked Pola for a Bible — and shared it on social media. Leo began reading and didn't stop. Today, Leo is walking a new path, guided by faith.
+
+[idx-068]
+Students come for meals and quilts, but stay for something deeper. A Bible study. A conversation. A reminder: "You don't have to change to be loved by God."
+
+[idx-069]
+♀ Sister 2 Sister — Women's Ministry
+
+[idx-070]
+A safe circle for Native women students to share, pray, and grow together. Sister 2 Sister builds deep trust through shared faith and culture — reminding each woman she is seen, known, and loved.
+
+[idx-071]
+♂ Real Warriors — Men's Ministry
+
+[idx-072]
+Real Warriors redefines strength for Native men — rooting true warrior identity in faith, responsibility, and community. A space to be honest, vulnerable, and held accountable in love.
+
+[idx-073]
+★ Champions in Training — All Students
+
+[idx-074]
+Leadership development rooted in biblical principles for all Haskell students. What starts as comfort becomes a calling — and we walk with students every step of the way.
+
+[idx-075]
+Support Haskell LIGHT
+
+[idx-076]
+Give to Campus Ministry
+
+
+### Stories Of Transformation
+
+[idx-077]
+Stories of Transformation
+
+
+### Video Library
+
+[idx-081]
+Videos
+
+
+### From The Field
+
+[idx-082]
+Stories & Updates
+
+[idx-083]
+I Can Do All Things Philippians 4:13
+
+[idx-084]
+If you are like me, you can recite this verse — but in real life, find yourself far from being able "to do all things." A devotional on what changes when we stop performing strength and start receiving it.
+
+[idx-085]
+The Choice: Native OR Christian?
+
+[idx-086]
+For more than 500 years, Native Americans were told they had to choose. A letter from a Seminole man in prison — and one man's drum — show why that choice was always a lie.
+
+[idx-087]
+Discovering My True Identity in Christ
+
+[idx-088]
+Beverly Heyano — Tanqik, "brightness" — drank from age 10 to 38. Twenty-seven years later, she shares what she found in God's Word that alcohol could never give her.
+
+[idx-089]
+When Healing Becomes Real
+
+[idx-090]
+Four soldiers shared what happened inside — in their own words. Hear how God's Word moved through a military healing group.
+
+
+### How You Can Help
+
+[idx-091]
+How Can We Walk Together?
+
+[idx-092]
+Are You Seeking Healing?
+
+[idx-093]
+You don't have to carry this alone. Healing Groups are open, safe, and led by people who understand the journey from the inside.
+
+[idx-094]
+Free to attend — ages 18+
+
+[idx-095]
+No faith background required
+
+[idx-096]
+In-person and online options
+
+[idx-097]
+Held on reservations, in villages and cities
+
+[idx-098]
+Lunch provided at in-person sessions
+
+[idx-099]
+Confidential and community-supported
+
+[idx-100]
+Find a Healing Group →
+
+[idx-101]
+Ready to Support the Mission?
+
+[idx-102]
+Your partnership makes it possible for LIM to reach every tribe, train every facilitator, and hold every healing group.
+
+[idx-103]
+Monthly giving funds year-round ministry
+
+[idx-104]
+One-time gifts fund specific programs
+
+[idx-105]
+Gifts of stock, IRA, and DAFs welcomed
+
+[idx-106]
+3-Star Charity Navigator rated
+
+[idx-107]
+GuideStar Platinum transparency
+
+[idx-108]
+Every gift is tax-deductible
+
+[idx-109]
+Give Now
+
+[idx-110]
+Ways to Give
+
+
+### Footer — Footer
+
+[idx-111]
+A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
+
+[idx-112]
+Ministry
+
+[idx-113]
+Three Pillars
+
+[idx-114]
+Healing Wounds of Trauma
+
+[idx-115]
+Haskell LIGHT
+
+[idx-116]
+About LIM
+
+[idx-117]
+Get Involved
+
+[idx-118]
+Find a Healing Group
+
+[idx-119]
+Become a Facilitator
+
+[idx-120]
+Donate
+
+[idx-121]
+Ways to Give
+
+[idx-122]
+Contact
+
+[idx-123]
+(262) 439-5663
+
+[idx-124]
+(262) 783-5267
+
+[idx-125]
+Email LIM
+
+[idx-126]
+Official Website
+
+[idx-127]
+Brand Guide
+
+[idx-128]
+Developer Docs
+
+[idx-129]
+Video Interview Guide
+
+[idx-130]
+Video Release Form
+
+[idx-131]
+Session Feedback
+
+[idx-132]
+© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · All Rights Reserved
+
+
+### Modal — Donate
+
+[idx-133]
+Partner With Us
+
+[idx-134]
+✕
+
+[idx-135]
+One-Time
+
+[idx-136]
+Monthly Most Impact
+
+[idx-137]
+$25
+
+[idx-138]
+$50
+
+[idx-139]
+$100
+
+[idx-140]
+$250
+
+[idx-141]
+Other amount
+
+[idx-142]
+$100 sponsors a full healing group participant — all 6 sessions, rooted in God's Word.
+
+[idx-143]
+First Name *
+
+[idx-144]
+First
+
+[idx-145]
+Last Name *
+
+[idx-146]
+Last
+
+[idx-147]
+Email *
+
+[idx-148]
+you@example.com
+
+[idx-149]
+Dedicate this gift (in honor or memory of someone)
+
+[idx-150]
+In honor / memory of…
+
+[idx-151]
+Give $100 Now
+
+[idx-152]
+Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
+
+[idx-153]
+Thank You!
+
+[idx-154]
+Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.
+
+[idx-155]
+Close
+
+
+### Modal — Our Story Video
+
+[idx-156]
+✕
+
+
+### Modal — About
+
+[idx-157]
+Our Mission & Vision
+
+[idx-158]
+✕
+
+[idx-159]
+Our Mission
+
+[idx-160]
+Lutheran Indian Ministries shares the Gospel of Jesus Christ with Native people, encouraging them to proclaim Christ's Kingdom. We train Native leaders, nurture healing, and witness Christ-centered growth.
+
+[idx-161]
+Our Vision
+
+[idx-162]
+That one day, all nations will walk together in the light of Christ — restored, thriving, and sharing the cultural heritage God gave them.
+
+[idx-163]
+Core Belief
+
+[idx-164]
+All healing comes from God. Love is an action, not just an emotion. We listen before we speak, walk beside, and build relationships rooted in trust — not transactions.
+
+[idx-165]
+Native Led
+
+[idx-166]
+LIM is led by Native people who know the stories, the traditions, the culture, and the humor. With 574 federally recognized tribes in the U.S. — 229 in Alaska alone — we travel by small plane, boat, and snowmachine to reach every community God calls us to serve.
+
+[idx-167]
+Our Three Pillars
+
+[idx-168]
+Partner With Us
+
+
+### Modal — Proclaim
+
+[idx-169]
+Pillar 01 — Proclaim
+
+[idx-170]
+✕
+
+[idx-171]
+The Gospel in Native Voices
+
+[idx-172]
+We share the Gospel in ways that fit Native culture — through oral tradition, storytelling, and images that speak to how Native people understand the world.
+
+[idx-173]
+Christ, the Bridge
+
+[idx-174]
+LIM's conviction: God speaks in Native tongues to Native hearts. Faith in Christ does not require abandoning Indigenous identity. Native traditions are vessels of God's grace — not obstacles to faith.
+
+[idx-175]
+How We Proclaim
+
+[idx-176]
+Outreach visits by invitation, guided by tribal customs and deep respect
+
+[idx-177]
+Traveling by small plane, boat, and snowmachine to reach remote communities
+
+[idx-178]
+Sacred Connections Podcast — sharing the Gospel through story
+
+[idx-179]
+Partnership with local churches and Native leaders across 574 tribes
+
+[idx-180]
+Support Gospel Outreach
+
+
+### Modal — Disciple
+
+[idx-181]
+Pillar 02 — Disciple
+
+[idx-182]
+✕
+
+[idx-183]
+Haskell LIGHT Campus Ministry
+
+[idx-184]
+At Haskell Indian Nations University in Lawrence, Kansas — the only federally operated tribal university in the country — our campus ministry serves students from more than 130 tribes. Students come for meals and quilts, but stay for something deeper.
+
+[idx-185]
+Leo's Story
+
+[idx-186]
+Leo is Keetowah Cherokee and Western Shoshone. He visited our campus center and met Pola Farve — Haskell LIGHT Director and a Haskell graduate herself. One day, Leo asked Pola for a Bible. Touched by the moment, he shared it on social media. Leo began reading — and didn't stop. Today, Leo walks a new path, guided by faith.
+
+[idx-187]
+Campus Programs
+
+[idx-188]
+Sister 2 Sister — Faith and belonging for Native women
+
+[idx-189]
+Real Warriors — Biblical leadership and brotherhood for Native men
+
+[idx-190]
+Champions in Training — Leadership for all students
+
+[idx-191]
+Home-cooked meals, quilts, Bible study, and one-on-one discipleship
+
+[idx-192]
+Support Haskell LIGHT
+
+
+### Modal — Heal
+
+[idx-193]
+Pillar 03 — Heal
+
+[idx-194]
+✕
+
+[idx-195]
+Healing the Wounds of Trauma
+
+[idx-196]
+For generations, Native communities have carried deep wounds — from boarding schools, family separation, and abuse. Healing the Wounds of Trauma addresses these wounds directly through scripture, community, and the love of God.
+
+[idx-197]
+The Program
+
+[idx-198]
+16 hours across 2–3 days, 6 core sessions
+
+[idx-199]
+American Bible Society Trauma Healing Institute model
+
+[idx-200]
+390+ scripture references using the Restoring Hope Bible
+
+[idx-201]
+Led by trained Native facilitators; supported by Prayer Warriors
+
+[idx-202]
+All welcome — no faith background required · Ages 18+
+
+[idx-203]
+Held on reservations, in villages, cities — in-person and online
+
+[idx-204]
+Become a Facilitator
+
+[idx-205]
+From the start, participants are equipped to share this with others. Trained facilitators bring these tools back to their own communities — spreading healing across generations.
+
+[idx-206]
+Find a Healing Group
+
+[idx-207]
+Become a Facilitator
+
+
+### Modal — Giving
+
+[idx-208]
+Ways to Give
+
+[idx-209]
+✕
+
+[idx-210]
+Online Giving
+
+[idx-211]
+Secure online giving with credit/debit card, Apple Pay, and Google Pay. Set up monthly recurring giving to provide sustained support year-round.
+
+[idx-212]
+Gifts of Stock
+
+[idx-213]
+Transferring appreciated securities is one of the most tax-efficient ways to give. Contact us to initiate a stock transfer directly to LIM's brokerage account.
+
+[idx-214]
+Donor Advised Funds (DAFs)
+
+[idx-215]
+Recommend a grant from your DAF to Lutheran Indian Ministries. Our EIN is available upon request.
+
+[idx-216]
+IRA Qualified Charitable Distribution
+
+[idx-217]
+If you are 70½ or older, you may make a tax-free gift directly from your IRA to LIM — up to $100,000 per year.
+
+[idx-218]
+Planned Giving & Legacy Gifts
+
+[idx-219]
+Include LIM in your will or trust and ensure Native Gospel ministry for generations to come. Contact us to discuss options.
+
+[idx-220]
+By Mail
+
+[idx-221]
+Checks payable to Lutheran Indian Ministries · Brookfield, WI · Call (262) 439-5663 for mailing address.
+
+[idx-222]
+Give Online Now
+
+[idx-223]
+Call to Give
+
+
+---
+
+## About LIM
+
+### SEO & Browser
+
+[abt-meta-title]
+About LIM — Lutheran Indian Ministries
+
+[abt-meta-desc]
+About Lutheran Indian Ministries — a Native-led ministry proclaiming the Gospel, discipling Native leaders, and healing generations of trauma since 1985.
+
+
+### Nav — Main Navigation
+
+[abt-001]
+About
+
+[abt-002]
+Mission & Vision
+
+[abt-003]
+Who We Are
+
+[abt-004]
+Our Team
+
+[abt-005]
+Stories
+
+[abt-006]
+What We Do
+
+[abt-007]
+Healing Groups
+
+[abt-008]
+Haskell LIGHT
+
+[abt-009]
+Stories
+
+[abt-010]
+Home
+
+[abt-011]
+Donate
+
+
+### About LIM
+
+[abt-012]
+Where Faith Meets Culture and Tradition. Where Christ-Centered Healing Begins.
+
+[abt-013]
+Lutheran Indian Ministries is a Native-led ministry sharing the Gospel with Native American and Alaska Native people. We build lasting relationships rooted in trust, healing, and hope.
+
+[abt-014]
+Our Mission
+
+[abt-015]
+Watch Our Story
+
+
+### Mission, Vision, And Core Belief
+
+[abt-016]
+Share the Gospel. Proclaim the Kingdom.
+
+[abt-017]
+We share the Gospel of Jesus Christ with Native people and encourage them to spread Christ's message to others. We find, train, and equip Native Christian leaders — and support healing in their communities.
+
+[abt-018]
+All Nations Walking Together in Light.
+
+[abt-019]
+Every nation, tribe, and people comes to know the Father's love — finding forgiveness, knowing their God-given worth, thriving in healthy communities, and honoring the culture God gave them.
+
+[abt-020]
+Love Is an Action, Not an Emotion.
+
+[abt-021]
+We listen before we speak. We walk alongside people and build real trust — not transactions. If Native people can't see Jesus in what we do, they won't listen to what we say. We come only by invitation, following tribal customs and showing deep respect.
+
+[abt-022]
+"There before me was a great multitude no one could count, from every nation, tribe, people, and language, standing before the throne and the Lamb, crying out, 'Salvation belongs to our God.'"
+
+[abt-023]
+— Revelation 7:9–10
+
+
+### Who We Are
+
+[abt-024]
+Native-Led. Relationship-First.
+
+[abt-025]
+Founded in 1985, Lutheran Indian Ministries is an independent nonprofit with no church funding. We are supported entirely by people who believe in this work. We serve Native American and Alaska Native communities across the United States.
+
+[abt-026]
+LIM is led by Native people who know the stories, the traditions, the culture, and the humor. With 574 federally recognized tribes — 229 in Alaska alone — we travel by small plane, boat, and snowmachine to reach communities wherever they are. We don't show up with answers. We arrive with open hearts.
+
+[abt-027]
+We go by invitation only — guided by tribal customs and deep respect
+
+[abt-028]
+We don't bring a model — we build relationships, and that changes everything
+
+[abt-029]
+We develop Native leaders to share the Gospel in their own language and culture
+
+[abt-030]
+Audited financials published annually — full transparency and accountability
+
+[abt-031]
+Partner With Us
+
+[abt-032]
+Our Three Pillars
+
+
+### About LIM Video
+
+[abt-033]
+God Is Building Something Lasting
+
+[abt-034]
+"There is a place where faith meets tradition, where God's healing touches the deepest wounds, and where hope rises from generations of silence. That place… is Lutheran Indian Ministries."
+
+[abt-035]
+Led by Robert Heffle, Yup'ik Eskimo and Executive Director of LIM, our ministry is built on one conviction: that all healing comes from God, and that love is an action — not just an emotion.
+
+[abt-036]
+Robert's mother was from Kotzebue, Alaska — 35 miles above the Arctic Circle. This story is personal. It is ours.
+
+[abt-037]
+Watch Full Video
+
+[abt-038]
+Partner With Us
+
+
+### Three Pillars Of Ministry
+
+[abt-039]
+Three Pillars of Ministry
+
+[abt-040]
+LIM's work rests on three core commitments. Each one supports the others.
+
+
+### Article
+
+[abt-041]
+Proclaim
+
+[abt-042]
+Sharing the Gospel in ways rooted in Native culture — honoring Native traditions as vessels of God's grace. God speaks to Native hearts in Native ways. We travel by small plane, boat, and snowmachine — going only by invitation.
+
+[abt-043]
+Disciple
+
+[abt-044]
+Developing Native leaders through campus ministry at Haskell Indian Nations University — serving students from 130+ tribes. A home away from home: meals, Bible studies, mentorship, and the reminder that you don't have to change to be loved by God.
+
+[abt-045]
+Heal
+
+[abt-046]
+A Bible-based small group program for deep wounds from boarding schools, family separation, and generations of loss. Sessions reach reservations, villages, cities, and online across Native communities.
+
+
+### Stories Of Transformation
+
+[abt-047]
+Stories of Transformation
+
+[abt-048]
+These are not programs. These are people. And God is moving — one life, one relationship, one scripture at a time.
+
+[abt-049]
+Roberta Richardson (Uuvanagaa Atigah Kitgruak) — Anchorage, AK
+
+[abt-050]
+"I wish I could have done the Healing the Wounds of Trauma decades ago… but we experience freedom when the time is right. I got to let go of hurts and disappointments I've experienced in my entire life. Talk about freedom. Oh, the freedom. I have a hard time putting into words how you feel so much lighter — how you feel so not shackled anymore."
+
+[abt-051]
+Leo Grass — Keetowah Cherokee & Western Shoshone
+
+[abt-052]
+Leo visited Haskell LIGHT and met director Pola Farve — herself a Haskell graduate. One day, Leo asked for a Bible. Touched by the moment, he shared it on social media. Leo began reading — and didn't stop. Today, Leo walks a new path guided by faith. What starts as comfort becomes a calling.
+
+
+### Our History
+
+[abt-053]
+40 Years of Walking Alongside.
+
+[abt-054]
+Lutheran Indian Ministries began in 1985 — first called the Lutheran Association of Missionaries and Pilots. We were renamed in 2010 to better reflect the people we serve. For 40 years, we have walked with Native people not as outsiders, but as partners, learners, and friends.
+
+[abt-055]
+Haskell's roots. Haskell Indian Nations University founded as a boarding school during forced assimilation. Today a federally funded university — and a symbol of cultural resilience serving students from 100+ tribes.
+
+[abt-056]
+Founded as the Lutheran Association of Missionaries and Pilots — a ministry rooted in reaching remote Native communities, traveling by small plane across Alaska and the rural West.
+
+[abt-057]
+Renamed to Lutheran Indian Ministries — more accurately reflecting the breadth of Native communities served and the relational, people-first nature of the work.
+
+[abt-058]
+Active in 574 tribal communities — proclaiming the Gospel, discipling leaders at Haskell, and bringing healing groups to reservations, villages, urban centers, and online.
+
+[abt-059]
+Find a Healing Group
+
+
+### Our Team
+
+[abt-060]
+Who Carries This Work
+
+[abt-061]
+LIM is led by Native people and supported by partners who share a deep commitment to Native communities.
+
+
+### Get Involved
+
+[abt-062]
+How You Can Be Part of This
+
+[abt-063]
+Seeking Healing or Community?
+
+[abt-064]
+Our healing groups are open to all Native people — free to attend, rooted in scripture, and led by people who know what you carry.
+
+[abt-065]
+Free healing group sessions — in-person and online
+
+[abt-066]
+Trained Native facilitators who understand deep trauma
+
+[abt-067]
+Safe, confidential, scripture-grounded community
+
+[abt-068]
+Sessions in Fairbanks, Winnebago, online, and more
+
+[abt-069]
+Find a Healing Group
+
+[abt-070]
+Ready to Give or Partner?
+
+[abt-071]
+LIM is funded entirely through the generosity of individuals, churches, and ministry partners. Your gift directly supports Native-led Gospel ministry.
+
+[abt-072]
+$25 provides scripture materials for one participant
+
+[abt-073]
+$100 sponsors a full healing group — all 6 sessions
+
+[abt-074]
+$250 trains and equips a new Native facilitator
+
+[abt-075]
+Audited financials available — full transparency
+
+[abt-076]
+Donate Now
+
+[abt-077]
+Contact Us
+
+
+### Footer — Footer
+
+[abt-078]
+A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
+
+[abt-079]
+About
+
+[abt-080]
+Mission & Vision
+
+[abt-081]
+Who We Are
+
+[abt-082]
+Three Pillars
+
+[abt-083]
+Our Team
+
+[abt-084]
+Our History
+
+[abt-085]
+Ministry
+
+[abt-086]
+Healing Groups
+
+[abt-087]
+Become a Facilitator
+
+[abt-088]
+Haskell LIGHT
+
+[abt-089]
+Videos
+
+[abt-090]
+Contact
+
+[abt-091]
+(262) 439-5663
+
+[abt-092]
+(262) 783-5267
+
+[abt-093]
+Email LIM
+
+[abt-094]
+Official Website
+
+[abt-095]
+Brand Guide
+
+[abt-096]
+© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · EIN 39-1506889 · All Rights Reserved
+
+
+### Modal — Donate
+
+[abt-097]
+Partner With Us
+
+[abt-098]
+✕
+
+[abt-099]
+One-Time
+
+[abt-100]
+Monthly Most Impact
+
+[abt-101]
+$25
+
+[abt-102]
+$50
+
+[abt-103]
+$100
+
+[abt-104]
+$250
+
+[abt-105]
+Other amount
+
+[abt-106]
+$100 sponsors a full healing group participant — all 6 sessions, rooted in God's Word.
+
+[abt-107]
+First Name *
+
+[abt-108]
+First
+
+[abt-109]
+Last Name *
+
+[abt-110]
+Last
+
+[abt-111]
+Email *
+
+[abt-112]
+you@example.com
+
+[abt-113]
+Dedicate this gift (in honor or memory of someone)
+
+[abt-114]
+In honor / memory of…
+
+[abt-115]
+Give $100 Now
+
+[abt-116]
+Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
+
+[abt-117]
+Thank You!
+
+[abt-118]
+Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.
+
+[abt-119]
+Close
+
+
+### Modal — Video Player
+
+[abt-120]
+✕
+
+
+---
+
+## Healing Groups
+
+### SEO & Browser
+
+[hgs-meta-title]
+Healing Groups — Lutheran Indian Ministries
+
+[hgs-meta-desc]
+Find a Healing the Wounds of Trauma group near you. LIM's scripture-based healing program is led by Native facilitators, free to attend, and open to everyone 18+.
+
+
+### Nav — Main Navigation
+
+[hgs-001]
+Home
+
+[hgs-002]
+About the Program
+
+[hgs-003]
+Find a Group
+
+[hgs-004]
+Become a Facilitator
+
+[hgs-005]
+FAQ
+
+[hgs-006]
+Donate
+
+
+### Healing Groups Hero
+
+[hgs-007]
+You Don't Have to Carry This Alone.
+
+[hgs-008]
+A safe, scripture-based healing program led by Native facilitators. Free to attend. Open to everyone 18 and older — no faith background required.
+
+[hgs-009]
+Find a Healing Group
+
+[hgs-010]
+How It Works
+
+
+### What Is Healing The Wounds Of Trauma
+
+[hgs-011]
+What Is Healing the Wounds of Trauma?
+
+[hgs-012]
+A Bible-based small group healing program using the American Bible Society's Trauma Healing Institute model. It addresses spiritual and emotional wounds from violence, loss, abuse, and historical trauma — through applied scripture and the power of community.
+
+[hgs-013]
+"I got to let go of hurts and disappointments I've experienced in my entire life. And talk about freedom. Oh, the freedom. I have a hard time putting into words how you feel so much lighter — how you feel so not shackled anymore. I'm so thankful I said yes." — Roberta (Kitirak), Ministry Coordinator · Anchorage, AK
+
+[hgs-014]
+Healing is self-directed — you share only what you're comfortable with, and go only where you're ready to go. The Holy Spirit does the heavy lifting. No pressure, no force.
+
+[hgs-015]
+Find a Group Near You
+
+[hgs-016]
+What Happens in Each Session?
+
+
+### Program Foundation And Credentialing
+
+[hgs-017]
+Built on a Global Foundation
+
+[hgs-018]
+This program is not invented. It is proven — used in over 100 countries and grounded in the work of two of the world's leading institutions in Scripture-based trauma care.
+
+[hgs-019]
+American Bible Society
+
+[hgs-020]
+The curriculum is built on Healing the Wounds of Trauma: How the Church Can Help — a resource developed by the American Bible Society that weaves over 390 scriptures from the Restoring Hope Bible into every session.
+
+[hgs-021]
+americanbible.org
+
+[hgs-022]
+Trauma Healing Institute
+
+[hgs-023]
+The Trauma Healing Institute (THI) is a global network of practitioners training churches and ministries to bring Scripture-centered healing to communities in crisis. The program has been implemented in over 100 countries across 194 language groups in Africa, Asia, the Pacific, and the Americas.
+
+[hgs-024]
+TraumaHealingInstitute.org
+
+[hgs-025]
+Scripture + Mental Health
+
+[hgs-026]
+The model integrates contemporary mental health principles with Biblical truth — addressing the whole person: spirit, mind, and community.
+
+[hgs-027]
+Native-Led Facilitation
+
+[hgs-028]
+LIM trains and certifies Native facilitators to lead groups in their own communities — ensuring the curriculum is delivered with cultural understanding and relational trust.
+
+[hgs-029]
+Taken to the Community
+
+[hgs-030]
+LIM brings this curriculum to reservations, villages, urban centers, and online — traveling by small plane, boat, and snowmachine to reach communities wherever they are.
+
+
+### Upcoming Healing Group Sessions
+
+[hgs-031]
+Upcoming Healing Groups — 2026
+
+[hgs-032]
+Sessions fill quickly. Participants must attend all sessions for full benefit. In-person sessions include lunch. Contact us if you need accommodations.
+
+[hgs-033]
+All Sessions
+
+[hgs-034]
+In-Person
+
+[hgs-035]
+Online
+
+[hgs-036]
+Open Spots
+
+[hgs-037]
+Facilitator Training
+
+[hgs-038]
+Military Personnel Healing Group
+
+[hgs-039]
+A focused healing group designed for active military, veterans, and their families. Same scripture-based framework in a setting that honors service and sacrifice.
+
+[hgs-040]
+Register Now
+
+[hgs-041]
+Details
+
+[hgs-042]
+Online Healing Group
+
+[hgs-043]
+This session is currently full. August sessions are available — register now to secure your spot. A waitlist is available for this session.
+
+[hgs-044]
+Join Waitlist
+
+[hgs-045]
+Healing Group + Equipping Training
+
+[hgs-046]
+A combined healing group and facilitator equipping training. Experience healing yourself and learn how to lead others through it. Lunch provided daily.
+
+[hgs-047]
+Register Now
+
+[hgs-048]
+Details
+
+[hgs-049]
+Community Healing Group
+
+[hgs-050]
+In-person healing group in Fairbanks. Starts Wednesday at noon with lunch, continues Thursday and Friday 9 AM–4:30 PM. All community members welcome.
+
+[hgs-051]
+Register Now
+
+[hgs-052]
+Details
+
+[hgs-053]
+Online Healing Group
+
+[hgs-054]
+A two-week online format. Ideal if you can't travel or prefer to participate from home. Same curriculum, same community, same scripture-grounded experience.
+
+[hgs-055]
+Register Now
+
+[hgs-056]
+Details
+
+[hgs-057]
+Community Healing Group
+
+[hgs-058]
+Fall session in Fairbanks. Exact dates to be confirmed. Register your interest and we'll contact you as soon as dates are set.
+
+[hgs-059]
+Register Interest
+
+[hgs-060]
+Community Healing Group
+
+[hgs-061]
+An intimate community healing group hosted at Robert's House. Exact dates to be confirmed — register your interest and we'll reach out as soon as scheduling is set.
+
+[hgs-062]
+Register Interest
+
+[hgs-063]
+Facilitator Equipping Training
+
+[hgs-064]
+Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.
+
+[hgs-065]
+Register Interest
+
+[hgs-066]
+Additional sessions planned for Anchorage, AK (October–November 2026). Contact us to be notified.
+
+[hgs-067]
+Contact us
+
+
+### What To Expect In Each Session
+
+[hgs-068]
+The Six Core Sessions
+
+[hgs-069]
+Each session builds on the last. Over 390 scriptures are woven throughout, using the Restoring Hope Bible. You go only where you're ready to go.
+
+[hgs-070]
+1 What Is a Wound of the Heart?
+
+[hgs-071]
+Heart wounds can begin in childhood, young adulthood, or today. This session helps participants name and understand their specific wounds — whether from abuse, loss, historical trauma, or grief. Naming the wound is the first step toward healing it.
+
+[hgs-072]
+2 What Can Help Our Heart Wounds Heal?
+
+[hgs-073]
+Practical tools for the healing journey — exercises that move understanding from head to heart. Participants discover that healing is a process supported by community, prayer, and scripture. This session also addresses how stress and trauma are held in the body.
+
+[hgs-074]
+3 What Happens When Someone Is Grieving?
+
+[hgs-075]
+A compassionate look at what grief actually looks like — and where people get stuck. Understanding the grief journey is often cathartic and transforming. Participants learn they don't have to stay stuck, and that tears are cleansing, not weakness.
+
+[hgs-076]
+4 If God Loves Us, Why Do We Suffer?
+
+[hgs-077]
+The most honest question we carry. Scripture reveals that God is present in suffering — not absent from it. Participants discover that pain is not a sign of abandonment. We learn that Jesus wept — and that changes everything.
+
+[hgs-078]
+5 Bringing Our Pain to the Cross & Forgiving Others
+
+[hgs-079]
+One of the most powerful sessions. Participants are gently led through releasing pain and beginning the journey of forgiving others. No pressure, no timeline. You go only where you're ready. The community around you holds space with grace and love.
+
+[hgs-080]
+6 Looking Back, Looking Forward — Closing with Hope
+
+[hgs-081]
+The closing session brings everything together — looking back at the healing journey, looking forward with hope. Participants also discover how they can share this with others. The healing group is the beginning, not the end.
+
+
+### Become A Facilitator
+
+[hgs-082]
+Become a Facilitator
+
+[hgs-083]
+After experiencing healing yourself, you may feel called to lead others through it. Facilitator training equips you to run healing groups in your own community — multiplying the impact across generations.
+
+[hgs-084]
+"Once I got my ego out of the way and understood it's not my responsibility to change someone — I just follow the guide, like a tour guide — I started enjoying it. It's the Holy Spirit doing all the work." — Roberta, Trained Facilitator
+
+[hgs-085]
+You don't need to be a Bible scholar or a pastor. You need a heart for people and a willingness to follow the facilitator guide — which is detailed, well-structured, and easy to use.
+
+[hgs-086]
+1 Attend a healing group as a participant — experience it firsthand
+
+[hgs-087]
+2 Complete the facilitator equipping training (often combined with a healing group session)
+
+[hgs-088]
+3 Co-facilitate a healing group alongside an experienced facilitator
+
+[hgs-089]
+4 Lead your own community healing group — supported by LIM's team
+
+[hgs-090]
+See Equipping Training Dates
+
+[hgs-091]
+Express Interest
+
+
+### Frequently Asked Questions
+
+[hgs-092]
+Frequently Asked Questions
+
+[hgs-093]
+Q Do I have to be Christian or Lutheran to attend?
+
+[hgs-094]
+No. All are welcome — regardless of faith, religion, or background. You don't need to prescribe or ascribe to any specific religion to attend. The program is grounded in biblical scripture, but you come as you are and take what is meaningful to you.
+
+[hgs-095]
+Q Is it really free? What does the cost cover?
+
+[hgs-096]
+Yes, completely free to attend. LIM covers all curriculum costs, and in-person sessions include lunch each day. Travel and accommodation are not included, but contact us if cost is a barrier — we want to make this accessible to everyone.
+
+[hgs-097]
+Q What if I registered but can't make it?
+
+[hgs-098]
+Life happens — we understand. Please let us know as soon as possible so we can open your spot for someone on the waitlist and transfer your registration to a future session. We run multiple healing groups throughout the year, so there's always another opportunity.
+
+[hgs-099]
+Cancel My Registration
+
+[hgs-100]
+Q Do I have to share personal things in the group?
+
+[hgs-101]
+No. The healing journey is completely self-directed. You share only what you are comfortable sharing, and you go only where you're ready to go. There is no pressure and no force. The group agrees to confidentiality guidelines at the start of every session.
+
+[hgs-102]
+Q Must I attend all sessions?
+
+[hgs-103]
+Yes — the sessions build on each other, and the connections you form with others are an important part of the experience. If you miss a session, contact us; we'll do our best to help you catch up or transfer to a future group where you can attend fully.
+
+[hgs-104]
+Q What is a Prayer Warrior?
+
+[hgs-105]
+A Prayer Warrior is someone who has been through the healing group process and supports others through prayer — before, during, and after every session. They pray for every participant by name, including those who wanted to come but couldn't. They're also available for private conversation if someone needs it. Every healing group is fully prayed up.
+
+[hgs-106]
+Q Can we host a healing group at our church or community?
+
+[hgs-107]
+Absolutely. LIM partners with churches, community organizations, and tribal entities to bring healing groups to new locations. Contact us to discuss hosting a group in your community. We provide curriculum, training, and ongoing support.
+
+
+### Register Or Contact Us
+
+[hgs-108]
+Ready to Register?
+
+[hgs-109]
+Questions? Want to talk to someone before registering? We're here. Every warm, gentle invitation matters — and we don't want to miss anyone.
+
+[hgs-110]
+Register / Get More Information
+
+[hgs-111]
+First Name *
+
+[hgs-112]
+Your first name
+
+[hgs-113]
+Last Name *
+
+[hgs-114]
+Your last name
+
+[hgs-115]
+Email Address *
+
+[hgs-116]
+your@email.com
+
+[hgs-117]
+Phone Number
+
+[hgs-118]
+(optional)
+
+[hgs-119]
+Which Session Are You Interested In? *
+
+[hgs-120]
+— Select a session —
+
+[hgs-121]
+March 13–14 · Military · Fairbanks, AK
+
+[hgs-122]
+April 14–17 · Healing + Equipping · Winnebago, NE
+
+[hgs-123]
+May 27–29 · Community Healing · Fairbanks, AK
+
+[hgs-124]
+August 5–14 · Online
+
+[hgs-125]
+September 2026 · Fairbanks, AK (dates TBC)
+
+[hgs-126]
+Join waitlist for March Online (Currently Full)
+
+[hgs-127]
+Facilitator Training Interest
+
+[hgs-128]
+Contact me about hosting a group
+
+[hgs-129]
+Anything you'd like us to know?
+
+[hgs-130]
+Questions, accessibility needs, or anything else...
+
+[hgs-131]
+Your information is confidential. We will only use it to contact you about healing group registration. You may opt out at any time.
+
+[hgs-132]
+Submit Registration
+
+
+### Footer — Footer
+
+[hgs-133]
+A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
+
+[hgs-134]
+Healing Groups
+
+[hgs-135]
+About the Program
+
+[hgs-136]
+Find a Group
+
+[hgs-137]
+Become a Facilitator
+
+[hgs-138]
+FAQ
+
+[hgs-139]
+Ministry
+
+[hgs-140]
+Home
+
+[hgs-141]
+Three Pillars
+
+[hgs-142]
+Haskell LIGHT
+
+[hgs-143]
+Donate
+
+[hgs-144]
+Contact
+
+[hgs-145]
+(262) 439-5663
+
+[hgs-146]
+(262) 783-5267
+
+[hgs-147]
+Email LIM
+
+[hgs-148]
+Official Website
+
+[hgs-149]
+Brand Guide
+
+[hgs-150]
+© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit · All Rights Reserved
+
+
+### Modal — Reg
+
+[hgs-151]
+Free Event Registration
+
+[hgs-152]
+✕
+
+[hgs-153]
+You're Registered!
+
+[hgs-154]
+Thank you for signing up. We'll be in touch with confirmation details and — for online sessions — your Zoom link. Questions? Call (262) 439-5663
+
+[hgs-155]
+Close
+
+[hgs-156]
+Your Information
+
+[hgs-157]
+First Name *
+
+[hgs-158]
+First
+
+[hgs-159]
+Last Name *
+
+[hgs-160]
+Last
+
+[hgs-161]
+Email Address *
+
+[hgs-162]
+you@example.com
+
+[hgs-163]
+Cell Phone *
+
+[hgs-164]
+(___) ___-____
+
+[hgs-165]
+Age (optional)
+
+[hgs-166]
+Age
+
+[hgs-167]
+Gender (optional)
+
+[hgs-168]
+Male
+
+[hgs-169]
+Female
+
+[hgs-170]
+Other
+
+[hgs-171]
+Home Address
+
+[hgs-172]
+Street Address *
+
+[hgs-173]
+Street address
+
+[hgs-174]
+Apt / Suite (optional)
+
+[hgs-175]
+Apt, suite, etc.
+
+[hgs-176]
+City *
+
+[hgs-177]
+City
+
+[hgs-178]
+State *
+
+[hgs-179]
+ST
+
+[hgs-180]
+ZIP Code *
+
+[hgs-181]
+ZIP
+
+[hgs-182]
+Country
+
+[hgs-183]
+United States
+
+[hgs-184]
+Canada
+
+[hgs-185]
+Other
+
+[hgs-186]
+Emergency Contact (recommended)
+
+[hgs-187]
+Contact Name
+
+[hgs-188]
+Full name
+
+[hgs-189]
+Contact Phone
+
+[hgs-190]
+(___) ___-____
+
+[hgs-191]
+🎖️ Military Eligibility
+
+[hgs-192]
+Branch of Service *
+
+[hgs-193]
+— Select branch —
+
+[hgs-194]
+Army
+
+[hgs-195]
+Navy
+
+[hgs-196]
+Marine Corps
+
+[hgs-197]
+Air Force
+
+[hgs-198]
+Space Force
+
+[hgs-199]
+Coast Guard
+
+[hgs-200]
+Unit / Battalion (optional)
+
+[hgs-201]
+e.g. 1-5 Cav, 25th ID
+
+[hgs-202]
+I confirm I am currently active duty military personnel and understand this group is limited to Ft. Wainwright service members. *
+
+[hgs-203]
+A Few Things to Know
+
+[hgs-204]
+I understand that if I'm unable to attend, this may affect my ability to access the healing group in the future. *
+
+[hgs-205]
+I understand that a certificate of completion requires attending all scheduled sessions. *
+
+[hgs-206]
+Dietary Needs (optional)
+
+[hgs-207]
+Any dietary restrictions or needs…
+
+[hgs-208]
+Complete Registration
+
+[hgs-209]
+Prefer to register by phone? Call (262) 439-5663
+
+
+### Modal — Cancel Modal
+
+[hgs-210]
+Cancel My Registration
+
+[hgs-211]
+✕
+
+[hgs-212]
+Cancellation Received
+
+[hgs-213]
+We're sorry you can't make it — we'll open your spot and keep you in mind for future sessions. We'll send a confirmation to your email shortly.
+
+[hgs-214]
+Close
+
+[hgs-215]
+Which session are you cancelling? *
+
+[hgs-216]
+— Select your session —
+
+[hgs-217]
+Military Personnel Healing Group — March 13–14, 2026 · Fairbanks, AK
+
+[hgs-218]
+Healing Group + Equipping Training — April 14–17, 2026 · Winnebago, NE
+
+[hgs-219]
+Community Healing Group — May 27–29, 2026 · Fairbanks, AK
+
+[hgs-220]
+Online Healing Group — August 5–14, 2026 · Zoom
+
+[hgs-221]
+Community Healing Group — September 2026 · Fairbanks, AK
+
+[hgs-222]
+Community Healing Group — July 2026 · Robert's House
+
+[hgs-223]
+Facilitator Equipping Training — October 2026
+
+[hgs-224]
+Other / Not Listed
+
+[hgs-225]
+First Name *
+
+[hgs-226]
+First
+
+[hgs-227]
+Last Name *
+
+[hgs-228]
+Last
+
+[hgs-229]
+Email Used to Register *
+
+[hgs-230]
+you@example.com
+
+[hgs-231]
+Reason (optional — helps us improve)
+
+[hgs-232]
+Let us know if you'd like to share…
+
+[hgs-233]
+Submit Cancellation
+
+[hgs-234]
+Or call us at (262) 439-5663
+
+
+### Modal — Waitlist
+
+[hgs-235]
+Join the Waitlist
+
+[hgs-236]
+✕
+
+[hgs-237]
+The March 18–27 online session is currently full. Use the registration form to note your interest in this session and we'll contact you if a spot opens — or automatically register you for the August 5–14 session if you prefer.
+
+[hgs-238]
+The August online session has open spots and follows the same curriculum. We encourage you to register for August now.
+
+[hgs-239]
+Join Waitlist / Register for August
+
+
+### Modal — Fairbanks Mil
+
+[hgs-240]
+Military Personnel Healing Group
+
+[hgs-241]
+✕
+
+[hgs-242]
+A healing group specifically for active military personnel, veterans, and their families. Same scripture-based curriculum, same compassionate community — in a setting that honors the unique experiences of those who have served.
+
+[hgs-243]
+Open to active military, veterans, and family members
+
+[hgs-244]
+Confidential and community-supported
+
+[hgs-245]
+All faith backgrounds welcome
+
+[hgs-246]
+Lunch provided both days
+
+[hgs-247]
+Ages 18+
+
+[hgs-248]
+Register Now
+
+
+### Modal — Winnebago
+
+[hgs-249]
+Healing Group + Equipping · Winnebago, NE
+
+[hgs-250]
+✕
+
+[hgs-251]
+A unique combined event: experience a full healing group and receive facilitator equipping training in the same week. Ideal for community leaders, pastors, and anyone who wants to bring healing groups to their own community.
+
+[hgs-252]
+Attend healing group sessions as a participant
+
+[hgs-253]
+Receive facilitator training to lead your own groups
+
+[hgs-254]
+Leave equipped and empowered to multiply healing in your community
+
+[hgs-255]
+Lunch provided daily · All welcome · Ages 18+
+
+[hgs-256]
+Register Now
+
+
+### Modal — Fairbanks May
+
+[hgs-257]
+Community Healing Group · Fairbanks, AK
+
+[hgs-258]
+✕
+
+[hgs-259]
+A typical Fairbanks healing group schedule:
+
+[hgs-260]
+Wednesday: Noon – 4:30 PM (includes lunch)
+
+[hgs-261]
+Thursday: 9 AM – 4:30 PM (includes lunch)
+
+[hgs-262]
+Friday: 9 AM – 1:00 PM (includes lunch)
+
+[hgs-263]
+Open to all community members · Ages 18+ · All backgrounds welcome
+
+[hgs-264]
+Register Now
+
+
+### Modal — Aug Online
+
+[hgs-265]
+Online Healing Group · August 2026
+
+[hgs-266]
+✕
+
+[hgs-267]
+A two-week online format using Zoom. Ideal for participants who cannot travel or prefer to join from home. The same full curriculum, the same community experience, the same scripture-grounded healing.
+
+[hgs-268]
+Sessions held over two weeks via Zoom video call
+
+[hgs-269]
+Technology support available for those who need it
+
+[hgs-270]
+Same 6 core sessions, same 390+ scriptures
+
+[hgs-271]
+You will receive a Zoom link and schedule upon registration
+
+[hgs-272]
+Open to all · Ages 18+ · Free
+
+[hgs-273]
+Register Now
+
+
+### Modal — Sessions
+
+[hgs-274]
+The Six Core Sessions
+
+[hgs-275]
+✕
+
+[hgs-276]
+Over 16 hours across 2–3 days, six sessions walk participants through scripture and personal reflection. Each builds on the last, supported by 390+ scriptures from the Restoring Hope Bible.
+
+[hgs-277]
+Session 1: If God loves us, why do we suffer?
+
+[hgs-278]
+Session 2: What is a wound of the heart?
+
+[hgs-279]
+Session 3: What can help our heart wounds heal?
+
+[hgs-280]
+Session 4: What happens when someone is grieving?
+
+[hgs-281]
+Session 5: Bringing our pain to the cross & forgiving others
+
+[hgs-282]
+Session 6: Looking back, looking forward — closing with hope
+
+[hgs-283]
+Healing is self-directed. You share only what you're comfortable sharing, and go only where you're ready to go. The Holy Spirit does the heavy lifting.
+
+[hgs-284]
+Find a Session Near You
+
+
+---
+
+## Blog: I Can Do All Things (Philippians)
+
+### SEO & Browser
+
+[bph-meta-title]
+I Can Do All Things — Philippians 4:13 · LIM Haskell LIGHT
+
+[bph-meta-desc]
+A devotional on Philippians 4:13 — what it really means to do all things through Christ who strengthens us, and how the prayers of others carry us toward freedom.
+
+
+### Nav — Nav
+
+[bph-001]
+Blog
+
+[bph-002]
+Donate
+
+
+### Article Hero
+
+[bph-003]
+Monday, February 29
+
+[bph-004]
+I Can Do All Things
+
+[bph-005]
+"I can do all things through him who strengthens me." — Philippians 4:13 (ESV)
+
+
+### Article Content
+
+[bph-006]
+"I can do all things through him who strengthens me."
+
+[bph-007]
+If you are like me, you can recite this verse — but in real life, find yourself far from being able "to do all things."
+
+[bph-008]
+Why? Because we do not let Christ strengthen us? Every Biblically-aware believer knows "what God wants," and they seek to do it with His strength. Or do we know this verse so well that it has lost its impact on how we "work out our salvation"?
+
+[bph-009]
+"Work out your own salvation with fear and trembling."
+
+[bph-010]
+It is easy for a familiar verse to become invisible — recited without being received. Philippians 4:13 is one of those verses. We put it on T-shirts and phone cases. We quote it before big moments. But Paul wrote it from prison, not from a platform. He wasn't claiming supernatural athletic performance. He was describing something quieter and harder: the ability to be content in every circumstance, sustained not by his own resolve, but by Someone greater moving through him.
+
+[bph-011]
+The question isn't whether we know the verse. The question is whether we are actually living in the dependency it describes.
+
+[bph-012]
+"Years of bondage were broken and this person was set free — free indeed."
+
+[bph-013]
+Recently, a close friend of mine discovered this truth regarding victory over alcohol, which he had struggled with for years. It was a time of deliverance preceded by many hours of fervent prayer by his family. I was fortunate to be there during his time of deliverance. I remember leaving the prayer time and thinking that something powerful had just taken place.
+
+[bph-014]
+The day after, my friend attended church and was touched by the pastor's closing prayer. More prayers, more pastors — something big happened. Years of bondage were broken and this person was set free — free indeed. The intercessions of others had come to God's throne of grace and were answered.
+
+[bph-015]
+Bear one another's burdens — Galatians 6:2
+
+[bph-016]
+Sometimes, Christ's strength is not something we summon alone. It arrives through the hands and voices of the people who carry us when we cannot carry ourselves. My friend did not find freedom through willpower. He found it through a community that refused to stop praying.
+
+[bph-017]
+"Bear one another's burdens, and so fulfill the law of Christ."
+
+[bph-018]
+We are to carry one another's burdens. This is not a suggestion — it is the fulfillment of the law of Christ. And prayer is the primary tool for doing it. Not prayer as ritual, but prayer as warfare. Prayer as love made active.
+
+[bph-019]
+"We destroy arguments and every lofty opinion raised against the knowledge of God, and take every thought captive to obey Christ."
+
+[bph-020]
+Prayer is God's gift, made possible by the mediating sacrifice of Jesus. It is the tool by which our thoughts — so prone to wander, to despair, to rehearse old wounds — are brought captive to the mind of God. When we pray for someone, we are not just speaking words into the air. We are positioning ourselves, and them, before the throne of grace.
+
+[bph-021]
+So the question comes back: I can do all things through Christ who strengthens me. Are you letting Him? And are you part of the community that strengthens others — not through advice or fixing, but through the faithful, unglamorous work of prayer?
+
+[bph-022]
+Jesus, Thank you for removing the barrier between us and God through Your perfect sacrifice on the cross. Thank you that your strength is not reserved for the strong — that it comes to us precisely in our weakness, through the prayers of those who love us and the Spirit who intercedes when we have no words left. Teach us to stop performing Philippians 4:13 and to start living it — in dependence on You, and in faithful care for one another.
+
+
+### Sidebar — Related Resources
+
+[bph-023]
+Scripture Referenced
+
+[bph-024]
+About Haskell LIGHT
+
+[bph-025]
+Haskell LIGHT is LIM's campus ministry at Haskell Indian Nations University in Lawrence, Kansas — reaching Native college students with the Gospel and community rooted in Christ.
+
+[bph-026]
+Visit Haskell LIGHT →
+
+[bph-027]
+Devotional Series
+
+[bph-028]
+This post is part of an ongoing series from LIM's campus and healing ministries — short reflections rooted in scripture and real stories of transformation.
+
+[bph-029]
+All Posts →
+
+
+### Healing Groups Bridge
+
+[bph-030]
+Finding strength is the first step. Finding healing is the next.
+
+[bph-031]
+My friend's freedom didn't come from a single moment of willpower. It came through community, prayer, and a safe place to be honest. That's exactly what our Healing the Wounds of Trauma groups are built on — scripture-rooted, facilitator-led, and open to anyone carrying the weight of the past.
+
+[bph-032]
+Find a Healing Group →
+
+[bph-033]
+Learn More
+
+[bph-034]
+"Can you imagine what it would be like if all our communities could be that helper to one another — scripture-rooted, safe, not judging, not forcing? Just coming from that place of love and grace. That is what this is."
+
+
+### Footer — Footer
+
+[bph-035]
+© 2026 Lutheran Indian Ministries · All rights reserved
+
+
+---
+
+## Blog: The Choice
+
+### SEO & Browser
+
+[bch-meta-title]
+The Choice: Native OR Christian · Lutheran Indian Ministries
+
+[bch-meta-desc]
+For more than 500 years, Native Americans were told they had to choose: be Native, or be Christian. LIM exists to answer that false choice once and for all.
+
+
+### Nav — Nav
+
+[bch-001]
+Blog
+
+[bch-002]
+Home
+
+
+### Article Hero
+
+[bch-003]
+June 13
+
+[bch-004]
+The Choice: Native OR Christian?
+
+[bch-005]
+For more than 500 years, Native Americans have been told to choose. LIM exists to answer that false ultimatum — once and for all.
+
+[bch-006]
+By Tim Young Eagle, CFRE (Pawnee) · Executive Director, Lutheran Indian Ministries
+
+
+### Article Content
+
+[bch-007]
+The letter arrived handwritten on lined notebook paper — the kind with three holes punched along the side and a red margin that you might have used for a high school composition assignment once upon a time. The return address was from a correctional facility out east.
+
+[bch-008]
+We occasionally receive mail from Native American inmates. Usually, the writer tells us his life's story or about his faith journey. But this man was asking for advice on a question that cut deep.
+
+[bch-009]
+"I am registered as an American Indian, but my religion is listed as Lutheran. If I want to participate in the Native American activities or classes, I have to change my religion. But if I change my religion, I can't participate in the Sunday worship or Bible study."
+
+[bch-010]
+"How can I be Lutheran and Native?"
+
+[bch-011]
+John closed with a question that has echoed across Native communities for generations. And he asked it from a prison cell — where, stripped of nearly everything else, he was still being told to choose between who he was and who God made him to be.
+
+[bch-012]
+A 500-Year-Old Lie
+
+[bch-013]
+Sadly, John's question is one we are asked often in ministry among Native people. For more than 500 years, Native Americans were told they cannot be both Christian and Native. The Native culture, according to early missionaries, did not fit the Christian religion — and belief in the Gospel required them to give up who they were in order to become something they could never truly be.
+
+[bch-014]
+It wasn't just theology. It was policy. It was enforced. Boarding schools — funded by the federal government and operated by churches — removed Native children from their families, cut their hair, banned their languages, and punished them for singing their songs or speaking their names. The logic was explicit.
+
+[bch-015]
+"A great general has said that the only good Indian is a dead one... In a sense, I agree with the sentiment, but only in this: that all the Indian there is in the race should be dead. Kill the Indian in him, and save the man."
+
+[bch-016]
+Only once the Indian part of a man had been purged, the thinking went, could the saving grace of Jesus' death and resurrection become available to him. Culture was the barrier. Tradition was the enemy. Identity was the price of admission.
+
+[bch-017]
+This is a lie — a theological error with devastating real-world consequences. And it is still alive. It has been so thoroughly embedded in some Native communities that it is treated as obvious truth: if you follow Jesus, you leave your people behind.
+
+[bch-018]
+What the Gospel Actually Says
+
+[bch-019]
+Lutheran Indian Ministries, through your prayers and gifts, works every day to proclaim the truth that dispels this aged, false teaching. The Gospel of Jesus Christ does not demand cultural death as the price of salvation. It never has. What early missionaries called "pagan culture" — the drum, the dance, the language, the land — was not the enemy of the Gospel. It was the vessel through which God could speak to Native hearts in Native ways.
+
+[bch-020]
+"God speaks to Native hearts in Native ways. You do not have to stop being who you are to receive what He offers."
+
+[bch-021]
+The Gospel has always crossed cultures by entering them — not erasing them. Paul became "all things to all people" not to erase their humanity, but to reach them within it. The Spirit at Pentecost did not force every listener to hear in one language. Every person heard in their own tongue. The miracle was not uniformity. It was recognition.
+
+[bch-022]
+The Man With the Drum
+
+[bch-023]
+For the first time in his life, he felt free.
+
+[bch-024]
+A friend of LIM was asked recently to take part in a Lutheran church service. He agreed — but standing backstage, drum in hand, waiting to process into the sanctuary, the old question rose in him: How can I be Native and Christian? How will this congregation react to our drumming and regalia? How can I be one of them and still be me?
+
+[bch-025]
+He had been invited, with a group of local Native people, to share their faith and their stories — their drumming and their culture. And yet, he felt anxious. Decades of being told to choose had left a wound that didn't close easily.
+
+[bch-026]
+The pastor made the announcement. The drumbeat echoed through the sanctuary.
+
+[bch-027]
+In a solemn, humble, and worshipful movement, they entered — honoring and praising their Savior, Jesus Christ, in the way they were taught by their ancestors. They honored the traditions of their people while worshipping their Holy Father from their innermost being, with all their heart and all their mind and all their soul.
+
+[bch-028]
+"As he walked down the aisle, tears streamed down his face. The Holy Spirit guided him on and his heart softened. For the first time in his life, he felt free. "
+
+[bch-029]
+Free to be Native and to be Christian. Free to praise God with drumming and dancing. Free to be who God had created him to be. At that moment, he knew and understood that Jesus Christ suffered, died, and was resurrected for his salvation — and he gave thanks to God.
+
+[bch-030]
+"Let them praise his name with dancing and make music to him with timbrel and harp. For the Lord takes delight in his people; he crowns the humble with salvation."
+
+[bch-031]
+It is in these moments we can all rejoice and thank God that He sent His Son, Jesus, for the salvation of all people. Not all people who look a certain way. Not all people who conform to a certain culture. All. The drum was always welcome in the house of the Lord. It just took the courage of one man, and the prayers of a whole community, to prove it.
+
+[bch-032]
+John's Answer
+
+[bch-033]
+This is the message we returned to John — and the message we share daily with the Native American, Alaska Native, and Native Hawaiian people we encounter in this ministry:
+
+[bch-034]
+"I know God is with me, and I worship Him where I am. You and LIM are in my prayers. Continue to do God's work and spread His word to all Nations!"
+
+[bch-035]
+From a prison cell, with almost nothing — John had already found the answer. He was worshipping. He was praying for others. He was trusting God to hold both parts of his identity together. The system around him had not caught up to the Gospel. But John had.
+
+[bch-036]
+The letter arrived handwritten on lined notebook paper with three holes punched along the side.
+
+[bch-037]
+Your gift enables us to proclaim the truth Native people need to hear: Jesus died for YOU just as you are. Not as someone else. Not after you've erased your culture, your language, your traditions. Just as you are — Native, whole, and beloved by God.
+
+[bch-038]
+Please prayerfully consider a gift to support God's work among Native peoples.
+
+[bch-039]
+God's blessings — In Him,
+
+
+### Sidebar — About This Post
+
+[bch-040]
+Pillar 01 — Proclaim
+
+[bch-041]
+Sharing the Gospel in ways rooted in Native culture — honoring Native traditions as vessels of God's grace. God speaks to Native hearts in Native ways.
+
+[bch-042]
+See All Three Pillars →
+
+[bch-043]
+The Core Question
+
+[bch-044]
+"The choice" — between Native identity and Christian faith — is one of our greatest challenges as we proclaim the Gospel of Jesus Christ to Native peoples.
+
+[bch-045]
+But from great challenges comes great joy. This is what LIM was built to answer.
+
+[bch-046]
+Support This Work
+
+[bch-047]
+"Jesus died for YOU just as you are."
+
+[bch-048]
+Give to LIM →
+
+
+### How LIM Proclaims The Gospel
+
+[bch-049]
+Every tribe. Every tradition. One Gospel.
+
+[bch-050]
+The false choice between "Native" and "Christian" doesn't dissolve on its own. It takes relationships, presence, and the patient proclamation of a Gospel that has always been big enough to hold the whole person. That is what LIM does — one community, one invitation, one drum-beat at a time.
+
+[bch-051]
+Our Three Pillars →
+
+[bch-052]
+Find a Healing Group
+
+[bch-053]
+"There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus."
+
+
+### Footer — Footer
+
+[bch-054]
+© 2026 Lutheran Indian Ministries · All rights reserved
+
+
+---
+
+## Blog: Discovering Identity (Bev)
+
+### SEO & Browser
+
+[bbv-meta-title]
+Discovering My True Identity in Christ · Beverly Heyano · LIM
+
+[bbv-meta-desc]
+Beverly Heyano — Tanqik, 'brightness' — shares her 27-year journey from alcoholism to identity in Christ. An interview by LIM Executive Director Robert Heffle.
+
+
+### Nav — Nav
+
+[bbv-001]
+Blog
+
+[bbv-002]
+Home
+
+
+### Article Hero
+
+[bbv-003]
+December 26
+
+[bbv-004]
+Discovering My True Identity in Christ
+
+[bbv-005]
+Beverly Heyano — Tanqik, "brightness" — shares her journey from 28 years of alcoholism to 27 years of recovery, and what she found along the way.
+
+[bbv-006]
+An interview by Robert Heffle · Executive Director, LIM · Written by Gary Ricke
+
+
+### Article Content
+
+[bbv-007]
+Join LIM Executive Director Robert Heffle in his interview with Bev, who candidly shares her amazing, transformative journey — a story of recovery, identity, and the God who never let go.
+
+[bbv-008]
+If you knew me in my drinking days, I apologize.
+
+[bbv-009]
+"Do not look at wine when it sparkles in the cup and goes down smoothly. In the end it bites like a serpent and stings like an adder."
+
+[bbv-010]
+I'd like to re-introduce myself. My name is Beverly Heyano, and I'm originally from Dillingham — I've been in Anchorage for 27 years.
+
+[bbv-011]
+My Yupik name is Tanqik — brightness — which was given to me when I first started my journey of recovery, 27 years ago.
+
+[bbv-012]
+Going through the educational system, I was a straight F student. I lived in a lot of fear and shame. Fear that people would find out how stupid I was.
+
+[bbv-013]
+And then I started reading the Bible. I've read the Bible now for the last 27 years, and I'm learning my identity in Christ. In God.
+
+[bbv-014]
+What it has told me was: God knew me in my mother's womb. He talked to me. He wove me together and he brought me forth. How special is that?
+
+[bbv-015]
+"I'm learning that I'm wonderfully and fearfully made. I don't want to fit into a world that tells people they're nothing. I want to be that peculiar person that says — you are somebody. God said so."
+
+[bbv-016]
+He showed me that I'm a child of the Most High God. I love that I am peculiar , because I don't want to fit into this world that tells people they're nothing and nobody anymore. I want to be that peculiar person that says: you are somebody. God said so.
+
+[bbv-017]
+What you can do if you feel you don't have value.
+
+[bbv-018]
+"I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well."
+
+[bbv-019]
+If someone was watching this, and maybe they're discouraged — thinking they're not smart, or they don't have value, or they're confused, or they're struggling in addiction — what words would you have for them?
+
+[bbv-020]
+I would say first: stop believing the lie.
+
+[bbv-021]
+But you need something that counteracts a lie. For me, it's reading God's Word. What does God tell me? And you don't have to read through the whole scriptures — though I encourage that. There are little books, God's Promises books, Bible verse books, where you can see what God has to say about you.
+
+[bbv-022]
+That God created you to impact your world in a positive way. And how can you impact your world in a positive way when you don't really know who you are in God, in Christ?
+
+[bbv-023]
+So I would really encourage that — learn through the scriptures, learn through other believers who have been on the journey for a while.
+
+[bbv-024]
+How God — more than treatment — helped me as an alcoholic.
+
+[bbv-025]
+"Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour."
+
+[bbv-026]
+How has God changed you?
+
+[bbv-027]
+Oh my gosh. I was an alcoholic from the age of 10 until I was 38.
+
+[bbv-028]
+I took my first drink at the age of 10, and I was off and running. I loved alcohol. Alcohol did for me what I couldn't do for myself — and that was to feel good about myself. It took away all those old messages about how stupid, how dumb I was. I used alcohol as a social lubricant. I used it to feel better about myself. And it worked for a long time.
+
+[bbv-029]
+And then it stopped working, because I became physically addicted. I could not stop. At the end of my drinking, when I picked up a drink, I never knew how long it was going to last, where I was going to end up, who I was going to end up with — and most of it was in blackout. And that's a pretty scary place to be.
+
+[bbv-030]
+"It wasn't so much about treatment. It was about making that connection with God and knowing that He could heal my hurts — so I could be free from that, so I wouldn't have to use alcohol."
+
+[bbv-031]
+I knew at the end of my drinking that something had to change. And I got sobered up through a treatment center. But while I was in treatment, I did a Bible study called Lord, Heal My Hurts — because I knew I was hurting, and I knew I didn't want to use alcohol anymore to cover up all that shame and guilt.
+
+[bbv-032]
+So I did that study, and that was the beginning of my change. It wasn't so much about treatment. It was about making that connection with God and knowing that He could heal my hurts, so I could be free from that, so I wouldn't have to use alcohol.
+
+[bbv-033]
+All my 28 years of being a drunk, I never stopped praying.
+
+[bbv-034]
+"The Lord is near to all who call on him, to all who call on him in truth."
+
+[bbv-035]
+What words of encouragement do you have for someone who hasn't been in church for a while — maybe a new Christian, or someone who's been on the journey with Christ for a number of years?
+
+[bbv-036]
+Never stop praying. All my 28 years of being a drunk, I never stopped praying.
+
+[bbv-037]
+I gave my heart to Jesus when I was like four or five years old. I remember that. And even though I did all the stuff that alcoholics do — a liar, a cheater, a thief, an adulterous woman — all those things I did. But I never stopped believing, and I never stopped praying.
+
+[bbv-038]
+I know that it was God that brought me into my recovery. But I also know He allowed me to drink for those 28 years — because now I have 28 years of alcohol research. And I go back and I use all the years that I drank to speak to other people that are where I used to be. There is hope. You can, with the help of God, overcome those addictions and start walking in a new life.
+
+[bbv-039]
+It takes a lot of work, and it's not easy. And sometimes it's really painful. I don't suggest doing it alone. I stayed away from church for a long time — I had some harm done by church people. But just recently I'm going back. Not only to see what I can hear, but to see what I can bring to the fellowship.
+
+[bbv-040]
+How to start a journey toward recovery.
+
+[bbv-041]
+"Two are better than one, because they have a good reward for their toil. For if they fall, one will lift up his fellow."
+
+[bbv-042]
+What would you say to a person who knew you during the years that you drank — and now sees the new you?
+
+[bbv-043]
+I just read something recently. It said: If you knew me in my drinking days, I apologize. I'd like to reintroduce myself as a sober person.
+
+[bbv-044]
+As we go through change, it takes our family and our friends a while to adjust. And a lot of times, family members or friends will try to sabotage our recovery. That's why it's really important to find people who are already on the journey — to hang with them.
+
+[bbv-045]
+They're strange at first. I never hung out with sober people in my drinking days. I always thought they were weird. But now I'm the weird person — and I've learned to love sober people and what they have to offer.
+
+[bbv-046]
+"Don't be afraid. There's lots of scary stuff in the beginning. Hang on to those who have been on the journey."
+
+
+### Sidebar — Aside
+
+[bbv-047]
+Yupik Name
+
+[bbv-048]
+Beverly's Yupik name was given to her when she began her journey of recovery — 27 years ago.
+
+[bbv-049]
+Scripture in This Story
+
+[bbv-050]
+About This Interview
+
+[bbv-051]
+Bev's story was recorded as part of LIM's ongoing effort to share the real voices of Native people finding healing and identity in Christ.
+
+[bbv-052]
+Interview by Robert Heffle, LIM Executive Director. Written by Gary Ricke.
+
+
+### Healing Groups
+
+[bbv-053]
+You don't have to carry this alone.
+
+[bbv-054]
+Bev found her way through scripture, prayer, and a community of people who had been on the journey. That's exactly what our Healing the Wounds of Trauma groups offer — a safe, scripture-rooted space where Native people can be honest about the weight they carry, and find real help.
+
+[bbv-055]
+Find a Healing Group →
+
+[bbv-056]
+Learn More
+
+[bbv-057]
+"Can you imagine what it would be like if all our communities could be that helper to one another — scripture-rooted, safe, not judging, not forcing? Just coming from that place of love and grace. That is what this is."
+
+
+### Footer — Footer
+
+[bbv-058]
+© 2026 Lutheran Indian Ministries · All rights reserved
+
+
+---
+
+## Blog: Military Healing Group (March 2026)
+
+### SEO & Browser
+
+[bmm-meta-title]
+Session Feedback — Healing the Wounds of Trauma · LIM
+
+
+### Hero
+
+[bmm-001]
+March 20, 2026 · Fort Wainwright, Fairbanks, AK
+
+[bmm-002]
+When Healing Becomes Real
+
+[bmm-003]
+Four soldiers shared what happened inside — in their own words.
+
+
+### Audio
+
+[bmm-004]
+Play icon Pause icon
+
+
+### Quotes
+
+[bmm-005]
+Four Voices. Four Truths.
+
+[bmm-006]
+Unedited. Unprompted. Unbroken.
+
+[bmm-007]
+"For you to help others, you have to be broken like that. But you have to have Jesus."
+
+[bmm-008]
+"Sometimes that's not what people need. They just need you to show up and just be there, to just sit with them."
+
+[bmm-009]
+"I learned that I wasn't broken — that there was healing to be done and that it was possible. It's been one week. Changed my life already."
+
+[bmm-010]
+"It doesn't take a counselor, a chaplain, or somebody else. God can contest any one of us to be that person for someone."
+
+
+### Stories
+
+[bmm-011]
+Four Voices. One Session.
+
+[bmm-012]
+Each story is unique. Together they tell something larger.
+
+[bmm-013]
+More than 20 years walking with the Lord, he came expecting to give — and found himself undone. "It was like life," he told his wife that night.
+
+[bmm-014]
+* Due to low quality recording, voice was generated by AI
+
+[bmm-015]
+Read Full Testimony
+
+[bmm-016]
+She carried five years of injustice — watching her assailant walk away with a promotion. This course gave her a framework for grief, presence, and letting go.
+
+[bmm-017]
+* Due to low quality recording, voice was generated by AI
+
+[bmm-018]
+Read Full Testimony
+
+[bmm-019]
+Brand new to Fort Wainwright, they knew no one. One week after the course: "I have a community here now." She's already telling others to come.
+
+[bmm-020]
+* Due to low quality recording, voice was generated by AI
+
+[bmm-021]
+Read Full Testimony
+
+[bmm-022]
+1-24 Infantry. He's lost a soldier to suicide. This course gave him the missing piece — between identifying trauma and preventing the worst outcome.
+
+[bmm-023]
+* Due to low quality recording, voice was generated by AI
+
+[bmm-024]
+Read Full Testimony
+
+
+### What
+
+[bmm-025]
+What Happened Here
+
+[bmm-026]
+Inside one session at Fort Wainwright.
+
+[bmm-027]
+Vulnerability
+
+[bmm-028]
+Soldiers opened up about trauma, loss, and pain they had carried for years — some for the first time.
+
+[bmm-029]
+Scripture
+
+[bmm-030]
+The Word of God was the foundation. Not answers dropped on pain, but truth walked alongside it.
+
+[bmm-031]
+Community
+
+[bmm-032]
+Strangers became family. A new lieutenant said: "I have a community here now."
+
+
+### Cta
+
+[bmm-033]
+Could Your Unit Benefit?
+
+[bmm-034]
+The Healing the Wounds of Trauma course is free, scripture-based, and facilitated by trained Native leaders. It meets people where they are.
+
+[bmm-035]
+Find a Group →
+
+[bmm-036]
+Contact Us
+
+
+### Nav — Nav
+
+[bmm-037]
+← Back to Site
+
+[bmm-038]
+Healing Groups
+
+[bmm-039]
+Contact
+
+
+### Footer — Footer
+
+[bmm-040]
+© 2026 Lutheran Indian Ministries · lim2026admin access
+
+[bmm-041]
+Session: March 20, 2026 · Fort Wainwright, Fairbanks AK
+
+
+### Modal — P1
+
+[bmm-042]
+✕
+
+[bmm-043]
+"I've been walking with the Lord for over 20 years, and you'd think after that long you've experienced it all in His presence. But then you go somewhere and something just feels new — like fresh things are happening in you. That's what this was for me. I was guided and helped to release so many things that happened in my life, both before Jesus and even after coming to Him.
+
+[bmm-044]
+This course was truly life-changing. And the biggest outcome for me — the thing it lifted right off my mind — was a belief I had carried for a long time: that in order to help others, you have to be perfect. That you have to have it all together. And that's simply not true.
+
+[bmm-045]
+Through this course, the Lord spoke to me clearly. He said, "You want to help people? Then you have to understand them." And to understand them, you have to have been broken yourself. But you also have to have Jesus. You have to have the Word of God. And you have to have the specific tools that a course like this — focused on healing trauma — can give you. That's what makes you ready.
+
+[bmm-046]
+It was amazing. I told my wife, "You have to go." And honestly, I'd say the same to every one of you — you have to go. Because it gives you the chance to heal, to understand yourself, and to come out the other side ready to help others.
+
+[bmm-047]
+For me, that was the greatest outcome of all."
+
+[bmm-048]
+The testimonials featured here were originally delivered verbally and have been lightly edited for grammar, clarity, and readability. No changes were made to the substance, meaning, or spirit of what each person shared. Their stories remain entirely their own.
+
+
+### Modal — P2
+
+[bmm-049]
+✕
+
+[bmm-050]
+"At the beginning of my career, I was sexually assaulted. This class talked a lot about justice and forgiveness, and for the last five years, that's something I've really wrestled with — especially from a biblical standpoint — because the human part of me desperately wants to see justice. And I didn't get that. The person who hurt me walked away with a promotion, walked away with an award, and ETS'd out of the Army with full benefits. It felt like a slap in the face.
+
+[bmm-051]
+What this class showed me is that when people are hurting and they need someone to sit with them and grieve with them, we sometimes get so excited to share the Word of God that we miss what they actually need. And sometimes what they need isn't a scripture — it's just you showing up. Just being there.
+
+[bmm-052]
+That's one of the biggest things I'm taking away from this class: I feel so much more equipped to walk alongside you all and love you better. I'm not always going to have the right words, and honestly, sometimes the right words aren't even what you need. What I want is to walk through life with you — because we are no strangers to suffering in the military. Something happens to one of us every single day. The person to your left and to your right — you never really know what they're carrying.
+
+[bmm-053]
+As much as I love Scripture, sometimes the most powerful thing you can offer someone isn't a verse. It's, "Hey, let's get coffee. Let me make you a meal. Let's go for a walk." That's how I want to love and steward you all.
+
+[bmm-054]
+And that started with this class. I learned that vengeance is not mine. As much as I want justice — as much as I want righteousness — that's in the hands of the Lord. And that's something I have to lay at the foot of the cross every single day. I'm still learning that. So, thank you."
+
+[bmm-055]
+The testimonials featured here were originally delivered verbally and have been lightly edited for grammar, clarity, and readability. No changes were made to the substance, meaning, or spirit of what each person shared. Their stories remain entirely their own.
+
+
+### Modal — P3
+
+[bmm-056]
+✕
+
+[bmm-057]
+"I came into this course brand new to Fort Wainwright. I hadn't been here long, I didn't know anyone personally, and I only knew one name walking through the door. I was nervous and honestly didn't know what to expect — I had just gotten approved the night before, and all I knew was the title of the course.
+
+[bmm-058]
+I had no idea how much it was going to change me.
+
+[bmm-059]
+The course covered a lot around trauma — healing it in yourself, and then learning how to help others through it. Both of those hit close to home for me. I'm in the middle of my own healing journey right now, and as a lieutenant in the Army, I know that one day soldiers will come to me carrying their own traumatic experiences. So I took this seriously.
+
+[bmm-060]
+What did God do for me? He changed my perspective. I got to understand the trauma I've been through, where I am in the healing process, and how to come alongside others who are hurting. I got so much more comfortable — with myself, with this community — and I realized I'm not alone here anymore. And if you're sitting there wondering the same thing, you're not alone either.
+
+[bmm-061]
+Something shifted in me. My mentality changed. I learned that I wasn't broken — that healing was possible, and that it was already happening. I learned how to step into the Word and let it be part of that healing. And honestly? It's only been a week. It has already changed my life.
+
+[bmm-062]
+As for sharing this with others — I'm new here, so I don't know a lot of people yet. But the few I've talked to about this course were immediately interested. Some have already said they want to come to EYB just to hear more about what this experience could do for them. I hope I can help make that happen, because I want them to be able to walk the same path I'm on — maybe not the exact same path, we all have our own — but at least take a step in the right direction.
+
+[bmm-063]
+If it weren't for this course, I don't think I'd be leading anything right now. I don't think I'd be standing here with this kind of confidence. But I have a community now. And that means everything."
+
+[bmm-064]
+The testimonials featured here were originally delivered verbally and have been lightly edited for grammar, clarity, and readability. No changes were made to the substance, meaning, or spirit of what each person shared. Their stories remain entirely their own.
+
+
+### Modal — P4
+
+[bmm-065]
+✕
+
+[bmm-066]
+"I went through this course alongside Felipe, Charlotte, and Kelsey, and it was genuinely valuable — because it helps you understand what people are actually going through.
+
+[bmm-067]
+Here in Fairbanks, Alaska, one of the things we're consistently briefed on is how high the suicide rate is. And what this course helped me understand is that suicide isn't where you start — it's where you look if you want to understand it. You have to go all the way back to the beginning. The trauma, the triggers, the steps people go through before they ever reach that point.
+
+[bmm-068]
+I'll give you a real example. In 1-24 Infantry, we lost Staff Sergeant Arnold to suicide not long ago. People around him weren't able to identify the signs, and he took his own life. That's something we carry every single day. And just recently, there were one or two suicide attempts where someone did intervene — and because of that, those lives were saved.
+
+[bmm-069]
+That's exactly why this course matters to me. It teaches you how trauma works, how to identify it, how to sit with someone in it. And going through it yourself, being vulnerable in that space, opens you up in a way that makes people feel safe sharing with you. They don't feel like they're the only one. You're in it together.
+
+[bmm-070]
+For me, it felt like a missing piece — the bridge between recognizing someone is struggling and actually knowing how to help steer them away from a dark path. The connection between understanding trauma, walking with God, and preventing the worst from happening.
+
+[bmm-071]
+I'd recommend this course to anyone. And if you ever want to talk more about it, come find me — I'm happy to speak with you in person. Because here's the thing: it doesn't take a counselor or a chaplain to make a difference in someone's life. God can call any one of us to be that person for someone. So don't count yourself out."
+
+[bmm-072]
+The testimonials featured here were originally delivered verbally and have been lightly edited for grammar, clarity, and readability. No changes were made to the substance, meaning, or spirit of what each person shared. Their stories remain entirely their own.
