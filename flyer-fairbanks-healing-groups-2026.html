@@ -32,15 +32,15 @@
     body{font-family:var(--body);color:var(--charcoal);line-height:1.55;-webkit-print-color-adjust:exact;print-color-adjust:exact;padding:32px 0}
     img{max-width:100%;height:auto;display:block}
 
-    /* Letter sheet — 8.5 x 11 in */
+    /* Letter sheet — 8.5 x 11 in (fixed height to guarantee single-page print) */
     .sheet{
       width:8.5in;
-      min-height:11in;
+      height:11in;
       margin:0 auto;
       background:#fff;
       box-shadow:0 8px 28px rgba(0,0,0,.18);
       display:grid;
-      grid-template-rows:auto auto 1fr auto;
+      grid-template-rows:auto auto 1fr auto auto auto;
       overflow:hidden;
       position:relative;
     }
@@ -416,8 +416,17 @@
       margin:0;
     }
     @media print{
-      html,body{background:#fff;padding:0;margin:0}
-      .sheet{box-shadow:none;width:8.5in;min-height:11in;page-break-after:always}
+      html,body{background:#fff;padding:0;margin:0;width:8.5in;height:11in}
+      .sheet{
+        box-shadow:none;
+        width:8.5in;
+        height:11in;
+        max-height:11in;
+        page-break-after:avoid;
+        page-break-inside:avoid;
+        break-inside:avoid;
+        overflow:hidden;
+      }
       .no-print{display:none !important}
     }
 
