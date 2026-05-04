@@ -40,7 +40,7 @@
       background:#fff;
       box-shadow:0 8px 28px rgba(0,0,0,.18);
       display:grid;
-      grid-template-rows:auto auto 1fr auto auto;
+      grid-template-rows:auto auto minmax(0,1fr) auto auto;
       overflow:hidden;
       position:relative;
     }
@@ -90,7 +90,7 @@
     /* ===== Hero ===== */
     .hero{
       position:relative;
-      height:2.9in;
+      height:2.55in;
       overflow:hidden;
       background:var(--charcoal);
     }
@@ -343,6 +343,7 @@
       background:var(--charcoal);
       color:#fff;
       padding:28px 48px 48px;
+      min-height:1.8in;
       display:grid;
       grid-template-columns:1.5fr 1fr auto;
       gap:22px;
@@ -445,17 +446,204 @@
       z-index:10;
       pointer-events:none;
     }
+
+    /* ===== Order modal ===== */
+    .modal-backdrop{
+      position:fixed;inset:0;
+      background:rgba(20,20,18,.62);
+      display:flex;align-items:center;justify-content:center;
+      z-index:1000;
+      padding:32px 16px;
+      overflow-y:auto;
+    }
+    .modal-backdrop[hidden]{display:none}
+    .modal{
+      background:#fff;
+      width:min(880px, 100%);
+      max-height:calc(100vh - 64px);
+      border-radius:8px;
+      box-shadow:0 24px 64px rgba(0,0,0,.4);
+      display:flex;flex-direction:column;
+      overflow:hidden;
+    }
+    .modal-head{
+      padding:18px 24px;
+      background:var(--charcoal);color:#fff;
+      display:flex;align-items:center;justify-content:space-between;gap:16px;
+    }
+    .modal-head h2{
+      font-family:var(--serif);font-weight:700;font-size:22px;
+    }
+    .modal-head .modal-sub{
+      font-family:var(--cond);font-weight:600;font-size:11px;
+      letter-spacing:.22em;text-transform:uppercase;color:var(--sky);
+      margin-top:2px;
+    }
+    .modal-close{
+      background:transparent;border:0;color:#fff;
+      font-size:28px;line-height:1;cursor:pointer;padding:4px 10px;
+      border-radius:4px;
+    }
+    .modal-close:hover{background:rgba(255,255,255,.12)}
+
+    .order-form{
+      display:grid;
+      grid-template-columns:1.5fr 1fr;
+      overflow:hidden;
+    }
+    @media (max-width:760px){
+      .order-form{grid-template-columns:1fr}
+    }
+    .form-options{
+      padding:22px 24px;
+      overflow-y:auto;
+    }
+    .price-summary{
+      background:var(--stone);
+      padding:22px 24px;
+      border-left:1px solid var(--border);
+      display:flex;flex-direction:column;gap:14px;
+    }
+    @media (max-width:760px){
+      .price-summary{border-left:0;border-top:1px solid var(--border)}
+    }
+
+    .order-form fieldset{
+      border:0;
+      margin-bottom:18px;
+    }
+    .order-form legend{
+      font-family:var(--cond);font-weight:700;font-size:12px;
+      letter-spacing:.2em;text-transform:uppercase;color:var(--charcoal);
+      margin-bottom:8px;
+    }
+    .order-form label{font-size:14px}
+
+    .qty-grid{
+      display:grid;grid-template-columns:repeat(auto-fit,minmax(78px,1fr));
+      gap:6px;
+    }
+    .qty-grid label{
+      display:flex;flex-direction:column;align-items:center;
+      padding:8px 4px;
+      border:1.5px solid var(--border);
+      border-radius:5px;cursor:pointer;
+      background:#fff;
+      transition:border-color .12s, background .12s;
+    }
+    .qty-grid label:hover{border-color:var(--sky-d)}
+    .qty-grid input{position:absolute;opacity:0;pointer-events:none}
+    .qty-grid label .qv{
+      font-family:var(--cond);font-weight:700;font-size:16px;
+    }
+    .qty-grid label .qu{
+      font-size:10.5px;color:var(--muted);margin-top:1px;
+    }
+    .qty-grid input:checked + .qv{color:var(--red)}
+    .qty-grid label:has(input:checked){
+      border-color:var(--red);background:#fff8f8;
+    }
+
+    .order-form select,
+    .order-form input[type="text"],
+    .order-form input[type="email"],
+    .order-form input[type="date"],
+    .order-form input[type="tel"]{
+      width:100%;
+      padding:9px 11px;
+      font-family:var(--body);font-size:14px;
+      border:1.5px solid var(--border);
+      border-radius:5px;
+      background:#fff;
+      color:var(--charcoal);
+    }
+    .order-form select:focus,
+    .order-form input:focus{
+      outline:none;border-color:var(--sky-d);
+      box-shadow:0 0 0 3px rgba(111,163,184,.18);
+    }
+    .ship-grid{
+      display:grid;grid-template-columns:1fr 1fr;gap:10px;
+    }
+    .ship-grid .full{grid-column:1 / -1}
+
+    .price-summary h3{
+      font-family:var(--cond);font-weight:700;font-size:12px;
+      letter-spacing:.2em;text-transform:uppercase;color:var(--sky-d);
+    }
+    .price-line{
+      display:flex;justify-content:space-between;align-items:baseline;
+      font-size:13px;color:var(--charcoal);
+    }
+    .price-line .lbl{color:var(--muted)}
+    .price-line.rush .val{color:var(--red);font-weight:700}
+    .price-divider{height:1px;background:var(--border);margin:6px 0}
+    .price-total{
+      display:flex;justify-content:space-between;align-items:baseline;
+      font-family:var(--serif);font-weight:900;font-size:24px;
+      color:var(--charcoal);
+      padding-top:6px;border-top:2px solid var(--charcoal);
+    }
+    .rush-banner{
+      font-family:var(--cond);font-weight:700;font-size:11px;
+      letter-spacing:.18em;text-transform:uppercase;
+      color:var(--red);
+      background:#fff;padding:8px 10px;border-radius:5px;
+      border:1.5px dashed var(--red);
+    }
+    .rush-banner[hidden]{display:none}
+
+    .form-actions{
+      grid-column:1 / -1;
+      padding:16px 24px;
+      background:#fafaf7;
+      border-top:1px solid var(--border);
+      display:flex;gap:10px;justify-content:flex-end;align-items:center;
+    }
+    .form-actions .submit-note{
+      margin-right:auto;font-size:12px;color:var(--muted);
+    }
+    .btn-secondary{
+      font-family:var(--cond);font-weight:700;
+      letter-spacing:.18em;text-transform:uppercase;font-size:12px;
+      background:#fff;color:var(--charcoal);
+      border:1.5px solid var(--border);
+      padding:10px 16px;border-radius:4px;cursor:pointer;
+    }
+    .btn-secondary:hover{background:var(--stone)}
+    .btn-submit{
+      font-family:var(--cond);font-weight:700;
+      letter-spacing:.18em;text-transform:uppercase;font-size:12px;
+      background:var(--red);color:#fff;border:0;
+      padding:11px 22px;border-radius:4px;cursor:pointer;
+    }
+    .btn-submit:hover{background:#c41119}
+
+    .order-success{
+      padding:48px 32px;text-align:center;
+    }
+    .order-success h2{
+      font-family:var(--serif);font-weight:900;font-size:28px;
+      margin-bottom:12px;color:var(--charcoal);
+    }
+    .order-success p{
+      font-family:var(--serif);font-size:15px;color:var(--muted);
+      max-width:36ch;margin:0 auto;
+    }
+
+    /* Hidden Netlify-form copy used so the build picks up the form schema. */
+    .netlify-form-stub{display:none}
   </style>
 </head>
 <body>
 
   <div class="toolbar no-print">
-    <span class="toolbar-stamp" id="toolbar-stamp">Last export: —</span>
+    <span class="toolbar-stamp" id="toolbar-stamp">Last export: May 4, 2026, 12:58 PM CDT</span>
     <a class="btn primary"
        id="dl-link"
-       href="print-export/exports/flyer-fairbanks-healing-groups-2026.pdf"
-       download="LIM-Fairbanks-Healing-Groups-2026.pdf">Download PDF</a>
-    <button onclick="window.print()">Print / Save as PDF</button>
+       href="print-export/exports/flyer-fairbanks-healing-groups-2026_2026-05-04T17-58.pdf"
+       download="LIM-Fairbanks-Healing-Groups-2026_2026-05-04T17-58.pdf">Download PDF</a>
+    <button id="order-btn" type="button">Order Prints</button>
   </div>
 
   <article class="sheet" aria-label="Fairbanks Healing Groups 2026 flyer">
@@ -571,7 +759,7 @@
     </section>
 
     <!-- Tiny export timestamp (bottom-right of page, baked into PDF) -->
-    <div class="print-stamp" id="print-stamp">Exported —</div>
+    <div class="print-stamp" id="print-stamp">Exported May 4, 2026, 12:58 PM CDT</div>
 
     <!-- ===== Footer ===== -->
     <footer class="foot">
@@ -593,18 +781,291 @@
 
   </article>
 
-  <script src="print-export/exports/last-export.js"></script>
+  <!-- Hidden form copy so Netlify's build-time scanner detects all fields -->
+  <form name="flyer-print-order" netlify netlify-honeypot="bot-field" hidden class="netlify-form-stub">
+    <input name="bot-field"><input name="quantity"><input name="paper">
+    <input name="sides"><input name="finish"><input name="shipping">
+    <input name="dateNeeded"><input name="customerName"><input name="email">
+    <input name="phone"><input name="street1"><input name="street2">
+    <input name="city"><input name="state"><input name="zip">
+    <input name="orderNotes"><input name="estimatedTotal">
+  </form>
+
+  <!-- ===== Order Prints modal (no-print) ===== -->
+  <div class="modal-backdrop no-print" id="order-modal" hidden role="dialog" aria-modal="true" aria-labelledby="order-title">
+    <div class="modal">
+      <header class="modal-head">
+        <div>
+          <h2 id="order-title">Order Prints</h2>
+          <div class="modal-sub">Fairbanks Healing Groups 2026 · Letter</div>
+        </div>
+        <button type="button" class="modal-close" data-close aria-label="Close">×</button>
+      </header>
+
+      <form class="order-form" id="order-form" name="flyer-print-order"
+            method="POST" data-netlify="true" netlify-honeypot="bot-field"
+            action="?order=submitted">
+        <input type="hidden" name="form-name" value="flyer-print-order">
+        <input type="hidden" name="estimatedTotal" id="hidden-total" value="">
+        <p class="netlify-form-stub"><label>Don't fill this out: <input name="bot-field"></label></p>
+
+        <div class="form-options">
+
+          <fieldset>
+            <legend>Quantity</legend>
+            <div class="qty-grid" role="radiogroup" aria-label="Quantity">
+              <label><input type="radio" name="quantity" value="25"><span class="qv">25</span><span class="qu">$0.85 ea</span></label>
+              <label><input type="radio" name="quantity" value="50"><span class="qv">50</span><span class="qu">$0.65 ea</span></label>
+              <label><input type="radio" name="quantity" value="100"><span class="qv">100</span><span class="qu">$0.45 ea</span></label>
+              <label><input type="radio" name="quantity" value="250" checked><span class="qv">250</span><span class="qu">$0.32 ea</span></label>
+              <label><input type="radio" name="quantity" value="500"><span class="qv">500</span><span class="qu">$0.24 ea</span></label>
+              <label><input type="radio" name="quantity" value="1000"><span class="qv">1000</span><span class="qu">$0.18 ea</span></label>
+              <label><input type="radio" name="quantity" value="2500"><span class="qv">2500</span><span class="qu">$0.14 ea</span></label>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Paper</legend>
+            <select name="paper" id="paper-sel">
+              <option value="80-uncoated">80 lb Uncoated Text (matte, no shine)</option>
+              <option value="100-gloss-text" selected>100 lb Gloss Text — popular</option>
+              <option value="100-matte-text">100 lb Matte / Silk Text</option>
+              <option value="100-gloss-cover">100 lb Gloss Cover (cardstock)</option>
+              <option value="recycled-uncoated">Recycled Uncoated 80 lb</option>
+            </select>
+          </fieldset>
+
+          <fieldset>
+            <legend>Sides</legend>
+            <select name="sides" id="sides-sel">
+              <option value="1" selected>1-sided (front only) — popular</option>
+              <option value="2">2-sided (front + back)</option>
+            </select>
+          </fieldset>
+
+          <fieldset>
+            <legend>Finish / coating</legend>
+            <select name="finish" id="finish-sel">
+              <option value="none" selected>None — popular</option>
+              <option value="matte">Matte coating (+10%)</option>
+              <option value="gloss">Gloss coating (+12%)</option>
+              <option value="uv">UV coating (+30%)</option>
+            </select>
+          </fieldset>
+
+          <fieldset>
+            <legend>Shipping</legend>
+            <select name="shipping" id="shipping-sel">
+              <option value="standard" selected>Standard Ground (5–7 business days) · $12</option>
+              <option value="priority">Priority (2–3 business days) · $25</option>
+              <option value="overnight">Overnight · $55</option>
+            </select>
+          </fieldset>
+
+          <fieldset>
+            <legend>Date needed by</legend>
+            <input type="date" name="dateNeeded" id="date-sel">
+            <div id="rush-banner" class="rush-banner" hidden style="margin-top:8px"></div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Ship to</legend>
+            <div class="ship-grid">
+              <input class="full" type="text" name="customerName" placeholder="Full name" required>
+              <input type="email" name="email" placeholder="Email" required>
+              <input type="tel" name="phone" placeholder="Phone (optional)">
+              <input class="full" type="text" name="street1" placeholder="Street address" required>
+              <input class="full" type="text" name="street2" placeholder="Apt / Suite (optional)">
+              <input type="text" name="city" placeholder="City" required>
+              <input type="text" name="state" placeholder="State / Province" required>
+              <input class="full" type="text" name="zip" placeholder="ZIP / Postal code" required>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Anything else?</legend>
+            <input type="text" name="orderNotes" placeholder="Notes for the printer (optional)">
+          </fieldset>
+
+        </div>
+
+        <aside class="price-summary" aria-live="polite">
+          <h3>Estimate</h3>
+          <div class="price-line"><span class="lbl">Units</span><span class="val" id="px-units">—</span></div>
+          <div class="price-line"><span class="lbl">Paper</span><span class="val" id="px-paper">—</span></div>
+          <div class="price-line"><span class="lbl">Sides</span><span class="val" id="px-sides">—</span></div>
+          <div class="price-line"><span class="lbl">Finish</span><span class="val" id="px-finish">—</span></div>
+          <div class="price-divider"></div>
+          <div class="price-line"><span class="lbl">Subtotal</span><span class="val" id="px-subtotal">—</span></div>
+          <div class="price-line rush" id="px-rush-row" hidden><span class="lbl">Rush <span id="px-rush-pct"></span></span><span class="val" id="px-rush-amt">—</span></div>
+          <div class="price-line"><span class="lbl">Shipping</span><span class="val" id="px-shipping">—</span></div>
+          <div class="price-total"><span>Total</span><span id="px-total">—</span></div>
+          <div style="font-size:11px;color:var(--muted);margin-top:4px">
+            Estimate only. Final price confirmed when order is reviewed.
+          </div>
+        </aside>
+
+        <div class="form-actions">
+          <span class="submit-note">Submitting sends this order request to LIM.</span>
+          <button type="button" class="btn-secondary" data-close>Cancel</button>
+          <button type="submit" class="btn-submit">Submit Order Request</button>
+        </div>
+      </form>
+
+      <div class="order-success" id="order-success" hidden>
+        <h2>Order request received</h2>
+        <p>Thanks — we&rsquo;ll be in touch shortly to confirm your print order and final pricing.</p>
+        <p style="margin-top:18px"><button type="button" class="btn-secondary" data-close>Close</button></p>
+      </div>
+    </div>
+  </div>
+
   <script>
     (function () {
-      var human = window.LAST_EXPORT_HUMAN || 'never';
-      var fileStamp = window.LAST_EXPORT_FILE || '';
-      var tb = document.getElementById('toolbar-stamp');
-      if (tb) tb.textContent = 'Last export: ' + human;
-      var ps = document.getElementById('print-stamp');
-      if (ps) ps.textContent = 'Exported ' + human;
-      var dl = document.getElementById('dl-link');
-      if (dl && fileStamp) {
-        dl.setAttribute('download', 'LIM-Fairbanks-Healing-Groups-2026_' + fileStamp + '.pdf');
+      var QTY_PRICE = {25:0.85, 50:0.65, 100:0.45, 250:0.32, 500:0.24, 1000:0.18, 2500:0.14};
+      var PAPER_MOD = {
+        '80-uncoated': 0.90,
+        '100-gloss-text': 1.00,
+        '100-matte-text': 1.05,
+        '100-gloss-cover': 1.25,
+        'recycled-uncoated': 1.08
+      };
+      var PAPER_LABEL = {
+        '80-uncoated': '80 lb Uncoated',
+        '100-gloss-text': '100 lb Gloss Text',
+        '100-matte-text': '100 lb Matte Text',
+        '100-gloss-cover': '100 lb Gloss Cover',
+        'recycled-uncoated': 'Recycled 80 lb'
+      };
+      var SIDES_MOD = {'1':1.00, '2':1.40};
+      var SIDES_LABEL = {'1':'1-sided', '2':'2-sided'};
+      var FINISH_MOD = {'none':1.00, 'matte':1.10, 'gloss':1.12, 'uv':1.30};
+      var FINISH_LABEL = {'none':'No coating', 'matte':'Matte', 'gloss':'Gloss', 'uv':'UV'};
+      var SHIPPING_FEE = {'standard':12, 'priority':25, 'overnight':55};
+
+      function rushTier(daysAway) {
+        if (daysAway >= 14) return {pct:0,   label:''};
+        if (daysAway >= 10) return {pct:15,  label:'Rush — under 2 weeks'};
+        if (daysAway >= 7)  return {pct:30,  label:'Rush — under 10 days'};
+        if (daysAway >= 4)  return {pct:60,  label:'Rush — under 1 week'};
+        return                       {pct:100, label:'Rush — 3 days or less'};
+      }
+
+      function fmt(n){return '$'+n.toFixed(2);}
+
+      var form    = document.getElementById('order-form');
+      var dateEl  = document.getElementById('date-sel');
+      var hiddenTotal = document.getElementById('hidden-total');
+      var rushBanner  = document.getElementById('rush-banner');
+      var modal       = document.getElementById('order-modal');
+      var successPane = document.getElementById('order-success');
+      var orderBtn    = document.getElementById('order-btn');
+
+      // Default date: 21 days from today (no rush).
+      function setDefaultDate() {
+        if (dateEl.value) return;
+        var d = new Date();
+        d.setDate(d.getDate() + 21);
+        dateEl.value = d.toISOString().slice(0,10);
+        // Min date: today
+        var today = new Date(); today.setHours(0,0,0,0);
+        dateEl.min = today.toISOString().slice(0,10);
+      }
+
+      function recalc() {
+        var qty = parseInt(form.quantity.value, 10);
+        var paper = form.paper.value;
+        var sides = form.sides.value;
+        var finish = form.finish.value;
+        var shipping = form.shipping.value;
+        var dateNeeded = form.dateNeeded.value;
+
+        var unit = QTY_PRICE[qty];
+        var subtotal = qty * unit * PAPER_MOD[paper] * SIDES_MOD[sides] * FINISH_MOD[finish];
+
+        var rushObj = {pct:0, label:''};
+        if (dateNeeded) {
+          var today = new Date(); today.setHours(0,0,0,0);
+          var target = new Date(dateNeeded + 'T00:00:00');
+          var days = Math.round((target - today) / 86400000);
+          rushObj = rushTier(days);
+        }
+        var rushAmt = subtotal * (rushObj.pct / 100);
+        var ship = SHIPPING_FEE[shipping];
+        var total = subtotal + rushAmt + ship;
+
+        document.getElementById('px-units').textContent    = qty + ' × ' + fmt(unit);
+        document.getElementById('px-paper').textContent    = PAPER_LABEL[paper];
+        document.getElementById('px-sides').textContent    = SIDES_LABEL[sides];
+        document.getElementById('px-finish').textContent   = FINISH_LABEL[finish];
+        document.getElementById('px-subtotal').textContent = fmt(subtotal);
+        document.getElementById('px-shipping').textContent = fmt(ship);
+        document.getElementById('px-total').textContent    = fmt(total);
+
+        var rushRow = document.getElementById('px-rush-row');
+        if (rushObj.pct > 0) {
+          rushRow.hidden = false;
+          document.getElementById('px-rush-pct').textContent = '(+' + rushObj.pct + '%)';
+          document.getElementById('px-rush-amt').textContent = fmt(rushAmt);
+          rushBanner.hidden = false;
+          rushBanner.textContent = rushObj.label + ' · +' + rushObj.pct + '% added';
+        } else {
+          rushRow.hidden = true;
+          rushBanner.hidden = true;
+        }
+
+        hiddenTotal.value = total.toFixed(2);
+      }
+
+      function openModal() {
+        setDefaultDate();
+        recalc();
+        modal.hidden = false;
+        document.body.style.overflow = 'hidden';
+      }
+      function closeModal() {
+        modal.hidden = true;
+        document.body.style.overflow = '';
+      }
+
+      orderBtn.addEventListener('click', openModal);
+      modal.addEventListener('click', function(e) {
+        if (e.target === modal) closeModal();
+      });
+      document.querySelectorAll('[data-close]').forEach(function(btn){
+        btn.addEventListener('click', closeModal);
+      });
+      document.addEventListener('keydown', function(e){
+        if (e.key === 'Escape' && !modal.hidden) closeModal();
+      });
+
+      form.addEventListener('change', recalc);
+      form.addEventListener('input', recalc);
+
+      // Encode and POST to Netlify, then show success pane in-place
+      // (avoids the page navigation Netlify defaults to).
+      form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        recalc();
+        var data = new FormData(form);
+        var body = new URLSearchParams();
+        data.forEach(function(v, k) { body.append(k, v); });
+        fetch('/', { method: 'POST', headers: {'Content-Type':'application/x-www-form-urlencoded'}, body: body.toString() })
+          .then(function() {
+            form.style.display = 'none';
+            successPane.hidden = false;
+          })
+          .catch(function() {
+            form.style.display = 'none';
+            successPane.hidden = false;
+          });
+      });
+
+      // If URL has ?order=submitted (e.g., from a non-JS submit), show success.
+      if (window.location.search.indexOf('order=submitted') !== -1) {
+        openModal();
+        form.style.display = 'none';
+        successPane.hidden = false;
       }
     })();
   </script>

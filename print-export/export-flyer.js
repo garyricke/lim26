@@ -1,5 +1,5 @@
 import { chromium } from 'playwright';
-import { mkdirSync, existsSync, writeFileSync } from 'node:fs';
+import { mkdirSync, existsSync, writeFileSync, readFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
@@ -37,19 +37,48 @@ async function main() {
 
   mkdirSync(EXPORTS_DIR, { recursive: true });
 
-  // Write a timestamp JS file so the rendered page can display the
-  // export time (in both the PDF and the live browser preview).
+  // Bake a fresh export timestamp directly into the flyer HTML so
+  // both the live page and the rendered PDF carry the stamp without
+  // relying on async JS loading. The HTML carries marker comments
+  // that are rewritten on every export.
   const now = new Date();
   const stampHuman = now.toLocaleString('en-US', {
     year: 'numeric', month: 'short', day: 'numeric',
     hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
   });
   const stampFile = now.toISOString().replace(/[:.]/g, '-').slice(0, 16);
-  writeFileSync(
-    resolve(EXPORTS_DIR, 'last-export.js'),
-    `window.LAST_EXPORT_HUMAN = ${JSON.stringify(stampHuman)};\n` +
-    `window.LAST_EXPORT_FILE = ${JSON.stringify(stampFile)};\n`
-  );
+
+  for (const flyer of targets) {
+    const htmlPath = resolve(PROJECT_ROOT, flyer.html);
+    if (!existsSync(htmlPath)) continue;
+    const pdfFile = `${flyer.file}_${stampFile}.pdf`;
+    let html = readFileSync(htmlPath, 'utf8');
+
+    // 1. Toolbar text (browser only): "Last export: …"
+    html = html.replace(
+      /(<span class="toolbar-stamp" id="toolbar-stamp">)[^<]*(<\/span>)/,
+      `$1Last export: ${stampHuman}$2`
+    );
+
+    // 2. Print-visible stamp inside the PDF
+    html = html.replace(
+      /(<div class="print-stamp" id="print-stamp">)[^<]*(<\/div>)/,
+      `$1Exported ${stampHuman}$2`
+    );
+
+    // 3. Download button: href points at the timestamped PDF, download
+    //    attribute names the saved file with the timestamp too.
+    html = html.replace(
+      /(id="dl-link"\s+href=")[^"]+(")/,
+      `$1print-export/exports/${pdfFile}$2`
+    );
+    html = html.replace(
+      /(id="dl-link"[\s\S]*?download=")[^"]+(")/,
+      `$1LIM-Fairbanks-Healing-Groups-2026_${stampFile}.pdf$2`
+    );
+
+    writeFileSync(htmlPath, html);
+  }
   console.log(`Stamped: ${stampHuman}`);
 
   const browser = await chromium.launch();
@@ -85,7 +114,8 @@ async function main() {
       )
     ));
 
-    const pdfPath = resolve(EXPORTS_DIR, `${flyer.file}.pdf`);
+    const pdfFile = `${flyer.file}_${stampFile}.pdf`;
+    const pdfPath = resolve(EXPORTS_DIR, pdfFile);
     await page.pdf({
       path: pdfPath,
       width: '8.5in',
