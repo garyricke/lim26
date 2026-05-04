@@ -434,18 +434,26 @@
       max-width:8.5in;margin:0 auto 16px;
       display:flex;gap:10px;justify-content:flex-end;
     }
-    .toolbar button{
+    .toolbar button,
+    .toolbar a.btn{
       font-family:var(--cond);font-weight:700;
       letter-spacing:.18em;text-transform:uppercase;font-size:12px;
       background:var(--charcoal);color:#fff;border:0;
       padding:10px 16px;border-radius:4px;cursor:pointer;
+      text-decoration:none;display:inline-block;
     }
-    .toolbar button:hover{background:#000}
+    .toolbar button:hover,
+    .toolbar a.btn:hover{background:#000}
+    .toolbar a.btn.primary{background:var(--red)}
+    .toolbar a.btn.primary:hover{background:#c41119}
   </style>
 </head>
 <body>
 
   <div class="toolbar no-print">
+    <a class="btn primary"
+       href="print-export/exports/flyer-fairbanks-healing-groups-2026.pdf"
+       download="LIM-Fairbanks-Healing-Groups-2026.pdf">Download PDF</a>
     <button onclick="window.print()">Print / Save as PDF</button>
   </div>
 
