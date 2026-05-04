@@ -40,7 +40,7 @@
       background:#fff;
       box-shadow:0 8px 28px rgba(0,0,0,.18);
       display:grid;
-      grid-template-rows:auto auto 1fr auto auto auto;
+      grid-template-rows:auto auto 1fr auto auto;
       overflow:hidden;
       position:relative;
     }
@@ -49,7 +49,7 @@
     .topbar{
       background:var(--charcoal);
       color:#fff;
-      padding:14px 36px;
+      padding:16px 48px;
       display:flex;
       align-items:center;
       justify-content:space-between;
@@ -90,7 +90,7 @@
     /* ===== Hero ===== */
     .hero{
       position:relative;
-      height:3.1in;
+      height:2.9in;
       overflow:hidden;
       background:var(--charcoal);
     }
@@ -108,10 +108,10 @@
     }
     .hero-overlay{
       position:absolute;
-      left:36px;top:24px;right:36px;
+      left:48px;top:28px;right:48px;
       z-index:2;
       color:#fff;
-      max-width:5.6in;
+      max-width:5.4in;
     }
     .eyebrow{
       display:inline-flex;align-items:center;gap:10px;
@@ -154,7 +154,7 @@
     /* FREE badge */
     .free-badge{
       position:absolute;
-      top:18px;right:24px;
+      top:22px;right:36px;
       width:1.05in;height:1.05in;
       border-radius:999px;
       background:var(--yellow);
@@ -182,7 +182,7 @@
 
     /* ===== Body content ===== */
     .body{
-      padding:26px 36px 18px;
+      padding:26px 48px 18px;
       display:grid;
       grid-template-columns:1.55fr 1fr;
       gap:26px;
@@ -287,7 +287,7 @@
 
     /* ===== Event panels ===== */
     .events{
-      padding:0 36px 12px;
+      padding:0 48px 14px;
       display:grid;grid-template-columns:1fr 1fr;
       gap:14px;
     }
@@ -342,10 +342,10 @@
     .foot{
       background:var(--charcoal);
       color:#fff;
-      padding:18px 36px 20px;
+      padding:28px 48px 48px;
       display:grid;
       grid-template-columns:1.5fr 1fr auto;
-      gap:18px;
+      gap:22px;
       align-items:center;
     }
     .foot .where .lbl{
@@ -391,22 +391,6 @@
     }
     .foot .qr img{width:100%;height:100%}
 
-    /* Notes ribbon under foot */
-    .notes{
-      background:#1d1e1a;
-      color:#fff;
-      padding:8px 36px;
-      display:flex;justify-content:space-between;align-items:center;
-      font-family:var(--cond);
-      font-weight:600;
-      font-size:11px;
-      letter-spacing:.2em;
-      text-transform:uppercase;
-    }
-    .notes .lunch{color:var(--yellow)}
-    .notes .care{color:rgba(255,255,255,.6)}
-    .notes .hosted{color:rgba(255,255,255,.6)}
-
     /* Print */
     @page{
       size:Letter;
@@ -429,7 +413,12 @@
 
     .toolbar{
       max-width:8.5in;margin:0 auto 16px;
-      display:flex;gap:10px;justify-content:flex-end;
+      display:flex;gap:10px;justify-content:flex-end;align-items:center;
+    }
+    .toolbar .toolbar-stamp{
+      font-family:var(--cond);font-weight:600;
+      font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+      color:var(--muted);margin-right:auto;
     }
     .toolbar button,
     .toolbar a.btn{
@@ -443,12 +432,27 @@
     .toolbar a.btn:hover{background:#000}
     .toolbar a.btn.primary{background:var(--red)}
     .toolbar a.btn.primary:hover{background:#c41119}
+
+    /* Tiny export-stamp baked into the PDF (bottom-right of sheet) */
+    .print-stamp{
+      position:absolute;
+      bottom:6px;right:14px;
+      font-family:var(--cond);
+      font-size:7.5px;
+      letter-spacing:.16em;
+      color:rgba(255,255,255,.45);
+      text-transform:uppercase;
+      z-index:10;
+      pointer-events:none;
+    }
   </style>
 </head>
 <body>
 
   <div class="toolbar no-print">
+    <span class="toolbar-stamp" id="toolbar-stamp">Last export: —</span>
     <a class="btn primary"
+       id="dl-link"
        href="print-export/exports/flyer-fairbanks-healing-groups-2026.pdf"
        download="LIM-Fairbanks-Healing-Groups-2026.pdf">Download PDF</a>
     <button onclick="window.print()">Print / Save as PDF</button>
@@ -566,6 +570,9 @@
 
     </section>
 
+    <!-- Tiny export timestamp (bottom-right of page, baked into PDF) -->
+    <div class="print-stamp" id="print-stamp">Exported —</div>
+
     <!-- ===== Footer ===== -->
     <footer class="foot">
       <div class="where">
@@ -584,13 +591,23 @@
       </div>
     </footer>
 
-    <div class="notes">
-      <span class="hosted">Hosted by Lutheran Indian Ministries</span>
-      <span class="lunch">Lunch provided · Free of charge</span>
-      <span class="care">Childcare not provided</span>
-    </div>
-
   </article>
+
+  <script src="print-export/exports/last-export.js"></script>
+  <script>
+    (function () {
+      var human = window.LAST_EXPORT_HUMAN || 'never';
+      var fileStamp = window.LAST_EXPORT_FILE || '';
+      var tb = document.getElementById('toolbar-stamp');
+      if (tb) tb.textContent = 'Last export: ' + human;
+      var ps = document.getElementById('print-stamp');
+      if (ps) ps.textContent = 'Exported ' + human;
+      var dl = document.getElementById('dl-link');
+      if (dl && fileStamp) {
+        dl.setAttribute('download', 'LIM-Fairbanks-Healing-Groups-2026_' + fileStamp + '.pdf');
+      }
+    })();
+  </script>
 
 </body>
 </html>

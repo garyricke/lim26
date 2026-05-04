@@ -1,5 +1,5 @@
 import { chromium } from 'playwright';
-import { mkdirSync, existsSync } from 'node:fs';
+import { mkdirSync, existsSync, writeFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
@@ -36,6 +36,21 @@ async function main() {
   }
 
   mkdirSync(EXPORTS_DIR, { recursive: true });
+
+  // Write a timestamp JS file so the rendered page can display the
+  // export time (in both the PDF and the live browser preview).
+  const now = new Date();
+  const stampHuman = now.toLocaleString('en-US', {
+    year: 'numeric', month: 'short', day: 'numeric',
+    hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+  });
+  const stampFile = now.toISOString().replace(/[:.]/g, '-').slice(0, 16);
+  writeFileSync(
+    resolve(EXPORTS_DIR, 'last-export.js'),
+    `window.LAST_EXPORT_HUMAN = ${JSON.stringify(stampHuman)};\n` +
+    `window.LAST_EXPORT_FILE = ${JSON.stringify(stampFile)};\n`
+  );
+  console.log(`Stamped: ${stampHuman}`);
 
   const browser = await chromium.launch();
   const context = await browser.newContext({
