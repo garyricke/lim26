@@ -370,7 +370,7 @@
           "tag": "p",
           "section": "section#Healing the Wounds of Trauma",
           "section_slug": "healing-the-wounds-of-trauma",
-          "text": "— Roberta (Kitirak), Ministry Coordinator & Healing Group Participant Anchorage, Alaska",
+          "text": "— Roberta (Kitigruak), Ministry Coordinator & Healing Group Participant Anchorage, Alaska",
           "css": "section#healing > div.heal-intro.wrap:nth-of-type(1) > div.heal-quote-box:nth-of-type(2) > p.heal-attr:nth-of-type(2)",
           "line": null
         },
@@ -718,24 +718,15 @@
         },
         {
           "id": "idx-080",
-          "tag": "p",
-          "section": "article#article",
-          "section_slug": "article",
-          "text": "Can you imagine what it would be like if all our communities could be that helper to one another — scripture-rooted, safe, not judging, not forcing? Just coming from that place of love and grace. That is what this is.",
-          "css": "section#testimonials > div.wrap > div.test-g:nth-of-type(2) > article.tc.fi:nth-of-type(3) > p.tc-text",
-          "line": 779
-        },
-        {
-          "id": "idx-081",
           "tag": "h2",
           "section": "section#Video library",
           "section_slug": "video-library",
           "text": "Videos",
           "css": "section#videos > div.vids-hd.fi:nth-of-type(1) > h2.h2",
-          "line": 793
+          "line": 786
         },
         {
-          "id": "idx-082",
+          "id": "idx-081",
           "tag": "h2",
           "section": "section#From the field",
           "section_slug": "from-the-field",
@@ -744,7 +735,7 @@
           "line": null
         },
         {
-          "id": "idx-083",
+          "id": "idx-082",
           "tag": "h3",
           "section": "section#From the field",
           "section_slug": "from-the-field",
@@ -753,475 +744,475 @@
           "line": null
         },
         {
-          "id": "idx-084",
+          "id": "idx-083",
           "tag": "p",
           "section": "section#From the field",
           "section_slug": "from-the-field",
           "text": "If you are like me, you can recite this verse — but in real life, find yourself far from being able \"to do all things.\" A devotional on what changes when we stop performing strength and start receiving it.",
           "css": "section#blog > div.wrap:nth-of-type(2) > a.blog-featured.fi > div.blog-body:nth-of-type(2) > p.blog-excerpt",
-          "line": 821
+          "line": 813
         },
         {
-          "id": "idx-085",
+          "id": "idx-084",
           "tag": "h3",
           "section": "section#From the field",
           "section_slug": "from-the-field",
           "text": "The Choice: Native OR Christian?",
           "css": "section#blog > div.wrap:nth-of-type(2) > div.blog-grid > a.blog-card.fi:nth-of-type(1) > div.blog-body:nth-of-type(2) > h3.blog-title",
-          "line": 838
+          "line": 830
         },
         {
-          "id": "idx-086",
+          "id": "idx-085",
           "tag": "p",
           "section": "section#From the field",
           "section_slug": "from-the-field",
           "text": "For more than 500 years, Native Americans were told they had to choose. A letter from a Seminole man in prison — and one man's drum — show why that choice was always a lie.",
           "css": "section#blog > div.wrap:nth-of-type(2) > div.blog-grid > a.blog-card.fi:nth-of-type(1) > div.blog-body:nth-of-type(2) > p.blog-excerpt",
-          "line": 839
+          "line": 831
         },
         {
-          "id": "idx-087",
+          "id": "idx-086",
           "tag": "h3",
           "section": "section#From the field",
           "section_slug": "from-the-field",
           "text": "Discovering My True Identity in Christ",
           "css": "section#blog > div.wrap:nth-of-type(2) > div.blog-grid > a.blog-card.fi:nth-of-type(2) > div.blog-body:nth-of-type(2) > h3.blog-title",
-          "line": 843
+          "line": 835
         },
         {
-          "id": "idx-088",
+          "id": "idx-087",
           "tag": "p",
           "section": "section#From the field",
           "section_slug": "from-the-field",
           "text": "Beverly Heyano — Tanqik, \"brightness\" — drank from age 10 to 38. Twenty-seven years later, she shares what she found in God's Word that alcohol could never give her.",
           "css": "section#blog > div.wrap:nth-of-type(2) > div.blog-grid > a.blog-card.fi:nth-of-type(2) > div.blog-body:nth-of-type(2) > p.blog-excerpt",
-          "line": 854
+          "line": 846
         },
         {
-          "id": "idx-089",
+          "id": "idx-088",
           "tag": "h3",
           "section": "section#From the field",
           "section_slug": "from-the-field",
           "text": "When Healing Becomes Real",
           "css": "section#blog > div.wrap:nth-of-type(2) > div.blog-grid > a.blog-card.fi:nth-of-type(3) > div.blog-body:nth-of-type(2) > h3.blog-title",
-          "line": 858
+          "line": 850
         },
         {
-          "id": "idx-090",
+          "id": "idx-089",
           "tag": "p",
           "section": "section#From the field",
           "section_slug": "from-the-field",
           "text": "Four soldiers shared what happened inside — in their own words. Hear how God's Word moved through a military healing group.",
           "css": "section#blog > div.wrap:nth-of-type(2) > div.blog-grid > a.blog-card.fi:nth-of-type(3) > div.blog-body:nth-of-type(2) > p.blog-excerpt",
-          "line": 869
+          "line": 861
         },
         {
-          "id": "idx-091",
+          "id": "idx-090",
           "tag": "h2",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
           "text": "How Can We Walk Together?",
           "css": "section#help > div.wrap > div.help-hd.fi:nth-of-type(1) > h2.h2",
-          "line": 883
+          "line": 875
         },
         {
-          "id": "idx-092",
+          "id": "idx-091",
           "tag": "h3",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
           "text": "Are You Seeking Healing?",
           "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > h3",
-          "line": 888
+          "line": 880
         },
         {
-          "id": "idx-093",
+          "id": "idx-092",
           "tag": "p",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
           "text": "You don't have to carry this alone. Healing Groups are open, safe, and led by people who understand the journey from the inside.",
           "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > p",
-          "line": 889
+          "line": 881
+        },
+        {
+          "id": "idx-093",
+          "tag": "li",
+          "section": "section#How you can help",
+          "section_slug": "how-you-can-help",
+          "text": "Free to attend — ages 18+",
+          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(1)",
+          "line": 883
         },
         {
           "id": "idx-094",
           "tag": "li",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "Free to attend — ages 18+",
-          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(1)",
-          "line": 891
+          "text": "No faith background required",
+          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(2)",
+          "line": 884
         },
         {
           "id": "idx-095",
           "tag": "li",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "No faith background required",
-          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(2)",
-          "line": 892
+          "text": "In-person and online options",
+          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(3)",
+          "line": 885
         },
         {
           "id": "idx-096",
           "tag": "li",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "In-person and online options",
-          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(3)",
-          "line": 893
+          "text": "Held on reservations, in villages and cities",
+          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(4)",
+          "line": 886
         },
         {
           "id": "idx-097",
           "tag": "li",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "Held on reservations, in villages and cities",
-          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(4)",
-          "line": 894
+          "text": "Lunch provided at in-person sessions",
+          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(5)",
+          "line": 887
         },
         {
           "id": "idx-098",
           "tag": "li",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "Lunch provided at in-person sessions",
-          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(5)",
-          "line": 895
+          "text": "Confidential and community-supported",
+          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(6)",
+          "line": 888
         },
         {
           "id": "idx-099",
-          "tag": "li",
-          "section": "section#How you can help",
-          "section_slug": "how-you-can-help",
-          "text": "Confidential and community-supported",
-          "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > ul > li:nth-of-type(6)",
-          "line": 896
-        },
-        {
-          "id": "idx-100",
           "tag": "a",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
           "text": "Find a Healing Group →",
           "css": "section#help > div.wrap > div.help-g:nth-of-type(2) > div.hcard.seek:nth-of-type(1) > div.hcard-btns:nth-of-type(2) > a.btn.btn-ol",
-          "line": 899
+          "line": 891
         },
         {
-          "id": "idx-101",
+          "id": "idx-100",
           "tag": "h3",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
           "text": "Ready to Support the Mission?",
           "css": "div#donate > h3",
-          "line": 904
+          "line": 896
         },
         {
-          "id": "idx-102",
+          "id": "idx-101",
           "tag": "p",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
           "text": "Your partnership makes it possible for LIM to reach every tribe, train every facilitator, and hold every healing group.",
           "css": "div#donate > p",
-          "line": 905
+          "line": 897
+        },
+        {
+          "id": "idx-102",
+          "tag": "li",
+          "section": "section#How you can help",
+          "section_slug": "how-you-can-help",
+          "text": "Monthly giving funds year-round ministry",
+          "css": "div#donate > ul > li:nth-of-type(1)",
+          "line": 899
         },
         {
           "id": "idx-103",
           "tag": "li",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "Monthly giving funds year-round ministry",
-          "css": "div#donate > ul > li:nth-of-type(1)",
-          "line": 907
+          "text": "One-time gifts fund specific programs",
+          "css": "div#donate > ul > li:nth-of-type(2)",
+          "line": 900
         },
         {
           "id": "idx-104",
           "tag": "li",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "One-time gifts fund specific programs",
-          "css": "div#donate > ul > li:nth-of-type(2)",
-          "line": 908
+          "text": "Gifts of stock, IRA, and DAFs welcomed",
+          "css": "div#donate > ul > li:nth-of-type(3)",
+          "line": 901
         },
         {
           "id": "idx-105",
           "tag": "li",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "Gifts of stock, IRA, and DAFs welcomed",
-          "css": "div#donate > ul > li:nth-of-type(3)",
-          "line": 909
+          "text": "3-Star Charity Navigator rated",
+          "css": "div#donate > ul > li:nth-of-type(4)",
+          "line": 902
         },
         {
           "id": "idx-106",
           "tag": "li",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "3-Star Charity Navigator rated",
-          "css": "div#donate > ul > li:nth-of-type(4)",
-          "line": 910
+          "text": "GuideStar Platinum transparency",
+          "css": "div#donate > ul > li:nth-of-type(5)",
+          "line": 903
         },
         {
           "id": "idx-107",
           "tag": "li",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "GuideStar Platinum transparency",
-          "css": "div#donate > ul > li:nth-of-type(5)",
-          "line": 911
+          "text": "Every gift is tax-deductible",
+          "css": "div#donate > ul > li:nth-of-type(6)",
+          "line": 904
         },
         {
           "id": "idx-108",
-          "tag": "li",
+          "tag": "button",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "Every gift is tax-deductible",
-          "css": "div#donate > ul > li:nth-of-type(6)",
-          "line": 912
+          "text": "Give Now",
+          "css": "div#donate > div.hcard-btns:nth-of-type(2) > button.btn.btn-red:nth-of-type(1)",
+          "line": 907
         },
         {
           "id": "idx-109",
           "tag": "button",
           "section": "section#How you can help",
           "section_slug": "how-you-can-help",
-          "text": "Give Now",
-          "css": "div#donate > div.hcard-btns:nth-of-type(2) > button.btn.btn-red:nth-of-type(1)",
-          "line": 915
+          "text": "Ways to Give",
+          "css": "div#donate > div.hcard-btns:nth-of-type(2) > button.btn.btn-olw:nth-of-type(2)",
+          "line": 908
         },
         {
           "id": "idx-110",
-          "tag": "button",
-          "section": "section#How you can help",
-          "section_slug": "how-you-can-help",
-          "text": "Ways to Give",
-          "css": "div#donate > div.hcard-btns:nth-of-type(2) > button.btn.btn-olw:nth-of-type(2)",
-          "line": 916
-        },
-        {
-          "id": "idx-111",
           "tag": "p",
           "section": "footer#footer",
           "section_slug": "footer",
           "text": "A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-brand:nth-of-type(1) > p",
-          "line": 928
+          "line": 920
         },
         {
-          "id": "idx-112",
+          "id": "idx-111",
           "tag": "h4",
           "section": "footer#footer",
           "section_slug": "footer",
           "text": "Ministry",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > h4",
-          "line": 935
+          "line": 927
+        },
+        {
+          "id": "idx-112",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Three Pillars",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+          "line": 929
         },
         {
           "id": "idx-113",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Three Pillars",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(1) > a",
-          "line": 937
+          "text": "Healing Wounds of Trauma",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+          "line": 930
         },
         {
           "id": "idx-114",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Healing Wounds of Trauma",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(2) > a",
-          "line": 938
+          "text": "Haskell LIGHT",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+          "line": 931
         },
         {
           "id": "idx-115",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Haskell LIGHT",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(3) > a",
-          "line": 939
+          "text": "About LIM",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+          "line": 932
         },
         {
           "id": "idx-116",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "About LIM",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(4) > a",
-          "line": 940
-        },
-        {
-          "id": "idx-117",
           "tag": "h4",
           "section": "footer#footer",
           "section_slug": "footer",
           "text": "Get Involved",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > h4",
-          "line": 944
+          "line": 936
+        },
+        {
+          "id": "idx-117",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Find a Healing Group",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+          "line": 938
         },
         {
           "id": "idx-118",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Find a Healing Group",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(1) > a",
-          "line": 946
+          "text": "Become a Facilitator",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+          "line": 939
         },
         {
           "id": "idx-119",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Become a Facilitator",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(2) > a",
-          "line": 947
+          "text": "Donate",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+          "line": 940
         },
         {
           "id": "idx-120",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Donate",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(3) > a",
-          "line": 948
+          "text": "Ways to Give",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(4) > a",
+          "line": 941
         },
         {
           "id": "idx-121",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Ways to Give",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(4) > a",
-          "line": 949
-        },
-        {
-          "id": "idx-122",
           "tag": "h4",
           "section": "footer#footer",
           "section_slug": "footer",
           "text": "Contact",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > h4",
-          "line": 953
+          "line": 945
+        },
+        {
+          "id": "idx-122",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "(262) 439-5663",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+          "line": 947
         },
         {
           "id": "idx-123",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "(262) 439-5663",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(1) > a",
-          "line": 955
+          "text": "(262) 783-5267",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+          "line": 948
         },
         {
           "id": "idx-124",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "(262) 783-5267",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(2) > a",
-          "line": 956
+          "text": "Email LIM",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(3) > a",
+          "line": 949
         },
         {
           "id": "idx-125",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Email LIM",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(3) > a",
-          "line": 957
+          "text": "Official Website",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(4) > a",
+          "line": 950
         },
         {
           "id": "idx-126",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Official Website",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(4) > a",
-          "line": 958
+          "text": "Brand Guide",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(5) > a",
+          "line": 951
         },
         {
           "id": "idx-127",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Brand Guide",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(5) > a",
-          "line": 959
+          "text": "Developer Docs",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(6) > a",
+          "line": 952
         },
         {
           "id": "idx-128",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Developer Docs",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(6) > a",
-          "line": 960
+          "text": "Video Interview Guide",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(7) > a",
+          "line": 953
         },
         {
           "id": "idx-129",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Video Interview Guide",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(7) > a",
-          "line": 961
+          "text": "Video Release Form",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(8) > a",
+          "line": 954
         },
         {
           "id": "idx-130",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "Video Release Form",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(8) > a",
-          "line": 962
+          "text": "Session Feedback",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(9) > a",
+          "line": 955
         },
         {
           "id": "idx-131",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Session Feedback",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(9) > a",
-          "line": 963
-        },
-        {
-          "id": "idx-132",
           "tag": "p",
           "section": "footer#footer",
           "section_slug": "footer",
           "text": "© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · All Rights Reserved",
           "css": "footer#footer > div.foot-bot:nth-of-type(2) > p",
-          "line": 968
+          "line": 960
         },
         {
-          "id": "idx-133",
+          "id": "idx-132",
           "tag": "h2",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "Partner With Us",
           "css": "h2#m-donate-t",
-          "line": 979
+          "line": 971
+        },
+        {
+          "id": "idx-133",
+          "tag": "button",
+          "section": "modal#m-donate",
+          "section_slug": "m-donate",
+          "text": "✕",
+          "css": "div#m-donate > div.modal.don-modal > div.mhd:nth-of-type(1) > button.m-x",
+          "line": 972
         },
         {
           "id": "idx-134",
           "tag": "button",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
-          "text": "✕",
-          "css": "div#m-donate > div.modal.don-modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": 980
+          "text": "One-Time",
+          "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-freq:nth-of-type(1) > button.don-freq-btn.act:nth-of-type(1)",
+          "line": 978
         },
         {
           "id": "idx-135",
-          "tag": "button",
-          "section": "modal#m-donate",
-          "section_slug": "m-donate",
-          "text": "One-Time",
-          "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-freq:nth-of-type(1) > button.don-freq-btn.act:nth-of-type(1)",
-          "line": 986
-        },
-        {
-          "id": "idx-136",
           "tag": "button",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
@@ -1230,133 +1221,133 @@
           "line": null
         },
         {
-          "id": "idx-137",
+          "id": "idx-136",
           "tag": "button",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "$25",
           "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt:nth-of-type(1)",
-          "line": 994
+          "line": 986
+        },
+        {
+          "id": "idx-137",
+          "tag": "button",
+          "section": "modal#m-donate",
+          "section_slug": "m-donate",
+          "text": "$50",
+          "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt:nth-of-type(2)",
+          "line": 987
         },
         {
           "id": "idx-138",
           "tag": "button",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
-          "text": "$50",
-          "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt:nth-of-type(2)",
-          "line": 995
+          "text": "$100",
+          "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt.act:nth-of-type(3)",
+          "line": 988
         },
         {
           "id": "idx-139",
           "tag": "button",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
-          "text": "$100",
-          "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt.act:nth-of-type(3)",
-          "line": 996
+          "text": "$250",
+          "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt:nth-of-type(4)",
+          "line": 989
         },
         {
           "id": "idx-140",
-          "tag": "button",
-          "section": "modal#m-donate",
-          "section_slug": "m-donate",
-          "text": "$250",
-          "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt:nth-of-type(4)",
-          "line": 997
-        },
-        {
-          "id": "idx-141",
           "tag": "input-placeholder",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "Other amount",
           "css": "input#don-custom-input",
-          "line": 1003
+          "line": 995
         },
         {
-          "id": "idx-142",
+          "id": "idx-141",
           "tag": "p",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "$100 sponsors a full healing group participant — all 6 sessions, rooted in God's Word.",
           "css": "p#don-impact",
-          "line": 1007
+          "line": 999
         },
         {
-          "id": "idx-143",
+          "id": "idx-142",
           "tag": "label",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "First Name *",
           "css": "form#don-form > div.don-row:nth-of-type(1) > div.don-field:nth-of-type(1) > label",
-          "line": 1017
+          "line": 1009
         },
         {
-          "id": "idx-144",
+          "id": "idx-143",
           "tag": "input-placeholder",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "First",
           "css": "input#don-first",
-          "line": 1018
+          "line": 1010
         },
         {
-          "id": "idx-145",
+          "id": "idx-144",
           "tag": "label",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "Last Name *",
           "css": "form#don-form > div.don-row:nth-of-type(1) > div.don-field:nth-of-type(2) > label",
-          "line": 1021
+          "line": 1013
         },
         {
-          "id": "idx-146",
+          "id": "idx-145",
           "tag": "input-placeholder",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "Last",
           "css": "input#don-last",
-          "line": 1022
+          "line": 1014
         },
         {
-          "id": "idx-147",
+          "id": "idx-146",
           "tag": "label",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "Email *",
           "css": "form#don-form > div.don-field:nth-of-type(2) > label",
-          "line": 1026
+          "line": 1018
         },
         {
-          "id": "idx-148",
+          "id": "idx-147",
           "tag": "input-placeholder",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "you@example.com",
           "css": "input#don-email",
-          "line": 1027
+          "line": 1019
         },
         {
-          "id": "idx-149",
+          "id": "idx-148",
           "tag": "label",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "Dedicate this gift (in honor or memory of someone)",
           "css": "form#don-form > div.don-ded:nth-of-type(3) > label.don-ded-toggle",
-          "line": 1033
+          "line": 1025
         },
         {
-          "id": "idx-150",
+          "id": "idx-149",
           "tag": "input-placeholder",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "In honor / memory of…",
           "css": "div#don-ded-body > input.don-ded-input",
-          "line": 1036
+          "line": 1028
         },
         {
-          "id": "idx-151",
+          "id": "idx-150",
           "tag": "button",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
@@ -1365,7 +1356,7 @@
           "line": null
         },
         {
-          "id": "idx-152",
+          "id": "idx-151",
           "tag": "p",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
@@ -1374,43 +1365,43 @@
           "line": null
         },
         {
-          "id": "idx-153",
+          "id": "idx-152",
           "tag": "h3",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "Thank You!",
           "css": "div#don-success > h3",
-          "line": 1052
+          "line": 1044
         },
         {
-          "id": "idx-154",
+          "id": "idx-153",
           "tag": "p",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.",
           "css": "div#don-success > p",
-          "line": 1053
+          "line": 1045
         },
         {
-          "id": "idx-155",
+          "id": "idx-154",
           "tag": "button",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
           "text": "Close",
           "css": "div#don-success > button.btn.btn-ol",
-          "line": 1054
+          "line": 1046
         },
         {
-          "id": "idx-156",
+          "id": "idx-155",
           "tag": "button",
           "section": "modal#Our Story video",
           "section_slug": "our-story-video",
           "text": "✕",
           "css": "div#m-video > div.modal > button.vid-close",
-          "line": 1064
+          "line": 1056
         },
         {
-          "id": "idx-157",
+          "id": "idx-156",
           "tag": "h2",
           "section": "modal#m-about",
           "section_slug": "m-about",
@@ -1419,124 +1410,124 @@
           "line": null
         },
         {
-          "id": "idx-158",
+          "id": "idx-157",
           "tag": "button",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "✕",
           "css": "div#m-about > div.modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": 1072
+          "line": 1064
         },
         {
-          "id": "idx-159",
+          "id": "idx-158",
           "tag": "h4",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "Our Mission",
           "css": "div#m-about > div.modal > div.mbody:nth-of-type(2) > h4:nth-of-type(1)",
-          "line": 1075
+          "line": 1067
         },
         {
-          "id": "idx-160",
+          "id": "idx-159",
           "tag": "p",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "Lutheran Indian Ministries shares the Gospel of Jesus Christ with Native people, encouraging them to proclaim Christ's Kingdom. We train Native leaders, nurture healing, and witness Christ-centered growth.",
           "css": "div#m-about > div.modal > div.mbody:nth-of-type(2) > p:nth-of-type(1)",
-          "line": 1076
+          "line": 1068
         },
         {
-          "id": "idx-161",
+          "id": "idx-160",
           "tag": "h4",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "Our Vision",
           "css": "div#m-about > div.modal > div.mbody:nth-of-type(2) > h4:nth-of-type(2)",
-          "line": 1077
+          "line": 1069
         },
         {
-          "id": "idx-162",
+          "id": "idx-161",
           "tag": "p",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "That one day, all nations will walk together in the light of Christ — restored, thriving, and sharing the cultural heritage God gave them.",
           "css": "div#m-about > div.modal > div.mbody:nth-of-type(2) > p:nth-of-type(2)",
-          "line": 1078
+          "line": 1070
         },
         {
-          "id": "idx-163",
+          "id": "idx-162",
           "tag": "h4",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "Core Belief",
           "css": "div#m-about > div.modal > div.mbody:nth-of-type(2) > h4:nth-of-type(3)",
-          "line": 1079
+          "line": 1071
         },
         {
-          "id": "idx-164",
+          "id": "idx-163",
           "tag": "p",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "All healing comes from God. Love is an action, not just an emotion. We listen before we speak, walk beside, and build relationships rooted in trust — not transactions.",
           "css": "div#m-about > div.modal > div.mbody:nth-of-type(2) > p:nth-of-type(3)",
-          "line": 1080
+          "line": 1072
         },
         {
-          "id": "idx-165",
+          "id": "idx-164",
           "tag": "h4",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "Native Led",
           "css": "div#m-about > div.modal > div.mbody:nth-of-type(2) > h4:nth-of-type(4)",
-          "line": 1081
+          "line": 1073
         },
         {
-          "id": "idx-166",
+          "id": "idx-165",
           "tag": "p",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "LIM is led by Native people who know the stories, the traditions, the culture, and the humor. With 574 federally recognized tribes in the U.S. — 229 in Alaska alone — we travel by small plane, boat, and snowmachine to reach every community God calls us to serve.",
           "css": "div#m-about > div.modal > div.mbody:nth-of-type(2) > p:nth-of-type(4)",
-          "line": 1082
+          "line": 1074
         },
         {
-          "id": "idx-167",
+          "id": "idx-166",
           "tag": "a",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "Our Three Pillars",
           "css": "div#m-about > div.modal > div.mbody:nth-of-type(2) > div.m-cta > a.btn.btn-red",
-          "line": 1084
+          "line": 1076
         },
         {
-          "id": "idx-168",
+          "id": "idx-167",
           "tag": "button",
           "section": "modal#m-about",
           "section_slug": "m-about",
           "text": "Partner With Us",
           "css": "div#m-about > div.modal > div.mbody:nth-of-type(2) > div.m-cta > button.btn.btn-ol",
-          "line": 1085
+          "line": 1077
         },
         {
-          "id": "idx-169",
+          "id": "idx-168",
           "tag": "h2",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
           "text": "Pillar 01 — Proclaim",
           "css": "h2#m-proclaim-t",
-          "line": 1094
+          "line": 1086
         },
         {
-          "id": "idx-170",
+          "id": "idx-169",
           "tag": "button",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
           "text": "✕",
           "css": "div#m-proclaim > div.modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": 1116
+          "line": 1108
         },
         {
-          "id": "idx-171",
+          "id": "idx-170",
           "tag": "h4",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
@@ -1545,7 +1536,7 @@
           "line": null
         },
         {
-          "id": "idx-172",
+          "id": "idx-171",
           "tag": "p",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
@@ -1554,7 +1545,7 @@
           "line": null
         },
         {
-          "id": "idx-173",
+          "id": "idx-172",
           "tag": "h4",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
@@ -1563,7 +1554,7 @@
           "line": null
         },
         {
-          "id": "idx-174",
+          "id": "idx-173",
           "tag": "p",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
@@ -1572,7 +1563,7 @@
           "line": null
         },
         {
-          "id": "idx-175",
+          "id": "idx-174",
           "tag": "h4",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
@@ -1581,7 +1572,7 @@
           "line": null
         },
         {
-          "id": "idx-176",
+          "id": "idx-175",
           "tag": "li",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
@@ -1590,7 +1581,7 @@
           "line": null
         },
         {
-          "id": "idx-177",
+          "id": "idx-176",
           "tag": "li",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
@@ -1599,7 +1590,7 @@
           "line": null
         },
         {
-          "id": "idx-178",
+          "id": "idx-177",
           "tag": "li",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
@@ -1608,7 +1599,7 @@
           "line": null
         },
         {
-          "id": "idx-179",
+          "id": "idx-178",
           "tag": "li",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
@@ -1617,7 +1608,7 @@
           "line": null
         },
         {
-          "id": "idx-180",
+          "id": "idx-179",
           "tag": "button",
           "section": "modal#m-proclaim",
           "section_slug": "m-proclaim",
@@ -1626,7 +1617,7 @@
           "line": null
         },
         {
-          "id": "idx-181",
+          "id": "idx-180",
           "tag": "h2",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1635,16 +1626,16 @@
           "line": null
         },
         {
-          "id": "idx-182",
+          "id": "idx-181",
           "tag": "button",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
           "text": "✕",
           "css": "div#m-disciple > div.modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": 1138
+          "line": 1130
         },
         {
-          "id": "idx-183",
+          "id": "idx-182",
           "tag": "h4",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1653,7 +1644,7 @@
           "line": null
         },
         {
-          "id": "idx-184",
+          "id": "idx-183",
           "tag": "p",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1662,7 +1653,7 @@
           "line": null
         },
         {
-          "id": "idx-185",
+          "id": "idx-184",
           "tag": "h4",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1671,7 +1662,7 @@
           "line": null
         },
         {
-          "id": "idx-186",
+          "id": "idx-185",
           "tag": "p",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1680,7 +1671,7 @@
           "line": null
         },
         {
-          "id": "idx-187",
+          "id": "idx-186",
           "tag": "h4",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1689,7 +1680,7 @@
           "line": null
         },
         {
-          "id": "idx-188",
+          "id": "idx-187",
           "tag": "li",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1698,7 +1689,7 @@
           "line": null
         },
         {
-          "id": "idx-189",
+          "id": "idx-188",
           "tag": "li",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1707,7 +1698,7 @@
           "line": null
         },
         {
-          "id": "idx-190",
+          "id": "idx-189",
           "tag": "li",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1716,7 +1707,7 @@
           "line": null
         },
         {
-          "id": "idx-191",
+          "id": "idx-190",
           "tag": "li",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1725,7 +1716,7 @@
           "line": null
         },
         {
-          "id": "idx-192",
+          "id": "idx-191",
           "tag": "button",
           "section": "modal#m-disciple",
           "section_slug": "m-disciple",
@@ -1734,7 +1725,7 @@
           "line": null
         },
         {
-          "id": "idx-193",
+          "id": "idx-192",
           "tag": "h2",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1743,25 +1734,25 @@
           "line": null
         },
         {
-          "id": "idx-194",
+          "id": "idx-193",
           "tag": "button",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
           "text": "✕",
           "css": "div#m-heal > div.modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": 1165
+          "line": 1157
         },
         {
-          "id": "idx-195",
+          "id": "idx-194",
           "tag": "h4",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
           "text": "Healing the Wounds of Trauma",
           "css": "div#m-heal > div.modal > div.mbody:nth-of-type(2) > h4:nth-of-type(1)",
-          "line": 1291
+          "line": 1283
         },
         {
-          "id": "idx-196",
+          "id": "idx-195",
           "tag": "p",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1770,7 +1761,7 @@
           "line": null
         },
         {
-          "id": "idx-197",
+          "id": "idx-196",
           "tag": "h4",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1779,7 +1770,7 @@
           "line": null
         },
         {
-          "id": "idx-198",
+          "id": "idx-197",
           "tag": "li",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1788,7 +1779,7 @@
           "line": null
         },
         {
-          "id": "idx-199",
+          "id": "idx-198",
           "tag": "li",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1797,7 +1788,7 @@
           "line": null
         },
         {
-          "id": "idx-200",
+          "id": "idx-199",
           "tag": "li",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1806,7 +1797,7 @@
           "line": null
         },
         {
-          "id": "idx-201",
+          "id": "idx-200",
           "tag": "li",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1815,7 +1806,7 @@
           "line": null
         },
         {
-          "id": "idx-202",
+          "id": "idx-201",
           "tag": "li",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1824,7 +1815,7 @@
           "line": null
         },
         {
-          "id": "idx-203",
+          "id": "idx-202",
           "tag": "li",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1833,7 +1824,7 @@
           "line": null
         },
         {
-          "id": "idx-204",
+          "id": "idx-203",
           "tag": "h4",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1842,7 +1833,7 @@
           "line": null
         },
         {
-          "id": "idx-205",
+          "id": "idx-204",
           "tag": "p",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1851,7 +1842,7 @@
           "line": null
         },
         {
-          "id": "idx-206",
+          "id": "idx-205",
           "tag": "a",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1860,7 +1851,7 @@
           "line": null
         },
         {
-          "id": "idx-207",
+          "id": "idx-206",
           "tag": "a",
           "section": "modal#m-heal",
           "section_slug": "m-heal",
@@ -1869,7 +1860,7 @@
           "line": null
         },
         {
-          "id": "idx-208",
+          "id": "idx-207",
           "tag": "h2",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1878,7 +1869,7 @@
           "line": null
         },
         {
-          "id": "idx-209",
+          "id": "idx-208",
           "tag": "button",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1887,7 +1878,7 @@
           "line": null
         },
         {
-          "id": "idx-210",
+          "id": "idx-209",
           "tag": "h4",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1896,7 +1887,7 @@
           "line": null
         },
         {
-          "id": "idx-211",
+          "id": "idx-210",
           "tag": "p",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1905,7 +1896,7 @@
           "line": null
         },
         {
-          "id": "idx-212",
+          "id": "idx-211",
           "tag": "h4",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1914,7 +1905,7 @@
           "line": null
         },
         {
-          "id": "idx-213",
+          "id": "idx-212",
           "tag": "p",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1923,7 +1914,7 @@
           "line": null
         },
         {
-          "id": "idx-214",
+          "id": "idx-213",
           "tag": "h4",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1932,7 +1923,7 @@
           "line": null
         },
         {
-          "id": "idx-215",
+          "id": "idx-214",
           "tag": "p",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1941,7 +1932,7 @@
           "line": null
         },
         {
-          "id": "idx-216",
+          "id": "idx-215",
           "tag": "h4",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1950,7 +1941,7 @@
           "line": null
         },
         {
-          "id": "idx-217",
+          "id": "idx-216",
           "tag": "p",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1959,7 +1950,7 @@
           "line": null
         },
         {
-          "id": "idx-218",
+          "id": "idx-217",
           "tag": "h4",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1968,7 +1959,7 @@
           "line": null
         },
         {
-          "id": "idx-219",
+          "id": "idx-218",
           "tag": "p",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1977,7 +1968,7 @@
           "line": null
         },
         {
-          "id": "idx-220",
+          "id": "idx-219",
           "tag": "h4",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1986,7 +1977,7 @@
           "line": null
         },
         {
-          "id": "idx-221",
+          "id": "idx-220",
           "tag": "p",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -1995,7 +1986,7 @@
           "line": null
         },
         {
-          "id": "idx-222",
+          "id": "idx-221",
           "tag": "button",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -2004,7 +1995,7 @@
           "line": null
         },
         {
-          "id": "idx-223",
+          "id": "idx-222",
           "tag": "a",
           "section": "modal#m-giving",
           "section_slug": "m-giving",
@@ -2575,7 +2566,7 @@
           "section_slug": "get-involved",
           "text": "How You Can Be Part of This",
           "css": "section#partner > div.wrap > div.partner-hd.fi:nth-of-type(1) > h2.h2",
-          "line": 793
+          "line": 790
         },
         {
           "id": "abt-063",
@@ -2584,7 +2575,7 @@
           "section_slug": "get-involved",
           "text": "Seeking Healing or Community?",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.seek:nth-of-type(1) > h3",
-          "line": 797
+          "line": 794
         },
         {
           "id": "abt-064",
@@ -2593,7 +2584,7 @@
           "section_slug": "get-involved",
           "text": "Our healing groups are open to all Native people — free to attend, rooted in scripture, and led by people who know what you carry.",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.seek:nth-of-type(1) > p",
-          "line": 798
+          "line": 795
         },
         {
           "id": "abt-065",
@@ -2602,7 +2593,7 @@
           "section_slug": "get-involved",
           "text": "Free healing group sessions — in-person and online",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.seek:nth-of-type(1) > ul > li:nth-of-type(1)",
-          "line": 800
+          "line": 797
         },
         {
           "id": "abt-066",
@@ -2611,7 +2602,7 @@
           "section_slug": "get-involved",
           "text": "Trained Native facilitators who understand deep trauma",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.seek:nth-of-type(1) > ul > li:nth-of-type(2)",
-          "line": 801
+          "line": 798
         },
         {
           "id": "abt-067",
@@ -2620,7 +2611,7 @@
           "section_slug": "get-involved",
           "text": "Safe, confidential, scripture-grounded community",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.seek:nth-of-type(1) > ul > li:nth-of-type(3)",
-          "line": 802
+          "line": 799
         },
         {
           "id": "abt-068",
@@ -2629,7 +2620,7 @@
           "section_slug": "get-involved",
           "text": "Sessions in Fairbanks, Winnebago, online, and more",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.seek:nth-of-type(1) > ul > li:nth-of-type(4)",
-          "line": 803
+          "line": 800
         },
         {
           "id": "abt-069",
@@ -2638,7 +2629,7 @@
           "section_slug": "get-involved",
           "text": "Find a Healing Group",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.seek:nth-of-type(1) > div.pcard-btns > a.btn.btn-red",
-          "line": 806
+          "line": 803
         },
         {
           "id": "abt-070",
@@ -2647,7 +2638,7 @@
           "section_slug": "get-involved",
           "text": "Ready to Give or Partner?",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.give:nth-of-type(2) > h3",
-          "line": 810
+          "line": 807
         },
         {
           "id": "abt-071",
@@ -2656,7 +2647,7 @@
           "section_slug": "get-involved",
           "text": "LIM is funded entirely through the generosity of individuals, churches, and ministry partners. Your gift directly supports Native-led Gospel ministry.",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.give:nth-of-type(2) > p",
-          "line": 811
+          "line": 808
         },
         {
           "id": "abt-072",
@@ -2665,7 +2656,7 @@
           "section_slug": "get-involved",
           "text": "$25 provides scripture materials for one participant",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.give:nth-of-type(2) > ul > li:nth-of-type(1)",
-          "line": 813
+          "line": 810
         },
         {
           "id": "abt-073",
@@ -2674,7 +2665,7 @@
           "section_slug": "get-involved",
           "text": "$100 sponsors a full healing group — all 6 sessions",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.give:nth-of-type(2) > ul > li:nth-of-type(2)",
-          "line": 814
+          "line": 811
         },
         {
           "id": "abt-074",
@@ -2683,7 +2674,7 @@
           "section_slug": "get-involved",
           "text": "$250 trains and equips a new Native facilitator",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.give:nth-of-type(2) > ul > li:nth-of-type(3)",
-          "line": 815
+          "line": 812
         },
         {
           "id": "abt-075",
@@ -2692,7 +2683,7 @@
           "section_slug": "get-involved",
           "text": "Audited financials available — full transparency",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.give:nth-of-type(2) > ul > li:nth-of-type(4)",
-          "line": 816
+          "line": 813
         },
         {
           "id": "abt-076",
@@ -2701,7 +2692,7 @@
           "section_slug": "get-involved",
           "text": "Donate Now",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.give:nth-of-type(2) > div.pcard-btns > button.btn.btn-sky",
-          "line": 819
+          "line": 816
         },
         {
           "id": "abt-077",
@@ -2710,7 +2701,7 @@
           "section_slug": "get-involved",
           "text": "Contact Us",
           "css": "section#partner > div.wrap > div.partner-g.fi:nth-of-type(2) > div.pcard.give:nth-of-type(2) > div.pcard-btns > a.btn.btn-olw",
-          "line": 820
+          "line": 817
         },
         {
           "id": "abt-078",
@@ -2719,7 +2710,7 @@
           "section_slug": "footer",
           "text": "A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-brand:nth-of-type(1) > p",
-          "line": 832
+          "line": 829
         },
         {
           "id": "abt-079",
@@ -2728,7 +2719,7 @@
           "section_slug": "footer",
           "text": "About",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > h4",
-          "line": 839
+          "line": 836
         },
         {
           "id": "abt-080",
@@ -2746,7 +2737,7 @@
           "section_slug": "footer",
           "text": "Who We Are",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(2) > a",
-          "line": 842
+          "line": 839
         },
         {
           "id": "abt-082",
@@ -2755,7 +2746,7 @@
           "section_slug": "footer",
           "text": "Three Pillars",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(3) > a",
-          "line": 843
+          "line": 840
         },
         {
           "id": "abt-083",
@@ -2764,7 +2755,7 @@
           "section_slug": "footer",
           "text": "Our Team",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(4) > a",
-          "line": 844
+          "line": 841
         },
         {
           "id": "abt-084",
@@ -2773,7 +2764,7 @@
           "section_slug": "footer",
           "text": "Our History",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(5) > a",
-          "line": 845
+          "line": 842
         },
         {
           "id": "abt-085",
@@ -2782,7 +2773,7 @@
           "section_slug": "footer",
           "text": "Ministry",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > h4",
-          "line": 849
+          "line": 846
         },
         {
           "id": "abt-086",
@@ -2791,7 +2782,7 @@
           "section_slug": "footer",
           "text": "Healing Groups",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(1) > a",
-          "line": 851
+          "line": 848
         },
         {
           "id": "abt-087",
@@ -2800,7 +2791,7 @@
           "section_slug": "footer",
           "text": "Become a Facilitator",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(2) > a",
-          "line": 852
+          "line": 849
         },
         {
           "id": "abt-088",
@@ -2809,7 +2800,7 @@
           "section_slug": "footer",
           "text": "Haskell LIGHT",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(3) > a",
-          "line": 853
+          "line": 850
         },
         {
           "id": "abt-089",
@@ -2818,7 +2809,7 @@
           "section_slug": "footer",
           "text": "Videos",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(4) > a",
-          "line": 854
+          "line": 851
         },
         {
           "id": "abt-090",
@@ -2827,7 +2818,7 @@
           "section_slug": "footer",
           "text": "Contact",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > h4",
-          "line": 858
+          "line": 855
         },
         {
           "id": "abt-091",
@@ -2836,7 +2827,7 @@
           "section_slug": "footer",
           "text": "(262) 439-5663",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(1) > a",
-          "line": 860
+          "line": 857
         },
         {
           "id": "abt-092",
@@ -2845,7 +2836,7 @@
           "section_slug": "footer",
           "text": "(262) 783-5267",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(2) > a",
-          "line": 861
+          "line": 858
         },
         {
           "id": "abt-093",
@@ -2854,7 +2845,7 @@
           "section_slug": "footer",
           "text": "Email LIM",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(3) > a",
-          "line": 862
+          "line": 859
         },
         {
           "id": "abt-094",
@@ -2863,7 +2854,7 @@
           "section_slug": "footer",
           "text": "Official Website",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(4) > a",
-          "line": 863
+          "line": 860
         },
         {
           "id": "abt-095",
@@ -2872,7 +2863,7 @@
           "section_slug": "footer",
           "text": "Brand Guide",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(5) > a",
-          "line": 864
+          "line": 861
         },
         {
           "id": "abt-096",
@@ -2881,7 +2872,7 @@
           "section_slug": "footer",
           "text": "© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · EIN 39-1506889 · All Rights Reserved",
           "css": "footer#footer > div.foot-bot:nth-of-type(2) > p",
-          "line": 869
+          "line": 866
         },
         {
           "id": "abt-097",
@@ -2890,7 +2881,7 @@
           "section_slug": "m-donate",
           "text": "Partner With Us",
           "css": "h2#m-donate-t",
-          "line": 889
+          "line": 886
         },
         {
           "id": "abt-098",
@@ -2899,7 +2890,7 @@
           "section_slug": "m-donate",
           "text": "✕",
           "css": "div#m-donate > div.modal.don-modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": 890
+          "line": 887
         },
         {
           "id": "abt-099",
@@ -2908,7 +2899,7 @@
           "section_slug": "m-donate",
           "text": "One-Time",
           "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-freq:nth-of-type(1) > button.don-freq-btn.act:nth-of-type(1)",
-          "line": 894
+          "line": 891
         },
         {
           "id": "abt-100",
@@ -2926,7 +2917,7 @@
           "section_slug": "m-donate",
           "text": "$25",
           "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt:nth-of-type(1)",
-          "line": 900
+          "line": 897
         },
         {
           "id": "abt-102",
@@ -2935,7 +2926,7 @@
           "section_slug": "m-donate",
           "text": "$50",
           "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt:nth-of-type(2)",
-          "line": 901
+          "line": 898
         },
         {
           "id": "abt-103",
@@ -2944,7 +2935,7 @@
           "section_slug": "m-donate",
           "text": "$100",
           "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt.act:nth-of-type(3)",
-          "line": 902
+          "line": 899
         },
         {
           "id": "abt-104",
@@ -2953,7 +2944,7 @@
           "section_slug": "m-donate",
           "text": "$250",
           "css": "div#m-donate > div.modal.don-modal > div.mbody:nth-of-type(2) > div.don-amounts:nth-of-type(2) > button.don-amt:nth-of-type(4)",
-          "line": 903
+          "line": 900
         },
         {
           "id": "abt-105",
@@ -2962,7 +2953,7 @@
           "section_slug": "m-donate",
           "text": "Other amount",
           "css": "input#don-custom-input",
-          "line": 907
+          "line": 904
         },
         {
           "id": "abt-106",
@@ -2971,7 +2962,7 @@
           "section_slug": "m-donate",
           "text": "$100 sponsors a full healing group participant — all 6 sessions, rooted in God's Word.",
           "css": "p#don-impact",
-          "line": 909
+          "line": 906
         },
         {
           "id": "abt-107",
@@ -2980,7 +2971,7 @@
           "section_slug": "m-donate",
           "text": "First Name *",
           "css": "form#don-form > div.don-row:nth-of-type(1) > div.don-field:nth-of-type(1) > label",
-          "line": 916
+          "line": 913
         },
         {
           "id": "abt-108",
@@ -2989,7 +2980,7 @@
           "section_slug": "m-donate",
           "text": "First",
           "css": "input#don-first",
-          "line": 917
+          "line": 914
         },
         {
           "id": "abt-109",
@@ -2998,7 +2989,7 @@
           "section_slug": "m-donate",
           "text": "Last Name *",
           "css": "form#don-form > div.don-row:nth-of-type(1) > div.don-field:nth-of-type(2) > label",
-          "line": 920
+          "line": 917
         },
         {
           "id": "abt-110",
@@ -3007,7 +2998,7 @@
           "section_slug": "m-donate",
           "text": "Last",
           "css": "input#don-last",
-          "line": 921
+          "line": 918
         },
         {
           "id": "abt-111",
@@ -3016,7 +3007,7 @@
           "section_slug": "m-donate",
           "text": "Email *",
           "css": "form#don-form > div.don-field:nth-of-type(2) > label",
-          "line": 925
+          "line": 922
         },
         {
           "id": "abt-112",
@@ -3025,7 +3016,7 @@
           "section_slug": "m-donate",
           "text": "you@example.com",
           "css": "input#don-email",
-          "line": 926
+          "line": 923
         },
         {
           "id": "abt-113",
@@ -3034,7 +3025,7 @@
           "section_slug": "m-donate",
           "text": "Dedicate this gift (in honor or memory of someone)",
           "css": "form#don-form > div.don-ded:nth-of-type(3) > label.don-ded-toggle",
-          "line": 931
+          "line": 928
         },
         {
           "id": "abt-114",
@@ -3043,7 +3034,7 @@
           "section_slug": "m-donate",
           "text": "In honor / memory of…",
           "css": "div#don-ded-body > input.don-ded-input",
-          "line": 934
+          "line": 931
         },
         {
           "id": "abt-115",
@@ -3070,7 +3061,7 @@
           "section_slug": "m-donate",
           "text": "Thank You!",
           "css": "div#don-success > h3",
-          "line": 947
+          "line": 944
         },
         {
           "id": "abt-118",
@@ -3079,7 +3070,7 @@
           "section_slug": "m-donate",
           "text": "Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.",
           "css": "div#don-success > p",
-          "line": 948
+          "line": 945
         },
         {
           "id": "abt-119",
@@ -3088,7 +3079,7 @@
           "section_slug": "m-donate",
           "text": "Close",
           "css": "div#don-success > button.btn.btn-ol",
-          "line": 949
+          "line": 946
         },
         {
           "id": "abt-120",
@@ -3097,7 +3088,7 @@
           "section_slug": "video-player",
           "text": "✕",
           "css": "div#m-video > div.modal > button.vid-close",
-          "line": 958
+          "line": 955
         }
       ]
     },
@@ -3642,7 +3633,7 @@
           "tag": "h3",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
-          "text": "Community Healing Group",
+          "text": "Facilitator Equipping Training",
           "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(7) > div.scard-body:nth-of-type(2) > h3.scard-title",
           "line": 620
         },
@@ -3651,7 +3642,7 @@
           "tag": "p",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
-          "text": "An intimate community healing group hosted at Robert's House. Exact dates to be confirmed — register your interest and we'll reach out as soon as scheduling is set.",
+          "text": "Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.",
           "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(7) > div.scard-body:nth-of-type(2) > p",
           "line": 622
         },
@@ -3666,60 +3657,33 @@
         },
         {
           "id": "hgs-063",
-          "tag": "h3",
-          "section": "section#Upcoming healing group sessions",
-          "section_slug": "upcoming-healing-group-sessions",
-          "text": "Facilitator Equipping Training",
-          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(8) > div.scard-body:nth-of-type(2) > h3.scard-title",
-          "line": 636
-        },
-        {
-          "id": "hgs-064",
-          "tag": "p",
-          "section": "section#Upcoming healing group sessions",
-          "section_slug": "upcoming-healing-group-sessions",
-          "text": "Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.",
-          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(8) > div.scard-body:nth-of-type(2) > p",
-          "line": 638
-        },
-        {
-          "id": "hgs-065",
-          "tag": "button",
-          "section": "section#Upcoming healing group sessions",
-          "section_slug": "upcoming-healing-group-sessions",
-          "text": "Register Interest",
-          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(8) > div.scard-foot:nth-of-type(3) > button.btn.btn-sky",
-          "line": 641
-        },
-        {
-          "id": "hgs-066",
           "tag": "p",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
           "text": "Additional sessions planned for Anchorage, AK (October–November 2026). Contact us to be notified.",
           "css": "section#sessions > p",
-          "line": 646
+          "line": 630
         },
         {
-          "id": "hgs-067",
+          "id": "hgs-064",
           "tag": "button",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
           "text": "Contact us",
           "css": "section#sessions > p > button",
-          "line": 792
+          "line": 776
         },
         {
-          "id": "hgs-068",
+          "id": "hgs-065",
           "tag": "h2",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
           "text": "The Six Core Sessions",
           "css": "section#sessions-detail > div.wrap > div.fi:nth-of-type(1) > h2.h2",
-          "line": 1261
+          "line": 1244
         },
         {
-          "id": "hgs-069",
+          "id": "hgs-066",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3728,7 +3692,7 @@
           "line": null
         },
         {
-          "id": "hgs-070",
+          "id": "hgs-067",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3737,7 +3701,7 @@
           "line": null
         },
         {
-          "id": "hgs-071",
+          "id": "hgs-068",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3746,7 +3710,7 @@
           "line": null
         },
         {
-          "id": "hgs-072",
+          "id": "hgs-069",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3755,7 +3719,7 @@
           "line": null
         },
         {
-          "id": "hgs-073",
+          "id": "hgs-070",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3764,7 +3728,7 @@
           "line": null
         },
         {
-          "id": "hgs-074",
+          "id": "hgs-071",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3773,7 +3737,7 @@
           "line": null
         },
         {
-          "id": "hgs-075",
+          "id": "hgs-072",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3782,7 +3746,7 @@
           "line": null
         },
         {
-          "id": "hgs-076",
+          "id": "hgs-073",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3791,7 +3755,7 @@
           "line": null
         },
         {
-          "id": "hgs-077",
+          "id": "hgs-074",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3800,7 +3764,7 @@
           "line": null
         },
         {
-          "id": "hgs-078",
+          "id": "hgs-075",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3809,7 +3773,7 @@
           "line": null
         },
         {
-          "id": "hgs-079",
+          "id": "hgs-076",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3818,7 +3782,7 @@
           "line": null
         },
         {
-          "id": "hgs-080",
+          "id": "hgs-077",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3827,7 +3791,7 @@
           "line": null
         },
         {
-          "id": "hgs-081",
+          "id": "hgs-078",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3836,7 +3800,7 @@
           "line": null
         },
         {
-          "id": "hgs-082",
+          "id": "hgs-079",
           "tag": "h2",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3845,7 +3809,7 @@
           "line": null
         },
         {
-          "id": "hgs-083",
+          "id": "hgs-080",
           "tag": "p",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3854,7 +3818,7 @@
           "line": null
         },
         {
-          "id": "hgs-084",
+          "id": "hgs-081",
           "tag": "blockquote",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3863,7 +3827,7 @@
           "line": null
         },
         {
-          "id": "hgs-085",
+          "id": "hgs-082",
           "tag": "p",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3872,7 +3836,7 @@
           "line": null
         },
         {
-          "id": "hgs-086",
+          "id": "hgs-083",
           "tag": "li",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3881,7 +3845,7 @@
           "line": null
         },
         {
-          "id": "hgs-087",
+          "id": "hgs-084",
           "tag": "li",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3890,7 +3854,7 @@
           "line": null
         },
         {
-          "id": "hgs-088",
+          "id": "hgs-085",
           "tag": "li",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3899,7 +3863,7 @@
           "line": null
         },
         {
-          "id": "hgs-089",
+          "id": "hgs-086",
           "tag": "li",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3908,7 +3872,7 @@
           "line": null
         },
         {
-          "id": "hgs-090",
+          "id": "hgs-087",
           "tag": "a",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3917,7 +3881,7 @@
           "line": null
         },
         {
-          "id": "hgs-091",
+          "id": "hgs-088",
           "tag": "button",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3926,7 +3890,7 @@
           "line": null
         },
         {
-          "id": "hgs-092",
+          "id": "hgs-089",
           "tag": "h2",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3935,7 +3899,7 @@
           "line": null
         },
         {
-          "id": "hgs-093",
+          "id": "hgs-090",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3944,7 +3908,7 @@
           "line": null
         },
         {
-          "id": "hgs-094",
+          "id": "hgs-091",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3953,7 +3917,7 @@
           "line": null
         },
         {
-          "id": "hgs-095",
+          "id": "hgs-092",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3962,7 +3926,7 @@
           "line": null
         },
         {
-          "id": "hgs-096",
+          "id": "hgs-093",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3971,7 +3935,7 @@
           "line": null
         },
         {
-          "id": "hgs-097",
+          "id": "hgs-094",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3980,7 +3944,7 @@
           "line": null
         },
         {
-          "id": "hgs-098",
+          "id": "hgs-095",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3989,7 +3953,7 @@
           "line": null
         },
         {
-          "id": "hgs-099",
+          "id": "hgs-096",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3998,7 +3962,7 @@
           "line": null
         },
         {
-          "id": "hgs-100",
+          "id": "hgs-097",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -4007,7 +3971,7 @@
           "line": null
         },
         {
-          "id": "hgs-101",
+          "id": "hgs-098",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -4016,7 +3980,7 @@
           "line": null
         },
         {
-          "id": "hgs-102",
+          "id": "hgs-099",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -4025,7 +3989,7 @@
           "line": null
         },
         {
-          "id": "hgs-103",
+          "id": "hgs-100",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -4034,7 +3998,7 @@
           "line": null
         },
         {
-          "id": "hgs-104",
+          "id": "hgs-101",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -4043,7 +4007,7 @@
           "line": null
         },
         {
-          "id": "hgs-105",
+          "id": "hgs-102",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -4052,7 +4016,7 @@
           "line": null
         },
         {
-          "id": "hgs-106",
+          "id": "hgs-103",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -4061,7 +4025,7 @@
           "line": null
         },
         {
-          "id": "hgs-107",
+          "id": "hgs-104",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -4070,7 +4034,7 @@
           "line": null
         },
         {
-          "id": "hgs-108",
+          "id": "hgs-105",
           "tag": "h2",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4079,7 +4043,7 @@
           "line": null
         },
         {
-          "id": "hgs-109",
+          "id": "hgs-106",
           "tag": "p",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4088,7 +4052,7 @@
           "line": null
         },
         {
-          "id": "hgs-110",
+          "id": "hgs-107",
           "tag": "h3",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4097,7 +4061,7 @@
           "line": null
         },
         {
-          "id": "hgs-111",
+          "id": "hgs-108",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4106,7 +4070,7 @@
           "line": null
         },
         {
-          "id": "hgs-112",
+          "id": "hgs-109",
           "tag": "input-placeholder",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4115,7 +4079,7 @@
           "line": null
         },
         {
-          "id": "hgs-113",
+          "id": "hgs-110",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4124,7 +4088,7 @@
           "line": null
         },
         {
-          "id": "hgs-114",
+          "id": "hgs-111",
           "tag": "input-placeholder",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4133,7 +4097,7 @@
           "line": null
         },
         {
-          "id": "hgs-115",
+          "id": "hgs-112",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4142,7 +4106,7 @@
           "line": null
         },
         {
-          "id": "hgs-116",
+          "id": "hgs-113",
           "tag": "input-placeholder",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4151,7 +4115,7 @@
           "line": null
         },
         {
-          "id": "hgs-117",
+          "id": "hgs-114",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4160,7 +4124,7 @@
           "line": null
         },
         {
-          "id": "hgs-118",
+          "id": "hgs-115",
           "tag": "input-placeholder",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4169,7 +4133,7 @@
           "line": null
         },
         {
-          "id": "hgs-119",
+          "id": "hgs-116",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4178,7 +4142,7 @@
           "line": null
         },
         {
-          "id": "hgs-120",
+          "id": "hgs-117",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4187,7 +4151,7 @@
           "line": null
         },
         {
-          "id": "hgs-121",
+          "id": "hgs-118",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4196,7 +4160,7 @@
           "line": null
         },
         {
-          "id": "hgs-122",
+          "id": "hgs-119",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4205,7 +4169,7 @@
           "line": null
         },
         {
-          "id": "hgs-123",
+          "id": "hgs-120",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4214,7 +4178,7 @@
           "line": null
         },
         {
-          "id": "hgs-124",
+          "id": "hgs-121",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4223,7 +4187,7 @@
           "line": null
         },
         {
-          "id": "hgs-125",
+          "id": "hgs-122",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4232,7 +4196,7 @@
           "line": null
         },
         {
-          "id": "hgs-126",
+          "id": "hgs-123",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4241,7 +4205,7 @@
           "line": null
         },
         {
-          "id": "hgs-127",
+          "id": "hgs-124",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4250,7 +4214,7 @@
           "line": null
         },
         {
-          "id": "hgs-128",
+          "id": "hgs-125",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4259,7 +4223,7 @@
           "line": null
         },
         {
-          "id": "hgs-129",
+          "id": "hgs-126",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4268,7 +4232,7 @@
           "line": null
         },
         {
-          "id": "hgs-130",
+          "id": "hgs-127",
           "tag": "input-placeholder",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4277,7 +4241,7 @@
           "line": null
         },
         {
-          "id": "hgs-131",
+          "id": "hgs-128",
           "tag": "p",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4286,7 +4250,7 @@
           "line": null
         },
         {
-          "id": "hgs-132",
+          "id": "hgs-129",
           "tag": "button",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4295,7 +4259,7 @@
           "line": null
         },
         {
-          "id": "hgs-133",
+          "id": "hgs-130",
           "tag": "p",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4304,7 +4268,7 @@
           "line": null
         },
         {
-          "id": "hgs-134",
+          "id": "hgs-131",
           "tag": "h4",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4313,7 +4277,7 @@
           "line": null
         },
         {
-          "id": "hgs-135",
+          "id": "hgs-132",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4322,7 +4286,7 @@
           "line": null
         },
         {
-          "id": "hgs-136",
+          "id": "hgs-133",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4331,7 +4295,7 @@
           "line": null
         },
         {
-          "id": "hgs-137",
+          "id": "hgs-134",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4340,7 +4304,7 @@
           "line": null
         },
         {
-          "id": "hgs-138",
+          "id": "hgs-135",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4349,7 +4313,7 @@
           "line": null
         },
         {
-          "id": "hgs-139",
+          "id": "hgs-136",
           "tag": "h4",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4358,7 +4322,7 @@
           "line": null
         },
         {
-          "id": "hgs-140",
+          "id": "hgs-137",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4367,7 +4331,7 @@
           "line": null
         },
         {
-          "id": "hgs-141",
+          "id": "hgs-138",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4376,7 +4340,7 @@
           "line": null
         },
         {
-          "id": "hgs-142",
+          "id": "hgs-139",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4385,7 +4349,7 @@
           "line": null
         },
         {
-          "id": "hgs-143",
+          "id": "hgs-140",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4394,7 +4358,7 @@
           "line": null
         },
         {
-          "id": "hgs-144",
+          "id": "hgs-141",
           "tag": "h4",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4403,16 +4367,16 @@
           "line": null
         },
         {
-          "id": "hgs-145",
+          "id": "hgs-142",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
           "text": "(262) 439-5663",
           "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(1) > a",
-          "line": 1412
+          "line": 1395
         },
         {
-          "id": "hgs-146",
+          "id": "hgs-143",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4421,7 +4385,7 @@
           "line": null
         },
         {
-          "id": "hgs-147",
+          "id": "hgs-144",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4430,7 +4394,7 @@
           "line": null
         },
         {
-          "id": "hgs-148",
+          "id": "hgs-145",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4439,7 +4403,7 @@
           "line": null
         },
         {
-          "id": "hgs-149",
+          "id": "hgs-146",
           "tag": "a",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4448,7 +4412,7 @@
           "line": null
         },
         {
-          "id": "hgs-150",
+          "id": "hgs-147",
           "tag": "p",
           "section": "footer#footer",
           "section_slug": "footer",
@@ -4457,7 +4421,7 @@
           "line": null
         },
         {
-          "id": "hgs-151",
+          "id": "hgs-148",
           "tag": "h2",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4466,7 +4430,7 @@
           "line": null
         },
         {
-          "id": "hgs-152",
+          "id": "hgs-149",
           "tag": "button",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4475,7 +4439,7 @@
           "line": null
         },
         {
-          "id": "hgs-153",
+          "id": "hgs-150",
           "tag": "h3",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4484,7 +4448,7 @@
           "line": null
         },
         {
-          "id": "hgs-154",
+          "id": "hgs-151",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4493,7 +4457,7 @@
           "line": null
         },
         {
-          "id": "hgs-155",
+          "id": "hgs-152",
           "tag": "button",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4502,7 +4466,7 @@
           "line": null
         },
         {
-          "id": "hgs-156",
+          "id": "hgs-153",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4511,7 +4475,7 @@
           "line": null
         },
         {
-          "id": "hgs-157",
+          "id": "hgs-154",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4520,7 +4484,7 @@
           "line": null
         },
         {
-          "id": "hgs-158",
+          "id": "hgs-155",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4529,7 +4493,7 @@
           "line": null
         },
         {
-          "id": "hgs-159",
+          "id": "hgs-156",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4538,7 +4502,7 @@
           "line": null
         },
         {
-          "id": "hgs-160",
+          "id": "hgs-157",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4547,7 +4511,7 @@
           "line": null
         },
         {
-          "id": "hgs-161",
+          "id": "hgs-158",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4556,7 +4520,7 @@
           "line": null
         },
         {
-          "id": "hgs-162",
+          "id": "hgs-159",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4565,7 +4529,7 @@
           "line": null
         },
         {
-          "id": "hgs-163",
+          "id": "hgs-160",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4574,7 +4538,7 @@
           "line": null
         },
         {
-          "id": "hgs-164",
+          "id": "hgs-161",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4583,7 +4547,7 @@
           "line": null
         },
         {
-          "id": "hgs-165",
+          "id": "hgs-162",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4592,7 +4556,7 @@
           "line": null
         },
         {
-          "id": "hgs-166",
+          "id": "hgs-163",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4601,7 +4565,7 @@
           "line": null
         },
         {
-          "id": "hgs-167",
+          "id": "hgs-164",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4610,7 +4574,7 @@
           "line": null
         },
         {
-          "id": "hgs-168",
+          "id": "hgs-165",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4619,7 +4583,7 @@
           "line": null
         },
         {
-          "id": "hgs-169",
+          "id": "hgs-166",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4628,7 +4592,7 @@
           "line": null
         },
         {
-          "id": "hgs-170",
+          "id": "hgs-167",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4637,7 +4601,7 @@
           "line": null
         },
         {
-          "id": "hgs-171",
+          "id": "hgs-168",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4646,7 +4610,7 @@
           "line": null
         },
         {
-          "id": "hgs-172",
+          "id": "hgs-169",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4655,7 +4619,7 @@
           "line": null
         },
         {
-          "id": "hgs-173",
+          "id": "hgs-170",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4664,7 +4628,7 @@
           "line": null
         },
         {
-          "id": "hgs-174",
+          "id": "hgs-171",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4673,7 +4637,7 @@
           "line": null
         },
         {
-          "id": "hgs-175",
+          "id": "hgs-172",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4682,7 +4646,7 @@
           "line": null
         },
         {
-          "id": "hgs-176",
+          "id": "hgs-173",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4691,7 +4655,7 @@
           "line": null
         },
         {
-          "id": "hgs-177",
+          "id": "hgs-174",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4700,7 +4664,7 @@
           "line": null
         },
         {
-          "id": "hgs-178",
+          "id": "hgs-175",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4709,7 +4673,7 @@
           "line": null
         },
         {
-          "id": "hgs-179",
+          "id": "hgs-176",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4718,7 +4682,7 @@
           "line": null
         },
         {
-          "id": "hgs-180",
+          "id": "hgs-177",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4727,7 +4691,7 @@
           "line": null
         },
         {
-          "id": "hgs-181",
+          "id": "hgs-178",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4736,7 +4700,7 @@
           "line": null
         },
         {
-          "id": "hgs-182",
+          "id": "hgs-179",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4745,7 +4709,7 @@
           "line": null
         },
         {
-          "id": "hgs-183",
+          "id": "hgs-180",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4754,7 +4718,7 @@
           "line": null
         },
         {
-          "id": "hgs-184",
+          "id": "hgs-181",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4763,7 +4727,7 @@
           "line": null
         },
         {
-          "id": "hgs-185",
+          "id": "hgs-182",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4772,7 +4736,7 @@
           "line": null
         },
         {
-          "id": "hgs-186",
+          "id": "hgs-183",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4781,7 +4745,7 @@
           "line": null
         },
         {
-          "id": "hgs-187",
+          "id": "hgs-184",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4790,7 +4754,7 @@
           "line": null
         },
         {
-          "id": "hgs-188",
+          "id": "hgs-185",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4799,7 +4763,7 @@
           "line": null
         },
         {
-          "id": "hgs-189",
+          "id": "hgs-186",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4808,7 +4772,7 @@
           "line": null
         },
         {
-          "id": "hgs-190",
+          "id": "hgs-187",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4817,7 +4781,7 @@
           "line": null
         },
         {
-          "id": "hgs-191",
+          "id": "hgs-188",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4826,7 +4790,7 @@
           "line": null
         },
         {
-          "id": "hgs-192",
+          "id": "hgs-189",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4835,7 +4799,7 @@
           "line": null
         },
         {
-          "id": "hgs-193",
+          "id": "hgs-190",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4844,7 +4808,7 @@
           "line": null
         },
         {
-          "id": "hgs-194",
+          "id": "hgs-191",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4853,7 +4817,7 @@
           "line": null
         },
         {
-          "id": "hgs-195",
+          "id": "hgs-192",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4862,7 +4826,7 @@
           "line": null
         },
         {
-          "id": "hgs-196",
+          "id": "hgs-193",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4871,7 +4835,7 @@
           "line": null
         },
         {
-          "id": "hgs-197",
+          "id": "hgs-194",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4880,7 +4844,7 @@
           "line": null
         },
         {
-          "id": "hgs-198",
+          "id": "hgs-195",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4889,7 +4853,7 @@
           "line": null
         },
         {
-          "id": "hgs-199",
+          "id": "hgs-196",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4898,7 +4862,7 @@
           "line": null
         },
         {
-          "id": "hgs-200",
+          "id": "hgs-197",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4907,7 +4871,7 @@
           "line": null
         },
         {
-          "id": "hgs-201",
+          "id": "hgs-198",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4916,7 +4880,7 @@
           "line": null
         },
         {
-          "id": "hgs-202",
+          "id": "hgs-199",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4925,7 +4889,7 @@
           "line": null
         },
         {
-          "id": "hgs-203",
+          "id": "hgs-200",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4934,7 +4898,7 @@
           "line": null
         },
         {
-          "id": "hgs-204",
+          "id": "hgs-201",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4943,7 +4907,7 @@
           "line": null
         },
         {
-          "id": "hgs-205",
+          "id": "hgs-202",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4952,7 +4916,7 @@
           "line": null
         },
         {
-          "id": "hgs-206",
+          "id": "hgs-203",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4961,7 +4925,7 @@
           "line": null
         },
         {
-          "id": "hgs-207",
+          "id": "hgs-204",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4970,7 +4934,7 @@
           "line": null
         },
         {
-          "id": "hgs-208",
+          "id": "hgs-205",
           "tag": "button",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4979,7 +4943,7 @@
           "line": null
         },
         {
-          "id": "hgs-209",
+          "id": "hgs-206",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4988,7 +4952,7 @@
           "line": null
         },
         {
-          "id": "hgs-210",
+          "id": "hgs-207",
           "tag": "h2",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -4997,7 +4961,7 @@
           "line": null
         },
         {
-          "id": "hgs-211",
+          "id": "hgs-208",
           "tag": "button",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5006,7 +4970,7 @@
           "line": null
         },
         {
-          "id": "hgs-212",
+          "id": "hgs-209",
           "tag": "h3",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5015,7 +4979,7 @@
           "line": null
         },
         {
-          "id": "hgs-213",
+          "id": "hgs-210",
           "tag": "p",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5024,7 +4988,7 @@
           "line": null
         },
         {
-          "id": "hgs-214",
+          "id": "hgs-211",
           "tag": "button",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5033,7 +4997,7 @@
           "line": null
         },
         {
-          "id": "hgs-215",
+          "id": "hgs-212",
           "tag": "label",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5042,7 +5006,7 @@
           "line": null
         },
         {
-          "id": "hgs-216",
+          "id": "hgs-213",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5051,7 +5015,7 @@
           "line": null
         },
         {
-          "id": "hgs-217",
+          "id": "hgs-214",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5060,7 +5024,7 @@
           "line": null
         },
         {
-          "id": "hgs-218",
+          "id": "hgs-215",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5069,7 +5033,7 @@
           "line": null
         },
         {
-          "id": "hgs-219",
+          "id": "hgs-216",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5078,7 +5042,7 @@
           "line": null
         },
         {
-          "id": "hgs-220",
+          "id": "hgs-217",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5087,7 +5051,7 @@
           "line": null
         },
         {
-          "id": "hgs-221",
+          "id": "hgs-218",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5096,34 +5060,25 @@
           "line": null
         },
         {
-          "id": "hgs-222",
-          "tag": "option",
-          "section": "modal#m-cancel-modal",
-          "section_slug": "m-cancel-modal",
-          "text": "Community Healing Group — July 2026 · Robert's House",
-          "css": "select#can-session > option:nth-of-type(7)",
-          "line": null
-        },
-        {
-          "id": "hgs-223",
+          "id": "hgs-219",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Facilitator Equipping Training — October 2026",
-          "css": "select#can-session > option:nth-of-type(8)",
+          "css": "select#can-session > option:nth-of-type(7)",
           "line": null
         },
         {
-          "id": "hgs-224",
+          "id": "hgs-220",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Other / Not Listed",
-          "css": "select#can-session > option:nth-of-type(9)",
+          "css": "select#can-session > option:nth-of-type(8)",
           "line": null
         },
         {
-          "id": "hgs-225",
+          "id": "hgs-221",
           "tag": "label",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5132,7 +5087,7 @@
           "line": null
         },
         {
-          "id": "hgs-226",
+          "id": "hgs-222",
           "tag": "input-placeholder",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5141,7 +5096,7 @@
           "line": null
         },
         {
-          "id": "hgs-227",
+          "id": "hgs-223",
           "tag": "label",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5150,7 +5105,7 @@
           "line": null
         },
         {
-          "id": "hgs-228",
+          "id": "hgs-224",
           "tag": "input-placeholder",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5159,7 +5114,7 @@
           "line": null
         },
         {
-          "id": "hgs-229",
+          "id": "hgs-225",
           "tag": "label",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5168,7 +5123,7 @@
           "line": null
         },
         {
-          "id": "hgs-230",
+          "id": "hgs-226",
           "tag": "input-placeholder",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5177,7 +5132,7 @@
           "line": null
         },
         {
-          "id": "hgs-231",
+          "id": "hgs-227",
           "tag": "label",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5186,7 +5141,7 @@
           "line": null
         },
         {
-          "id": "hgs-232",
+          "id": "hgs-228",
           "tag": "input-placeholder",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5195,7 +5150,7 @@
           "line": null
         },
         {
-          "id": "hgs-233",
+          "id": "hgs-229",
           "tag": "button",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5204,7 +5159,7 @@
           "line": null
         },
         {
-          "id": "hgs-234",
+          "id": "hgs-230",
           "tag": "p",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5213,7 +5168,7 @@
           "line": null
         },
         {
-          "id": "hgs-235",
+          "id": "hgs-231",
           "tag": "h2",
           "section": "modal#m-waitlist",
           "section_slug": "m-waitlist",
@@ -5222,7 +5177,7 @@
           "line": null
         },
         {
-          "id": "hgs-236",
+          "id": "hgs-232",
           "tag": "button",
           "section": "modal#m-waitlist",
           "section_slug": "m-waitlist",
@@ -5231,7 +5186,7 @@
           "line": null
         },
         {
-          "id": "hgs-237",
+          "id": "hgs-233",
           "tag": "p",
           "section": "modal#m-waitlist",
           "section_slug": "m-waitlist",
@@ -5240,7 +5195,7 @@
           "line": null
         },
         {
-          "id": "hgs-238",
+          "id": "hgs-234",
           "tag": "p",
           "section": "modal#m-waitlist",
           "section_slug": "m-waitlist",
@@ -5249,7 +5204,7 @@
           "line": null
         },
         {
-          "id": "hgs-239",
+          "id": "hgs-235",
           "tag": "a",
           "section": "modal#m-waitlist",
           "section_slug": "m-waitlist",
@@ -5258,7 +5213,7 @@
           "line": null
         },
         {
-          "id": "hgs-240",
+          "id": "hgs-236",
           "tag": "h2",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5267,7 +5222,7 @@
           "line": null
         },
         {
-          "id": "hgs-241",
+          "id": "hgs-237",
           "tag": "button",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5276,7 +5231,7 @@
           "line": null
         },
         {
-          "id": "hgs-242",
+          "id": "hgs-238",
           "tag": "p",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5285,7 +5240,7 @@
           "line": null
         },
         {
-          "id": "hgs-243",
+          "id": "hgs-239",
           "tag": "li",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5294,7 +5249,7 @@
           "line": null
         },
         {
-          "id": "hgs-244",
+          "id": "hgs-240",
           "tag": "li",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5303,7 +5258,7 @@
           "line": null
         },
         {
-          "id": "hgs-245",
+          "id": "hgs-241",
           "tag": "li",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5312,7 +5267,7 @@
           "line": null
         },
         {
-          "id": "hgs-246",
+          "id": "hgs-242",
           "tag": "li",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5321,7 +5276,7 @@
           "line": null
         },
         {
-          "id": "hgs-247",
+          "id": "hgs-243",
           "tag": "li",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5330,7 +5285,7 @@
           "line": null
         },
         {
-          "id": "hgs-248",
+          "id": "hgs-244",
           "tag": "button",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5339,7 +5294,7 @@
           "line": null
         },
         {
-          "id": "hgs-249",
+          "id": "hgs-245",
           "tag": "h2",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5348,7 +5303,7 @@
           "line": null
         },
         {
-          "id": "hgs-250",
+          "id": "hgs-246",
           "tag": "button",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5357,7 +5312,7 @@
           "line": null
         },
         {
-          "id": "hgs-251",
+          "id": "hgs-247",
           "tag": "p",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5366,7 +5321,7 @@
           "line": null
         },
         {
-          "id": "hgs-252",
+          "id": "hgs-248",
           "tag": "li",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5375,7 +5330,7 @@
           "line": null
         },
         {
-          "id": "hgs-253",
+          "id": "hgs-249",
           "tag": "li",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5384,7 +5339,7 @@
           "line": null
         },
         {
-          "id": "hgs-254",
+          "id": "hgs-250",
           "tag": "li",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5393,7 +5348,7 @@
           "line": null
         },
         {
-          "id": "hgs-255",
+          "id": "hgs-251",
           "tag": "li",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5402,7 +5357,7 @@
           "line": null
         },
         {
-          "id": "hgs-256",
+          "id": "hgs-252",
           "tag": "button",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5411,7 +5366,7 @@
           "line": null
         },
         {
-          "id": "hgs-257",
+          "id": "hgs-253",
           "tag": "h2",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5420,7 +5375,7 @@
           "line": null
         },
         {
-          "id": "hgs-258",
+          "id": "hgs-254",
           "tag": "button",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5429,7 +5384,7 @@
           "line": null
         },
         {
-          "id": "hgs-259",
+          "id": "hgs-255",
           "tag": "p",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5438,7 +5393,7 @@
           "line": null
         },
         {
-          "id": "hgs-260",
+          "id": "hgs-256",
           "tag": "li",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5447,7 +5402,7 @@
           "line": null
         },
         {
-          "id": "hgs-261",
+          "id": "hgs-257",
           "tag": "li",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5456,7 +5411,7 @@
           "line": null
         },
         {
-          "id": "hgs-262",
+          "id": "hgs-258",
           "tag": "li",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5465,7 +5420,7 @@
           "line": null
         },
         {
-          "id": "hgs-263",
+          "id": "hgs-259",
           "tag": "li",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5474,7 +5429,7 @@
           "line": null
         },
         {
-          "id": "hgs-264",
+          "id": "hgs-260",
           "tag": "button",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5483,7 +5438,7 @@
           "line": null
         },
         {
-          "id": "hgs-265",
+          "id": "hgs-261",
           "tag": "h2",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
@@ -5492,7 +5447,7 @@
           "line": null
         },
         {
-          "id": "hgs-266",
+          "id": "hgs-262",
           "tag": "button",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
@@ -5501,7 +5456,7 @@
           "line": null
         },
         {
-          "id": "hgs-267",
+          "id": "hgs-263",
           "tag": "p",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
@@ -5510,7 +5465,7 @@
           "line": null
         },
         {
-          "id": "hgs-268",
+          "id": "hgs-264",
           "tag": "li",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
@@ -5519,7 +5474,7 @@
           "line": null
         },
         {
-          "id": "hgs-269",
+          "id": "hgs-265",
           "tag": "li",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
@@ -5528,7 +5483,7 @@
           "line": null
         },
         {
-          "id": "hgs-270",
+          "id": "hgs-266",
           "tag": "li",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
@@ -5537,7 +5492,7 @@
           "line": null
         },
         {
-          "id": "hgs-271",
+          "id": "hgs-267",
           "tag": "li",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
@@ -5546,16 +5501,16 @@
           "line": null
         },
         {
-          "id": "hgs-272",
+          "id": "hgs-268",
           "tag": "li",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
-          "text": "Open to all · Ages 18+ · Free",
+          "text": "Open to all · Ages 18+ · No Cost to Participants",
           "css": "div#m-aug-online > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(5)",
           "line": null
         },
         {
-          "id": "hgs-273",
+          "id": "hgs-269",
           "tag": "button",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
@@ -5564,7 +5519,7 @@
           "line": null
         },
         {
-          "id": "hgs-274",
+          "id": "hgs-270",
           "tag": "h2",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5573,7 +5528,7 @@
           "line": null
         },
         {
-          "id": "hgs-275",
+          "id": "hgs-271",
           "tag": "button",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5582,7 +5537,7 @@
           "line": null
         },
         {
-          "id": "hgs-276",
+          "id": "hgs-272",
           "tag": "p",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5591,7 +5546,7 @@
           "line": null
         },
         {
-          "id": "hgs-277",
+          "id": "hgs-273",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5600,7 +5555,7 @@
           "line": null
         },
         {
-          "id": "hgs-278",
+          "id": "hgs-274",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5609,7 +5564,7 @@
           "line": null
         },
         {
-          "id": "hgs-279",
+          "id": "hgs-275",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5618,7 +5573,7 @@
           "line": null
         },
         {
-          "id": "hgs-280",
+          "id": "hgs-276",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5627,7 +5582,7 @@
           "line": null
         },
         {
-          "id": "hgs-281",
+          "id": "hgs-277",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5636,7 +5591,7 @@
           "line": null
         },
         {
-          "id": "hgs-282",
+          "id": "hgs-278",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5645,7 +5600,7 @@
           "line": null
         },
         {
-          "id": "hgs-283",
+          "id": "hgs-279",
           "tag": "p",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5654,7 +5609,7 @@
           "line": null
         },
         {
-          "id": "hgs-284",
+          "id": "hgs-280",
           "tag": "a",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",

@@ -209,10 +209,6 @@ I got to let go of hurts and disappointments from my entire life. And talk about
 
 "This was the first time I felt God's Word speak to my pain." We don't promise quick fixes — but we create safe spaces where people can gather, share, and heal while holding onto hope that only God's Word can give.
 
-[idx-080]
-
-Can you imagine what it would be like if all our communities could be that helper to one another — scripture-rooted, safe, not judging, not forcing? Just coming from that place of love and grace. That is what this is.
-
 
 ### Healing The Wounds Of Trauma
 
@@ -234,7 +230,7 @@ I got to let go of hurts and disappointments that I've experienced in my entire 
 
 [idx-041]
 
-— Roberta (Kitirak), Ministry Coordinator & Healing Group Participant Anchorage, Alaska
+— Roberta (Kitigruak), Ministry Coordinator & Healing Group Participant Anchorage, Alaska
 
 [idx-042]
 
@@ -392,605 +388,605 @@ Stories of Transformation
 
 ### Video Library
 
-[idx-081]
+[idx-080]
 
 Videos
 
 
 ### From The Field
 
-[idx-082]
+[idx-081]
 
 Stories & Updates
 
-[idx-083]
+[idx-082]
 
 I Can Do All Things Philippians 4:13
 
-[idx-084]
+[idx-083]
 
 If you are like me, you can recite this verse — but in real life, find yourself far from being able "to do all things." A devotional on what changes when we stop performing strength and start receiving it.
 
-[idx-085]
+[idx-084]
 
 The Choice: Native OR Christian?
 
-[idx-086]
+[idx-085]
 
 For more than 500 years, Native Americans were told they had to choose. A letter from a Seminole man in prison — and one man's drum — show why that choice was always a lie.
 
-[idx-087]
+[idx-086]
 
 Discovering My True Identity in Christ
 
-[idx-088]
+[idx-087]
 
 Beverly Heyano — Tanqik, "brightness" — drank from age 10 to 38. Twenty-seven years later, she shares what she found in God's Word that alcohol could never give her.
 
-[idx-089]
+[idx-088]
 
 When Healing Becomes Real
 
-[idx-090]
+[idx-089]
 
 Four soldiers shared what happened inside — in their own words. Hear how God's Word moved through a military healing group.
 
 
 ### How You Can Help
 
-[idx-091]
+[idx-090]
 
 How Can We Walk Together?
 
-[idx-092]
+[idx-091]
 
 Are You Seeking Healing?
 
-[idx-093]
+[idx-092]
 
 You don't have to carry this alone. Healing Groups are open, safe, and led by people who understand the journey from the inside.
 
-[idx-094]
+[idx-093]
 
 Free to attend — ages 18+
 
-[idx-095]
+[idx-094]
 
 No faith background required
 
-[idx-096]
+[idx-095]
 
 In-person and online options
 
-[idx-097]
+[idx-096]
 
 Held on reservations, in villages and cities
 
-[idx-098]
+[idx-097]
 
 Lunch provided at in-person sessions
 
-[idx-099]
+[idx-098]
 
 Confidential and community-supported
 
-[idx-100]
+[idx-099]
 
 Find a Healing Group →
 
-[idx-101]
+[idx-100]
 
 Ready to Support the Mission?
 
-[idx-102]
+[idx-101]
 
 Your partnership makes it possible for LIM to reach every tribe, train every facilitator, and hold every healing group.
 
-[idx-103]
+[idx-102]
 
 Monthly giving funds year-round ministry
 
-[idx-104]
+[idx-103]
 
 One-time gifts fund specific programs
 
-[idx-105]
+[idx-104]
 
 Gifts of stock, IRA, and DAFs welcomed
 
-[idx-106]
+[idx-105]
 
 3-Star Charity Navigator rated
 
-[idx-107]
+[idx-106]
 
 GuideStar Platinum transparency
 
-[idx-108]
+[idx-107]
 
 Every gift is tax-deductible
 
-[idx-109]
+[idx-108]
 
 Give Now
 
-[idx-110]
+[idx-109]
 
 Ways to Give
 
 
 ### Footer — Footer
 
-[idx-111]
+[idx-110]
 
 A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
 
-[idx-112]
+[idx-111]
 
 Ministry
 
-[idx-113]
+[idx-112]
 
 Three Pillars
 
-[idx-114]
+[idx-113]
 
 Healing Wounds of Trauma
 
-[idx-115]
+[idx-114]
 
 Haskell LIGHT
 
-[idx-116]
+[idx-115]
 
 About LIM
 
-[idx-117]
+[idx-116]
 
 Get Involved
 
-[idx-118]
+[idx-117]
 
 Find a Healing Group
 
-[idx-119]
+[idx-118]
 
 Become a Facilitator
 
-[idx-120]
+[idx-119]
 
 Donate
 
-[idx-121]
+[idx-120]
 
 Ways to Give
 
-[idx-122]
+[idx-121]
 
 Contact
 
-[idx-123]
+[idx-122]
 
 (262) 439-5663
 
-[idx-124]
+[idx-123]
 
 (262) 783-5267
 
-[idx-125]
+[idx-124]
 
 Email LIM
 
-[idx-126]
+[idx-125]
 
 Official Website
 
-[idx-127]
+[idx-126]
 
 Brand Guide
 
-[idx-128]
+[idx-127]
 
 Developer Docs
 
-[idx-129]
+[idx-128]
 
 Video Interview Guide
 
-[idx-130]
+[idx-129]
 
 Video Release Form
 
-[idx-131]
+[idx-130]
 
 Session Feedback
 
-[idx-132]
+[idx-131]
 
 © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · All Rights Reserved
 
 
 ### Modal — Donate
 
-[idx-133]
+[idx-132]
 
 Partner With Us
 
-[idx-134]
+[idx-133]
 
 ✕
 
-[idx-135]
+[idx-134]
 
 One-Time
 
-[idx-136]
+[idx-135]
 
 Monthly Most Impact
 
-[idx-137]
+[idx-136]
 
 $25
 
-[idx-138]
+[idx-137]
 
 $50
 
-[idx-139]
+[idx-138]
 
 $100
 
-[idx-140]
+[idx-139]
 
 $250
 
-[idx-141]
+[idx-140]
 
 Other amount
 
-[idx-142]
+[idx-141]
 
 $100 sponsors a full healing group participant — all 6 sessions, rooted in God's Word.
 
-[idx-143]
+[idx-142]
 
 First Name *
 
-[idx-144]
+[idx-143]
 
 First
 
-[idx-145]
+[idx-144]
 
 Last Name *
 
-[idx-146]
+[idx-145]
 
 Last
 
-[idx-147]
+[idx-146]
 
 Email *
 
-[idx-148]
+[idx-147]
 
 you@example.com
 
-[idx-149]
+[idx-148]
 
 Dedicate this gift (in honor or memory of someone)
 
-[idx-150]
+[idx-149]
 
 In honor / memory of…
 
-[idx-151]
+[idx-150]
 
 Give $100 Now
 
-[idx-152]
+[idx-151]
 
 Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
 
-[idx-153]
+[idx-152]
 
 Thank You!
 
-[idx-154]
+[idx-153]
 
 Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.
 
-[idx-155]
+[idx-154]
 
 Close
 
 
 ### Modal — Our Story Video
 
-[idx-156]
+[idx-155]
 
 ✕
 
 
 ### Modal — About
 
-[idx-157]
+[idx-156]
 
 Our Mission & Vision
 
-[idx-158]
+[idx-157]
 
 ✕
 
-[idx-159]
+[idx-158]
 
 Our Mission
 
-[idx-160]
+[idx-159]
 
 Lutheran Indian Ministries shares the Gospel of Jesus Christ with Native people, encouraging them to proclaim Christ's Kingdom. We train Native leaders, nurture healing, and witness Christ-centered growth.
 
-[idx-161]
+[idx-160]
 
 Our Vision
 
-[idx-162]
+[idx-161]
 
 That one day, all nations will walk together in the light of Christ — restored, thriving, and sharing the cultural heritage God gave them.
 
-[idx-163]
+[idx-162]
 
 Core Belief
 
-[idx-164]
+[idx-163]
 
 All healing comes from God. Love is an action, not just an emotion. We listen before we speak, walk beside, and build relationships rooted in trust — not transactions.
 
-[idx-165]
+[idx-164]
 
 Native Led
 
-[idx-166]
+[idx-165]
 
 LIM is led by Native people who know the stories, the traditions, the culture, and the humor. With 574 federally recognized tribes in the U.S. — 229 in Alaska alone — we travel by small plane, boat, and snowmachine to reach every community God calls us to serve.
 
-[idx-167]
+[idx-166]
 
 Our Three Pillars
 
-[idx-168]
+[idx-167]
 
 Partner With Us
 
 
 ### Modal — Proclaim
 
-[idx-169]
+[idx-168]
 
 Pillar 01 — Proclaim
 
-[idx-170]
+[idx-169]
 
 ✕
 
-[idx-171]
+[idx-170]
 
 The Gospel in Native Voices
 
-[idx-172]
+[idx-171]
 
 We share the Gospel in ways that fit Native culture — through oral tradition, storytelling, and images that speak to how Native people understand the world.
 
-[idx-173]
+[idx-172]
 
 Christ, the Bridge
 
-[idx-174]
+[idx-173]
 
 LIM's conviction: God speaks in Native tongues to Native hearts. Faith in Christ does not require abandoning Indigenous identity. Native traditions are vessels of God's grace — not obstacles to faith.
 
-[idx-175]
+[idx-174]
 
 How We Proclaim
 
-[idx-176]
+[idx-175]
 
 Outreach visits by invitation, guided by tribal customs and deep respect
 
-[idx-177]
+[idx-176]
 
 Traveling by small plane, boat, and snowmachine to reach remote communities
 
-[idx-178]
+[idx-177]
 
 Sacred Connections Podcast — sharing the Gospel through story
 
-[idx-179]
+[idx-178]
 
 Partnership with local churches and Native leaders across 574 tribes
 
-[idx-180]
+[idx-179]
 
 Support Gospel Outreach
 
 
 ### Modal — Disciple
 
-[idx-181]
+[idx-180]
 
 Pillar 02 — Disciple
 
-[idx-182]
+[idx-181]
 
 ✕
 
-[idx-183]
+[idx-182]
 
 Haskell LIGHT Campus Ministry
 
-[idx-184]
+[idx-183]
 
 At Haskell Indian Nations University in Lawrence, Kansas — the only federally operated tribal university in the country — our campus ministry serves students from more than 130 tribes. Students come for meals and quilts, but stay for something deeper.
 
-[idx-185]
+[idx-184]
 
 Leo's Story
 
-[idx-186]
+[idx-185]
 
 Leo is Keetowah Cherokee and Western Shoshone. He visited our campus center and met Pola Farve — Haskell LIGHT Director and a Haskell graduate herself. One day, Leo asked Pola for a Bible. Touched by the moment, he shared it on social media. Leo began reading — and didn't stop. Today, Leo walks a new path, guided by faith.
 
-[idx-187]
+[idx-186]
 
 Campus Programs
 
-[idx-188]
+[idx-187]
 
 Sister 2 Sister — Faith and belonging for Native women
 
-[idx-189]
+[idx-188]
 
 Real Warriors — Biblical leadership and brotherhood for Native men
 
-[idx-190]
+[idx-189]
 
 Champions in Training — Leadership for all students
 
-[idx-191]
+[idx-190]
 
 Home-cooked meals, quilts, Bible study, and one-on-one discipleship
 
-[idx-192]
+[idx-191]
 
 Support Haskell LIGHT
 
 
 ### Modal — Heal
 
-[idx-193]
+[idx-192]
 
 Pillar 03 — Heal
 
-[idx-194]
+[idx-193]
 
 ✕
 
-[idx-195]
+[idx-194]
 
 Healing the Wounds of Trauma
 
-[idx-196]
+[idx-195]
 
 For generations, Native communities have carried deep wounds — from boarding schools, family separation, and abuse. Healing the Wounds of Trauma addresses these wounds directly through scripture, community, and the love of God.
 
-[idx-197]
+[idx-196]
 
 The Program
 
-[idx-198]
+[idx-197]
 
 16 hours across 2–3 days, 6 core sessions
 
-[idx-199]
+[idx-198]
 
 American Bible Society Trauma Healing Institute model
 
-[idx-200]
+[idx-199]
 
 390+ scripture references using the Restoring Hope Bible
 
-[idx-201]
+[idx-200]
 
 Led by trained Native facilitators; supported by Prayer Warriors
 
-[idx-202]
+[idx-201]
 
 All welcome — no faith background required · Ages 18+
 
-[idx-203]
+[idx-202]
 
 Held on reservations, in villages, cities — in-person and online
 
-[idx-204]
+[idx-203]
 
 Become a Facilitator
 
-[idx-205]
+[idx-204]
 
 From the start, participants are equipped to share this with others. Trained facilitators bring these tools back to their own communities — spreading healing across generations.
 
-[idx-206]
+[idx-205]
 
 Find a Healing Group
 
-[idx-207]
+[idx-206]
 
 Become a Facilitator
 
 
 ### Modal — Giving
 
-[idx-208]
+[idx-207]
 
 Ways to Give
 
-[idx-209]
+[idx-208]
 
 ✕
 
-[idx-210]
+[idx-209]
 
 Online Giving
 
-[idx-211]
+[idx-210]
 
 Secure online giving with credit/debit card, Apple Pay, and Google Pay. Set up monthly recurring giving to provide sustained support year-round.
 
-[idx-212]
+[idx-211]
 
 Gifts of Stock
 
-[idx-213]
+[idx-212]
 
 Transferring appreciated securities is one of the most tax-efficient ways to give. Contact us to initiate a stock transfer directly to LIM's brokerage account.
 
-[idx-214]
+[idx-213]
 
 Donor Advised Funds (DAFs)
 
-[idx-215]
+[idx-214]
 
 Recommend a grant from your DAF to Lutheran Indian Ministries. Our EIN is available upon request.
 
-[idx-216]
+[idx-215]
 
 IRA Qualified Charitable Distribution
 
-[idx-217]
+[idx-216]
 
 If you are 70½ or older, you may make a tax-free gift directly from your IRA to LIM — up to $100,000 per year.
 
-[idx-218]
+[idx-217]
 
 Planned Giving & Legacy Gifts
 
-[idx-219]
+[idx-218]
 
 Include LIM in your will or trust and ensure Native Gospel ministry for generations to come. Contact us to discuss options.
 
-[idx-220]
+[idx-219]
 
 By Mail
 
-[idx-221]
+[idx-220]
 
 Checks payable to Lutheran Indian Ministries · Brookfield, WI · Call (262) 439-5663 for mailing address.
 
-[idx-222]
+[idx-221]
 
 Give Online Now
 
-[idx-223]
+[idx-222]
 
 Call to Give
 
@@ -1799,11 +1795,11 @@ Register Interest
 
 [hgs-060]
 
-Community Healing Group
+Facilitator Equipping Training
 
 [hgs-061]
 
-An intimate community healing group hosted at Robert's House. Exact dates to be confirmed — register your interest and we'll reach out as soon as scheduling is set.
+Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.
 
 [hgs-062]
 
@@ -1811,928 +1807,912 @@ Register Interest
 
 [hgs-063]
 
-Facilitator Equipping Training
-
-[hgs-064]
-
-Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.
-
-[hgs-065]
-
-Register Interest
-
-[hgs-066]
-
 Additional sessions planned for Anchorage, AK (October–November 2026). Contact us to be notified.
 
-[hgs-067]
+[hgs-064]
 
 Contact us
 
 
 ### What To Expect In Each Session
 
-[hgs-068]
+[hgs-065]
 
 The Six Core Sessions
 
-[hgs-069]
+[hgs-066]
 
 Each session builds on the last. Over 390 scriptures are woven throughout, using the Restoring Hope Bible. You go only where you're ready to go.
 
-[hgs-070]
+[hgs-067]
 
 1 What Is a Wound of the Heart?
 
-[hgs-071]
+[hgs-068]
 
 Heart wounds can begin in childhood, young adulthood, or today. This session helps participants name and understand their specific wounds — whether from abuse, loss, historical trauma, or grief. Naming the wound is the first step toward healing it.
 
-[hgs-072]
+[hgs-069]
 
 2 What Can Help Our Heart Wounds Heal?
 
-[hgs-073]
+[hgs-070]
 
 Practical tools for the healing journey — exercises that move understanding from head to heart. Participants discover that healing is a process supported by community, prayer, and scripture. This session also addresses how stress and trauma are held in the body.
 
-[hgs-074]
+[hgs-071]
 
 3 What Happens When Someone Is Grieving?
 
-[hgs-075]
+[hgs-072]
 
 A compassionate look at what grief actually looks like — and where people get stuck. Understanding the grief journey is often cathartic and transforming. Participants learn they don't have to stay stuck, and that tears are cleansing, not weakness.
 
-[hgs-076]
+[hgs-073]
 
 4 If God Loves Us, Why Do We Suffer?
 
-[hgs-077]
+[hgs-074]
 
 The most honest question we carry. Scripture reveals that God is present in suffering — not absent from it. Participants discover that pain is not a sign of abandonment. We learn that Jesus wept — and that changes everything.
 
-[hgs-078]
+[hgs-075]
 
 5 Bringing Our Pain to the Cross & Forgiving Others
 
-[hgs-079]
+[hgs-076]
 
 One of the most powerful sessions. Participants are gently led through releasing pain and beginning the journey of forgiving others. No pressure, no timeline. You go only where you're ready. The community around you holds space with grace and love.
 
-[hgs-080]
+[hgs-077]
 
 6 Looking Back, Looking Forward — Closing with Hope
 
-[hgs-081]
+[hgs-078]
 
 The closing session brings everything together — looking back at the healing journey, looking forward with hope. Participants also discover how they can share this with others. The healing group is the beginning, not the end.
 
 
 ### Become A Facilitator
 
-[hgs-082]
+[hgs-079]
 
 Become a Facilitator
 
-[hgs-083]
+[hgs-080]
 
 After experiencing healing yourself, you may feel called to lead others through it. Facilitator training equips you to run healing groups in your own community — multiplying the impact across generations.
 
-[hgs-084]
+[hgs-081]
 
 "Once I got my ego out of the way and understood it's not my responsibility to change someone — I just follow the guide, like a tour guide — I started enjoying it. It's the Holy Spirit doing all the work." — Roberta, Trained Facilitator
 
-[hgs-085]
+[hgs-082]
 
 You don't need to be a Bible scholar or a pastor. You need a heart for people and a willingness to follow the facilitator guide — which is detailed, well-structured, and easy to use.
 
-[hgs-086]
+[hgs-083]
 
 1 Attend a healing group as a participant — experience it firsthand
 
-[hgs-087]
+[hgs-084]
 
 2 Complete the facilitator equipping training (often combined with a healing group session)
 
-[hgs-088]
+[hgs-085]
 
 3 Co-facilitate a healing group alongside an experienced facilitator
 
-[hgs-089]
+[hgs-086]
 
 4 Lead your own community healing group — supported by LIM's team
 
-[hgs-090]
+[hgs-087]
 
 See Equipping Training Dates
 
-[hgs-091]
+[hgs-088]
 
 Express Interest
 
 
 ### Frequently Asked Questions
 
-[hgs-092]
+[hgs-089]
 
 Frequently Asked Questions
 
-[hgs-093]
+[hgs-090]
 
 Q Do I have to be Christian or Lutheran to attend?
 
-[hgs-094]
+[hgs-091]
 
 No. All are welcome — regardless of faith, religion, or background. You don't need to prescribe or ascribe to any specific religion to attend. The program is grounded in biblical scripture, but you come as you are and take what is meaningful to you.
 
-[hgs-095]
+[hgs-092]
 
 Q Is it really free? What does the cost cover?
 
-[hgs-096]
+[hgs-093]
 
 Yes, completely free to attend. LIM covers all curriculum costs, and in-person sessions include lunch each day. Travel and accommodation are not included, but contact us if cost is a barrier — we want to make this accessible to everyone.
 
-[hgs-097]
+[hgs-094]
 
 Q What if I registered but can't make it?
 
-[hgs-098]
+[hgs-095]
 
 Life happens — we understand. Please let us know as soon as possible so we can open your spot for someone on the waitlist and transfer your registration to a future session. We run multiple healing groups throughout the year, so there's always another opportunity.
 
-[hgs-099]
+[hgs-096]
 
 Cancel My Registration
 
-[hgs-100]
+[hgs-097]
 
 Q Do I have to share personal things in the group?
 
-[hgs-101]
+[hgs-098]
 
 No. The healing journey is completely self-directed. You share only what you are comfortable sharing, and you go only where you're ready to go. There is no pressure and no force. The group agrees to confidentiality guidelines at the start of every session.
 
-[hgs-102]
+[hgs-099]
 
 Q Must I attend all sessions?
 
-[hgs-103]
+[hgs-100]
 
 Yes — the sessions build on each other, and the connections you form with others are an important part of the experience. If you miss a session, contact us; we'll do our best to help you catch up or transfer to a future group where you can attend fully.
 
-[hgs-104]
+[hgs-101]
 
 Q What is a Prayer Warrior?
 
-[hgs-105]
+[hgs-102]
 
 A Prayer Warrior is someone who has been through the healing group process and supports others through prayer — before, during, and after every session. They pray for every participant by name, including those who wanted to come but couldn't. They're also available for private conversation if someone needs it. Every healing group is fully prayed up.
 
-[hgs-106]
+[hgs-103]
 
 Q Can we host a healing group at our church or community?
 
-[hgs-107]
+[hgs-104]
 
 Absolutely. LIM partners with churches, community organizations, and tribal entities to bring healing groups to new locations. Contact us to discuss hosting a group in your community. We provide curriculum, training, and ongoing support.
 
 
 ### Register Or Contact Us
 
-[hgs-108]
+[hgs-105]
 
 Ready to Register?
 
-[hgs-109]
+[hgs-106]
 
 Questions? Want to talk to someone before registering? We're here. Every warm, gentle invitation matters — and we don't want to miss anyone.
 
-[hgs-110]
+[hgs-107]
 
 Register / Get More Information
 
-[hgs-111]
+[hgs-108]
 
 First Name *
 
-[hgs-112]
+[hgs-109]
 
 Your first name
 
-[hgs-113]
+[hgs-110]
 
 Last Name *
 
-[hgs-114]
+[hgs-111]
 
 Your last name
 
-[hgs-115]
+[hgs-112]
 
 Email Address *
 
-[hgs-116]
+[hgs-113]
 
 your@email.com
 
-[hgs-117]
+[hgs-114]
 
 Phone Number
 
-[hgs-118]
+[hgs-115]
 
 (optional)
 
-[hgs-119]
+[hgs-116]
 
 Which Session Are You Interested In? *
 
-[hgs-120]
+[hgs-117]
 
 — Select a session —
 
-[hgs-121]
+[hgs-118]
 
 March 13–14 · Military · Fairbanks, AK
 
-[hgs-122]
+[hgs-119]
 
 April 14–17 · Healing + Equipping · Winnebago, NE
 
-[hgs-123]
+[hgs-120]
 
 May 27–29 · Community Healing · Fairbanks, AK
 
-[hgs-124]
+[hgs-121]
 
 August 5–14 · Online
 
-[hgs-125]
+[hgs-122]
 
 September 2026 · Fairbanks, AK (dates TBC)
 
-[hgs-126]
+[hgs-123]
 
 Join waitlist for March Online (Currently Full)
 
-[hgs-127]
+[hgs-124]
 
 Facilitator Training Interest
 
-[hgs-128]
+[hgs-125]
 
 Contact me about hosting a group
 
-[hgs-129]
+[hgs-126]
 
 Anything you'd like us to know?
 
-[hgs-130]
+[hgs-127]
 
 Questions, accessibility needs, or anything else...
 
-[hgs-131]
+[hgs-128]
 
 Your information is confidential. We will only use it to contact you about healing group registration. You may opt out at any time.
 
-[hgs-132]
+[hgs-129]
 
 Submit Registration
 
 
 ### Footer — Footer
 
-[hgs-133]
+[hgs-130]
 
 A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
 
-[hgs-134]
+[hgs-131]
 
 Healing Groups
 
-[hgs-135]
+[hgs-132]
 
 About the Program
 
-[hgs-136]
+[hgs-133]
 
 Find a Group
 
-[hgs-137]
+[hgs-134]
 
 Become a Facilitator
 
-[hgs-138]
+[hgs-135]
 
 FAQ
 
-[hgs-139]
+[hgs-136]
 
 Ministry
 
-[hgs-140]
+[hgs-137]
 
 Home
 
-[hgs-141]
+[hgs-138]
 
 Three Pillars
 
-[hgs-142]
+[hgs-139]
 
 Haskell LIGHT
 
-[hgs-143]
+[hgs-140]
 
 Donate
 
-[hgs-144]
+[hgs-141]
 
 Contact
 
-[hgs-145]
+[hgs-142]
 
 (262) 439-5663
 
-[hgs-146]
+[hgs-143]
 
 (262) 783-5267
 
-[hgs-147]
+[hgs-144]
 
 Email LIM
 
-[hgs-148]
+[hgs-145]
 
 Official Website
 
-[hgs-149]
+[hgs-146]
 
 Brand Guide
 
-[hgs-150]
+[hgs-147]
 
 © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit · All Rights Reserved
 
 
 ### Modal — Reg
 
-[hgs-151]
+[hgs-148]
 
 Free Event Registration
 
-[hgs-152]
+[hgs-149]
 
 ✕
 
-[hgs-153]
+[hgs-150]
 
 You're Registered!
 
-[hgs-154]
+[hgs-151]
 
 Thank you for signing up. We'll be in touch with confirmation details and — for online sessions — your Zoom link. Questions? Call (262) 439-5663
 
-[hgs-155]
+[hgs-152]
 
 Close
 
-[hgs-156]
+[hgs-153]
 
 Your Information
 
-[hgs-157]
+[hgs-154]
 
 First Name *
 
-[hgs-158]
+[hgs-155]
 
 First
 
-[hgs-159]
+[hgs-156]
 
 Last Name *
 
-[hgs-160]
+[hgs-157]
 
 Last
 
-[hgs-161]
+[hgs-158]
 
 Email Address *
 
-[hgs-162]
+[hgs-159]
 
 you@example.com
 
-[hgs-163]
+[hgs-160]
 
 Cell Phone *
 
-[hgs-164]
+[hgs-161]
 
 (___) ___-____
 
-[hgs-165]
+[hgs-162]
 
 Age (optional)
 
-[hgs-166]
+[hgs-163]
 
 Age
 
-[hgs-167]
+[hgs-164]
 
 Gender (optional)
 
-[hgs-168]
+[hgs-165]
 
 Male
 
-[hgs-169]
+[hgs-166]
 
 Female
 
-[hgs-170]
+[hgs-167]
 
 Other
 
-[hgs-171]
+[hgs-168]
 
 Home Address
 
-[hgs-172]
+[hgs-169]
 
 Street Address *
 
-[hgs-173]
+[hgs-170]
 
 Street address
 
-[hgs-174]
+[hgs-171]
 
 Apt / Suite (optional)
 
-[hgs-175]
+[hgs-172]
 
 Apt, suite, etc.
 
-[hgs-176]
+[hgs-173]
 
 City *
 
-[hgs-177]
+[hgs-174]
 
 City
 
-[hgs-178]
+[hgs-175]
 
 State *
 
-[hgs-179]
+[hgs-176]
 
 ST
 
-[hgs-180]
+[hgs-177]
 
 ZIP Code *
 
-[hgs-181]
+[hgs-178]
 
 ZIP
 
-[hgs-182]
+[hgs-179]
 
 Country
 
-[hgs-183]
+[hgs-180]
 
 United States
 
-[hgs-184]
+[hgs-181]
 
 Canada
 
-[hgs-185]
+[hgs-182]
 
 Other
 
-[hgs-186]
+[hgs-183]
 
 Emergency Contact (recommended)
 
-[hgs-187]
+[hgs-184]
 
 Contact Name
 
-[hgs-188]
+[hgs-185]
 
 Full name
 
-[hgs-189]
+[hgs-186]
 
 Contact Phone
 
-[hgs-190]
+[hgs-187]
 
 (___) ___-____
 
-[hgs-191]
+[hgs-188]
 
 🎖️ Military Eligibility
 
-[hgs-192]
+[hgs-189]
 
 Branch of Service *
 
-[hgs-193]
+[hgs-190]
 
 — Select branch —
 
-[hgs-194]
+[hgs-191]
 
 Army
 
-[hgs-195]
+[hgs-192]
 
 Navy
 
-[hgs-196]
+[hgs-193]
 
 Marine Corps
 
-[hgs-197]
+[hgs-194]
 
 Air Force
 
-[hgs-198]
+[hgs-195]
 
 Space Force
 
-[hgs-199]
+[hgs-196]
 
 Coast Guard
 
-[hgs-200]
+[hgs-197]
 
 Unit / Battalion (optional)
 
-[hgs-201]
+[hgs-198]
 
 e.g. 1-5 Cav, 25th ID
 
-[hgs-202]
+[hgs-199]
 
 I confirm I am currently active duty military personnel and understand this group is limited to Ft. Wainwright service members. *
 
-[hgs-203]
+[hgs-200]
 
 A Few Things to Know
 
-[hgs-204]
+[hgs-201]
 
 I understand that if I'm unable to attend, this may affect my ability to access the healing group in the future. *
 
-[hgs-205]
+[hgs-202]
 
 I understand that a certificate of completion requires attending all scheduled sessions. *
 
-[hgs-206]
+[hgs-203]
 
 Dietary Needs (optional)
 
-[hgs-207]
+[hgs-204]
 
 Any dietary restrictions or needs…
 
-[hgs-208]
+[hgs-205]
 
 Complete Registration
 
-[hgs-209]
+[hgs-206]
 
 Prefer to register by phone? Call (262) 439-5663
 
 
 ### Modal — Cancel Modal
 
-[hgs-210]
+[hgs-207]
 
 Cancel My Registration
 
-[hgs-211]
+[hgs-208]
 
 ✕
 
-[hgs-212]
+[hgs-209]
 
 Cancellation Received
 
-[hgs-213]
+[hgs-210]
 
 We're sorry you can't make it — we'll open your spot and keep you in mind for future sessions. We'll send a confirmation to your email shortly.
 
-[hgs-214]
+[hgs-211]
 
 Close
 
-[hgs-215]
+[hgs-212]
 
 Which session are you cancelling? *
 
-[hgs-216]
+[hgs-213]
 
 — Select your session —
 
-[hgs-217]
+[hgs-214]
 
 Military Personnel Healing Group — March 13–14, 2026 · Fairbanks, AK
 
-[hgs-218]
+[hgs-215]
 
 Healing Group + Equipping Training — April 14–17, 2026 · Winnebago, NE
 
-[hgs-219]
+[hgs-216]
 
 Community Healing Group — May 27–29, 2026 · Fairbanks, AK
 
-[hgs-220]
+[hgs-217]
 
 Online Healing Group — August 5–14, 2026 · Zoom
 
-[hgs-221]
+[hgs-218]
 
 Community Healing Group — September 2026 · Fairbanks, AK
 
-[hgs-222]
-
-Community Healing Group — July 2026 · Robert's House
-
-[hgs-223]
+[hgs-219]
 
 Facilitator Equipping Training — October 2026
 
-[hgs-224]
+[hgs-220]
 
 Other / Not Listed
 
-[hgs-225]
+[hgs-221]
 
 First Name *
 
-[hgs-226]
+[hgs-222]
 
 First
 
-[hgs-227]
+[hgs-223]
 
 Last Name *
 
-[hgs-228]
+[hgs-224]
 
 Last
 
-[hgs-229]
+[hgs-225]
 
 Email Used to Register *
 
-[hgs-230]
+[hgs-226]
 
 you@example.com
 
-[hgs-231]
+[hgs-227]
 
 Reason (optional — helps us improve)
 
-[hgs-232]
+[hgs-228]
 
 Let us know if you'd like to share…
 
-[hgs-233]
+[hgs-229]
 
 Submit Cancellation
 
-[hgs-234]
+[hgs-230]
 
 Or call us at (262) 439-5663
 
 
 ### Modal — Waitlist
 
-[hgs-235]
+[hgs-231]
 
 Join the Waitlist
 
-[hgs-236]
+[hgs-232]
 
 ✕
 
-[hgs-237]
+[hgs-233]
 
 The March 18–27 online session is currently full. Use the registration form to note your interest in this session and we'll contact you if a spot opens — or automatically register you for the August 5–14 session if you prefer.
 
-[hgs-238]
+[hgs-234]
 
 The August online session has open spots and follows the same curriculum. We encourage you to register for August now.
 
-[hgs-239]
+[hgs-235]
 
 Join Waitlist / Register for August
 
 
 ### Modal — Fairbanks Mil
 
-[hgs-240]
+[hgs-236]
 
 Military Personnel Healing Group
 
-[hgs-241]
+[hgs-237]
 
 ✕
 
-[hgs-242]
+[hgs-238]
 
 A healing group specifically for active military personnel, veterans, and their families. Same scripture-based curriculum, same compassionate community — in a setting that honors the unique experiences of those who have served.
 
-[hgs-243]
+[hgs-239]
 
 Open to active military, veterans, and family members
 
-[hgs-244]
+[hgs-240]
 
 Confidential and community-supported
 
-[hgs-245]
+[hgs-241]
 
 All faith backgrounds welcome
 
-[hgs-246]
+[hgs-242]
 
 Lunch provided both days
 
-[hgs-247]
+[hgs-243]
 
 Ages 18+
 
-[hgs-248]
+[hgs-244]
 
 Register Now
 
 
 ### Modal — Winnebago
 
-[hgs-249]
+[hgs-245]
 
 Healing Group + Equipping · Winnebago, NE
 
-[hgs-250]
+[hgs-246]
 
 ✕
 
-[hgs-251]
+[hgs-247]
 
 A unique combined event: experience a full healing group and receive facilitator equipping training in the same week. Ideal for community leaders, pastors, and anyone who wants to bring healing groups to their own community.
 
-[hgs-252]
+[hgs-248]
 
 Attend healing group sessions as a participant
 
-[hgs-253]
+[hgs-249]
 
 Receive facilitator training to lead your own groups
 
-[hgs-254]
+[hgs-250]
 
 Leave equipped and empowered to multiply healing in your community
 
-[hgs-255]
+[hgs-251]
 
 Lunch provided daily · All welcome · Ages 18+
 
-[hgs-256]
+[hgs-252]
 
 Register Now
 
 
 ### Modal — Fairbanks May
 
-[hgs-257]
+[hgs-253]
 
 Community Healing Group · Fairbanks, AK
 
-[hgs-258]
+[hgs-254]
 
 ✕
 
-[hgs-259]
+[hgs-255]
 
 A typical Fairbanks healing group schedule:
 
-[hgs-260]
+[hgs-256]
 
 Wednesday: Noon – 4:30 PM (includes lunch)
 
-[hgs-261]
+[hgs-257]
 
 Thursday: 9 AM – 4:30 PM (includes lunch)
 
-[hgs-262]
+[hgs-258]
 
 Friday: 9 AM – 1:00 PM (includes lunch)
 
-[hgs-263]
+[hgs-259]
 
 Open to all community members · Ages 18+ · All backgrounds welcome
 
-[hgs-264]
+[hgs-260]
 
 Register Now
 
 
 ### Modal — Aug Online
 
-[hgs-265]
+[hgs-261]
 
 Online Healing Group · August 2026
 
-[hgs-266]
+[hgs-262]
 
 ✕
 
-[hgs-267]
+[hgs-263]
 
 A two-week online format using Zoom. Ideal for participants who cannot travel or prefer to join from home. The same full curriculum, the same community experience, the same scripture-grounded healing.
 
-[hgs-268]
+[hgs-264]
 
 Sessions held over two weeks via Zoom video call
 
-[hgs-269]
+[hgs-265]
 
 Technology support available for those who need it
 
-[hgs-270]
+[hgs-266]
 
 Same 6 core sessions, same 390+ scriptures
 
-[hgs-271]
+[hgs-267]
 
 You will receive a Zoom link and schedule upon registration
 
-[hgs-272]
+[hgs-268]
 
-Open to all · Ages 18+ · Free
+Open to all · Ages 18+ · No Cost to Participants
 
-[hgs-273]
+[hgs-269]
 
 Register Now
 
 
 ### Modal — Sessions
 
-[hgs-274]
+[hgs-270]
 
 The Six Core Sessions
 
-[hgs-275]
+[hgs-271]
 
 ✕
 
-[hgs-276]
+[hgs-272]
 
 Over 16 hours across 2–3 days, six sessions walk participants through scripture and personal reflection. Each builds on the last, supported by 390+ scriptures from the Restoring Hope Bible.
 
-[hgs-277]
+[hgs-273]
 
 Session 1: If God loves us, why do we suffer?
 
-[hgs-278]
+[hgs-274]
 
 Session 2: What is a wound of the heart?
 
-[hgs-279]
+[hgs-275]
 
 Session 3: What can help our heart wounds heal?
 
-[hgs-280]
+[hgs-276]
 
 Session 4: What happens when someone is grieving?
 
-[hgs-281]
+[hgs-277]
 
 Session 5: Bringing our pain to the cross & forgiving others
 
-[hgs-282]
+[hgs-278]
 
 Session 6: Looking back, looking forward — closing with hope
 
-[hgs-283]
+[hgs-279]
 
 Healing is self-directed. You share only what you're comfortable sharing, and go only where you're ready to go. The Holy Spirit does the heavy lifting.
 
-[hgs-284]
+[hgs-280]
 
 Find a Session Near You
 

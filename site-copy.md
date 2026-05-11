@@ -96,7 +96,6 @@ _File: `index.html`_
 - `[idx-036]` **Button** — Learn More
 - `[idx-078]` **Paragraph** — I got to let go of hurts and disappointments from my entire life. And talk about freedom. I feel so much lighter — not shackled anymore. I'm so thankful I said yes. I wish I could have done this decades ago.
 - `[idx-079]` **Paragraph** — "This was the first time I felt God's Word speak to my pain." We don't promise quick fixes — but we create safe spaces where people can gather, share, and heal while holding onto hope that only God's Word can give.
-- `[idx-080]` **Paragraph** — Can you imagine what it would be like if all our communities could be that helper to one another — scripture-rooted, safe, not judging, not forcing? Just coming from that place of love and grace. That is what this is.
 
 
 ### Healing The Wounds Of Trauma
@@ -105,7 +104,7 @@ _File: `index.html`_
 - `[idx-038]` **Paragraph** — A Bible-based small group program led by Native facilitators and supported by prayer warriors. Open to everyone 18 and older. No faith background needed.
 - `[idx-039]` **Paragraph** — No pressure, no force. You come as you are and leave when the time is right. The Holy Spirit does the heavy lifting.
 - `[idx-040]` **Paragraph** — I got to let go of hurts and disappointments that I've experienced in my entire life. And talk about freedom. Oh, the freedom. I have a hard time putting into words how you feel so much lighter — how you feel so not shackled anymore.
-- `[idx-041]` **Paragraph** — — Roberta (Kitirak), Ministry Coordinator & Healing Group Participant Anchorage, Alaska
+- `[idx-041]` **Paragraph** — — Roberta (Kitigruak), Ministry Coordinator & Healing Group Participant Anchorage, Alaska
 - `[idx-042]` **H3** — What Happens in a Healing Group?
 - `[idx-043]` **Paragraph** — Six core sessions over 16 hours walk participants through scripture and personal reflection. Each session builds on the last.
 - `[idx-044]` **Button** — 1 What Is a Wound of the Heart?
@@ -158,189 +157,189 @@ _File: `index.html`_
 
 ### Video Library
 
-- `[idx-081]` **H2** — Videos
+- `[idx-080]` **H2** — Videos
 
 
 ### From The Field
 
-- `[idx-082]` **H2** — Stories & Updates
-- `[idx-083]` **H3** — I Can Do All Things Philippians 4:13
-- `[idx-084]` **Paragraph** — If you are like me, you can recite this verse — but in real life, find yourself far from being able "to do all things." A devotional on what changes when we stop performing strength and start receiving it.
-- `[idx-085]` **H3** — The Choice: Native OR Christian?
-- `[idx-086]` **Paragraph** — For more than 500 years, Native Americans were told they had to choose. A letter from a Seminole man in prison — and one man's drum — show why that choice was always a lie.
-- `[idx-087]` **H3** — Discovering My True Identity in Christ
-- `[idx-088]` **Paragraph** — Beverly Heyano — Tanqik, "brightness" — drank from age 10 to 38. Twenty-seven years later, she shares what she found in God's Word that alcohol could never give her.
-- `[idx-089]` **H3** — When Healing Becomes Real
-- `[idx-090]` **Paragraph** — Four soldiers shared what happened inside — in their own words. Hear how God's Word moved through a military healing group.
+- `[idx-081]` **H2** — Stories & Updates
+- `[idx-082]` **H3** — I Can Do All Things Philippians 4:13
+- `[idx-083]` **Paragraph** — If you are like me, you can recite this verse — but in real life, find yourself far from being able "to do all things." A devotional on what changes when we stop performing strength and start receiving it.
+- `[idx-084]` **H3** — The Choice: Native OR Christian?
+- `[idx-085]` **Paragraph** — For more than 500 years, Native Americans were told they had to choose. A letter from a Seminole man in prison — and one man's drum — show why that choice was always a lie.
+- `[idx-086]` **H3** — Discovering My True Identity in Christ
+- `[idx-087]` **Paragraph** — Beverly Heyano — Tanqik, "brightness" — drank from age 10 to 38. Twenty-seven years later, she shares what she found in God's Word that alcohol could never give her.
+- `[idx-088]` **H3** — When Healing Becomes Real
+- `[idx-089]` **Paragraph** — Four soldiers shared what happened inside — in their own words. Hear how God's Word moved through a military healing group.
 
 
 ### How You Can Help
 
-- `[idx-091]` **H2** — How Can We Walk Together?
-- `[idx-092]` **H3** — Are You Seeking Healing?
-- `[idx-093]` **Paragraph** — You don't have to carry this alone. Healing Groups are open, safe, and led by people who understand the journey from the inside.
-- `[idx-094]` **List item** — Free to attend — ages 18+
-- `[idx-095]` **List item** — No faith background required
-- `[idx-096]` **List item** — In-person and online options
-- `[idx-097]` **List item** — Held on reservations, in villages and cities
-- `[idx-098]` **List item** — Lunch provided at in-person sessions
-- `[idx-099]` **List item** — Confidential and community-supported
-- `[idx-100]` **Button (link)** — Find a Healing Group →
-- `[idx-101]` **H3** — Ready to Support the Mission?
-- `[idx-102]` **Paragraph** — Your partnership makes it possible for LIM to reach every tribe, train every facilitator, and hold every healing group.
-- `[idx-103]` **List item** — Monthly giving funds year-round ministry
-- `[idx-104]` **List item** — One-time gifts fund specific programs
-- `[idx-105]` **List item** — Gifts of stock, IRA, and DAFs welcomed
-- `[idx-106]` **List item** — 3-Star Charity Navigator rated
-- `[idx-107]` **List item** — GuideStar Platinum transparency
-- `[idx-108]` **List item** — Every gift is tax-deductible
-- `[idx-109]` **Button** — Give Now
-- `[idx-110]` **Button** — Ways to Give
+- `[idx-090]` **H2** — How Can We Walk Together?
+- `[idx-091]` **H3** — Are You Seeking Healing?
+- `[idx-092]` **Paragraph** — You don't have to carry this alone. Healing Groups are open, safe, and led by people who understand the journey from the inside.
+- `[idx-093]` **List item** — Free to attend — ages 18+
+- `[idx-094]` **List item** — No faith background required
+- `[idx-095]` **List item** — In-person and online options
+- `[idx-096]` **List item** — Held on reservations, in villages and cities
+- `[idx-097]` **List item** — Lunch provided at in-person sessions
+- `[idx-098]` **List item** — Confidential and community-supported
+- `[idx-099]` **Button (link)** — Find a Healing Group →
+- `[idx-100]` **H3** — Ready to Support the Mission?
+- `[idx-101]` **Paragraph** — Your partnership makes it possible for LIM to reach every tribe, train every facilitator, and hold every healing group.
+- `[idx-102]` **List item** — Monthly giving funds year-round ministry
+- `[idx-103]` **List item** — One-time gifts fund specific programs
+- `[idx-104]` **List item** — Gifts of stock, IRA, and DAFs welcomed
+- `[idx-105]` **List item** — 3-Star Charity Navigator rated
+- `[idx-106]` **List item** — GuideStar Platinum transparency
+- `[idx-107]` **List item** — Every gift is tax-deductible
+- `[idx-108]` **Button** — Give Now
+- `[idx-109]` **Button** — Ways to Give
 
 
 ### Footer — Footer
 
-- `[idx-111]` **Paragraph** — A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
-- `[idx-112]` **H4** — Ministry
-- `[idx-113]` **Link** — Three Pillars
-- `[idx-114]` **Link** — Healing Wounds of Trauma
-- `[idx-115]` **Link** — Haskell LIGHT
-- `[idx-116]` **Link** — About LIM
-- `[idx-117]` **H4** — Get Involved
-- `[idx-118]` **Link** — Find a Healing Group
-- `[idx-119]` **Link** — Become a Facilitator
-- `[idx-120]` **Link** — Donate
-- `[idx-121]` **Link** — Ways to Give
-- `[idx-122]` **H4** — Contact
-- `[idx-123]` **Link** — (262) 439-5663
-- `[idx-124]` **Link** — (262) 783-5267
-- `[idx-125]` **Link** — Email LIM
-- `[idx-126]` **Link** — Official Website
-- `[idx-127]` **Link** — Brand Guide
-- `[idx-128]` **Link** — Developer Docs
-- `[idx-129]` **Link** — Video Interview Guide
-- `[idx-130]` **Link** — Video Release Form
-- `[idx-131]` **Link** — Session Feedback
-- `[idx-132]` **Paragraph** — © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · All Rights Reserved
+- `[idx-110]` **Paragraph** — A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
+- `[idx-111]` **H4** — Ministry
+- `[idx-112]` **Link** — Three Pillars
+- `[idx-113]` **Link** — Healing Wounds of Trauma
+- `[idx-114]` **Link** — Haskell LIGHT
+- `[idx-115]` **Link** — About LIM
+- `[idx-116]` **H4** — Get Involved
+- `[idx-117]` **Link** — Find a Healing Group
+- `[idx-118]` **Link** — Become a Facilitator
+- `[idx-119]` **Link** — Donate
+- `[idx-120]` **Link** — Ways to Give
+- `[idx-121]` **H4** — Contact
+- `[idx-122]` **Link** — (262) 439-5663
+- `[idx-123]` **Link** — (262) 783-5267
+- `[idx-124]` **Link** — Email LIM
+- `[idx-125]` **Link** — Official Website
+- `[idx-126]` **Link** — Brand Guide
+- `[idx-127]` **Link** — Developer Docs
+- `[idx-128]` **Link** — Video Interview Guide
+- `[idx-129]` **Link** — Video Release Form
+- `[idx-130]` **Link** — Session Feedback
+- `[idx-131]` **Paragraph** — © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · All Rights Reserved
 
 
 ### Modal — Donate
 
-- `[idx-133]` **H2** — Partner With Us
-- `[idx-134]` **Button** — ✕
-- `[idx-135]` **Button** — One-Time
-- `[idx-136]` **Button** — Monthly Most Impact
-- `[idx-137]` **Button** — $25
-- `[idx-138]` **Button** — $50
-- `[idx-139]` **Button** — $100
-- `[idx-140]` **Button** — $250
-- `[idx-141]` **Form placeholder** — Other amount
-- `[idx-142]` **Paragraph** — $100 sponsors a full healing group participant — all 6 sessions, rooted in God's Word.
-- `[idx-143]` **Label** — First Name *
-- `[idx-144]` **Form placeholder** — First
-- `[idx-145]` **Label** — Last Name *
-- `[idx-146]` **Form placeholder** — Last
-- `[idx-147]` **Label** — Email *
-- `[idx-148]` **Form placeholder** — you@example.com
-- `[idx-149]` **Label** — Dedicate this gift (in honor or memory of someone)
-- `[idx-150]` **Form placeholder** — In honor / memory of…
-- `[idx-151]` **Button** — Give $100 Now
-- `[idx-152]` **Paragraph** — Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
-- `[idx-153]` **H3** — Thank You!
-- `[idx-154]` **Paragraph** — Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.
-- `[idx-155]` **Button** — Close
+- `[idx-132]` **H2** — Partner With Us
+- `[idx-133]` **Button** — ✕
+- `[idx-134]` **Button** — One-Time
+- `[idx-135]` **Button** — Monthly Most Impact
+- `[idx-136]` **Button** — $25
+- `[idx-137]` **Button** — $50
+- `[idx-138]` **Button** — $100
+- `[idx-139]` **Button** — $250
+- `[idx-140]` **Form placeholder** — Other amount
+- `[idx-141]` **Paragraph** — $100 sponsors a full healing group participant — all 6 sessions, rooted in God's Word.
+- `[idx-142]` **Label** — First Name *
+- `[idx-143]` **Form placeholder** — First
+- `[idx-144]` **Label** — Last Name *
+- `[idx-145]` **Form placeholder** — Last
+- `[idx-146]` **Label** — Email *
+- `[idx-147]` **Form placeholder** — you@example.com
+- `[idx-148]` **Label** — Dedicate this gift (in honor or memory of someone)
+- `[idx-149]` **Form placeholder** — In honor / memory of…
+- `[idx-150]` **Button** — Give $100 Now
+- `[idx-151]` **Paragraph** — Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
+- `[idx-152]` **H3** — Thank You!
+- `[idx-153]` **Paragraph** — Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.
+- `[idx-154]` **Button** — Close
 
 
 ### Modal — Our Story Video
 
-- `[idx-156]` **Button** — ✕
+- `[idx-155]` **Button** — ✕
 
 
 ### Modal — About
 
-- `[idx-157]` **H2** — Our Mission & Vision
-- `[idx-158]` **Button** — ✕
-- `[idx-159]` **H4** — Our Mission
-- `[idx-160]` **Paragraph** — Lutheran Indian Ministries shares the Gospel of Jesus Christ with Native people, encouraging them to proclaim Christ's Kingdom. We train Native leaders, nurture healing, and witness Christ-centered growth.
-- `[idx-161]` **H4** — Our Vision
-- `[idx-162]` **Paragraph** — That one day, all nations will walk together in the light of Christ — restored, thriving, and sharing the cultural heritage God gave them.
-- `[idx-163]` **H4** — Core Belief
-- `[idx-164]` **Paragraph** — All healing comes from God. Love is an action, not just an emotion. We listen before we speak, walk beside, and build relationships rooted in trust — not transactions.
-- `[idx-165]` **H4** — Native Led
-- `[idx-166]` **Paragraph** — LIM is led by Native people who know the stories, the traditions, the culture, and the humor. With 574 federally recognized tribes in the U.S. — 229 in Alaska alone — we travel by small plane, boat, and snowmachine to reach every community God calls us to serve.
-- `[idx-167]` **Button (link)** — Our Three Pillars
-- `[idx-168]` **Button** — Partner With Us
+- `[idx-156]` **H2** — Our Mission & Vision
+- `[idx-157]` **Button** — ✕
+- `[idx-158]` **H4** — Our Mission
+- `[idx-159]` **Paragraph** — Lutheran Indian Ministries shares the Gospel of Jesus Christ with Native people, encouraging them to proclaim Christ's Kingdom. We train Native leaders, nurture healing, and witness Christ-centered growth.
+- `[idx-160]` **H4** — Our Vision
+- `[idx-161]` **Paragraph** — That one day, all nations will walk together in the light of Christ — restored, thriving, and sharing the cultural heritage God gave them.
+- `[idx-162]` **H4** — Core Belief
+- `[idx-163]` **Paragraph** — All healing comes from God. Love is an action, not just an emotion. We listen before we speak, walk beside, and build relationships rooted in trust — not transactions.
+- `[idx-164]` **H4** — Native Led
+- `[idx-165]` **Paragraph** — LIM is led by Native people who know the stories, the traditions, the culture, and the humor. With 574 federally recognized tribes in the U.S. — 229 in Alaska alone — we travel by small plane, boat, and snowmachine to reach every community God calls us to serve.
+- `[idx-166]` **Button (link)** — Our Three Pillars
+- `[idx-167]` **Button** — Partner With Us
 
 
 ### Modal — Proclaim
 
-- `[idx-169]` **H2** — Pillar 01 — Proclaim
-- `[idx-170]` **Button** — ✕
-- `[idx-171]` **H4** — The Gospel in Native Voices
-- `[idx-172]` **Paragraph** — We share the Gospel in ways that fit Native culture — through oral tradition, storytelling, and images that speak to how Native people understand the world.
-- `[idx-173]` **H4** — Christ, the Bridge
-- `[idx-174]` **Paragraph** — LIM's conviction: God speaks in Native tongues to Native hearts. Faith in Christ does not require abandoning Indigenous identity. Native traditions are vessels of God's grace — not obstacles to faith.
-- `[idx-175]` **H4** — How We Proclaim
-- `[idx-176]` **List item** — Outreach visits by invitation, guided by tribal customs and deep respect
-- `[idx-177]` **List item** — Traveling by small plane, boat, and snowmachine to reach remote communities
-- `[idx-178]` **List item** — Sacred Connections Podcast — sharing the Gospel through story
-- `[idx-179]` **List item** — Partnership with local churches and Native leaders across 574 tribes
-- `[idx-180]` **Button** — Support Gospel Outreach
+- `[idx-168]` **H2** — Pillar 01 — Proclaim
+- `[idx-169]` **Button** — ✕
+- `[idx-170]` **H4** — The Gospel in Native Voices
+- `[idx-171]` **Paragraph** — We share the Gospel in ways that fit Native culture — through oral tradition, storytelling, and images that speak to how Native people understand the world.
+- `[idx-172]` **H4** — Christ, the Bridge
+- `[idx-173]` **Paragraph** — LIM's conviction: God speaks in Native tongues to Native hearts. Faith in Christ does not require abandoning Indigenous identity. Native traditions are vessels of God's grace — not obstacles to faith.
+- `[idx-174]` **H4** — How We Proclaim
+- `[idx-175]` **List item** — Outreach visits by invitation, guided by tribal customs and deep respect
+- `[idx-176]` **List item** — Traveling by small plane, boat, and snowmachine to reach remote communities
+- `[idx-177]` **List item** — Sacred Connections Podcast — sharing the Gospel through story
+- `[idx-178]` **List item** — Partnership with local churches and Native leaders across 574 tribes
+- `[idx-179]` **Button** — Support Gospel Outreach
 
 
 ### Modal — Disciple
 
-- `[idx-181]` **H2** — Pillar 02 — Disciple
-- `[idx-182]` **Button** — ✕
-- `[idx-183]` **H4** — Haskell LIGHT Campus Ministry
-- `[idx-184]` **Paragraph** — At Haskell Indian Nations University in Lawrence, Kansas — the only federally operated tribal university in the country — our campus ministry serves students from more than 130 tribes. Students come for meals and quilts, but stay for something deeper.
-- `[idx-185]` **H4** — Leo's Story
-- `[idx-186]` **Paragraph** — Leo is Keetowah Cherokee and Western Shoshone. He visited our campus center and met Pola Farve — Haskell LIGHT Director and a Haskell graduate herself. One day, Leo asked Pola for a Bible. Touched by the moment, he shared it on social media. Leo began reading — and didn't stop. Today, Leo walks a new path, guided by faith.
-- `[idx-187]` **H4** — Campus Programs
-- `[idx-188]` **List item** — Sister 2 Sister — Faith and belonging for Native women
-- `[idx-189]` **List item** — Real Warriors — Biblical leadership and brotherhood for Native men
-- `[idx-190]` **List item** — Champions in Training — Leadership for all students
-- `[idx-191]` **List item** — Home-cooked meals, quilts, Bible study, and one-on-one discipleship
-- `[idx-192]` **Button** — Support Haskell LIGHT
+- `[idx-180]` **H2** — Pillar 02 — Disciple
+- `[idx-181]` **Button** — ✕
+- `[idx-182]` **H4** — Haskell LIGHT Campus Ministry
+- `[idx-183]` **Paragraph** — At Haskell Indian Nations University in Lawrence, Kansas — the only federally operated tribal university in the country — our campus ministry serves students from more than 130 tribes. Students come for meals and quilts, but stay for something deeper.
+- `[idx-184]` **H4** — Leo's Story
+- `[idx-185]` **Paragraph** — Leo is Keetowah Cherokee and Western Shoshone. He visited our campus center and met Pola Farve — Haskell LIGHT Director and a Haskell graduate herself. One day, Leo asked Pola for a Bible. Touched by the moment, he shared it on social media. Leo began reading — and didn't stop. Today, Leo walks a new path, guided by faith.
+- `[idx-186]` **H4** — Campus Programs
+- `[idx-187]` **List item** — Sister 2 Sister — Faith and belonging for Native women
+- `[idx-188]` **List item** — Real Warriors — Biblical leadership and brotherhood for Native men
+- `[idx-189]` **List item** — Champions in Training — Leadership for all students
+- `[idx-190]` **List item** — Home-cooked meals, quilts, Bible study, and one-on-one discipleship
+- `[idx-191]` **Button** — Support Haskell LIGHT
 
 
 ### Modal — Heal
 
-- `[idx-193]` **H2** — Pillar 03 — Heal
-- `[idx-194]` **Button** — ✕
-- `[idx-195]` **H4** — Healing the Wounds of Trauma
-- `[idx-196]` **Paragraph** — For generations, Native communities have carried deep wounds — from boarding schools, family separation, and abuse. Healing the Wounds of Trauma addresses these wounds directly through scripture, community, and the love of God.
-- `[idx-197]` **H4** — The Program
-- `[idx-198]` **List item** — 16 hours across 2–3 days, 6 core sessions
-- `[idx-199]` **List item** — American Bible Society Trauma Healing Institute model
-- `[idx-200]` **List item** — 390+ scripture references using the Restoring Hope Bible
-- `[idx-201]` **List item** — Led by trained Native facilitators; supported by Prayer Warriors
-- `[idx-202]` **List item** — All welcome — no faith background required · Ages 18+
-- `[idx-203]` **List item** — Held on reservations, in villages, cities — in-person and online
-- `[idx-204]` **H4** — Become a Facilitator
-- `[idx-205]` **Paragraph** — From the start, participants are equipped to share this with others. Trained facilitators bring these tools back to their own communities — spreading healing across generations.
-- `[idx-206]` **Button (link)** — Find a Healing Group
-- `[idx-207]` **Button (link)** — Become a Facilitator
+- `[idx-192]` **H2** — Pillar 03 — Heal
+- `[idx-193]` **Button** — ✕
+- `[idx-194]` **H4** — Healing the Wounds of Trauma
+- `[idx-195]` **Paragraph** — For generations, Native communities have carried deep wounds — from boarding schools, family separation, and abuse. Healing the Wounds of Trauma addresses these wounds directly through scripture, community, and the love of God.
+- `[idx-196]` **H4** — The Program
+- `[idx-197]` **List item** — 16 hours across 2–3 days, 6 core sessions
+- `[idx-198]` **List item** — American Bible Society Trauma Healing Institute model
+- `[idx-199]` **List item** — 390+ scripture references using the Restoring Hope Bible
+- `[idx-200]` **List item** — Led by trained Native facilitators; supported by Prayer Warriors
+- `[idx-201]` **List item** — All welcome — no faith background required · Ages 18+
+- `[idx-202]` **List item** — Held on reservations, in villages, cities — in-person and online
+- `[idx-203]` **H4** — Become a Facilitator
+- `[idx-204]` **Paragraph** — From the start, participants are equipped to share this with others. Trained facilitators bring these tools back to their own communities — spreading healing across generations.
+- `[idx-205]` **Button (link)** — Find a Healing Group
+- `[idx-206]` **Button (link)** — Become a Facilitator
 
 
 ### Modal — Giving
 
-- `[idx-208]` **H2** — Ways to Give
-- `[idx-209]` **Button** — ✕
-- `[idx-210]` **H4** — Online Giving
-- `[idx-211]` **Paragraph** — Secure online giving with credit/debit card, Apple Pay, and Google Pay. Set up monthly recurring giving to provide sustained support year-round.
-- `[idx-212]` **H4** — Gifts of Stock
-- `[idx-213]` **Paragraph** — Transferring appreciated securities is one of the most tax-efficient ways to give. Contact us to initiate a stock transfer directly to LIM's brokerage account.
-- `[idx-214]` **H4** — Donor Advised Funds (DAFs)
-- `[idx-215]` **Paragraph** — Recommend a grant from your DAF to Lutheran Indian Ministries. Our EIN is available upon request.
-- `[idx-216]` **H4** — IRA Qualified Charitable Distribution
-- `[idx-217]` **Paragraph** — If you are 70½ or older, you may make a tax-free gift directly from your IRA to LIM — up to $100,000 per year.
-- `[idx-218]` **H4** — Planned Giving & Legacy Gifts
-- `[idx-219]` **Paragraph** — Include LIM in your will or trust and ensure Native Gospel ministry for generations to come. Contact us to discuss options.
-- `[idx-220]` **H4** — By Mail
-- `[idx-221]` **Paragraph** — Checks payable to Lutheran Indian Ministries · Brookfield, WI · Call (262) 439-5663 for mailing address.
-- `[idx-222]` **Button** — Give Online Now
-- `[idx-223]` **Button (link)** — Call to Give
+- `[idx-207]` **H2** — Ways to Give
+- `[idx-208]` **Button** — ✕
+- `[idx-209]` **H4** — Online Giving
+- `[idx-210]` **Paragraph** — Secure online giving with credit/debit card, Apple Pay, and Google Pay. Set up monthly recurring giving to provide sustained support year-round.
+- `[idx-211]` **H4** — Gifts of Stock
+- `[idx-212]` **Paragraph** — Transferring appreciated securities is one of the most tax-efficient ways to give. Contact us to initiate a stock transfer directly to LIM's brokerage account.
+- `[idx-213]` **H4** — Donor Advised Funds (DAFs)
+- `[idx-214]` **Paragraph** — Recommend a grant from your DAF to Lutheran Indian Ministries. Our EIN is available upon request.
+- `[idx-215]` **H4** — IRA Qualified Charitable Distribution
+- `[idx-216]` **Paragraph** — If you are 70½ or older, you may make a tax-free gift directly from your IRA to LIM — up to $100,000 per year.
+- `[idx-217]` **H4** — Planned Giving & Legacy Gifts
+- `[idx-218]` **Paragraph** — Include LIM in your will or trust and ensure Native Gospel ministry for generations to come. Contact us to discuss options.
+- `[idx-219]` **H4** — By Mail
+- `[idx-220]` **Paragraph** — Checks payable to Lutheran Indian Ministries · Brookfield, WI · Call (262) 439-5663 for mailing address.
+- `[idx-221]` **Button** — Give Online Now
+- `[idx-222]` **Button (link)** — Call to Give
 
 
 ---
@@ -620,283 +619,279 @@ _File: `healing-groups.html`_
 - `[hgs-057]` **H3** — Community Healing Group
 - `[hgs-058]` **Paragraph** — Fall session in Fairbanks. Exact dates to be confirmed. Register your interest and we'll contact you as soon as dates are set.
 - `[hgs-059]` **Button** — Register Interest
-- `[hgs-060]` **H3** — Community Healing Group
-- `[hgs-061]` **Paragraph** — An intimate community healing group hosted at Robert's House. Exact dates to be confirmed — register your interest and we'll reach out as soon as scheduling is set.
+- `[hgs-060]` **H3** — Facilitator Equipping Training
+- `[hgs-061]` **Paragraph** — Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.
 - `[hgs-062]` **Button** — Register Interest
-- `[hgs-063]` **H3** — Facilitator Equipping Training
-- `[hgs-064]` **Paragraph** — Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.
-- `[hgs-065]` **Button** — Register Interest
-- `[hgs-066]` **Paragraph** — Additional sessions planned for Anchorage, AK (October–November 2026). Contact us to be notified.
-- `[hgs-067]` **Button** — Contact us
+- `[hgs-063]` **Paragraph** — Additional sessions planned for Anchorage, AK (October–November 2026). Contact us to be notified.
+- `[hgs-064]` **Button** — Contact us
 
 
 ### What To Expect In Each Session
 
-- `[hgs-068]` **H2** — The Six Core Sessions
-- `[hgs-069]` **Paragraph** — Each session builds on the last. Over 390 scriptures are woven throughout, using the Restoring Hope Bible. You go only where you're ready to go.
-- `[hgs-070]` **Button** — 1 What Is a Wound of the Heart?
-- `[hgs-071]` **Paragraph** — Heart wounds can begin in childhood, young adulthood, or today. This session helps participants name and understand their specific wounds — whether from abuse, loss, historical trauma, or grief. Naming the wound is the first step toward healing it.
-- `[hgs-072]` **Button** — 2 What Can Help Our Heart Wounds Heal?
-- `[hgs-073]` **Paragraph** — Practical tools for the healing journey — exercises that move understanding from head to heart. Participants discover that healing is a process supported by community, prayer, and scripture. This session also addresses how stress and trauma are held in the body.
-- `[hgs-074]` **Button** — 3 What Happens When Someone Is Grieving?
-- `[hgs-075]` **Paragraph** — A compassionate look at what grief actually looks like — and where people get stuck. Understanding the grief journey is often cathartic and transforming. Participants learn they don't have to stay stuck, and that tears are cleansing, not weakness.
-- `[hgs-076]` **Button** — 4 If God Loves Us, Why Do We Suffer?
-- `[hgs-077]` **Paragraph** — The most honest question we carry. Scripture reveals that God is present in suffering — not absent from it. Participants discover that pain is not a sign of abandonment. We learn that Jesus wept — and that changes everything.
-- `[hgs-078]` **Button** — 5 Bringing Our Pain to the Cross & Forgiving Others
-- `[hgs-079]` **Paragraph** — One of the most powerful sessions. Participants are gently led through releasing pain and beginning the journey of forgiving others. No pressure, no timeline. You go only where you're ready. The community around you holds space with grace and love.
-- `[hgs-080]` **Button** — 6 Looking Back, Looking Forward — Closing with Hope
-- `[hgs-081]` **Paragraph** — The closing session brings everything together — looking back at the healing journey, looking forward with hope. Participants also discover how they can share this with others. The healing group is the beginning, not the end.
+- `[hgs-065]` **H2** — The Six Core Sessions
+- `[hgs-066]` **Paragraph** — Each session builds on the last. Over 390 scriptures are woven throughout, using the Restoring Hope Bible. You go only where you're ready to go.
+- `[hgs-067]` **Button** — 1 What Is a Wound of the Heart?
+- `[hgs-068]` **Paragraph** — Heart wounds can begin in childhood, young adulthood, or today. This session helps participants name and understand their specific wounds — whether from abuse, loss, historical trauma, or grief. Naming the wound is the first step toward healing it.
+- `[hgs-069]` **Button** — 2 What Can Help Our Heart Wounds Heal?
+- `[hgs-070]` **Paragraph** — Practical tools for the healing journey — exercises that move understanding from head to heart. Participants discover that healing is a process supported by community, prayer, and scripture. This session also addresses how stress and trauma are held in the body.
+- `[hgs-071]` **Button** — 3 What Happens When Someone Is Grieving?
+- `[hgs-072]` **Paragraph** — A compassionate look at what grief actually looks like — and where people get stuck. Understanding the grief journey is often cathartic and transforming. Participants learn they don't have to stay stuck, and that tears are cleansing, not weakness.
+- `[hgs-073]` **Button** — 4 If God Loves Us, Why Do We Suffer?
+- `[hgs-074]` **Paragraph** — The most honest question we carry. Scripture reveals that God is present in suffering — not absent from it. Participants discover that pain is not a sign of abandonment. We learn that Jesus wept — and that changes everything.
+- `[hgs-075]` **Button** — 5 Bringing Our Pain to the Cross & Forgiving Others
+- `[hgs-076]` **Paragraph** — One of the most powerful sessions. Participants are gently led through releasing pain and beginning the journey of forgiving others. No pressure, no timeline. You go only where you're ready. The community around you holds space with grace and love.
+- `[hgs-077]` **Button** — 6 Looking Back, Looking Forward — Closing with Hope
+- `[hgs-078]` **Paragraph** — The closing session brings everything together — looking back at the healing journey, looking forward with hope. Participants also discover how they can share this with others. The healing group is the beginning, not the end.
 
 
 ### Become A Facilitator
 
-- `[hgs-082]` **H2** — Become a Facilitator
-- `[hgs-083]` **Paragraph** — After experiencing healing yourself, you may feel called to lead others through it. Facilitator training equips you to run healing groups in your own community — multiplying the impact across generations.
-- `[hgs-084]` **Quote** — "Once I got my ego out of the way and understood it's not my responsibility to change someone — I just follow the guide, like a tour guide — I started enjoying it. It's the Holy Spirit doing all the work." — Roberta, Trained Facilitator
-- `[hgs-085]` **Paragraph** — You don't need to be a Bible scholar or a pastor. You need a heart for people and a willingness to follow the facilitator guide — which is detailed, well-structured, and easy to use.
-- `[hgs-086]` **List item** — 1 Attend a healing group as a participant — experience it firsthand
-- `[hgs-087]` **List item** — 2 Complete the facilitator equipping training (often combined with a healing group session)
-- `[hgs-088]` **List item** — 3 Co-facilitate a healing group alongside an experienced facilitator
-- `[hgs-089]` **List item** — 4 Lead your own community healing group — supported by LIM's team
-- `[hgs-090]` **Button (link)** — See Equipping Training Dates
-- `[hgs-091]` **Button** — Express Interest
+- `[hgs-079]` **H2** — Become a Facilitator
+- `[hgs-080]` **Paragraph** — After experiencing healing yourself, you may feel called to lead others through it. Facilitator training equips you to run healing groups in your own community — multiplying the impact across generations.
+- `[hgs-081]` **Quote** — "Once I got my ego out of the way and understood it's not my responsibility to change someone — I just follow the guide, like a tour guide — I started enjoying it. It's the Holy Spirit doing all the work." — Roberta, Trained Facilitator
+- `[hgs-082]` **Paragraph** — You don't need to be a Bible scholar or a pastor. You need a heart for people and a willingness to follow the facilitator guide — which is detailed, well-structured, and easy to use.
+- `[hgs-083]` **List item** — 1 Attend a healing group as a participant — experience it firsthand
+- `[hgs-084]` **List item** — 2 Complete the facilitator equipping training (often combined with a healing group session)
+- `[hgs-085]` **List item** — 3 Co-facilitate a healing group alongside an experienced facilitator
+- `[hgs-086]` **List item** — 4 Lead your own community healing group — supported by LIM's team
+- `[hgs-087]` **Button (link)** — See Equipping Training Dates
+- `[hgs-088]` **Button** — Express Interest
 
 
 ### Frequently Asked Questions
 
-- `[hgs-092]` **H2** — Frequently Asked Questions
-- `[hgs-093]` **Button** — Q Do I have to be Christian or Lutheran to attend?
-- `[hgs-094]` **Paragraph** — No. All are welcome — regardless of faith, religion, or background. You don't need to prescribe or ascribe to any specific religion to attend. The program is grounded in biblical scripture, but you come as you are and take what is meaningful to you.
-- `[hgs-095]` **Button** — Q Is it really free? What does the cost cover?
-- `[hgs-096]` **Paragraph** — Yes, completely free to attend. LIM covers all curriculum costs, and in-person sessions include lunch each day. Travel and accommodation are not included, but contact us if cost is a barrier — we want to make this accessible to everyone.
-- `[hgs-097]` **Button** — Q What if I registered but can't make it?
-- `[hgs-098]` **Paragraph** — Life happens — we understand. Please let us know as soon as possible so we can open your spot for someone on the waitlist and transfer your registration to a future session. We run multiple healing groups throughout the year, so there's always another opportunity.
-- `[hgs-099]` **Button** — Cancel My Registration
-- `[hgs-100]` **Button** — Q Do I have to share personal things in the group?
-- `[hgs-101]` **Paragraph** — No. The healing journey is completely self-directed. You share only what you are comfortable sharing, and you go only where you're ready to go. There is no pressure and no force. The group agrees to confidentiality guidelines at the start of every session.
-- `[hgs-102]` **Button** — Q Must I attend all sessions?
-- `[hgs-103]` **Paragraph** — Yes — the sessions build on each other, and the connections you form with others are an important part of the experience. If you miss a session, contact us; we'll do our best to help you catch up or transfer to a future group where you can attend fully.
-- `[hgs-104]` **Button** — Q What is a Prayer Warrior?
-- `[hgs-105]` **Paragraph** — A Prayer Warrior is someone who has been through the healing group process and supports others through prayer — before, during, and after every session. They pray for every participant by name, including those who wanted to come but couldn't. They're also available for private conversation if someone needs it. Every healing group is fully prayed up.
-- `[hgs-106]` **Button** — Q Can we host a healing group at our church or community?
-- `[hgs-107]` **Paragraph** — Absolutely. LIM partners with churches, community organizations, and tribal entities to bring healing groups to new locations. Contact us to discuss hosting a group in your community. We provide curriculum, training, and ongoing support.
+- `[hgs-089]` **H2** — Frequently Asked Questions
+- `[hgs-090]` **Button** — Q Do I have to be Christian or Lutheran to attend?
+- `[hgs-091]` **Paragraph** — No. All are welcome — regardless of faith, religion, or background. You don't need to prescribe or ascribe to any specific religion to attend. The program is grounded in biblical scripture, but you come as you are and take what is meaningful to you.
+- `[hgs-092]` **Button** — Q Is it really free? What does the cost cover?
+- `[hgs-093]` **Paragraph** — Yes, completely free to attend. LIM covers all curriculum costs, and in-person sessions include lunch each day. Travel and accommodation are not included, but contact us if cost is a barrier — we want to make this accessible to everyone.
+- `[hgs-094]` **Button** — Q What if I registered but can't make it?
+- `[hgs-095]` **Paragraph** — Life happens — we understand. Please let us know as soon as possible so we can open your spot for someone on the waitlist and transfer your registration to a future session. We run multiple healing groups throughout the year, so there's always another opportunity.
+- `[hgs-096]` **Button** — Cancel My Registration
+- `[hgs-097]` **Button** — Q Do I have to share personal things in the group?
+- `[hgs-098]` **Paragraph** — No. The healing journey is completely self-directed. You share only what you are comfortable sharing, and you go only where you're ready to go. There is no pressure and no force. The group agrees to confidentiality guidelines at the start of every session.
+- `[hgs-099]` **Button** — Q Must I attend all sessions?
+- `[hgs-100]` **Paragraph** — Yes — the sessions build on each other, and the connections you form with others are an important part of the experience. If you miss a session, contact us; we'll do our best to help you catch up or transfer to a future group where you can attend fully.
+- `[hgs-101]` **Button** — Q What is a Prayer Warrior?
+- `[hgs-102]` **Paragraph** — A Prayer Warrior is someone who has been through the healing group process and supports others through prayer — before, during, and after every session. They pray for every participant by name, including those who wanted to come but couldn't. They're also available for private conversation if someone needs it. Every healing group is fully prayed up.
+- `[hgs-103]` **Button** — Q Can we host a healing group at our church or community?
+- `[hgs-104]` **Paragraph** — Absolutely. LIM partners with churches, community organizations, and tribal entities to bring healing groups to new locations. Contact us to discuss hosting a group in your community. We provide curriculum, training, and ongoing support.
 
 
 ### Register Or Contact Us
 
-- `[hgs-108]` **H2** — Ready to Register?
-- `[hgs-109]` **Paragraph** — Questions? Want to talk to someone before registering? We're here. Every warm, gentle invitation matters — and we don't want to miss anyone.
-- `[hgs-110]` **H3** — Register / Get More Information
-- `[hgs-111]` **Label** — First Name *
-- `[hgs-112]` **Form placeholder** — Your first name
-- `[hgs-113]` **Label** — Last Name *
-- `[hgs-114]` **Form placeholder** — Your last name
-- `[hgs-115]` **Label** — Email Address *
-- `[hgs-116]` **Form placeholder** — your@email.com
-- `[hgs-117]` **Label** — Phone Number
-- `[hgs-118]` **Form placeholder** — (optional)
-- `[hgs-119]` **Label** — Which Session Are You Interested In? *
-- `[hgs-120]` **Option** — — Select a session —
-- `[hgs-121]` **Option** — March 13–14 · Military · Fairbanks, AK
-- `[hgs-122]` **Option** — April 14–17 · Healing + Equipping · Winnebago, NE
-- `[hgs-123]` **Option** — May 27–29 · Community Healing · Fairbanks, AK
-- `[hgs-124]` **Option** — August 5–14 · Online
-- `[hgs-125]` **Option** — September 2026 · Fairbanks, AK (dates TBC)
-- `[hgs-126]` **Option** — Join waitlist for March Online (Currently Full)
-- `[hgs-127]` **Option** — Facilitator Training Interest
-- `[hgs-128]` **Option** — Contact me about hosting a group
-- `[hgs-129]` **Label** — Anything you'd like us to know?
-- `[hgs-130]` **Form placeholder** — Questions, accessibility needs, or anything else...
-- `[hgs-131]` **Paragraph** — Your information is confidential. We will only use it to contact you about healing group registration. You may opt out at any time.
-- `[hgs-132]` **Button** — Submit Registration
+- `[hgs-105]` **H2** — Ready to Register?
+- `[hgs-106]` **Paragraph** — Questions? Want to talk to someone before registering? We're here. Every warm, gentle invitation matters — and we don't want to miss anyone.
+- `[hgs-107]` **H3** — Register / Get More Information
+- `[hgs-108]` **Label** — First Name *
+- `[hgs-109]` **Form placeholder** — Your first name
+- `[hgs-110]` **Label** — Last Name *
+- `[hgs-111]` **Form placeholder** — Your last name
+- `[hgs-112]` **Label** — Email Address *
+- `[hgs-113]` **Form placeholder** — your@email.com
+- `[hgs-114]` **Label** — Phone Number
+- `[hgs-115]` **Form placeholder** — (optional)
+- `[hgs-116]` **Label** — Which Session Are You Interested In? *
+- `[hgs-117]` **Option** — — Select a session —
+- `[hgs-118]` **Option** — March 13–14 · Military · Fairbanks, AK
+- `[hgs-119]` **Option** — April 14–17 · Healing + Equipping · Winnebago, NE
+- `[hgs-120]` **Option** — May 27–29 · Community Healing · Fairbanks, AK
+- `[hgs-121]` **Option** — August 5–14 · Online
+- `[hgs-122]` **Option** — September 2026 · Fairbanks, AK (dates TBC)
+- `[hgs-123]` **Option** — Join waitlist for March Online (Currently Full)
+- `[hgs-124]` **Option** — Facilitator Training Interest
+- `[hgs-125]` **Option** — Contact me about hosting a group
+- `[hgs-126]` **Label** — Anything you'd like us to know?
+- `[hgs-127]` **Form placeholder** — Questions, accessibility needs, or anything else...
+- `[hgs-128]` **Paragraph** — Your information is confidential. We will only use it to contact you about healing group registration. You may opt out at any time.
+- `[hgs-129]` **Button** — Submit Registration
 
 
 ### Footer — Footer
 
-- `[hgs-133]` **Paragraph** — A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
-- `[hgs-134]` **H4** — Healing Groups
-- `[hgs-135]` **Link** — About the Program
-- `[hgs-136]` **Link** — Find a Group
-- `[hgs-137]` **Link** — Become a Facilitator
-- `[hgs-138]` **Link** — FAQ
-- `[hgs-139]` **H4** — Ministry
-- `[hgs-140]` **Link** — Home
-- `[hgs-141]` **Link** — Three Pillars
-- `[hgs-142]` **Link** — Haskell LIGHT
-- `[hgs-143]` **Link** — Donate
-- `[hgs-144]` **H4** — Contact
-- `[hgs-145]` **Link** — (262) 439-5663
-- `[hgs-146]` **Link** — (262) 783-5267
-- `[hgs-147]` **Link** — Email LIM
-- `[hgs-148]` **Link** — Official Website
-- `[hgs-149]` **Link** — Brand Guide
-- `[hgs-150]` **Paragraph** — © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit · All Rights Reserved
+- `[hgs-130]` **Paragraph** — A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
+- `[hgs-131]` **H4** — Healing Groups
+- `[hgs-132]` **Link** — About the Program
+- `[hgs-133]` **Link** — Find a Group
+- `[hgs-134]` **Link** — Become a Facilitator
+- `[hgs-135]` **Link** — FAQ
+- `[hgs-136]` **H4** — Ministry
+- `[hgs-137]` **Link** — Home
+- `[hgs-138]` **Link** — Three Pillars
+- `[hgs-139]` **Link** — Haskell LIGHT
+- `[hgs-140]` **Link** — Donate
+- `[hgs-141]` **H4** — Contact
+- `[hgs-142]` **Link** — (262) 439-5663
+- `[hgs-143]` **Link** — (262) 783-5267
+- `[hgs-144]` **Link** — Email LIM
+- `[hgs-145]` **Link** — Official Website
+- `[hgs-146]` **Link** — Brand Guide
+- `[hgs-147]` **Paragraph** — © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit · All Rights Reserved
 
 
 ### Modal — Reg
 
-- `[hgs-151]` **H2** — Free Event Registration
-- `[hgs-152]` **Button** — ✕
-- `[hgs-153]` **H3** — You're Registered!
-- `[hgs-154]` **Paragraph** — Thank you for signing up. We'll be in touch with confirmation details and — for online sessions — your Zoom link. Questions? Call (262) 439-5663
-- `[hgs-155]` **Button** — Close
-- `[hgs-156]` **Paragraph** — Your Information
-- `[hgs-157]` **Label** — First Name *
-- `[hgs-158]` **Form placeholder** — First
-- `[hgs-159]` **Label** — Last Name *
-- `[hgs-160]` **Form placeholder** — Last
-- `[hgs-161]` **Label** — Email Address *
-- `[hgs-162]` **Form placeholder** — you@example.com
-- `[hgs-163]` **Label** — Cell Phone *
-- `[hgs-164]` **Form placeholder** — (___) ___-____
-- `[hgs-165]` **Label** — Age (optional)
-- `[hgs-166]` **Form placeholder** — Age
-- `[hgs-167]` **Label** — Gender (optional)
-- `[hgs-168]` **Label** — Male
-- `[hgs-169]` **Label** — Female
-- `[hgs-170]` **Label** — Other
-- `[hgs-171]` **Paragraph** — Home Address
-- `[hgs-172]` **Label** — Street Address *
-- `[hgs-173]` **Form placeholder** — Street address
-- `[hgs-174]` **Label** — Apt / Suite (optional)
-- `[hgs-175]` **Form placeholder** — Apt, suite, etc.
-- `[hgs-176]` **Label** — City *
-- `[hgs-177]` **Form placeholder** — City
-- `[hgs-178]` **Label** — State *
-- `[hgs-179]` **Form placeholder** — ST
-- `[hgs-180]` **Label** — ZIP Code *
-- `[hgs-181]` **Form placeholder** — ZIP
-- `[hgs-182]` **Label** — Country
-- `[hgs-183]` **Option** — United States
-- `[hgs-184]` **Option** — Canada
-- `[hgs-185]` **Option** — Other
-- `[hgs-186]` **Paragraph** — Emergency Contact (recommended)
-- `[hgs-187]` **Label** — Contact Name
-- `[hgs-188]` **Form placeholder** — Full name
-- `[hgs-189]` **Label** — Contact Phone
-- `[hgs-190]` **Form placeholder** — (___) ___-____
-- `[hgs-191]` **Paragraph** — 🎖️ Military Eligibility
-- `[hgs-192]` **Label** — Branch of Service *
-- `[hgs-193]` **Option** — — Select branch —
-- `[hgs-194]` **Option** — Army
-- `[hgs-195]` **Option** — Navy
-- `[hgs-196]` **Option** — Marine Corps
-- `[hgs-197]` **Option** — Air Force
-- `[hgs-198]` **Option** — Space Force
-- `[hgs-199]` **Option** — Coast Guard
-- `[hgs-200]` **Label** — Unit / Battalion (optional)
-- `[hgs-201]` **Form placeholder** — e.g. 1-5 Cav, 25th ID
-- `[hgs-202]` **Label** — I confirm I am currently active duty military personnel and understand this group is limited to Ft. Wainwright service members. *
-- `[hgs-203]` **Paragraph** — A Few Things to Know
-- `[hgs-204]` **Label** — I understand that if I'm unable to attend, this may affect my ability to access the healing group in the future. *
-- `[hgs-205]` **Label** — I understand that a certificate of completion requires attending all scheduled sessions. *
-- `[hgs-206]` **Label** — Dietary Needs (optional)
-- `[hgs-207]` **Form placeholder** — Any dietary restrictions or needs…
-- `[hgs-208]` **Button** — Complete Registration
-- `[hgs-209]` **Paragraph** — Prefer to register by phone? Call (262) 439-5663
+- `[hgs-148]` **H2** — Free Event Registration
+- `[hgs-149]` **Button** — ✕
+- `[hgs-150]` **H3** — You're Registered!
+- `[hgs-151]` **Paragraph** — Thank you for signing up. We'll be in touch with confirmation details and — for online sessions — your Zoom link. Questions? Call (262) 439-5663
+- `[hgs-152]` **Button** — Close
+- `[hgs-153]` **Paragraph** — Your Information
+- `[hgs-154]` **Label** — First Name *
+- `[hgs-155]` **Form placeholder** — First
+- `[hgs-156]` **Label** — Last Name *
+- `[hgs-157]` **Form placeholder** — Last
+- `[hgs-158]` **Label** — Email Address *
+- `[hgs-159]` **Form placeholder** — you@example.com
+- `[hgs-160]` **Label** — Cell Phone *
+- `[hgs-161]` **Form placeholder** — (___) ___-____
+- `[hgs-162]` **Label** — Age (optional)
+- `[hgs-163]` **Form placeholder** — Age
+- `[hgs-164]` **Label** — Gender (optional)
+- `[hgs-165]` **Label** — Male
+- `[hgs-166]` **Label** — Female
+- `[hgs-167]` **Label** — Other
+- `[hgs-168]` **Paragraph** — Home Address
+- `[hgs-169]` **Label** — Street Address *
+- `[hgs-170]` **Form placeholder** — Street address
+- `[hgs-171]` **Label** — Apt / Suite (optional)
+- `[hgs-172]` **Form placeholder** — Apt, suite, etc.
+- `[hgs-173]` **Label** — City *
+- `[hgs-174]` **Form placeholder** — City
+- `[hgs-175]` **Label** — State *
+- `[hgs-176]` **Form placeholder** — ST
+- `[hgs-177]` **Label** — ZIP Code *
+- `[hgs-178]` **Form placeholder** — ZIP
+- `[hgs-179]` **Label** — Country
+- `[hgs-180]` **Option** — United States
+- `[hgs-181]` **Option** — Canada
+- `[hgs-182]` **Option** — Other
+- `[hgs-183]` **Paragraph** — Emergency Contact (recommended)
+- `[hgs-184]` **Label** — Contact Name
+- `[hgs-185]` **Form placeholder** — Full name
+- `[hgs-186]` **Label** — Contact Phone
+- `[hgs-187]` **Form placeholder** — (___) ___-____
+- `[hgs-188]` **Paragraph** — 🎖️ Military Eligibility
+- `[hgs-189]` **Label** — Branch of Service *
+- `[hgs-190]` **Option** — — Select branch —
+- `[hgs-191]` **Option** — Army
+- `[hgs-192]` **Option** — Navy
+- `[hgs-193]` **Option** — Marine Corps
+- `[hgs-194]` **Option** — Air Force
+- `[hgs-195]` **Option** — Space Force
+- `[hgs-196]` **Option** — Coast Guard
+- `[hgs-197]` **Label** — Unit / Battalion (optional)
+- `[hgs-198]` **Form placeholder** — e.g. 1-5 Cav, 25th ID
+- `[hgs-199]` **Label** — I confirm I am currently active duty military personnel and understand this group is limited to Ft. Wainwright service members. *
+- `[hgs-200]` **Paragraph** — A Few Things to Know
+- `[hgs-201]` **Label** — I understand that if I'm unable to attend, this may affect my ability to access the healing group in the future. *
+- `[hgs-202]` **Label** — I understand that a certificate of completion requires attending all scheduled sessions. *
+- `[hgs-203]` **Label** — Dietary Needs (optional)
+- `[hgs-204]` **Form placeholder** — Any dietary restrictions or needs…
+- `[hgs-205]` **Button** — Complete Registration
+- `[hgs-206]` **Paragraph** — Prefer to register by phone? Call (262) 439-5663
 
 
 ### Modal — Cancel Modal
 
-- `[hgs-210]` **H2** — Cancel My Registration
-- `[hgs-211]` **Button** — ✕
-- `[hgs-212]` **H3** — Cancellation Received
-- `[hgs-213]` **Paragraph** — We're sorry you can't make it — we'll open your spot and keep you in mind for future sessions. We'll send a confirmation to your email shortly.
-- `[hgs-214]` **Button** — Close
-- `[hgs-215]` **Label** — Which session are you cancelling? *
-- `[hgs-216]` **Option** — — Select your session —
-- `[hgs-217]` **Option** — Military Personnel Healing Group — March 13–14, 2026 · Fairbanks, AK
-- `[hgs-218]` **Option** — Healing Group + Equipping Training — April 14–17, 2026 · Winnebago, NE
-- `[hgs-219]` **Option** — Community Healing Group — May 27–29, 2026 · Fairbanks, AK
-- `[hgs-220]` **Option** — Online Healing Group — August 5–14, 2026 · Zoom
-- `[hgs-221]` **Option** — Community Healing Group — September 2026 · Fairbanks, AK
-- `[hgs-222]` **Option** — Community Healing Group — July 2026 · Robert's House
-- `[hgs-223]` **Option** — Facilitator Equipping Training — October 2026
-- `[hgs-224]` **Option** — Other / Not Listed
-- `[hgs-225]` **Label** — First Name *
-- `[hgs-226]` **Form placeholder** — First
-- `[hgs-227]` **Label** — Last Name *
-- `[hgs-228]` **Form placeholder** — Last
-- `[hgs-229]` **Label** — Email Used to Register *
-- `[hgs-230]` **Form placeholder** — you@example.com
-- `[hgs-231]` **Label** — Reason (optional — helps us improve)
-- `[hgs-232]` **Form placeholder** — Let us know if you'd like to share…
-- `[hgs-233]` **Button** — Submit Cancellation
-- `[hgs-234]` **Paragraph** — Or call us at (262) 439-5663
+- `[hgs-207]` **H2** — Cancel My Registration
+- `[hgs-208]` **Button** — ✕
+- `[hgs-209]` **H3** — Cancellation Received
+- `[hgs-210]` **Paragraph** — We're sorry you can't make it — we'll open your spot and keep you in mind for future sessions. We'll send a confirmation to your email shortly.
+- `[hgs-211]` **Button** — Close
+- `[hgs-212]` **Label** — Which session are you cancelling? *
+- `[hgs-213]` **Option** — — Select your session —
+- `[hgs-214]` **Option** — Military Personnel Healing Group — March 13–14, 2026 · Fairbanks, AK
+- `[hgs-215]` **Option** — Healing Group + Equipping Training — April 14–17, 2026 · Winnebago, NE
+- `[hgs-216]` **Option** — Community Healing Group — May 27–29, 2026 · Fairbanks, AK
+- `[hgs-217]` **Option** — Online Healing Group — August 5–14, 2026 · Zoom
+- `[hgs-218]` **Option** — Community Healing Group — September 2026 · Fairbanks, AK
+- `[hgs-219]` **Option** — Facilitator Equipping Training — October 2026
+- `[hgs-220]` **Option** — Other / Not Listed
+- `[hgs-221]` **Label** — First Name *
+- `[hgs-222]` **Form placeholder** — First
+- `[hgs-223]` **Label** — Last Name *
+- `[hgs-224]` **Form placeholder** — Last
+- `[hgs-225]` **Label** — Email Used to Register *
+- `[hgs-226]` **Form placeholder** — you@example.com
+- `[hgs-227]` **Label** — Reason (optional — helps us improve)
+- `[hgs-228]` **Form placeholder** — Let us know if you'd like to share…
+- `[hgs-229]` **Button** — Submit Cancellation
+- `[hgs-230]` **Paragraph** — Or call us at (262) 439-5663
 
 
 ### Modal — Waitlist
 
-- `[hgs-235]` **H2** — Join the Waitlist
-- `[hgs-236]` **Button** — ✕
-- `[hgs-237]` **Paragraph** — The March 18–27 online session is currently full. Use the registration form to note your interest in this session and we'll contact you if a spot opens — or automatically register you for the August 5–14 session if you prefer.
-- `[hgs-238]` **Paragraph** — The August online session has open spots and follows the same curriculum. We encourage you to register for August now.
-- `[hgs-239]` **Button (link)** — Join Waitlist / Register for August
+- `[hgs-231]` **H2** — Join the Waitlist
+- `[hgs-232]` **Button** — ✕
+- `[hgs-233]` **Paragraph** — The March 18–27 online session is currently full. Use the registration form to note your interest in this session and we'll contact you if a spot opens — or automatically register you for the August 5–14 session if you prefer.
+- `[hgs-234]` **Paragraph** — The August online session has open spots and follows the same curriculum. We encourage you to register for August now.
+- `[hgs-235]` **Button (link)** — Join Waitlist / Register for August
 
 
 ### Modal — Fairbanks Mil
 
-- `[hgs-240]` **H2** — Military Personnel Healing Group
-- `[hgs-241]` **Button** — ✕
-- `[hgs-242]` **Paragraph** — A healing group specifically for active military personnel, veterans, and their families. Same scripture-based curriculum, same compassionate community — in a setting that honors the unique experiences of those who have served.
-- `[hgs-243]` **List item** — Open to active military, veterans, and family members
-- `[hgs-244]` **List item** — Confidential and community-supported
-- `[hgs-245]` **List item** — All faith backgrounds welcome
-- `[hgs-246]` **List item** — Lunch provided both days
-- `[hgs-247]` **List item** — Ages 18+
-- `[hgs-248]` **Button** — Register Now
+- `[hgs-236]` **H2** — Military Personnel Healing Group
+- `[hgs-237]` **Button** — ✕
+- `[hgs-238]` **Paragraph** — A healing group specifically for active military personnel, veterans, and their families. Same scripture-based curriculum, same compassionate community — in a setting that honors the unique experiences of those who have served.
+- `[hgs-239]` **List item** — Open to active military, veterans, and family members
+- `[hgs-240]` **List item** — Confidential and community-supported
+- `[hgs-241]` **List item** — All faith backgrounds welcome
+- `[hgs-242]` **List item** — Lunch provided both days
+- `[hgs-243]` **List item** — Ages 18+
+- `[hgs-244]` **Button** — Register Now
 
 
 ### Modal — Winnebago
 
-- `[hgs-249]` **H2** — Healing Group + Equipping · Winnebago, NE
-- `[hgs-250]` **Button** — ✕
-- `[hgs-251]` **Paragraph** — A unique combined event: experience a full healing group and receive facilitator equipping training in the same week. Ideal for community leaders, pastors, and anyone who wants to bring healing groups to their own community.
-- `[hgs-252]` **List item** — Attend healing group sessions as a participant
-- `[hgs-253]` **List item** — Receive facilitator training to lead your own groups
-- `[hgs-254]` **List item** — Leave equipped and empowered to multiply healing in your community
-- `[hgs-255]` **List item** — Lunch provided daily · All welcome · Ages 18+
-- `[hgs-256]` **Button** — Register Now
+- `[hgs-245]` **H2** — Healing Group + Equipping · Winnebago, NE
+- `[hgs-246]` **Button** — ✕
+- `[hgs-247]` **Paragraph** — A unique combined event: experience a full healing group and receive facilitator equipping training in the same week. Ideal for community leaders, pastors, and anyone who wants to bring healing groups to their own community.
+- `[hgs-248]` **List item** — Attend healing group sessions as a participant
+- `[hgs-249]` **List item** — Receive facilitator training to lead your own groups
+- `[hgs-250]` **List item** — Leave equipped and empowered to multiply healing in your community
+- `[hgs-251]` **List item** — Lunch provided daily · All welcome · Ages 18+
+- `[hgs-252]` **Button** — Register Now
 
 
 ### Modal — Fairbanks May
 
-- `[hgs-257]` **H2** — Community Healing Group · Fairbanks, AK
-- `[hgs-258]` **Button** — ✕
-- `[hgs-259]` **Paragraph** — A typical Fairbanks healing group schedule:
-- `[hgs-260]` **List item** — Wednesday: Noon – 4:30 PM (includes lunch)
-- `[hgs-261]` **List item** — Thursday: 9 AM – 4:30 PM (includes lunch)
-- `[hgs-262]` **List item** — Friday: 9 AM – 1:00 PM (includes lunch)
-- `[hgs-263]` **List item** — Open to all community members · Ages 18+ · All backgrounds welcome
-- `[hgs-264]` **Button** — Register Now
+- `[hgs-253]` **H2** — Community Healing Group · Fairbanks, AK
+- `[hgs-254]` **Button** — ✕
+- `[hgs-255]` **Paragraph** — A typical Fairbanks healing group schedule:
+- `[hgs-256]` **List item** — Wednesday: Noon – 4:30 PM (includes lunch)
+- `[hgs-257]` **List item** — Thursday: 9 AM – 4:30 PM (includes lunch)
+- `[hgs-258]` **List item** — Friday: 9 AM – 1:00 PM (includes lunch)
+- `[hgs-259]` **List item** — Open to all community members · Ages 18+ · All backgrounds welcome
+- `[hgs-260]` **Button** — Register Now
 
 
 ### Modal — Aug Online
 
-- `[hgs-265]` **H2** — Online Healing Group · August 2026
-- `[hgs-266]` **Button** — ✕
-- `[hgs-267]` **Paragraph** — A two-week online format using Zoom. Ideal for participants who cannot travel or prefer to join from home. The same full curriculum, the same community experience, the same scripture-grounded healing.
-- `[hgs-268]` **List item** — Sessions held over two weeks via Zoom video call
-- `[hgs-269]` **List item** — Technology support available for those who need it
-- `[hgs-270]` **List item** — Same 6 core sessions, same 390+ scriptures
-- `[hgs-271]` **List item** — You will receive a Zoom link and schedule upon registration
-- `[hgs-272]` **List item** — Open to all · Ages 18+ · Free
-- `[hgs-273]` **Button** — Register Now
+- `[hgs-261]` **H2** — Online Healing Group · August 2026
+- `[hgs-262]` **Button** — ✕
+- `[hgs-263]` **Paragraph** — A two-week online format using Zoom. Ideal for participants who cannot travel or prefer to join from home. The same full curriculum, the same community experience, the same scripture-grounded healing.
+- `[hgs-264]` **List item** — Sessions held over two weeks via Zoom video call
+- `[hgs-265]` **List item** — Technology support available for those who need it
+- `[hgs-266]` **List item** — Same 6 core sessions, same 390+ scriptures
+- `[hgs-267]` **List item** — You will receive a Zoom link and schedule upon registration
+- `[hgs-268]` **List item** — Open to all · Ages 18+ · No Cost to Participants
+- `[hgs-269]` **Button** — Register Now
 
 
 ### Modal — Sessions
 
-- `[hgs-274]` **H2** — The Six Core Sessions
-- `[hgs-275]` **Button** — ✕
-- `[hgs-276]` **Paragraph** — Over 16 hours across 2–3 days, six sessions walk participants through scripture and personal reflection. Each builds on the last, supported by 390+ scriptures from the Restoring Hope Bible.
-- `[hgs-277]` **List item** — Session 1: If God loves us, why do we suffer?
-- `[hgs-278]` **List item** — Session 2: What is a wound of the heart?
-- `[hgs-279]` **List item** — Session 3: What can help our heart wounds heal?
-- `[hgs-280]` **List item** — Session 4: What happens when someone is grieving?
-- `[hgs-281]` **List item** — Session 5: Bringing our pain to the cross & forgiving others
-- `[hgs-282]` **List item** — Session 6: Looking back, looking forward — closing with hope
-- `[hgs-283]` **Paragraph** — Healing is self-directed. You share only what you're comfortable sharing, and go only where you're ready to go. The Holy Spirit does the heavy lifting.
-- `[hgs-284]` **Button (link)** — Find a Session Near You
+- `[hgs-270]` **H2** — The Six Core Sessions
+- `[hgs-271]` **Button** — ✕
+- `[hgs-272]` **Paragraph** — Over 16 hours across 2–3 days, six sessions walk participants through scripture and personal reflection. Each builds on the last, supported by 390+ scriptures from the Restoring Hope Bible.
+- `[hgs-273]` **List item** — Session 1: If God loves us, why do we suffer?
+- `[hgs-274]` **List item** — Session 2: What is a wound of the heart?
+- `[hgs-275]` **List item** — Session 3: What can help our heart wounds heal?
+- `[hgs-276]` **List item** — Session 4: What happens when someone is grieving?
+- `[hgs-277]` **List item** — Session 5: Bringing our pain to the cross & forgiving others
+- `[hgs-278]` **List item** — Session 6: Looking back, looking forward — closing with hope
+- `[hgs-279]` **Paragraph** — Healing is self-directed. You share only what you're comfortable sharing, and go only where you're ready to go. The Holy Spirit does the heavy lifting.
+- `[hgs-280]` **Button (link)** — Find a Session Near You
 
 
 ---
