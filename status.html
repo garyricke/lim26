@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Project Status — Lutheran Indian Ministries 2026 Site</title>
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+      --sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--stone:#EBE9E4;
+      --muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;
+      --serif:'Merriweather',Georgia,serif;
+      --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --body:'Open Sans',system-ui,sans-serif;
+      --max:920px;--r:8px;--rl:16px;
+      --shm:0 6px 24px rgba(0,0,0,.12);
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.7}
+    a{color:var(--red);text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    /* Top bar */
+    #topbar{background:var(--charcoal);padding:.75rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
+    #topbar img{height:34px}
+    #topbar span{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4)}
+
+    /* Page */
+    .wrap{max-width:var(--max);margin:0 auto;padding:3rem 1.5rem 5rem}
+
+    /* Header */
+    .header{margin-bottom:2.5rem;padding-bottom:2rem;border-bottom:2px solid var(--border)}
+    .eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.75rem;display:block}
+    .title{font-family:var(--serif);font-size:clamp(1.8rem,3.5vw,2.4rem);color:var(--charcoal);line-height:1.2;margin-bottom:1rem}
+    .intro{font-size:1rem;color:var(--muted);line-height:1.8;max-width:680px}
+    .updated{font-family:var(--cond);font-size:.78rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-top:1rem}
+    .updated b{color:var(--charcoal);font-weight:700}
+
+    /* Milestones */
+    .ms-section{background:var(--charcoal);border-radius:var(--rl);padding:1.75rem 1.75rem 1.5rem;margin-bottom:2.5rem;color:#fff}
+    .ms-head{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--yellow);margin-bottom:1.25rem}
+    .ms-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+    .ms-card{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:var(--r);padding:1.1rem 1.2rem}
+    .ms-date{font-family:var(--cond);font-size:.95rem;font-weight:700;color:var(--yellow);letter-spacing:.04em}
+    .ms-label{font-family:var(--serif);font-size:1.05rem;color:#fff;margin:.4rem 0 .35rem;line-height:1.3}
+    .ms-note{font-size:.82rem;color:rgba(255,255,255,.65);line-height:1.55}
+    .ms-card.now{background:rgba(255,222,22,.12);border-color:rgba(255,222,22,.4)}
+    .ms-card.now .ms-date{color:#fff}
+    .ms-card.now .ms-label::after{content:' ← we are here';font-family:var(--cond);font-size:.7rem;font-weight:700;color:var(--yellow);letter-spacing:.1em;text-transform:uppercase;margin-left:.4rem;display:inline-block;transform:translateY(-2px)}
+
+    /* Section heading */
+    .sect{margin-top:3rem;margin-bottom:1.5rem;display:flex;align-items:baseline;gap:.85rem;flex-wrap:wrap}
+    .sect h2{font-family:var(--serif);font-size:1.5rem;color:var(--charcoal)}
+    .sect .meta{font-family:var(--cond);font-size:.78rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+
+    /* Timeline entries */
+    .entry{background:#fff;border:1px solid var(--border);border-radius:var(--rl);overflow:hidden;margin-bottom:1.1rem;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .entry-head{background:var(--stone);padding:.85rem 1.4rem;display:flex;align-items:center;justify-content:space-between;gap:.85rem;border-bottom:1px solid var(--border)}
+    .entry-date{font-family:var(--cond);font-size:.95rem;font-weight:700;color:var(--charcoal);letter-spacing:.04em}
+    .entry-tag{font-family:var(--cond);font-size:.7rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;background:var(--charcoal);color:var(--yellow);padding:.25rem .65rem;border-radius:20px;display:inline-block;white-space:nowrap}
+    .entry-tag.released{background:var(--green);color:#fff}
+    .entry-tag.upcoming{background:var(--sky);color:var(--charcoal)}
+    .entry-body{padding:1.25rem 1.4rem}
+    .entry-title{font-family:var(--serif);font-size:1.05rem;font-weight:700;color:var(--charcoal);margin-bottom:.65rem;line-height:1.4}
+    .entry-body ul{list-style:none;display:flex;flex-direction:column;gap:.45rem;margin:0}
+    .entry-body li{display:flex;gap:.55rem;font-size:.93rem;color:var(--muted);line-height:1.6}
+    .entry-body li::before{content:'✓';color:var(--green);font-weight:700;flex-shrink:0;width:1em}
+    .entry-body li.todo::before{content:'○';color:var(--sage-d)}
+    .entry-body li.flag::before{content:'!';color:var(--red);font-weight:800}
+    .entry-body li strong{color:var(--charcoal);font-weight:600}
+    .entry-body .ic{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.05em .35em;color:var(--charcoal)}
+
+    /* Pending / discussion section */
+    .pending{background:#fff;border:1px solid var(--border);border-radius:var(--rl);padding:1.5rem 1.75rem;margin-top:1rem}
+    .pending h3{font-family:var(--cond);font-size:.95rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--charcoal);margin-bottom:1rem;padding-bottom:.5rem;border-bottom:1px solid var(--border)}
+    .pending ul{list-style:none;display:flex;flex-direction:column;gap:.55rem}
+    .pending li{display:grid;grid-template-columns:auto 1fr;gap:.7rem;font-size:.92rem;color:var(--muted);line-height:1.6;align-items:start}
+    .pending li .pid{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.06em;background:var(--stone);color:var(--charcoal);padding:.18rem .5rem;border-radius:4px;white-space:nowrap;align-self:start;margin-top:.2rem}
+    .pending li strong{color:var(--charcoal);font-weight:600}
+
+    /* Legend */
+    .legend{display:flex;flex-wrap:wrap;gap:1.25rem;margin-top:1rem;font-family:var(--cond);font-size:.78rem;font-weight:600;letter-spacing:.05em;color:var(--muted);text-transform:uppercase}
+    .legend span{display:flex;align-items:center;gap:.4rem}
+    .legend i{font-style:normal;width:18px;height:18px;border-radius:4px;display:inline-flex;align-items:center;justify-content:center;font-size:.7rem;font-weight:800;color:#fff}
+    .legend i.released{background:var(--green)}
+    .legend i.shipped{background:var(--charcoal);color:var(--yellow)}
+    .legend i.upcoming{background:var(--sky);color:var(--charcoal)}
+
+    /* Footer */
+    .footer{margin-top:3.5rem;padding-top:1.75rem;border-top:1px solid var(--border);font-size:.82rem;color:var(--muted);line-height:1.7}
+    .footer a{color:var(--red);font-weight:600}
+
+    @media(max-width:600px){
+      .ms-grid{grid-template-columns:1fr}
+      .entry-head{flex-direction:column;align-items:flex-start;gap:.5rem}
+    }
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_auth_2026',HASH='53d81e6c17c82d10718106513d7a21defa05a0d73b2c89f59be66b40f8a05aac';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');
+      o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<h2 style="color:#fff;font-family:\'Merriweather\',serif;font-size:1.2rem;margin:0 0 .5rem;text-align:center">Project Status</h2>'
+        +'<p style="color:rgba(255,255,255,.45);font-size:.85rem;margin:0 0 2rem;text-align:center">Enter the site password to continue</p>'
+        +'<input id="ag-pw" type="password" placeholder="Password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw'),btn=document.getElementById('ag-btn'),err=document.getElementById('ag-err');
+      function attempt(){
+        var pw=inp.value;
+        if(!pw){err.textContent='Please enter the password.';return;}
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password.';inp.value='';inp.focus();}
+        });
+      }
+      btn.addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+
+<div id="topbar">
+  <a href="index.html"><img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries — Home"></a>
+  <span>Project Status</span>
+</div>
+
+<div class="wrap">
+
+  <div class="header">
+    <span class="eyebrow">2026 Website Project</span>
+    <h1 class="title">Build Status &amp; Accomplishments</h1>
+    <p class="intro">Where the new Lutheran Indian Ministries website stands against the May 15 readiness target and the June 1 go-live, with the full record of what's shipped so far. Updated when changes land.</p>
+    <p class="updated">Last updated: <b>May 11, 2026</b> · Live preview: <a href="https://lim2026.netlify.app" target="_blank" rel="noopener">lim2026.netlify.app</a></p>
+  </div>
+
+  <!-- Milestones -->
+  <div class="ms-section">
+    <div class="ms-head">Upcoming Milestones</div>
+    <div class="ms-grid">
+      <div class="ms-card now">
+        <div class="ms-date">May 15, 2026</div>
+        <div class="ms-label">90–95% Ready</div>
+        <p class="ms-note">Site copy review applied, all healing-group sessions live, primary team bios in place. Final polish week begins.</p>
+      </div>
+      <div class="ms-card">
+        <div class="ms-date">May 22, 2026</div>
+        <div class="ms-label">Discussion Items Settled</div>
+        <p class="ms-note">All yellow-flagged copy from the LIM tracking doc resolved (donate modals, "Native ways" wording, military framing, etc.).</p>
+      </div>
+      <div class="ms-card">
+        <div class="ms-date">June 1, 2026</div>
+        <div class="ms-label">Go Live</div>
+        <p class="ms-note">Public launch. Robert moved the original target back from earlier in May to allow the copy/discussion cycle to complete.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="legend">
+    <span><i class="released">✓</i> Released</span>
+    <span><i class="shipped">★</i> Shipped to staging</span>
+    <span><i class="upcoming">◷</i> Upcoming</span>
+  </div>
+
+  <!-- Timeline -->
+  <div class="sect">
+    <h2>Recent Accomplishments</h2>
+    <span class="meta">Newest first · 62 commits since March 16</span>
+  </div>
+
+  <!-- May 11 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">May 11, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Site copy review (Bucket A) + 6 new/updated healing-group sessions</div>
+      <ul>
+        <li>Corrected Inupiaq spelling on the homepage: <strong>Kitirak → Kitigruak</strong> (2 places)</li>
+        <li>Removed duplicate Roberta testimonial card from <em>Stories of Transformation</em>; grid reflowed to 2 columns</li>
+        <li>Removed date stamp from <em>I Can Do All Things</em> blog card per Jaylene</li>
+        <li>Deleted the placeholder Robert's House July session (card + dropdown option)</li>
+        <li>Aug Online modal: <strong>"Free" → "No Cost to Participants"</strong></li>
+        <li>Jaylene's bio + new portrait wired into the Admin Team card (test integration)</li>
+        <li>NEW cards: Lame Deer MT (May 16), Ashland MT (May 22), Anchorage AK (Oct 9–10), Fairbanks AK (Nov 4–6)</li>
+        <li>Aug Online card now shows Week 1 (Aug 5–7) + Week 2 (Aug 12–14) at 12–3pm AKST</li>
+        <li>September Fairbanks: "Dates TBC" → firm <strong>Sept 16–18 at Zion Lutheran Church</strong></li>
+        <li>5 new/updated session detail modals · registration + cancellation dropdowns refreshed</li>
+        <li>"Lunch provided — bring your own if you have dietary needs" standardized across in-person cards</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- May 4 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">May 4, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Fairbanks Healing Groups 2026 flyer — Order Prints flow &amp; PDF export polish</div>
+      <ul>
+        <li>Added <strong>Order Prints</strong> modal flow with quantity/finish options</li>
+        <li>Print safe zone applied to flyer layout; timestamped exports for version tracking</li>
+        <li>Stripped text-shadow / box-shadow before PDF rendering (Chromium was rasterizing them into opaque boxes)</li>
+        <li>Download PDF button added to flyer toolbar</li>
+        <li>Hero image iterated: women-only Lame Deer → mixed-gender version → final</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- April 29 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">April 29, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Playwright PDF export pipeline + Fairbanks flyer rebuilt</div>
+      <ul>
+        <li>New <span class="ic">print-export/</span> Playwright pipeline producing vector PDFs at exact letter trim</li>
+        <li>Flyer locked to a single page with proper bleed and safe zones</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- April 27 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">April 27, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Copy review system + video interview training + Cloudinary migration</div>
+      <ul>
+        <li><strong>Site copy review system:</strong> <span class="ic">site-copy.md</span> + <span class="ic">site-copy-clean.md</span> + <span class="ic">site-copy.map.json</span> — 846 stable-ID copy blocks across all 7 pages, regenerated from HTML on demand</li>
+        <li><strong>Video Interview Training Guide</strong> at <span class="ic">docs-video-interview-guide.html</span> + Netlify release form</li>
+        <li>Haskell LIGHT carousel images migrated to Cloudinary (<span class="ic">f_auto,q_auto,w_1200</span>)</li>
+        <li>Topbar logos clickable to home on developer docs, guide, and release form</li>
+        <li>Robert's team card cleaned up (removed Yup'ik Eskimo · Brookfield, WI line)</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- April 13 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">April 13, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Three new blog posts + Team redesign + home page refresh</div>
+      <ul>
+        <li><strong>Blog: <em>I Can Do All Things (Philippians 4:13)</em></strong> — devotional, sticky donate sidebar</li>
+        <li><strong>Blog: <em>The Choice — Native OR Christian?</em></strong> — Tim Young Eagle, three-pillar sidebar</li>
+        <li><strong>Blog: <em>Discovering Identity</em></strong> — Beverly Heyano interview, 5 inline portrait video players</li>
+        <li>Team section redesigned: 280px tall photo panels (was 72px initials circles) with Cloudinary <span class="ic">c_fill,g_face</span> face detection</li>
+        <li>Video thumbnails fixed: switched from <span class="ic">preload=none</span>+poster to <span class="ic">preload=metadata</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- April 2 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">April 2, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Military Healing Group feedback page completed</div>
+      <ul>
+        <li>All 4 participants given mini inline audio players (AI-generated voice with disclaimer)</li>
+        <li>Transcripts lightly edited for clarity; editorial disclosure appended</li>
+        <li>Pull quotes with circular face-cropped avatars</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- March 30 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">March 30, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Hover-dropdown nav, hero videos, feedback &amp; Blackbaud docs pages</div>
+      <ul>
+        <li>Hover-dropdown navigation on Index + About (About ▾, What We Do ▾)</li>
+        <li>About page hero swapped from still image to Cloudinary video; matching tagline</li>
+        <li>"Healing Groups" nav renamed to <strong>"What We Do"</strong></li>
+        <li><strong>March 2026 Military Healing Group feedback page</strong> with password gate, speaker photos, transcript modals</li>
+        <li><strong>Blackbaud / BBOX integration docs</strong> page (<span class="ic">docs-blackbaud.html</span>) — password-protected developer reference</li>
+        <li>LIMHOPE.org dropdown alias removed (redundant)</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- March 24-25 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">March 24–25, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Zion Easter standalone site + ads showcase + hero video</div>
+      <ul>
+        <li><strong>zioneaster.com</strong> Good Friday <em>Service of Shadows and Stones</em> landing page (standalone site handed off)</li>
+        <li>Ads showcase page with 4 AI-generated promotional images</li>
+        <li>Looping Cloudinary hero video on homepage with image fallback</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- March 23 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">March 23, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Haskell LIGHT logo carousel + brand-correct auth gate</div>
+      <ul>
+        <li>Haskell LIGHT logo carousel replaces older color-wheel mark</li>
+        <li>Auth gate logo swapped to the correct LIM SVG on all pages</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- March 16 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">March 16, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">About page, password gate, Healing Groups page, big UI drop</div>
+      <ul>
+        <li><strong>About page</strong> built with team section, board, Essential Reading strip</li>
+        <li><strong>Healing Groups page</strong> with session filters, registration form, cancellation form</li>
+        <li><strong>SHA-256 password gate</strong> with localStorage single sign-on across all pages</li>
+        <li>SVG favicon (black-background variant) on all pages</li>
+        <li>"Six Core Sessions" accordion reordered — "If God Loves Us" moved to position 4 (both index + healing-groups)</li>
+        <li>Donation modal hero updated to ultrawide Alaska girl photo</li>
+        <li>Brand guide footer link, larger video thumbnails, About link in nav</li>
+        <li>Countries With Trauma Healing stat updated to <strong>150+</strong></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- March 16 initial -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">March 16, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Initial build — LIM 2026 landing pages</div>
+      <ul>
+        <li>Homepage and core sections shipped: hero, healing program, Haskell LIGHT, testimonials, videos, donate modal</li>
+        <li>Brand system established: Merriweather + Barlow Condensed + Open Sans · red/yellow/charcoal/sage/sky/stone palette</li>
+        <li>Single-file HTML architecture — all CSS/JS inline, no build tools</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Upcoming work -->
+  <div class="sect">
+    <h2>Up Next (May 11–22)</h2>
+    <span class="meta">Bios + discussion items</span>
+  </div>
+
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">May 11–14, 2026</span>
+      <span class="entry-tag upcoming">Upcoming</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Staff &amp; board bios + photos</div>
+      <ul>
+        <li class="todo">Staff bios + photos arriving May 11</li>
+        <li class="todo">Board bios + photos arriving May 14</li>
+        <li class="todo">Integrate into About page Team and Board sections as they come in</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">By May 22, 2026</span>
+      <span class="entry-tag upcoming">Upcoming</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Settle all yellow-flagged discussion items</div>
+      <ul>
+        <li class="todo">Donate / Giving modals reviewed from donor perspective (Angie + Jaylene)</li>
+        <li class="todo">$25 / $100 / $250 impact statements — confirm THI-reported costs</li>
+        <li class="todo">"Native ways" and "the land" wording finalized (Jaylene)</li>
+        <li class="todo">Military Healing Group framing — Native vs general (Robert)</li>
+        <li class="todo">Waitlist auto-list / auto-email infrastructure decision</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Open discussion items -->
+  <div class="sect">
+    <h2>Open Discussion Items</h2>
+    <span class="meta">From the LIM tracking doc · yellow highlights</span>
+  </div>
+
+  <div class="pending">
+    <h3>Index Page</h3>
+    <ul>
+      <li><span class="pid">idx-062</span><span><strong>Find a Healing Group:</strong> where is the script? Add limhope.org redirect or similar?</span></li>
+      <li><span class="pid">idx-063</span><span><strong>Become a Facilitator:</strong> new section needed about LIM coming on invitation + THI redirect (Robert)</span></li>
+      <li><span class="pid">idx-076</span><span><strong>Stories of Transformation:</strong> missing testimonies and videos in script</span></li>
+      <li><span class="pid">idx-082</span><span><strong>From the Field:</strong> more prominent Devotional CTA, fewer clicks, "Watch our story" → all videos?</span></li>
+      <li><span class="pid">idx-132, 208–223</span><span><strong>Donate / Giving modals:</strong> Angie + Jaylene donor-perspective review</span></li>
+      <li><span class="pid">idx-172</span><span><strong>Proclaim modal:</strong> Jaylene wants separate discussion on doctrine wording</span></li>
+    </ul>
+    <h3 style="margin-top:1.5rem">About Page</h3>
+    <ul>
+      <li><span class="pid">abt-070–077</span><span><strong>$25 / $100 / $250</strong> impact statements — confirm actual THI-reported costs</span></li>
+      <li><span class="pid">abt-097–119</span><span><strong>Donate modal on About:</strong> Angie + Jaylene review pending</span></li>
+    </ul>
+    <h3 style="margin-top:1.5rem">Healing Groups Page</h3>
+    <ul>
+      <li><span class="pid">hgs-039</span><span><strong>Military HG:</strong> does the framing confuse mission? Native-people language?</span></li>
+      <li><span class="pid">hgs-096</span><span><strong>"Is it really free?":</strong> thank funders?</span></li>
+      <li><span class="pid">hgs-126, 237</span><span><strong>Waitlist:</strong> is auto-list / auto-email real or manual? (infrastructure)</span></li>
+      <li><span class="pid">hgs-269</span><span><strong>Aug Online:</strong> "Technology support available" — true or remove?</span></li>
+    </ul>
+    <h3 style="margin-top:1.5rem">Blog &amp; Biography</h3>
+    <ul>
+      <li><span class="pid">bph-028</span><span><strong>Devotional Series:</strong> update cadence, who owns?</span></li>
+      <li><span class="pid">bch-019, 041</span><span><strong>"the land"</strong> and <strong>"in Native ways"</strong> wording (cyan flags) — Jaylene wants separate discussion</span></li>
+      <li><span class="pid">bch-044</span><span><strong>The Core Question:</strong> add Jaylene's faith-already-woven sentence; decide on elder/participant quote</span></li>
+    </ul>
+  </div>
+
+  <div class="footer">
+    <p>This page is updated whenever changes are pushed to <span class="ic">main</span> on the project repository. Source of truth: git log + the LIM Website Edits tracking document. Questions or corrections — contact the project lead.</p>
+  </div>
+
+</div>
+
+</body>
+</html>

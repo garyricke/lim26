@@ -587,406 +587,410 @@ Brand Guide
 
 [idx-127]
 
-Developer Docs
+Project Status
 
 [idx-128]
 
-Video Interview Guide
+Developer Docs
 
 [idx-129]
 
-Video Release Form
+Video Interview Guide
 
 [idx-130]
 
-Session Feedback
+Video Release Form
 
 [idx-131]
+
+Session Feedback
+
+[idx-132]
 
 © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · All Rights Reserved
 
 
 ### Modal — Donate
 
-[idx-132]
+[idx-133]
 
 Partner With Us
 
-[idx-133]
+[idx-134]
 
 ✕
 
-[idx-134]
+[idx-135]
 
 One-Time
 
-[idx-135]
+[idx-136]
 
 Monthly Most Impact
 
-[idx-136]
+[idx-137]
 
 $25
 
-[idx-137]
+[idx-138]
 
 $50
 
-[idx-138]
+[idx-139]
 
 $100
 
-[idx-139]
+[idx-140]
 
 $250
 
-[idx-140]
+[idx-141]
 
 Other amount
 
-[idx-141]
+[idx-142]
 
 $100 sponsors a full healing group participant — all 6 sessions, rooted in God's Word.
 
-[idx-142]
+[idx-143]
 
 First Name *
 
-[idx-143]
+[idx-144]
 
 First
 
-[idx-144]
+[idx-145]
 
 Last Name *
 
-[idx-145]
+[idx-146]
 
 Last
 
-[idx-146]
+[idx-147]
 
 Email *
 
-[idx-147]
+[idx-148]
 
 you@example.com
 
-[idx-148]
+[idx-149]
 
 Dedicate this gift (in honor or memory of someone)
 
-[idx-149]
+[idx-150]
 
 In honor / memory of…
 
-[idx-150]
+[idx-151]
 
 Give $100 Now
 
-[idx-151]
+[idx-152]
 
 Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
 
-[idx-152]
+[idx-153]
 
 Thank You!
 
-[idx-153]
+[idx-154]
 
 Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.
 
-[idx-154]
+[idx-155]
 
 Close
 
 
 ### Modal — Our Story Video
 
-[idx-155]
+[idx-156]
 
 ✕
 
 
 ### Modal — About
 
-[idx-156]
+[idx-157]
 
 Our Mission & Vision
 
-[idx-157]
+[idx-158]
 
 ✕
 
-[idx-158]
+[idx-159]
 
 Our Mission
 
-[idx-159]
+[idx-160]
 
 Lutheran Indian Ministries shares the Gospel of Jesus Christ with Native people, encouraging them to proclaim Christ's Kingdom. We train Native leaders, nurture healing, and witness Christ-centered growth.
 
-[idx-160]
+[idx-161]
 
 Our Vision
 
-[idx-161]
+[idx-162]
 
 That one day, all nations will walk together in the light of Christ — restored, thriving, and sharing the cultural heritage God gave them.
 
-[idx-162]
+[idx-163]
 
 Core Belief
 
-[idx-163]
+[idx-164]
 
 All healing comes from God. Love is an action, not just an emotion. We listen before we speak, walk beside, and build relationships rooted in trust — not transactions.
 
-[idx-164]
+[idx-165]
 
 Native Led
 
-[idx-165]
+[idx-166]
 
 LIM is led by Native people who know the stories, the traditions, the culture, and the humor. With 574 federally recognized tribes in the U.S. — 229 in Alaska alone — we travel by small plane, boat, and snowmachine to reach every community God calls us to serve.
 
-[idx-166]
+[idx-167]
 
 Our Three Pillars
 
-[idx-167]
+[idx-168]
 
 Partner With Us
 
 
 ### Modal — Proclaim
 
-[idx-168]
+[idx-169]
 
 Pillar 01 — Proclaim
 
-[idx-169]
+[idx-170]
 
 ✕
 
-[idx-170]
+[idx-171]
 
 The Gospel in Native Voices
 
-[idx-171]
+[idx-172]
 
 We share the Gospel in ways that fit Native culture — through oral tradition, storytelling, and images that speak to how Native people understand the world.
 
-[idx-172]
+[idx-173]
 
 Christ, the Bridge
 
-[idx-173]
+[idx-174]
 
 LIM's conviction: God speaks in Native tongues to Native hearts. Faith in Christ does not require abandoning Indigenous identity. Native traditions are vessels of God's grace — not obstacles to faith.
 
-[idx-174]
+[idx-175]
 
 How We Proclaim
 
-[idx-175]
+[idx-176]
 
 Outreach visits by invitation, guided by tribal customs and deep respect
 
-[idx-176]
+[idx-177]
 
 Traveling by small plane, boat, and snowmachine to reach remote communities
 
-[idx-177]
+[idx-178]
 
 Sacred Connections Podcast — sharing the Gospel through story
 
-[idx-178]
+[idx-179]
 
 Partnership with local churches and Native leaders across 574 tribes
 
-[idx-179]
+[idx-180]
 
 Support Gospel Outreach
 
 
 ### Modal — Disciple
 
-[idx-180]
+[idx-181]
 
 Pillar 02 — Disciple
 
-[idx-181]
+[idx-182]
 
 ✕
 
-[idx-182]
+[idx-183]
 
 Haskell LIGHT Campus Ministry
 
-[idx-183]
+[idx-184]
 
 At Haskell Indian Nations University in Lawrence, Kansas — the only federally operated tribal university in the country — our campus ministry serves students from more than 130 tribes. Students come for meals and quilts, but stay for something deeper.
 
-[idx-184]
+[idx-185]
 
 Leo's Story
 
-[idx-185]
+[idx-186]
 
 Leo is Keetowah Cherokee and Western Shoshone. He visited our campus center and met Pola Farve — Haskell LIGHT Director and a Haskell graduate herself. One day, Leo asked Pola for a Bible. Touched by the moment, he shared it on social media. Leo began reading — and didn't stop. Today, Leo walks a new path, guided by faith.
 
-[idx-186]
+[idx-187]
 
 Campus Programs
 
-[idx-187]
+[idx-188]
 
 Sister 2 Sister — Faith and belonging for Native women
 
-[idx-188]
+[idx-189]
 
 Real Warriors — Biblical leadership and brotherhood for Native men
 
-[idx-189]
+[idx-190]
 
 Champions in Training — Leadership for all students
 
-[idx-190]
+[idx-191]
 
 Home-cooked meals, quilts, Bible study, and one-on-one discipleship
 
-[idx-191]
+[idx-192]
 
 Support Haskell LIGHT
 
 
 ### Modal — Heal
 
-[idx-192]
+[idx-193]
 
 Pillar 03 — Heal
 
-[idx-193]
+[idx-194]
 
 ✕
 
-[idx-194]
+[idx-195]
 
 Healing the Wounds of Trauma
 
-[idx-195]
+[idx-196]
 
 For generations, Native communities have carried deep wounds — from boarding schools, family separation, and abuse. Healing the Wounds of Trauma addresses these wounds directly through scripture, community, and the love of God.
 
-[idx-196]
+[idx-197]
 
 The Program
 
-[idx-197]
+[idx-198]
 
 16 hours across 2–3 days, 6 core sessions
 
-[idx-198]
+[idx-199]
 
 American Bible Society Trauma Healing Institute model
 
-[idx-199]
+[idx-200]
 
 390+ scripture references using the Restoring Hope Bible
 
-[idx-200]
+[idx-201]
 
 Led by trained Native facilitators; supported by Prayer Warriors
 
-[idx-201]
+[idx-202]
 
 All welcome — no faith background required · Ages 18+
 
-[idx-202]
+[idx-203]
 
 Held on reservations, in villages, cities — in-person and online
 
-[idx-203]
+[idx-204]
 
 Become a Facilitator
 
-[idx-204]
+[idx-205]
 
 From the start, participants are equipped to share this with others. Trained facilitators bring these tools back to their own communities — spreading healing across generations.
 
-[idx-205]
+[idx-206]
 
 Find a Healing Group
 
-[idx-206]
+[idx-207]
 
 Become a Facilitator
 
 
 ### Modal — Giving
 
-[idx-207]
+[idx-208]
 
 Ways to Give
 
-[idx-208]
+[idx-209]
 
 ✕
 
-[idx-209]
+[idx-210]
 
 Online Giving
 
-[idx-210]
+[idx-211]
 
 Secure online giving with credit/debit card, Apple Pay, and Google Pay. Set up monthly recurring giving to provide sustained support year-round.
 
-[idx-211]
+[idx-212]
 
 Gifts of Stock
 
-[idx-212]
+[idx-213]
 
 Transferring appreciated securities is one of the most tax-efficient ways to give. Contact us to initiate a stock transfer directly to LIM's brokerage account.
 
-[idx-213]
+[idx-214]
 
 Donor Advised Funds (DAFs)
 
-[idx-214]
+[idx-215]
 
 Recommend a grant from your DAF to Lutheran Indian Ministries. Our EIN is available upon request.
 
-[idx-215]
+[idx-216]
 
 IRA Qualified Charitable Distribution
 
-[idx-216]
+[idx-217]
 
 If you are 70½ or older, you may make a tax-free gift directly from your IRA to LIM — up to $100,000 per year.
 
-[idx-217]
+[idx-218]
 
 Planned Giving & Legacy Gifts
 
-[idx-218]
+[idx-219]
 
 Include LIM in your will or trust and ensure Native Gospel ministry for generations to come. Contact us to discuss options.
 
-[idx-219]
+[idx-220]
 
 By Mail
 
-[idx-220]
+[idx-221]
 
 Checks payable to Lutheran Indian Ministries · Brookfield, WI · Call (262) 439-5663 for mailing address.
 
-[idx-221]
+[idx-222]
 
 Give Online Now
 
-[idx-222]
+[idx-223]
 
 Call to Give
 
