@@ -3543,7 +3543,7 @@
           "tag": "p",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
-          "text": "In-person healing group in Fairbanks. Starts Wednesday at noon with lunch, continues Thursday and Friday 9 AM–4:30 PM. All community members welcome.",
+          "text": "Hope Pentecostal Church (church by the bridge), 211 Elkhornscraper. Saturday 9 AM–12 PM Mountain Time. Lunch provided — bring your own if you have dietary needs.",
           "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(4) > div.scard-body:nth-of-type(2) > p",
           "line": 572
         },
@@ -3570,7 +3570,7 @@
           "tag": "h3",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
-          "text": "Online Healing Group",
+          "text": "Community Healing Group",
           "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(5) > div.scard-body:nth-of-type(2) > h3.scard-title",
           "line": 587
         },
@@ -3579,7 +3579,7 @@
           "tag": "p",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
-          "text": "A two-week online format. Ideal if you can't travel or prefer to participate from home. Same curriculum, same community, same scripture-grounded experience.",
+          "text": "Heaven Sent Ministries at Ashland Christian Fellowship Church, 43 Old Mission Road. Friday 9 AM–12 PM Mountain Time. Lunch provided — bring your own if you have dietary needs.",
           "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(5) > div.scard-body:nth-of-type(2) > p",
           "line": 589
         },
@@ -3615,7 +3615,7 @@
           "tag": "p",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
-          "text": "Fall session in Fairbanks. Exact dates to be confirmed. Register your interest and we'll contact you as soon as dates are set.",
+          "text": "In-person healing group in Fairbanks. Starts Wednesday at noon with lunch, continues Thursday and Friday 9 AM–4:30 PM. All community members welcome.",
           "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(6) > div.scard-body:nth-of-type(2) > p",
           "line": 606
         },
@@ -3624,75 +3624,210 @@
           "tag": "button",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
-          "text": "Register Interest",
-          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(6) > div.scard-foot:nth-of-type(3) > button.btn.btn-sky",
+          "text": "Register Now",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(6) > div.scard-foot:nth-of-type(3) > button.btn.btn-red:nth-of-type(1)",
           "line": 609
         },
         {
           "id": "hgs-060",
-          "tag": "h3",
-          "section": "section#Upcoming healing group sessions",
-          "section_slug": "upcoming-healing-group-sessions",
-          "text": "Facilitator Equipping Training",
-          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(7) > div.scard-body:nth-of-type(2) > h3.scard-title",
-          "line": 620
-        },
-        {
-          "id": "hgs-061",
-          "tag": "p",
-          "section": "section#Upcoming healing group sessions",
-          "section_slug": "upcoming-healing-group-sessions",
-          "text": "Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.",
-          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(7) > div.scard-body:nth-of-type(2) > p",
-          "line": 622
-        },
-        {
-          "id": "hgs-062",
           "tag": "button",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
-          "text": "Register Interest",
-          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(7) > div.scard-foot:nth-of-type(3) > button.btn.btn-sky",
-          "line": 625
+          "text": "Details",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(6) > div.scard-foot:nth-of-type(3) > button.sess-detail-link:nth-of-type(2)",
+          "line": 610
         },
         {
-          "id": "hgs-063",
+          "id": "hgs-061",
+          "tag": "h3",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Online Healing Group",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(7) > div.scard-body:nth-of-type(2) > h3.scard-title",
+          "line": 621
+        },
+        {
+          "id": "hgs-062",
           "tag": "p",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
-          "text": "Additional sessions planned for Anchorage, AK (October–November 2026). Contact us to be notified.",
-          "css": "section#sessions > p",
-          "line": 630
+          "text": "Two weeks via Zoom — both weeks must be attended for completion. Week 1: Aug 5–7 · Week 2: Aug 12–14, each 12:00 PM–3:00 PM Alaska Standard Time. Same curriculum, same scripture-grounded experience.",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(7) > div.scard-body:nth-of-type(2) > p",
+          "line": 623
+        },
+        {
+          "id": "hgs-063",
+          "tag": "button",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Register Now",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(7) > div.scard-foot:nth-of-type(3) > button.btn.btn-red:nth-of-type(1)",
+          "line": 626
         },
         {
           "id": "hgs-064",
           "tag": "button",
           "section": "section#Upcoming healing group sessions",
           "section_slug": "upcoming-healing-group-sessions",
-          "text": "Contact us",
-          "css": "section#sessions > p > button",
-          "line": 776
+          "text": "Details",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(7) > div.scard-foot:nth-of-type(3) > button.sess-detail-link:nth-of-type(2)",
+          "line": 627
         },
         {
           "id": "hgs-065",
+          "tag": "h3",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Community Healing Group",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(8) > div.scard-body:nth-of-type(2) > h3.scard-title",
+          "line": 638
+        },
+        {
+          "id": "hgs-066",
+          "tag": "p",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Wed Sept 16 noon–4:30 PM (lunch), Thu Sept 17 9 AM–4:30 PM, Fri Sept 18 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(8) > div.scard-body:nth-of-type(2) > p",
+          "line": 640
+        },
+        {
+          "id": "hgs-067",
+          "tag": "button",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Register Now",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(8) > div.scard-foot:nth-of-type(3) > button.btn.btn-red:nth-of-type(1)",
+          "line": 643
+        },
+        {
+          "id": "hgs-068",
+          "tag": "button",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Details",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(8) > div.scard-foot:nth-of-type(3) > button.sess-detail-link:nth-of-type(2)",
+          "line": 644
+        },
+        {
+          "id": "hgs-069",
+          "tag": "h3",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Community Healing Group",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(9) > div.scard-body:nth-of-type(2) > h3.scard-title",
+          "line": 655
+        },
+        {
+          "id": "hgs-070",
+          "tag": "p",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "1420 N Street, Anchorage, AK 99501 (use the West 15th Street parking for easier access). Both days 9 AM–4:30 PM Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(9) > div.scard-body:nth-of-type(2) > p",
+          "line": 657
+        },
+        {
+          "id": "hgs-071",
+          "tag": "button",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Register Now",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(9) > div.scard-foot:nth-of-type(3) > button.btn.btn-red:nth-of-type(1)",
+          "line": 660
+        },
+        {
+          "id": "hgs-072",
+          "tag": "button",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Details",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(9) > div.scard-foot:nth-of-type(3) > button.sess-detail-link:nth-of-type(2)",
+          "line": 661
+        },
+        {
+          "id": "hgs-073",
+          "tag": "h3",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Facilitator Equipping Training",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(10) > div.scard-body:nth-of-type(2) > h3.scard-title",
+          "line": 672
+        },
+        {
+          "id": "hgs-074",
+          "tag": "p",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(10) > div.scard-body:nth-of-type(2) > p",
+          "line": 674
+        },
+        {
+          "id": "hgs-075",
+          "tag": "button",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Register Interest",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(10) > div.scard-foot:nth-of-type(3) > button.btn.btn-sky",
+          "line": 677
+        },
+        {
+          "id": "hgs-076",
+          "tag": "h3",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Community Healing Group",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(11) > div.scard-body:nth-of-type(2) > h3.scard-title",
+          "line": 688
+        },
+        {
+          "id": "hgs-077",
+          "tag": "p",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Wed Nov 4 noon–4:30 PM (lunch), Thu Nov 5 9 AM–4:30 PM, Fri Nov 6 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(11) > div.scard-body:nth-of-type(2) > p",
+          "line": 690
+        },
+        {
+          "id": "hgs-078",
+          "tag": "button",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Register Now",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(11) > div.scard-foot:nth-of-type(3) > button.btn.btn-red:nth-of-type(1)",
+          "line": 693
+        },
+        {
+          "id": "hgs-079",
+          "tag": "button",
+          "section": "section#Upcoming healing group sessions",
+          "section_slug": "upcoming-healing-group-sessions",
+          "text": "Details",
+          "css": "section#sessions > div.sessions-g.wrap:nth-of-type(3) > div.scard.fi:nth-of-type(11) > div.scard-foot:nth-of-type(3) > button.sess-detail-link:nth-of-type(2)",
+          "line": 694
+        },
+        {
+          "id": "hgs-080",
           "tag": "h2",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
           "text": "The Six Core Sessions",
           "css": "section#sessions-detail > div.wrap > div.fi:nth-of-type(1) > h2.h2",
-          "line": 1244
+          "line": 706
         },
         {
-          "id": "hgs-066",
+          "id": "hgs-081",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
           "text": "Each session builds on the last. Over 390 scriptures are woven throughout, using the Restoring Hope Bible. You go only where you're ready to go.",
           "css": "section#sessions-detail > div.wrap > div.fi:nth-of-type(1) > p",
-          "line": null
+          "line": 707
         },
         {
-          "id": "hgs-067",
+          "id": "hgs-082",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3701,16 +3836,16 @@
           "line": null
         },
         {
-          "id": "hgs-068",
+          "id": "hgs-083",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
           "text": "Heart wounds can begin in childhood, young adulthood, or today. This session helps participants name and understand their specific wounds — whether from abuse, loss, historical trauma, or grief. Naming the wound is the first step toward healing it.",
           "css": "section#sessions-detail > div.wrap > div.acc-list.fi:nth-of-type(2) > div.acc-item:nth-of-type(1) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 715
         },
         {
-          "id": "hgs-069",
+          "id": "hgs-084",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3719,16 +3854,16 @@
           "line": null
         },
         {
-          "id": "hgs-070",
+          "id": "hgs-085",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
           "text": "Practical tools for the healing journey — exercises that move understanding from head to heart. Participants discover that healing is a process supported by community, prayer, and scripture. This session also addresses how stress and trauma are held in the body.",
           "css": "section#sessions-detail > div.wrap > div.acc-list.fi:nth-of-type(2) > div.acc-item:nth-of-type(2) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 722
         },
         {
-          "id": "hgs-071",
+          "id": "hgs-086",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3737,16 +3872,16 @@
           "line": null
         },
         {
-          "id": "hgs-072",
+          "id": "hgs-087",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
           "text": "A compassionate look at what grief actually looks like — and where people get stuck. Understanding the grief journey is often cathartic and transforming. Participants learn they don't have to stay stuck, and that tears are cleansing, not weakness.",
           "css": "section#sessions-detail > div.wrap > div.acc-list.fi:nth-of-type(2) > div.acc-item:nth-of-type(3) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 729
         },
         {
-          "id": "hgs-073",
+          "id": "hgs-088",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3755,16 +3890,16 @@
           "line": null
         },
         {
-          "id": "hgs-074",
+          "id": "hgs-089",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
           "text": "The most honest question we carry. Scripture reveals that God is present in suffering — not absent from it. Participants discover that pain is not a sign of abandonment. We learn that Jesus wept — and that changes everything.",
           "css": "section#sessions-detail > div.wrap > div.acc-list.fi:nth-of-type(2) > div.acc-item:nth-of-type(4) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 736
         },
         {
-          "id": "hgs-075",
+          "id": "hgs-090",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3773,16 +3908,16 @@
           "line": null
         },
         {
-          "id": "hgs-076",
+          "id": "hgs-091",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
           "text": "One of the most powerful sessions. Participants are gently led through releasing pain and beginning the journey of forgiving others. No pressure, no timeline. You go only where you're ready. The community around you holds space with grace and love.",
           "css": "section#sessions-detail > div.wrap > div.acc-list.fi:nth-of-type(2) > div.acc-item:nth-of-type(5) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 743
         },
         {
-          "id": "hgs-077",
+          "id": "hgs-092",
           "tag": "button",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
@@ -3791,52 +3926,52 @@
           "line": null
         },
         {
-          "id": "hgs-078",
+          "id": "hgs-093",
           "tag": "p",
           "section": "section#What to expect in each session",
           "section_slug": "what-to-expect-in-each-session",
           "text": "The closing session brings everything together — looking back at the healing journey, looking forward with hope. Participants also discover how they can share this with others. The healing group is the beginning, not the end.",
           "css": "section#sessions-detail > div.wrap > div.acc-list.fi:nth-of-type(2) > div.acc-item:nth-of-type(6) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 750
         },
         {
-          "id": "hgs-079",
+          "id": "hgs-094",
           "tag": "h2",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
           "text": "Become a Facilitator",
           "css": "section#facilitator > div.fac-g.wrap > div.fi:nth-of-type(2) > h2.h2.fac-h2",
-          "line": null
+          "line": 764
         },
         {
-          "id": "hgs-080",
+          "id": "hgs-095",
           "tag": "p",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
           "text": "After experiencing healing yourself, you may feel called to lead others through it. Facilitator training equips you to run healing groups in your own community — multiplying the impact across generations.",
           "css": "section#facilitator > div.fac-g.wrap > div.fi:nth-of-type(2) > p.fac-p:nth-of-type(1)",
-          "line": null
+          "line": 765
         },
         {
-          "id": "hgs-081",
+          "id": "hgs-096",
           "tag": "blockquote",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
           "text": "\"Once I got my ego out of the way and understood it's not my responsibility to change someone — I just follow the guide, like a tour guide — I started enjoying it. It's the Holy Spirit doing all the work.\" — Roberta, Trained Facilitator",
           "css": "section#facilitator > div.fac-g.wrap > div.fi:nth-of-type(2) > blockquote.fac-pull",
-          "line": null
+          "line": 767
         },
         {
-          "id": "hgs-082",
+          "id": "hgs-097",
           "tag": "p",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
           "text": "You don't need to be a Bible scholar or a pastor. You need a heart for people and a willingness to follow the facilitator guide — which is detailed, well-structured, and easy to use.",
           "css": "section#facilitator > div.fac-g.wrap > div.fi:nth-of-type(2) > p.fac-p:nth-of-type(2)",
-          "line": null
+          "line": 770
         },
         {
-          "id": "hgs-083",
+          "id": "hgs-098",
           "tag": "li",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3845,7 +3980,7 @@
           "line": null
         },
         {
-          "id": "hgs-084",
+          "id": "hgs-099",
           "tag": "li",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3854,7 +3989,7 @@
           "line": null
         },
         {
-          "id": "hgs-085",
+          "id": "hgs-100",
           "tag": "li",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3863,7 +3998,7 @@
           "line": null
         },
         {
-          "id": "hgs-086",
+          "id": "hgs-101",
           "tag": "li",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
@@ -3872,34 +4007,34 @@
           "line": null
         },
         {
-          "id": "hgs-087",
+          "id": "hgs-102",
           "tag": "a",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
           "text": "See Equipping Training Dates",
           "css": "section#facilitator > div.fac-g.wrap > div.fi:nth-of-type(2) > div > a.btn.btn-sky",
-          "line": null
+          "line": 778
         },
         {
-          "id": "hgs-088",
+          "id": "hgs-103",
           "tag": "button",
           "section": "section#Become a facilitator",
           "section_slug": "become-a-facilitator",
           "text": "Express Interest",
           "css": "section#facilitator > div.fac-g.wrap > div.fi:nth-of-type(2) > div > button.btn.btn-olw",
-          "line": null
+          "line": 779
         },
         {
-          "id": "hgs-089",
+          "id": "hgs-104",
           "tag": "h2",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
           "text": "Frequently Asked Questions",
           "css": "section#faq > div.wrap > div.faq-hd.fi:nth-of-type(1) > h2.h2",
-          "line": null
+          "line": 790
         },
         {
-          "id": "hgs-090",
+          "id": "hgs-105",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3908,16 +4043,16 @@
           "line": null
         },
         {
-          "id": "hgs-091",
+          "id": "hgs-106",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
           "text": "No. All are welcome — regardless of faith, religion, or background. You don't need to prescribe or ascribe to any specific religion to attend. The program is grounded in biblical scripture, but you come as you are and take what is meaningful to you.",
           "css": "section#faq > div.wrap > div.faq-wrap.fi:nth-of-type(2) > div.acc-list > div.acc-item:nth-of-type(1) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 799
         },
         {
-          "id": "hgs-092",
+          "id": "hgs-107",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3926,16 +4061,16 @@
           "line": null
         },
         {
-          "id": "hgs-093",
+          "id": "hgs-108",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
           "text": "Yes, completely free to attend. LIM covers all curriculum costs, and in-person sessions include lunch each day. Travel and accommodation are not included, but contact us if cost is a barrier — we want to make this accessible to everyone.",
           "css": "section#faq > div.wrap > div.faq-wrap.fi:nth-of-type(2) > div.acc-list > div.acc-item:nth-of-type(2) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 806
         },
         {
-          "id": "hgs-094",
+          "id": "hgs-109",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3944,25 +4079,25 @@
           "line": null
         },
         {
-          "id": "hgs-095",
+          "id": "hgs-110",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
           "text": "Life happens — we understand. Please let us know as soon as possible so we can open your spot for someone on the waitlist and transfer your registration to a future session. We run multiple healing groups throughout the year, so there's always another opportunity.",
           "css": "section#faq > div.wrap > div.faq-wrap.fi:nth-of-type(2) > div.acc-list > div.acc-item:nth-of-type(3) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 814
         },
         {
-          "id": "hgs-096",
+          "id": "hgs-111",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
           "text": "Cancel My Registration",
           "css": "section#faq > div.wrap > div.faq-wrap.fi:nth-of-type(2) > div.acc-list > div.acc-item:nth-of-type(3) > div.acc-body > div.acc-inner > button.btn.btn-ol",
-          "line": null
+          "line": 815
         },
         {
-          "id": "hgs-097",
+          "id": "hgs-112",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3971,16 +4106,16 @@
           "line": null
         },
         {
-          "id": "hgs-098",
+          "id": "hgs-113",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
           "text": "No. The healing journey is completely self-directed. You share only what you are comfortable sharing, and you go only where you're ready to go. There is no pressure and no force. The group agrees to confidentiality guidelines at the start of every session.",
           "css": "section#faq > div.wrap > div.faq-wrap.fi:nth-of-type(2) > div.acc-list > div.acc-item:nth-of-type(4) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 823
         },
         {
-          "id": "hgs-099",
+          "id": "hgs-114",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -3989,16 +4124,16 @@
           "line": null
         },
         {
-          "id": "hgs-100",
+          "id": "hgs-115",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
           "text": "Yes — the sessions build on each other, and the connections you form with others are an important part of the experience. If you miss a session, contact us; we'll do our best to help you catch up or transfer to a future group where you can attend fully.",
           "css": "section#faq > div.wrap > div.faq-wrap.fi:nth-of-type(2) > div.acc-list > div.acc-item:nth-of-type(5) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 830
         },
         {
-          "id": "hgs-101",
+          "id": "hgs-116",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -4007,16 +4142,16 @@
           "line": null
         },
         {
-          "id": "hgs-102",
+          "id": "hgs-117",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
           "text": "A Prayer Warrior is someone who has been through the healing group process and supports others through prayer — before, during, and after every session. They pray for every participant by name, including those who wanted to come but couldn't. They're also available for private conversation if someone needs it. Every healing group is fully prayed up.",
           "css": "section#faq > div.wrap > div.faq-wrap.fi:nth-of-type(2) > div.acc-list > div.acc-item:nth-of-type(6) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 837
         },
         {
-          "id": "hgs-103",
+          "id": "hgs-118",
           "tag": "button",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
@@ -4025,52 +4160,52 @@
           "line": null
         },
         {
-          "id": "hgs-104",
+          "id": "hgs-119",
           "tag": "p",
           "section": "section#Frequently asked questions",
           "section_slug": "frequently-asked-questions",
           "text": "Absolutely. LIM partners with churches, community organizations, and tribal entities to bring healing groups to new locations. Contact us to discuss hosting a group in your community. We provide curriculum, training, and ongoing support.",
           "css": "section#faq > div.wrap > div.faq-wrap.fi:nth-of-type(2) > div.acc-list > div.acc-item:nth-of-type(7) > div.acc-body > div.acc-inner > p",
-          "line": null
+          "line": 844
         },
         {
-          "id": "hgs-105",
+          "id": "hgs-120",
           "tag": "h2",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Ready to Register?",
           "css": "section#contact > div.contact-inner.wrap > div.fi:nth-of-type(1) > h2.contact-h",
-          "line": null
+          "line": 855
         },
         {
-          "id": "hgs-106",
+          "id": "hgs-121",
           "tag": "p",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Questions? Want to talk to someone before registering? We're here. Every warm, gentle invitation matters — and we don't want to miss anyone.",
           "css": "section#contact > div.contact-inner.wrap > div.fi:nth-of-type(1) > p.contact-p",
-          "line": null
+          "line": 856
         },
         {
-          "id": "hgs-107",
+          "id": "hgs-122",
           "tag": "h3",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Register / Get More Information",
           "css": "section#contact > div.contact-inner.wrap > div.contact-form.fi:nth-of-type(2) > h3",
-          "line": null
+          "line": 864
         },
         {
-          "id": "hgs-108",
+          "id": "hgs-123",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "First Name *",
           "css": "section#contact > div.contact-inner.wrap > div.contact-form.fi:nth-of-type(2) > div.form-row:nth-of-type(1) > div.form-group:nth-of-type(1) > label",
-          "line": null
+          "line": 866
         },
         {
-          "id": "hgs-109",
+          "id": "hgs-124",
           "tag": "input-placeholder",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4079,16 +4214,16 @@
           "line": null
         },
         {
-          "id": "hgs-110",
+          "id": "hgs-125",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Last Name *",
           "css": "section#contact > div.contact-inner.wrap > div.contact-form.fi:nth-of-type(2) > div.form-row:nth-of-type(1) > div.form-group:nth-of-type(2) > label",
-          "line": null
+          "line": 867
         },
         {
-          "id": "hgs-111",
+          "id": "hgs-126",
           "tag": "input-placeholder",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4097,16 +4232,16 @@
           "line": null
         },
         {
-          "id": "hgs-112",
+          "id": "hgs-127",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Email Address *",
           "css": "section#contact > div.contact-inner.wrap > div.contact-form.fi:nth-of-type(2) > div.form-group:nth-of-type(2) > label",
-          "line": null
+          "line": 869
         },
         {
-          "id": "hgs-113",
+          "id": "hgs-128",
           "tag": "input-placeholder",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4115,124 +4250,142 @@
           "line": null
         },
         {
-          "id": "hgs-114",
+          "id": "hgs-129",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Phone Number",
           "css": "section#contact > div.contact-inner.wrap > div.contact-form.fi:nth-of-type(2) > div.form-group:nth-of-type(3) > label",
-          "line": null
+          "line": 870
         },
         {
-          "id": "hgs-115",
+          "id": "hgs-130",
           "tag": "input-placeholder",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "(optional)",
           "css": "input#ph",
-          "line": null
+          "line": 999
         },
         {
-          "id": "hgs-116",
+          "id": "hgs-131",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Which Session Are You Interested In? *",
           "css": "section#contact > div.contact-inner.wrap > div.contact-form.fi:nth-of-type(2) > div.form-group:nth-of-type(4) > label",
-          "line": null
+          "line": 872
         },
         {
-          "id": "hgs-117",
+          "id": "hgs-132",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "— Select a session —",
           "css": "select#sess > option:nth-of-type(1)",
-          "line": null
+          "line": 874
         },
         {
-          "id": "hgs-118",
+          "id": "hgs-133",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
-          "text": "March 13–14 · Military · Fairbanks, AK",
+          "text": "May 16 · Community Healing · Lame Deer, MT",
           "css": "select#sess > option:nth-of-type(2)",
-          "line": null
+          "line": 875
         },
         {
-          "id": "hgs-119",
+          "id": "hgs-134",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
-          "text": "April 14–17 · Healing + Equipping · Winnebago, NE",
+          "text": "May 22 · Community Healing · Ashland, MT",
           "css": "select#sess > option:nth-of-type(3)",
-          "line": null
+          "line": 876
         },
         {
-          "id": "hgs-120",
+          "id": "hgs-135",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "May 27–29 · Community Healing · Fairbanks, AK",
           "css": "select#sess > option:nth-of-type(4)",
-          "line": null
+          "line": 877
         },
         {
-          "id": "hgs-121",
+          "id": "hgs-136",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
-          "text": "August 5–14 · Online",
+          "text": "August 5–14 · Online · Zoom",
           "css": "select#sess > option:nth-of-type(5)",
-          "line": null
+          "line": 878
         },
         {
-          "id": "hgs-122",
+          "id": "hgs-137",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
-          "text": "September 2026 · Fairbanks, AK (dates TBC)",
+          "text": "Sept 16–18 · Community Healing · Fairbanks, AK",
           "css": "select#sess > option:nth-of-type(6)",
-          "line": null
+          "line": 879
         },
         {
-          "id": "hgs-123",
+          "id": "hgs-138",
+          "tag": "option",
+          "section": "section#Register or contact us",
+          "section_slug": "register-or-contact-us",
+          "text": "Oct 9–10 · Community Healing · Anchorage, AK",
+          "css": "select#sess > option:nth-of-type(7)",
+          "line": 880
+        },
+        {
+          "id": "hgs-139",
+          "tag": "option",
+          "section": "section#Register or contact us",
+          "section_slug": "register-or-contact-us",
+          "text": "Nov 4–6 · Community Healing · Fairbanks, AK",
+          "css": "select#sess > option:nth-of-type(8)",
+          "line": 881
+        },
+        {
+          "id": "hgs-140",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Join waitlist for March Online (Currently Full)",
-          "css": "select#sess > option:nth-of-type(7)",
-          "line": null
+          "css": "select#sess > option:nth-of-type(9)",
+          "line": 882
         },
         {
-          "id": "hgs-124",
+          "id": "hgs-141",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Facilitator Training Interest",
-          "css": "select#sess > option:nth-of-type(8)",
-          "line": null
+          "css": "select#sess > option:nth-of-type(10)",
+          "line": 883
         },
         {
-          "id": "hgs-125",
+          "id": "hgs-142",
           "tag": "option",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Contact me about hosting a group",
-          "css": "select#sess > option:nth-of-type(9)",
-          "line": null
+          "css": "select#sess > option:nth-of-type(11)",
+          "line": 884
         },
         {
-          "id": "hgs-126",
+          "id": "hgs-143",
           "tag": "label",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Anything you'd like us to know?",
           "css": "section#contact > div.contact-inner.wrap > div.contact-form.fi:nth-of-type(2) > div.form-group:nth-of-type(5) > label",
-          "line": null
+          "line": 887
         },
         {
-          "id": "hgs-127",
+          "id": "hgs-144",
           "tag": "input-placeholder",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
@@ -4241,241 +4394,241 @@
           "line": null
         },
         {
-          "id": "hgs-128",
+          "id": "hgs-145",
           "tag": "p",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Your information is confidential. We will only use it to contact you about healing group registration. You may opt out at any time.",
           "css": "section#contact > div.contact-inner.wrap > div.contact-form.fi:nth-of-type(2) > p.form-note",
-          "line": null
+          "line": 888
         },
         {
-          "id": "hgs-129",
+          "id": "hgs-146",
           "tag": "button",
           "section": "section#Register or contact us",
           "section_slug": "register-or-contact-us",
           "text": "Submit Registration",
           "css": "section#contact > div.contact-inner.wrap > div.contact-form.fi:nth-of-type(2) > button.btn.btn-red",
-          "line": null
-        },
-        {
-          "id": "hgs-130",
-          "tag": "p",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-brand:nth-of-type(1) > p",
-          "line": null
-        },
-        {
-          "id": "hgs-131",
-          "tag": "h4",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Healing Groups",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > h4",
-          "line": null
-        },
-        {
-          "id": "hgs-132",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "About the Program",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(1) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-133",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Find a Group",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(2) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-134",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Become a Facilitator",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(3) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-135",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "FAQ",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(4) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-136",
-          "tag": "h4",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Ministry",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > h4",
-          "line": null
-        },
-        {
-          "id": "hgs-137",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Home",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(1) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-138",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Three Pillars",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(2) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-139",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Haskell LIGHT",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(3) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-140",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Donate",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(4) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-141",
-          "tag": "h4",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Contact",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > h4",
-          "line": null
-        },
-        {
-          "id": "hgs-142",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "(262) 439-5663",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(1) > a",
-          "line": 1395
-        },
-        {
-          "id": "hgs-143",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "(262) 783-5267",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(2) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-144",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Email LIM",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(3) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-145",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Official Website",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(4) > a",
-          "line": null
-        },
-        {
-          "id": "hgs-146",
-          "tag": "a",
-          "section": "footer#footer",
-          "section_slug": "footer",
-          "text": "Brand Guide",
-          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(5) > a",
-          "line": null
+          "line": 889
         },
         {
           "id": "hgs-147",
           "tag": "p",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit · All Rights Reserved",
-          "css": "footer#footer > div.foot-bot:nth-of-type(2) > p",
-          "line": null
+          "text": "A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-brand:nth-of-type(1) > p",
+          "line": 899
         },
         {
           "id": "hgs-148",
+          "tag": "h4",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Healing Groups",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > h4",
+          "line": 902
+        },
+        {
+          "id": "hgs-149",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "About the Program",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+          "line": 904
+        },
+        {
+          "id": "hgs-150",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Find a Group",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+          "line": 905
+        },
+        {
+          "id": "hgs-151",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Become a Facilitator",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+          "line": 906
+        },
+        {
+          "id": "hgs-152",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "FAQ",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+          "line": 907
+        },
+        {
+          "id": "hgs-153",
+          "tag": "h4",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Ministry",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > h4",
+          "line": 911
+        },
+        {
+          "id": "hgs-154",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Home",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+          "line": 913
+        },
+        {
+          "id": "hgs-155",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Three Pillars",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+          "line": 914
+        },
+        {
+          "id": "hgs-156",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Haskell LIGHT",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+          "line": 915
+        },
+        {
+          "id": "hgs-157",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Donate",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(3) > ul > li:nth-of-type(4) > a",
+          "line": 916
+        },
+        {
+          "id": "hgs-158",
+          "tag": "h4",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Contact",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > h4",
+          "line": 920
+        },
+        {
+          "id": "hgs-159",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "(262) 439-5663",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+          "line": 922
+        },
+        {
+          "id": "hgs-160",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "(262) 783-5267",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+          "line": 923
+        },
+        {
+          "id": "hgs-161",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Email LIM",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(3) > a",
+          "line": 924
+        },
+        {
+          "id": "hgs-162",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Official Website",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(4) > a",
+          "line": 925
+        },
+        {
+          "id": "hgs-163",
+          "tag": "a",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "Brand Guide",
+          "css": "footer#footer > div.foot-top:nth-of-type(1) > div.foot-col:nth-of-type(4) > ul > li:nth-of-type(5) > a",
+          "line": 926
+        },
+        {
+          "id": "hgs-164",
+          "tag": "p",
+          "section": "footer#footer",
+          "section_slug": "footer",
+          "text": "© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit · All Rights Reserved",
+          "css": "footer#footer > div.foot-bot:nth-of-type(2) > p",
+          "line": 931
+        },
+        {
+          "id": "hgs-165",
           "tag": "h2",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Free Event Registration",
           "css": "h2#m-reg-t",
-          "line": null
+          "line": 943
         },
         {
-          "id": "hgs-149",
+          "id": "hgs-166",
           "tag": "button",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "✕",
           "css": "div#m-reg > div.modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": null
+          "line": 944
         },
         {
-          "id": "hgs-150",
+          "id": "hgs-167",
           "tag": "h3",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "You're Registered!",
           "css": "div#reg-success > h3",
-          "line": null
+          "line": 962
         },
         {
-          "id": "hgs-151",
+          "id": "hgs-168",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Thank you for signing up. We'll be in touch with confirmation details and — for online sessions — your Zoom link. Questions? Call (262) 439-5663",
           "css": "div#reg-success > p",
-          "line": null
+          "line": 963
         },
         {
-          "id": "hgs-152",
+          "id": "hgs-169",
           "tag": "button",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Close",
           "css": "div#reg-success > button.btn.btn-ol",
-          "line": null
+          "line": 964
         },
         {
-          "id": "hgs-153",
+          "id": "hgs-170",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Your Information",
           "css": "form#reg-form > div.reg-section:nth-of-type(1) > p.reg-section-title",
-          "line": null
+          "line": 972
         },
         {
-          "id": "hgs-154",
+          "id": "hgs-171",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4484,16 +4637,16 @@
           "line": null
         },
         {
-          "id": "hgs-155",
+          "id": "hgs-172",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "First",
           "css": "input#reg-fname",
-          "line": null
+          "line": 977
         },
         {
-          "id": "hgs-156",
+          "id": "hgs-173",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4502,16 +4655,16 @@
           "line": null
         },
         {
-          "id": "hgs-157",
+          "id": "hgs-174",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Last",
           "css": "input#reg-lname",
-          "line": null
+          "line": 981
         },
         {
-          "id": "hgs-158",
+          "id": "hgs-175",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4520,16 +4673,16 @@
           "line": null
         },
         {
-          "id": "hgs-159",
+          "id": "hgs-176",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "you@example.com",
           "css": "input#reg-email",
-          "line": null
+          "line": 988
         },
         {
-          "id": "hgs-160",
+          "id": "hgs-177",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4538,16 +4691,16 @@
           "line": null
         },
         {
-          "id": "hgs-161",
+          "id": "hgs-178",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "(___) ___-____",
           "css": "input#reg-phone",
-          "line": null
+          "line": 994
         },
         {
-          "id": "hgs-162",
+          "id": "hgs-179",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4556,16 +4709,16 @@
           "line": null
         },
         {
-          "id": "hgs-163",
+          "id": "hgs-180",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Age",
           "css": "input#reg-age",
-          "line": null
+          "line": 999
         },
         {
-          "id": "hgs-164",
+          "id": "hgs-181",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4574,43 +4727,43 @@
           "line": null
         },
         {
-          "id": "hgs-165",
+          "id": "hgs-182",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Male",
           "css": "form#reg-form > div.reg-section:nth-of-type(1) > div.reg-row:nth-of-type(4) > div.reg-field:nth-of-type(2) > div.reg-radio > label:nth-of-type(1)",
-          "line": null
+          "line": 1005
         },
         {
-          "id": "hgs-166",
+          "id": "hgs-183",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Female",
           "css": "form#reg-form > div.reg-section:nth-of-type(1) > div.reg-row:nth-of-type(4) > div.reg-field:nth-of-type(2) > div.reg-radio > label:nth-of-type(2)",
-          "line": null
+          "line": 1006
         },
         {
-          "id": "hgs-167",
+          "id": "hgs-184",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Other",
           "css": "form#reg-form > div.reg-section:nth-of-type(1) > div.reg-row:nth-of-type(4) > div.reg-field:nth-of-type(2) > div.reg-radio > label:nth-of-type(3)",
-          "line": null
+          "line": 1007
         },
         {
-          "id": "hgs-168",
+          "id": "hgs-185",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Home Address",
           "css": "form#reg-form > div.reg-section:nth-of-type(2) > p.reg-section-title",
-          "line": null
+          "line": 1013
         },
         {
-          "id": "hgs-169",
+          "id": "hgs-186",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4619,16 +4772,16 @@
           "line": null
         },
         {
-          "id": "hgs-170",
+          "id": "hgs-187",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Street address",
           "css": "input#reg-addr1",
-          "line": null
+          "line": 1019
         },
         {
-          "id": "hgs-171",
+          "id": "hgs-188",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4637,16 +4790,16 @@
           "line": null
         },
         {
-          "id": "hgs-172",
+          "id": "hgs-189",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Apt, suite, etc.",
           "css": "input#reg-addr2",
-          "line": null
+          "line": 1025
         },
         {
-          "id": "hgs-173",
+          "id": "hgs-190",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4655,16 +4808,16 @@
           "line": null
         },
         {
-          "id": "hgs-174",
+          "id": "hgs-191",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "City",
           "css": "input#reg-city",
-          "line": null
+          "line": 1030
         },
         {
-          "id": "hgs-175",
+          "id": "hgs-192",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4673,16 +4826,16 @@
           "line": null
         },
         {
-          "id": "hgs-176",
+          "id": "hgs-193",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "ST",
           "css": "input#reg-state",
-          "line": null
+          "line": 1035
         },
         {
-          "id": "hgs-177",
+          "id": "hgs-194",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4691,52 +4844,52 @@
           "line": null
         },
         {
-          "id": "hgs-178",
+          "id": "hgs-195",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "ZIP",
           "css": "input#reg-zip",
-          "line": null
+          "line": 1040
         },
         {
-          "id": "hgs-179",
+          "id": "hgs-196",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Country",
           "css": "form#reg-form > div.reg-section:nth-of-type(2) > div.reg-row:nth-of-type(4) > div.reg-field:nth-of-type(2) > label",
-          "line": null
+          "line": 1044
         },
         {
-          "id": "hgs-180",
+          "id": "hgs-197",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "United States",
           "css": "select#reg-country > option:nth-of-type(1)",
-          "line": null
+          "line": 1046
         },
         {
-          "id": "hgs-181",
+          "id": "hgs-198",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Canada",
           "css": "select#reg-country > option:nth-of-type(2)",
-          "line": null
+          "line": 1047
         },
         {
-          "id": "hgs-182",
+          "id": "hgs-199",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Other",
           "css": "select#reg-country > option:nth-of-type(3)",
-          "line": null
+          "line": 1048
         },
         {
-          "id": "hgs-183",
+          "id": "hgs-200",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4745,52 +4898,52 @@
           "line": null
         },
         {
-          "id": "hgs-184",
+          "id": "hgs-201",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Contact Name",
           "css": "form#reg-form > div.reg-section:nth-of-type(3) > div.reg-row > div.reg-field:nth-of-type(1) > label",
-          "line": null
+          "line": 1059
         },
         {
-          "id": "hgs-185",
+          "id": "hgs-202",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Full name",
           "css": "input#reg-ecname",
-          "line": null
+          "line": 1060
         },
         {
-          "id": "hgs-186",
+          "id": "hgs-203",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Contact Phone",
           "css": "form#reg-form > div.reg-section:nth-of-type(3) > div.reg-row > div.reg-field:nth-of-type(2) > label",
-          "line": null
+          "line": 1063
         },
         {
-          "id": "hgs-187",
+          "id": "hgs-204",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "(___) ___-____",
           "css": "input#reg-ecphone",
-          "line": null
+          "line": 1064
         },
         {
-          "id": "hgs-188",
+          "id": "hgs-205",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "🎖️ Military Eligibility",
           "css": "div#reg-mil-section > p.reg-section-title",
-          "line": null
+          "line": 1071
         },
         {
-          "id": "hgs-189",
+          "id": "hgs-206",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4799,25 +4952,25 @@
           "line": null
         },
         {
-          "id": "hgs-190",
+          "id": "hgs-207",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "— Select branch —",
           "css": "select#reg-mil-branch > option:nth-of-type(1)",
-          "line": null
+          "line": 1080
         },
         {
-          "id": "hgs-191",
+          "id": "hgs-208",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Army",
           "css": "select#reg-mil-branch > option:nth-of-type(2)",
-          "line": null
+          "line": 1081
         },
         {
-          "id": "hgs-192",
+          "id": "hgs-209",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4826,7 +4979,7 @@
           "line": null
         },
         {
-          "id": "hgs-193",
+          "id": "hgs-210",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4835,16 +4988,16 @@
           "line": null
         },
         {
-          "id": "hgs-194",
+          "id": "hgs-211",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Air Force",
           "css": "select#reg-mil-branch > option:nth-of-type(5)",
-          "line": null
+          "line": 1082
         },
         {
-          "id": "hgs-195",
+          "id": "hgs-212",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4853,7 +5006,7 @@
           "line": null
         },
         {
-          "id": "hgs-196",
+          "id": "hgs-213",
           "tag": "option",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4862,7 +5015,7 @@
           "line": null
         },
         {
-          "id": "hgs-197",
+          "id": "hgs-214",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4871,16 +5024,16 @@
           "line": null
         },
         {
-          "id": "hgs-198",
+          "id": "hgs-215",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "e.g. 1-5 Cav, 25th ID",
           "css": "input#reg-mil-unit",
-          "line": null
+          "line": 1087
         },
         {
-          "id": "hgs-199",
+          "id": "hgs-216",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4889,34 +5042,34 @@
           "line": null
         },
         {
-          "id": "hgs-200",
+          "id": "hgs-217",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "A Few Things to Know",
           "css": "form#reg-form > div.reg-section:nth-of-type(5) > p.reg-section-title",
-          "line": null
+          "line": 1098
         },
         {
-          "id": "hgs-201",
+          "id": "hgs-218",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "I understand that if I'm unable to attend, this may affect my ability to access the healing group in the future. *",
           "css": "form#reg-form > div.reg-section:nth-of-type(5) > div.reg-check:nth-of-type(1) > label",
-          "line": null
+          "line": 1101
         },
         {
-          "id": "hgs-202",
+          "id": "hgs-219",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "I understand that a certificate of completion requires attending all scheduled sessions. *",
           "css": "form#reg-form > div.reg-section:nth-of-type(5) > div.reg-check:nth-of-type(2) > label",
-          "line": null
+          "line": 1105
         },
         {
-          "id": "hgs-203",
+          "id": "hgs-220",
           "tag": "label",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4925,25 +5078,25 @@
           "line": null
         },
         {
-          "id": "hgs-204",
+          "id": "hgs-221",
           "tag": "input-placeholder",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Any dietary restrictions or needs…",
           "css": "textarea#reg-dietary",
-          "line": null
+          "line": 1110
         },
         {
-          "id": "hgs-205",
+          "id": "hgs-222",
           "tag": "button",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
           "text": "Complete Registration",
           "css": "form#reg-form > button.btn.btn-red",
-          "line": null
+          "line": 1117
         },
         {
-          "id": "hgs-206",
+          "id": "hgs-223",
           "tag": "p",
           "section": "modal#m-reg",
           "section_slug": "m-reg",
@@ -4952,52 +5105,52 @@
           "line": null
         },
         {
-          "id": "hgs-207",
+          "id": "hgs-224",
           "tag": "h2",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Cancel My Registration",
           "css": "h2#m-cancel-t",
-          "line": null
+          "line": 1130
         },
         {
-          "id": "hgs-208",
+          "id": "hgs-225",
           "tag": "button",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "✕",
           "css": "div#m-cancel-modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": null
+          "line": 1131
         },
         {
-          "id": "hgs-209",
+          "id": "hgs-226",
           "tag": "h3",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Cancellation Received",
           "css": "div#can-success > h3",
-          "line": null
+          "line": 1137
         },
         {
-          "id": "hgs-210",
+          "id": "hgs-227",
           "tag": "p",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "We're sorry you can't make it — we'll open your spot and keep you in mind for future sessions. We'll send a confirmation to your email shortly.",
           "css": "div#can-success > p",
-          "line": null
+          "line": 1138
         },
         {
-          "id": "hgs-211",
+          "id": "hgs-228",
           "tag": "button",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Close",
           "css": "div#can-success > button.btn.btn-ol",
-          "line": null
+          "line": 1139
         },
         {
-          "id": "hgs-212",
+          "id": "hgs-229",
           "tag": "label",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5006,79 +5159,115 @@
           "line": null
         },
         {
-          "id": "hgs-213",
+          "id": "hgs-230",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "— Select your session —",
           "css": "select#can-session > option:nth-of-type(1)",
-          "line": null
+          "line": 1154
         },
         {
-          "id": "hgs-214",
+          "id": "hgs-231",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Military Personnel Healing Group — March 13–14, 2026 · Fairbanks, AK",
           "css": "select#can-session > option:nth-of-type(2)",
-          "line": null
+          "line": 1155
         },
         {
-          "id": "hgs-215",
+          "id": "hgs-232",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Healing Group + Equipping Training — April 14–17, 2026 · Winnebago, NE",
           "css": "select#can-session > option:nth-of-type(3)",
-          "line": null
+          "line": 1156
         },
         {
-          "id": "hgs-216",
+          "id": "hgs-233",
+          "tag": "option",
+          "section": "modal#m-cancel-modal",
+          "section_slug": "m-cancel-modal",
+          "text": "Community Healing Group — May 16, 2026 · Lame Deer, MT",
+          "css": "select#can-session > option:nth-of-type(4)",
+          "line": 1157
+        },
+        {
+          "id": "hgs-234",
+          "tag": "option",
+          "section": "modal#m-cancel-modal",
+          "section_slug": "m-cancel-modal",
+          "text": "Community Healing Group — May 22, 2026 · Ashland, MT",
+          "css": "select#can-session > option:nth-of-type(5)",
+          "line": 1158
+        },
+        {
+          "id": "hgs-235",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Community Healing Group — May 27–29, 2026 · Fairbanks, AK",
-          "css": "select#can-session > option:nth-of-type(4)",
-          "line": null
+          "css": "select#can-session > option:nth-of-type(6)",
+          "line": 1159
         },
         {
-          "id": "hgs-217",
+          "id": "hgs-236",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Online Healing Group — August 5–14, 2026 · Zoom",
-          "css": "select#can-session > option:nth-of-type(5)",
-          "line": null
+          "css": "select#can-session > option:nth-of-type(7)",
+          "line": 1160
         },
         {
-          "id": "hgs-218",
+          "id": "hgs-237",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
-          "text": "Community Healing Group — September 2026 · Fairbanks, AK",
-          "css": "select#can-session > option:nth-of-type(6)",
-          "line": null
+          "text": "Community Healing Group — Sept 16–18, 2026 · Fairbanks, AK",
+          "css": "select#can-session > option:nth-of-type(8)",
+          "line": 1161
         },
         {
-          "id": "hgs-219",
+          "id": "hgs-238",
+          "tag": "option",
+          "section": "modal#m-cancel-modal",
+          "section_slug": "m-cancel-modal",
+          "text": "Community Healing Group — Oct 9–10, 2026 · Anchorage, AK",
+          "css": "select#can-session > option:nth-of-type(9)",
+          "line": 1162
+        },
+        {
+          "id": "hgs-239",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Facilitator Equipping Training — October 2026",
-          "css": "select#can-session > option:nth-of-type(7)",
-          "line": null
+          "css": "select#can-session > option:nth-of-type(10)",
+          "line": 1163
         },
         {
-          "id": "hgs-220",
+          "id": "hgs-240",
+          "tag": "option",
+          "section": "modal#m-cancel-modal",
+          "section_slug": "m-cancel-modal",
+          "text": "Community Healing Group — Nov 4–6, 2026 · Fairbanks, AK",
+          "css": "select#can-session > option:nth-of-type(11)",
+          "line": 1164
+        },
+        {
+          "id": "hgs-241",
           "tag": "option",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Other / Not Listed",
-          "css": "select#can-session > option:nth-of-type(8)",
-          "line": null
+          "css": "select#can-session > option:nth-of-type(12)",
+          "line": 1165
         },
         {
-          "id": "hgs-221",
+          "id": "hgs-242",
           "tag": "label",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5087,16 +5276,16 @@
           "line": null
         },
         {
-          "id": "hgs-222",
+          "id": "hgs-243",
           "tag": "input-placeholder",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "First",
           "css": "input#can-first",
-          "line": null
+          "line": 1171
         },
         {
-          "id": "hgs-223",
+          "id": "hgs-244",
           "tag": "label",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5105,16 +5294,16 @@
           "line": null
         },
         {
-          "id": "hgs-224",
+          "id": "hgs-245",
           "tag": "input-placeholder",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Last",
           "css": "input#can-last",
-          "line": null
+          "line": 1175
         },
         {
-          "id": "hgs-225",
+          "id": "hgs-246",
           "tag": "label",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5123,16 +5312,16 @@
           "line": null
         },
         {
-          "id": "hgs-226",
+          "id": "hgs-247",
           "tag": "input-placeholder",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "you@example.com",
           "css": "input#can-email",
-          "line": null
+          "line": 1182
         },
         {
-          "id": "hgs-227",
+          "id": "hgs-248",
           "tag": "label",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5141,25 +5330,25 @@
           "line": null
         },
         {
-          "id": "hgs-228",
+          "id": "hgs-249",
           "tag": "input-placeholder",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Let us know if you'd like to share…",
           "css": "textarea#can-reason",
-          "line": null
+          "line": 1187
         },
         {
-          "id": "hgs-229",
+          "id": "hgs-250",
           "tag": "button",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
           "text": "Submit Cancellation",
           "css": "form#can-form > div.can-body > button.can-submit",
-          "line": null
+          "line": 1190
         },
         {
-          "id": "hgs-230",
+          "id": "hgs-251",
           "tag": "p",
           "section": "modal#m-cancel-modal",
           "section_slug": "m-cancel-modal",
@@ -5168,25 +5357,25 @@
           "line": null
         },
         {
-          "id": "hgs-231",
+          "id": "hgs-252",
           "tag": "h2",
           "section": "modal#m-waitlist",
           "section_slug": "m-waitlist",
           "text": "Join the Waitlist",
           "css": "h2#m-waitlist-t",
-          "line": null
+          "line": 1202
         },
         {
-          "id": "hgs-232",
+          "id": "hgs-253",
           "tag": "button",
           "section": "modal#m-waitlist",
           "section_slug": "m-waitlist",
           "text": "✕",
           "css": "div#m-waitlist > div.modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": null
+          "line": 1216
         },
         {
-          "id": "hgs-233",
+          "id": "hgs-254",
           "tag": "p",
           "section": "modal#m-waitlist",
           "section_slug": "m-waitlist",
@@ -5195,7 +5384,7 @@
           "line": null
         },
         {
-          "id": "hgs-234",
+          "id": "hgs-255",
           "tag": "p",
           "section": "modal#m-waitlist",
           "section_slug": "m-waitlist",
@@ -5204,7 +5393,7 @@
           "line": null
         },
         {
-          "id": "hgs-235",
+          "id": "hgs-256",
           "tag": "a",
           "section": "modal#m-waitlist",
           "section_slug": "m-waitlist",
@@ -5213,7 +5402,7 @@
           "line": null
         },
         {
-          "id": "hgs-236",
+          "id": "hgs-257",
           "tag": "h2",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5222,16 +5411,16 @@
           "line": null
         },
         {
-          "id": "hgs-237",
+          "id": "hgs-258",
           "tag": "button",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
           "text": "✕",
           "css": "div#m-fairbanks-mil > div.modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": null
+          "line": 1242
         },
         {
-          "id": "hgs-238",
+          "id": "hgs-259",
           "tag": "p",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5240,7 +5429,7 @@
           "line": null
         },
         {
-          "id": "hgs-239",
+          "id": "hgs-260",
           "tag": "li",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5249,7 +5438,7 @@
           "line": null
         },
         {
-          "id": "hgs-240",
+          "id": "hgs-261",
           "tag": "li",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5258,7 +5447,7 @@
           "line": null
         },
         {
-          "id": "hgs-241",
+          "id": "hgs-262",
           "tag": "li",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5267,7 +5456,7 @@
           "line": null
         },
         {
-          "id": "hgs-242",
+          "id": "hgs-263",
           "tag": "li",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
@@ -5276,25 +5465,25 @@
           "line": null
         },
         {
-          "id": "hgs-243",
+          "id": "hgs-264",
           "tag": "li",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
           "text": "Ages 18+",
           "css": "div#m-fairbanks-mil > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(5)",
-          "line": null
+          "line": 1255
         },
         {
-          "id": "hgs-244",
+          "id": "hgs-265",
           "tag": "button",
           "section": "modal#m-fairbanks-mil",
           "section_slug": "m-fairbanks-mil",
           "text": "Register Now",
           "css": "div#m-fairbanks-mil > div.modal > div.mbody:nth-of-type(2) > div.m-cta:nth-of-type(2) > button.btn.btn-red",
-          "line": null
+          "line": 1258
         },
         {
-          "id": "hgs-245",
+          "id": "hgs-266",
           "tag": "h2",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5303,16 +5492,16 @@
           "line": null
         },
         {
-          "id": "hgs-246",
+          "id": "hgs-267",
           "tag": "button",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
           "text": "✕",
           "css": "div#m-winnebago > div.modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": null
+          "line": 1267
         },
         {
-          "id": "hgs-247",
+          "id": "hgs-268",
           "tag": "p",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5321,7 +5510,7 @@
           "line": null
         },
         {
-          "id": "hgs-248",
+          "id": "hgs-269",
           "tag": "li",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5330,7 +5519,7 @@
           "line": null
         },
         {
-          "id": "hgs-249",
+          "id": "hgs-270",
           "tag": "li",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5339,7 +5528,7 @@
           "line": null
         },
         {
-          "id": "hgs-250",
+          "id": "hgs-271",
           "tag": "li",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5348,7 +5537,7 @@
           "line": null
         },
         {
-          "id": "hgs-251",
+          "id": "hgs-272",
           "tag": "li",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
@@ -5357,34 +5546,34 @@
           "line": null
         },
         {
-          "id": "hgs-252",
+          "id": "hgs-273",
           "tag": "button",
           "section": "modal#m-winnebago",
           "section_slug": "m-winnebago",
           "text": "Register Now",
           "css": "div#m-winnebago > div.modal > div.mbody:nth-of-type(2) > div.m-cta:nth-of-type(2) > button.btn.btn-red",
-          "line": null
+          "line": 1283
         },
         {
-          "id": "hgs-253",
+          "id": "hgs-274",
           "tag": "h2",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
           "text": "Community Healing Group · Fairbanks, AK",
           "css": "h2#m-fmay-t",
-          "line": null
+          "line": 1369
         },
         {
-          "id": "hgs-254",
+          "id": "hgs-275",
           "tag": "button",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
           "text": "✕",
           "css": "div#m-fairbanks-may > div.modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": null
+          "line": 1395
         },
         {
-          "id": "hgs-255",
+          "id": "hgs-276",
           "tag": "p",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5393,7 +5582,7 @@
           "line": null
         },
         {
-          "id": "hgs-256",
+          "id": "hgs-277",
           "tag": "li",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5402,7 +5591,7 @@
           "line": null
         },
         {
-          "id": "hgs-257",
+          "id": "hgs-278",
           "tag": "li",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5411,7 +5600,7 @@
           "line": null
         },
         {
-          "id": "hgs-258",
+          "id": "hgs-279",
           "tag": "li",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5420,7 +5609,7 @@
           "line": null
         },
         {
-          "id": "hgs-259",
+          "id": "hgs-280",
           "tag": "li",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
@@ -5429,16 +5618,16 @@
           "line": null
         },
         {
-          "id": "hgs-260",
+          "id": "hgs-281",
           "tag": "button",
           "section": "modal#m-fairbanks-may",
           "section_slug": "m-fairbanks-may",
           "text": "Register Now",
           "css": "div#m-fairbanks-may > div.modal > div.mbody:nth-of-type(2) > div.m-cta:nth-of-type(2) > button.btn.btn-red",
-          "line": null
+          "line": 1411
         },
         {
-          "id": "hgs-261",
+          "id": "hgs-282",
           "tag": "h2",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
@@ -5447,79 +5636,466 @@
           "line": null
         },
         {
-          "id": "hgs-262",
+          "id": "hgs-283",
           "tag": "button",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
           "text": "✕",
           "css": "div#m-aug-online > div.modal > div.mhd:nth-of-type(1) > button.m-x",
-          "line": null
+          "line": 1420
         },
         {
-          "id": "hgs-263",
+          "id": "hgs-284",
           "tag": "p",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
-          "text": "A two-week online format using Zoom. Ideal for participants who cannot travel or prefer to join from home. The same full curriculum, the same community experience, the same scripture-grounded healing.",
+          "text": "A two-week online format using Zoom. Both weeks must be attended for completion. Ideal for participants who cannot travel or prefer to join from home — same full curriculum, same community experience, same scripture-grounded healing.",
           "css": "div#m-aug-online > div.modal > div.mbody:nth-of-type(2) > p",
           "line": null
         },
         {
-          "id": "hgs-264",
+          "id": "hgs-285",
           "tag": "li",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
-          "text": "Sessions held over two weeks via Zoom video call",
+          "text": "Week 1: Aug 5–7 · 12:00 PM–3:00 PM Alaska Standard Time",
           "css": "div#m-aug-online > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(1)",
           "line": null
         },
         {
-          "id": "hgs-265",
+          "id": "hgs-286",
           "tag": "li",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
-          "text": "Technology support available for those who need it",
+          "text": "Week 2: Aug 12–14 · 12:00 PM–3:00 PM Alaska Standard Time",
           "css": "div#m-aug-online > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(2)",
           "line": null
         },
         {
-          "id": "hgs-266",
+          "id": "hgs-287",
           "tag": "li",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
-          "text": "Same 6 core sessions, same 390+ scriptures",
+          "text": "Technology support available for those who need it",
           "css": "div#m-aug-online > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(3)",
           "line": null
         },
         {
-          "id": "hgs-267",
+          "id": "hgs-288",
           "tag": "li",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
-          "text": "You will receive a Zoom link and schedule upon registration",
+          "text": "Same 6 core sessions, same 390+ scriptures",
           "css": "div#m-aug-online > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(4)",
           "line": null
         },
         {
-          "id": "hgs-268",
+          "id": "hgs-289",
           "tag": "li",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
-          "text": "Open to all · Ages 18+ · No Cost to Participants",
+          "text": "A Zoom link will be emailed directly to all participants after registration",
           "css": "div#m-aug-online > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(5)",
           "line": null
         },
         {
-          "id": "hgs-269",
+          "id": "hgs-290",
+          "tag": "li",
+          "section": "modal#m-aug-online",
+          "section_slug": "m-aug-online",
+          "text": "Open to all · Ages 18+ · No Cost to Participants",
+          "css": "div#m-aug-online > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(6)",
+          "line": null
+        },
+        {
+          "id": "hgs-291",
           "tag": "button",
           "section": "modal#m-aug-online",
           "section_slug": "m-aug-online",
           "text": "Register Now",
           "css": "div#m-aug-online > div.modal > div.mbody:nth-of-type(2) > div.m-cta:nth-of-type(2) > button.btn.btn-red",
+          "line": 1437
+        },
+        {
+          "id": "hgs-292",
+          "tag": "h2",
+          "section": "modal#m-lame-deer-may",
+          "section_slug": "m-lame-deer-may",
+          "text": "Community Healing Group · Lame Deer, MT",
+          "css": "h2#m-lame-deer-t",
           "line": null
         },
         {
-          "id": "hgs-270",
+          "id": "hgs-293",
+          "tag": "button",
+          "section": "modal#m-lame-deer-may",
+          "section_slug": "m-lame-deer-may",
+          "text": "✕",
+          "css": "div#m-lame-deer-may > div.modal > div.mhd:nth-of-type(1) > button.m-x",
+          "line": 1446
+        },
+        {
+          "id": "hgs-294",
+          "tag": "p",
+          "section": "modal#m-lame-deer-may",
+          "section_slug": "m-lame-deer-may",
+          "text": "Hope Pentecostal Church (church by the bridge) 211 Elkhornscraper, Lame Deer, MT",
+          "css": "div#m-lame-deer-may > div.modal > div.mbody:nth-of-type(2) > p",
+          "line": null
+        },
+        {
+          "id": "hgs-295",
+          "tag": "li",
+          "section": "modal#m-lame-deer-may",
+          "section_slug": "m-lame-deer-may",
+          "text": "Saturday May 16: 9:00 AM – 12:00 PM Mountain Time",
+          "css": "div#m-lame-deer-may > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(1)",
+          "line": null
+        },
+        {
+          "id": "hgs-296",
+          "tag": "li",
+          "section": "modal#m-lame-deer-may",
+          "section_slug": "m-lame-deer-may",
+          "text": "Must attend the full session to complete the Healing Group",
+          "css": "div#m-lame-deer-may > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(2)",
+          "line": null
+        },
+        {
+          "id": "hgs-297",
+          "tag": "li",
+          "section": "modal#m-lame-deer-may",
+          "section_slug": "m-lame-deer-may",
+          "text": "Lunch provided — bring your own if you have dietary needs",
+          "css": "div#m-lame-deer-may > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(3)",
+          "line": null
+        },
+        {
+          "id": "hgs-298",
+          "tag": "li",
+          "section": "modal#m-lame-deer-may",
+          "section_slug": "m-lame-deer-may",
+          "text": "Open to all community members · Ages 18+ · No Cost to Participants",
+          "css": "div#m-lame-deer-may > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(4)",
+          "line": null
+        },
+        {
+          "id": "hgs-299",
+          "tag": "button",
+          "section": "modal#m-lame-deer-may",
+          "section_slug": "m-lame-deer-may",
+          "text": "Register Now",
+          "css": "div#m-lame-deer-may > div.modal > div.mbody:nth-of-type(2) > div.m-cta:nth-of-type(2) > button.btn.btn-red",
+          "line": null
+        },
+        {
+          "id": "hgs-300",
+          "tag": "h2",
+          "section": "modal#m-ashland-may",
+          "section_slug": "m-ashland-may",
+          "text": "Community Healing Group · Ashland, MT",
+          "css": "h2#m-ashland-t",
+          "line": null
+        },
+        {
+          "id": "hgs-301",
+          "tag": "button",
+          "section": "modal#m-ashland-may",
+          "section_slug": "m-ashland-may",
+          "text": "✕",
+          "css": "div#m-ashland-may > div.modal > div.mhd:nth-of-type(1) > button.m-x",
+          "line": null
+        },
+        {
+          "id": "hgs-302",
+          "tag": "p",
+          "section": "modal#m-ashland-may",
+          "section_slug": "m-ashland-may",
+          "text": "Heaven Sent Ministries at Ashland Christian Fellowship Church 43 Old Mission Road, Ashland, MT",
+          "css": "div#m-ashland-may > div.modal > div.mbody:nth-of-type(2) > p",
+          "line": null
+        },
+        {
+          "id": "hgs-303",
+          "tag": "li",
+          "section": "modal#m-ashland-may",
+          "section_slug": "m-ashland-may",
+          "text": "Friday May 22: 9:00 AM – 12:00 PM Mountain Time",
+          "css": "div#m-ashland-may > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(1)",
+          "line": null
+        },
+        {
+          "id": "hgs-304",
+          "tag": "li",
+          "section": "modal#m-ashland-may",
+          "section_slug": "m-ashland-may",
+          "text": "Must attend the full session to complete the Healing Group",
+          "css": "div#m-ashland-may > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(2)",
+          "line": null
+        },
+        {
+          "id": "hgs-305",
+          "tag": "li",
+          "section": "modal#m-ashland-may",
+          "section_slug": "m-ashland-may",
+          "text": "Lunch provided — bring your own if you have dietary needs",
+          "css": "div#m-ashland-may > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(3)",
+          "line": null
+        },
+        {
+          "id": "hgs-306",
+          "tag": "li",
+          "section": "modal#m-ashland-may",
+          "section_slug": "m-ashland-may",
+          "text": "Open to all community members · Ages 18+ · No Cost to Participants",
+          "css": "div#m-ashland-may > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(4)",
+          "line": null
+        },
+        {
+          "id": "hgs-307",
+          "tag": "button",
+          "section": "modal#m-ashland-may",
+          "section_slug": "m-ashland-may",
+          "text": "Register Now",
+          "css": "div#m-ashland-may > div.modal > div.mbody:nth-of-type(2) > div.m-cta:nth-of-type(2) > button.btn.btn-red",
+          "line": null
+        },
+        {
+          "id": "hgs-308",
+          "tag": "h2",
+          "section": "modal#m-fairbanks-sep",
+          "section_slug": "m-fairbanks-sep",
+          "text": "Community Healing Group · Fairbanks, AK",
+          "css": "h2#m-fsep-t",
+          "line": null
+        },
+        {
+          "id": "hgs-309",
+          "tag": "button",
+          "section": "modal#m-fairbanks-sep",
+          "section_slug": "m-fairbanks-sep",
+          "text": "✕",
+          "css": "div#m-fairbanks-sep > div.modal > div.mhd:nth-of-type(1) > button.m-x",
+          "line": null
+        },
+        {
+          "id": "hgs-310",
+          "tag": "p",
+          "section": "modal#m-fairbanks-sep",
+          "section_slug": "m-fairbanks-sep",
+          "text": "Zion Lutheran Church , Fairbanks, Alaska",
+          "css": "div#m-fairbanks-sep > div.modal > div.mbody:nth-of-type(2) > p",
+          "line": null
+        },
+        {
+          "id": "hgs-311",
+          "tag": "li",
+          "section": "modal#m-fairbanks-sep",
+          "section_slug": "m-fairbanks-sep",
+          "text": "Wednesday Sept 16: 12:00 PM – 4:30 PM (includes lunch)",
+          "css": "div#m-fairbanks-sep > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(1)",
+          "line": null
+        },
+        {
+          "id": "hgs-312",
+          "tag": "li",
+          "section": "modal#m-fairbanks-sep",
+          "section_slug": "m-fairbanks-sep",
+          "text": "Thursday Sept 17: 9:00 AM – 4:30 PM (includes lunch)",
+          "css": "div#m-fairbanks-sep > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(2)",
+          "line": null
+        },
+        {
+          "id": "hgs-313",
+          "tag": "li",
+          "section": "modal#m-fairbanks-sep",
+          "section_slug": "m-fairbanks-sep",
+          "text": "Friday Sept 18: 9:00 AM – 1:00 PM (includes lunch)",
+          "css": "div#m-fairbanks-sep > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(3)",
+          "line": null
+        },
+        {
+          "id": "hgs-314",
+          "tag": "li",
+          "section": "modal#m-fairbanks-sep",
+          "section_slug": "m-fairbanks-sep",
+          "text": "All times Alaska Standard Time · must attend all sessions to complete",
+          "css": "div#m-fairbanks-sep > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(4)",
+          "line": null
+        },
+        {
+          "id": "hgs-315",
+          "tag": "li",
+          "section": "modal#m-fairbanks-sep",
+          "section_slug": "m-fairbanks-sep",
+          "text": "Lunch provided — bring your own if you have dietary needs",
+          "css": "div#m-fairbanks-sep > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(5)",
+          "line": null
+        },
+        {
+          "id": "hgs-316",
+          "tag": "button",
+          "section": "modal#m-fairbanks-sep",
+          "section_slug": "m-fairbanks-sep",
+          "text": "Register Now",
+          "css": "div#m-fairbanks-sep > div.modal > div.mbody:nth-of-type(2) > div.m-cta:nth-of-type(2) > button.btn.btn-red",
+          "line": null
+        },
+        {
+          "id": "hgs-317",
+          "tag": "h2",
+          "section": "modal#m-anchorage-oct",
+          "section_slug": "m-anchorage-oct",
+          "text": "Community Healing Group · Anchorage, AK",
+          "css": "h2#m-aoct-t",
+          "line": null
+        },
+        {
+          "id": "hgs-318",
+          "tag": "button",
+          "section": "modal#m-anchorage-oct",
+          "section_slug": "m-anchorage-oct",
+          "text": "✕",
+          "css": "div#m-anchorage-oct > div.modal > div.mhd:nth-of-type(1) > button.m-x",
+          "line": null
+        },
+        {
+          "id": "hgs-319",
+          "tag": "p",
+          "section": "modal#m-anchorage-oct",
+          "section_slug": "m-anchorage-oct",
+          "text": "Anchorage Lutheran Church 1420 N Street, Anchorage, AK 99501 Use West 15th Street parking for easier access.",
+          "css": "div#m-anchorage-oct > div.modal > div.mbody:nth-of-type(2) > p",
+          "line": null
+        },
+        {
+          "id": "hgs-320",
+          "tag": "li",
+          "section": "modal#m-anchorage-oct",
+          "section_slug": "m-anchorage-oct",
+          "text": "Friday Oct 9: 9:00 AM – 4:30 PM (includes lunch)",
+          "css": "div#m-anchorage-oct > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(1)",
+          "line": null
+        },
+        {
+          "id": "hgs-321",
+          "tag": "li",
+          "section": "modal#m-anchorage-oct",
+          "section_slug": "m-anchorage-oct",
+          "text": "Saturday Oct 10: 9:00 AM – 4:30 PM (includes lunch)",
+          "css": "div#m-anchorage-oct > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(2)",
+          "line": null
+        },
+        {
+          "id": "hgs-322",
+          "tag": "li",
+          "section": "modal#m-anchorage-oct",
+          "section_slug": "m-anchorage-oct",
+          "text": "All times Alaska Standard Time · must attend all sessions to complete",
+          "css": "div#m-anchorage-oct > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(3)",
+          "line": null
+        },
+        {
+          "id": "hgs-323",
+          "tag": "li",
+          "section": "modal#m-anchorage-oct",
+          "section_slug": "m-anchorage-oct",
+          "text": "Lunch provided — bring your own if you have dietary needs",
+          "css": "div#m-anchorage-oct > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(4)",
+          "line": null
+        },
+        {
+          "id": "hgs-324",
+          "tag": "button",
+          "section": "modal#m-anchorage-oct",
+          "section_slug": "m-anchorage-oct",
+          "text": "Register Now",
+          "css": "div#m-anchorage-oct > div.modal > div.mbody:nth-of-type(2) > div.m-cta:nth-of-type(2) > button.btn.btn-red",
+          "line": null
+        },
+        {
+          "id": "hgs-325",
+          "tag": "h2",
+          "section": "modal#m-fairbanks-nov",
+          "section_slug": "m-fairbanks-nov",
+          "text": "Community Healing Group · Fairbanks, AK",
+          "css": "h2#m-fnov-t",
+          "line": null
+        },
+        {
+          "id": "hgs-326",
+          "tag": "button",
+          "section": "modal#m-fairbanks-nov",
+          "section_slug": "m-fairbanks-nov",
+          "text": "✕",
+          "css": "div#m-fairbanks-nov > div.modal > div.mhd:nth-of-type(1) > button.m-x",
+          "line": null
+        },
+        {
+          "id": "hgs-327",
+          "tag": "p",
+          "section": "modal#m-fairbanks-nov",
+          "section_slug": "m-fairbanks-nov",
+          "text": "Zion Lutheran Church , Fairbanks, Alaska",
+          "css": "div#m-fairbanks-nov > div.modal > div.mbody:nth-of-type(2) > p",
+          "line": null
+        },
+        {
+          "id": "hgs-328",
+          "tag": "li",
+          "section": "modal#m-fairbanks-nov",
+          "section_slug": "m-fairbanks-nov",
+          "text": "Wednesday Nov 4: 12:00 PM – 4:30 PM (includes lunch)",
+          "css": "div#m-fairbanks-nov > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(1)",
+          "line": null
+        },
+        {
+          "id": "hgs-329",
+          "tag": "li",
+          "section": "modal#m-fairbanks-nov",
+          "section_slug": "m-fairbanks-nov",
+          "text": "Thursday Nov 5: 9:00 AM – 4:30 PM (includes lunch)",
+          "css": "div#m-fairbanks-nov > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(2)",
+          "line": null
+        },
+        {
+          "id": "hgs-330",
+          "tag": "li",
+          "section": "modal#m-fairbanks-nov",
+          "section_slug": "m-fairbanks-nov",
+          "text": "Friday Nov 6: 9:00 AM – 1:00 PM (includes lunch)",
+          "css": "div#m-fairbanks-nov > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(3)",
+          "line": null
+        },
+        {
+          "id": "hgs-331",
+          "tag": "li",
+          "section": "modal#m-fairbanks-nov",
+          "section_slug": "m-fairbanks-nov",
+          "text": "All times Alaska Standard Time · must attend all sessions to complete",
+          "css": "div#m-fairbanks-nov > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(4)",
+          "line": null
+        },
+        {
+          "id": "hgs-332",
+          "tag": "li",
+          "section": "modal#m-fairbanks-nov",
+          "section_slug": "m-fairbanks-nov",
+          "text": "Lunch provided — bring your own if you have dietary needs",
+          "css": "div#m-fairbanks-nov > div.modal > div.mbody:nth-of-type(2) > ul > li:nth-of-type(5)",
+          "line": null
+        },
+        {
+          "id": "hgs-333",
+          "tag": "button",
+          "section": "modal#m-fairbanks-nov",
+          "section_slug": "m-fairbanks-nov",
+          "text": "Register Now",
+          "css": "div#m-fairbanks-nov > div.modal > div.mbody:nth-of-type(2) > div.m-cta:nth-of-type(2) > button.btn.btn-red",
+          "line": null
+        },
+        {
+          "id": "hgs-334",
           "tag": "h2",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5528,7 +6104,7 @@
           "line": null
         },
         {
-          "id": "hgs-271",
+          "id": "hgs-335",
           "tag": "button",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5537,16 +6113,16 @@
           "line": null
         },
         {
-          "id": "hgs-272",
+          "id": "hgs-336",
           "tag": "p",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
           "text": "Over 16 hours across 2–3 days, six sessions walk participants through scripture and personal reflection. Each builds on the last, supported by 390+ scriptures from the Restoring Hope Bible.",
           "css": "div#m-sessions > div.modal > div.mbody:nth-of-type(2) > p:nth-of-type(1)",
-          "line": null
+          "line": 1448
         },
         {
-          "id": "hgs-273",
+          "id": "hgs-337",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5555,7 +6131,7 @@
           "line": null
         },
         {
-          "id": "hgs-274",
+          "id": "hgs-338",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5564,7 +6140,7 @@
           "line": null
         },
         {
-          "id": "hgs-275",
+          "id": "hgs-339",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5573,7 +6149,7 @@
           "line": null
         },
         {
-          "id": "hgs-276",
+          "id": "hgs-340",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5582,7 +6158,7 @@
           "line": null
         },
         {
-          "id": "hgs-277",
+          "id": "hgs-341",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5591,7 +6167,7 @@
           "line": null
         },
         {
-          "id": "hgs-278",
+          "id": "hgs-342",
           "tag": "li",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
@@ -5600,22 +6176,22 @@
           "line": null
         },
         {
-          "id": "hgs-279",
+          "id": "hgs-343",
           "tag": "p",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
           "text": "Healing is self-directed. You share only what you're comfortable sharing, and go only where you're ready to go. The Holy Spirit does the heavy lifting.",
           "css": "div#m-sessions > div.modal > div.mbody:nth-of-type(2) > p:nth-of-type(2)",
-          "line": null
+          "line": 1457
         },
         {
-          "id": "hgs-280",
+          "id": "hgs-344",
           "tag": "a",
           "section": "modal#m-sessions",
           "section_slug": "m-sessions",
           "text": "Find a Session Near You",
           "css": "div#m-sessions > div.modal > div.mbody:nth-of-type(2) > div.m-cta > a.btn.btn-red",
-          "line": null
+          "line": 1459
         }
       ]
     },

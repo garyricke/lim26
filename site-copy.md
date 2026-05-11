@@ -609,289 +609,373 @@ _File: `healing-groups.html`_
 - `[hgs-047]` **Button** — Register Now
 - `[hgs-048]` **Button** — Details
 - `[hgs-049]` **H3** — Community Healing Group
-- `[hgs-050]` **Paragraph** — In-person healing group in Fairbanks. Starts Wednesday at noon with lunch, continues Thursday and Friday 9 AM–4:30 PM. All community members welcome.
+- `[hgs-050]` **Paragraph** — Hope Pentecostal Church (church by the bridge), 211 Elkhornscraper. Saturday 9 AM–12 PM Mountain Time. Lunch provided — bring your own if you have dietary needs.
 - `[hgs-051]` **Button** — Register Now
 - `[hgs-052]` **Button** — Details
-- `[hgs-053]` **H3** — Online Healing Group
-- `[hgs-054]` **Paragraph** — A two-week online format. Ideal if you can't travel or prefer to participate from home. Same curriculum, same community, same scripture-grounded experience.
+- `[hgs-053]` **H3** — Community Healing Group
+- `[hgs-054]` **Paragraph** — Heaven Sent Ministries at Ashland Christian Fellowship Church, 43 Old Mission Road. Friday 9 AM–12 PM Mountain Time. Lunch provided — bring your own if you have dietary needs.
 - `[hgs-055]` **Button** — Register Now
 - `[hgs-056]` **Button** — Details
 - `[hgs-057]` **H3** — Community Healing Group
-- `[hgs-058]` **Paragraph** — Fall session in Fairbanks. Exact dates to be confirmed. Register your interest and we'll contact you as soon as dates are set.
-- `[hgs-059]` **Button** — Register Interest
-- `[hgs-060]` **H3** — Facilitator Equipping Training
-- `[hgs-061]` **Paragraph** — Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.
-- `[hgs-062]` **Button** — Register Interest
-- `[hgs-063]` **Paragraph** — Additional sessions planned for Anchorage, AK (October–November 2026). Contact us to be notified.
-- `[hgs-064]` **Button** — Contact us
+- `[hgs-058]` **Paragraph** — In-person healing group in Fairbanks. Starts Wednesday at noon with lunch, continues Thursday and Friday 9 AM–4:30 PM. All community members welcome.
+- `[hgs-059]` **Button** — Register Now
+- `[hgs-060]` **Button** — Details
+- `[hgs-061]` **H3** — Online Healing Group
+- `[hgs-062]` **Paragraph** — Two weeks via Zoom — both weeks must be attended for completion. Week 1: Aug 5–7 · Week 2: Aug 12–14, each 12:00 PM–3:00 PM Alaska Standard Time. Same curriculum, same scripture-grounded experience.
+- `[hgs-063]` **Button** — Register Now
+- `[hgs-064]` **Button** — Details
+- `[hgs-065]` **H3** — Community Healing Group
+- `[hgs-066]` **Paragraph** — Wed Sept 16 noon–4:30 PM (lunch), Thu Sept 17 9 AM–4:30 PM, Fri Sept 18 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.
+- `[hgs-067]` **Button** — Register Now
+- `[hgs-068]` **Button** — Details
+- `[hgs-069]` **H3** — Community Healing Group
+- `[hgs-070]` **Paragraph** — 1420 N Street, Anchorage, AK 99501 (use the West 15th Street parking for easier access). Both days 9 AM–4:30 PM Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.
+- `[hgs-071]` **Button** — Register Now
+- `[hgs-072]` **Button** — Details
+- `[hgs-073]` **H3** — Facilitator Equipping Training
+- `[hgs-074]` **Paragraph** — Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others.
+- `[hgs-075]` **Button** — Register Interest
+- `[hgs-076]` **H3** — Community Healing Group
+- `[hgs-077]` **Paragraph** — Wed Nov 4 noon–4:30 PM (lunch), Thu Nov 5 9 AM–4:30 PM, Fri Nov 6 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.
+- `[hgs-078]` **Button** — Register Now
+- `[hgs-079]` **Button** — Details
 
 
 ### What To Expect In Each Session
 
-- `[hgs-065]` **H2** — The Six Core Sessions
-- `[hgs-066]` **Paragraph** — Each session builds on the last. Over 390 scriptures are woven throughout, using the Restoring Hope Bible. You go only where you're ready to go.
-- `[hgs-067]` **Button** — 1 What Is a Wound of the Heart?
-- `[hgs-068]` **Paragraph** — Heart wounds can begin in childhood, young adulthood, or today. This session helps participants name and understand their specific wounds — whether from abuse, loss, historical trauma, or grief. Naming the wound is the first step toward healing it.
-- `[hgs-069]` **Button** — 2 What Can Help Our Heart Wounds Heal?
-- `[hgs-070]` **Paragraph** — Practical tools for the healing journey — exercises that move understanding from head to heart. Participants discover that healing is a process supported by community, prayer, and scripture. This session also addresses how stress and trauma are held in the body.
-- `[hgs-071]` **Button** — 3 What Happens When Someone Is Grieving?
-- `[hgs-072]` **Paragraph** — A compassionate look at what grief actually looks like — and where people get stuck. Understanding the grief journey is often cathartic and transforming. Participants learn they don't have to stay stuck, and that tears are cleansing, not weakness.
-- `[hgs-073]` **Button** — 4 If God Loves Us, Why Do We Suffer?
-- `[hgs-074]` **Paragraph** — The most honest question we carry. Scripture reveals that God is present in suffering — not absent from it. Participants discover that pain is not a sign of abandonment. We learn that Jesus wept — and that changes everything.
-- `[hgs-075]` **Button** — 5 Bringing Our Pain to the Cross & Forgiving Others
-- `[hgs-076]` **Paragraph** — One of the most powerful sessions. Participants are gently led through releasing pain and beginning the journey of forgiving others. No pressure, no timeline. You go only where you're ready. The community around you holds space with grace and love.
-- `[hgs-077]` **Button** — 6 Looking Back, Looking Forward — Closing with Hope
-- `[hgs-078]` **Paragraph** — The closing session brings everything together — looking back at the healing journey, looking forward with hope. Participants also discover how they can share this with others. The healing group is the beginning, not the end.
+- `[hgs-080]` **H2** — The Six Core Sessions
+- `[hgs-081]` **Paragraph** — Each session builds on the last. Over 390 scriptures are woven throughout, using the Restoring Hope Bible. You go only where you're ready to go.
+- `[hgs-082]` **Button** — 1 What Is a Wound of the Heart?
+- `[hgs-083]` **Paragraph** — Heart wounds can begin in childhood, young adulthood, or today. This session helps participants name and understand their specific wounds — whether from abuse, loss, historical trauma, or grief. Naming the wound is the first step toward healing it.
+- `[hgs-084]` **Button** — 2 What Can Help Our Heart Wounds Heal?
+- `[hgs-085]` **Paragraph** — Practical tools for the healing journey — exercises that move understanding from head to heart. Participants discover that healing is a process supported by community, prayer, and scripture. This session also addresses how stress and trauma are held in the body.
+- `[hgs-086]` **Button** — 3 What Happens When Someone Is Grieving?
+- `[hgs-087]` **Paragraph** — A compassionate look at what grief actually looks like — and where people get stuck. Understanding the grief journey is often cathartic and transforming. Participants learn they don't have to stay stuck, and that tears are cleansing, not weakness.
+- `[hgs-088]` **Button** — 4 If God Loves Us, Why Do We Suffer?
+- `[hgs-089]` **Paragraph** — The most honest question we carry. Scripture reveals that God is present in suffering — not absent from it. Participants discover that pain is not a sign of abandonment. We learn that Jesus wept — and that changes everything.
+- `[hgs-090]` **Button** — 5 Bringing Our Pain to the Cross & Forgiving Others
+- `[hgs-091]` **Paragraph** — One of the most powerful sessions. Participants are gently led through releasing pain and beginning the journey of forgiving others. No pressure, no timeline. You go only where you're ready. The community around you holds space with grace and love.
+- `[hgs-092]` **Button** — 6 Looking Back, Looking Forward — Closing with Hope
+- `[hgs-093]` **Paragraph** — The closing session brings everything together — looking back at the healing journey, looking forward with hope. Participants also discover how they can share this with others. The healing group is the beginning, not the end.
 
 
 ### Become A Facilitator
 
-- `[hgs-079]` **H2** — Become a Facilitator
-- `[hgs-080]` **Paragraph** — After experiencing healing yourself, you may feel called to lead others through it. Facilitator training equips you to run healing groups in your own community — multiplying the impact across generations.
-- `[hgs-081]` **Quote** — "Once I got my ego out of the way and understood it's not my responsibility to change someone — I just follow the guide, like a tour guide — I started enjoying it. It's the Holy Spirit doing all the work." — Roberta, Trained Facilitator
-- `[hgs-082]` **Paragraph** — You don't need to be a Bible scholar or a pastor. You need a heart for people and a willingness to follow the facilitator guide — which is detailed, well-structured, and easy to use.
-- `[hgs-083]` **List item** — 1 Attend a healing group as a participant — experience it firsthand
-- `[hgs-084]` **List item** — 2 Complete the facilitator equipping training (often combined with a healing group session)
-- `[hgs-085]` **List item** — 3 Co-facilitate a healing group alongside an experienced facilitator
-- `[hgs-086]` **List item** — 4 Lead your own community healing group — supported by LIM's team
-- `[hgs-087]` **Button (link)** — See Equipping Training Dates
-- `[hgs-088]` **Button** — Express Interest
+- `[hgs-094]` **H2** — Become a Facilitator
+- `[hgs-095]` **Paragraph** — After experiencing healing yourself, you may feel called to lead others through it. Facilitator training equips you to run healing groups in your own community — multiplying the impact across generations.
+- `[hgs-096]` **Quote** — "Once I got my ego out of the way and understood it's not my responsibility to change someone — I just follow the guide, like a tour guide — I started enjoying it. It's the Holy Spirit doing all the work." — Roberta, Trained Facilitator
+- `[hgs-097]` **Paragraph** — You don't need to be a Bible scholar or a pastor. You need a heart for people and a willingness to follow the facilitator guide — which is detailed, well-structured, and easy to use.
+- `[hgs-098]` **List item** — 1 Attend a healing group as a participant — experience it firsthand
+- `[hgs-099]` **List item** — 2 Complete the facilitator equipping training (often combined with a healing group session)
+- `[hgs-100]` **List item** — 3 Co-facilitate a healing group alongside an experienced facilitator
+- `[hgs-101]` **List item** — 4 Lead your own community healing group — supported by LIM's team
+- `[hgs-102]` **Button (link)** — See Equipping Training Dates
+- `[hgs-103]` **Button** — Express Interest
 
 
 ### Frequently Asked Questions
 
-- `[hgs-089]` **H2** — Frequently Asked Questions
-- `[hgs-090]` **Button** — Q Do I have to be Christian or Lutheran to attend?
-- `[hgs-091]` **Paragraph** — No. All are welcome — regardless of faith, religion, or background. You don't need to prescribe or ascribe to any specific religion to attend. The program is grounded in biblical scripture, but you come as you are and take what is meaningful to you.
-- `[hgs-092]` **Button** — Q Is it really free? What does the cost cover?
-- `[hgs-093]` **Paragraph** — Yes, completely free to attend. LIM covers all curriculum costs, and in-person sessions include lunch each day. Travel and accommodation are not included, but contact us if cost is a barrier — we want to make this accessible to everyone.
-- `[hgs-094]` **Button** — Q What if I registered but can't make it?
-- `[hgs-095]` **Paragraph** — Life happens — we understand. Please let us know as soon as possible so we can open your spot for someone on the waitlist and transfer your registration to a future session. We run multiple healing groups throughout the year, so there's always another opportunity.
-- `[hgs-096]` **Button** — Cancel My Registration
-- `[hgs-097]` **Button** — Q Do I have to share personal things in the group?
-- `[hgs-098]` **Paragraph** — No. The healing journey is completely self-directed. You share only what you are comfortable sharing, and you go only where you're ready to go. There is no pressure and no force. The group agrees to confidentiality guidelines at the start of every session.
-- `[hgs-099]` **Button** — Q Must I attend all sessions?
-- `[hgs-100]` **Paragraph** — Yes — the sessions build on each other, and the connections you form with others are an important part of the experience. If you miss a session, contact us; we'll do our best to help you catch up or transfer to a future group where you can attend fully.
-- `[hgs-101]` **Button** — Q What is a Prayer Warrior?
-- `[hgs-102]` **Paragraph** — A Prayer Warrior is someone who has been through the healing group process and supports others through prayer — before, during, and after every session. They pray for every participant by name, including those who wanted to come but couldn't. They're also available for private conversation if someone needs it. Every healing group is fully prayed up.
-- `[hgs-103]` **Button** — Q Can we host a healing group at our church or community?
-- `[hgs-104]` **Paragraph** — Absolutely. LIM partners with churches, community organizations, and tribal entities to bring healing groups to new locations. Contact us to discuss hosting a group in your community. We provide curriculum, training, and ongoing support.
+- `[hgs-104]` **H2** — Frequently Asked Questions
+- `[hgs-105]` **Button** — Q Do I have to be Christian or Lutheran to attend?
+- `[hgs-106]` **Paragraph** — No. All are welcome — regardless of faith, religion, or background. You don't need to prescribe or ascribe to any specific religion to attend. The program is grounded in biblical scripture, but you come as you are and take what is meaningful to you.
+- `[hgs-107]` **Button** — Q Is it really free? What does the cost cover?
+- `[hgs-108]` **Paragraph** — Yes, completely free to attend. LIM covers all curriculum costs, and in-person sessions include lunch each day. Travel and accommodation are not included, but contact us if cost is a barrier — we want to make this accessible to everyone.
+- `[hgs-109]` **Button** — Q What if I registered but can't make it?
+- `[hgs-110]` **Paragraph** — Life happens — we understand. Please let us know as soon as possible so we can open your spot for someone on the waitlist and transfer your registration to a future session. We run multiple healing groups throughout the year, so there's always another opportunity.
+- `[hgs-111]` **Button** — Cancel My Registration
+- `[hgs-112]` **Button** — Q Do I have to share personal things in the group?
+- `[hgs-113]` **Paragraph** — No. The healing journey is completely self-directed. You share only what you are comfortable sharing, and you go only where you're ready to go. There is no pressure and no force. The group agrees to confidentiality guidelines at the start of every session.
+- `[hgs-114]` **Button** — Q Must I attend all sessions?
+- `[hgs-115]` **Paragraph** — Yes — the sessions build on each other, and the connections you form with others are an important part of the experience. If you miss a session, contact us; we'll do our best to help you catch up or transfer to a future group where you can attend fully.
+- `[hgs-116]` **Button** — Q What is a Prayer Warrior?
+- `[hgs-117]` **Paragraph** — A Prayer Warrior is someone who has been through the healing group process and supports others through prayer — before, during, and after every session. They pray for every participant by name, including those who wanted to come but couldn't. They're also available for private conversation if someone needs it. Every healing group is fully prayed up.
+- `[hgs-118]` **Button** — Q Can we host a healing group at our church or community?
+- `[hgs-119]` **Paragraph** — Absolutely. LIM partners with churches, community organizations, and tribal entities to bring healing groups to new locations. Contact us to discuss hosting a group in your community. We provide curriculum, training, and ongoing support.
 
 
 ### Register Or Contact Us
 
-- `[hgs-105]` **H2** — Ready to Register?
-- `[hgs-106]` **Paragraph** — Questions? Want to talk to someone before registering? We're here. Every warm, gentle invitation matters — and we don't want to miss anyone.
-- `[hgs-107]` **H3** — Register / Get More Information
-- `[hgs-108]` **Label** — First Name *
-- `[hgs-109]` **Form placeholder** — Your first name
-- `[hgs-110]` **Label** — Last Name *
-- `[hgs-111]` **Form placeholder** — Your last name
-- `[hgs-112]` **Label** — Email Address *
-- `[hgs-113]` **Form placeholder** — your@email.com
-- `[hgs-114]` **Label** — Phone Number
-- `[hgs-115]` **Form placeholder** — (optional)
-- `[hgs-116]` **Label** — Which Session Are You Interested In? *
-- `[hgs-117]` **Option** — — Select a session —
-- `[hgs-118]` **Option** — March 13–14 · Military · Fairbanks, AK
-- `[hgs-119]` **Option** — April 14–17 · Healing + Equipping · Winnebago, NE
-- `[hgs-120]` **Option** — May 27–29 · Community Healing · Fairbanks, AK
-- `[hgs-121]` **Option** — August 5–14 · Online
-- `[hgs-122]` **Option** — September 2026 · Fairbanks, AK (dates TBC)
-- `[hgs-123]` **Option** — Join waitlist for March Online (Currently Full)
-- `[hgs-124]` **Option** — Facilitator Training Interest
-- `[hgs-125]` **Option** — Contact me about hosting a group
-- `[hgs-126]` **Label** — Anything you'd like us to know?
-- `[hgs-127]` **Form placeholder** — Questions, accessibility needs, or anything else...
-- `[hgs-128]` **Paragraph** — Your information is confidential. We will only use it to contact you about healing group registration. You may opt out at any time.
-- `[hgs-129]` **Button** — Submit Registration
+- `[hgs-120]` **H2** — Ready to Register?
+- `[hgs-121]` **Paragraph** — Questions? Want to talk to someone before registering? We're here. Every warm, gentle invitation matters — and we don't want to miss anyone.
+- `[hgs-122]` **H3** — Register / Get More Information
+- `[hgs-123]` **Label** — First Name *
+- `[hgs-124]` **Form placeholder** — Your first name
+- `[hgs-125]` **Label** — Last Name *
+- `[hgs-126]` **Form placeholder** — Your last name
+- `[hgs-127]` **Label** — Email Address *
+- `[hgs-128]` **Form placeholder** — your@email.com
+- `[hgs-129]` **Label** — Phone Number
+- `[hgs-130]` **Form placeholder** — (optional)
+- `[hgs-131]` **Label** — Which Session Are You Interested In? *
+- `[hgs-132]` **Option** — — Select a session —
+- `[hgs-133]` **Option** — May 16 · Community Healing · Lame Deer, MT
+- `[hgs-134]` **Option** — May 22 · Community Healing · Ashland, MT
+- `[hgs-135]` **Option** — May 27–29 · Community Healing · Fairbanks, AK
+- `[hgs-136]` **Option** — August 5–14 · Online · Zoom
+- `[hgs-137]` **Option** — Sept 16–18 · Community Healing · Fairbanks, AK
+- `[hgs-138]` **Option** — Oct 9–10 · Community Healing · Anchorage, AK
+- `[hgs-139]` **Option** — Nov 4–6 · Community Healing · Fairbanks, AK
+- `[hgs-140]` **Option** — Join waitlist for March Online (Currently Full)
+- `[hgs-141]` **Option** — Facilitator Training Interest
+- `[hgs-142]` **Option** — Contact me about hosting a group
+- `[hgs-143]` **Label** — Anything you'd like us to know?
+- `[hgs-144]` **Form placeholder** — Questions, accessibility needs, or anything else...
+- `[hgs-145]` **Paragraph** — Your information is confidential. We will only use it to contact you about healing group registration. You may opt out at any time.
+- `[hgs-146]` **Button** — Submit Registration
 
 
 ### Footer — Footer
 
-- `[hgs-130]` **Paragraph** — A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
-- `[hgs-131]` **H4** — Healing Groups
-- `[hgs-132]` **Link** — About the Program
-- `[hgs-133]` **Link** — Find a Group
-- `[hgs-134]` **Link** — Become a Facilitator
-- `[hgs-135]` **Link** — FAQ
-- `[hgs-136]` **H4** — Ministry
-- `[hgs-137]` **Link** — Home
-- `[hgs-138]` **Link** — Three Pillars
-- `[hgs-139]` **Link** — Haskell LIGHT
-- `[hgs-140]` **Link** — Donate
-- `[hgs-141]` **H4** — Contact
-- `[hgs-142]` **Link** — (262) 439-5663
-- `[hgs-143]` **Link** — (262) 783-5267
-- `[hgs-144]` **Link** — Email LIM
-- `[hgs-145]` **Link** — Official Website
-- `[hgs-146]` **Link** — Brand Guide
-- `[hgs-147]` **Paragraph** — © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit · All Rights Reserved
+- `[hgs-147]` **Paragraph** — A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 574 tribal communities since 1985.
+- `[hgs-148]` **H4** — Healing Groups
+- `[hgs-149]` **Link** — About the Program
+- `[hgs-150]` **Link** — Find a Group
+- `[hgs-151]` **Link** — Become a Facilitator
+- `[hgs-152]` **Link** — FAQ
+- `[hgs-153]` **H4** — Ministry
+- `[hgs-154]` **Link** — Home
+- `[hgs-155]` **Link** — Three Pillars
+- `[hgs-156]` **Link** — Haskell LIGHT
+- `[hgs-157]` **Link** — Donate
+- `[hgs-158]` **H4** — Contact
+- `[hgs-159]` **Link** — (262) 439-5663
+- `[hgs-160]` **Link** — (262) 783-5267
+- `[hgs-161]` **Link** — Email LIM
+- `[hgs-162]` **Link** — Official Website
+- `[hgs-163]` **Link** — Brand Guide
+- `[hgs-164]` **Paragraph** — © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit · All Rights Reserved
 
 
 ### Modal — Reg
 
-- `[hgs-148]` **H2** — Free Event Registration
-- `[hgs-149]` **Button** — ✕
-- `[hgs-150]` **H3** — You're Registered!
-- `[hgs-151]` **Paragraph** — Thank you for signing up. We'll be in touch with confirmation details and — for online sessions — your Zoom link. Questions? Call (262) 439-5663
-- `[hgs-152]` **Button** — Close
-- `[hgs-153]` **Paragraph** — Your Information
-- `[hgs-154]` **Label** — First Name *
-- `[hgs-155]` **Form placeholder** — First
-- `[hgs-156]` **Label** — Last Name *
-- `[hgs-157]` **Form placeholder** — Last
-- `[hgs-158]` **Label** — Email Address *
-- `[hgs-159]` **Form placeholder** — you@example.com
-- `[hgs-160]` **Label** — Cell Phone *
-- `[hgs-161]` **Form placeholder** — (___) ___-____
-- `[hgs-162]` **Label** — Age (optional)
-- `[hgs-163]` **Form placeholder** — Age
-- `[hgs-164]` **Label** — Gender (optional)
-- `[hgs-165]` **Label** — Male
-- `[hgs-166]` **Label** — Female
-- `[hgs-167]` **Label** — Other
-- `[hgs-168]` **Paragraph** — Home Address
-- `[hgs-169]` **Label** — Street Address *
-- `[hgs-170]` **Form placeholder** — Street address
-- `[hgs-171]` **Label** — Apt / Suite (optional)
-- `[hgs-172]` **Form placeholder** — Apt, suite, etc.
-- `[hgs-173]` **Label** — City *
-- `[hgs-174]` **Form placeholder** — City
-- `[hgs-175]` **Label** — State *
-- `[hgs-176]` **Form placeholder** — ST
-- `[hgs-177]` **Label** — ZIP Code *
-- `[hgs-178]` **Form placeholder** — ZIP
-- `[hgs-179]` **Label** — Country
-- `[hgs-180]` **Option** — United States
-- `[hgs-181]` **Option** — Canada
-- `[hgs-182]` **Option** — Other
-- `[hgs-183]` **Paragraph** — Emergency Contact (recommended)
-- `[hgs-184]` **Label** — Contact Name
-- `[hgs-185]` **Form placeholder** — Full name
-- `[hgs-186]` **Label** — Contact Phone
-- `[hgs-187]` **Form placeholder** — (___) ___-____
-- `[hgs-188]` **Paragraph** — 🎖️ Military Eligibility
-- `[hgs-189]` **Label** — Branch of Service *
-- `[hgs-190]` **Option** — — Select branch —
-- `[hgs-191]` **Option** — Army
-- `[hgs-192]` **Option** — Navy
-- `[hgs-193]` **Option** — Marine Corps
-- `[hgs-194]` **Option** — Air Force
-- `[hgs-195]` **Option** — Space Force
-- `[hgs-196]` **Option** — Coast Guard
-- `[hgs-197]` **Label** — Unit / Battalion (optional)
-- `[hgs-198]` **Form placeholder** — e.g. 1-5 Cav, 25th ID
-- `[hgs-199]` **Label** — I confirm I am currently active duty military personnel and understand this group is limited to Ft. Wainwright service members. *
-- `[hgs-200]` **Paragraph** — A Few Things to Know
-- `[hgs-201]` **Label** — I understand that if I'm unable to attend, this may affect my ability to access the healing group in the future. *
-- `[hgs-202]` **Label** — I understand that a certificate of completion requires attending all scheduled sessions. *
-- `[hgs-203]` **Label** — Dietary Needs (optional)
-- `[hgs-204]` **Form placeholder** — Any dietary restrictions or needs…
-- `[hgs-205]` **Button** — Complete Registration
-- `[hgs-206]` **Paragraph** — Prefer to register by phone? Call (262) 439-5663
+- `[hgs-165]` **H2** — Free Event Registration
+- `[hgs-166]` **Button** — ✕
+- `[hgs-167]` **H3** — You're Registered!
+- `[hgs-168]` **Paragraph** — Thank you for signing up. We'll be in touch with confirmation details and — for online sessions — your Zoom link. Questions? Call (262) 439-5663
+- `[hgs-169]` **Button** — Close
+- `[hgs-170]` **Paragraph** — Your Information
+- `[hgs-171]` **Label** — First Name *
+- `[hgs-172]` **Form placeholder** — First
+- `[hgs-173]` **Label** — Last Name *
+- `[hgs-174]` **Form placeholder** — Last
+- `[hgs-175]` **Label** — Email Address *
+- `[hgs-176]` **Form placeholder** — you@example.com
+- `[hgs-177]` **Label** — Cell Phone *
+- `[hgs-178]` **Form placeholder** — (___) ___-____
+- `[hgs-179]` **Label** — Age (optional)
+- `[hgs-180]` **Form placeholder** — Age
+- `[hgs-181]` **Label** — Gender (optional)
+- `[hgs-182]` **Label** — Male
+- `[hgs-183]` **Label** — Female
+- `[hgs-184]` **Label** — Other
+- `[hgs-185]` **Paragraph** — Home Address
+- `[hgs-186]` **Label** — Street Address *
+- `[hgs-187]` **Form placeholder** — Street address
+- `[hgs-188]` **Label** — Apt / Suite (optional)
+- `[hgs-189]` **Form placeholder** — Apt, suite, etc.
+- `[hgs-190]` **Label** — City *
+- `[hgs-191]` **Form placeholder** — City
+- `[hgs-192]` **Label** — State *
+- `[hgs-193]` **Form placeholder** — ST
+- `[hgs-194]` **Label** — ZIP Code *
+- `[hgs-195]` **Form placeholder** — ZIP
+- `[hgs-196]` **Label** — Country
+- `[hgs-197]` **Option** — United States
+- `[hgs-198]` **Option** — Canada
+- `[hgs-199]` **Option** — Other
+- `[hgs-200]` **Paragraph** — Emergency Contact (recommended)
+- `[hgs-201]` **Label** — Contact Name
+- `[hgs-202]` **Form placeholder** — Full name
+- `[hgs-203]` **Label** — Contact Phone
+- `[hgs-204]` **Form placeholder** — (___) ___-____
+- `[hgs-205]` **Paragraph** — 🎖️ Military Eligibility
+- `[hgs-206]` **Label** — Branch of Service *
+- `[hgs-207]` **Option** — — Select branch —
+- `[hgs-208]` **Option** — Army
+- `[hgs-209]` **Option** — Navy
+- `[hgs-210]` **Option** — Marine Corps
+- `[hgs-211]` **Option** — Air Force
+- `[hgs-212]` **Option** — Space Force
+- `[hgs-213]` **Option** — Coast Guard
+- `[hgs-214]` **Label** — Unit / Battalion (optional)
+- `[hgs-215]` **Form placeholder** — e.g. 1-5 Cav, 25th ID
+- `[hgs-216]` **Label** — I confirm I am currently active duty military personnel and understand this group is limited to Ft. Wainwright service members. *
+- `[hgs-217]` **Paragraph** — A Few Things to Know
+- `[hgs-218]` **Label** — I understand that if I'm unable to attend, this may affect my ability to access the healing group in the future. *
+- `[hgs-219]` **Label** — I understand that a certificate of completion requires attending all scheduled sessions. *
+- `[hgs-220]` **Label** — Dietary Needs (optional)
+- `[hgs-221]` **Form placeholder** — Any dietary restrictions or needs…
+- `[hgs-222]` **Button** — Complete Registration
+- `[hgs-223]` **Paragraph** — Prefer to register by phone? Call (262) 439-5663
 
 
 ### Modal — Cancel Modal
 
-- `[hgs-207]` **H2** — Cancel My Registration
-- `[hgs-208]` **Button** — ✕
-- `[hgs-209]` **H3** — Cancellation Received
-- `[hgs-210]` **Paragraph** — We're sorry you can't make it — we'll open your spot and keep you in mind for future sessions. We'll send a confirmation to your email shortly.
-- `[hgs-211]` **Button** — Close
-- `[hgs-212]` **Label** — Which session are you cancelling? *
-- `[hgs-213]` **Option** — — Select your session —
-- `[hgs-214]` **Option** — Military Personnel Healing Group — March 13–14, 2026 · Fairbanks, AK
-- `[hgs-215]` **Option** — Healing Group + Equipping Training — April 14–17, 2026 · Winnebago, NE
-- `[hgs-216]` **Option** — Community Healing Group — May 27–29, 2026 · Fairbanks, AK
-- `[hgs-217]` **Option** — Online Healing Group — August 5–14, 2026 · Zoom
-- `[hgs-218]` **Option** — Community Healing Group — September 2026 · Fairbanks, AK
-- `[hgs-219]` **Option** — Facilitator Equipping Training — October 2026
-- `[hgs-220]` **Option** — Other / Not Listed
-- `[hgs-221]` **Label** — First Name *
-- `[hgs-222]` **Form placeholder** — First
-- `[hgs-223]` **Label** — Last Name *
-- `[hgs-224]` **Form placeholder** — Last
-- `[hgs-225]` **Label** — Email Used to Register *
-- `[hgs-226]` **Form placeholder** — you@example.com
-- `[hgs-227]` **Label** — Reason (optional — helps us improve)
-- `[hgs-228]` **Form placeholder** — Let us know if you'd like to share…
-- `[hgs-229]` **Button** — Submit Cancellation
-- `[hgs-230]` **Paragraph** — Or call us at (262) 439-5663
+- `[hgs-224]` **H2** — Cancel My Registration
+- `[hgs-225]` **Button** — ✕
+- `[hgs-226]` **H3** — Cancellation Received
+- `[hgs-227]` **Paragraph** — We're sorry you can't make it — we'll open your spot and keep you in mind for future sessions. We'll send a confirmation to your email shortly.
+- `[hgs-228]` **Button** — Close
+- `[hgs-229]` **Label** — Which session are you cancelling? *
+- `[hgs-230]` **Option** — — Select your session —
+- `[hgs-231]` **Option** — Military Personnel Healing Group — March 13–14, 2026 · Fairbanks, AK
+- `[hgs-232]` **Option** — Healing Group + Equipping Training — April 14–17, 2026 · Winnebago, NE
+- `[hgs-233]` **Option** — Community Healing Group — May 16, 2026 · Lame Deer, MT
+- `[hgs-234]` **Option** — Community Healing Group — May 22, 2026 · Ashland, MT
+- `[hgs-235]` **Option** — Community Healing Group — May 27–29, 2026 · Fairbanks, AK
+- `[hgs-236]` **Option** — Online Healing Group — August 5–14, 2026 · Zoom
+- `[hgs-237]` **Option** — Community Healing Group — Sept 16–18, 2026 · Fairbanks, AK
+- `[hgs-238]` **Option** — Community Healing Group — Oct 9–10, 2026 · Anchorage, AK
+- `[hgs-239]` **Option** — Facilitator Equipping Training — October 2026
+- `[hgs-240]` **Option** — Community Healing Group — Nov 4–6, 2026 · Fairbanks, AK
+- `[hgs-241]` **Option** — Other / Not Listed
+- `[hgs-242]` **Label** — First Name *
+- `[hgs-243]` **Form placeholder** — First
+- `[hgs-244]` **Label** — Last Name *
+- `[hgs-245]` **Form placeholder** — Last
+- `[hgs-246]` **Label** — Email Used to Register *
+- `[hgs-247]` **Form placeholder** — you@example.com
+- `[hgs-248]` **Label** — Reason (optional — helps us improve)
+- `[hgs-249]` **Form placeholder** — Let us know if you'd like to share…
+- `[hgs-250]` **Button** — Submit Cancellation
+- `[hgs-251]` **Paragraph** — Or call us at (262) 439-5663
 
 
 ### Modal — Waitlist
 
-- `[hgs-231]` **H2** — Join the Waitlist
-- `[hgs-232]` **Button** — ✕
-- `[hgs-233]` **Paragraph** — The March 18–27 online session is currently full. Use the registration form to note your interest in this session and we'll contact you if a spot opens — or automatically register you for the August 5–14 session if you prefer.
-- `[hgs-234]` **Paragraph** — The August online session has open spots and follows the same curriculum. We encourage you to register for August now.
-- `[hgs-235]` **Button (link)** — Join Waitlist / Register for August
+- `[hgs-252]` **H2** — Join the Waitlist
+- `[hgs-253]` **Button** — ✕
+- `[hgs-254]` **Paragraph** — The March 18–27 online session is currently full. Use the registration form to note your interest in this session and we'll contact you if a spot opens — or automatically register you for the August 5–14 session if you prefer.
+- `[hgs-255]` **Paragraph** — The August online session has open spots and follows the same curriculum. We encourage you to register for August now.
+- `[hgs-256]` **Button (link)** — Join Waitlist / Register for August
 
 
 ### Modal — Fairbanks Mil
 
-- `[hgs-236]` **H2** — Military Personnel Healing Group
-- `[hgs-237]` **Button** — ✕
-- `[hgs-238]` **Paragraph** — A healing group specifically for active military personnel, veterans, and their families. Same scripture-based curriculum, same compassionate community — in a setting that honors the unique experiences of those who have served.
-- `[hgs-239]` **List item** — Open to active military, veterans, and family members
-- `[hgs-240]` **List item** — Confidential and community-supported
-- `[hgs-241]` **List item** — All faith backgrounds welcome
-- `[hgs-242]` **List item** — Lunch provided both days
-- `[hgs-243]` **List item** — Ages 18+
-- `[hgs-244]` **Button** — Register Now
+- `[hgs-257]` **H2** — Military Personnel Healing Group
+- `[hgs-258]` **Button** — ✕
+- `[hgs-259]` **Paragraph** — A healing group specifically for active military personnel, veterans, and their families. Same scripture-based curriculum, same compassionate community — in a setting that honors the unique experiences of those who have served.
+- `[hgs-260]` **List item** — Open to active military, veterans, and family members
+- `[hgs-261]` **List item** — Confidential and community-supported
+- `[hgs-262]` **List item** — All faith backgrounds welcome
+- `[hgs-263]` **List item** — Lunch provided both days
+- `[hgs-264]` **List item** — Ages 18+
+- `[hgs-265]` **Button** — Register Now
 
 
 ### Modal — Winnebago
 
-- `[hgs-245]` **H2** — Healing Group + Equipping · Winnebago, NE
-- `[hgs-246]` **Button** — ✕
-- `[hgs-247]` **Paragraph** — A unique combined event: experience a full healing group and receive facilitator equipping training in the same week. Ideal for community leaders, pastors, and anyone who wants to bring healing groups to their own community.
-- `[hgs-248]` **List item** — Attend healing group sessions as a participant
-- `[hgs-249]` **List item** — Receive facilitator training to lead your own groups
-- `[hgs-250]` **List item** — Leave equipped and empowered to multiply healing in your community
-- `[hgs-251]` **List item** — Lunch provided daily · All welcome · Ages 18+
-- `[hgs-252]` **Button** — Register Now
+- `[hgs-266]` **H2** — Healing Group + Equipping · Winnebago, NE
+- `[hgs-267]` **Button** — ✕
+- `[hgs-268]` **Paragraph** — A unique combined event: experience a full healing group and receive facilitator equipping training in the same week. Ideal for community leaders, pastors, and anyone who wants to bring healing groups to their own community.
+- `[hgs-269]` **List item** — Attend healing group sessions as a participant
+- `[hgs-270]` **List item** — Receive facilitator training to lead your own groups
+- `[hgs-271]` **List item** — Leave equipped and empowered to multiply healing in your community
+- `[hgs-272]` **List item** — Lunch provided daily · All welcome · Ages 18+
+- `[hgs-273]` **Button** — Register Now
 
 
 ### Modal — Fairbanks May
 
-- `[hgs-253]` **H2** — Community Healing Group · Fairbanks, AK
-- `[hgs-254]` **Button** — ✕
-- `[hgs-255]` **Paragraph** — A typical Fairbanks healing group schedule:
-- `[hgs-256]` **List item** — Wednesday: Noon – 4:30 PM (includes lunch)
-- `[hgs-257]` **List item** — Thursday: 9 AM – 4:30 PM (includes lunch)
-- `[hgs-258]` **List item** — Friday: 9 AM – 1:00 PM (includes lunch)
-- `[hgs-259]` **List item** — Open to all community members · Ages 18+ · All backgrounds welcome
-- `[hgs-260]` **Button** — Register Now
+- `[hgs-274]` **H2** — Community Healing Group · Fairbanks, AK
+- `[hgs-275]` **Button** — ✕
+- `[hgs-276]` **Paragraph** — A typical Fairbanks healing group schedule:
+- `[hgs-277]` **List item** — Wednesday: Noon – 4:30 PM (includes lunch)
+- `[hgs-278]` **List item** — Thursday: 9 AM – 4:30 PM (includes lunch)
+- `[hgs-279]` **List item** — Friday: 9 AM – 1:00 PM (includes lunch)
+- `[hgs-280]` **List item** — Open to all community members · Ages 18+ · All backgrounds welcome
+- `[hgs-281]` **Button** — Register Now
 
 
 ### Modal — Aug Online
 
-- `[hgs-261]` **H2** — Online Healing Group · August 2026
-- `[hgs-262]` **Button** — ✕
-- `[hgs-263]` **Paragraph** — A two-week online format using Zoom. Ideal for participants who cannot travel or prefer to join from home. The same full curriculum, the same community experience, the same scripture-grounded healing.
-- `[hgs-264]` **List item** — Sessions held over two weeks via Zoom video call
-- `[hgs-265]` **List item** — Technology support available for those who need it
-- `[hgs-266]` **List item** — Same 6 core sessions, same 390+ scriptures
-- `[hgs-267]` **List item** — You will receive a Zoom link and schedule upon registration
-- `[hgs-268]` **List item** — Open to all · Ages 18+ · No Cost to Participants
-- `[hgs-269]` **Button** — Register Now
+- `[hgs-282]` **H2** — Online Healing Group · August 2026
+- `[hgs-283]` **Button** — ✕
+- `[hgs-284]` **Paragraph** — A two-week online format using Zoom. Both weeks must be attended for completion. Ideal for participants who cannot travel or prefer to join from home — same full curriculum, same community experience, same scripture-grounded healing.
+- `[hgs-285]` **List item** — Week 1: Aug 5–7 · 12:00 PM–3:00 PM Alaska Standard Time
+- `[hgs-286]` **List item** — Week 2: Aug 12–14 · 12:00 PM–3:00 PM Alaska Standard Time
+- `[hgs-287]` **List item** — Technology support available for those who need it
+- `[hgs-288]` **List item** — Same 6 core sessions, same 390+ scriptures
+- `[hgs-289]` **List item** — A Zoom link will be emailed directly to all participants after registration
+- `[hgs-290]` **List item** — Open to all · Ages 18+ · No Cost to Participants
+- `[hgs-291]` **Button** — Register Now
+
+
+### Modal — Lame Deer May
+
+- `[hgs-292]` **H2** — Community Healing Group · Lame Deer, MT
+- `[hgs-293]` **Button** — ✕
+- `[hgs-294]` **Paragraph** — Hope Pentecostal Church (church by the bridge) 211 Elkhornscraper, Lame Deer, MT
+- `[hgs-295]` **List item** — Saturday May 16: 9:00 AM – 12:00 PM Mountain Time
+- `[hgs-296]` **List item** — Must attend the full session to complete the Healing Group
+- `[hgs-297]` **List item** — Lunch provided — bring your own if you have dietary needs
+- `[hgs-298]` **List item** — Open to all community members · Ages 18+ · No Cost to Participants
+- `[hgs-299]` **Button** — Register Now
+
+
+### Modal — Ashland May
+
+- `[hgs-300]` **H2** — Community Healing Group · Ashland, MT
+- `[hgs-301]` **Button** — ✕
+- `[hgs-302]` **Paragraph** — Heaven Sent Ministries at Ashland Christian Fellowship Church 43 Old Mission Road, Ashland, MT
+- `[hgs-303]` **List item** — Friday May 22: 9:00 AM – 12:00 PM Mountain Time
+- `[hgs-304]` **List item** — Must attend the full session to complete the Healing Group
+- `[hgs-305]` **List item** — Lunch provided — bring your own if you have dietary needs
+- `[hgs-306]` **List item** — Open to all community members · Ages 18+ · No Cost to Participants
+- `[hgs-307]` **Button** — Register Now
+
+
+### Modal — Fairbanks Sep
+
+- `[hgs-308]` **H2** — Community Healing Group · Fairbanks, AK
+- `[hgs-309]` **Button** — ✕
+- `[hgs-310]` **Paragraph** — Zion Lutheran Church , Fairbanks, Alaska
+- `[hgs-311]` **List item** — Wednesday Sept 16: 12:00 PM – 4:30 PM (includes lunch)
+- `[hgs-312]` **List item** — Thursday Sept 17: 9:00 AM – 4:30 PM (includes lunch)
+- `[hgs-313]` **List item** — Friday Sept 18: 9:00 AM – 1:00 PM (includes lunch)
+- `[hgs-314]` **List item** — All times Alaska Standard Time · must attend all sessions to complete
+- `[hgs-315]` **List item** — Lunch provided — bring your own if you have dietary needs
+- `[hgs-316]` **Button** — Register Now
+
+
+### Modal — Anchorage Oct
+
+- `[hgs-317]` **H2** — Community Healing Group · Anchorage, AK
+- `[hgs-318]` **Button** — ✕
+- `[hgs-319]` **Paragraph** — Anchorage Lutheran Church 1420 N Street, Anchorage, AK 99501 Use West 15th Street parking for easier access.
+- `[hgs-320]` **List item** — Friday Oct 9: 9:00 AM – 4:30 PM (includes lunch)
+- `[hgs-321]` **List item** — Saturday Oct 10: 9:00 AM – 4:30 PM (includes lunch)
+- `[hgs-322]` **List item** — All times Alaska Standard Time · must attend all sessions to complete
+- `[hgs-323]` **List item** — Lunch provided — bring your own if you have dietary needs
+- `[hgs-324]` **Button** — Register Now
+
+
+### Modal — Fairbanks Nov
+
+- `[hgs-325]` **H2** — Community Healing Group · Fairbanks, AK
+- `[hgs-326]` **Button** — ✕
+- `[hgs-327]` **Paragraph** — Zion Lutheran Church , Fairbanks, Alaska
+- `[hgs-328]` **List item** — Wednesday Nov 4: 12:00 PM – 4:30 PM (includes lunch)
+- `[hgs-329]` **List item** — Thursday Nov 5: 9:00 AM – 4:30 PM (includes lunch)
+- `[hgs-330]` **List item** — Friday Nov 6: 9:00 AM – 1:00 PM (includes lunch)
+- `[hgs-331]` **List item** — All times Alaska Standard Time · must attend all sessions to complete
+- `[hgs-332]` **List item** — Lunch provided — bring your own if you have dietary needs
+- `[hgs-333]` **Button** — Register Now
 
 
 ### Modal — Sessions
 
-- `[hgs-270]` **H2** — The Six Core Sessions
-- `[hgs-271]` **Button** — ✕
-- `[hgs-272]` **Paragraph** — Over 16 hours across 2–3 days, six sessions walk participants through scripture and personal reflection. Each builds on the last, supported by 390+ scriptures from the Restoring Hope Bible.
-- `[hgs-273]` **List item** — Session 1: If God loves us, why do we suffer?
-- `[hgs-274]` **List item** — Session 2: What is a wound of the heart?
-- `[hgs-275]` **List item** — Session 3: What can help our heart wounds heal?
-- `[hgs-276]` **List item** — Session 4: What happens when someone is grieving?
-- `[hgs-277]` **List item** — Session 5: Bringing our pain to the cross & forgiving others
-- `[hgs-278]` **List item** — Session 6: Looking back, looking forward — closing with hope
-- `[hgs-279]` **Paragraph** — Healing is self-directed. You share only what you're comfortable sharing, and go only where you're ready to go. The Holy Spirit does the heavy lifting.
-- `[hgs-280]` **Button (link)** — Find a Session Near You
+- `[hgs-334]` **H2** — The Six Core Sessions
+- `[hgs-335]` **Button** — ✕
+- `[hgs-336]` **Paragraph** — Over 16 hours across 2–3 days, six sessions walk participants through scripture and personal reflection. Each builds on the last, supported by 390+ scriptures from the Restoring Hope Bible.
+- `[hgs-337]` **List item** — Session 1: If God loves us, why do we suffer?
+- `[hgs-338]` **List item** — Session 2: What is a wound of the heart?
+- `[hgs-339]` **List item** — Session 3: What can help our heart wounds heal?
+- `[hgs-340]` **List item** — Session 4: What happens when someone is grieving?
+- `[hgs-341]` **List item** — Session 5: Bringing our pain to the cross & forgiving others
+- `[hgs-342]` **List item** — Session 6: Looking back, looking forward — closing with hope
+- `[hgs-343]` **Paragraph** — Healing is self-directed. You share only what you're comfortable sharing, and go only where you're ready to go. The Holy Spirit does the heavy lifting.
+- `[hgs-344]` **Button (link)** — Find a Session Near You
 
 
 ---
