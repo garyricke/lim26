@@ -237,6 +237,15 @@
     .foot-col ul li a:hover{color:var(--yellow)}
     .foot-bot{max-width:var(--max);margin:0 auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem}
     .foot-bot p{font-size:.78rem;color:rgba(255,255,255,.28)}
+    /* Admin badge */
+    .adm-wrap{position:relative;display:inline-block}
+    .adm-btn{width:30px;height:30px;border-radius:50%;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.18);color:rgba(255,255,255,.42);font-family:var(--cond);font-size:.95rem;font-weight:800;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;transition:all .2s ease;padding:0;line-height:1;letter-spacing:0}
+    .adm-btn:hover,.adm-btn.on{background:rgba(255,222,22,.1);border-color:rgba(255,222,22,.45);color:var(--yellow)}
+    .adm-menu{position:absolute;right:0;bottom:calc(100% + 8px);background:#1a1a16;border:1px solid rgba(255,255,255,.1);border-radius:8px;padding:.5rem;min-width:210px;box-shadow:0 -6px 22px rgba(0,0,0,.45);opacity:0;pointer-events:none;transform:translateY(6px);transition:all .2s ease;z-index:50}
+    .adm-menu.on{opacity:1;pointer-events:auto;transform:none}
+    .adm-menu .adm-hd{font-family:var(--cond);font-size:.65rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.3);padding:.35rem .65rem .55rem;border-bottom:1px solid rgba(255,255,255,.08);margin-bottom:.35rem}
+    .adm-menu a{display:block;font-size:.85rem;color:rgba(255,255,255,.7);padding:.45rem .65rem;border-radius:4px;transition:all .15s ease;text-decoration:none}
+    .adm-menu a:hover{background:rgba(255,255,255,.07);color:var(--yellow);text-decoration:none}
 
     /* Donation modal */
     .don-modal{max-width:500px}
@@ -858,7 +867,6 @@
         <li><a href="tel:2627835267">(262) 783-5267</a></li>
         <li><a href="mailto:info@lutheranindianministries.org">Email LIM</a></li>
         <li><a href="https://www.lutheranindianministries.org" target="_blank" rel="noopener">Official Website</a></li>
-        <li><a href="brand/LIM-2026-brand-style-guide.html" target="_blank">Brand Guide</a></li>
       </ul>
     </div>
   </div>
@@ -874,9 +882,41 @@
       <a href="https://youtube.com/@LutheranIndianMinistries" target="_blank" rel="noopener" style="color:rgba(255,255,255,.35);transition:var(--t)" onmouseover="this.style.color='var(--yellow)'" onmouseout="this.style.color='rgba(255,255,255,.35)'" aria-label="YouTube">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46a2.78 2.78 0 0 0-1.95 1.96A29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58A2.78 2.78 0 0 0 3.41 19.6C5.12 20 12 20 12 20s6.88 0 8.59-.46a2.78 2.78 0 0 0 1.95-1.95A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58z"/><polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02" fill="#191916"/></svg>
       </a>
+      <div class="adm-wrap">
+        <button type="button" class="adm-btn" id="adm-btn" aria-label="Admin pages menu" aria-expanded="false" aria-haspopup="true" onclick="admToggle(event)">A</button>
+        <div class="adm-menu" id="adm-menu" role="menu">
+          <div class="adm-hd">Admin</div>
+          <a href="status.html" role="menuitem">Project Status</a>
+          <a href="brand/LIM-2026-brand-style-guide.html" target="_blank" role="menuitem">Brand Guide</a>
+          <a href="docs-blackbaud.html" role="menuitem">Developer Docs</a>
+          <a href="docs-video-interview-guide.html" role="menuitem">Video Interview Guide</a>
+          <a href="release-form.html" role="menuitem">Video Release Form</a>
+          <a href="healing-group-military-march2026.html" role="menuitem">Session Feedback</a>
+        </div>
+      </div>
     </div>
   </div>
 </footer>
+<script>
+  function admToggle(e){
+    e.stopPropagation();
+    var b=document.getElementById('adm-btn'),m=document.getElementById('adm-menu');
+    var on=m.classList.toggle('on');
+    b.classList.toggle('on',on);
+    b.setAttribute('aria-expanded',on?'true':'false');
+  }
+  document.addEventListener('click',function(e){
+    var b=document.getElementById('adm-btn'),m=document.getElementById('adm-menu');
+    if(!m||!b)return;
+    if(!m.contains(e.target)&&!b.contains(e.target)){m.classList.remove('on');b.classList.remove('on');b.setAttribute('aria-expanded','false');}
+  });
+  document.addEventListener('keydown',function(e){
+    if(e.key!=='Escape')return;
+    var b=document.getElementById('adm-btn'),m=document.getElementById('adm-menu');
+    if(m)m.classList.remove('on');
+    if(b){b.classList.remove('on');b.setAttribute('aria-expanded','false');}
+  });
+</script>
 
 <!-- Donation Modal -->
 <div id="m-donate" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-donate-t">
