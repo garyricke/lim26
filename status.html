@@ -150,7 +150,7 @@
     <span class="eyebrow">2026 Website Project</span>
     <h1 class="title">Build Status &amp; Accomplishments</h1>
     <p class="intro">Where the new Lutheran Indian Ministries website stands heading into go-live, with the full record of what's shipped and the action items coming out of the May 11 weekly check-in. Updated when changes land.</p>
-    <p class="updated">Last updated: <b>June 8, 2026</b> · Live preview: <a href="https://lim2026.netlify.app" target="_blank" rel="noopener">lim2026.netlify.app</a></p>
+    <p class="updated">Last updated: <b>June 8, 2026</b> · Live preview: <a href="https://lim2026.netlify.app" target="_blank" rel="noopener">lim2026.netlify.app</a> · Events Manager: <a href="admin-events.html">admin-events.html</a></p>
   </div>
 
   <!-- Milestones -->
@@ -184,7 +184,26 @@
   <!-- Timeline -->
   <div class="sect">
     <h2>Recent Accomplishments</h2>
-    <span class="meta">Newest first · 65 commits since March 16</span>
+    <span class="meta">Newest first · 68 commits since March 16</span>
+  </div>
+
+  <!-- June 8 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">June 8, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">May 11 action items — nav changes + self-serve Events Manager</div>
+      <ul>
+        <li>Top nav: "What We Do ▾" dropdown replaced with a one-click <strong>Healing Groups</strong> link (index + about)</li>
+        <li>Top-nav <strong>Stories</strong> now jumps to the <em>Stories &amp; Updates</em> section; "Watch our story" left as-is by design</li>
+        <li><em>Read the Devotional</em> promoted from a text link to a prominent button</li>
+        <li>NEW <span class="ic">admin-events.html</span> — Roberta can add/edit healing-group events from a form with live card preview and copy-paste output; no code required</li>
+        <li>Events <strong>auto-remove the day after their last date</strong> (already live on the sessions page); the manager shows each event's Live / Removed status</li>
+        <li>"Events Manager" added to the Admin (A) menu; <span class="ic">SESSIONS:START/END</span> paste markers added to healing-groups.html</li>
+      </ul>
+    </div>
   </div>
 
   <!-- May 11 check-in -->
@@ -413,14 +432,14 @@
   <div class="entry">
     <div class="entry-head">
       <span class="entry-date">Navigation</span>
-      <span class="entry-tag upcoming">In Progress</span>
+      <span class="entry-tag released">Done</span>
     </div>
     <div class="entry-body">
       <div class="entry-title">One-click access to healing groups</div>
       <ul>
-        <li class="todo">Replace the "What We Do ▾" dropdown with a direct <strong>Healing Groups</strong> link in the top nav</li>
-        <li class="todo">Point the top-nav <strong>Stories</strong> link at the <em>Stories &amp; Updates</em> section (not the testimonials block)</li>
-        <li class="todo">Promote <em>Read the Devotional</em> from a text link to a prominent button</li>
+        <li>Replaced the "What We Do ▾" dropdown with a direct <strong>Healing Groups</strong> link in the top nav</li>
+        <li>Pointed the top-nav <strong>Stories</strong> link at the <em>Stories &amp; Updates</em> section (not the testimonials block)</li>
+        <li>Promoted <em>Read the Devotional</em> from a text link to a prominent button</li>
       </ul>
     </div>
   </div>
@@ -428,13 +447,14 @@
   <div class="entry">
     <div class="entry-head">
       <span class="entry-date">Tooling</span>
-      <span class="entry-tag upcoming">Upcoming</span>
+      <span class="entry-tag released">Done</span>
     </div>
     <div class="entry-body">
       <div class="entry-title">Self-serve healing-group event manager for Roberta</div>
       <ul>
-        <li class="todo">Build a tool so Roberta can add / edit healing-group events that feed the nav and session list</li>
-        <li class="todo">Auto-remove each event once its date has passed (no manual cleanup — e.g. Winnebago)</li>
+        <li>Built <span class="ic">admin-events.html</span> — add / edit events from a form with live preview and copy-paste output</li>
+        <li>Each event auto-removes once its date has passed (no manual cleanup — e.g. Winnebago); manager shows Live / Removed status</li>
+        <li class="todo">Optional follow-up: fully data-drive the session list so edits never touch HTML (needs a small data file / backend decision)</li>
       </ul>
     </div>
   </div>
