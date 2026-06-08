@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Feathr Conversion Tracking — LIM Developer Docs</title>
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+      --sage-d:#8a8665;--sky:#A2C2D1;--sky-d:#6f9bb0;--stone:#EBE9E4;
+      --muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;
+      --serif:'Merriweather',Georgia,serif;
+      --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --body:'Open Sans',system-ui,sans-serif;
+      --max:860px;--r:8px;--rl:16px;
+      --shm:0 6px 24px rgba(0,0,0,.12);
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.7}
+    a{color:var(--red);text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    /* Top bar */
+    #topbar{background:var(--charcoal);padding:.75rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
+    #topbar img{height:34px}
+    #topbar span{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4)}
+
+    /* Page layout */
+    .doc-wrap{max-width:var(--max);margin:0 auto;padding:3rem 1.5rem 5rem}
+
+    /* Header */
+    .doc-header{margin-bottom:2.5rem;padding-bottom:2rem;border-bottom:2px solid var(--border)}
+    .doc-eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.75rem;display:block}
+    .doc-title{font-family:var(--serif);font-size:clamp(1.8rem,3.5vw,2.4rem);color:var(--charcoal);line-height:1.2;margin-bottom:1rem}
+    .doc-intro{font-size:1rem;color:var(--muted);line-height:1.8;max-width:660px}
+    .doc-intro strong{color:var(--charcoal)}
+
+    /* Meta row */
+    .doc-meta{display:flex;flex-wrap:wrap;gap:.5rem .65rem;margin-top:1.5rem}
+    .doc-tag{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;background:#fff;border:1px solid var(--border);color:var(--muted);padding:.3rem .7rem;border-radius:20px}
+    .doc-tag b{color:var(--charcoal)}
+
+    /* Alert box */
+    .doc-alert{background:var(--yellow);border-radius:var(--r);padding:1.1rem 1.4rem;margin-bottom:2.5rem;display:flex;gap:.75rem;align-items:flex-start}
+    .doc-alert-icon{font-size:1.1rem;flex-shrink:0;margin-top:1px}
+    .doc-alert p{font-size:.92rem;color:var(--charcoal);line-height:1.65}
+    .doc-alert strong{font-weight:700}
+
+    /* Stat strip */
+    .doc-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem;margin-bottom:2.5rem}
+    .doc-stat{background:#fff;border:1px solid var(--border);border-radius:var(--r);padding:1.1rem 1rem;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .doc-stat .n{font-family:var(--serif);font-size:1.45rem;font-weight:700;color:var(--charcoal);line-height:1.1}
+    .doc-stat .l{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-top:.4rem}
+    @media(max-width:600px){.doc-stats{grid-template-columns:1fr 1fr}}
+
+    /* Section */
+    .doc-section{background:#fff;border-radius:var(--rl);border:1px solid var(--border);overflow:hidden;margin-bottom:1.75rem;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+    .doc-section-head{background:var(--charcoal);padding:1rem 1.5rem;display:flex;align-items:center;gap:.85rem}
+    .doc-section-num{font-family:var(--cond);font-size:.7rem;font-weight:800;letter-spacing:.15em;background:var(--yellow);color:var(--charcoal);width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+    .doc-section-title{font-family:var(--cond);font-size:1rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#fff}
+    .doc-section-body{padding:1.75rem}
+    .doc-section-body p{color:var(--muted);line-height:1.8;margin-bottom:1rem;font-size:.95rem}
+    .doc-section-body p:last-child{margin-bottom:0}
+    .doc-section-body h3{font-family:var(--serif);font-size:1.05rem;color:var(--charcoal);margin:1.5rem 0 .5rem}
+
+    /* Step label */
+    .doc-step{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.5rem;margin-top:1.5rem;display:block}
+    .doc-step:first-child{margin-top:0}
+
+    /* Code block */
+    .doc-code-wrap{position:relative;margin:.75rem 0 1rem}
+    .doc-code-label{font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;background:var(--charcoal);color:var(--yellow);display:inline-block;padding:.2rem .65rem;border-radius:4px 4px 0 0;margin-bottom:0}
+    pre{background:#1a1a16;color:#e8e6e0;border-radius:0 var(--r) var(--r) var(--r);padding:1.25rem 1.4rem;overflow-x:auto;font-size:.85rem;line-height:1.7;white-space:pre}
+    code{font-family:'Fira Code','Cascadia Code','Courier New',monospace}
+    .hl-comment{color:#6a9955}
+    .hl-tag{color:#4ec9b0}
+    .hl-attr{color:#9cdcfe}
+    .hl-val{color:#ce9178}
+    .hl-kw{color:#c586c0}
+    .hl-fn{color:#dcdcaa}
+    .hl-str{color:#ce9178}
+    .hl-num{color:#b5cea8}
+
+    /* Inline code */
+    .ic{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.1em .4em;color:var(--charcoal)}
+
+    /* List */
+    .doc-list{list-style:none;display:flex;flex-direction:column;gap:.65rem;margin:.75rem 0 1rem}
+    .doc-list li{display:flex;gap:.65rem;font-size:.95rem;color:var(--muted);line-height:1.65}
+    .doc-list li::before{content:'→';color:var(--red);font-weight:700;flex-shrink:0;margin-top:1px}
+    .doc-list.check li::before{content:'✓';color:var(--green)}
+    .doc-list li strong{color:var(--charcoal)}
+
+    /* Requirements & summary cards */
+    .doc-cards{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-top:1rem}
+    .doc-card{background:var(--stone);border-radius:var(--r);padding:1.25rem}
+    .doc-card h4{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--charcoal);margin-bottom:.6rem}
+    .doc-card p{font-size:.88rem;color:var(--muted);line-height:1.65;margin:0}
+
+    /* Option badge */
+    .doc-option-badge{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;background:var(--sky);color:var(--charcoal);padding:.3rem .8rem;border-radius:20px;margin-bottom:1rem}
+    .doc-option-badge.recommended::after{content:'Recommended';background:var(--red);color:#fff;font-size:.65rem;padding:.15rem .5rem;border-radius:10px;margin-left:.25rem}
+
+    /* Owner pills */
+    .doc-owner{display:inline-block;font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;background:rgba(162,194,209,.25);color:var(--sky-d);padding:.15rem .55rem;border-radius:5px;margin-left:.4rem}
+
+    /* Next-steps checklist */
+    .doc-todo{list-style:none;display:flex;flex-direction:column;gap:.85rem;margin-top:.5rem}
+    .doc-todo li{display:flex;gap:.85rem;background:var(--stone);border-radius:var(--r);padding:1rem 1.1rem;font-size:.93rem;color:var(--charcoal);line-height:1.6}
+    .doc-todo .box{flex-shrink:0;width:20px;height:20px;border:2px solid var(--sage-d);border-radius:5px;margin-top:1px}
+    .doc-todo .num{font-family:var(--cond);font-weight:800;color:var(--red);flex-shrink:0}
+
+    /* Email thread */
+    .doc-thread{display:flex;flex-direction:column;gap:0;border-left:2px solid var(--border);padding-left:1.25rem;margin:.5rem 0}
+    .doc-msg{padding:.4rem 0 1.1rem;position:relative}
+    .doc-msg::before{content:'';position:absolute;left:calc(-1.25rem - 6px);top:.7rem;width:9px;height:9px;border-radius:50%;background:var(--sage-d);border:2px solid #fff}
+    .doc-msg .who{font-family:var(--cond);font-weight:700;letter-spacing:.03em;text-transform:uppercase;font-size:.82rem;color:var(--charcoal)}
+    .doc-msg .when{font-size:.78rem;color:var(--muted);margin-left:.4rem;font-weight:400;text-transform:none;letter-spacing:0}
+    .doc-msg p{font-size:.92rem;color:var(--muted);margin:.35rem 0 0;line-height:1.65}
+
+    /* Divider */
+    .doc-divider{border:none;border-top:1px solid var(--border);margin:2rem 0}
+
+    @media(max-width:600px){
+      .doc-cards{grid-template-columns:1fr}
+    }
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_docs_auth',HASH='fbb7e71f6658977d5d5092c4a0ef302ee21f429af79600be63b7b0f1fea60ef4';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');
+      o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<h2 style="color:#fff;font-family:\'Merriweather\',serif;font-size:1.2rem;margin:0 0 .5rem;text-align:center">Developer Documentation</h2>'
+        +'<p style="color:rgba(255,255,255,.45);font-size:.85rem;margin:0 0 2rem;text-align:center">Restricted access — staff only</p>'
+        +'<input id="ag-pw" type="password" placeholder="Enter password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw'),btn=document.getElementById('ag-btn'),err=document.getElementById('ag-err');
+      function attempt(){
+        var pw=inp.value;
+        if(!pw){err.textContent='Please enter the password.';return;}
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password.';inp.value='';inp.focus();}
+        });
+      }
+      btn.addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+
+<div id="topbar">
+  <a href="index.html"><img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries — Home"></a>
+  <span>Developer Docs</span>
+</div>
+
+<div class="doc-wrap">
+
+  <div class="doc-header">
+    <span class="doc-eyebrow">Ad Attribution &amp; ROI</span>
+    <h1 class="doc-title">Feathr Conversion Tracking</h1>
+    <p class="doc-intro">Meyer Partners runs LIM's Feathr display/retargeting ad campaigns. The ads are driving traffic, but <strong>we currently can't tell which donations came from people who saw an ad.</strong> This page documents the email thread, the conversion pixel Feathr provided, and exactly how to close the loop — on the current Squarespace site and on the new site.</p>
+    <div class="doc-meta">
+      <span class="doc-tag">Status: <b>Pixel received — not yet installed</b></span>
+      <span class="doc-tag">Conversion ID: <b>6a0bb2f14647de16ae5b1ccb</b></span>
+      <span class="doc-tag">Owner: <b>Gary (impl) · John (Feathr) · Robert (sponsor)</b></span>
+    </div>
+  </div>
+
+  <div class="doc-alert">
+    <span class="doc-alert-icon">⚠</span>
+    <p><strong>The one thing that matters:</strong> the conversion pixel must <em>fire on the page a donor sees immediately after a successful gift</em>, and it must pass the donation <strong>amount</strong>. Because the donation form is a Blackbaud embed, that confirmation page is the tricky part — see Section 4.</p>
+  </div>
+
+  <!-- Campaign snapshot -->
+  <div class="doc-stats">
+    <div class="doc-stat"><div class="n">194,000</div><div class="l">Ad impressions</div></div>
+    <div class="doc-stat"><div class="n">655</div><div class="l">Site visits</div></div>
+    <div class="doc-stat"><div class="n">$1,700</div><div class="l">Budget used</div></div>
+    <div class="doc-stat"><div class="n">$2.64</div><div class="l">Cost per click</div></div>
+  </div>
+
+  <!-- 1. The thread -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">1</div>
+      <span class="doc-section-title">Background — The Email Thread</span>
+    </div>
+    <div class="doc-section-body">
+      <p>Summary of the conversation that led to this work, oldest to newest:</p>
+      <div class="doc-thread">
+        <div class="doc-msg">
+          <span class="who">Robert Heffle → Gary, John, Jaylene<span class="when">Apr 8, 2026</span></span>
+          <p>Just met with Meyer Partners. The Feathr ads are doing well and people are responding, <em>but we can't tell if they give because of the ad they viewed.</em> Gary mentioned he had ideas — connecting everyone.</p>
+        </div>
+        <div class="doc-msg">
+          <span class="who">Gary Ricke → Robert<span class="when">Apr 8, 2026</span></span>
+          <p>Good news on performance. Because the Blackbaud donation form is embedded directly on our site at <span class="ic">/donate</span>, we're well positioned to track conversions. To close the loop we just need the donation "success" event reported back to Feathr. Asked John for the <strong>Feathr Conversion Pixel</strong> code; once received I'll embed it on the Thank-You/Confirmation step. If we can get a revenue-tracking version, we can pass the exact gift amount and see real-time ROAS.</p>
+        </div>
+        <div class="doc-msg">
+          <span class="who">John Payne (Meyer Partners) → Gary<span class="when">May 19, 2026</span></span>
+          <p>Got the conversion pixel. Shared Feathr's developer install guide:<br>
+          <a href="https://help.feathr.co/hc/en-us/articles/1500002693961-Conversion-Pixel-Developer-Guide" target="_blank" rel="noopener">help.feathr.co — Conversion Pixel Developer Guide</a></p>
+        </div>
+        <div class="doc-msg">
+          <span class="who">Robert Heffle → Gary, John<span class="when">May 28, 2026</span></span>
+          <p>Campaign recap: 194,000 people saw an LIM ad, 655 visited the site, $1,700 spent at $2.64/click. Per John, there's a way to capture how many of those 655 gave. Asked Gary &amp; John to connect and get this <strong>closed out.</strong></p>
+        </div>
+      </div>
+      <p style="margin-top:1.25rem"><strong>Where it stands:</strong> The conversion pixel ID has been delivered (<span class="ic">6a0bb2f14647de16ae5b1ccb</span>, see <span class="ic">LIM Conversion Pixel.txt</span>). It has <strong>not</strong> yet been installed on the donation confirmation step. That installation is the remaining work.</p>
+    </div>
+  </div>
+
+  <!-- 2. How Feathr tracking works -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">2</div>
+      <span class="doc-section-title">How Feathr Conversion Tracking Works</span>
+    </div>
+    <div class="doc-section-body">
+      <p>Feathr attribution has <strong>two parts</strong>. Both must be present for a conversion to be counted and attributed to an ad.</p>
+
+      <h3>Part A — The base Feathr pixel (site-wide)</h3>
+      <p>A small loader script that defines the global <span class="ic">feathr()</span> function and tracks page views. It belongs on <em>every</em> page of the site. Meyer Partners / Feathr supply this (it may already be live on the Squarespace site, since the ads are retargeting visitors — that retargeting <em>requires</em> the base pixel to be present). Confirm it before doing anything else.</p>
+      <div class="doc-code-wrap">
+        <span class="doc-code-label">JavaScript — base pixel (representative)</span>
+        <pre><code><span class="hl-tag">&lt;script&gt;</span>
+  <span class="hl-comment">// Feathr Super Pixel — get the exact snippet from Feathr / Meyer Partners.</span>
+  <span class="hl-comment">// This defines the global feathr() function used below.</span>
+  (<span class="hl-kw">function</span>(f,e,a,t,h,r){
+    f.feathr=h=<span class="hl-kw">function</span>(){h.q.<span class="hl-fn">push</span>(<span class="hl-fn">arguments</span>)};h.q=[];
+    r=e.<span class="hl-fn">createElement</span>(a);r.async=<span class="hl-num">1</span>;r.src=t;
+    e.<span class="hl-fn">getElementsByTagName</span>(<span class="hl-str">'head'</span>)[<span class="hl-num">0</span>].<span class="hl-fn">appendChild</span>(r);
+  })(window,document,<span class="hl-str">'script'</span>,<span class="hl-str">'https://cdn.feathr.co/js/feathr.min.js'</span>);
+
+  feathr(<span class="hl-str">'init'</span>, <span class="hl-str">'&lt;YOUR_FEATHR_ACCOUNT_ID&gt;'</span>);
+  feathr(<span class="hl-str">'sprinkle'</span>);  <span class="hl-comment">// fires the page-view breadcrumb</span>
+<span class="hl-tag">&lt;/script&gt;</span></code></pre>
+      </div>
+
+      <h3>Part B — The conversion call (donation confirmation only)</h3>
+      <p>This is the snippet John delivered. It fires once, on the donation "success / thank you" page, and reports the gift back to Feathr — with the dollar amount for ROAS. This is the exact code from <span class="ic">LIM Conversion Pixel.txt</span>:</p>
+      <div class="doc-code-wrap">
+        <span class="doc-code-label">JavaScript — conversion pixel (LIM)</span>
+        <pre><code><span class="hl-comment">// Provide your own means of deriving the gift amount.</span>
+<span class="hl-kw">let</span> shoppingCartValue = <span class="hl-fn">getShoppingCartValue</span>();
+
+feathr(
+  <span class="hl-str">'convert'</span>,
+  <span class="hl-str">'6a0bb2f14647de16ae5b1ccb'</span>,   <span class="hl-comment">// LIM conversion ID</span>
+  {
+    amount:   shoppingCartValue,   <span class="hl-comment">// number, required</span>
+    currency: <span class="hl-str">'USD'</span>,           <span class="hl-comment">// optional, defaults to 'USD'</span>
+    category: <span class="hl-str">'Conversion'</span>     <span class="hl-comment">// optional, defaults to 'Conversion'</span>
+  }
+);</code></pre>
+      </div>
+      <p><span class="ic">getShoppingCartValue()</span> is a placeholder — we have to supply the real donation amount. How we get it depends on the confirmation method (Section 4).</p>
+    </div>
+  </div>
+
+  <!-- 3. The Blackbaud complication -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">3</div>
+      <span class="doc-section-title">The Catch — A Blackbaud-Hosted Confirmation</span>
+    </div>
+    <div class="doc-section-body">
+      <p>The donation form is a Blackbaud embed. After a successful gift, Blackbaud typically shows its <strong>own</strong> confirmation screen, rendered <em>inside Blackbaud's iframe / on a Blackbaud-hosted domain</em>. We cannot inject our JavaScript into that page. That's the whole reason this isn't a one-line copy-paste.</p>
+      <p>So the pixel can't simply "sit on the thank-you page." We need a confirmation surface we control, or an event from Blackbaud we can hook. Section 4 covers both, in order of preference.</p>
+    </div>
+  </div>
+
+  <!-- 4. Implementation options -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">4</div>
+      <span class="doc-section-title">Implementation Options</span>
+    </div>
+    <div class="doc-section-body">
+
+      <div class="doc-option-badge recommended">Option A</div>
+      <h3>Custom redirect to a LIM thank-you page</h3>
+      <p>In the Blackbaud form settings, set a <strong>confirmation redirect URL</strong> to a thank-you page we own (e.g. <span class="ic">/thank-you</span>). Blackbaud appends the gift details to that URL as query parameters; we read the amount from the URL and fire the conversion. This is the cleanest, most reliable approach.</p>
+      <div class="doc-code-wrap">
+        <span class="doc-code-label">JavaScript — on /thank-you</span>
+        <pre><code><span class="hl-tag">&lt;script&gt;</span>
+  <span class="hl-comment">// Blackbaud passes the gift amount on the redirect, e.g. ?amount=50.00</span>
+  <span class="hl-kw">var</span> params = <span class="hl-kw">new</span> <span class="hl-fn">URLSearchParams</span>(window.location.search);
+  <span class="hl-kw">var</span> amount = <span class="hl-fn">parseFloat</span>(params.<span class="hl-fn">get</span>(<span class="hl-str">'amount'</span>)) || <span class="hl-num">0</span>;
+
+  feathr(<span class="hl-str">'convert'</span>, <span class="hl-str">'6a0bb2f14647de16ae5b1ccb'</span>, {
+    amount: amount,
+    currency: <span class="hl-str">'USD'</span>,
+    category: <span class="hl-str">'Donation'</span>
+  });
+<span class="hl-tag">&lt;/script&gt;</span></code></pre>
+      </div>
+      <ul class="doc-list">
+        <li>Confirm the exact <strong>parameter name</strong> Blackbaud sends (it may be <span class="ic">amount</span>, <span class="ic">TransactionAmount</span>, etc.) and adjust the code to match.</li>
+        <li>Make sure the base Feathr pixel (Part A) also loads on <span class="ic">/thank-you</span>, or <span class="ic">feathr()</span> won't be defined.</li>
+        <li>Guard against double-counting on refresh (e.g. set a <span class="ic">sessionStorage</span> flag once fired).</li>
+      </ul>
+
+      <hr class="doc-divider">
+
+      <div class="doc-option-badge">Option B</div>
+      <h3>Blackbaud BBOX completion event</h3>
+      <p>If we use the Blackbaud Checkout (BBOX) script and keep the donor on our page, BBOX emits client-side events. Fire the conversion from the success callback and read the amount from the event payload. This avoids a redirect but depends on the embed exposing a usable event.</p>
+      <div class="doc-code-wrap">
+        <span class="doc-code-label">JavaScript — BBOX callback (verify event API)</span>
+        <pre><code><span class="hl-comment">// Pseudocode — confirm the actual BBOX event/payload in Blackbaud docs.</span>
+bbox.<span class="hl-fn">onComplete</span>(<span class="hl-kw">function</span>(result){
+  feathr(<span class="hl-str">'convert'</span>, <span class="hl-str">'6a0bb2f14647de16ae5b1ccb'</span>, {
+    amount: result.amount,
+    currency: <span class="hl-str">'USD'</span>,
+    category: <span class="hl-str">'Donation'</span>
+  });
+});</code></pre>
+      </div>
+      <p>See <a href="docs-blackbaud.html">the Blackbaud integration doc</a> for how the BBOX form is wired on the new site.</p>
+
+      <hr class="doc-divider">
+
+      <div class="doc-option-badge">Option C — fallback</div>
+      <h3>Fire on submit click (no amount accuracy)</h3>
+      <p>If neither a redirect nor an event is available, fire the conversion when the donor clicks "Give Now." This counts the conversion but <strong>cannot guarantee the gift actually completed</strong> and the amount may be the <em>selected</em> rather than <em>charged</em> value. Use only as a last resort — it inflates the count and weakens ROAS data.</p>
+    </div>
+  </div>
+
+  <!-- 5. Current site vs new site -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">5</div>
+      <span class="doc-section-title">Current Squarespace Site vs. New Site</span>
+    </div>
+    <div class="doc-section-body">
+      <div class="doc-cards">
+        <div class="doc-card">
+          <h4>Current — Squarespace (live)</h4>
+          <p>This is where the ads point <em>today</em>, so it's the priority. Add the base pixel via Squarespace <em>Settings → Advanced → Code Injection → Header</em> (if not already present), and place the conversion snippet on the donation confirmation surface using Option A or B.</p>
+        </div>
+        <div class="doc-card">
+          <h4>New site (this repo)</h4>
+          <p>Same two parts. Add the base pixel before <span class="ic">&lt;/head&gt;</span> on every page; add the conversion call to the thank-you page / BBOX callback. Keep the same conversion ID so reporting is continuous across the migration.</p>
+        </div>
+      </div>
+      <p style="margin-top:1.25rem"><strong>Do both sites with the same conversion ID.</strong> Feathr attributes by ID, not by URL, so a single ID across both sites gives Meyer Partners one continuous conversion total through the cutover.</p>
+    </div>
+  </div>
+
+  <!-- 6. Next steps -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">6</div>
+      <span class="doc-section-title">Next Steps — Action Checklist</span>
+    </div>
+    <div class="doc-section-body">
+      <ul class="doc-todo">
+        <li><span class="num">1.</span><span class="box"></span><div><strong>Confirm the base pixel is live</strong> on the Squarespace site (view source, search for <span class="ic">feathr</span>). If missing, get the exact Super Pixel + account ID from John/Feathr and add via Code Injection.<span class="doc-owner">Gary</span></div></li>
+        <li><span class="num">2.</span><span class="box"></span><div><strong>Get the Feathr account ID and confirm the convert syntax</strong> against the developer guide John linked. Verify the <span class="ic">convert</span> ID <span class="ic">6a0bb2f14647de16ae5b1ccb</span> is the conversion (not the campaign) ID.<span class="doc-owner">John / Gary</span></div></li>
+        <li><span class="num">3.</span><span class="box"></span><div><strong>Decide the confirmation method</strong> with Blackbaud — confirm whether we can set a redirect URL (Option A) or hook a BBOX completion event (Option B), and what parameter carries the gift amount.<span class="doc-owner">Gary</span></div></li>
+        <li><span class="num">4.</span><span class="box"></span><div><strong>Build the thank-you page</strong> (or callback), wire the conversion snippet with the real amount, and add a double-fire guard.<span class="doc-owner">Gary</span></div></li>
+        <li><span class="num">5.</span><span class="box"></span><div><strong>Test end-to-end</strong> with a real (or $1 test) gift. Confirm the conversion + amount appear in the Feathr dashboard.<span class="doc-owner">Gary / John</span></div></li>
+        <li><span class="num">6.</span><span class="box"></span><div><strong>Report ROAS back to Robert</strong> — of the 655 visitors, how many gave and how much, attributed to the ads. Close the thread.<span class="doc-owner">Gary → Robert</span></div></li>
+        <li><span class="num">7.</span><span class="box"></span><div><strong>Replicate on the new site</strong> at migration using the same conversion ID.<span class="doc-owner">Gary</span></div></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- 7. Open questions -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">7</div>
+      <span class="doc-section-title">Open Questions to Resolve</span>
+    </div>
+    <div class="doc-section-body">
+      <ul class="doc-list">
+        <li><strong>For John / Feathr:</strong> What is the Feathr <em>account/init ID</em>, and is the base pixel already on the Squarespace site? Is <span class="ic">6a0bb2f14647de16ae5b1ccb</span> a conversion-specific ID or the campaign ID?</li>
+        <li><strong>For Blackbaud admin:</strong> Can we set a custom confirmation redirect URL on the donation form, and does it pass the gift amount as a query parameter? If not, does the embed expose a completion event/callback?</li>
+        <li><strong>For Robert:</strong> What reporting cadence does Meyer Partners want once tracking is live (one-time recap vs. ongoing ROAS)?</li>
+      </ul>
+    </div>
+  </div>
+
+  <p style="font-size:.8rem;color:var(--muted);text-align:center;margin-top:3rem">
+    <a href="index.html" style="color:var(--muted)">← Back to Site</a>
+    &nbsp;·&nbsp; <a href="docs-blackbaud.html" style="color:var(--muted)">Blackbaud Integration Doc</a>
+    &nbsp;·&nbsp; LIM Developer Documentation &nbsp;·&nbsp; Restricted Access
+  </p>
+
+</div>
+</body>
+</html>
