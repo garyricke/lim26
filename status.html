@@ -189,6 +189,23 @@
     <span class="meta">Newest first · 68 commits since March 16</span>
   </div>
 
+  <!-- June 8 — Events Manager v2 -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">June 8, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Events Manager v2 — AI-assisted, no-code, publishes live</div>
+      <ul>
+        <li>Roberta no longer touches HTML or pastes code. She types notes (or fills a form), AI shapes the card, she refines by chat, then <strong>Approve &amp; Publish</strong> puts it live in ~1–2 minutes</li>
+        <li>Healing Groups sessions now render from <span class="ic">data/events.json</span> (single source of truth) with the day-after auto-expiry preserved</li>
+        <li>Two Netlify functions: <span class="ic">events-ai</span> (Claude structures/refines the event) and <span class="ic">events-publish</span> (commits to GitHub → site rebuilds)</li>
+        <li>One-time Netlify setup needed (API key, GitHub token, publish password) — <a href="docs-events-setup.html">setup guide</a>. Until then the form/preview work but publishing is disabled</li>
+      </ul>
+    </div>
+  </div>
+
   <!-- June 8 — Feathr -->
   <div class="entry">
     <div class="entry-head">
@@ -471,9 +488,10 @@
     <div class="entry-body">
       <div class="entry-title">Self-serve healing-group event manager for Roberta</div>
       <ul>
-        <li>Built <a href="admin-events.html" class="ic">admin-events.html</a> — add / edit events from a form with live preview and copy-paste output</li>
-        <li>Each event auto-removes once its date has passed (no manual cleanup — e.g. Winnebago); manager shows Live / Removed status</li>
-        <li class="todo">Optional follow-up: fully data-drive the session list so edits never touch HTML (needs a small data file / backend decision)</li>
+        <li><strong>v2 (no-code, AI-assisted, publishes live):</strong> <a href="admin-events.html" class="ic">admin-events.html</a> — Roberta types notes or fills a form, AI structures the card, she refines by chat, then <strong>Approve &amp; Publish</strong> puts it on the site (~1–2 min). No HTML, no copy-paste</li>
+        <li>Session list is now data-driven from <span class="ic">data/events.json</span>; publishing commits that file via a Netlify function → site rebuilds → live</li>
+        <li>Each event auto-removes the day after its last date (no manual cleanup — e.g. Winnebago); manager shows Live / Removed status</li>
+        <li class="todo">One-time Netlify setup before Roberta can publish (API key + token + password) — see <a href="docs-events-setup.html">Events Manager setup</a></li>
       </ul>
     </div>
   </div>
