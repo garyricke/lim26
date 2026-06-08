@@ -88,12 +88,12 @@
     .hl-num{color:#b5cea8}
 
     /* Inline code */
-    .ic{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.1em .4em;color:var(--charcoal)}
+    .ic{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.1em .4em;color:var(--charcoal);white-space:nowrap}
 
     /* List */
     .doc-list{list-style:none;display:flex;flex-direction:column;gap:.65rem;margin:.75rem 0 1rem}
-    .doc-list li{display:flex;gap:.65rem;font-size:.95rem;color:var(--muted);line-height:1.65}
-    .doc-list li::before{content:'→';color:var(--red);font-weight:700;flex-shrink:0;margin-top:1px}
+    .doc-list li{position:relative;padding-left:1.4rem;font-size:.95rem;color:var(--muted);line-height:1.65}
+    .doc-list li::before{content:'→';color:var(--red);font-weight:700;position:absolute;left:0;top:0}
     .doc-list.check li::before{content:'✓';color:var(--green)}
     .doc-list li strong{color:var(--charcoal)}
 
