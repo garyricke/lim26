@@ -272,6 +272,8 @@
     .blog-rule{width:44px;height:3px;background:var(--yellow);border-radius:2px;margin:.85rem 0 1.25rem}
     .blog-read{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--red);display:flex;align-items:center;gap:.4rem;margin-top:1.25rem;transition:gap var(--t)}
     .blog-featured:hover .blog-read,.blog-card:hover .blog-read{gap:.7rem}
+    .blog-read.btn{align-self:flex-start;display:inline-flex;background:var(--red);color:#fff;padding:.7rem 1.6rem;border-radius:6px;margin-top:1.5rem;font-size:.9rem;transition:background var(--t),gap var(--t)}
+    .blog-featured:hover .blog-read.btn{background:#c8141b;gap:.7rem}
     @media(max-width:960px){.blog-featured{grid-template-columns:1fr}.blog-featured .blog-img{height:280px}.blog-featured .blog-body{padding:2rem}}
     @media(max-width:600px){.blog-featured .blog-body{padding:1.5rem}.blog-grid{grid-template-columns:1fr}}
 
@@ -456,17 +458,10 @@
           <a href="about.html#stories">Stories</a>
         </div>
       </li>
-      <li class="nav-has-dd">
-        <a href="#healing">What We Do</a>
-        <div class="nav-dd">
-          <a href="#healing">Healing Groups</a>
-          <a href="healing-groups.html">Find a Group</a>
-        </div>
-      </li>
+      <li><a href="healing-groups.html">Healing Groups</a></li>
       <li><a href="#haskell">Haskell LIGHT</a></li>
-      <li><a href="#testimonials">Stories</a></li>
       <li><a href="#videos">Videos</a></li>
-      <li><a href="#blog">Blog</a></li>
+      <li><a href="#blog">Stories</a></li>
     </ul>
     <button onclick="openModal('m-donate')" class="nav-give">Donate</button>
   </div>
@@ -820,7 +815,7 @@
         <h3 class="blog-title">I Can Do All Things<br><em style="font-style:italic;color:var(--sage-d);font-size:.78em">Philippians 4:13</em></h3>
         <div class="blog-rule"></div>
         <p class="blog-excerpt">If you are like me, you can recite this verse — but in real life, find yourself far from being able "to do all things." A devotional on what changes when we stop performing strength and start receiving it.</p>
-        <span class="blog-read">Read the Devotional →</span>
+        <span class="blog-read btn">Read the Devotional →</span>
       </div>
     </a>
 
