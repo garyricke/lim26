@@ -69,12 +69,14 @@
     .entry-body{padding:1.25rem 1.4rem}
     .entry-title{font-family:var(--serif);font-size:1.05rem;font-weight:700;color:var(--charcoal);margin-bottom:.65rem;line-height:1.4}
     .entry-body ul{list-style:none;display:flex;flex-direction:column;gap:.45rem;margin:0}
-    .entry-body li{display:flex;gap:.55rem;font-size:.93rem;color:var(--muted);line-height:1.6}
-    .entry-body li::before{content:'✓';color:var(--green);font-weight:700;flex-shrink:0;width:1em}
+    .entry-body li{position:relative;padding-left:1.5rem;font-size:.93rem;color:var(--muted);line-height:1.6}
+    .entry-body li::before{content:'✓';color:var(--green);font-weight:700;position:absolute;left:0;top:0}
     .entry-body li.todo::before{content:'○';color:var(--sage-d)}
     .entry-body li.flag::before{content:'!';color:var(--red);font-weight:800}
     .entry-body li strong{color:var(--charcoal);font-weight:600}
-    .entry-body .ic{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.05em .35em;color:var(--charcoal)}
+    .entry-body .ic{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.05em .35em;color:var(--charcoal);white-space:nowrap}
+    .entry-body a.ic{color:var(--red);text-decoration:none;transition:background .15s ease,border-color .15s ease}
+    .entry-body a.ic:hover{background:rgba(237,28,36,.08);border-color:rgba(237,28,36,.35)}
 
     /* Pending / discussion section */
     .pending{background:#fff;border:1px solid var(--border);border-radius:var(--rl);padding:1.5rem 1.75rem;margin-top:1rem}
@@ -196,7 +198,7 @@
     <div class="entry-body">
       <div class="entry-title">Feathr ad-conversion tracking documented</div>
       <ul>
-        <li>NEW <span class="ic">docs-feathr.html</span> — documents the Meyer Partners / Feathr thread, the delivered conversion pixel (ID <span class="ic">6a0bb2f14647de16ae5b1ccb</span>), the Blackbaud-embed confirmation complication, three implementation options, current-vs-new-site plan, and a next-steps checklist with owners</li>
+        <li>NEW <a href="docs-feathr.html" class="ic">docs-feathr.html</a> — documents the Meyer Partners / Feathr thread, the delivered conversion pixel (ID <span class="ic">6a0bb2f14647de16ae5b1ccb</span>), the Blackbaud-embed confirmation complication, three implementation options, current-vs-new-site plan, and a next-steps checklist with owners</li>
         <li>"Feathr Ad Tracking" added to the Admin (A) menu (index, about, healing-groups)</li>
         <li><strong>Goal:</strong> of the 655 ad-driven visitors, report how many gave and how much (ROAS) back to Robert. Pixel received but not yet installed — install on the donation confirmation step is the remaining work</li>
       </ul>
@@ -215,9 +217,9 @@
         <li>Top nav: "What We Do ▾" dropdown replaced with a one-click <strong>Healing Groups</strong> link (index + about)</li>
         <li>Top-nav <strong>Stories</strong> now jumps to the <em>Stories &amp; Updates</em> section; "Watch our story" left as-is by design</li>
         <li><em>Read the Devotional</em> promoted from a text link to a prominent button</li>
-        <li>NEW <span class="ic">admin-events.html</span> — Roberta can add/edit healing-group events from a form with live card preview and copy-paste output; no code required</li>
+        <li>NEW <a href="admin-events.html" class="ic">admin-events.html</a> — Roberta can add/edit healing-group events from a form with live card preview and copy-paste output; no code required</li>
         <li>Events <strong>auto-remove the day after their last date</strong> (already live on the sessions page); the manager shows each event's Live / Removed status</li>
-        <li>"Events Manager" added to the Admin (A) menu; <span class="ic">SESSIONS:START/END</span> paste markers added to healing-groups.html</li>
+        <li>"Events Manager" added to the Admin (A) menu; <span class="ic">SESSIONS:START/END</span> paste markers added to <a href="healing-groups.html" class="ic">healing-groups.html</a></li>
       </ul>
     </div>
   </div>
@@ -310,7 +312,7 @@
       <div class="entry-title">Copy review system + video interview training + Cloudinary migration</div>
       <ul>
         <li><strong>Site copy review system:</strong> <span class="ic">site-copy.md</span> + <span class="ic">site-copy-clean.md</span> + <span class="ic">site-copy.map.json</span> — 846 stable-ID copy blocks across all 7 pages, regenerated from HTML on demand</li>
-        <li><strong>Video Interview Training Guide</strong> at <span class="ic">docs-video-interview-guide.html</span> + Netlify release form</li>
+        <li><strong>Video Interview Training Guide</strong> at <a href="docs-video-interview-guide.html" class="ic">docs-video-interview-guide.html</a> + Netlify release form</li>
         <li>Haskell LIGHT carousel images migrated to Cloudinary (<span class="ic">f_auto,q_auto,w_1200</span>)</li>
         <li>Topbar logos clickable to home on developer docs, guide, and release form</li>
         <li>Robert's team card cleaned up (removed Yup'ik Eskimo · Brookfield, WI line)</li>
@@ -365,7 +367,7 @@
         <li>About page hero swapped from still image to Cloudinary video; matching tagline</li>
         <li>"Healing Groups" nav renamed to <strong>"What We Do"</strong></li>
         <li><strong>March 2026 Military Healing Group feedback page</strong> with password gate, speaker photos, transcript modals</li>
-        <li><strong>Blackbaud / BBOX integration docs</strong> page (<span class="ic">docs-blackbaud.html</span>) — password-protected developer reference</li>
+        <li><strong>Blackbaud / BBOX integration docs</strong> page (<a href="docs-blackbaud.html" class="ic">docs-blackbaud.html</a>) — password-protected developer reference</li>
         <li>LIMHOPE.org dropdown alias removed (redundant)</li>
       </ul>
     </div>
@@ -468,7 +470,7 @@
     <div class="entry-body">
       <div class="entry-title">Self-serve healing-group event manager for Roberta</div>
       <ul>
-        <li>Built <span class="ic">admin-events.html</span> — add / edit events from a form with live preview and copy-paste output</li>
+        <li>Built <a href="admin-events.html" class="ic">admin-events.html</a> — add / edit events from a form with live preview and copy-paste output</li>
         <li>Each event auto-removes once its date has passed (no manual cleanup — e.g. Winnebago); manager shows Live / Removed status</li>
         <li class="todo">Optional follow-up: fully data-drive the session list so edits never touch HTML (needs a small data file / backend decision)</li>
       </ul>
