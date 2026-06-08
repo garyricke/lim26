@@ -17,10 +17,10 @@
       --serif:'Merriweather',Georgia,serif;
       --cond:'Barlow Condensed','Arial Narrow',sans-serif;
       --body:'Open Sans',system-ui,sans-serif;
-      --max:1040px;--r:8px;--rl:16px;--t:.2s ease;
+      --max:1060px;--r:8px;--rl:16px;--t:.2s ease;
     }
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.65}
+    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.6}
     a{color:var(--red);text-decoration:none}a:hover{text-decoration:underline}
 
     #topbar{background:var(--charcoal);padding:.75rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
@@ -28,39 +28,47 @@
     #topbar span{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4)}
 
     .wrap{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem 5rem}
-    .header{margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:2px solid var(--border)}
-    .eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.6rem;display:block}
-    .title{font-family:var(--serif);font-size:clamp(1.7rem,3.4vw,2.2rem);line-height:1.2;margin-bottom:.85rem}
-    .intro{font-size:.97rem;color:var(--muted);max-width:720px}
+    .header{margin-bottom:1.5rem;padding-bottom:1.25rem;border-bottom:2px solid var(--border)}
+    .eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.5rem;display:block}
+    .title{font-family:var(--serif);font-size:clamp(1.6rem,3.2vw,2.1rem);line-height:1.2;margin-bottom:.7rem}
+    .intro{font-size:.95rem;color:var(--muted);max-width:740px}
     .intro strong{color:var(--charcoal)}
 
-    .grid{display:grid;grid-template-columns:1fr 1fr;gap:1.75rem;align-items:start}
-    @media(max-width:820px){.grid{grid-template-columns:1fr}}
+    .banner{border-radius:var(--r);padding:.85rem 1.1rem;font-size:.88rem;margin-bottom:1.25rem;display:none}
+    .banner.warn{background:rgba(181,134,43,.12);border:1px solid rgba(181,134,43,.4);color:#7a5a14}
+    .banner a{font-weight:600}
 
-    .panel{background:#fff;border:1px solid var(--border);border-radius:var(--rl);padding:1.5rem 1.6rem;box-shadow:0 2px 8px rgba(0,0,0,.04)}
-    .panel h2{font-family:var(--serif);font-size:1.25rem;margin-bottom:.35rem}
-    .panel .sub{font-size:.85rem;color:var(--muted);margin-bottom:1.25rem}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;align-items:start}
+    @media(max-width:840px){.grid{grid-template-columns:1fr}}
 
-    label{display:block;font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--charcoal);margin:1rem 0 .35rem}
-    label .hint{font-family:var(--body);font-weight:400;text-transform:none;letter-spacing:0;color:var(--muted);font-size:.8rem}
-    input,select,textarea{width:100%;padding:.6rem .8rem;border:1.5px solid var(--border);border-radius:6px;font-family:var(--body);font-size:.95rem;color:var(--charcoal);background:#fff;outline:none;transition:border var(--t)}
+    .panel{background:#fff;border:1px solid var(--border);border-radius:var(--rl);padding:1.4rem 1.5rem;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .panel h2{font-family:var(--serif);font-size:1.2rem;margin-bottom:.3rem}
+    .panel .sub{font-size:.84rem;color:var(--muted);margin-bottom:1.1rem}
+
+    .aibox{background:var(--stone);border-radius:var(--r);padding:1rem 1.1rem;margin-bottom:1.25rem}
+    .aibox label{margin-top:0}
+    label{display:block;font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--charcoal);margin:.9rem 0 .3rem}
+    label .hint{font-family:var(--body);font-weight:400;text-transform:none;letter-spacing:0;color:var(--muted);font-size:.78rem}
+    input,select,textarea{width:100%;padding:.55rem .75rem;border:1.5px solid var(--border);border-radius:6px;font-family:var(--body);font-size:.93rem;color:var(--charcoal);background:#fff;outline:none;transition:border var(--t)}
     input:focus,select:focus,textarea:focus{border-color:var(--sky-d)}
-    textarea{resize:vertical;min-height:84px}
-    .row2{display:grid;grid-template-columns:1fr 1fr;gap:.85rem}
-    .row2 label{margin-top:1rem}
+    textarea{resize:vertical;min-height:72px}
+    .row2{display:grid;grid-template-columns:1fr 1fr;gap:.8rem}
+    .row2 label{margin-top:.9rem}
 
-    .btn{font-family:var(--cond);font-size:.95rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;border:none;border-radius:6px;padding:.7rem 1.5rem;cursor:pointer;transition:var(--t)}
-    .btn-red{background:var(--red);color:#fff}.btn-red:hover{background:var(--red-h)}
-    .btn-dark{background:var(--charcoal);color:var(--yellow)}.btn-dark:hover{background:#000}
-    .btn-ghost{background:transparent;color:var(--charcoal);border:1.5px solid var(--border)}.btn-ghost:hover{background:var(--stone)}
-    .btn-row{display:flex;gap:.6rem;flex-wrap:wrap;margin-top:1.4rem}
+    .btn{font-family:var(--cond);font-size:.92rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;border:none;border-radius:6px;padding:.65rem 1.3rem;cursor:pointer;transition:var(--t)}
+    .btn:disabled{opacity:.5;cursor:default}
+    .btn-red{background:var(--red);color:#fff}.btn-red:hover:not(:disabled){background:var(--red-h)}
+    .btn-dark{background:var(--charcoal);color:var(--yellow)}.btn-dark:hover:not(:disabled){background:#000}
+    .btn-green{background:var(--green);color:#fff}.btn-green:hover:not(:disabled){filter:brightness(1.08)}
+    .btn-ghost{background:transparent;color:var(--charcoal);border:1.5px solid var(--border)}.btn-ghost:hover:not(:disabled){background:var(--stone)}
+    .btn-sm{padding:.5rem 1rem;font-size:.84rem}
+    .btn-row{display:flex;gap:.55rem;flex-wrap:wrap;margin-top:1.2rem}
 
-    /* live preview card — mirrors healing-groups .scard */
-    .pv-label{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.5rem 0 .65rem}
-    .scard{background:#fff;border:1px solid var(--border);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 2px 10px rgba(0,0,0,.05);max-width:360px}
+    .pv-label{font-family:var(--cond);font-size:.76rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.3rem 0 .6rem}
+    .scard{background:#fff;border:1px solid var(--border);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 2px 10px rgba(0,0,0,.05);max-width:370px}
     .scard-top{display:flex;align-items:flex-start;justify-content:space-between;gap:.75rem;padding:1.1rem 1.3rem .4rem}
     .scard-date{font-family:var(--cond);font-size:1.15rem;font-weight:700;color:var(--charcoal);line-height:1.1}
-    .scard-date span{display:block;font-size:.78rem;font-weight:600;color:var(--muted);letter-spacing:.02em;margin-top:.15rem}
+    .scard-date span{display:block;font-size:.78rem;font-weight:600;color:var(--muted);margin-top:.15rem}
     .badge{font-family:var(--cond);font-size:.68rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:.3rem .6rem;border-radius:20px;white-space:nowrap;flex-shrink:0}
     .badge-ip{background:rgba(162,194,209,.25);color:var(--sky-d)}
     .badge-on{background:rgba(178,172,136,.25);color:var(--sage-d)}
@@ -71,39 +79,47 @@
     .scard-loc{font-size:.88rem;font-weight:600;color:var(--charcoal);margin-bottom:.55rem}
     .scard-body p{font-size:.88rem;color:var(--muted);line-height:1.6}
     .scard-foot{margin-top:auto;padding:0 1.3rem 1.3rem;display:flex;gap:.6rem;flex-wrap:wrap}
-    .scard-foot .pvbtn{font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;background:var(--red);color:#fff;border-radius:6px;padding:.55rem 1.1rem;display:inline-block}
+    .scard-foot .pvbtn{font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#fff;border-radius:6px;padding:.55rem 1.1rem;display:inline-block}
+    .pvbtn.reg{background:var(--red)}.pvbtn.wait{background:transparent;color:var(--charcoal);border:1.5px solid var(--charcoal)}.pvbtn.int{background:var(--sky);color:var(--charcoal)}
+    .pvbtn.det{background:transparent;color:var(--muted);border:1.5px solid var(--border)}
 
-    /* output box */
-    .out{margin-top:1.4rem}
-    .out textarea{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.78rem;line-height:1.5;min-height:150px;background:#1a1a16;color:#d7d3c8;border-color:#2c2c26}
-    .steps{background:var(--stone);border-radius:var(--r);padding:1rem 1.2rem;margin-top:1rem;font-size:.88rem;color:var(--muted)}
-    .steps ol{margin:.4rem 0 0 1.1rem;display:flex;flex-direction:column;gap:.3rem}
-    .steps code{font-family:'Fira Code',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.05em .35em;color:var(--charcoal)}
+    /* chat */
+    .chat{margin-top:1.3rem;border-top:1px solid var(--border);padding-top:1.1rem}
+    .chat-log{display:flex;flex-direction:column;gap:.5rem;margin-bottom:.7rem;max-height:200px;overflow-y:auto}
+    .msg{font-size:.86rem;padding:.5rem .8rem;border-radius:10px;max-width:88%;line-height:1.5}
+    .msg.you{background:var(--charcoal);color:#fff;align-self:flex-end;border-bottom-right-radius:3px}
+    .msg.ai{background:var(--stone);color:var(--charcoal);align-self:flex-start;border-bottom-left-radius:3px}
+    .chat-in{display:flex;gap:.5rem}
+    .chat-in input{flex:1}
 
-    /* current events table */
+    .publish{margin-top:1.4rem;background:rgba(95,138,79,.07);border:1px solid rgba(95,138,79,.3);border-radius:var(--r);padding:1rem 1.1rem}
+    .publish .pw{display:flex;gap:.5rem;align-items:center;margin-bottom:.8rem}
+    .publish .pw input{max-width:220px}
+    .publish small{display:block;color:var(--muted);font-size:.8rem;margin-top:.6rem}
+
     .evlist{margin-top:2.5rem}
-    .evlist h2{font-family:var(--serif);font-size:1.35rem;margin-bottom:.3rem}
-    .evlist .sub{font-size:.88rem;color:var(--muted);margin-bottom:1.2rem}
+    .evlist h2{font-family:var(--serif);font-size:1.3rem;margin-bottom:.3rem}
+    .evlist .sub{font-size:.86rem;color:var(--muted);margin-bottom:1.1rem}
     table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--border);border-radius:var(--rl);overflow:hidden}
-    th,td{text-align:left;padding:.7rem .9rem;font-size:.88rem;border-bottom:1px solid var(--border);vertical-align:middle}
-    th{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);background:var(--stone)}
+    th,td{text-align:left;padding:.65rem .85rem;font-size:.87rem;border-bottom:1px solid var(--border);vertical-align:middle}
+    th{font-family:var(--cond);font-size:.73rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);background:var(--stone)}
     tr:last-child td{border-bottom:none}
     tr.gone td{opacity:.5}
-    .st{font-family:var(--cond);font-size:.7rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:20px;white-space:nowrap}
+    .st{font-family:var(--cond);font-size:.69rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:20px;white-space:nowrap}
     .st.live{background:rgba(95,138,79,.15);color:var(--green)}
     .st.gone{background:rgba(40,41,36,.08);color:var(--muted)}
-    .st.draft{background:rgba(255,222,22,.25);color:#7a6900}
-    .tbtn{font-family:var(--cond);font-size:.74rem;font-weight:700;text-transform:uppercase;letter-spacing:.04em;background:transparent;border:1.5px solid var(--border);border-radius:5px;padding:.25rem .6rem;cursor:pointer;color:var(--charcoal);transition:var(--t)}
+    .tbtn{font-family:var(--cond);font-size:.73rem;font-weight:700;text-transform:uppercase;letter-spacing:.04em;background:transparent;border:1.5px solid var(--border);border-radius:5px;padding:.25rem .6rem;cursor:pointer;color:var(--charcoal);transition:var(--t)}
     .tbtn:hover{background:var(--charcoal);color:#fff;border-color:var(--charcoal)}
     .tbtn.del:hover{background:var(--red);border-color:var(--red);color:#fff}
 
-    .toast{position:fixed;bottom:1.5rem;left:50%;transform:translateX(-50%) translateY(120%);background:var(--charcoal);color:#fff;padding:.8rem 1.6rem;border-radius:8px;font-size:.9rem;box-shadow:0 8px 28px rgba(0,0,0,.3);transition:transform .3s ease;z-index:9000}
+    .toast{position:fixed;bottom:1.5rem;left:50%;transform:translateX(-50%) translateY(160%);background:var(--charcoal);color:#fff;padding:.8rem 1.5rem;border-radius:8px;font-size:.9rem;box-shadow:0 8px 28px rgba(0,0,0,.3);transition:transform .3s ease;z-index:9000;max-width:90vw;text-align:center}
     .toast.show{transform:translateX(-50%) translateY(0)}
-
+    .toast.err{background:var(--red-h)}
     .footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--border);font-size:.82rem;color:var(--muted)}
+    .spin{display:inline-block;width:14px;height:14px;border:2px solid rgba(255,255,255,.4);border-top-color:#fff;border-radius:50%;animation:sp .7s linear infinite;vertical-align:-2px;margin-right:.4rem}
+    @keyframes sp{to{transform:rotate(360deg)}}
   </style>
   <script>
-  /* Shared site password gate (same as the rest of the site) */
   (function(){
     var KEY='lim_auth_2026',HASH='53d81e6c17c82d10718106513d7a21defa05a0d73b2c89f59be66b40f8a05aac';
     if(localStorage.getItem(KEY)==='ok')return;
@@ -146,87 +162,77 @@
   <div class="header">
     <span class="eyebrow">Internal Tool</span>
     <h1 class="title">Healing Group Events Manager</h1>
-    <p class="intro">Add a new healing-group event to the website without touching code. Fill the form, see a live preview, then copy the generated card and paste it into the site (or send it to Gary). <strong>Events remove themselves automatically</strong> the day after the end date passes — no cleanup needed.</p>
+    <p class="intro">Type the details (or paste a few notes), let AI shape it into a card, fine-tune it by chatting, then <strong>Approve &amp; Publish</strong> to put it on the website. Events remove themselves automatically the day after they end.</p>
   </div>
+
+  <div class="banner warn" id="setup-banner"></div>
 
   <div class="grid">
 
-    <!-- FORM -->
+    <!-- LEFT: input -->
     <div class="panel">
-      <h2>Add / Edit an Event</h2>
-      <p class="sub">Fields marked with the date pickers control when the card shows and when it auto-removes.</p>
+      <h2>Add an Event</h2>
+      <p class="sub">Easiest way: type plain notes and let AI fill the form. Or edit the fields directly.</p>
 
-      <label>Event title <span class="hint">e.g. Community Healing Group</span></label>
-      <input id="f-title" type="text" placeholder="Community Healing Group" oninput="render()">
-
-      <label>Location <span class="hint">e.g. Lame Deer, MT  ·  or  Zoom — Online</span></label>
-      <input id="f-loc" type="text" placeholder="Lame Deer, MT" oninput="render()">
-
-      <div class="row2">
-        <div>
-          <label>Date label <span class="hint">shown on card</span></label>
-          <input id="f-datelabel" type="text" placeholder="May 16, 2026" oninput="render()">
-        </div>
-        <div>
-          <label>Sub-label <span class="hint">duration</span></label>
-          <input id="f-sub" type="text" placeholder="1 Day · Saturday" oninput="render()">
+      <div class="aibox">
+        <label for="ai-text">Describe the event in plain words</label>
+        <textarea id="ai-text" placeholder="e.g. Healing group in Bethel, Alaska, December 4 and 5. In person. Lunch provided. Open to anyone in the community."></textarea>
+        <div class="btn-row" style="margin-top:.8rem">
+          <button class="btn btn-dark btn-sm" id="ai-btn" onclick="aiParse()">✦ Structure with AI</button>
+          <button class="btn btn-ghost btn-sm" onclick="clearForm()">Clear</button>
         </div>
       </div>
 
+      <label>Event title</label>
+      <input id="f-title" type="text" placeholder="Community Healing Group" oninput="syncFromForm()">
+      <label>Location <span class="hint">e.g. Bethel, AK · or Zoom — Online</span></label>
+      <input id="f-loc" type="text" placeholder="Bethel, AK" oninput="syncFromForm()">
       <div class="row2">
-        <div>
-          <label>Type</label>
-          <select id="f-type" onchange="render()">
-            <option value="in-person">In-Person</option>
-            <option value="online">Online</option>
-            <option value="facilitator">Facilitator Training</option>
-            <option value="military">Military</option>
+        <div><label>Date label</label><input id="f-datelabel" type="text" placeholder="Dec 4–5, 2026" oninput="syncFromForm()"></div>
+        <div><label>Sub-label</label><input id="f-sub" type="text" placeholder="2 Days · Fri–Sat" oninput="syncFromForm()"></div>
+      </div>
+      <div class="row2">
+        <div><label>Type</label>
+          <select id="f-type" onchange="syncFromForm()">
+            <option value="in-person">In-Person</option><option value="online">Online</option>
+            <option value="facilitator">Facilitator Training</option><option value="military">Military</option>
           </select>
         </div>
-        <div>
-          <label>Last day <span class="hint">auto-removes after</span></label>
-          <input id="f-end" type="date" oninput="render()">
-        </div>
+        <div><label>Last day <span class="hint">auto-removes after</span></label><input id="f-end" type="date" oninput="syncFromForm()"></div>
       </div>
-
-      <label>Open for registration?</label>
-      <select id="f-open" onchange="render()">
-        <option value="true">Yes — accepting registrations</option>
-        <option value="false">No — full / waitlist</option>
+      <label>Button</label>
+      <select id="f-cta" onchange="syncFromForm()">
+        <option value="register">Register Now (open)</option>
+        <option value="waitlist">Join Waitlist (full)</option>
+        <option value="interest">Register Interest (not open yet)</option>
       </select>
-
       <label>Description <span class="hint">1–3 sentences</span></label>
-      <textarea id="f-desc" placeholder="Location, times, and any details participants need." oninput="render()"></textarea>
-
-      <div class="btn-row">
-        <button class="btn btn-red" onclick="saveDraft()">Save to My List</button>
-        <button class="btn btn-ghost" onclick="clearForm()">Clear Form</button>
-      </div>
+      <textarea id="f-desc" placeholder="Location, times, and any details participants need." oninput="syncFromForm()"></textarea>
     </div>
 
-    <!-- PREVIEW + OUTPUT -->
+    <!-- RIGHT: preview + chat + publish -->
     <div class="panel">
-      <h2>Live Preview</h2>
-      <p class="sub">This is exactly how the card will look on the Healing Groups page.</p>
-
+      <h2>Preview</h2>
+      <p class="sub">Exactly how the card will appear on the Healing Groups page.</p>
       <div class="pv-label">Card preview</div>
       <div id="preview"></div>
 
-      <div class="out">
-        <div class="pv-label">Generated code — copy this</div>
-        <textarea id="output" readonly></textarea>
-        <div class="btn-row">
-          <button class="btn btn-dark" onclick="copyOut()">Copy Card Code</button>
+      <div class="chat">
+        <div class="pv-label" style="margin-top:0">Refine by chat</div>
+        <div class="chat-log" id="chat-log"></div>
+        <div class="chat-in">
+          <input id="chat-input" type="text" placeholder='e.g. "make it online instead" or "add that lunch is provided"' onkeydown="if(event.key==='Enter')aiChat()">
+          <button class="btn btn-dark btn-sm" id="chat-btn" onclick="aiChat()">Send</button>
         </div>
-        <div class="steps">
-          <strong>How to publish:</strong>
-          <ol>
-            <li>Click <em>Copy Card Code</em> above.</li>
-            <li>In <code>healing-groups.html</code>, find the line <code>&lt;!-- SESSIONS:END --&gt;</code>.</li>
-            <li>Paste the code on the line just <em>above</em> it, then save &amp; publish.</li>
-            <li>Not comfortable editing the file? Email the copied code to Gary and he'll drop it in.</li>
-          </ol>
+      </div>
+
+      <div class="publish">
+        <div class="pw">
+          <input id="pub-pw" type="password" placeholder="Publish password" autocomplete="off">
+          <span style="font-size:.8rem;color:var(--muted)">required to publish</span>
         </div>
+        <button class="btn btn-green" id="pub-btn" onclick="publishEvent()" style="width:100%">✓ Approve &amp; Publish to Website</button>
+        <small>Goes live in about 1–2 minutes (the site rebuilds after publishing). Having trouble? <a href="#" onclick="copyJson();return false;">Copy the details</a> and send them to Gary.</small>
       </div>
     </div>
   </div>
@@ -234,161 +240,177 @@
   <!-- CURRENT EVENTS -->
   <div class="evlist">
     <h2>Current Events</h2>
-    <p class="sub">Everything currently on the Healing Groups page, plus anything you've saved here. <strong>Removed</strong> events have passed their last day and no longer show on the site.</p>
+    <p class="sub">Live on the Healing Groups page now. <strong>Removed</strong> events have passed their last day and no longer show.</p>
     <table>
       <thead><tr><th>Date</th><th>Event</th><th>Location</th><th>Type</th><th>Last day</th><th>Status</th><th></th></tr></thead>
-      <tbody id="evbody"></tbody>
+      <tbody id="evbody"><tr><td colspan="7" style="color:var(--muted)">Loading…</td></tr></tbody>
     </table>
   </div>
 
   <div class="footer">
-    Internal tool for Lutheran Indian Ministries. Your saved drafts live in this browser only until they're published to the live site. Questions — contact Gary.
+    Internal tool for Lutheran Indian Ministries. Publishing edits <code>data/events.json</code> and the site rebuilds automatically.
+    Setup &amp; troubleshooting: <a href="docs-events-setup.html">Events Manager setup</a>.
   </div>
 </div>
 
 <div class="toast" id="toast"></div>
 
 <script>
-  // ---- Seed: events already published on healing-groups.html ----
-  var SEED=[
-    {title:'Military Personnel Healing Group',loc:'Fairbanks, AK — In-Person',datelabel:'March 13–14, 2026',sub:'2 Days · Thu–Fri',type:'military',end:'2026-03-14',open:true},
-    {title:'Online Healing Group',loc:'Zoom — Online',datelabel:'March 18–27, 2026',sub:'2 Weeks · Online',type:'online',end:'2026-03-27',open:false},
-    {title:'Healing Group + Equipping Training',loc:'Winnebago, NE',datelabel:'April 14–17, 2026',sub:'4 Days · Tue–Fri',type:'facilitator',end:'2026-04-17',open:true},
-    {title:'Community Healing Group',loc:'Lame Deer, MT',datelabel:'May 16, 2026',sub:'1 Day · Saturday',type:'in-person',end:'2026-05-16',open:true},
-    {title:'Community Healing Group',loc:'Ashland, MT',datelabel:'May 22, 2026',sub:'1 Day · Friday',type:'in-person',end:'2026-05-22',open:true},
-    {title:'Community Healing Group',loc:'Fairbanks, AK',datelabel:'May 27–29, 2026',sub:'3 Days · Wed–Fri',type:'in-person',end:'2026-05-29',open:true},
-    {title:'Online Healing Group',loc:'Zoom — Online',datelabel:'August 5–14, 2026',sub:'2 Weeks · Online',type:'online',end:'2026-08-14',open:true},
-    {title:'Community Healing Group',loc:'Fairbanks, AK · Zion Lutheran Church',datelabel:'Sept 16–18, 2026',sub:'3 Days · Wed–Fri',type:'in-person',end:'2026-09-18',open:true},
-    {title:'Community Healing Group',loc:'Anchorage, AK · Anchorage Lutheran Church',datelabel:'Oct 9–10, 2026',sub:'2 Days · Fri–Sat',type:'in-person',end:'2026-10-10',open:true},
-    {title:'Facilitator Equipping Training',loc:'Location TBC',datelabel:'October 2026',sub:'Dates TBC',type:'facilitator',end:'2026-10-31',open:true},
-    {title:'Community Healing Group',loc:'Fairbanks, AK · Zion Lutheran Church',datelabel:'Nov 4–6, 2026',sub:'3 Days · Wed–Fri',type:'in-person',end:'2026-11-06',open:true}
-  ];
-  var DKEY='lim_event_drafts';
   var BADGE={'in-person':['badge-ip','In-Person'],'online':['badge-on','Online'],'facilitator':['badge-fac','Facilitator Training'],'military':['badge-mil','Military']};
+  var ev={type:'in-person',cta:'register',open:true,modalId:''}; // working event
+  var editingId=null;
 
   function g(id){return document.getElementById(id);}
-  function drafts(){try{return JSON.parse(localStorage.getItem(DKEY))||[];}catch(e){return [];}}
-  function setDrafts(d){localStorage.setItem(DKEY,JSON.stringify(d));}
-  function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
-  function escAttr(s){return (s||'').replace(/'/g,"\\'").replace(/&/g,'&amp;').replace(/"/g,'&quot;');}
-  function todayISO(){var d=new Date();d.setHours(0,0,0,0);return d;}
-  function isGone(end){if(!end)return false;return new Date(end+'T00:00:00') < todayISO();}
+  function escH(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+  function isGone(end){ if(!end) return false; var t=new Date(); t.setHours(0,0,0,0); return new Date(end+'T00:00:00')<t; }
+  function pw(){ return g('pub-pw').value.trim() || sessionStorage.getItem('lim_pub_pw') || ''; }
+  function rememberPw(){ var v=g('pub-pw').value.trim(); if(v) sessionStorage.setItem('lim_pub_pw',v); }
 
-  // Build the data object from the form
-  function formData(){
-    return {
-      title:g('f-title').value.trim(),
-      loc:g('f-loc').value.trim(),
-      datelabel:g('f-datelabel').value.trim(),
-      sub:g('f-sub').value.trim(),
-      type:g('f-type').value,
-      end:g('f-end').value,
-      open:g('f-open').value==='true'
-    };
+  var _t; function toast(msg,err){ var el=g('toast'); el.textContent=msg; el.className='toast show'+(err?' err':''); clearTimeout(_t); _t=setTimeout(function(){el.className='toast';},3400); }
+
+  // ---- form <-> working event ----
+  function syncFromForm(){
+    ev.title=g('f-title').value.trim();
+    ev.loc=g('f-loc').value.trim();
+    ev.datelabel=g('f-datelabel').value.trim();
+    ev.sub=g('f-sub').value.trim();
+    ev.type=g('f-type').value;
+    ev.end=g('f-end').value;
+    ev.cta=g('f-cta').value;
+    ev.open=ev.cta!=='waitlist';
+    ev.desc=g('f-desc').value.trim();
+    renderPreview();
   }
-
-  // Generate the exact .scard markup used on healing-groups.html
-  function cardHTML(e){
-    var b=BADGE[e.type]||BADGE['in-person'];
-    var icon=e.type==='online'?'💻':'📍';
-    var mil=e.type==='military'?'true':'false';
-    var regLabel=e.type==='facilitator'?'Register Interest':'Register Now';
-    var summary=(e.datelabel?e.datelabel+' · ':'')+e.loc;
-    return ''+
-'    <!-- Card — '+esc(e.title)+' · '+esc(e.loc)+' -->\n'+
-'    <div class="scard fi" data-type="'+e.type+'" data-open="'+(e.open?'true':'false')+'" data-end="'+(e.end||'')+'">\n'+
-'      <div class="scard-top">\n'+
-'        <div class="scard-date">'+esc(e.datelabel)+'<span>'+esc(e.sub)+'</span></div>\n'+
-'        <span class="badge '+b[0]+'">'+b[1]+'</span>\n'+
-'      </div>\n'+
-'      <div class="scard-body">\n'+
-'        <h3 class="scard-title">'+esc(e.title)+'</h3>\n'+
-'        <div class="scard-loc">'+icon+' '+esc(e.loc)+'</div>\n'+
-'        <p>'+esc(e.desc)+'</p>\n'+
-'      </div>\n'+
-'      <div class="scard-foot">\n'+
-'        <button class="btn btn-red" style="font-size:.85rem;padding:.7rem 1.4rem" onclick="openReg(\''+escAttr(e.title)+'\',\''+escAttr(summary)+'\','+mil+')">'+regLabel+'</button>\n'+
-'      </div>\n'+
-'    </div>\n';
-  }
-
-  function render(){
-    var e=formData();e.desc=g('f-desc').value.trim();
-    var b=BADGE[e.type]||BADGE['in-person'];
-    var icon=e.type==='online'?'💻':'📍';
-    var regLabel=e.type==='facilitator'?'Register Interest':'Register Now';
-    g('preview').innerHTML=
-      '<div class="scard">'+
-        '<div class="scard-top"><div class="scard-date">'+(esc(e.datelabel)||'Date')+'<span>'+(esc(e.sub)||'Duration')+'</span></div>'+
-        '<span class="badge '+b[0]+'">'+b[1]+'</span></div>'+
-        '<div class="scard-body"><h3 class="scard-title">'+(esc(e.title)||'Event title')+'</h3>'+
-        '<div class="scard-loc">'+icon+' '+(esc(e.loc)||'Location')+'</div>'+
-        '<p>'+(esc(e.desc)||'Description appears here.')+'</p></div>'+
-        '<div class="scard-foot"><span class="pvbtn">'+regLabel+'</span></div>'+
-      '</div>';
-    g('output').value=cardHTML(e).replace(/^\n/,'');
-  }
-
-  function saveDraft(){
-    var e=formData();e.desc=g('f-desc').value.trim();
-    if(!e.title||!e.datelabel||!e.end){toast('Add at least a title, date label, and last day.');return;}
-    var d=drafts();
-    if(window._editIdx!=null){d[window._editIdx]=e;window._editIdx=null;}else{d.push(e);}
-    setDrafts(d);buildTable();toast('Saved to your list.');
+  function fillForm(e){
+    g('f-title').value=e.title||''; g('f-loc').value=e.loc||'';
+    g('f-datelabel').value=e.datelabel||''; g('f-sub').value=e.sub||'';
+    g('f-type').value=e.type||'in-person'; g('f-end').value=e.end||'';
+    g('f-cta').value=e.cta||(e.open===false?'waitlist':'register'); g('f-desc').value=e.desc||'';
+    syncFromForm();
   }
   function clearForm(){
-    ['f-title','f-loc','f-datelabel','f-sub','f-end','f-desc'].forEach(function(id){g(id).value='';});
-    g('f-type').value='in-person';g('f-open').value='true';window._editIdx=null;render();
-  }
-  function editDraft(i){
-    var e=drafts()[i];if(!e)return;window._editIdx=i;
-    g('f-title').value=e.title||'';g('f-loc').value=e.loc||'';g('f-datelabel').value=e.datelabel||'';
-    g('f-sub').value=e.sub||'';g('f-type').value=e.type||'in-person';g('f-end').value=e.end||'';
-    g('f-open').value=e.open?'true':'false';g('f-desc').value=e.desc||'';render();
-    window.scrollTo({top:0,behavior:'smooth'});
-  }
-  function delDraft(i){var d=drafts();d.splice(i,1);setDrafts(d);buildTable();toast('Removed from your list.');}
-
-  function copyOut(){
-    var t=g('output');t.select();
-    navigator.clipboard.writeText(t.value).then(function(){toast('Card code copied — paste it above the SESSIONS:END line.');},function(){document.execCommand('copy');toast('Card code copied.');});
-  }
-  function copyRow(e){
-    navigator.clipboard.writeText(cardHTML(e).replace(/^\n/,'')).then(function(){toast('Card code copied.');});
+    ev={type:'in-person',cta:'register',open:true,modalId:''}; editingId=null;
+    g('ai-text').value=''; g('chat-log').innerHTML='';
+    fillForm(ev);
+    g('pub-btn').textContent='✓ Approve & Publish to Website';
   }
 
-  function statusPill(end,draft){
-    if(isGone(end))return '<span class="st gone">Removed</span>';
-    if(draft)return '<span class="st draft">Your draft</span>';
-    return '<span class="st live">Live</span>';
+  function renderPreview(){
+    var b=BADGE[ev.type]||BADGE['in-person'];
+    var icon=ev.type==='online'?'💻':'📍';
+    var btn = ev.cta==='waitlist' ? '<span class="pvbtn wait">Join Waitlist</span>'
+            : ev.cta==='interest' ? '<span class="pvbtn int">Register Interest</span>'
+            : '<span class="pvbtn reg">Register Now</span>';
+    if(ev.modalId) btn+='<span class="pvbtn det">Details</span>';
+    g('preview').innerHTML='<div class="scard"><div class="scard-top"><div class="scard-date">'+(escH(ev.datelabel)||'Date')+'<span>'+(escH(ev.sub)||'Duration')+'</span></div>'
+      +'<span class="badge '+b[0]+'">'+b[1]+'</span></div>'
+      +'<div class="scard-body"><h3 class="scard-title">'+(escH(ev.title)||'Event title')+'</h3>'
+      +'<div class="scard-loc">'+icon+' '+(escH(ev.loc)||'Location')+'</div>'
+      +'<p>'+(escH(ev.desc)||'Description appears here.')+'</p></div>'
+      +'<div class="scard-foot">'+btn+'</div></div>';
   }
-  function buildTable(){
-    var d=drafts();var rows=[];
-    SEED.forEach(function(e){rows.push({e:e,draft:false,i:null});});
-    d.forEach(function(e,i){rows.push({e:e,draft:true,i:i});});
-    rows.sort(function(a,b){return (a.e.end||'')<(b.e.end||'')?-1:1;});
-    g('evbody').innerHTML=rows.map(function(r){
-      var e=r.e,gone=isGone(e.end);
-      var actions=r.draft
-        ? '<button class="tbtn" onclick="editDraft('+r.i+')">Edit</button> <button class="tbtn" onclick="copyRowI('+r.i+')">Copy</button> <button class="tbtn del" onclick="delDraft('+r.i+')">Delete</button>'
-        : '';
-      return '<tr class="'+(gone?'gone':'')+'">'+
-        '<td>'+esc(e.datelabel)+'</td>'+
-        '<td>'+esc(e.title)+'</td>'+
-        '<td>'+esc(e.loc)+'</td>'+
-        '<td>'+(BADGE[e.type]?BADGE[e.type][1]:e.type)+'</td>'+
-        '<td>'+(e.end||'—')+'</td>'+
-        '<td>'+statusPill(e.end,r.draft)+'</td>'+
-        '<td style="white-space:nowrap">'+actions+'</td>'+
-      '</tr>';
+
+  function addMsg(who,text){ var l=g('chat-log'); var d=document.createElement('div'); d.className='msg '+who; d.textContent=text; l.appendChild(d); l.scrollTop=l.scrollHeight; }
+
+  // ---- API ----
+  function busy(btn,on,label){ btn.disabled=on; if(on){ btn.dataset.lbl=btn.innerHTML; btn.innerHTML='<span class="spin"></span>'+(label||'Working…'); } else if(btn.dataset.lbl){ btn.innerHTML=btn.dataset.lbl; } }
+
+  async function callAI(payload){
+    rememberPw();
+    if(!pw()){ toast('Enter the publish password first (bottom right).',true); return null; }
+    var r;
+    try{ r=await fetch('/api/events-ai',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(Object.assign({password:pw()},payload))}); }
+    catch(e){ toast('Could not reach the AI service. Are you on the live site?',true); return null; }
+    var data=await r.json().catch(function(){return {};});
+    if(!r.ok){ toast(data.error||'AI error.',true); if(r.status===500) showSetup(); return null; }
+    return data.event;
+  }
+
+  async function aiParse(){
+    var text=g('ai-text').value.trim();
+    if(!text){ toast('Type a few notes first.',true); return; }
+    busy(g('ai-btn'),true,'Structuring…');
+    var e=await callAI({mode:'parse',text:text});
+    busy(g('ai-btn'),false);
+    if(e){ ev=Object.assign({modalId:''},e); fillForm(ev); addMsg('ai','Drafted a card from your notes — tweak it below or by chat.'); toast('AI drafted the card.'); }
+  }
+
+  async function aiChat(){
+    var msg=g('chat-input').value.trim();
+    if(!msg) return;
+    if(!ev.title){ toast('Add the event details first, then refine.',true); return; }
+    addMsg('you',msg); g('chat-input').value='';
+    busy(g('chat-btn'),true,'…');
+    var e=await callAI({mode:'chat',event:ev,instruction:msg});
+    busy(g('chat-btn'),false);
+    if(e){ ev=Object.assign({modalId:ev.modalId||''},e); fillForm(ev); addMsg('ai','Updated.'); }
+  }
+
+  async function publishEvent(){
+    rememberPw();
+    syncFromForm();
+    if(!ev.title||!ev.datelabel||!ev.end){ toast('Add at least a title, date label, and last day.',true); return; }
+    if(!pw()){ toast('Enter the publish password first.',true); return; }
+    var payload={action:'upsert',event:Object.assign({},ev,editingId?{id:editingId}:{}),password:pw()};
+    busy(g('pub-btn'),true,'Publishing…');
+    var r;
+    try{ r=await fetch('/api/events-publish',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(payload)}); }
+    catch(e){ busy(g('pub-btn'),false); toast('Could not reach the publish service. Are you on the live site?',true); return; }
+    var data=await r.json().catch(function(){return {};});
+    busy(g('pub-btn'),false);
+    if(!r.ok){ toast(data.error||'Publish failed.',true); if(r.status===500) showSetup(); return; }
+    toast('Published! It will appear on the site in about 1–2 minutes.');
+    clearForm();
+    if(Array.isArray(data.events)) buildTable(data.events);
+  }
+
+  async function delEvent(id,label){
+    if(!confirm('Remove "'+label+'" from the website?')) return;
+    rememberPw();
+    if(!pw()){ toast('Enter the publish password first.',true); return; }
+    var r;
+    try{ r=await fetch('/api/events-publish',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({action:'delete',id:id,password:pw()})}); }
+    catch(e){ toast('Could not reach the publish service.',true); return; }
+    var data=await r.json().catch(function(){return {};});
+    if(!r.ok){ toast(data.error||'Could not remove.',true); return; }
+    toast('Removed. The site will update in about 1–2 minutes.');
+    if(Array.isArray(data.events)) buildTable(data.events);
+  }
+
+  function copyJson(){ syncFromForm(); navigator.clipboard.writeText(JSON.stringify(ev,null,2)).then(function(){toast('Event details copied — paste into an email to Gary.');}); }
+
+  // ---- current events table ----
+  function buildTable(list){
+    if(!Array.isArray(list)||!list.length){ g('evbody').innerHTML='<tr><td colspan="7" style="color:var(--muted)">No events yet.</td></tr>'; return; }
+    list=list.slice().sort(function(a,b){return String(a.end||'')<String(b.end||'')?-1:1;});
+    window._events=list;
+    g('evbody').innerHTML=list.map(function(e){
+      var gone=isGone(e.end);
+      var st=gone?'<span class="st gone">Removed</span>':'<span class="st live">Live</span>';
+      return '<tr class="'+(gone?'gone':'')+'">'
+        +'<td>'+escH(e.datelabel)+'</td><td>'+escH(e.title)+'</td><td>'+escH(e.loc)+'</td>'
+        +'<td>'+(BADGE[e.type]?BADGE[e.type][1]:escH(e.type))+'</td><td>'+escH(e.end||'—')+'</td><td>'+st+'</td>'
+        +'<td style="white-space:nowrap"><button class="tbtn" onclick="editRow(\''+escH(e.id)+'\')">Edit</button> '
+        +'<button class="tbtn del" onclick="delEvent(\''+escH(e.id)+'\',\''+escH((e.title||'').replace(/\x27/g,""))+'\')">Delete</button></td></tr>';
     }).join('');
   }
-  function copyRowI(i){var e=drafts()[i];if(e)copyRow(e);}
+  function editRow(id){
+    var e=(window._events||[]).find(function(x){return x.id===id;}); if(!e) return;
+    editingId=id; ev=Object.assign({modalId:''},e); fillForm(ev);
+    g('pub-btn').textContent='✓ Approve & Publish Changes';
+    window.scrollTo({top:0,behavior:'smooth'}); toast('Loaded "'+(e.title||'')+'" for editing.');
+  }
 
-  var _t;
-  function toast(msg){var el=g('toast');el.textContent=msg;el.classList.add('show');clearTimeout(_t);_t=setTimeout(function(){el.classList.remove('show');},2600);}
+  function showSetup(){ var b=g('setup-banner'); b.innerHTML='Publishing isn’t configured yet. A one-time setup is needed in Netlify (API key + token + password). See <a href="docs-events-setup.html">Events Manager setup</a>.'; b.style.display='block'; }
 
-  render();buildTable();
+  async function loadEvents(){
+    try{ var r=await fetch('data/events.json?ts='+Date.now()); if(r.ok){ buildTable(await r.json()); return; } }catch(e){}
+    g('evbody').innerHTML='<tr><td colspan="7" style="color:var(--muted)">Could not load current events.</td></tr>';
+  }
+
+  // init
+  fillForm(ev);
+  loadEvents();
 </script>
 </body>
 </html>

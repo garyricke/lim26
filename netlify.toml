@@ -1,0 +1,21 @@
+# Netlify config for Lutheran Indian Ministries 2026 site
+# Static HTML site + serverless functions for the Events Manager.
+
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+[functions]
+  # Functions use the global fetch (Node 18+) — no bundled deps required.
+  node_bundler = "esbuild"
+
+# Friendly paths for the events functions
+[[redirects]]
+  from = "/api/events-ai"
+  to = "/.netlify/functions/events-ai"
+  status = 200
+
+[[redirects]]
+  from = "/api/events-publish"
+  to = "/.netlify/functions/events-publish"
+  status = 200

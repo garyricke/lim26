@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Events Manager — Setup</title>
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{--red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;--sage-d:#8a8665;--stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;
+      --serif:'Merriweather',Georgia,serif;--cond:'Barlow Condensed',sans-serif;--body:'Open Sans',system-ui,sans-serif;--max:840px;--r:8px;--rl:16px;}
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.7}
+    a{color:var(--red)}
+    #topbar{background:var(--charcoal);padding:.75rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
+    #topbar img{height:34px}
+    #topbar span{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4)}
+    .wrap{max-width:var(--max);margin:0 auto;padding:3rem 1.5rem 5rem}
+    .eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.6rem;display:block}
+    h1{font-family:var(--serif);font-size:clamp(1.7rem,3.4vw,2.2rem);line-height:1.2;margin-bottom:1rem}
+    .intro{color:var(--muted);max-width:680px;margin-bottom:1.5rem}
+    h2{font-family:var(--serif);font-size:1.4rem;margin:2.5rem 0 .5rem;padding-top:1.5rem;border-top:1px solid var(--border)}
+    h3{font-family:var(--cond);font-size:1.05rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;margin:1.5rem 0 .5rem}
+    p,li{color:#3a3a34}p{margin:.6rem 0}
+    ol,ul{margin:.6rem 0 .6rem 1.3rem}li{margin:.35rem 0}
+    code{font-family:'Fira Code','Courier New',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.1em .4em}
+    table{width:100%;border-collapse:collapse;margin:1rem 0;background:#fff;border:1px solid var(--border);border-radius:var(--rl);overflow:hidden;font-size:.9rem}
+    th,td{text-align:left;padding:.65rem .85rem;border-bottom:1px solid var(--border);vertical-align:top}
+    th{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);background:var(--stone)}
+    tr:last-child td{border-bottom:none}
+    td code{white-space:nowrap}
+    .box{background:#fff;border:1px solid var(--border);border-left:4px solid var(--sage-d);border-radius:var(--r);padding:1rem 1.25rem;margin:1.25rem 0;font-size:.92rem;color:var(--muted)}
+    .box strong{color:var(--charcoal)}
+    .flow{background:var(--charcoal);color:#fff;border-radius:var(--rl);padding:1.4rem 1.6rem;margin:1.5rem 0;font-family:var(--cond);font-size:1rem;letter-spacing:.02em;line-height:2}
+    .flow b{color:var(--yellow)}
+    .footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--border);font-size:.82rem;color:var(--muted)}
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_auth_2026',HASH='53d81e6c17c82d10718106513d7a21defa05a0d73b2c89f59be66b40f8a05aac';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<h2 style="color:#fff;font-family:\'Merriweather\',serif;font-size:1.2rem;margin:0 0 .5rem;text-align:center">Setup Docs</h2>'
+        +'<p style="color:rgba(255,255,255,.45);font-size:.85rem;margin:0 0 2rem;text-align:center">Enter the site password to continue</p>'
+        +'<input id="ag-pw" type="password" placeholder="Password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw'),btn=document.getElementById('ag-btn'),err=document.getElementById('ag-err');
+      function attempt(){var v=inp.value;if(!v){err.textContent='Please enter the password.';return;}
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(v)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password.';inp.value='';inp.focus();}});}
+      btn.addEventListener('click',attempt);inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+<div id="topbar">
+  <a href="index.html"><img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries — Home"></a>
+  <span>Events Manager · Setup</span>
+</div>
+
+<div class="wrap">
+  <span class="eyebrow">Internal · Developer</span>
+  <h1>Events Manager — One-Time Setup</h1>
+  <p class="intro">The <a href="admin-events.html">Events Manager</a> lets Roberta add/edit healing-group events with AI help and publish them live — no code. The AI and the publishing step run as Netlify Functions, which need three secrets set once in the Netlify dashboard. Until these are set, the form and preview still work, but “Approve &amp; Publish” will report that publishing isn’t configured.</p>
+
+  <h2>How it works</h2>
+  <div class="flow">
+    Roberta types notes &nbsp;<b>→</b>&nbsp; <b>events-ai</b> (Claude) structures the card &nbsp;<b>→</b>&nbsp; she refines by chat &nbsp;<b>→</b>&nbsp; Approve &amp; Publish &nbsp;<b>→</b>&nbsp; <b>events-publish</b> commits <code style="color:#fff">data/events.json</code> to GitHub &nbsp;<b>→</b>&nbsp; Netlify rebuilds &nbsp;<b>→</b>&nbsp; live in ~1–2 min
+  </div>
+  <p>The Healing Groups page renders its session cards from <code>data/events.json</code> and hides any event the day after its <code>end</code> date — so removal is automatic and edits never touch HTML.</p>
+
+  <h2>Step 1 — Set three environment variables in Netlify</h2>
+  <p>Netlify dashboard → your site → <strong>Site configuration → Environment variables</strong> → add:</p>
+  <table>
+    <thead><tr><th>Variable</th><th>Value</th></tr></thead>
+    <tbody>
+      <tr><td><code>ANTHROPIC_API_KEY</code></td><td>An Anthropic API key (console.anthropic.com → API keys). Powers the “Structure with AI” and chat refinement.</td></tr>
+      <tr><td><code>GITHUB_TOKEN</code></td><td>A GitHub <strong>fine-grained personal access token</strong> scoped to the <code>garyricke/lim26</code> repo with <strong>Contents: Read and write</strong>. Lets the publish step commit <code>data/events.json</code>.</td></tr>
+      <tr><td><code>EVENTS_PUBLISH_PASSWORD</code></td><td>A password you choose. Roberta types it in the manager to authorize AI calls + publishing. Share it only with people allowed to post events.</td></tr>
+    </tbody>
+  </table>
+  <p>Optional overrides (defaults shown): <code>GITHUB_REPO=garyricke/lim26</code>, <code>GITHUB_BRANCH=main</code>, <code>EVENTS_PATH=data/events.json</code>.</p>
+
+  <h2>Step 2 — Redeploy</h2>
+  <p>Trigger a deploy (or push any commit). The functions in <code>netlify/functions/</code> deploy automatically thanks to <code>netlify.toml</code>. The manager calls them at <code>/api/events-ai</code> and <code>/api/events-publish</code>.</p>
+
+  <h2>Step 3 — Give Roberta the password</h2>
+  <p>She opens <a href="admin-events.html">admin-events.html</a> (site password), enters the <code>EVENTS_PUBLISH_PASSWORD</code> once in the “Publish password” box, and she’s set. The browser remembers it for the session.</p>
+
+  <div class="box">
+    <strong>Security:</strong> the Anthropic key and GitHub token live only in Netlify’s server environment — never in the page source. The publish password is the gate Roberta uses; it’s checked server-side against the env var. Anyone without it can’t call the AI or publish. Keep <code>GITHUB_TOKEN</code> scoped to just this one repo.
+  </div>
+  <div class="box">
+    <strong>Cost:</strong> the AI calls use Claude Haiku and are a fraction of a cent each. Publishing uses the GitHub API (free). The only ongoing cost is whatever the occasional AI structuring/chat adds to the Anthropic bill — negligible at this volume.
+  </div>
+
+  <h2>Troubleshooting</h2>
+  <ul>
+    <li><strong>“Publishing isn’t configured”</strong> — an env var is missing or the deploy predates setting them. Recheck Step 1 and redeploy.</li>
+    <li><strong>“Incorrect publish password”</strong> — the value typed doesn’t match <code>EVENTS_PUBLISH_PASSWORD</code>.</li>
+    <li><strong>Published but not showing</strong> — give it 1–2 minutes for the Netlify rebuild; then hard-refresh. Check the site’s Deploys tab for a build triggered by an “Events: …” commit.</li>
+    <li><strong>Local testing</strong> — run <code>netlify dev</code> with the env vars in a local <code>.env</code> to exercise the functions before deploying.</li>
+  </ul>
+
+  <div class="footer">
+    Files: <code>admin-events.html</code> · <code>data/events.json</code> · <code>netlify/functions/events-ai.mjs</code> · <code>netlify/functions/events-publish.mjs</code> · <code>netlify.toml</code>. Healing Groups page renders sessions from the JSON.
+  </div>
+</div>
+</body>
+</html>
