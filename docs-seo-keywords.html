@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>SEO Keyword Research — Lutheran Indian Ministries</title>
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+      --sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--stone:#EBE9E4;
+      --muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;--amber:#b5862b;
+      --serif:'Merriweather',Georgia,serif;
+      --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --body:'Open Sans',system-ui,sans-serif;
+      --max:960px;--r:8px;--rl:16px;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.7}
+    a{color:var(--red);text-decoration:none}a:hover{text-decoration:underline}
+
+    #topbar{background:var(--charcoal);padding:.75rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
+    #topbar img{height:34px}
+    #topbar span{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4)}
+
+    .wrap{max-width:var(--max);margin:0 auto;padding:3rem 1.5rem 5rem}
+    .header{margin-bottom:2rem;padding-bottom:1.75rem;border-bottom:2px solid var(--border)}
+    .eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.7rem;display:block}
+    .title{font-family:var(--serif);font-size:clamp(1.8rem,3.5vw,2.4rem);line-height:1.2;margin-bottom:1rem}
+    .intro{font-size:1rem;color:var(--muted);max-width:720px}
+    .updated{font-family:var(--cond);font-size:.78rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-top:1rem}
+    .updated b{color:var(--charcoal)}
+
+    .callout{background:var(--charcoal);color:#fff;border-radius:var(--rl);padding:1.6rem 1.75rem;margin:2rem 0}
+    .callout h2{font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--yellow);margin-bottom:1rem}
+    .callout p{font-size:.96rem;color:rgba(255,255,255,.85);margin-bottom:.7rem}
+    .callout p:last-child{margin-bottom:0}
+    .callout strong{color:#fff}
+
+    .sect{margin-top:3rem;margin-bottom:1.25rem}
+    .sect h2{font-family:var(--serif);font-size:1.5rem}
+    .sect p.lead{font-size:.95rem;color:var(--muted);margin-top:.5rem}
+
+    .note{background:#fff;border:1px solid var(--border);border-left:4px solid var(--sage-d);border-radius:var(--r);padding:1rem 1.25rem;font-size:.9rem;color:var(--muted);margin:1.25rem 0}
+    .note strong{color:var(--charcoal)}
+
+    table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--border);border-radius:var(--rl);overflow:hidden;margin-top:1rem;font-size:.9rem}
+    th,td{text-align:left;padding:.7rem .9rem;border-bottom:1px solid var(--border);vertical-align:top}
+    th{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);background:var(--stone)}
+    tr:last-child td{border-bottom:none}
+    td .kw{font-weight:600;color:var(--charcoal)}
+    .pill{font-family:var(--cond);font-size:.68rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;padding:.18rem .5rem;border-radius:20px;white-space:nowrap;display:inline-block}
+    .pill.hi{background:rgba(95,138,79,.16);color:var(--green)}
+    .pill.med{background:rgba(181,134,43,.16);color:var(--amber)}
+    .pill.lo{background:rgba(237,28,36,.1);color:var(--red)}
+    .pill.win{background:rgba(95,138,79,.16);color:var(--green)}
+    .pill.long{background:rgba(237,28,36,.1);color:var(--red)}
+    .pill.mid{background:rgba(181,134,43,.16);color:var(--amber)}
+
+    .tier{font-family:var(--cond);font-size:1.05rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--charcoal);margin-top:2rem;display:flex;align-items:center;gap:.6rem}
+    .tier .tnum{background:var(--charcoal);color:var(--yellow);width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:.85rem}
+
+    .recs{display:flex;flex-direction:column;gap:.6rem;margin-top:1rem}
+    .rec{background:#fff;border:1px solid var(--border);border-radius:var(--r);padding:1rem 1.25rem}
+    .rec .pg{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.35rem}
+    .rec .now{font-size:.88rem;color:var(--muted)}
+    .rec .now b{color:var(--charcoal)}
+    .rec .to{font-size:.92rem;margin-top:.4rem}
+    .rec .to b{color:var(--green)}
+    .rec code{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.82em;background:rgba(40,41,36,.07);border:1px solid var(--border);border-radius:4px;padding:.05em .35em}
+
+    ul.clean{list-style:none;display:flex;flex-direction:column;gap:.55rem;margin-top:1rem}
+    ul.clean li{display:flex;gap:.6rem;font-size:.94rem;color:var(--muted);line-height:1.6}
+    ul.clean li::before{content:'→';color:var(--red);font-weight:700;flex-shrink:0}
+    ul.clean li strong{color:var(--charcoal);font-weight:600}
+
+    .src{font-size:.82rem;color:var(--muted);line-height:1.8}
+    .footer{margin-top:3.5rem;padding-top:1.75rem;border-top:1px solid var(--border);font-size:.82rem;color:var(--muted)}
+    @media(max-width:600px){table{font-size:.82rem}th,td{padding:.55rem .6rem}}
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_auth_2026',HASH='53d81e6c17c82d10718106513d7a21defa05a0d73b2c89f59be66b40f8a05aac';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<h2 style="color:#fff;font-family:\'Merriweather\',serif;font-size:1.2rem;margin:0 0 .5rem;text-align:center">SEO Research</h2>'
+        +'<p style="color:rgba(255,255,255,.45);font-size:.85rem;margin:0 0 2rem;text-align:center">Enter the site password to continue</p>'
+        +'<input id="ag-pw" type="password" placeholder="Password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw'),btn=document.getElementById('ag-btn'),err=document.getElementById('ag-err');
+      function attempt(){var pw=inp.value;if(!pw){err.textContent='Please enter the password.';return;}
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password.';inp.value='';inp.focus();}});}
+      btn.addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+
+<div id="topbar">
+  <a href="index.html"><img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries — Home"></a>
+  <span>SEO Keyword Research</span>
+</div>
+
+<div class="wrap">
+
+  <div class="header">
+    <span class="eyebrow">Internal · Marketing</span>
+    <h1 class="title">SEO Keyword Research &amp; Recommendations</h1>
+    <p class="intro">Coming out of the May 11 check-in: Roberta and Jaylene searched "native ministries" and LIM didn't appear at all. This is why — and the keywords, content, and partnership moves that will actually get LIM found.</p>
+    <p class="updated">Prepared: <b>June 8, 2026</b> · For: Jaylene, Roberta, Robert</p>
+  </div>
+
+  <div class="callout">
+    <h2>The Core Finding</h2>
+    <p><strong>Good news:</strong> LIM already ranks on page one for its real strength — <em>trauma healing</em>. A search for "healing the wounds of trauma Native American Christian" surfaces LIM's own page. That's the winnable lane.</p>
+    <p><strong>The gap:</strong> the broad term "native ministries" is owned by sites with the exact words in their domain — <em>nativemi.org</em>, <em>nativeministry.org</em> — plus big denominational pages and directories. Google reads those domains as the literal answer. We will not out-rank them quickly by adding a keyword or two; that takes content + links over months.</p>
+    <p><strong>The play:</strong> win the high-intent "trauma healing / healing group" searches now, get listed in the Native-ministry <em>directories</em> (which also delivers Robert's partnership/link-sharing goal), and build content toward the head terms over time.</p>
+  </div>
+
+  <div class="note">
+    <strong>About the numbers:</strong> exact monthly search volumes require a paid tool (Google Keyword Planner with an active Ads account, Ahrefs, or Semrush). The Volume column below is a <em>relative</em> estimate (High / Med / Low) from the live search landscape, not hard figures. Before investing heavily in any single term, confirm its volume in one of those tools — happy to set that up.
+  </div>
+
+  <!-- Clusters -->
+  <div class="sect">
+    <h2>Recommended Keyword Targets</h2>
+    <p class="lead">Grouped by how realistic it is for LIM to rank. "Difficulty" reflects how entrenched the current top results are.</p>
+  </div>
+
+  <div class="tier"><span class="tnum">1</span> Win these now — high intent, realistic</div>
+  <table>
+    <thead><tr><th>Keyword / phrase</th><th>Searcher intent</th><th>Volume*</th><th>Difficulty</th></tr></thead>
+    <tbody>
+      <tr><td><span class="kw">Native American trauma healing</span></td><td>Looking for help / a program</td><td><span class="pill med">Med</span></td><td><span class="pill win">Winnable</span></td></tr>
+      <tr><td><span class="kw">healing the wounds of trauma</span></td><td>Knows the curriculum name</td><td><span class="pill med">Med</span></td><td><span class="pill win">Already ranking</span></td></tr>
+      <tr><td><span class="kw">Christian / Bible-based trauma healing group</span></td><td>Wants a faith-based group</td><td><span class="pill med">Med</span></td><td><span class="pill win">Winnable</span></td></tr>
+      <tr><td><span class="kw">healing generational trauma Native American</span></td><td>Researching the issue</td><td><span class="pill hi">High</span></td><td><span class="pill mid">Moderate</span></td></tr>
+      <tr><td><span class="kw">Alaska Native healing group / healing group Fairbanks AK</span></td><td>Local, ready to attend</td><td><span class="pill lo">Low</span></td><td><span class="pill win">Winnable</span></td></tr>
+      <tr><td><span class="kw">trauma healing facilitator training (Native)</span></td><td>Wants to lead a group</td><td><span class="pill lo">Low</span></td><td><span class="pill win">Winnable</span></td></tr>
+      <tr><td><span class="kw">free Native American healing group near me</span></td><td>High intent, local</td><td><span class="pill lo">Low</span></td><td><span class="pill win">Winnable</span></td></tr>
+    </tbody>
+  </table>
+
+  <div class="tier"><span class="tnum">2</span> The long game — head terms worth building toward</div>
+  <table>
+    <thead><tr><th>Keyword / phrase</th><th>Who ranks now</th><th>Volume*</th><th>Difficulty</th></tr></thead>
+    <tbody>
+      <tr><td><span class="kw">native ministries</span></td><td>nativemi.org, chief.org</td><td><span class="pill hi">High</span></td><td><span class="pill long">Hard</span></td></tr>
+      <tr><td><span class="kw">Native American ministries</span></td><td>nativeministry.org, PCG, denominations</td><td><span class="pill hi">High</span></td><td><span class="pill long">Hard</span></td></tr>
+      <tr><td><span class="kw">Native American Christian ministry</span></td><td>Cru Nations, NAIM, The Red Road</td><td><span class="pill med">Med</span></td><td><span class="pill mid">Moderate</span></td></tr>
+      <tr><td><span class="kw">ministry to Native Americans / Alaska Native ministry</span></td><td>InterAct, Diocese of Fairbanks, GraceWorks</td><td><span class="pill med">Med</span></td><td><span class="pill mid">Moderate</span></td></tr>
+    </tbody>
+  </table>
+
+  <div class="tier"><span class="tnum">3</span> Devotional &amp; topical — feeds the blog rebuild + donor return visits</div>
+  <table>
+    <thead><tr><th>Keyword / phrase</th><th>Note</th><th>Volume*</th><th>Difficulty</th></tr></thead>
+    <tbody>
+      <tr><td><span class="kw">Native American Christian devotional</span></td><td>Donors already return for the devotions</td><td><span class="pill med">Med</span></td><td><span class="pill win">Winnable</span></td></tr>
+      <tr><td><span class="kw">identity in Christ / Native identity and faith</span></td><td>Matches the "Discovering Identity" post</td><td><span class="pill hi">High</span></td><td><span class="pill mid">Moderate</span></td></tr>
+      <tr><td><span class="kw">Philippians 4:13 meaning / devotional</span></td><td>Matches "I Can Do All Things" post</td><td><span class="pill hi">High</span></td><td><span class="pill long">Hard</span></td></tr>
+      <tr><td><span class="kw">can you be Native American and Christian</span></td><td>Matches "The Choice" post — strong question intent</td><td><span class="pill med">Med</span></td><td><span class="pill win">Winnable</span></td></tr>
+    </tbody>
+  </table>
+
+  <!-- On-page -->
+  <div class="sect">
+    <h2>On-Page Changes for the New Site</h2>
+    <p class="lead">Where to weave the Tier-1 terms in. Biggest lever first: page titles and the H1, which are currently brand-only and use none of the words people search.</p>
+  </div>
+
+  <div class="recs">
+    <div class="rec">
+      <span class="pg">Home — page title</span>
+      <div class="now"><b>Now:</b> <code>Lutheran Indian Ministries — Where Faith Meets Tradition</code></div>
+      <div class="to"><b>Suggest:</b> <code>Lutheran Indian Ministries — Native-Led Trauma Healing &amp; Gospel Ministry</code></div>
+    </div>
+    <div class="rec">
+      <span class="pg">Home — meta description</span>
+      <div class="now"><b>Now:</b> already solid (Native-led, Gospel, healing trauma, 574 tribal communities).</div>
+      <div class="to"><b>Tweak:</b> lead with "Native American &amp; Alaska Native trauma healing groups" so the high-intent words appear in the snippet.</div>
+    </div>
+    <div class="rec">
+      <span class="pg">Healing Groups — title &amp; H1</span>
+      <div class="now"><b>Now:</b> focused on "sessions" and program internals.</div>
+      <div class="to"><b>Suggest title:</b> <code>Native American Trauma Healing Groups — In-Person &amp; Online | LIM</code>. Work "Alaska Native" and "Fairbanks" into the section copy for the local lane.</div>
+    </div>
+    <div class="rec">
+      <span class="pg">New pillar page (recommended)</span>
+      <div class="to"><b>Build:</b> a "What Is Native American Trauma Healing?" explainer that targets the Tier-1 head phrase, links out to Healing Groups, the curriculum, and facilitator training, and answers the "people also ask" questions. This is the page most likely to climb for the trauma cluster.</div>
+    </div>
+    <div class="rec">
+      <span class="pg">Every page — basics</span>
+      <div class="to">Unique <code>&lt;title&gt;</code> + <code>&lt;meta description&gt;</code> per page, one <code>&lt;h1&gt;</code>, descriptive <code>alt</code> text on images, and a <code>sitemap.xml</code> submitted to Google Search Console at launch.</div>
+    </div>
+  </div>
+
+  <!-- Off-page / partnerships -->
+  <div class="sect">
+    <h2>Partnerships &amp; Backlinks</h2>
+    <p class="lead">This is the single biggest off-page lever — and it doubles as the partner outreach Robert keeps asking for. Getting listed in Native-ministry directories and swapping links with peer orgs tells Google LIM belongs in this category, and puts LIM in front of communities already doing ministry.</p>
+  </div>
+
+  <ul class="clean">
+    <li><strong>Directories to get listed in</strong> — <em>nativemi.org</em> (Native Ministries International — explicitly a directory of native tribes &amp; ministries) and <em>chief.org</em>'s "Network of Native Ministries." A listing = a quality backlink + discovery.</li>
+    <li><strong>Reciprocal links with peer orgs</strong> — reach out to swap links / share resources with: North American Indigenous Missions (NAIM), The Red Road, Cru "Nations," Church of God / PCG Native American Ministries, American Baptist Home Mission Societies, and Alaska peers (InterAct Ministries, GraceWorks Alaska, Diocese of Fairbanks Native Ministry, Alaska Mission for Christ).</li>
+    <li><strong>Curriculum credibility link</strong> — ask the Trauma Healing Institute (American Bible Society) / World Impact to list LIM as a Native-context partner using their model. THI already shows up for the facilitator-training searches.</li>
+    <li><strong>The outreach ask</strong> — exactly as discussed May 11: "We're giving this healing-group model away free — would you share links and point your communities to it?" Strong reciprocity story.</li>
+  </ul>
+
+  <!-- Next steps -->
+  <div class="sect">
+    <h2>Suggested Next Steps</h2>
+  </div>
+  <ul class="clean">
+    <li><strong>Confirm volumes</strong> for the Tier-1 terms in a keyword tool before committing copy (Gary can set up).</li>
+    <li><strong>Apply the title/meta/H1 changes</strong> above to the new site before go-live — low effort, high leverage.</li>
+    <li><strong>Draft the "Native American Trauma Healing" pillar page</strong> and keep rebuilding popular devotions into blog posts (Tier 3).</li>
+    <li><strong>Build the partner/directory list into a working sheet</strong> (Roberta &amp; Jaylene are already starting one) and begin outreach.</li>
+    <li><strong>Set up Google Search Console</strong> on the live domain so we can see the actual terms LIM is found for and track movement.</li>
+  </ul>
+
+  <div class="footer">
+    <p class="src"><strong>Sources (live SERP landscape, June 2026):</strong>
+      <a href="https://nativemi.org/" target="_blank" rel="noopener">Native Ministries International</a> ·
+      <a href="https://chief.org/network-of-native-ministries/" target="_blank" rel="noopener">Chief — Network of Native Ministries</a> ·
+      <a href="https://nativeministry.org/" target="_blank" rel="noopener">Native Ministry</a> ·
+      <a href="https://www.lutheranindianministries.org/healing-wounds-of-trauma" target="_blank" rel="noopener">LIM — Healing Wounds of Trauma</a> ·
+      <a href="https://traumahealinginstitute.org/" target="_blank" rel="noopener">Trauma Healing Institute</a> ·
+      <a href="https://www.worldimpact.org/get-trained/trauma-healing/" target="_blank" rel="noopener">World Impact — Trauma Healing</a> ·
+      <a href="https://theredroad.org/work/ministry/" target="_blank" rel="noopener">The Red Road</a> ·
+      <a href="https://interactministries.org/alaska/" target="_blank" rel="noopener">InterAct Ministries — Alaska</a> ·
+      <a href="https://dioceseoffairbanks.org/alaska-native-ministry" target="_blank" rel="noopener">Diocese of Fairbanks — Alaska Native Ministry</a>
+    </p>
+  </div>
+</div>
+
+</body>
+</html>
