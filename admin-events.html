@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Healing Group Events — Manager</title>
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --red:#ED1C24;--red-h:#c8141b;--yellow:#FFDE16;--charcoal:#282924;
+      --sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--sky-d:#6f9bb0;--stone:#EBE9E4;
+      --muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;
+      --serif:'Merriweather',Georgia,serif;
+      --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --body:'Open Sans',system-ui,sans-serif;
+      --max:1040px;--r:8px;--rl:16px;--t:.2s ease;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.65}
+    a{color:var(--red);text-decoration:none}a:hover{text-decoration:underline}
+
+    #topbar{background:var(--charcoal);padding:.75rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
+    #topbar img{height:34px}
+    #topbar span{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4)}
+
+    .wrap{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem 5rem}
+    .header{margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:2px solid var(--border)}
+    .eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.6rem;display:block}
+    .title{font-family:var(--serif);font-size:clamp(1.7rem,3.4vw,2.2rem);line-height:1.2;margin-bottom:.85rem}
+    .intro{font-size:.97rem;color:var(--muted);max-width:720px}
+    .intro strong{color:var(--charcoal)}
+
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:1.75rem;align-items:start}
+    @media(max-width:820px){.grid{grid-template-columns:1fr}}
+
+    .panel{background:#fff;border:1px solid var(--border);border-radius:var(--rl);padding:1.5rem 1.6rem;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .panel h2{font-family:var(--serif);font-size:1.25rem;margin-bottom:.35rem}
+    .panel .sub{font-size:.85rem;color:var(--muted);margin-bottom:1.25rem}
+
+    label{display:block;font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--charcoal);margin:1rem 0 .35rem}
+    label .hint{font-family:var(--body);font-weight:400;text-transform:none;letter-spacing:0;color:var(--muted);font-size:.8rem}
+    input,select,textarea{width:100%;padding:.6rem .8rem;border:1.5px solid var(--border);border-radius:6px;font-family:var(--body);font-size:.95rem;color:var(--charcoal);background:#fff;outline:none;transition:border var(--t)}
+    input:focus,select:focus,textarea:focus{border-color:var(--sky-d)}
+    textarea{resize:vertical;min-height:84px}
+    .row2{display:grid;grid-template-columns:1fr 1fr;gap:.85rem}
+    .row2 label{margin-top:1rem}
+
+    .btn{font-family:var(--cond);font-size:.95rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;border:none;border-radius:6px;padding:.7rem 1.5rem;cursor:pointer;transition:var(--t)}
+    .btn-red{background:var(--red);color:#fff}.btn-red:hover{background:var(--red-h)}
+    .btn-dark{background:var(--charcoal);color:var(--yellow)}.btn-dark:hover{background:#000}
+    .btn-ghost{background:transparent;color:var(--charcoal);border:1.5px solid var(--border)}.btn-ghost:hover{background:var(--stone)}
+    .btn-row{display:flex;gap:.6rem;flex-wrap:wrap;margin-top:1.4rem}
+
+    /* live preview card — mirrors healing-groups .scard */
+    .pv-label{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.5rem 0 .65rem}
+    .scard{background:#fff;border:1px solid var(--border);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 2px 10px rgba(0,0,0,.05);max-width:360px}
+    .scard-top{display:flex;align-items:flex-start;justify-content:space-between;gap:.75rem;padding:1.1rem 1.3rem .4rem}
+    .scard-date{font-family:var(--cond);font-size:1.15rem;font-weight:700;color:var(--charcoal);line-height:1.1}
+    .scard-date span{display:block;font-size:.78rem;font-weight:600;color:var(--muted);letter-spacing:.02em;margin-top:.15rem}
+    .badge{font-family:var(--cond);font-size:.68rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:.3rem .6rem;border-radius:20px;white-space:nowrap;flex-shrink:0}
+    .badge-ip{background:rgba(162,194,209,.25);color:var(--sky-d)}
+    .badge-on{background:rgba(178,172,136,.25);color:var(--sage-d)}
+    .badge-mil{background:rgba(40,41,36,.1);color:var(--charcoal)}
+    .badge-fac{background:rgba(255,222,22,.3);color:#7a6900}
+    .scard-body{padding:.4rem 1.3rem 1rem}
+    .scard-title{font-family:var(--serif);font-size:1.15rem;margin-bottom:.35rem}
+    .scard-loc{font-size:.88rem;font-weight:600;color:var(--charcoal);margin-bottom:.55rem}
+    .scard-body p{font-size:.88rem;color:var(--muted);line-height:1.6}
+    .scard-foot{margin-top:auto;padding:0 1.3rem 1.3rem;display:flex;gap:.6rem;flex-wrap:wrap}
+    .scard-foot .pvbtn{font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;background:var(--red);color:#fff;border-radius:6px;padding:.55rem 1.1rem;display:inline-block}
+
+    /* output box */
+    .out{margin-top:1.4rem}
+    .out textarea{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.78rem;line-height:1.5;min-height:150px;background:#1a1a16;color:#d7d3c8;border-color:#2c2c26}
+    .steps{background:var(--stone);border-radius:var(--r);padding:1rem 1.2rem;margin-top:1rem;font-size:.88rem;color:var(--muted)}
+    .steps ol{margin:.4rem 0 0 1.1rem;display:flex;flex-direction:column;gap:.3rem}
+    .steps code{font-family:'Fira Code',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.05em .35em;color:var(--charcoal)}
+
+    /* current events table */
+    .evlist{margin-top:2.5rem}
+    .evlist h2{font-family:var(--serif);font-size:1.35rem;margin-bottom:.3rem}
+    .evlist .sub{font-size:.88rem;color:var(--muted);margin-bottom:1.2rem}
+    table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--border);border-radius:var(--rl);overflow:hidden}
+    th,td{text-align:left;padding:.7rem .9rem;font-size:.88rem;border-bottom:1px solid var(--border);vertical-align:middle}
+    th{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);background:var(--stone)}
+    tr:last-child td{border-bottom:none}
+    tr.gone td{opacity:.5}
+    .st{font-family:var(--cond);font-size:.7rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .55rem;border-radius:20px;white-space:nowrap}
+    .st.live{background:rgba(95,138,79,.15);color:var(--green)}
+    .st.gone{background:rgba(40,41,36,.08);color:var(--muted)}
+    .st.draft{background:rgba(255,222,22,.25);color:#7a6900}
+    .tbtn{font-family:var(--cond);font-size:.74rem;font-weight:700;text-transform:uppercase;letter-spacing:.04em;background:transparent;border:1.5px solid var(--border);border-radius:5px;padding:.25rem .6rem;cursor:pointer;color:var(--charcoal);transition:var(--t)}
+    .tbtn:hover{background:var(--charcoal);color:#fff;border-color:var(--charcoal)}
+    .tbtn.del:hover{background:var(--red);border-color:var(--red);color:#fff}
+
+    .toast{position:fixed;bottom:1.5rem;left:50%;transform:translateX(-50%) translateY(120%);background:var(--charcoal);color:#fff;padding:.8rem 1.6rem;border-radius:8px;font-size:.9rem;box-shadow:0 8px 28px rgba(0,0,0,.3);transition:transform .3s ease;z-index:9000}
+    .toast.show{transform:translateX(-50%) translateY(0)}
+
+    .footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--border);font-size:.82rem;color:var(--muted)}
+  </style>
+  <script>
+  /* Shared site password gate (same as the rest of the site) */
+  (function(){
+    var KEY='lim_auth_2026',HASH='53d81e6c17c82d10718106513d7a21defa05a0d73b2c89f59be66b40f8a05aac';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<h2 style="color:#fff;font-family:\'Merriweather\',serif;font-size:1.2rem;margin:0 0 .5rem;text-align:center">Events Manager</h2>'
+        +'<p style="color:rgba(255,255,255,.45);font-size:.85rem;margin:0 0 2rem;text-align:center">Enter the site password to continue</p>'
+        +'<input id="ag-pw" type="password" placeholder="Password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw'),btn=document.getElementById('ag-btn'),err=document.getElementById('ag-err');
+      function attempt(){var pw=inp.value;if(!pw){err.textContent='Please enter the password.';return;}
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password.';inp.value='';inp.focus();}});}
+      btn.addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+
+<div id="topbar">
+  <a href="index.html"><img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries — Home"></a>
+  <span>Healing Group Events</span>
+</div>
+
+<div class="wrap">
+
+  <div class="header">
+    <span class="eyebrow">Internal Tool</span>
+    <h1 class="title">Healing Group Events Manager</h1>
+    <p class="intro">Add a new healing-group event to the website without touching code. Fill the form, see a live preview, then copy the generated card and paste it into the site (or send it to Gary). <strong>Events remove themselves automatically</strong> the day after the end date passes — no cleanup needed.</p>
+  </div>
+
+  <div class="grid">
+
+    <!-- FORM -->
+    <div class="panel">
+      <h2>Add / Edit an Event</h2>
+      <p class="sub">Fields marked with the date pickers control when the card shows and when it auto-removes.</p>
+
+      <label>Event title <span class="hint">e.g. Community Healing Group</span></label>
+      <input id="f-title" type="text" placeholder="Community Healing Group" oninput="render()">
+
+      <label>Location <span class="hint">e.g. Lame Deer, MT  ·  or  Zoom — Online</span></label>
+      <input id="f-loc" type="text" placeholder="Lame Deer, MT" oninput="render()">
+
+      <div class="row2">
+        <div>
+          <label>Date label <span class="hint">shown on card</span></label>
+          <input id="f-datelabel" type="text" placeholder="May 16, 2026" oninput="render()">
+        </div>
+        <div>
+          <label>Sub-label <span class="hint">duration</span></label>
+          <input id="f-sub" type="text" placeholder="1 Day · Saturday" oninput="render()">
+        </div>
+      </div>
+
+      <div class="row2">
+        <div>
+          <label>Type</label>
+          <select id="f-type" onchange="render()">
+            <option value="in-person">In-Person</option>
+            <option value="online">Online</option>
+            <option value="facilitator">Facilitator Training</option>
+            <option value="military">Military</option>
+          </select>
+        </div>
+        <div>
+          <label>Last day <span class="hint">auto-removes after</span></label>
+          <input id="f-end" type="date" oninput="render()">
+        </div>
+      </div>
+
+      <label>Open for registration?</label>
+      <select id="f-open" onchange="render()">
+        <option value="true">Yes — accepting registrations</option>
+        <option value="false">No — full / waitlist</option>
+      </select>
+
+      <label>Description <span class="hint">1–3 sentences</span></label>
+      <textarea id="f-desc" placeholder="Location, times, and any details participants need." oninput="render()"></textarea>
+
+      <div class="btn-row">
+        <button class="btn btn-red" onclick="saveDraft()">Save to My List</button>
+        <button class="btn btn-ghost" onclick="clearForm()">Clear Form</button>
+      </div>
+    </div>
+
+    <!-- PREVIEW + OUTPUT -->
+    <div class="panel">
+      <h2>Live Preview</h2>
+      <p class="sub">This is exactly how the card will look on the Healing Groups page.</p>
+
+      <div class="pv-label">Card preview</div>
+      <div id="preview"></div>
+
+      <div class="out">
+        <div class="pv-label">Generated code — copy this</div>
+        <textarea id="output" readonly></textarea>
+        <div class="btn-row">
+          <button class="btn btn-dark" onclick="copyOut()">Copy Card Code</button>
+        </div>
+        <div class="steps">
+          <strong>How to publish:</strong>
+          <ol>
+            <li>Click <em>Copy Card Code</em> above.</li>
+            <li>In <code>healing-groups.html</code>, find the line <code>&lt;!-- SESSIONS:END --&gt;</code>.</li>
+            <li>Paste the code on the line just <em>above</em> it, then save &amp; publish.</li>
+            <li>Not comfortable editing the file? Email the copied code to Gary and he'll drop it in.</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CURRENT EVENTS -->
+  <div class="evlist">
+    <h2>Current Events</h2>
+    <p class="sub">Everything currently on the Healing Groups page, plus anything you've saved here. <strong>Removed</strong> events have passed their last day and no longer show on the site.</p>
+    <table>
+      <thead><tr><th>Date</th><th>Event</th><th>Location</th><th>Type</th><th>Last day</th><th>Status</th><th></th></tr></thead>
+      <tbody id="evbody"></tbody>
+    </table>
+  </div>
+
+  <div class="footer">
+    Internal tool for Lutheran Indian Ministries. Your saved drafts live in this browser only until they're published to the live site. Questions — contact Gary.
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+  // ---- Seed: events already published on healing-groups.html ----
+  var SEED=[
+    {title:'Military Personnel Healing Group',loc:'Fairbanks, AK — In-Person',datelabel:'March 13–14, 2026',sub:'2 Days · Thu–Fri',type:'military',end:'2026-03-14',open:true},
+    {title:'Online Healing Group',loc:'Zoom — Online',datelabel:'March 18–27, 2026',sub:'2 Weeks · Online',type:'online',end:'2026-03-27',open:false},
+    {title:'Healing Group + Equipping Training',loc:'Winnebago, NE',datelabel:'April 14–17, 2026',sub:'4 Days · Tue–Fri',type:'facilitator',end:'2026-04-17',open:true},
+    {title:'Community Healing Group',loc:'Lame Deer, MT',datelabel:'May 16, 2026',sub:'1 Day · Saturday',type:'in-person',end:'2026-05-16',open:true},
+    {title:'Community Healing Group',loc:'Ashland, MT',datelabel:'May 22, 2026',sub:'1 Day · Friday',type:'in-person',end:'2026-05-22',open:true},
+    {title:'Community Healing Group',loc:'Fairbanks, AK',datelabel:'May 27–29, 2026',sub:'3 Days · Wed–Fri',type:'in-person',end:'2026-05-29',open:true},
+    {title:'Online Healing Group',loc:'Zoom — Online',datelabel:'August 5–14, 2026',sub:'2 Weeks · Online',type:'online',end:'2026-08-14',open:true},
+    {title:'Community Healing Group',loc:'Fairbanks, AK · Zion Lutheran Church',datelabel:'Sept 16–18, 2026',sub:'3 Days · Wed–Fri',type:'in-person',end:'2026-09-18',open:true},
+    {title:'Community Healing Group',loc:'Anchorage, AK · Anchorage Lutheran Church',datelabel:'Oct 9–10, 2026',sub:'2 Days · Fri–Sat',type:'in-person',end:'2026-10-10',open:true},
+    {title:'Facilitator Equipping Training',loc:'Location TBC',datelabel:'October 2026',sub:'Dates TBC',type:'facilitator',end:'2026-10-31',open:true},
+    {title:'Community Healing Group',loc:'Fairbanks, AK · Zion Lutheran Church',datelabel:'Nov 4–6, 2026',sub:'3 Days · Wed–Fri',type:'in-person',end:'2026-11-06',open:true}
+  ];
+  var DKEY='lim_event_drafts';
+  var BADGE={'in-person':['badge-ip','In-Person'],'online':['badge-on','Online'],'facilitator':['badge-fac','Facilitator Training'],'military':['badge-mil','Military']};
+
+  function g(id){return document.getElementById(id);}
+  function drafts(){try{return JSON.parse(localStorage.getItem(DKEY))||[];}catch(e){return [];}}
+  function setDrafts(d){localStorage.setItem(DKEY,JSON.stringify(d));}
+  function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+  function escAttr(s){return (s||'').replace(/'/g,"\\'").replace(/&/g,'&amp;').replace(/"/g,'&quot;');}
+  function todayISO(){var d=new Date();d.setHours(0,0,0,0);return d;}
+  function isGone(end){if(!end)return false;return new Date(end+'T00:00:00') < todayISO();}
+
+  // Build the data object from the form
+  function formData(){
+    return {
+      title:g('f-title').value.trim(),
+      loc:g('f-loc').value.trim(),
+      datelabel:g('f-datelabel').value.trim(),
+      sub:g('f-sub').value.trim(),
+      type:g('f-type').value,
+      end:g('f-end').value,
+      open:g('f-open').value==='true'
+    };
+  }
+
+  // Generate the exact .scard markup used on healing-groups.html
+  function cardHTML(e){
+    var b=BADGE[e.type]||BADGE['in-person'];
+    var icon=e.type==='online'?'💻':'📍';
+    var mil=e.type==='military'?'true':'false';
+    var regLabel=e.type==='facilitator'?'Register Interest':'Register Now';
+    var summary=(e.datelabel?e.datelabel+' · ':'')+e.loc;
+    return ''+
+'    <!-- Card — '+esc(e.title)+' · '+esc(e.loc)+' -->\n'+
+'    <div class="scard fi" data-type="'+e.type+'" data-open="'+(e.open?'true':'false')+'" data-end="'+(e.end||'')+'">\n'+
+'      <div class="scard-top">\n'+
+'        <div class="scard-date">'+esc(e.datelabel)+'<span>'+esc(e.sub)+'</span></div>\n'+
+'        <span class="badge '+b[0]+'">'+b[1]+'</span>\n'+
+'      </div>\n'+
+'      <div class="scard-body">\n'+
+'        <h3 class="scard-title">'+esc(e.title)+'</h3>\n'+
+'        <div class="scard-loc">'+icon+' '+esc(e.loc)+'</div>\n'+
+'        <p>'+esc(e.desc)+'</p>\n'+
+'      </div>\n'+
+'      <div class="scard-foot">\n'+
+'        <button class="btn btn-red" style="font-size:.85rem;padding:.7rem 1.4rem" onclick="openReg(\''+escAttr(e.title)+'\',\''+escAttr(summary)+'\','+mil+')">'+regLabel+'</button>\n'+
+'      </div>\n'+
+'    </div>\n';
+  }
+
+  function render(){
+    var e=formData();e.desc=g('f-desc').value.trim();
+    var b=BADGE[e.type]||BADGE['in-person'];
+    var icon=e.type==='online'?'💻':'📍';
+    var regLabel=e.type==='facilitator'?'Register Interest':'Register Now';
+    g('preview').innerHTML=
+      '<div class="scard">'+
+        '<div class="scard-top"><div class="scard-date">'+(esc(e.datelabel)||'Date')+'<span>'+(esc(e.sub)||'Duration')+'</span></div>'+
+        '<span class="badge '+b[0]+'">'+b[1]+'</span></div>'+
+        '<div class="scard-body"><h3 class="scard-title">'+(esc(e.title)||'Event title')+'</h3>'+
+        '<div class="scard-loc">'+icon+' '+(esc(e.loc)||'Location')+'</div>'+
+        '<p>'+(esc(e.desc)||'Description appears here.')+'</p></div>'+
+        '<div class="scard-foot"><span class="pvbtn">'+regLabel+'</span></div>'+
+      '</div>';
+    g('output').value=cardHTML(e).replace(/^\n/,'');
+  }
+
+  function saveDraft(){
+    var e=formData();e.desc=g('f-desc').value.trim();
+    if(!e.title||!e.datelabel||!e.end){toast('Add at least a title, date label, and last day.');return;}
+    var d=drafts();
+    if(window._editIdx!=null){d[window._editIdx]=e;window._editIdx=null;}else{d.push(e);}
+    setDrafts(d);buildTable();toast('Saved to your list.');
+  }
+  function clearForm(){
+    ['f-title','f-loc','f-datelabel','f-sub','f-end','f-desc'].forEach(function(id){g(id).value='';});
+    g('f-type').value='in-person';g('f-open').value='true';window._editIdx=null;render();
+  }
+  function editDraft(i){
+    var e=drafts()[i];if(!e)return;window._editIdx=i;
+    g('f-title').value=e.title||'';g('f-loc').value=e.loc||'';g('f-datelabel').value=e.datelabel||'';
+    g('f-sub').value=e.sub||'';g('f-type').value=e.type||'in-person';g('f-end').value=e.end||'';
+    g('f-open').value=e.open?'true':'false';g('f-desc').value=e.desc||'';render();
+    window.scrollTo({top:0,behavior:'smooth'});
+  }
+  function delDraft(i){var d=drafts();d.splice(i,1);setDrafts(d);buildTable();toast('Removed from your list.');}
+
+  function copyOut(){
+    var t=g('output');t.select();
+    navigator.clipboard.writeText(t.value).then(function(){toast('Card code copied — paste it above the SESSIONS:END line.');},function(){document.execCommand('copy');toast('Card code copied.');});
+  }
+  function copyRow(e){
+    navigator.clipboard.writeText(cardHTML(e).replace(/^\n/,'')).then(function(){toast('Card code copied.');});
+  }
+
+  function statusPill(end,draft){
+    if(isGone(end))return '<span class="st gone">Removed</span>';
+    if(draft)return '<span class="st draft">Your draft</span>';
+    return '<span class="st live">Live</span>';
+  }
+  function buildTable(){
+    var d=drafts();var rows=[];
+    SEED.forEach(function(e){rows.push({e:e,draft:false,i:null});});
+    d.forEach(function(e,i){rows.push({e:e,draft:true,i:i});});
+    rows.sort(function(a,b){return (a.e.end||'')<(b.e.end||'')?-1:1;});
+    g('evbody').innerHTML=rows.map(function(r){
+      var e=r.e,gone=isGone(e.end);
+      var actions=r.draft
+        ? '<button class="tbtn" onclick="editDraft('+r.i+')">Edit</button> <button class="tbtn" onclick="copyRowI('+r.i+')">Copy</button> <button class="tbtn del" onclick="delDraft('+r.i+')">Delete</button>'
+        : '';
+      return '<tr class="'+(gone?'gone':'')+'">'+
+        '<td>'+esc(e.datelabel)+'</td>'+
+        '<td>'+esc(e.title)+'</td>'+
+        '<td>'+esc(e.loc)+'</td>'+
+        '<td>'+(BADGE[e.type]?BADGE[e.type][1]:e.type)+'</td>'+
+        '<td>'+(e.end||'—')+'</td>'+
+        '<td>'+statusPill(e.end,r.draft)+'</td>'+
+        '<td style="white-space:nowrap">'+actions+'</td>'+
+      '</tr>';
+    }).join('');
+  }
+  function copyRowI(i){var e=drafts()[i];if(e)copyRow(e);}
+
+  var _t;
+  function toast(msg){var el=g('toast');el.textContent=msg;el.classList.add('show');clearTimeout(_t);_t=setTimeout(function(){el.classList.remove('show');},2600);}
+
+  render();buildTable();
+</script>
+</body>
+</html>
