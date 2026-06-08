@@ -74,9 +74,9 @@
     .rec .to b{color:var(--green)}
     .rec code{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.82em;background:rgba(40,41,36,.07);border:1px solid var(--border);border-radius:4px;padding:.05em .35em}
 
-    ul.clean{list-style:none;display:flex;flex-direction:column;gap:.55rem;margin-top:1rem}
-    ul.clean li{display:flex;gap:.6rem;font-size:.94rem;color:var(--muted);line-height:1.6}
-    ul.clean li::before{content:'→';color:var(--red);font-weight:700;flex-shrink:0}
+    ul.clean{list-style:none;margin-top:1rem;display:flex;flex-direction:column;gap:.55rem}
+    ul.clean li{position:relative;padding-left:1.5rem;font-size:.94rem;color:var(--muted);line-height:1.6}
+    ul.clean li::before{content:'→';position:absolute;left:0;top:0;color:var(--red);font-weight:700}
     ul.clean li strong{color:var(--charcoal);font-weight:600}
 
     .src{font-size:.82rem;color:var(--muted);line-height:1.8}
