@@ -194,6 +194,12 @@
     .tm-role{font-size:.82rem;color:rgba(255,255,255,.55);line-height:1.5}
     .tm-loc{font-family:var(--cond);font-size:.7rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--yellow);margin-top:.5rem;opacity:.75}
     .tm-bio{font-size:.8rem;color:rgba(255,255,255,.45);line-height:1.6;margin-top:.65rem;padding-top:.65rem;border-top:1px solid rgba(255,255,255,.08)}
+    .tm-more{margin-top:.8rem;display:inline-flex;align-items:center;gap:.4rem;background:none;border:none;padding:0;cursor:pointer;font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--yellow);transition:var(--t)}
+    .tm-more:hover{color:#fff;gap:.6rem}
+    .tm-more svg{width:14px;height:14px}
+    /* Bio modal — secondary image (e.g. regalia) */
+    .m-subimg{float:right;width:150px;border-radius:var(--r);margin:0 0 1rem 1.25rem}
+    @media(max-width:520px){.m-subimg{float:none;width:100%;margin:0 0 1.1rem}}
     /* Board — keep compact text-only */
     .board-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.75rem}
     .bm{background:rgba(178,172,136,.15);border:1px solid var(--border);border-radius:var(--r);padding:1rem 1.25rem}
@@ -705,11 +711,14 @@
         </div>
       </div>
       <div class="tm">
-        <div class="tm-photo"><div class="tm-init">AP</div></div>
+        <div class="tm-photo">
+          <img src="images-master/team-angie-pantazon.jpg" alt="Angie Pantazon, Assistant Financial Officer" loading="lazy">
+        </div>
         <div class="tm-body">
           <div class="tm-name">Angie Pantazon</div>
           <div class="tm-role">Asst. Financial Officer</div>
-          <div class="tm-loc">Brookfield, WI</div>
+          <div class="tm-loc">Oconomowoc, WI</div>
+          <div class="tm-bio">For more than 16 years, Angie has guided LIM's finances and operations — reporting, budgeting, audits, payroll, and the donor database — so staff and programs can focus on serving Native communities. BA in Accounting, UW Oshkosh; 30+ years in accounting and finance.</div>
         </div>
       </div>
       <div class="tm">
@@ -749,27 +758,45 @@
         </div>
       </div>
       <div class="tm">
-        <div class="tm-photo"><div class="tm-init">SS</div></div>
+        <div class="tm-photo">
+          <img src="images-master/team-suzette-shreffler.jpg" alt="Suzette Shreffler, Ministry Coordinator for Montana" loading="lazy">
+        </div>
         <div class="tm-body">
           <div class="tm-name">Suzette Shreffler</div>
-          <div class="tm-role">Ministry Team</div>
+          <div class="tm-role">Ministry Coordinator · Montana</div>
           <div class="tm-loc">Busby, MT</div>
+          <div class="tm-bio">Raised on the Northern Cheyenne Reservation, Suzette came to faith in 2007 and returned home in 2009 to serve. She leads Montana's trauma healing groups — walking with others toward the healing and hope she found in Christ.</div>
+          <button class="tm-more" onclick="openModal('m-bio-suzette')">Read full bio
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </button>
         </div>
       </div>
       <div class="tm">
-        <div class="tm-photo"><div class="tm-init">RR</div></div>
+        <div class="tm-photo">
+          <img src="images-master/team-roberta-richardson.jpg" alt="Roberta Richardson, Lead Ministry Coordinator" loading="lazy">
+        </div>
         <div class="tm-body">
           <div class="tm-name">Roberta Richardson</div>
-          <div class="tm-role">Ministry Coordinator</div>
+          <div class="tm-role">Lead Ministry Coordinator</div>
           <div class="tm-loc">Anchorage, AK</div>
+          <div class="tm-bio">Inupiaq, raised in rural and urban Alaska in a family that loves Jesus, Roberta joined LIM in 2023. After a long HR career (SPHR, GPHR, SHRM-SCP) and family-wellness work, she follows a calling she never imagined — and her joy and laughter are unmistakable.</div>
+          <button class="tm-more" onclick="openModal('m-bio-roberta')">Read full bio
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </button>
         </div>
       </div>
       <div class="tm">
-        <div class="tm-photo"><div class="tm-init">EC</div></div>
+        <div class="tm-photo">
+          <img src="images-master/team-esther-cetina.jpg" alt="Esther Cetina, Ministry Coordinator" loading="lazy">
+        </div>
         <div class="tm-body">
           <div class="tm-name">Esther Cetina</div>
-          <div class="tm-role">Ministry Team</div>
+          <div class="tm-role">Ministry Coordinator</div>
           <div class="tm-loc">Anchorage, AK</div>
+          <div class="tm-bio">Alutiiq/Sugpiaq and Filipino, raised in the village of Seldovia, Esther brings 20+ years of nonprofit healthcare leadership to LIM's Healing Groups. A "Top 40 Under 40" honoree with a Master's in Counseling Psychology.</div>
+          <button class="tm-more" onclick="openModal('m-bio-esther')">Read full bio
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </button>
         </div>
       </div>
     </div>
@@ -983,6 +1010,64 @@
         <p>Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.</p>
         <button class="btn btn-ol" onclick="closeModal('m-donate')">Close</button>
       </div>
+    </div>
+  </div>
+</div>
+
+<!-- Bio Modal — Esther Cetina -->
+<div id="m-bio-esther" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-bio-esther-t">
+  <div class="modal">
+    <div class="mhd">
+      <div>
+        <h3 class="m-title" id="m-bio-esther-t">Esther Cetina</h3>
+        <div style="font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--sage-d);margin-top:.4rem">Ministry Coordinator · Anchorage, AK</div>
+      </div>
+      <button class="m-x" onclick="closeModal('m-bio-esther')" aria-label="Close">✕</button>
+    </div>
+    <div class="mbody">
+      <p>Esther Cetina lives in Anchorage, Alaska, where she raised three children. She is of Alutiiq/Sugpiaq and Filipino descent and grew up in the small village of Seldovia — accessible only by plane or boat — in a subsistence lifestyle of fishing, hunting, and gathering food from the land.</p>
+      <p>She earned a Master of Science in Counseling Psychology from Alaska Pacific University and, in 2017, was named a "Top 40 Under 40" honoree by the <em>Alaska Journal of Commerce</em>. With more than 20 years in the nonprofit healthcare sector, she has held leadership roles including Director of External Affairs at Old Harbor Native Corporation and Senior Director of Executive and Tribal Services and Administrator of Medical Services at Southcentral Foundation. In 2023 she founded Rising Solutions, a consulting firm supporting healthcare organizations and nonprofits.</p>
+      <p>As a Ministry Coordinator with Lutheran Indian Ministries, Esther partners with the team to organize and support Healing Groups and advance sustainable growth. She is passionate about empowering Alaska Native communities, strengthening families, and advancing self-determination — work guided by her faith and a deep commitment to making a positive impact.</p>
+      <p>In her free time, she enjoys subsistence fishing and hunting in Homer and Seldovia with her children, along with camping, traveling, and creating new adventures with her family.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Bio Modal — Roberta Richardson -->
+<div id="m-bio-roberta" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-bio-roberta-t">
+  <div class="modal">
+    <div class="mhd">
+      <div>
+        <h3 class="m-title" id="m-bio-roberta-t">Roberta "Kitigruak" Richardson</h3>
+        <div style="font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--sage-d);margin-top:.4rem">Lead Ministry Coordinator · Anchorage, AK</div>
+      </div>
+      <button class="m-x" onclick="closeModal('m-bio-roberta')" aria-label="Close">✕</button>
+    </div>
+    <div class="mbody">
+      <p>Roberta "Kitigruak" Richardson lives in Anchorage, Alaska, with her husband — her best friend — and their spoiled-rotten dog and cat. She is of Inupiaq descent and grew up in both rural and urban Alaska. Born into a family who loves Jesus, her late grandfather was a beloved pastor and superintendent of Friends Church, and her late grandmother faithfully supported his calling across the cities and villages of Alaska. Her great-grandmother worked to translate the Bible into pictograph images to help people understand the Word in Northwest Alaska in the late 1800s and early 1900s.</p>
+      <p>Roberta joined LIM in July 2023 and serves as Lead Ministry Coordinator. Before LIM, her career included family wellness programs and a long career in Human Resources, where she earned her SPHR, GPHR, and SHRM-SCP designations. She credits the work experiences God led her through with bringing her to ministry — a role she never imagined she would hold, and one she is deeply grateful for.</p>
+      <p>The joy of the Lord is her strength, and she loves to laugh. Seeing the Holy Spirit free people from lies and generational harm through Biblical truth fills her cup again and again. She values people wherever they are, loves meeting new friends, and is in constant awe of Jesus.</p>
+      <p>Roberta loves family time, caring for her pets, and learning, reading, traveling, and trying new foods with her husband. Her very favorite thing is laughter — shared with family, friends, her pets, and anyone willing to laugh along. She feels incredibly blessed to work with a team who love the Lord, and she's excited to see what God has in store for this ministry. Join a healing group and experience it for yourself.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Bio Modal — Suzette Shreffler -->
+<div id="m-bio-suzette" class="mbk" role="dialog" aria-modal="true" aria-labelledby="m-bio-suzette-t">
+  <div class="modal">
+    <div class="mhd">
+      <div>
+        <h3 class="m-title" id="m-bio-suzette-t">Suzette Shreffler</h3>
+        <div style="font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--sage-d);margin-top:.4rem">Ministry Coordinator · Montana · Busby, MT</div>
+      </div>
+      <button class="m-x" onclick="closeModal('m-bio-suzette')" aria-label="Close">✕</button>
+    </div>
+    <div class="mbody">
+      <img class="m-subimg" src="images-master/suzette-regalia.jpg" alt="Suzette Shreffler in traditional Northern Cheyenne regalia" loading="lazy">
+      <p>Suzette Shreffler lives in Busby with her husband, Scott. She was raised on the Northern Cheyenne Indian Reservation, where she lived until age 19, then moved to Seattle and raised her five children. In 2007 she began a personal relationship with Jesus Christ — a decision that transformed her life — and in 2009 she returned to the reservation with renewed faith and a desire to serve her community.</p>
+      <p>As Ministry Coordinator for Montana, Suzette coordinates trauma healing groups alongside the mentors and volunteers who serve with her. With about 16 years of ministry experience, she is deeply committed to helping people find healing and hope through a relationship with Jesus Christ — walking with them as they process past wounds, discover God's truth, and experience spiritual and emotional restoration.</p>
+      <p>Her compassion flows from her own story. There was a time she felt lost and without hope, but through a life-changing relationship with Christ she found healing, restoration, and new purpose. Because of what He has done in her life, she carries a burden to see Native people experience the same freedom and hope — and she is committed to raising up leaders within her community to strengthen families and build a foundation of faith for future generations.</p>
+      <p>Outside of ministry, Suzette enjoys baking, arts and crafts, and beading with her grandchildren — especially making traditional regalia for powwows and watching them dance. Beading is her favorite hobby and a sacred time of prayer: with each bead she lifts up the people on her heart, asking Jesus to bring them healing, strength, and hope.</p>
     </div>
   </div>
 </div>
