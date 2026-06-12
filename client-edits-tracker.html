@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Site Copy Edits — Tracker · Lutheran Indian Ministries 2026</title>
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+      --sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--stone:#EBE9E4;
+      --muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;--amber:#c98a1b;
+      --serif:'Merriweather',Georgia,serif;
+      --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --body:'Open Sans',system-ui,sans-serif;
+      --max:920px;--r:8px;--rl:16px;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.7}
+    a{color:var(--red);text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    #topbar{background:var(--charcoal);padding:.75rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
+    #topbar img{height:34px}
+    #topbar span{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4)}
+
+    .wrap{max-width:var(--max);margin:0 auto;padding:3rem 1.5rem 5rem}
+
+    .header{margin-bottom:2.5rem;padding-bottom:2rem;border-bottom:2px solid var(--border)}
+    .eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.75rem;display:block}
+    .title{font-family:var(--serif);font-size:clamp(1.8rem,3.5vw,2.4rem);color:var(--charcoal);line-height:1.2;margin-bottom:1rem}
+    .intro{font-size:1rem;color:var(--muted);line-height:1.8;max-width:680px}
+    .updated{font-family:var(--cond);font-size:.78rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-top:1rem}
+    .updated b{color:var(--charcoal);font-weight:700}
+
+    /* Summary cards */
+    .ms-section{background:var(--charcoal);border-radius:var(--rl);padding:1.75rem 1.75rem 1.5rem;margin-bottom:2.5rem;color:#fff}
+    .ms-head{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--yellow);margin-bottom:1.25rem}
+    .ms-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem}
+    .ms-card{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:var(--r);padding:1.1rem 1.2rem}
+    .ms-num{font-family:var(--serif);font-size:2rem;font-weight:700;color:var(--yellow);line-height:1}
+    .ms-label{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#fff;margin:.5rem 0 .2rem}
+    .ms-note{font-size:.78rem;color:rgba(255,255,255,.6);line-height:1.5}
+
+    .sect{margin-top:3rem;margin-bottom:1.25rem;display:flex;align-items:baseline;gap:.85rem;flex-wrap:wrap;scroll-margin-top:1rem}
+    .sect h2{font-family:var(--serif);font-size:1.4rem;color:var(--charcoal)}
+    .sect .meta{font-family:var(--cond);font-size:.78rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+    .sect-lead{font-size:.92rem;color:var(--muted);margin:-.5rem 0 1.25rem;max-width:680px}
+
+    /* Applied entries */
+    .entry{background:#fff;border:1px solid var(--border);border-radius:var(--rl);overflow:hidden;margin-bottom:1.1rem;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .entry-head{background:var(--stone);padding:.85rem 1.4rem;display:flex;align-items:center;justify-content:space-between;gap:.85rem;border-bottom:1px solid var(--border)}
+    .entry-date{font-family:var(--cond);font-size:.95rem;font-weight:700;color:var(--charcoal);letter-spacing:.04em}
+    .entry-tag{font-family:var(--cond);font-size:.7rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;background:var(--green);color:#fff;padding:.25rem .65rem;border-radius:20px;display:inline-block;white-space:nowrap}
+    .entry-body{padding:1.25rem 1.4rem}
+    .entry-body ul{list-style:none;display:flex;flex-direction:column;gap:.5rem;margin:0}
+    .entry-body li{position:relative;padding-left:1.5rem;font-size:.93rem;color:var(--muted);line-height:1.6}
+    .entry-body li::before{content:'✓';color:var(--green);font-weight:700;position:absolute;left:0;top:0}
+    .entry-body li strong{color:var(--charcoal);font-weight:600}
+    .was{color:#9a958a;text-decoration:line-through}
+    .now{color:var(--charcoal);font-weight:600}
+
+    /* Pending lists */
+    .pending{background:#fff;border:1px solid var(--border);border-radius:var(--rl);padding:1.25rem 1.5rem;margin-bottom:1.1rem}
+    .pending ul{list-style:none;display:flex;flex-direction:column;gap:.85rem}
+    .pending li{display:grid;grid-template-columns:auto 1fr;gap:.8rem;font-size:.93rem;color:var(--muted);line-height:1.6;align-items:start}
+    .pending li .pid{font-family:var(--cond);font-size:.68rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#fff;padding:.2rem .5rem;border-radius:4px;white-space:nowrap;align-self:start;margin-top:.25rem}
+    .pid.fact{background:var(--amber)}
+    .pid.event{background:var(--sky);color:var(--charcoal)}
+    .pid.q{background:var(--charcoal);color:var(--yellow)}
+    .pid.done{background:var(--green)}
+    .pending li strong{color:var(--charcoal);font-weight:600}
+    .pending li .ask{display:block;color:var(--charcoal);font-weight:600;margin-top:.15rem}
+    .pending li em.src{font-style:italic;color:#7a766c}
+    .resolved{background:#f3f7f0;border-color:#cfe0c4}
+    .note-inline{display:inline-block;font-family:var(--cond);font-size:.7rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--green);background:rgba(95,138,79,.12);border:1px solid rgba(95,138,79,.3);border-radius:4px;padding:.05em .45em;margin-left:.35em}
+
+    .ic{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.05em .35em;color:var(--charcoal);white-space:nowrap}
+    a.ic{color:var(--red)}
+
+    .footer{margin-top:3.5rem;padding-top:1.75rem;border-top:1px solid var(--border);font-size:.82rem;color:var(--muted);line-height:1.7}
+    .footer a{color:var(--red);font-weight:600}
+
+    @media(max-width:680px){
+      .ms-grid{grid-template-columns:repeat(2,1fr)}
+    }
+    @media(max-width:600px){
+      .entry-head{flex-direction:column;align-items:flex-start;gap:.5rem}
+    }
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_auth_2026',HASH='53d81e6c17c82d10718106513d7a21defa05a0d73b2c89f59be66b40f8a05aac';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');
+      o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<h2 style="color:#fff;font-family:\'Merriweather\',serif;font-size:1.2rem;margin:0 0 .5rem;text-align:center">Copy Edits Tracker</h2>'
+        +'<p style="color:rgba(255,255,255,.45);font-size:.85rem;margin:0 0 2rem;text-align:center">Enter the site password to continue</p>'
+        +'<input id="ag-pw" type="password" placeholder="Password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw'),btn=document.getElementById('ag-btn'),err=document.getElementById('ag-err');
+      function attempt(){
+        var pw=inp.value;
+        if(!pw){err.textContent='Please enter the password.';return;}
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password.';inp.value='';inp.focus();}
+        });
+      }
+      btn.addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+
+<div id="topbar">
+  <a href="index.html"><img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries — Home"></a>
+  <span>Copy Edits Tracker</span>
+</div>
+
+<div class="wrap">
+
+  <div class="header">
+    <span class="eyebrow">Client Copy Review · Roberta &amp; Jaylene</span>
+    <h1 class="title">Site Copy Edits — Tracker</h1>
+    <p class="intro">Every change Roberta and Jaylene marked up in the returned copy doc (<span class="ic">site-copy-clean (1).md — RR JPN edits</span>), sorted into what's already live, what still needs a quick confirmation, what belongs in the Events Manager, and the open questions waiting on the team. This is the working checklist for closing out the review.</p>
+    <p class="updated">Last updated: <b>June 12, 2026</b> · Source: client doc returned June 11 · Back to <a href="status.html">Project Status</a></p>
+  </div>
+
+  <!-- Summary -->
+  <div class="ms-section">
+    <div class="ms-head">Where the review stands</div>
+    <div class="ms-grid">
+      <div class="ms-card">
+        <div class="ms-num">24</div>
+        <div class="ms-label">Applied &amp; live</div>
+        <p class="ms-note">Bucket A — clear copy edits, pushed.</p>
+      </div>
+      <div class="ms-card">
+        <div class="ms-num">3</div>
+        <div class="ms-label">Need a yes</div>
+        <p class="ms-note">Bucket B — factual calls to confirm.</p>
+      </div>
+      <div class="ms-card">
+        <div class="ms-num">8+</div>
+        <div class="ms-label">Events Manager</div>
+        <p class="ms-note">Bucket C — schedule, now data-driven.</p>
+      </div>
+      <div class="ms-card">
+        <div class="ms-num">13</div>
+        <div class="ms-label">Open questions</div>
+        <p class="ms-note">Bucket D — waiting on Robert/Jaylene.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- BUCKET A -->
+  <div class="sect" id="applied">
+    <h2>Applied &amp; live</h2>
+    <span class="meta">Bucket A · pushed June 12</span>
+  </div>
+  <p class="sect-lead">Unambiguous copy edits from the doc. These are done across <span class="ic">index.html</span>, <span class="ic">about.html</span>, and <span class="ic">healing-groups.html</span> and are live on the preview site.</p>
+
+  <div class="entry">
+    <div class="entry-head"><span class="entry-date">Wording &amp; corrections</span><span class="entry-tag">Live</span></div>
+    <div class="entry-body">
+      <ul>
+        <li>Robert's heritage corrected to <strong>Iñupiaq Eskimo</strong> everywhere <span class="was">(was Yup'ik / Iñupiat)</span></li>
+        <li>Travel modes now include <strong>road</strong> — "by road, plane, boat, and snowmachine" (5 places)</li>
+        <li><strong>Prayer Warriors</strong> capitalized; "those who <span class="now">could not attend</span>" <span class="was">(couldn't make it)</span>; prayer covers each group "<span class="now">before it begins and once it closes</span>"</li>
+        <li>"beginning the journey of <span class="now">forgiveness</span>" <span class="was">(forgiving others)</span></li>
+        <li>HWT description: "deep wounds <span class="now">like</span> grief, loss, and pain… <span class="now">Healing takes place rooted in God's Word and love for us</span>" <span class="was">(Held in the safety of community)</span></li>
+        <li>"A <span class="now">small group program based on God's Word</span>, led by Native facilitators…" <span class="was">(A Bible-based small group program…)</span></li>
+        <li>Haskell: "A Bible study. A conversation. <span class="now">A meal.</span> A reminder…"</li>
+        <li>"Held on reservations, in villages, cities, <span class="now">and online</span>"</li>
+        <li>"Sessions <span class="now">offered at</span> reservations…" <span class="was">(Sessions reach…)</span></li>
+        <li>About: "<span class="now">Love Is an Action, Not just an Emotion.</span>" + "breadth of Native communities <span class="now">we serve, continuing</span> the relational… nature of the work"</li>
+        <li>"<span class="now">Regularly scheduled sessions in Alaska, Montana, online, and more</span>" <span class="was">(Sessions in Fairbanks, Winnebago…)</span></li>
+        <li>Donation: "$100 sponsors <span class="now">a participant to attend a</span> healing group — all 6 sessions"</li>
+        <li>Mailing address added: "<span class="now">15350 W Capitol Drive, Brookfield, WI 53005</span>" <span class="was">(Call (262) 439-5663 for mailing address)</span></li>
+        <li>First homepage testimonial wrapped in quotation marks; Roberta's <em>Stories of Transformation</em> quote reworded per the doc</li>
+        <li><strong>New pull-quote added</strong> to the homepage Healing the Wounds of Trauma section: <em>"Can you imagine what it would be like if all our communities could be that helper to one another…"</em> <span class="note-inline">placement can be moved</span></li>
+        <li>Tribe count <strong>574 → 575</strong> (carried over from the June 11 Federal Register update)</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- BUCKET B -->
+  <div class="sect" id="confirm">
+    <h2>Need a quick yes</h2>
+    <span class="meta">Bucket B · factual calls</span>
+  </div>
+  <p class="sect-lead">Held back only because they change a factual claim or a spelling. Confirm and I'll apply in minutes.</p>
+  <div class="pending">
+    <ul>
+      <li><span class="pid fact">Fact</span><span><span class="ask">Reframe Haskell "students from 130+ tribes" → "students representing 575 tribes"? (4 places)</span> The doc asks for this throughout. It shifts the meaning from "students come from 130+ tribes" to "all 575" — defensible as mission reach, but worth Robert's sign-off before it goes live.</span></li>
+      <li><span class="pid fact">Fact</span><span><span class="ask">Roberta's traditional name — which spelling?</span> The doc shortens it to <strong>(Kitgruak)</strong> in one spot but a comment says <strong>"Kitigruak."</strong> The bio modal already uses "Kitigruak." Confirm the one spelling and I'll make About's testimonial heading (currently "Uuvanagaa Atigah Kitgruak") match everywhere.</span></li>
+      <li><span class="pid fact">Fact</span><span><span class="ask">One About-page footer dropped the number entirely</span> ("across tribal communities since 1985"). Everywhere else reads "575." I kept it at <strong>575</strong> for consistency — flag if you actually want the number gone there.</span></li>
+    </ul>
+  </div>
+
+  <!-- BUCKET C -->
+  <div class="sect" id="events">
+    <h2>Events &amp; schedule</h2>
+    <span class="meta">Bucket C · belongs in the Events Manager</span>
+  </div>
+  <p class="sect-lead">The doc rewrites the whole healing-group session list — but sessions are now <strong>data-driven</strong> (they render from <span class="ic">data/events.json</span> and are edited in the <a href="admin-events.html">Events Manager</a>, not in page copy). These should be entered there so they publish cleanly. I can also apply them to the data file directly if you'd rather I handle it.</p>
+  <div class="pending">
+    <ul>
+      <li><span class="pid event">Event</span><span>Remove the past <strong>Lame Deer (May 16)</strong> and <strong>Ashland (May 22)</strong> sessions</span></li>
+      <li><span class="pid event">Event</span><span>Sept/Oct/Nov dated Fairbanks &amp; Anchorage sessions → <strong>"September 2026 · Fairbanks (dates TBC)"</strong> and <strong>"July 2026 · Robert's House"</strong> (register-interest, not fixed dates)</span></li>
+      <li><span class="pid event">Event</span><span>Online/Zoom block reworded to drop the fixed Aug 5–14 dates in favor of the general two-week format</span></li>
+      <li><span class="pid event">Event</span><span>Upcoming list reworked: add <strong>Mar 13–14 · Military · Fairbanks</strong> and <strong>Apr 14–17 · Healing + Equipping · Winnebago, NE</strong></span></li>
+      <li><span class="pid event">Event</span><span>Several specific session detail modals (addresses, exact times) removed in favor of "register interest, dates to be confirmed"</span></li>
+    </ul>
+  </div>
+
+  <!-- BUCKET D -->
+  <div class="sect" id="questions">
+    <h2>Open questions for Robert &amp; Jaylene</h2>
+    <span class="meta">Bucket D · decisions, not copy</span>
+  </div>
+  <p class="sect-lead">The team left these as comments in the doc. They're decisions or content we don't have yet — not text to paste. A few look already handled in an earlier round (marked below); please confirm.</p>
+  <div class="pending">
+    <ul>
+      <li><span class="pid q">Q</span><span><span class="ask">"Find a Healing Group / Become a Facilitator — where is the script?"</span> <em class="src">— these buttons need destinations. Where should each link go?</em></span></li>
+      <li><span class="pid q">Q</span><span><span class="ask">Add a section saying LIM comes where invited, and point others to the THI website for local facilitators?</span> <em class="src">— Discussion question for Robert.</em></span></li>
+      <li><span class="pid q">Q</span><span><span class="ask">"Stories &amp; Updates" — make "Read the Devotional" a button? Should "Watch our story" link to all videos? Too many clicks to read quotes?</span> <em class="src">— UX decisions for that section.</em></span></li>
+      <li><span class="pid q">Q</span><span><span class="ask">Gospel-in-Native-culture statement — Jaylene wants a separate discussion</span> (doctrine, religious law, cultural roots, pastoral discretion) before this copy is finalized.</span></li>
+      <li><span class="pid q">Q</span><span><span class="ask">Fundraising line — "this is a selling moment, can it get more focus?"</span> Flagged for a future copy pass on the donation ask.</span></li>
+      <li><span class="pid q">Q</span><span><span class="ask">Healing groups "at no cost… thanks to our generous donors" — needs further discussion</span> before adding the donor framing.</span></li>
+      <li><span class="pid q">Q</span><span><span class="ask">"$25 provides scripture materials" — does this cover materials, supplies, meals?</span> Confirm what $25 funds.</span></li>
+      <li><span class="pid q">Q</span><span><span class="ask">Haskell — "a federally operated tribal university (do we need this statement?)"</span> Keep or cut the descriptor?</span></li>
+      <li><span class="pid q">Q</span><span><span class="ask">"Audited financials available — is this required?"</span> Keep the line or remove?</span></li>
+      <li><span class="pid q">Q</span><span><span class="ask">History line — "partners, learners?, and friends"</span> Is "learners" the right word? Confirm or replace.</span></li>
+      <li><span class="pid done">Likely done</span><span><span class="ask">"Our Team — need photos and bios from board and staff"</span> <span class="note-inline">staff portraits shipped</span> Staff bios + studio portraits are now live; board members still outstanding.</span></li>
+      <li><span class="pid done">Likely done</span><span><span class="ask">"Why is Roberta in here twice?" / "remove the date here" (I Can Do All Things)</span> <span class="note-inline">appears resolved</span> An earlier round removed the duplicate Roberta card and the blog date — please confirm on the live page.</span></li>
+      <li><span class="pid done">Likely done</span><span><span class="ask">"Correct Inupiaq name to Kitigruak"</span> <span class="note-inline">homepage already correct</span> Homepage already reads "Kitigruak"; only the About testimonial heading still needs the spelling settled (see Bucket B).</span></li>
+    </ul>
+  </div>
+
+  <!-- BUCKET E -->
+  <div class="sect" id="ignored">
+    <h2>Reviewed — no action</h2>
+    <span class="meta">Bucket E · export noise</span>
+  </div>
+  <div class="pending resolved">
+    <ul>
+      <li><span class="pid done">Noise</span><span>Admin "A" badge, and nav items like "Brand Guide / Developer Docs / Video Release Form" — these are the internal admin menu, captured by a newer export, not client edits.</span></li>
+      <li><span class="pid done">Noise</span><span>Form fields where <span class="ic">you@example.com</span> turned into a mailto link and a garbled phone placeholder — Google Docs artifacts, ignored.</span></li>
+    </ul>
+  </div>
+
+  <div class="footer">
+    <p><strong>Process note:</strong> the client reviewed a doc generated from the May 11 copy export, so a handful of comments predate fixes already shipped (marked "Likely done" above). The off-by-one ID drift in the returned doc is why edits were matched at the content level rather than auto-applied by ID.</p>
+    <p style="margin-top:.75rem">Related: <a href="status.html">Project Status</a> · <a href="admin-events.html">Events Manager</a> · Live preview: <a href="https://lim2026.netlify.app" target="_blank" rel="noopener">lim2026.netlify.app</a></p>
+  </div>
+
+</div>
+</body>
+</html>
