@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Check-in agenda email — June 22</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into your email (formatting included).</span>
+  </div>
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+
+    <p style="margin:0 0 4px; font-size:13px; color:#4a5568;"><strong style="color:#1a2535;">To:</strong> Jaylene, Roberta, Robert</p>
+    <p style="margin:0 0 20px; font-size:13px; color:#4a5568;"><strong style="color:#1a2535;">Subject:</strong> Agenda for today's check-in (+ Robert, a quick heads-up)</p>
+
+    <p style="margin:0 0 16px;">Hi all,</p>
+
+    <p style="margin:0 0 16px;">Looking forward to today. Here's what I'd like to cover so we keep it moving:</p>
+
+    <ol style="margin:0 0 18px; padding-left:20px;">
+      <li style="margin-bottom:7px;"><strong>Since June 8</strong> — quick recap of what's live (copy edits, the rebuilt team page, the 575 update)</li>
+      <li style="margin-bottom:7px;"><strong>Copy sign-off</strong> — a couple of decisions I need: the Haskell "130+ → 575" line, and the spelling of Roberta's name, plus the open questions in the tracker</li>
+      <li style="margin-bottom:7px;"><strong>Bios — including Robert's</strong> (see note below)</li>
+      <li style="margin-bottom:7px;"><strong>Google Ad Grant</strong> — the "free Google ads" Robert raised; what it is and whether we pursue it after launch</li>
+      <li style="margin-bottom:7px;"><strong>Feathr donation tracking</strong> — quick status (no action needed from you)</li>
+      <li style="margin-bottom:0;"><strong>Go-live readiness</strong> — what's left, and setting a target date</li>
+    </ol>
+
+    <p style="margin:0 0 8px;"><strong>Robert</strong> — to make your bio painless, let's just <strong>record a few minutes of the call</strong> and I'll ask you the questions, then I'll write it up in the same style as the others (no homework!). If you want to glance at them beforehand, they're the five from Jaylene's doc:</p>
+    <ul style="margin:0 0 18px; padding-left:20px; color:#4a5568;">
+      <li style="margin-bottom:4px;">Where you live &amp; your background/roots</li>
+      <li style="margin-bottom:4px;">Your role at LIM + an accomplishment or two</li>
+      <li style="margin-bottom:4px;">What you care about / what drives your work</li>
+      <li style="margin-bottom:4px;">Passions, interests, education</li>
+      <li style="margin-bottom:0;">What you hope people do after reading it</li>
+    </ul>
+
+    <p style="margin:0 0 8px;">The updated site is at <a href="https://lim2026.netlify.app" style="color:#ED1C24; font-weight:600;">lim2026.netlify.app</a> (password <strong>LIM&nbsp;Hope</strong>) if you'd like to look before we meet — the <a href="https://lim2026.netlify.app/client-edits-tracker.html" style="color:#ED1C24; font-weight:600;">edits tracker</a> has the open items.</p>
+
+    <p style="margin:0 0 16px;">See you soon,</p>
+
+    <p style="margin:0;">Gary</p>
+
+  </div>
+  <script>
+    function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+    function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+    function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+  </script>
+</body></html>
