@@ -1,59 +1,58 @@
 # Feathr Conversion Tracking — GTM Tag + Trigger Spec
 
-**Drafted 22 Jun 2026.** Recommended install path for the *current Squarespace
-site*, given that GTM container `GTM-TD3Z4XNG` is already live (header gtm.js +
-footer noscript iframe, installed by John/Meyer 10/6/2025). Do everything
+**Drafted 22 Jun 2026; revised after Angie's reply + inspecting the live form.**
+Install path for the *current Squarespace site*, which already runs GTM
+container `GTM-TD3Z4XNG` (installed by John/Meyer 10/6/2025). Do everything
 through GTM — no raw Code Injection edits.
 
-**Ownership:** John (Meyer) manages the container, so Gary hands him the tag +
-trigger below ready to paste and John publishes it. Gary does not edit the
+Conversion ID: `6a0bb2f14647de16ae5b1ccb`
+
+**Ownership:** John (Meyer) manages the container, so Gary hands him the tags +
+triggers below ready to paste and John publishes them. Gary does not edit the
 container directly.
 
-Conversion ID: `6a0bb2f14647de16ae5b1ccb`
-Confirmed approach: **Option A** — Blackbaud redirects a completed gift to a
-LIM-controlled `/thank-you` page; the pixel fires there with the gift amount.
+---
+
+## The donation form — confirmed setup (22 Jun)
+
+Per Angie (Blackbaud admin) + inspection of `lutheranindianministries.org/donate`:
+
+- It's the **older Online Express (OLX)**, embedded via **BBOX webforms**:
+  `bbox.showForm('82adc758-cd1c-42f0-981c-36c79eaabd08')` loading
+  `https://bbox.blackbaudhosting.com/webforms/bbox-min.js`.
+- OLX has **no native GTM/GA integration** and **cannot auto-redirect** after a
+  gift. So Option A (redirect to `/thank-you`) is **dead**, and the native
+  Google-tracking path is **out**.
+- BUT the form (and its confirmation) **renders inline in the `/donate` DOM**
+  — confirmed because the page's own CSS styles the BBOX field classes
+  (`.BBFormSection`, `.BBFormFieldLabel`). So our own JS on `/donate` *can* see
+  the form and the confirmation.
+- The OLX confirmation/thank-you renders as a DOM node with the
+  well-documented id **`#bboxdonation_divThanks`** (refs: Ailm Consulting,
+  DigitalWerks, Lazy Ferret OLX-tracking guides). That is our fire trigger.
+
+**Net:** fire the Feathr conversion on `/donate` itself, via a MutationObserver
+that waits for the inline confirmation, capturing the amount from the form. No
+action needed from Angie.
 
 ---
 
-## Prerequisites (blocking — confirm before publishing)
+## Prerequisites (blocking)
 
-1. **Feathr account/init ID** — needed for the base pixel. Get from John.
-   *Do not duplicate the base pixel if it's already firing in GTM.* (Email sent.)
-2. **Blackbaud confirmation path** — confirm with Angie which donation form
-   we run and which of the two documented paths applies (see below). Spec
-   assumes Option A redirect with `?amount=` — change one line if the param
-   differs. (Email to Jaylene + Angie sent 22 Jun.)
-3. Confirm `6a0bb2f14647de16ae5b1ccb` is the **conversion** ID, not campaign ID.
-
----
-
-## Blackbaud side — which path (from Blackbaud docs, 22 Jun research)
-
-The donation form renders **inside a Blackbaud iframe**, so the site's GTM
-container *cannot* read events fired inside it. Two documented, supported ways
-to get the completed-gift amount to a context we control:
-
-- **Option A (primary) — redirect to a LIM `/thank-you` page.** Reliable: the
-  donor lands on our page where our GTM + Feathr run. We read the amount from
-  the redirect URL. Ref: Blackbaud KB
-  <https://kb.blackbaud.com/articles/Article/94882>.
-- **In-form Google tracking (alt).** Modern Optimized Donation Forms fire
-  `form_submitted`, `checkout_complete`, and **`donation_complete`** events
-  (category `donation_form`, label = form name, **value = gift amount**),
-  configured under **Settings → Google tracking**. Usable only if the form
-  lets us add our own tracking ID/code *inside* the form. Ref:
-  <https://webfiles-sc1.blackbaud.com/files/support/helpfiles/tcs/content/stg-google-analytics-rc.html>.
-
-Build Tag 2 below for **Option A** unless Angie confirms we can inject our own
-tracking into the form.
+1. **Feathr account/init ID + base pixel** — the base `feathr()` loader must be
+   present on `/donate`. Confirm whether it's already in GTM and get the account
+   ID from John. (Email sent 22 Jun — awaiting reply.)
+2. Confirm `6a0bb2f14647de16ae5b1ccb` is the **conversion** ID, not campaign ID.
+3. **Verify the form's field/confirmation selectors in GTM Preview** against
+   LIM's actual form (the confirmation id is standard; the *amount* field id
+   varies per form — adjust the selector in Tag 2 after a Preview/test gift).
 
 ---
 
 ## Tag 1 — Base / Super Pixel (only if NOT already in GTM)
 
-- **Tag type:** Custom HTML
-- **Trigger:** All Pages (Page View)
-- **Skip entirely** if John confirms the base pixel is already firing.
+- **Tag type:** Custom HTML · **Trigger:** All Pages (must include `/donate`)
+- Skip if John confirms the base pixel already fires.
 
 ```html
 <script>
@@ -63,75 +62,87 @@ tracking into the form.
   e.getElementsByTagName('head')[0].appendChild(r);
 })(window,document,'script','https://cdn.feathr.co/js/feathr.min.js');
 feathr('init','<FEATHR_ACCOUNT_ID>');   // <-- from John
-feathr('sprinkle');                      // page-view breadcrumb
+feathr('sprinkle');
 </script>
 ```
 
 ---
 
-## Tag 2 — Conversion (the one that closes the loop)
+## Tag 2 — OLX conversion (fires on the inline Thank-You)
 
 - **Tag type:** Custom HTML
-- **Trigger:** see Trigger below (fires only on `/thank-you`)
-- **Tag sequencing:** if Tag 1 is in this container, set this tag to fire only
-  after Tag 1. The `typeof feathr` guard below also protects against ordering.
+- **Trigger:** Page View — Page Path **contains** `/donate`
+- **Sequencing:** fire after Tag 1 if Tag 1 is in this container; the
+  `typeof feathr` guard also protects against ordering.
 
 ```html
 <script>
 (function(){
-  if (typeof feathr !== 'function') return;                 // base pixel must be loaded
-  if (sessionStorage.getItem('lim_feathr_converted')) return; // double-fire / refresh guard
-  var params = new URLSearchParams(window.location.search);
-  var amount = parseFloat(params.get('amount')) || 0;        // <-- CONFIRM param name w/ Angie
-  feathr('convert', '6a0bb2f14647de16ae5b1ccb', {
-    amount: amount,
-    currency: 'USD',
-    category: 'Donation'
-  });
-  sessionStorage.setItem('lim_feathr_converted', '1');
+  // Feathr conversion for the OLX/BBOX donation form (renders inline on /donate).
+  // Requires the Feathr base pixel present so feathr() is defined (Tag 1 / John).
+  var CONVERSION_ID = '6a0bb2f14647de16ae5b1ccb';
+  var lastAmount = 0;
+
+  // 1) Capture the gift amount as the donor fills the form (OLX confirms async,
+  //    so grab it before submission). VERIFY these selectors in GTM Preview.
+  function captureAmount(){
+    var el = document.querySelector(
+      '#bboxdonation_radioAmt input[type=radio]:checked, #bboxdonation_txtAmt, ' +
+      'input[id*="Amt"], input[name*="mount"]');
+    var v = el ? parseFloat(String(el.value||'').replace(/[^0-9.]/g,'')) : NaN;
+    if (!isNaN(v) && v > 0) lastAmount = v;
+  }
+  document.addEventListener('change', captureAmount, true);
+  document.addEventListener('click',  captureAmount, true);
+
+  // 2) Fire once when the inline confirmation (#bboxdonation_divThanks) appears.
+  function fire(){
+    if (sessionStorage.getItem('lim_feathr_converted')) return;
+    if (typeof feathr !== 'function') return;
+    var thanks = document.getElementById('bboxdonation_divThanks');
+    var amt = lastAmount;
+    if (thanks) {                                  // prefer amount shown on confirmation
+      var m = thanks.textContent.match(/\$\s*([0-9,]+(?:\.[0-9]{2})?)/);
+      if (m) { var t = parseFloat(m[1].replace(/,/g,'')); if (!isNaN(t) && t > 0) amt = t; }
+    }
+    feathr('convert', CONVERSION_ID, { amount: amt || 0, currency: 'USD', category: 'Donation' });
+    sessionStorage.setItem('lim_feathr_converted','1');
+  }
+  new MutationObserver(function(){
+    var t = document.getElementById('bboxdonation_divThanks');
+    if (t && t.offsetParent !== null) fire();        // visible confirmation
+  }).observe(document.documentElement, { childList:true, subtree:true });
 })();
 </script>
 ```
 
-### Trigger for Tag 2
+---
 
-- **Type:** Page View
-- **Fire on:** Page Path **contains** `/thank-you`
-- Optional tighten: also require Page URL contains `amount=` so it only fires
-  on a real redirect, never a stray visit to the page.
+## Fallback (only if the inline approach can't be verified)
+
+Angie noted OLX lets you add a **link in the confirmation message**. We could
+point that link at a LIM `/thank-you?amount=…` page that fires the pixel — but
+it only counts donors who *click* it, so it badly undercounts. Use the inline
+MutationObserver approach above; keep this link idea only as a last resort.
 
 ---
 
-## New site (this repo) — migration task, not now
+## New site (this repo) — migration task
 
-Same two parts, same conversion ID. At migration, build a `thank-you.html` and
-drop the equivalent inline script before `</head>` (base pixel) plus the
-conversion snippet. Don't build it yet — the Blackbaud redirect target and
-amount param aren't confirmed, and the new site isn't the live ad destination.
-
-Standalone version of the conversion snippet for the new-site `/thank-you`:
-
-```html
-<script>
-  var params = new URLSearchParams(window.location.search);
-  var amount = parseFloat(params.get('amount')) || 0;
-  if (typeof feathr === 'function' && !sessionStorage.getItem('lim_feathr_converted')) {
-    feathr('convert', '6a0bb2f14647de16ae5b1ccb', {
-      amount: amount, currency: 'USD', category: 'Donation'
-    });
-    sessionStorage.setItem('lim_feathr_converted', '1');
-  }
-</script>
-```
+At migration the donation form may move to a modern Blackbaud Optimized
+Donation Form (native GTM/GA + redirect support) or a new processor — re-spec
+then. Reuse the same conversion ID `6a0bb2f14647de16ae5b1ccb` for continuity.
 
 ---
 
 ## Test plan
 
-1. Publish tags in GTM **Preview mode** first.
-2. Visit `…/thank-you?amount=1` — confirm Tag 2 fires once, `feathr` defined,
-   and a `convert` event with `amount: 1` appears in the GTM debug + network tab.
-3. Reload the page — confirm it does **not** fire again (sessionStorage guard).
-4. Run a real $1 test gift end-to-end; confirm the conversion + amount land in
-   the Feathr dashboard (have John watch the dashboard side).
-5. Publish the container.
+1. In GTM Preview on `/donate`, confirm `feathr` is defined and the observer
+   is installed.
+2. Inspect the live form: confirm the amount field selector and that the
+   confirmation really is `#bboxdonation_divThanks` (adjust Tag 2 if not).
+3. Make a real (or $1 test) gift end-to-end; confirm one `convert` event with
+   the correct amount fires when the Thank-You shows, and it does **not**
+   re-fire on reload (sessionStorage guard).
+4. Confirm the conversion + amount land in the Feathr dashboard (John watches).
+5. John publishes the container.

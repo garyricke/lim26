@@ -201,7 +201,8 @@
         <li>Found the live Squarespace site already runs <strong>Google Tag Manager</strong> (<span class="ic">GTM-TD3Z4XNG</span>) — so the pixel installs <strong>through GTM</strong>, not raw Code Injection</li>
         <li>Locked in <strong>Option A</strong> from the June 8 call (Blackbaud redirects a completed gift to a LIM <span class="ic">/thank-you</span> page where the pixel fires with the amount); <strong>Angie</strong> identified as the Blackbaud admin</li>
         <li>Wrote the <a href="docs-feathr.html" class="ic">docs-feathr.html</a> update plus the GTM tag + trigger spec and two ready-to-send emails (John/Meyer for the Feathr account ID + GTM status; Jaylene/Angie for the redirect + amount param) in <span class="ic">plan/</span></li>
-        <li class="todo">Blocked on two replies: Feathr account/init ID + base-pixel status (John), and the Blackbaud redirect + amount parameter name (Angie)</li>
+        <li><strong>Angie replied 22 Jun:</strong> form is older <strong>Online Express (OLX)</strong> via BBOX — no native GTM/GA, no auto-redirect. Inspected <span class="ic">/donate</span>: the form renders inline (<span class="ic">bbox.showForm</span>), confirmation = <span class="ic">#bboxdonation_divThanks</span>. Plan revised to fire Feathr via a MutationObserver on that element — no Blackbaud change needed</li>
+        <li class="todo">Now blocked only on John: Feathr account/init ID + whether the base pixel is already in GTM</li>
       </ul>
     </div>
   </div>
