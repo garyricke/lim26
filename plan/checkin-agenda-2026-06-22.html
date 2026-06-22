@@ -42,6 +42,34 @@
   .ic{font-family:'Fira Code',monospace;font-size:.85em;background:rgba(40,41,36,.07);border:1px solid var(--border);border-radius:4px;padding:.05em .35em}
   h2.sec{font-family:var(--cond);font-size:.9rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--sage-d);margin:2rem 0 .75rem}
   .foot{margin-top:2rem;font-size:.82rem;color:var(--muted);border-top:1px solid var(--border);padding-top:1rem}
+  /* Deep-dive modal */
+  .dd-btn{display:inline-flex;align-items:center;gap:.4rem;font-family:var(--cond);font-weight:700;letter-spacing:.04em;text-transform:uppercase;font-size:.82rem;background:var(--red);color:#fff;border:none;border-radius:6px;padding:.55rem 1.05rem;cursor:pointer;margin-top:.75rem}
+  .dd-btn:hover{background:#c8161d}
+  .dd-bk{position:fixed;inset:0;background:rgba(20,20,18,.62);display:none;align-items:flex-start;justify-content:center;padding:3rem 1rem;z-index:999;overflow-y:auto}
+  .dd-bk.on{display:flex}
+  .dd-modal{background:#fff;max-width:720px;width:100%;border-radius:14px;box-shadow:0 24px 64px rgba(0,0,0,.32);overflow:hidden;animation:ddin .24s ease}
+  @keyframes ddin{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+  .dd-hd{background:var(--charcoal);padding:1.3rem 1.5rem;display:flex;justify-content:space-between;align-items:flex-start;gap:1rem}
+  .dd-hd .eye{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--yellow)}
+  .dd-hd h2{font-family:var(--serif);font-size:1.3rem;line-height:1.2;color:#fff;margin:.25rem 0 0}
+  .dd-x{background:none;border:none;color:#fff;font-size:1.7rem;line-height:1;cursor:pointer;flex-shrink:0;padding:0 .25rem}
+  .dd-body{padding:1.4rem 1.5rem;max-height:72vh;overflow-y:auto}
+  .dd-body h3{font-family:var(--cond);font-size:.9rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--sage-d);margin:1.4rem 0 .5rem}
+  .dd-body h3:first-child{margin-top:0}
+  .dd-body p{font-size:.93rem;color:var(--muted);margin-bottom:.6rem}
+  .dd-body ul{list-style:none;margin:.3rem 0 .6rem}
+  .dd-body li{position:relative;padding-left:1.3rem;font-size:.92rem;margin:.35rem 0;color:var(--charcoal)}
+  .dd-body li::before{content:'';position:absolute;left:.2rem;top:.5rem;width:6px;height:6px;border-radius:50%;background:var(--red)}
+  .dd-body li b{color:var(--charcoal)}
+  .verdict{background:rgba(95,138,79,.13);border:1px solid var(--green);border-radius:8px;padding:.85rem 1.1rem;margin:0 0 .5rem}
+  .verdict b{color:var(--green)}
+  .dd-warn{background:var(--yellow);border-radius:8px;padding:.7rem 1rem;font-size:.9rem;margin:.6rem 0;color:var(--charcoal)}
+  .dd-cols{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:.5rem 0}
+  .dd-col{background:var(--stone);border-radius:8px;padding:.9rem 1rem}
+  .dd-col h4{font-family:var(--cond);font-size:.8rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;margin-bottom:.4rem}
+  .dd-col.pro h4{color:var(--green)}.dd-col.con h4{color:var(--red)}
+  .dd-col li::before{width:5px;height:5px;top:.55rem}
+  @media(max-width:600px){.dd-cols{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -120,6 +148,7 @@
         <li>Requires eligibility (nonprofit verification) + ongoing account hygiene to keep it</li>
         <li><b>Decision:</b> pursue after go-live? Who applies (Jaylene's looking into it) and do you want me to manage the account?</li>
       </ul>
+      <button class="dd-btn" onclick="ddOpen('dd-adgrant')">Open the deep dive — should we pursue it? →</button>
     </div>
   </div>
 
@@ -176,5 +205,87 @@
   <p class="foot">Prepared for the June 22, 2026 check-in · Lutheran Indian Ministries website project · Internal</p>
 
 </div>
+
+<!-- ===== Google Ad Grant deep-dive modal ===== -->
+<div class="dd-bk" id="dd-adgrant" onclick="if(event.target===this)ddClose()">
+  <div class="dd-modal" role="dialog" aria-modal="true" aria-label="Google Ad Grant deep dive">
+    <div class="dd-hd">
+      <div><span class="eye">Deep Dive · Decision Brief</span><h2>Should LIM pursue the Google Ad Grant?</h2></div>
+      <button class="dd-x" onclick="ddClose()" aria-label="Close">&times;</button>
+    </div>
+    <div class="dd-body">
+
+      <div class="verdict"><b>Bottom line:</b> Yes — pursue it after go-live. It's <b>$10,000/month of free Google Search ads</b> aimed exactly where LIM is already strong (trauma-healing searches), and it drives the registrations &amp; donations we're already wiring up tracking for. The only real cost is steady monthly upkeep — not dollars.</div>
+
+      <h3>What it actually is</h3>
+      <p>A standing grant of up to <b>$10,000/month</b> (≈ $329/day) in free <b>Google Search text ads</b> — the sponsored results at the top of a Google search. It is <b>Search only</b>: no images, no YouTube, no display banners. That makes it a <em>different channel</em> from Meyer Partners' Feathr ads (which are paid display/retargeting) and from our organic SEO — the three complement each other rather than overlap.</p>
+
+      <h3>Why it fits LIM well</h3>
+      <ul>
+        <li>We already <b>rank organically for trauma-healing terms</b> — grant ads capture the high-intent searches above the organic results, for free</li>
+        <li>It can buy the <b>"native ministries"-type terms we lose organically</b> to bigger domains</li>
+        <li>Sends people to <b>healing-group registration</b> and the <b>donate</b> page — which doubles as the "conversion" Google requires</li>
+        <li>Strengthens the same fundraising story as Feathr for Robert's board reporting</li>
+      </ul>
+
+      <h3>Eligibility</h3>
+      <ul>
+        <li><b>501(c)(3)</b> — LIM qualifies ✓</li>
+        <li><b>A functioning, substantive website</b> — the new site qualifies ✓</li>
+        <li>Enroll in <b>Google for Nonprofits</b> (nonprofit verification) and accept the terms</li>
+      </ul>
+      <div class="dd-warn">⚠ <b>One thing to verify:</b> hospitals/healthcare organizations are <em>not</em> eligible. LIM is a faith-based ministry (not a healthcare provider), so it should qualify — but we'll confirm it's categorized as a ministry, not "healthcare," during enrollment.</div>
+
+      <h3>The strings attached (what it entails)</h3>
+      <ul>
+        <li><b>Keep a 5% click-through rate.</b> Miss it two months running and the account is suspended — this is the requirement most nonprofits trip on</li>
+        <li><b>At least one meaningful conversion per month</b> (a registration, donation, form-fill) — needs conversion tracking, which overlaps with the Feathr/GTM work we're already doing</li>
+        <li><b>Multi-word keywords only</b> (no single broad words, with narrow exceptions); pause low-quality keywords</li>
+        <li><b>$2 max cost-per-click</b> unless we use automated "smart" bidding (which we would, to lift the cap)</li>
+        <li><b>Log in monthly</b> and make a change at least every 90 days, or it goes dormant</li>
+      </ul>
+
+      <h3>Effort &amp; cost — pros vs. cons</h3>
+      <div class="dd-cols">
+        <div class="dd-col pro">
+          <h4>Pros</h4>
+          <ul>
+            <li>$120k/yr of ad value, free</li>
+            <li>High-intent, on-mission traffic</li>
+            <li>Reuses our conversion tracking</li>
+            <li>Complements SEO + Feathr</li>
+          </ul>
+        </div>
+        <div class="dd-col con">
+          <h4>Cons / effort</h4>
+          <ul>
+            <li>Ongoing monthly management</li>
+            <li>5% CTR discipline or suspension</li>
+            <li>Search text ads only</li>
+            <li>Setup + keyword/landing work</li>
+          </ul>
+        </div>
+      </div>
+      <p>The grant ad budget is free; the real cost is <b>management time</b>. The companies that contacted LIM wanting to charge were offering to <em>manage</em> the grant — we don't need to pay for that. Gary can stand it up and run it lean (AI-assisted), or we revisit a managed option later if it grows.</p>
+
+      <h3>What setup looks like</h3>
+      <ul>
+        <li>Enroll in Google for Nonprofits → activate Ad Grants</li>
+        <li>Build a small, tidy account: a few campaigns (healing groups · trauma healing · who-we-are/donate) with multi-word keywords and sitelinks</li>
+        <li>Turn on conversion tracking (registrations + donations) — reuse the existing GTM container</li>
+        <li>Use smart bidding to bypass the $2 CPC cap; set a light monthly check-in routine</li>
+      </ul>
+
+      <div class="verdict" style="margin-top:1rem"><b>Recommendation:</b> Apply once the new site is live and tracking is in place. Start with 2–3 focused campaigns, keep it healthy with a monthly review, and treat it as a free top-of-search complement to the SEO and Feathr work — not a replacement for either.</div>
+
+    </div>
+  </div>
+</div>
+
+<script>
+  function ddOpen(id){var m=document.getElementById(id);if(m){m.classList.add('on');document.body.style.overflow='hidden';}}
+  function ddClose(){document.querySelectorAll('.dd-bk.on').forEach(function(e){e.classList.remove('on');});document.body.style.overflow='';}
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')ddClose();});
+</script>
 </body>
 </html>
