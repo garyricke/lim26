@@ -19,10 +19,33 @@ LIM-controlled `/thank-you` page; the pixel fires there with the gift amount.
 
 1. **Feathr account/init ID** — needed for the base pixel. Get from John.
    *Do not duplicate the base pixel if it's already firing in GTM.* (Email sent.)
-2. **Blackbaud redirect + amount param** — confirm `/thank-you` redirect is
-   possible and the exact query-param name for the amount. From Angie via
-   Jaylene. (Email sent.) Spec below assumes `?amount=` — change one line if not.
+2. **Blackbaud confirmation path** — confirm with Angie which donation form
+   we run and which of the two documented paths applies (see below). Spec
+   assumes Option A redirect with `?amount=` — change one line if the param
+   differs. (Email to Jaylene + Angie sent 22 Jun.)
 3. Confirm `6a0bb2f14647de16ae5b1ccb` is the **conversion** ID, not campaign ID.
+
+---
+
+## Blackbaud side — which path (from Blackbaud docs, 22 Jun research)
+
+The donation form renders **inside a Blackbaud iframe**, so the site's GTM
+container *cannot* read events fired inside it. Two documented, supported ways
+to get the completed-gift amount to a context we control:
+
+- **Option A (primary) — redirect to a LIM `/thank-you` page.** Reliable: the
+  donor lands on our page where our GTM + Feathr run. We read the amount from
+  the redirect URL. Ref: Blackbaud KB
+  <https://kb.blackbaud.com/articles/Article/94882>.
+- **In-form Google tracking (alt).** Modern Optimized Donation Forms fire
+  `form_submitted`, `checkout_complete`, and **`donation_complete`** events
+  (category `donation_form`, label = form name, **value = gift amount**),
+  configured under **Settings → Google tracking**. Usable only if the form
+  lets us add our own tracking ID/code *inside* the form. Ref:
+  <https://webfiles-sc1.blackbaud.com/files/support/helpfiles/tcs/content/stg-google-analytics-rc.html>.
+
+Build Tag 2 below for **Option A** unless Angie confirms we can inject our own
+tracking into the form.
 
 ---
 

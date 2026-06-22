@@ -1,5 +1,5 @@
 <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Blackbaud change — email to Jaylene</title></head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Blackbaud setup — email to Jaylene &amp; Angie</title></head>
 <body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
   <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
     <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
@@ -10,23 +10,26 @@
   </div>
   <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
 
-    <p style="margin:0 0 4px; font-size:13px; color:#4a5568;"><strong style="color:#1a2535;">To:</strong> Jaylene Peterson-Nyren &nbsp;·&nbsp; <strong style="color:#1a2535;">Cc:</strong> Angie (once looped in)</p>
-    <p style="margin:0 0 20px; font-size:13px; color:#4a5568;"><strong style="color:#1a2535;">Subject:</strong> One Blackbaud change to finish the donation tracking</p>
+    <p style="margin:0 0 4px; font-size:13px; color:#4a5568;"><strong style="color:#1a2535;">To:</strong> Jaylene Peterson-Nyren, Angie</p>
+    <p style="margin:0 0 20px; font-size:13px; color:#4a5568;"><strong style="color:#1a2535;">Subject:</strong> Finishing the Feathr donation tracking — one Blackbaud setting to check</p>
 
-    <p style="margin:0 0 16px;">Hi Jaylene,</p>
+    <p style="margin:0 0 16px;">Hi Jaylene and Angie,</p>
 
-    <p style="margin:0 0 16px;">Following up from our call — here's the single piece I need from the Blackbaud side to finish the Feathr ad tracking.</p>
+    <p style="margin:0 0 16px;">Jaylene — looping Angie in directly as we discussed, since this lands right in her wheelhouse.</p>
 
-    <p style="margin:0 0 16px;">The goal: when someone donates, Feathr gets told that a gift happened and for how much. That's what finally shows how many of the ad clicks turned into actual donations — which ties right into Robert's August fundraising report.</p>
+    <p style="margin:0 0 16px;">Quick context: we want Feathr to know when a donation completes and for how much, so Meyer Partners can finally show how many of the ad clicks turned into gifts — which feeds Robert's August fundraising report. Our website already runs Google Tag Manager, so most of this is on my side. I just need to confirm how our Blackbaud donation form is set up.</p>
 
-    <p style="margin:0 0 16px;">To make that work, after a successful gift the donor needs to land on a <strong>thank-you page</strong> on our website. That page is where the tracking quietly fires. So I just need two things confirmed (Angie is probably the right person, since she knows the tool best):</p>
+    <p style="margin:0 0 16px;"><strong>Good news:</strong> I checked Blackbaud's own documentation, and what we need is built in — their donation forms already capture the gift amount and support two ways to hand it off. So this should be straightforward; I mostly need to know which setup we have. <strong>Angie, three things, easiest first:</strong></p>
 
     <ol style="margin:0 0 16px; padding-left:20px;">
-      <li style="margin-bottom:12px;">Can the donation form be set to send donors to a <strong>custom thank-you page</strong> after a successful gift? (For example: <span style="font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.92em; background:#f3f4f6; padding:1px 5px; border-radius:4px;">lutheranindianministries.org/thank-you</span>)</li>
-      <li style="margin-bottom:0;">When it sends them there, does Blackbaud include the <strong>gift amount</strong> in the web address — something like <span style="font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.92em; background:#f3f4f6; padding:1px 5px; border-radius:4px;">?amount=50</span>? And if so, what exact word does it use for the amount? (It might be "amount," "TransactionAmount," or similar.)</li>
+      <li style="margin-bottom:14px;"><strong>Which donation form are we on?</strong> The newer <em>Blackbaud Online Giving / Optimized Donation Forms</em>, or the older <em>Online Express</em>? If you're not sure, a quick screenshot of the form's admin/settings screen tells me everything.</li>
+      <li style="margin-bottom:14px;"><strong>Is "Google tracking" turned on for the form?</strong> In Online Giving it's under <strong>Settings &rarr; Google tracking</strong>. Can you tell me whether anything is entered there (a Google Analytics measurement ID, etc.)? Per Blackbaud's docs, these forms fire donation events that already include the gift amount — so this setting is the key. Reference:<br>
+      <a href="https://webfiles-sc1.blackbaud.com/files/support/helpfiles/tcs/content/stg-google-analytics-rc.html" style="color:#ED1C24;">Blackbaud — Connect Google Analytics to Donation Forms</a></li>
+      <li style="margin-bottom:0;"><strong>Can the form redirect to a custom thank-you page after a gift?</strong> e.g. <span style="font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.92em; background:#f3f4f6; padding:1px 5px; border-radius:4px;">lutheranindianministries.org/thank-you</span>. This is the most reliable option for us (the form runs inside a Blackbaud frame our site can't reach into, so landing the donor on our own page is the clean way to record the gift). If it can redirect, does it also pass the gift amount in the web address (e.g. <span style="font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.92em; background:#f3f4f6; padding:1px 5px; border-radius:4px;">?amount=50</span>)? Blackbaud supports this — reference:<br>
+      <a href="https://kb.blackbaud.com/articles/Article/94882" style="color:#ED1C24;">Blackbaud KB — Redirect the donation Thank You page to a URL</a></li>
     </ol>
 
-    <p style="margin:0 0 16px;">If a custom redirect isn't available on the form we're using, just let me know which Blackbaud form/checkout it is and I'll find the alternative. There's no real work on your end beyond getting me those two answers — I'll build the page and the tracking myself.</p>
+    <p style="margin:0 0 16px;">That's really it — those answers (screenshots are perfect) tell me which of the two supported paths to build, and I'll handle the tracking setup from there. No heavy lifting on your end.</p>
 
     <p style="margin:0 0 4px;">Thanks,</p>
     <p style="margin:0;">Gary</p>

@@ -1,36 +1,51 @@
-EMAIL DRAFT — to Jaylene re: the one Blackbaud change for Feathr tracking
-Drafted 22 Jun 2026. Deliberately non-technical for Jaylene; the specific
-questions are for Angie. Copy/paste.
+EMAIL DRAFT — to Jaylene + Angie re: the Blackbaud setup for Feathr tracking
+Drafted 22 Jun 2026; revised to guide Angie to the exact Blackbaud settings +
+docs (rather than open-ended questions). Copy/paste.
 
-To: Jaylene Peterson-Nyren
-Cc: (Angie, once looped in)
-Subject: One Blackbaud change to finish the donation tracking
+To: Jaylene Peterson-Nyren, Angie
+Subject: Finishing the Feathr donation tracking — one Blackbaud setting to check
 
-Hi Jaylene,
+Hi Jaylene and Angie,
 
-Following up from our call — here's the single piece I need from the Blackbaud
-side to finish the Feathr ad tracking.
+Jaylene -- looping Angie in directly as we discussed, since this lands right
+in her wheelhouse.
 
-The goal: when someone donates, Feathr gets told that a gift happened and for
-how much. That's what finally shows how many of the ad clicks turned into
-actual donations — which ties right into Robert's August fundraising report.
+Quick context: we want Feathr to know when a donation completes and for how
+much, so Meyer Partners can finally show how many of the ad clicks turned into
+gifts -- which feeds Robert's August fundraising report. Our website already
+runs Google Tag Manager, so most of this is on my side. I just need to confirm
+how our Blackbaud donation form is set up.
 
-To make that work, after a successful gift the donor needs to land on a
-"thank you" page on our website. That page is where the tracking quietly
-fires. So I just need two things confirmed (Angie is probably the right
-person, since she knows the tool best):
+Good news: I checked Blackbaud's own documentation, and what we need is built
+in -- their donation forms already capture the gift amount and support two
+ways to hand it off. So this should be straightforward; I mostly need to know
+which setup we have. Angie, three things, easiest first:
 
-1. Can the donation form be set to send donors to a custom thank-you page
-   after a successful gift? (For example: lutheranindianministries.org/thank-you)
+1. Which donation form are we on? The newer "Blackbaud Online Giving /
+   Optimized Donation Forms," or the older "Online Express"? If you're not
+   sure, a quick screenshot of the form's admin/settings screen tells me
+   everything.
 
-2. When it sends them there, does Blackbaud include the gift amount in the web
-   address — something like ?amount=50? And if so, what exact word does it use
-   for the amount? (It might be "amount," "TransactionAmount," or similar.)
+2. Is "Google tracking" turned on for the form? In Online Giving it's under
+   Settings > Google tracking. Can you tell me whether anything is entered
+   there (a Google Analytics measurement ID, etc.)? Per Blackbaud's docs, these
+   forms fire donation events that already include the gift amount, so this
+   setting is the key.
+   Reference: Connect Google Analytics to Donation Forms --
+   https://webfiles-sc1.blackbaud.com/files/support/helpfiles/tcs/content/stg-google-analytics-rc.html
 
-If a custom redirect isn't available on the form we're using, just let me know
-which Blackbaud form/checkout it is and I'll find the alternative. There's no
-real work on your end beyond getting me those two answers — I'll build the
-page and the tracking myself.
+3. Can the form redirect to a custom thank-you page after a gift? e.g.
+   lutheranindianministries.org/thank-you. This is the most reliable option for
+   us (the form runs inside a Blackbaud frame our site can't reach into, so
+   landing the donor on our own page is the clean way to record the gift). If
+   it can redirect, does it also pass the gift amount in the web address (e.g.
+   ?amount=50)? Blackbaud supports this.
+   Reference: KB -- Redirect the donation Thank You page to a URL --
+   https://kb.blackbaud.com/articles/Article/94882
+
+That's really it -- those answers (screenshots are perfect) tell me which of
+the two supported paths to build, and I'll handle the tracking setup from
+there. No heavy lifting on your end.
 
 Thanks,
 Gary
