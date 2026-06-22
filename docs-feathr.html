@@ -94,7 +94,8 @@
     .doc-list{list-style:none;display:flex;flex-direction:column;gap:.65rem;margin:.75rem 0 1rem}
     .doc-list li{position:relative;padding-left:1.4rem;font-size:.95rem;color:var(--muted);line-height:1.65}
     .doc-list li::before{content:'→';color:var(--red);font-weight:700;position:absolute;left:0;top:0}
-    .doc-list.check li::before{content:'✓';color:var(--green)}
+    .doc-list.check li::before,.doc-list li.check::before{content:'✓';color:var(--green)}
+    .doc-list li.check strong{color:var(--green)}
     .doc-list li strong{color:var(--charcoal)}
 
     /* Requirements & summary cards */
@@ -183,13 +184,18 @@
     <div class="doc-meta">
       <span class="doc-tag">Status: <b>Pixel received — not yet installed</b></span>
       <span class="doc-tag">Conversion ID: <b>6a0bb2f14647de16ae5b1ccb</b></span>
-      <span class="doc-tag">Owner: <b>Gary (impl) · John (Feathr) · Robert (sponsor)</b></span>
+      <span class="doc-tag">Owner: <b>Gary (impl) · John (Feathr/GTM) · Angie (Blackbaud) · Robert (sponsor)</b></span>
     </div>
   </div>
 
   <div class="doc-alert">
     <span class="doc-alert-icon">⚠</span>
     <p><strong>The one thing that matters:</strong> the conversion pixel must <em>fire on the page a donor sees immediately after a successful gift</em>, and it must pass the donation <strong>amount</strong>. Because the donation form is a Blackbaud embed, that confirmation page is the tricky part — see Section 4.</p>
+  </div>
+
+  <div class="doc-alert" style="background:rgba(95,138,79,.14);border:1px solid var(--green)">
+    <span class="doc-alert-icon" style="color:var(--green)">✓</span>
+    <p><strong>Update — 22 Jun 2026:</strong> The live Squarespace site already runs <strong>Google Tag Manager</strong> (<span class="ic">GTM-TD3Z4XNG</span>, installed by John/Meyer 10/6/2025). So the recommended install path is <strong>through GTM</strong>, not raw Code Injection. The June 8 call also confirmed the plan: <strong>Option A</strong> (a LIM-controlled <span class="ic">/thank-you</span> redirect), and the Blackbaud contact is <strong>Angie</strong>. See Sections 5–6. Tag spec: <span class="ic">plan/feathr-gtm-tag-and-trigger-spec-22jun2026.md</span>.</p>
   </div>
 
   <!-- Campaign snapshot -->
@@ -226,8 +232,12 @@
           <span class="who">Robert Heffle → Gary, John<span class="when">May 28, 2026</span></span>
           <p>Campaign recap: 194,000 people saw an LIM ad, 655 visited the site, $1,700 spent at $2.64/click. Per John, there's a way to capture how many of those 655 gave. Asked Gary &amp; John to connect and get this <strong>closed out.</strong></p>
         </div>
+        <div class="doc-msg">
+          <span class="who">Check-in call — Gary, Jaylene, Roberta<span class="when">Jun 8, 2026</span></span>
+          <p>Reviewed this doc on the call. Settled the plan: when a gift completes, Blackbaud sends the donor to a <strong>thank-you page we control</strong>, and the Feathr pixel fires there (<strong>Option A</strong>). Identified <strong>Angie</strong> as the most knowledgeable Blackbaud admin (she holds the contract and pulls the reports; a donor-relations specialist is yet to be hired). Blackbaud is mid-upgrade and <em>is</em> taking credit-card gifts, but Jaylene wasn't sure how they flow through — Angie to confirm. Gary to send a separate, plain-language email of exactly what's needed on the Blackbaud side. This conversion data also feeds Robert's <strong>August board fundraising report</strong>.</p>
+        </div>
       </div>
-      <p style="margin-top:1.25rem"><strong>Where it stands:</strong> The conversion pixel ID has been delivered (<span class="ic">6a0bb2f14647de16ae5b1ccb</span>, see <span class="ic">LIM Conversion Pixel.txt</span>). It has <strong>not</strong> yet been installed on the donation confirmation step. That installation is the remaining work.</p>
+      <p style="margin-top:1.25rem"><strong>Where it stands (22 Jun 2026):</strong> Conversion ID delivered (<span class="ic">6a0bb2f14647de16ae5b1ccb</span>, see <span class="ic">LIM Conversion Pixel.txt</span>). The site already has GTM, so install goes through the container. Two emails drafted and ready to send — <span class="ic">plan/feathr-email-to-john-meyer-22jun2026.txt</span> (Feathr account ID + GTM status) and <span class="ic">plan/feathr-email-to-jaylene-blackbaud-22jun2026.txt</span> (Blackbaud redirect + amount param). Still <strong>not</strong> installed; the GTM tag is specced and waiting on those two answers.</p>
     </div>
   </div>
 
@@ -358,7 +368,7 @@ bbox.<span class="hl-fn">onComplete</span>(<span class="hl-kw">function</span>(r
       <div class="doc-cards">
         <div class="doc-card">
           <h4>Current — Squarespace (live)</h4>
-          <p>This is where the ads point <em>today</em>, so it's the priority. Add the base pixel via Squarespace <em>Settings → Advanced → Code Injection → Header</em> (if not already present), and place the conversion snippet on the donation confirmation surface using Option A or B.</p>
+          <p>This is where the ads point <em>today</em>, so it's the priority. The site already runs <strong>GTM</strong> (<span class="ic">GTM-TD3Z4XNG</span>) — so add both the base pixel (if not already a GTM tag) and the conversion tag <em>inside GTM</em>, not via Code Injection. Conversion fires on the <span class="ic">/thank-you</span> redirect (Option A). Full tag + trigger spec: <span class="ic">plan/feathr-gtm-tag-and-trigger-spec-22jun2026.md</span>.</p>
         </div>
         <div class="doc-card">
           <h4>New site (this repo)</h4>
@@ -377,13 +387,13 @@ bbox.<span class="hl-fn">onComplete</span>(<span class="hl-kw">function</span>(r
     </div>
     <div class="doc-section-body">
       <ul class="doc-todo">
-        <li><span class="num">1.</span><span class="box"></span><div><strong>Confirm the base pixel is live</strong> on the Squarespace site (view source, search for <span class="ic">feathr</span>). If missing, get the exact Super Pixel + account ID from John/Feathr and add via Code Injection.<span class="doc-owner">Gary</span></div></li>
-        <li><span class="num">2.</span><span class="box"></span><div><strong>Get the Feathr account ID and confirm the convert syntax</strong> against the developer guide John linked. Verify the <span class="ic">convert</span> ID <span class="ic">6a0bb2f14647de16ae5b1ccb</span> is the conversion (not the campaign) ID.<span class="doc-owner">John / Gary</span></div></li>
-        <li><span class="num">3.</span><span class="box"></span><div><strong>Decide the confirmation method</strong> with Blackbaud — confirm whether we can set a redirect URL (Option A) or hook a BBOX completion event (Option B), and what parameter carries the gift amount.<span class="doc-owner">Gary</span></div></li>
-        <li><span class="num">4.</span><span class="box"></span><div><strong>Build the thank-you page</strong> (or callback), wire the conversion snippet with the real amount, and add a double-fire guard.<span class="doc-owner">Gary</span></div></li>
-        <li><span class="num">5.</span><span class="box"></span><div><strong>Test end-to-end</strong> with a real (or $1 test) gift. Confirm the conversion + amount appear in the Feathr dashboard.<span class="doc-owner">Gary / John</span></div></li>
-        <li><span class="num">6.</span><span class="box"></span><div><strong>Report ROAS back to Robert</strong> — of the 655 visitors, how many gave and how much, attributed to the ads. Close the thread.<span class="doc-owner">Gary → Robert</span></div></li>
-        <li><span class="num">7.</span><span class="box"></span><div><strong>Replicate on the new site</strong> at migration using the same conversion ID.<span class="doc-owner">Gary</span></div></li>
+        <li><span class="num">1.</span><span class="box"></span><div><strong>Send the John/Meyer email</strong> (<span class="ic">plan/feathr-email-to-john-meyer-22jun2026.txt</span>): is the base pixel already in GTM, what's the Feathr account ID, is <span class="ic">6a0bb2f14647de16ae5b1ccb</span> the conversion (not campaign) ID, and who builds the GTM tag.<span class="doc-owner">Gary → John</span></div></li>
+        <li><span class="num">2.</span><span class="box"></span><div><strong>Send the Blackbaud email</strong> (<span class="ic">plan/feathr-email-to-jaylene-blackbaud-22jun2026.txt</span>) — Jaylene to loop in Angie: can the form redirect to <span class="ic">/thank-you</span>, and what parameter carries the gift amount?<span class="doc-owner">Gary → Jaylene / Angie</span></div></li>
+        <li><span class="num">3.</span><span class="box"></span><div><strong>Build the GTM conversion tag + trigger</strong> per <span class="ic">plan/feathr-gtm-tag-and-trigger-spec-22jun2026.md</span> once the account ID + amount param are known. Adjust the param name if it isn't <span class="ic">amount</span>.<span class="doc-owner">Gary</span></div></li>
+        <li><span class="num">4.</span><span class="box"></span><div><strong>Set the Blackbaud redirect</strong> to the <span class="ic">/thank-you</span> page (create the Squarespace page if needed) so the donor lands where the pixel fires.<span class="doc-owner">Angie / Gary</span></div></li>
+        <li><span class="num">5.</span><span class="box"></span><div><strong>Test end-to-end</strong> in GTM Preview, then with a real (or $1 test) gift. Confirm the conversion + amount appear in the Feathr dashboard and it doesn't double-fire on refresh.<span class="doc-owner">Gary / John</span></div></li>
+        <li><span class="num">6.</span><span class="box"></span><div><strong>Report ROAS back to Robert</strong> — of the 655 visitors, how many gave and how much, attributed to the ads. Fold into the August board fundraising report.<span class="doc-owner">Gary → Robert</span></div></li>
+        <li><span class="num">7.</span><span class="box"></span><div><strong>Replicate on the new site</strong> at migration using the same conversion ID (build <span class="ic">thank-you.html</span> with the snippet from the spec doc).<span class="doc-owner">Gary</span></div></li>
       </ul>
     </div>
   </div>
@@ -396,9 +406,11 @@ bbox.<span class="hl-fn">onComplete</span>(<span class="hl-kw">function</span>(r
     </div>
     <div class="doc-section-body">
       <ul class="doc-list">
-        <li><strong>For John / Feathr:</strong> What is the Feathr <em>account/init ID</em>, and is the base pixel already on the Squarespace site? Is <span class="ic">6a0bb2f14647de16ae5b1ccb</span> a conversion-specific ID or the campaign ID?</li>
-        <li><strong>For Blackbaud admin:</strong> Can we set a custom confirmation redirect URL on the donation form, and does it pass the gift amount as a query parameter? If not, does the embed expose a completion event/callback?</li>
-        <li><strong>For Robert:</strong> What reporting cadence does Meyer Partners want once tracking is live (one-time recap vs. ongoing ROAS)?</li>
+        <li><strong>For John / Feathr (emailed 22 Jun):</strong> What is the Feathr <em>account/init ID</em>, and is the base pixel already firing via GTM <span class="ic">GTM-TD3Z4XNG</span>? Is <span class="ic">6a0bb2f14647de16ae5b1ccb</span> a conversion-specific ID or the campaign ID?</li>
+        <li><strong>For Angie / Blackbaud (emailed Jaylene 22 Jun):</strong> Can we set a custom confirmation redirect to <span class="ic">/thank-you</span> on the donation form, and does it pass the gift amount as a query parameter (and under what name)? If no redirect, which Blackbaud form/checkout is it?</li>
+        <li class="check"><strong>Resolved Jun 8 — confirmation method:</strong> Option A (LIM-controlled <span class="ic">/thank-you</span> redirect).</li>
+        <li class="check"><strong>Resolved Jun 8 — Blackbaud owner:</strong> Angie (via Jaylene).</li>
+        <li><strong>For Robert:</strong> What reporting cadence does Meyer Partners want once tracking is live (one-time recap vs. ongoing ROAS)? Initial recap targets the August board fundraising report.</li>
       </ul>
     </div>
   </div>

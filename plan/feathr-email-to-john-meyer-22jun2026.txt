@@ -1,0 +1,37 @@
+EMAIL DRAFT — to John Payne (Meyer Partners) re: Feathr conversion pixel
+Drafted 22 Jun 2026. Copy/paste; adjust greeting as needed.
+
+To: John Payne (Meyer Partners)
+Cc: Robert Heffle
+Subject: Feathr conversion pixel — 3 quick questions to finish the install
+
+Hi John,
+
+Thanks again for the conversion pixel. I'm ready to wire up donation
+conversion tracking and want to do it cleanly through the Google Tag Manager
+container you set up last fall (GTM-TD3Z4XNG), rather than pasting raw script
+into the site. Three quick questions so I don't duplicate anything that's
+already in place:
+
+1. Base / Super Pixel + account ID. Is Feathr's base pixel already firing
+   through GTM (or anywhere on the site today)? The conversion call needs the
+   base feathr() loader present to do anything. If it's already live, can you
+   send me the Feathr account/init ID? If it's not live, I'll add it as a tag.
+
+2. Conversion ID. Can you confirm 6a0bb2f14647de16ae5b1ccb is the conversion
+   ID (and not the campaign ID)? I want to fire the right one.
+
+3. Tag ownership. I'm happy to build the conversion tag in GTM myself if you
+   grant me container access — or I can hand you the exact tag + trigger and
+   you publish it. Whatever's faster for you.
+
+On our side, we're setting up the donation form so a completed gift lands the
+donor on a thank-you page we control, which is where the pixel fires with the
+actual gift amount (so we get real ROAS, not just a count). I'll have that
+ready on the Blackbaud side.
+
+Once those three are answered we can close this out — and it should plug
+straight into the fundraising numbers for the August board report.
+
+Thanks,
+Gary

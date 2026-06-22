@@ -1,0 +1,36 @@
+EMAIL DRAFT — to Jaylene re: the one Blackbaud change for Feathr tracking
+Drafted 22 Jun 2026. Deliberately non-technical for Jaylene; the specific
+questions are for Angie. Copy/paste.
+
+To: Jaylene Peterson-Nyren
+Cc: (Angie, once looped in)
+Subject: One Blackbaud change to finish the donation tracking
+
+Hi Jaylene,
+
+Following up from our call — here's the single piece I need from the Blackbaud
+side to finish the Feathr ad tracking.
+
+The goal: when someone donates, Feathr gets told that a gift happened and for
+how much. That's what finally shows how many of the ad clicks turned into
+actual donations — which ties right into Robert's August fundraising report.
+
+To make that work, after a successful gift the donor needs to land on a
+"thank you" page on our website. That page is where the tracking quietly
+fires. So I just need two things confirmed (Angie is probably the right
+person, since she knows the tool best):
+
+1. Can the donation form be set to send donors to a custom thank-you page
+   after a successful gift? (For example: lutheranindianministries.org/thank-you)
+
+2. When it sends them there, does Blackbaud include the gift amount in the web
+   address — something like ?amount=50? And if so, what exact word does it use
+   for the amount? (It might be "amount," "TransactionAmount," or similar.)
+
+If a custom redirect isn't available on the form we're using, just let me know
+which Blackbaud form/checkout it is and I'll find the alternative. There's no
+real work on your end beyond getting me those two answers — I'll build the
+page and the tracking myself.
+
+Thanks,
+Gary
