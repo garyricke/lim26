@@ -91,6 +91,7 @@
     "id": "healing-group-batavia-il-jun-22-24-2026"
   },
   {
+    "modalId": "m-aug-online",
     "id": "online-aug",
     "title": "Online Healing Group",
     "loc": "Zoom — Online",
@@ -100,7 +101,6 @@
     "end": "2026-08-14",
     "open": true,
     "cta": "register",
-    "modalId": "m-aug-online",
     "desc": "Two weeks via Zoom — both weeks must be attended for completion. Week 1: Aug 5–7 · Week 2: Aug 12–14, each 12:00 PM–3:00 PM Alaska Standard Time. Same curriculum, same scripture-grounded experience."
   },
   {
