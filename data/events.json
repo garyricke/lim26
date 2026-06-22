@@ -78,6 +78,19 @@
     "desc": "In-person healing group in Fairbanks. Starts Wednesday at noon with lunch, continues Thursday and Friday 9 AM–4:30 PM. All community members welcome."
   },
   {
+    "modalId": "",
+    "title": "Healing Group — Batavia, IL",
+    "loc": "Batavia, IL",
+    "datelabel": "Jun 22–24, 2026",
+    "sub": "3 Days · Mon–Wed",
+    "type": "in-person",
+    "end": "2026-06-24",
+    "open": true,
+    "cta": "register",
+    "desc": "Three-day healing group gathering at Gary's house in Batovia, IL. Lunch provided daily. Community-focused spiritual healing and support.",
+    "id": "healing-group-batavia-il-jun-22-24-2026"
+  },
+  {
     "id": "online-aug",
     "title": "Online Healing Group",
     "loc": "Zoom — Online",
