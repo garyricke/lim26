@@ -94,6 +94,8 @@
     .filter-btn{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:.45rem 1.1rem;border-radius:20px;border:2px solid var(--border);background:#fff;color:var(--muted);transition:var(--t);cursor:pointer}
     .filter-btn.act,.filter-btn:hover{background:var(--charcoal);color:#fff;border-color:var(--charcoal)}
     .sessions-g{max-width:var(--max);margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:1.4rem}
+    /* cards inject inside #sessions-render; display:contents lifts them to be direct grid items */
+    #sessions-render{display:contents}
     .scard{background:#fff;border-radius:var(--rl);overflow:hidden;box-shadow:var(--sh);transition:var(--t);display:flex;flex-direction:column}
     .scard:hover{transform:translateY(-3px);box-shadow:var(--shm)}
     .scard.full{opacity:.7}
