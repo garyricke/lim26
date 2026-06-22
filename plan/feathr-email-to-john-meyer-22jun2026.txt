@@ -15,15 +15,17 @@ already in place:
 
 1. Base / Super Pixel + account ID. Is Feathr's base pixel already firing
    through GTM (or anywhere on the site today)? The conversion call needs the
-   base feathr() loader present to do anything. If it's already live, can you
-   send me the Feathr account/init ID? If it's not live, I'll add it as a tag.
+   base feathr() loader present to do anything. If it's already live, great --
+   can you send me the Feathr account/init ID for reference? If it's not yet in
+   the container, it'd be best for you to add it alongside the conversion tag.
 
 2. Conversion ID. Can you confirm 6a0bb2f14647de16ae5b1ccb is the conversion
    ID (and not the campaign ID)? I want to fire the right one.
 
-3. Tag ownership. I'm happy to build the conversion tag in GTM myself if you
-   grant me container access — or I can hand you the exact tag + trigger and
-   you publish it. Whatever's faster for you.
+3. Tag ownership. Since you're already managing the GTM container, I'd rather
+   leave that work with you — I don't want to step into a container you're
+   actively using. I'll hand you the exact conversion tag and trigger, ready
+   to paste, and you publish it whenever it's convenient.
 
 On our side, we're setting up the donation form so a completed gift lands the
 donor on a thank-you page we control, which is where the pixel fires with the

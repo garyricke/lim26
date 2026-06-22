@@ -5,6 +5,10 @@ site*, given that GTM container `GTM-TD3Z4XNG` is already live (header gtm.js +
 footer noscript iframe, installed by John/Meyer 10/6/2025). Do everything
 through GTM — no raw Code Injection edits.
 
+**Ownership:** John (Meyer) manages the container, so Gary hands him the tag +
+trigger below ready to paste and John publishes it. Gary does not edit the
+container directly.
+
 Conversion ID: `6a0bb2f14647de16ae5b1ccb`
 Confirmed approach: **Option A** — Blackbaud redirects a completed gift to a
 LIM-controlled `/thank-you` page; the pixel fires there with the gift amount.
