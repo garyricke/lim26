@@ -165,7 +165,7 @@
         "2 Weeks",
         "Open Spots"
       ],
-      "intro": "A two-week online format using Zoom. Both weeks must be attended for completion. Ideal for participants who cannot travel or prefer to join from home — same full curriculum, same community experience, same scripture-grounded healing.",
+      "intro": "A two-week online format using Zoom. Both weeks must be attended for completion. Ideal for participants who cannot travel or prefer to join from home — same full curriculum, same community experience, same scripture-grounded healing. ...",
       "bullets": [
         "Week 1: Aug 5–7 · 12:00 PM–3:00 PM Alaska Standard Time",
         "Week 2: Aug 12–14 · 12:00 PM–3:00 PM Alaska Standard Time",
@@ -173,7 +173,8 @@
         "A Zoom link will be emailed directly to all participants after registration",
         "Open to all · Ages 18+ · No Cost to Participants"
       ]
-    }
+    },
+    "modalId": ""
   },
   {
     "title": "Healing Group Training",
