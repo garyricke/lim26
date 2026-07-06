@@ -206,8 +206,18 @@
         <option value="waitlist">Join Waitlist (full)</option>
         <option value="interest">Register Interest (not open yet)</option>
       </select>
-      <label>Description <span class="hint">1–3 sentences</span></label>
+      <label>Description <span class="hint">1–3 sentences · shows on the card</span></label>
       <textarea id="f-desc" placeholder="Location, times, and any details participants need." oninput="syncFromForm()"></textarea>
+
+      <div style="margin-top:1.4rem;padding-top:1.1rem;border-top:1px dashed var(--border)">
+        <div style="font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--charcoal)">Details popup <span style="font-weight:400;text-transform:none;letter-spacing:0;color:var(--muted);font-size:.8rem">optional — adds a “Details” button to the card</span></div>
+        <label>Intro <span class="hint">venue/address or a fuller sentence or two</span></label>
+        <textarea id="f-det-intro" placeholder="Zion Lutheran Church, Fairbanks, Alaska" oninput="syncFromForm()"></textarea>
+        <label>Bullet points <span class="hint">one per line — schedule, who it's for, what to bring</span></label>
+        <textarea id="f-det-bullets" placeholder="Wednesday: 12:00 PM – 4:30 PM (includes lunch)&#10;All welcome · Ages 18+ · No cost to participants" oninput="syncFromForm()"></textarea>
+        <label>Extra badges <span class="hint">comma-separated — date &amp; location are added automatically</span></label>
+        <input id="f-det-badges" type="text" placeholder="🍽 Lunch Provided, 3 Days" oninput="syncFromForm()">
+      </div>
     </div>
 
     <!-- RIGHT: preview + chat + publish -->
@@ -257,11 +267,12 @@
 
 <script>
   var BADGE={'in-person':['badge-ip','In-Person'],'online':['badge-on','Online'],'facilitator':['badge-fac','Facilitator Training'],'military':['badge-mil','Military']};
-  var ev={type:'in-person',cta:'register',open:true,modalId:''}; // working event
+  var ev={type:'in-person',cta:'register',open:true}; // working event
   var editingId=null;
 
   function g(id){return document.getElementById(id);}
   function escH(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+  function hasDetails(e){return !!(e.details && ((e.details.intro&&e.details.intro.trim()) || (Array.isArray(e.details.bullets)&&e.details.bullets.length)));}
   function isGone(end){ if(!end) return false; var t=new Date(); t.setHours(0,0,0,0); return new Date(end+'T00:00:00')<t; }
   function pw(){ return g('pub-pw').value.trim() || sessionStorage.getItem('lim_pub_pw') || ''; }
   function rememberPw(){ var v=g('pub-pw').value.trim(); if(v) sessionStorage.setItem('lim_pub_pw',v); }
@@ -279,6 +290,11 @@
     ev.cta=g('f-cta').value;
     ev.open=ev.cta!=='waitlist';
     ev.desc=g('f-desc').value.trim();
+    var _intro=g('f-det-intro').value.trim();
+    var _bullets=g('f-det-bullets').value.split('\n').map(function(s){return s.trim();}).filter(Boolean);
+    var _badges=g('f-det-badges').value.split(',').map(function(s){return s.trim();}).filter(Boolean);
+    if(_intro||_bullets.length||_badges.length){ ev.details={badges:_badges,intro:_intro,bullets:_bullets}; }
+    else { delete ev.details; }
     renderPreview();
   }
   function fillForm(e){
@@ -286,10 +302,14 @@
     g('f-datelabel').value=e.datelabel||''; g('f-sub').value=e.sub||'';
     g('f-type').value=e.type||'in-person'; g('f-end').value=e.end||'';
     g('f-cta').value=e.cta||(e.open===false?'waitlist':'register'); g('f-desc').value=e.desc||'';
+    var _d=e.details||{};
+    g('f-det-intro').value=_d.intro||'';
+    g('f-det-bullets').value=Array.isArray(_d.bullets)?_d.bullets.join('\n'):'';
+    g('f-det-badges').value=Array.isArray(_d.badges)?_d.badges.join(', '):'';
     syncFromForm();
   }
   function clearForm(){
-    ev={type:'in-person',cta:'register',open:true,modalId:''}; editingId=null;
+    ev={type:'in-person',cta:'register',open:true}; editingId=null;
     g('ai-text').value=''; g('chat-log').innerHTML='';
     fillForm(ev);
     g('pub-btn').textContent='✓ Approve & Publish to Website';
@@ -301,7 +321,7 @@
     var btn = ev.cta==='waitlist' ? '<span class="pvbtn wait">Join Waitlist</span>'
             : ev.cta==='interest' ? '<span class="pvbtn int">Register Interest</span>'
             : '<span class="pvbtn reg">Register Now</span>';
-    if(ev.modalId) btn+='<span class="pvbtn det">Details</span>';
+    if(hasDetails(ev)) btn+='<span class="pvbtn det">Details</span>';
     g('preview').innerHTML='<div class="scard"><div class="scard-top"><div class="scard-date">'+(escH(ev.datelabel)||'Date')+'<span>'+(escH(ev.sub)||'Duration')+'</span></div>'
       +'<span class="badge '+b[0]+'">'+b[1]+'</span></div>'
       +'<div class="scard-body"><h3 class="scard-title">'+(escH(ev.title)||'Event title')+'</h3>'
@@ -332,7 +352,7 @@
     busy(g('ai-btn'),true,'Structuring…');
     var e=await callAI({mode:'parse',text:text});
     busy(g('ai-btn'),false);
-    if(e){ ev=Object.assign({modalId:''},e); fillForm(ev); addMsg('ai','Drafted a card from your notes — tweak it below or by chat.'); toast('AI drafted the card.'); }
+    if(e){ ev=Object.assign({},e); fillForm(ev); addMsg('ai','Drafted a card from your notes — tweak it below or by chat.'); toast('AI drafted the card.'); }
   }
 
   async function aiChat(){
@@ -343,7 +363,7 @@
     busy(g('chat-btn'),true,'…');
     var e=await callAI({mode:'chat',event:ev,instruction:msg});
     busy(g('chat-btn'),false);
-    if(e){ ev=Object.assign({modalId:ev.modalId||''},e); fillForm(ev); addMsg('ai','Updated.'); }
+    if(e){ ev=Object.assign({},e); fillForm(ev); addMsg('ai','Updated.'); }
   }
 
   async function publishEvent(){
@@ -396,7 +416,7 @@
   }
   function editRow(id){
     var e=(window._events||[]).find(function(x){return x.id===id;}); if(!e) return;
-    editingId=id; ev=Object.assign({modalId:''},e); fillForm(ev);
+    editingId=id; ev=Object.assign({},e); fillForm(ev);
     g('pub-btn').textContent='✓ Approve & Publish Changes';
     window.scrollTo({top:0,behavior:'smooth'}); toast('Loaded "'+(e.title||'')+'" for editing.');
   }

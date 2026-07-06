@@ -9,8 +9,21 @@
     "end": "2026-03-14",
     "open": true,
     "cta": "register",
-    "modalId": "m-fairbanks-mil",
-    "desc": "A focused healing group designed for active military, veterans, and their families. Same scripture-based framework in a setting that honors service and sacrifice."
+    "desc": "A focused healing group designed for active military, veterans, and their families. Same scripture-based framework in a setting that honors service and sacrifice.",
+    "details": {
+      "badges": [
+        "🎖 Military Focus",
+        "🍽 Lunch Included"
+      ],
+      "intro": "A healing group specifically for active military personnel, veterans, and their families. Same scripture-based curriculum, same compassionate community — in a setting that honors the unique experiences of those who have served.",
+      "bullets": [
+        "Open to active military, veterans, and family members",
+        "Confidential and community-supported",
+        "All faith backgrounds welcome",
+        "Lunch provided both days",
+        "Ages 18+"
+      ]
+    }
   },
   {
     "id": "online-mar",
@@ -22,7 +35,6 @@
     "end": "2026-03-27",
     "open": false,
     "cta": "waitlist",
-    "modalId": "m-aug-online",
     "desc": "This session is currently full. August sessions are available — register now to secure your spot. A waitlist is available for this session."
   },
   {
@@ -35,8 +47,20 @@
     "end": "2026-04-17",
     "open": true,
     "cta": "register",
-    "modalId": "m-winnebago",
-    "desc": "A combined healing group and facilitator equipping training. Experience healing yourself and learn how to lead others through it. Lunch provided daily."
+    "desc": "A combined healing group and facilitator equipping training. Experience healing yourself and learn how to lead others through it. Lunch provided daily.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Included",
+        "4 Days"
+      ],
+      "intro": "A unique combined event: experience a full healing group and receive facilitator equipping training in the same week. Ideal for community leaders, pastors, and anyone who wants to bring healing groups to their own community.",
+      "bullets": [
+        "Attend healing group sessions as a participant",
+        "Receive facilitator training to lead your own groups",
+        "Leave equipped and empowered to multiply healing in your community",
+        "Lunch provided daily · All welcome · Ages 18+"
+      ]
+    }
   },
   {
     "id": "lame-deer-may",
@@ -48,8 +72,20 @@
     "end": "2026-05-16",
     "open": true,
     "cta": "register",
-    "modalId": "m-lame-deer-may",
-    "desc": "Hope Pentecostal Church (church by the bridge), 211 Elkhornscraper. Saturday 9 AM–12 PM Mountain Time. Lunch provided — bring your own if you have dietary needs."
+    "desc": "Hope Pentecostal Church (church by the bridge), 211 Elkhornscraper. Saturday 9 AM–12 PM Mountain Time. Lunch provided — bring your own if you have dietary needs.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Provided",
+        "1 Day"
+      ],
+      "intro": "Hope Pentecostal Church (church by the bridge)\n211 Elkhornscraper, Lame Deer, MT",
+      "bullets": [
+        "Saturday May 16: 9:00 AM – 12:00 PM Mountain Time",
+        "Must attend the full session to complete the Healing Group",
+        "Lunch provided — bring your own if you have dietary needs",
+        "Open to all community members · Ages 18+ · No Cost to Participants"
+      ]
+    }
   },
   {
     "id": "ashland-may",
@@ -61,8 +97,20 @@
     "end": "2026-05-22",
     "open": true,
     "cta": "register",
-    "modalId": "m-ashland-may",
-    "desc": "Heaven Sent Ministries at Ashland Christian Fellowship Church, 43 Old Mission Road. Friday 9 AM–12 PM Mountain Time. Lunch provided — bring your own if you have dietary needs."
+    "desc": "Heaven Sent Ministries at Ashland Christian Fellowship Church, 43 Old Mission Road. Friday 9 AM–12 PM Mountain Time. Lunch provided — bring your own if you have dietary needs.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Provided",
+        "1 Day"
+      ],
+      "intro": "Heaven Sent Ministries at Ashland Christian Fellowship Church\n43 Old Mission Road, Ashland, MT",
+      "bullets": [
+        "Friday May 22: 9:00 AM – 12:00 PM Mountain Time",
+        "Must attend the full session to complete the Healing Group",
+        "Lunch provided — bring your own if you have dietary needs",
+        "Open to all community members · Ages 18+ · No Cost to Participants"
+      ]
+    }
   },
   {
     "id": "fairbanks-may",
@@ -74,11 +122,22 @@
     "end": "2026-05-29",
     "open": true,
     "cta": "register",
-    "modalId": "m-fairbanks-may",
-    "desc": "In-person healing group in Fairbanks. Starts Wednesday at noon with lunch, continues Thursday and Friday 9 AM–4:30 PM. All community members welcome."
+    "desc": "In-person healing group in Fairbanks. Starts Wednesday at noon with lunch, continues Thursday and Friday 9 AM–4:30 PM. All community members welcome.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Included",
+        "3 Days"
+      ],
+      "intro": "A typical Fairbanks healing group schedule:",
+      "bullets": [
+        "Wednesday: Noon – 4:30 PM (includes lunch)",
+        "Thursday: 9 AM – 4:30 PM (includes lunch)",
+        "Friday: 9 AM – 1:00 PM (includes lunch)",
+        "Open to all community members · Ages 18+ · All backgrounds welcome"
+      ]
+    }
   },
   {
-    "modalId": "",
     "title": "Healing Group — Batavia, IL",
     "loc": "Batavia, IL",
     "datelabel": "Jun 24–27, 2026",
@@ -91,7 +150,6 @@
     "id": "healing-group-batavia-il-jun-22-24-2026"
   },
   {
-    "modalId": "m-aug-online",
     "id": "online-aug",
     "title": "Online Healing Group",
     "loc": "Zoom — Online",
@@ -101,10 +159,23 @@
     "end": "2026-08-14",
     "open": true,
     "cta": "register",
-    "desc": "Two weeks via Zoom — both weeks must be attended for completion. Week 1: Aug 5–7 · Week 2: Aug 12–14, each 12:00 PM–3:00 PM Alaska Standard Time. Same curriculum, same scripture-grounded experience."
+    "desc": "Two weeks via Zoom — both weeks must be attended for completion. Week 1: Aug 5–7 · Week 2: Aug 12–14, each 12:00 PM–3:00 PM Alaska Standard Time. Same curriculum, same scripture-grounded experience.",
+    "details": {
+      "badges": [
+        "2 Weeks",
+        "Open Spots"
+      ],
+      "intro": "A two-week online format using Zoom. Both weeks must be attended for completion. Ideal for participants who cannot travel or prefer to join from home — same full curriculum, same community experience, same scripture-grounded healing.",
+      "bullets": [
+        "Week 1: Aug 5–7 · 12:00 PM–3:00 PM Alaska Standard Time",
+        "Week 2: Aug 12–14 · 12:00 PM–3:00 PM Alaska Standard Time",
+        "Same 6 core sessions, same 390+ scriptures",
+        "A Zoom link will be emailed directly to all participants after registration",
+        "Open to all · Ages 18+ · No Cost to Participants"
+      ]
+    }
   },
   {
-    "modalId": "",
     "title": "Healing Group Training",
     "loc": "Zoom — Online",
     "datelabel": "Aug 5–7 & 12–14, 2026",
@@ -126,8 +197,21 @@
     "end": "2026-09-18",
     "open": true,
     "cta": "register",
-    "modalId": "m-fairbanks-sep",
-    "desc": "Wed Sept 16 noon–4:30 PM (lunch), Thu Sept 17 9 AM–4:30 PM, Fri Sept 18 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs."
+    "desc": "Wed Sept 16 noon–4:30 PM (lunch), Thu Sept 17 9 AM–4:30 PM, Fri Sept 18 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Provided",
+        "3 Days"
+      ],
+      "intro": "Zion Lutheran Church, Fairbanks, Alaska",
+      "bullets": [
+        "Wednesday Sept 16: 12:00 PM – 4:30 PM (includes lunch)",
+        "Thursday Sept 17: 9:00 AM – 4:30 PM (includes lunch)",
+        "Friday Sept 18: 9:00 AM – 1:00 PM (includes lunch)",
+        "All times Alaska Standard Time · must attend all sessions to complete",
+        "Lunch provided — bring your own if you have dietary needs"
+      ]
+    }
   },
   {
     "id": "anchorage-oct",
@@ -139,8 +223,20 @@
     "end": "2026-10-10",
     "open": true,
     "cta": "register",
-    "modalId": "m-anchorage-oct",
-    "desc": "1420 N Street, Anchorage, AK 99501 (use the West 15th Street parking for easier access). Both days 9 AM–4:30 PM Alaska Standard Time. Lunch provided — bring your own if you have dietary needs."
+    "desc": "1420 N Street, Anchorage, AK 99501 (use the West 15th Street parking for easier access). Both days 9 AM–4:30 PM Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Provided",
+        "2 Days"
+      ],
+      "intro": "Anchorage Lutheran Church\n1420 N Street, Anchorage, AK 99501\nUse West 15th Street parking for easier access.",
+      "bullets": [
+        "Friday Oct 9: 9:00 AM – 4:30 PM (includes lunch)",
+        "Saturday Oct 10: 9:00 AM – 4:30 PM (includes lunch)",
+        "All times Alaska Standard Time · must attend all sessions to complete",
+        "Lunch provided — bring your own if you have dietary needs"
+      ]
+    }
   },
   {
     "id": "facilitator-oct",
@@ -152,7 +248,6 @@
     "end": "2026-10-31",
     "open": true,
     "cta": "interest",
-    "modalId": "",
     "desc": "Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others."
   },
   {
@@ -165,7 +260,20 @@
     "end": "2026-11-06",
     "open": true,
     "cta": "register",
-    "modalId": "m-fairbanks-nov",
-    "desc": "Wed Nov 4 noon–4:30 PM (lunch), Thu Nov 5 9 AM–4:30 PM, Fri Nov 6 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs."
+    "desc": "Wed Nov 4 noon–4:30 PM (lunch), Thu Nov 5 9 AM–4:30 PM, Fri Nov 6 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Provided",
+        "3 Days"
+      ],
+      "intro": "Zion Lutheran Church, Fairbanks, Alaska",
+      "bullets": [
+        "Wednesday Nov 4: 12:00 PM – 4:30 PM (includes lunch)",
+        "Thursday Nov 5: 9:00 AM – 4:30 PM (includes lunch)",
+        "Friday Nov 6: 9:00 AM – 1:00 PM (includes lunch)",
+        "All times Alaska Standard Time · must attend all sessions to complete",
+        "Lunch provided — bring your own if you have dietary needs"
+      ]
+    }
   }
 ]

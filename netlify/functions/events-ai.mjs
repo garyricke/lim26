@@ -22,8 +22,12 @@ const SCHEMA = `Event JSON shape (return ALL fields):
   "end":       string,  // ISO YYYY-MM-DD of the LAST day (card auto-removes the day after this)
   "open":      boolean,  // true = accepting registrations, false = full / waitlist
   "cta":       "register" | "waitlist" | "interest",  // waitlist if full; interest for not-yet-open trainings; else register
-  "desc":      string,  // 1–3 sentence description with location, times, and any notes
-  "modalId":   ""        // always empty string for new events
+  "desc":      string,  // 1–3 sentence description shown on the CARD
+  "details": {          // OPTIONAL richer "Details" popup — include ONLY if the notes give enough for it
+    "badges":  string[],  // short chips beyond date & location (those are added automatically), e.g. ["🍽 Lunch Provided","3 Days"]. [] if none.
+    "intro":   string,    // venue/address or a fuller sentence or two. Plain text; use \\n for line breaks. "" if none.
+    "bullets": string[]   // schedule lines, who it's for, what to bring — one short string each. [] if none.
+  }
 }`;
 
 function json(status, obj) {
@@ -68,6 +72,8 @@ export default async (req) => {
       `Notes:\n"""${body.text || ""}"""\n\n` +
       `If a detail is missing, make a sensible, conservative guess (e.g. type "in-person" unless it says online; ` +
       `cta "register" unless it says full/waitlist or it is a not-yet-open training). ` +
+      `If the notes include a venue/address, a day-by-day schedule, or who-it's-for lines, put them in "details" ` +
+      `(intro for the venue/address, bullets for schedule and notes); otherwise omit "details" or leave its fields empty. ` +
       `Compute "end" as the ISO date of the last day. Return ONE JSON object. ${SCHEMA}`;
   }
 
@@ -105,6 +111,6 @@ export default async (req) => {
     return json(502, { error: "AI returned an unexpected format. Try rephrasing.", raw: text });
   }
 
-  if (!event.modalId) event.modalId = "";
+  delete event.modalId; // obsolete — Details popups are now driven by event.details
   return json(200, { event });
 };
