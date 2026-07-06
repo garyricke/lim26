@@ -189,6 +189,25 @@
     <span class="meta">Newest first · 81 commits since March 16</span>
   </div>
 
+  <!-- July 6 — Events Manager: data-driven Details popups -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 6, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Events Manager now edits the Details popup too (fully no-code)</div>
+      <ul>
+        <li>Closed the gap Gary flagged: each event's <strong>"Details" popup</strong> used to be hand-coded per event in <span class="ic">healing-groups.html</span>, so the tool could only edit the card. Now the <strong>whole event — card <em>and</em> popup</strong> — is authored and published with no code</li>
+        <li><span class="ic">data/events.json</span>: added a <span class="ic">details</span> object (badges / intro / bullets) per event; <span class="ic">healing-groups.html</span> now <strong>generates</strong> each Details modal from the data (removed the 9 hard-coded modals, synced the inline seed)</li>
+        <li><a href="admin-events.html" class="ic">admin-events.html</a>: added Details fields (intro · bullet points · extra badges) to the form, preview, and publish; the AI "describe in plain words" step fills them too</li>
+        <li>While migrating, <strong>dropped the "technology support available" line</strong> from the online group per Roberta's request on the June 22 call</li>
+        <li>Verified locally: all 9 Details modals generate correctly and the editor round-trips the fields into a clean publish payload</li>
+        <li class="todo">Final live check (needs publish password): confirm AI parse fills details on the live site + one edit→publish→render round-trip; delete the leftover "Batavia, IL" test event</li>
+      </ul>
+    </div>
+  </div>
+
   <!-- July 6 — Donation form ported to Blackbaud on the new site -->
   <div class="entry">
     <div class="entry-head">
