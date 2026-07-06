@@ -1,6 +1,9 @@
 .DS_Store
 **/.DS_Store
 .claude/
+.env
+.env.*
+!.env.example
 
 # Exclude entire images-master; only used images are committed explicitly
 images-master/*
