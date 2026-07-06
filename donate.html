@@ -73,6 +73,20 @@
     e.src = 'https://bbox.blackbaudhosting.com/webforms/bbox-min.js';
     document.getElementsByTagName('head')[0].appendChild(e);
   }());
+  // Remove the "Loading…" placeholder once Blackbaud injects the form
+  // (it appends to #bbox-root rather than replacing our placeholder).
+  (function () {
+    var root = document.getElementById('bbox-root');
+    if (!root) return;
+    var obs = new MutationObserver(function () {
+      if (root.querySelector('.BBFormSection, [id^="bboxdonation"], form')) {
+        var l = root.querySelector('.loading');
+        if (l) l.remove();
+        obs.disconnect();
+      }
+    });
+    obs.observe(root, { childList: true, subtree: true });
+  }());
 </script>
 </body>
 </html>
