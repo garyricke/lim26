@@ -189,6 +189,23 @@
     <span class="meta">Newest first · 81 commits since March 16</span>
   </div>
 
+  <!-- July 6 — Donation form ported to Blackbaud on the new site -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 6, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Donation form wired to Blackbaud on the new site</div>
+      <ul>
+        <li>Found the new-site donate modal was a <strong>placeholder</strong> Netlify form — it captured a name/email but <strong>never charged anything</strong></li>
+        <li>Replaced it with a clean handoff to the <strong>real Blackbaud Online Express form</strong> the live site already uses (<span class="ic">bbox.showForm</span> + <span class="ic">bbox-min.js</span>, form ID <span class="ic">82adc758…</span>) per <a href="docs-blackbaud.html" class="ic">docs-blackbaud.html</a>; kept the branded amount/frequency UI, dropped the redundant donor fields</li>
+        <li>Added a <strong>graceful fallback</strong>: until the domain is approved, the button routes to the live giving page so donors never dead-end (verified live)</li>
+        <li class="todo"><strong>Blocked on Angie:</strong> add <span class="ic">lim2026.netlify.app</span> + the production domain to Blackbaud's <strong>Approved Domains</strong> (form silently fails otherwise) — ask drafted in <span class="ic">plan/</span>. Then a <strong>$1 test gift</strong> confirms it, and the wiring replicates to <span class="ic">about.html</span> + <span class="ic">healing-groups.html</span></li>
+      </ul>
+    </div>
+  </div>
+
   <!-- July 6 — Team bios: Robert & Pola added, all bios made scannable -->
   <div class="entry">
     <div class="entry-head">
