@@ -1,0 +1,39 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Blackbaud Approved Domains — ask to Angie</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into your email (formatting included).</span>
+  </div>
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+
+    <p style="margin:0 0 4px; font-size:13px; color:#4a5568;"><strong style="color:#1a2535;">To:</strong> Angie Pantazon &nbsp;·&nbsp; <strong style="color:#1a2535;">Cc:</strong> Jaylene Peterson-Nyren</p>
+    <p style="margin:0 0 20px; font-size:13px; color:#4a5568;"><strong style="color:#1a2535;">Subject:</strong> Quick Blackbaud step to turn on donations for the new site</p>
+
+    <p style="margin:0 0 16px;">Hi Angie,</p>
+
+    <p style="margin:0 0 16px;">I've wired our donation form into the new website so it uses the same Blackbaud giving form we already run today. One small step on your side has to happen first, because Blackbaud <strong>silently blocks the form on any domain that isn't on its Approved Domains list</strong> — so until the new site's address is added, the donate button won't process a gift.</p>
+
+    <p style="margin:0 0 10px;"><strong>Could you add these to the Approved Domains list</strong> in Blackbaud (Online Express / Blackbaud Merchant Services → the web form's settings)?</p>
+    <ol style="margin:0 0 16px; padding-left:20px;">
+      <li style="margin-bottom:8px;"><span style="font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.92em; background:#f3f4f6; padding:1px 5px; border-radius:4px;">lim2026.netlify.app</span> &nbsp;(our staging/preview site)</li>
+      <li style="margin-bottom:0;"><span style="font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.92em; background:#f3f4f6; padding:1px 5px; border-radius:4px;">lutheranindianministries.org</span> &nbsp;(and <span style="font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.92em; background:#f3f4f6; padding:1px 5px; border-radius:4px;">www.</span>) — the live domain, for when we launch</li>
+    </ol>
+
+    <p style="margin:0 0 16px;">While you're in there, one quick confirm: is <span style="font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.92em; background:#f3f4f6; padding:1px 5px; border-radius:4px;">82adc758-cd1c-42f0-981c-36c79eaabd08</span> still the current giving web form ID? That's the one I've connected.</p>
+
+    <p style="margin:0 0 16px;">Once the staging domain is approved, I'll run a <strong>$1 test gift</strong> to confirm it works end-to-end — you can refund that one on your side. After that, the donate button on the new site is good to go, and it clears the last blocker for launch.</p>
+
+    <p style="margin:0 0 4px;">Thank you!</p>
+    <p style="margin:0;">Gary</p>
+
+  </div>
+  <script>
+    function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+    function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+    function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+  </script>
+</body></html>
