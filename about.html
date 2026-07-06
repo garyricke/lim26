@@ -1248,14 +1248,9 @@
   var BBOX_FORM_ID='82adc758-cd1c-42f0-981c-36c79eaabd08';
   function donSubmit(e){
     e.preventDefault();
-    // Hand off to Blackbaud's secure form (loaded via bbox-min.js below). The
-    // donor completes the gift there and it syncs straight into Raiser's Edge.
-    if(typeof bbox!=='undefined'&&bbox&&typeof bbox.showForm==='function'){
-      try{ bbox.showForm(BBOX_FORM_ID); return; }catch(err){}
-    }
-    // Fallback if the Blackbaud script hasn't loaded (e.g., the domain isn't yet
-    // on Blackbaud's Approved Domains list) — send them to the live giving page.
-    window.open('https://www.lutheranindianministries.org/donate','_blank','noopener');
+    // Hand off to our on-site secure giving page, which embeds the Blackbaud
+    // (Online Express) form the same way the production site does.
+    window.location.href='donate.html';
   }
   var _origOpenModal=openModal;
   openModal=function(id){
@@ -1284,15 +1279,5 @@
   document.querySelectorAll('.fi').forEach(function(el){fi.observe(el);});
 </script>
 
-<!-- Blackbaud BBOX (Online Express) loader — powers the donation form handoff.
-     NOTE: the giving domain must be on Blackbaud's Approved Domains list or the
-     form silently fails (see docs-blackbaud.html). -->
-<script>
-(function(){
-  var e=document.createElement('script');e.async=true;
-  e.src='https://bbox.blackbaudhosting.com/webforms/bbox-min.js';
-  document.getElementsByTagName('head')[0].appendChild(e);
-})();
-</script>
 </body>
 </html>

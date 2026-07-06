@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Give — Lutheran Indian Ministries</title>
+<meta name="description" content="Make a secure, tax-deductible gift to Lutheran Indian Ministries — a Native-led ministry proclaiming the Gospel, developing leaders, and healing generations of trauma.">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Barlow+Condensed:wght@600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;--sage-d:#8a8665;
+    --sky:#A2C2D1;--stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;
+    --serif:'Merriweather',Georgia,serif;--cond:'Barlow Condensed','Arial Narrow',sans-serif;--body:'Open Sans',system-ui,sans-serif;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.6}
+  a{color:var(--red);text-decoration:none}
+  .dnav{background:var(--charcoal);padding:.9rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem}
+  .dnav img{height:44px;width:auto;display:block}
+  .dnav .back{font-family:var(--cond);font-weight:700;letter-spacing:.05em;text-transform:uppercase;font-size:.85rem;color:rgba(255,255,255,.75);display:inline-flex;align-items:center;gap:.4rem}
+  .dnav .back:hover{color:var(--yellow)}
+  .wrap{max-width:780px;margin:0 auto;padding:2.5rem 1.5rem 4rem}
+  .eyebrow{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--sage-d);display:block;text-align:center}
+  h1{font-family:var(--serif);font-size:clamp(1.8rem,4vw,2.5rem);line-height:1.15;text-align:center;margin:.4rem 0 .6rem}
+  .lede{text-align:center;color:var(--muted);max-width:34rem;margin:0 auto 1.75rem;line-height:1.8}
+  .form-card{background:#fff;border:1px solid var(--border);border-radius:14px;box-shadow:0 4px 20px rgba(0,0,0,.06);padding:1.25rem 1.25rem 1.5rem;overflow:hidden}
+  #bbox-root{min-height:1100px}
+  .loading{text-align:center;color:var(--muted);padding:3rem 1rem;font-style:italic}
+  .trust{text-align:center;font-size:.82rem;color:var(--muted);margin-top:1.5rem;line-height:1.7}
+  .trust svg{vertical-align:-2px;margin-right:.25rem}
+  .altgive{text-align:center;margin-top:1.25rem;font-size:.9rem;color:var(--muted)}
+  /* keep the embedded Blackbaud form legible on the white card */
+  #bbox-root .BBFormSection label,#bbox-root .BBFormFieldLabel{color:var(--charcoal)!important}
+</style>
+</head>
+<body>
+
+<div class="dnav">
+  <a href="index.html" aria-label="Lutheran Indian Ministries home"><img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries"></a>
+  <a href="index.html" class="back">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+    Back to site
+  </a>
+</div>
+
+<div class="wrap">
+  <span class="eyebrow">Partner With Us</span>
+  <h1>Give to Lutheran Indian Ministries</h1>
+  <p class="lede">Your gift proclaims the Gospel, develops Native leaders, and brings healing to communities across the country. Thank you for standing with us.</p>
+
+  <div class="form-card">
+    <div id="bbox-root"><p class="loading">Loading our secure giving form…</p></div>
+  </div>
+
+  <p class="trust">
+    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="var(--sage-d)" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+    Secure giving powered by Blackbaud · Lutheran Indian Ministries is a 501(c)(3) · EIN 39-1506889 · Gifts are tax-deductible
+  </p>
+  <p class="altgive">Prefer to give by mail? Send a check payable to <strong>Lutheran Indian Ministries</strong>, 15350 W Capitol Drive, Brookfield, WI 53005.</p>
+</div>
+
+<!-- Blackbaud BBOX (Online Express) embed — same integration as the production giving page.
+     bbox-min.js loads its dependencies, then calls window.bboxInit() when ready and renders
+     the form into #bbox-root. (Do NOT call bbox.showForm() directly — it runs before the
+     library's internal jQuery `bb$` exists and throws.) -->
+<script type="text/javascript">
+  window.bboxInit = function () {
+    bbox.showForm('82adc758-cd1c-42f0-981c-36c79eaabd08');
+  };
+  (function () {
+    var e = document.createElement('script'); e.async = true;
+    e.src = 'https://bbox.blackbaudhosting.com/webforms/bbox-min.js';
+    document.getElementsByTagName('head')[0].appendChild(e);
+  }());
+</script>
+</body>
+</html>
