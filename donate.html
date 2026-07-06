@@ -73,16 +73,57 @@
     e.src = 'https://bbox.blackbaudhosting.com/webforms/bbox-min.js';
     document.getElementsByTagName('head')[0].appendChild(e);
   }());
-  // Remove the "Loading…" placeholder once Blackbaud injects the form
-  // (it appends to #bbox-root rather than replacing our placeholder).
+  // Carry the amount + frequency chosen in the site's donate modal into the
+  // Blackbaud form so the donor doesn't re-enter them. The amount radios and the
+  // "Other" field live in the page DOM (only card entry is in Blackbaud's secure
+  // iframe), so we can pre-select them. Best-effort: if the markup ever changes
+  // and a field isn't found, the form simply opens at its default — never breaks.
+  function bboxApplySelection() {
+    try {
+      var p = new URLSearchParams(location.search);
+      var amt = (p.get('amt') || '').replace(/[^0-9.]/g, '');
+      var monthly = p.get('monthly') === '1';
+      var root = document.getElementById('bbox-root');
+      if (!root) return;
+      if (amt && parseFloat(amt) > 0) {
+        var want = String(parseInt(amt, 10));
+        var presets = [].slice.call(root.querySelectorAll('.BBFormRadioAmount'));
+        var match = null;
+        for (var i = 0; i < presets.length; i++) {
+          if (presets[i].textContent.replace(/[^0-9]/g, '') === want) { match = presets[i]; break; }
+        }
+        if (match) {
+          (match.closest('label') || match).click();           // preset ($50/$100/$250…)
+        } else {
+          var otherRadio = document.getElementById('bboxdonation_gift_rdGivingLevel7');
+          var inp = document.getElementById('bboxdonation_gift_txtOtherAmountButtons');
+          if (!otherRadio && inp && inp.closest('label')) otherRadio = inp.closest('label').querySelector('input[type=radio]');
+          if (otherRadio) otherRadio.click();                  // "Other" amount
+          if (inp) {
+            inp.value = amt;
+            ['input', 'change', 'keyup', 'blur'].forEach(function (ev) { inp.dispatchEvent(new Event(ev, { bubbles: true })); });
+          }
+        }
+      }
+      if (monthly) {
+        var mcb = document.getElementById('bboxdonation_recurrence_chkMonthlyGift');
+        if (mcb && !mcb.checked) mcb.click();
+      }
+    } catch (e) { /* leave the form at its default */ }
+  }
+
+  // Remove the "Loading…" placeholder and apply the pre-selection once Blackbaud
+  // injects the form (it appends to #bbox-root rather than replacing our placeholder).
   (function () {
     var root = document.getElementById('bbox-root');
     if (!root) return;
     var obs = new MutationObserver(function () {
-      if (root.querySelector('.BBFormSection, [id^="bboxdonation"], form')) {
+      // wait until the amount controls are actually in the DOM
+      if (root.querySelector('.BBFormRadioAmount, #bboxdonation_gift_rdGivingLevel1')) {
         var l = root.querySelector('.loading');
         if (l) l.remove();
         obs.disconnect();
+        bboxApplySelection();
       }
     });
     obs.observe(root, { childList: true, subtree: true });

@@ -1248,9 +1248,16 @@
   var BBOX_FORM_ID='82adc758-cd1c-42f0-981c-36c79eaabd08';
   function donSubmit(e){
     e.preventDefault();
-    // Hand off to our on-site secure giving page, which embeds the Blackbaud
-    // (Online Express) form the same way the production site does.
-    window.location.href='donate.html';
+    // Hand off to our on-site secure giving page (embeds the Blackbaud Online
+    // Express form). Carry the chosen amount + frequency so donate.html can
+    // pre-select them and the donor doesn't re-enter what they picked here.
+    var amtEl=document.getElementById('don-amt-val');
+    var freqEl=document.getElementById('don-freq-val');
+    var amt=amtEl?(amtEl.value||'').replace(/[^0-9.]/g,''):'';
+    var qs=[];
+    if(amt&&parseFloat(amt)>0) qs.push('amt='+encodeURIComponent(amt));
+    if(freqEl&&freqEl.value==='monthly') qs.push('monthly=1');
+    window.location.href='donate.html'+(qs.length?'?'+qs.join('&'):'');
   }
   var _origOpenModal=openModal;
   openModal=function(id){
