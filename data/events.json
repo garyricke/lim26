@@ -190,7 +190,7 @@
   },
   {
     "id": "fairbanks-sep",
-    "title": "Community Healing Group",
+    "title": "Fairbanks Healing Group",
     "loc": "Fairbanks, AK · Zion Lutheran Church",
     "datelabel": "Sept 16–18, 2026",
     "sub": "3 Days · Wed–Fri",
@@ -212,7 +212,8 @@
         "All times Alaska Standard Time · must attend all sessions to complete",
         "Lunch provided — bring your own if you have dietary needs"
       ]
-    }
+    },
+    "modalId": ""
   },
   {
     "id": "anchorage-oct",
