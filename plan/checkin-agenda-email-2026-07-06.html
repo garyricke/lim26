@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>LIM Check-In Agenda — Email Version (July 6, 2026)</title>
+<style>
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif;background:#f5f4f0;color:#282924;line-height:1.6;margin:0;padding:2rem 1rem 4rem}
+  .wrap{max-width:680px;margin:0 auto}
+  .bar{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;margin-bottom:1rem}
+  .copy{font:600 .9rem/1 -apple-system,system-ui,sans-serif;background:#ED1C24;color:#fff;border:none;border-radius:8px;padding:.7rem 1.15rem;cursor:pointer}
+  .copy:hover{background:#c8161d}
+  .copy.ok{background:#5f8a4f}
+  .hint{font-size:.82rem;color:#5a5a52}
+  .subject{font-size:.82rem;color:#5a5a52;margin:.25rem 0 1rem}
+  .subject b{color:#282924}
+  .email{background:#fff;border:1px solid #d9d6ce;border-radius:12px;padding:1.75rem 1.9rem;box-shadow:0 2px 10px rgba(0,0,0,.05)}
+  /* email body styles kept simple & inline-safe so they survive a paste */
+  #body p{margin:0 0 1rem}
+  #body h3{font-size:1rem;margin:1.5rem 0 .4rem;color:#282924}
+  #body ul{margin:.2rem 0 1rem;padding-left:1.25rem}
+  #body li{margin:.3rem 0}
+  #body a{color:#ED1C24}
+  #body .sig{color:#5a5a52}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="bar">
+    <button class="copy" id="copyBtn">Copy email</button>
+    <span class="hint">Click, then paste into a new email — formatting carries over.</span>
+  </div>
+  <p class="subject"><b>Suggested subject:</b> LIM website check-in — agenda for today (Mon 7/6, 12 PM CST)</p>
+
+  <div class="email">
+    <div id="body">
+      <p>Hi team,</p>
+
+      <p>Quick agenda for today's call. The short version: <b>the site is essentially launch-ready.</b> The donation button is now wired to our real Blackbaud giving form, all the staff bios are done, and the Events Manager is fully no-code. One outside item remains before we flip the switch — so the real question for today is <b>can we set a go-live date?</b></p>
+
+      <p>Live preview: <a href="https://lim2026.netlify.app">lim2026.netlify.app</a> (password: <b>LIM Hope</b>)</p>
+
+      <h3>1. What shipped since June 22</h3>
+      <ul>
+        <li><b>Roberta's name corrected to "Kitigruq"</b> site-wide (source: <i>Jesus and the Eskimo</i>, Fred Savok).</li>
+        <li><b>All staff bios done</b> — Robert's written from the June 22 recording, Pola added, and every bio given a scannable pass (bold key facts + pull-quotes). <b>Please read them on the About page and send edits.</b></li>
+        <li><b>Donation button now wired to the real Blackbaud form</b> — the new site's donate form was a placeholder that didn't charge; it now uses the same giving form as the live site.</li>
+        <li><b>Events Manager is now fully no-code</b> — it edits the session "Details" popups too, not just the cards. Publishing is live.</li>
+        <li><b>Simpler follow-ups sent</b> to John (Feathr tracking) and Angie (Blackbaud domain approval) to clear the two outside dependencies.</li>
+      </ul>
+
+      <h3>2. Decisions / inputs I need from you today</h3>
+      <ul>
+        <li><b>Go-live date</b> — can we pick one and not let the tracking dependency hold us up?</li>
+        <li><b>Haskell line</b> — OK to reframe "130+ tribes" to the updated 575 figure?</li>
+        <li><b>Roberta's photo</b> — send a new one (river/trees), or use your current About photo for now and swap later?</li>
+        <li><b>Copy sign-off</b> — a quick pass through any last items in the edits tracker.</li>
+      </ul>
+
+      <h3>3. Staff bios — please review</h3>
+      <p>Robert's and Pola's bios are live on the About page, and all bios were made more scannable. Take a look and send edits. Robert's recording also has a lot of quotable material we can mine for the homepage. (Jaylene &amp; Angie are card-only for now — leave as-is, or add full bios?) Board bios are a separate track, needed ahead of the August board meeting.</p>
+
+      <h3>4. Go-live — setting the date</h3>
+      <p>The donation form is wired. The one gate is <b>Angie approving lim2026.netlify.app in Blackbaud's Approved Domains</b> (email sent) — once that's in, I run a $1 test gift to confirm end-to-end, keep the old site as a fallback during cutover, and we're live. Feathr tracking gets wired the moment John responds and does <b>not</b> block launch. <b>Proposed target: go live this week.</b></p>
+
+      <h3>5. Still in motion (not launch blockers)</h3>
+      <ul>
+        <li><b>Feathr donation tracking</b> — everything's built on our side; waiting on two small answers from John (Meyer). This feeds Robert's August fundraising report, so worth closing. A nudge from LIM may help unstick it.</li>
+        <li><b>Google Ad Grant</b> — pursue after go-live ($10k/mo of free Google Search ads). Jaylene looking into Google for Nonprofits verification; I can manage the account lean.</li>
+      </ul>
+
+      <p class="sig">See you at noon,<br>Gary</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  const btn = document.getElementById('copyBtn');
+  const body = document.getElementById('body');
+  btn.addEventListener('click', async () => {
+    try {
+      const html = body.innerHTML;
+      const text = body.innerText;
+      if (navigator.clipboard && window.ClipboardItem) {
+        await navigator.clipboard.write([new ClipboardItem({
+          'text/html': new Blob([html], {type:'text/html'}),
+          'text/plain': new Blob([text], {type:'text/plain'})
+        })]);
+      } else {
+        // fallback: select + execCommand
+        const range = document.createRange();
+        range.selectNodeContents(body);
+        const sel = window.getSelection();
+        sel.removeAllRanges(); sel.addRange(range);
+        document.execCommand('copy');
+        sel.removeAllRanges();
+      }
+      btn.textContent = 'Copied ✓'; btn.classList.add('ok');
+      setTimeout(() => { btn.textContent = 'Copy email'; btn.classList.remove('ok'); }, 2000);
+    } catch (e) {
+      btn.textContent = 'Press ⌘C to copy';
+    }
+  });
+</script>
+</body>
+</html>
