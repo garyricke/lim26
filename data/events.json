@@ -1,31 +1,5 @@
 [
   {
-    "id": "fairbanks-military-mar",
-    "title": "Military Personnel Healing Group",
-    "loc": "Fairbanks, AK — In-Person",
-    "datelabel": "March 13–14, 2026",
-    "sub": "2 Days · Thu–Fri",
-    "type": "military",
-    "end": "2026-03-14",
-    "open": true,
-    "cta": "register",
-    "desc": "A focused healing group designed for active military, veterans, and their families. Same scripture-based framework in a setting that honors service and sacrifice.",
-    "details": {
-      "badges": [
-        "🎖 Military Focus",
-        "🍽 Lunch Included"
-      ],
-      "intro": "A healing group specifically for active military personnel, veterans, and their families. Same scripture-based curriculum, same compassionate community — in a setting that honors the unique experiences of those who have served.",
-      "bullets": [
-        "Open to active military, veterans, and family members",
-        "Confidential and community-supported",
-        "All faith backgrounds welcome",
-        "Lunch provided both days",
-        "Ages 18+"
-      ]
-    }
-  },
-  {
     "id": "online-mar",
     "title": "Online Healing Group",
     "loc": "Zoom — Online",
@@ -64,7 +38,7 @@
   },
   {
     "id": "lame-deer-may",
-    "title": "Community Healing Group",
+    "title": "Lame Deer Healing Group",
     "loc": "Lame Deer, MT",
     "datelabel": "May 16, 2026",
     "sub": "1 Day · Saturday",
@@ -89,7 +63,7 @@
   },
   {
     "id": "ashland-may",
-    "title": "Community Healing Group",
+    "title": "Ashland Healing Group",
     "loc": "Ashland, MT",
     "datelabel": "May 22, 2026",
     "sub": "1 Day · Friday",
@@ -114,7 +88,7 @@
   },
   {
     "id": "fairbanks-may",
-    "title": "Community Healing Group",
+    "title": "Fairbanks Healing Group",
     "loc": "Fairbanks, AK",
     "datelabel": "May 27–29, 2026",
     "sub": "3 Days · Wed–Fri",
@@ -138,18 +112,6 @@
     }
   },
   {
-    "title": "Healing Group — Batavia, IL",
-    "loc": "Batavia, IL",
-    "datelabel": "Jun 24–27, 2026",
-    "sub": "3 Days · Mon–Wed",
-    "type": "in-person",
-    "end": "2026-06-24",
-    "open": true,
-    "cta": "register",
-    "desc": "Three-day healing group gathering at Gary's house in Batovia, IL. Lunch provided daily. Community-focused spiritual healing and support.",
-    "id": "healing-group-batavia-il-jun-22-24-2026"
-  },
-  {
     "id": "online-aug",
     "title": "Online Healing Group",
     "loc": "Zoom — Online",
@@ -165,7 +127,7 @@
         "2 Weeks",
         "Open Spots"
       ],
-      "intro": "A two-week online format using Zoom. Both weeks must be attended for completion. Ideal for participants who cannot travel or prefer to join from home — same full curriculum, same community experience, same scripture-grounded healing. ...",
+      "intro": "A two-week online format using Zoom. Both weeks must be attended for completion. Ideal for participants who cannot travel or prefer to join from home — same full curriculum, same community experience, same scripture-grounded healing.",
       "bullets": [
         "Week 1: Aug 5–7 · 12:00 PM–3:00 PM Alaska Standard Time",
         "Week 2: Aug 12–14 · 12:00 PM–3:00 PM Alaska Standard Time",
@@ -173,51 +135,11 @@
         "A Zoom link will be emailed directly to all participants after registration",
         "Open to all · Ages 18+ · No Cost to Participants"
       ]
-    },
-    "modalId": ""
-  },
-  {
-    "title": "Healing Group Training",
-    "loc": "Zoom — Online",
-    "datelabel": "Aug 5–7 & 12–14, 2026",
-    "sub": "2 Weeks · 6 Days · Online",
-    "type": "online",
-    "end": "2026-08-14",
-    "open": true,
-    "cta": "register",
-    "desc": "16 hours of healing group training spread over two weeks in 3-hour chunks (12pm–3pm Alaska time). Sessions run August 5–7 and August 12–14. Last day to register is August 5th. Register to receive the Zoom link.",
-    "id": "healing-group-training-aug-5-7-12-14-2026"
-  },
-  {
-    "id": "fairbanks-sep",
-    "title": "Fairbanks Healing Group",
-    "loc": "Fairbanks, AK · Zion Lutheran Church",
-    "datelabel": "Sept 16–18, 2026",
-    "sub": "3 Days · Wed–Fri",
-    "type": "in-person",
-    "end": "2026-09-18",
-    "open": true,
-    "cta": "register",
-    "desc": "Wed Sept 16 noon–4:30 PM (lunch), Thu Sept 17 9 AM–4:30 PM, Fri Sept 18 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
-    "details": {
-      "badges": [
-        "🍽 Lunch Provided",
-        "3 Days"
-      ],
-      "intro": "Zion Lutheran Church, Fairbanks, Alaska",
-      "bullets": [
-        "Wednesday Sept 16: 12:00 PM – 4:30 PM (includes lunch)",
-        "Thursday Sept 17: 9:00 AM – 4:30 PM (includes lunch)",
-        "Friday Sept 18: 9:00 AM – 1:00 PM (includes lunch)",
-        "All times Alaska Standard Time · must attend all sessions to complete",
-        "Lunch provided — bring your own if you have dietary needs"
-      ]
-    },
-    "modalId": ""
+    }
   },
   {
     "id": "anchorage-oct",
-    "title": "Community Healing Group",
+    "title": "Anchorage Healing Group",
     "loc": "Anchorage, AK · Anchorage Lutheran Church",
     "datelabel": "Oct 9–10, 2026",
     "sub": "2 Days · Fri–Sat",
@@ -243,18 +165,18 @@
   {
     "id": "facilitator-oct",
     "title": "Facilitator Equipping Training",
-    "loc": "Location TBC",
+    "loc": "Location TBD",
     "datelabel": "October 2026",
-    "sub": "Dates TBC",
+    "sub": "Dates TBD",
     "type": "facilitator",
     "end": "2026-10-31",
     "open": true,
     "cta": "interest",
-    "desc": "Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others."
+    "desc": "Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips you with the tools, scripture foundation, and hands-on practice needed to bring healing to others."
   },
   {
     "id": "fairbanks-nov",
-    "title": "Community Healing Group",
+    "title": "Fairbanks Healing Group",
     "loc": "Fairbanks, AK · Zion Lutheran Church",
     "datelabel": "Nov 4–6, 2026",
     "sub": "3 Days · Wed–Fri",

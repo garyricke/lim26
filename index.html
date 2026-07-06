@@ -145,6 +145,27 @@
     .i-lbl{font-family:var(--cond);font-size:.8rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:rgba(40,41,36,.65);margin-top:.4rem;display:block}
 
     /* Pillars */
+    #upcoming{padding:4.5rem 1.5rem;background:#fff;border-bottom:1px solid var(--stone)}
+    .up-wrap{max-width:1100px;margin:0 auto}
+    .up-head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:1rem;margin-bottom:1.8rem}
+    .up-head .h2{margin-bottom:.3rem}
+    .up-head p{color:var(--muted);max-width:34rem;margin:0}
+    .up-see{white-space:nowrap;font-family:var(--cond);font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--red);display:inline-flex;align-items:center;gap:.35rem;border-bottom:2px solid transparent;transition:var(--t)}
+    .up-see:hover{gap:.6rem}
+    .up-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.1rem}
+    .up-card{display:flex;flex-direction:column;border:1px solid var(--stone);border-radius:var(--rl);padding:1.4rem 1.4rem 1.5rem;background:#fff;transition:var(--t)}
+    .up-card:hover{box-shadow:var(--shm);transform:translateY(-2px)}
+    .up-badge{align-self:flex-start;font-family:var(--cond);font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.2rem .6rem;border-radius:5px;margin-bottom:.85rem}
+    .up-badge.inperson{background:var(--sky);color:var(--charcoal)}
+    .up-badge.online{background:var(--stone);color:var(--charcoal)}
+    .up-date{font-family:var(--cond);font-size:1.35rem;font-weight:700;color:var(--charcoal);line-height:1.1}
+    .up-sub{font-size:.78rem;color:var(--sage-d);text-transform:uppercase;letter-spacing:.05em;margin:.15rem 0 .7rem}
+    .up-title{font-family:var(--serif);font-size:1.05rem;color:var(--charcoal);margin-bottom:.35rem}
+    .up-loc{font-size:.88rem;color:var(--muted);margin-bottom:1.1rem}
+    .up-cta{margin-top:auto;align-self:flex-start;font-family:var(--cond);font-weight:700;text-transform:uppercase;letter-spacing:.05em;font-size:.85rem;color:#fff;background:var(--red);padding:.55rem 1.2rem;border-radius:6px;transition:var(--t)}
+    .up-cta:hover{background:#c8141b}
+    .up-empty{color:var(--muted);font-style:italic}
+    @media(max-width:560px){.up-head{flex-direction:column;align-items:flex-start}}
     #pillars{padding:5rem 1.5rem;background:var(--stone)}
     .pillars-hd{text-align:center;margin-bottom:3.5rem}
     .pillars-hd .intro{margin:0 auto}
@@ -310,6 +331,7 @@
     .foot-col h4{font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35);margin-bottom:1.1rem}
     .foot-col ul{list-style:none;display:flex;flex-direction:column;gap:.55rem}
     .foot-col ul li a{font-size:.88rem;color:rgba(255,255,255,.55);transition:var(--t)}
+    .foot-col ul li,.foot-col .foot-phone{font-size:.88rem;color:rgba(255,255,255,.55);line-height:1.45}
     .foot-col ul li a:hover{color:var(--yellow)}
     .foot-bot{max-width:var(--max);margin:0 auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem}
     .foot-bot p{font-size:.78rem;color:rgba(255,255,255,.28)}
@@ -490,6 +512,260 @@
   </div>
 </section>
 
+<!-- Upcoming Healing Groups -->
+<section id="upcoming" aria-label="Upcoming healing groups">
+  <div class="up-wrap">
+    <div class="up-head">
+      <div>
+        <span class="lbl">Upcoming</span>
+        <h2 class="h2">Find a Healing Group</h2>
+        <p>Free, scripture-based healing groups held in communities across the country and online. Here are the next ones — join us.</p>
+      </div>
+      <a href="healing-groups.html" class="up-see">See all healing groups →</a>
+    </div>
+    <div class="up-grid" id="up-list">
+      <p class="up-empty">Loading upcoming sessions…</p>
+    </div>
+  </div>
+</section>
+<script type="application/json" id="up-seed">[
+  {
+    "id": "online-mar",
+    "title": "Online Healing Group",
+    "loc": "Zoom — Online",
+    "datelabel": "March 18–27, 2026",
+    "sub": "2 Weeks · Online",
+    "type": "online",
+    "end": "2026-03-27",
+    "open": false,
+    "cta": "waitlist",
+    "desc": "This session is currently full. August sessions are available — register now to secure your spot. A waitlist is available for this session."
+  },
+  {
+    "id": "winnebago-apr",
+    "title": "Healing Group + Equipping Training",
+    "loc": "Winnebago, NE",
+    "datelabel": "April 14–17, 2026",
+    "sub": "4 Days · Tue–Fri",
+    "type": "facilitator",
+    "end": "2026-04-17",
+    "open": true,
+    "cta": "register",
+    "desc": "A combined healing group and facilitator equipping training. Experience healing yourself and learn how to lead others through it. Lunch provided daily.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Included",
+        "4 Days"
+      ],
+      "intro": "A unique combined event: experience a full healing group and receive facilitator equipping training in the same week. Ideal for community leaders, pastors, and anyone who wants to bring healing groups to their own community.",
+      "bullets": [
+        "Attend healing group sessions as a participant",
+        "Receive facilitator training to lead your own groups",
+        "Leave equipped and empowered to multiply healing in your community",
+        "Lunch provided daily · All welcome · Ages 18+"
+      ]
+    }
+  },
+  {
+    "id": "lame-deer-may",
+    "title": "Lame Deer Healing Group",
+    "loc": "Lame Deer, MT",
+    "datelabel": "May 16, 2026",
+    "sub": "1 Day · Saturday",
+    "type": "in-person",
+    "end": "2026-05-16",
+    "open": true,
+    "cta": "register",
+    "desc": "Hope Pentecostal Church (church by the bridge), 211 Elkhornscraper. Saturday 9 AM–12 PM Mountain Time. Lunch provided — bring your own if you have dietary needs.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Provided",
+        "1 Day"
+      ],
+      "intro": "Hope Pentecostal Church (church by the bridge)\n211 Elkhornscraper, Lame Deer, MT",
+      "bullets": [
+        "Saturday May 16: 9:00 AM – 12:00 PM Mountain Time",
+        "Must attend the full session to complete the Healing Group",
+        "Lunch provided — bring your own if you have dietary needs",
+        "Open to all community members · Ages 18+ · No Cost to Participants"
+      ]
+    }
+  },
+  {
+    "id": "ashland-may",
+    "title": "Ashland Healing Group",
+    "loc": "Ashland, MT",
+    "datelabel": "May 22, 2026",
+    "sub": "1 Day · Friday",
+    "type": "in-person",
+    "end": "2026-05-22",
+    "open": true,
+    "cta": "register",
+    "desc": "Heaven Sent Ministries at Ashland Christian Fellowship Church, 43 Old Mission Road. Friday 9 AM–12 PM Mountain Time. Lunch provided — bring your own if you have dietary needs.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Provided",
+        "1 Day"
+      ],
+      "intro": "Heaven Sent Ministries at Ashland Christian Fellowship Church\n43 Old Mission Road, Ashland, MT",
+      "bullets": [
+        "Friday May 22: 9:00 AM – 12:00 PM Mountain Time",
+        "Must attend the full session to complete the Healing Group",
+        "Lunch provided — bring your own if you have dietary needs",
+        "Open to all community members · Ages 18+ · No Cost to Participants"
+      ]
+    }
+  },
+  {
+    "id": "fairbanks-may",
+    "title": "Fairbanks Healing Group",
+    "loc": "Fairbanks, AK",
+    "datelabel": "May 27–29, 2026",
+    "sub": "3 Days · Wed–Fri",
+    "type": "in-person",
+    "end": "2026-05-29",
+    "open": true,
+    "cta": "register",
+    "desc": "In-person healing group in Fairbanks. Starts Wednesday at noon with lunch, continues Thursday and Friday 9 AM–4:30 PM. All community members welcome.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Included",
+        "3 Days"
+      ],
+      "intro": "A typical Fairbanks healing group schedule:",
+      "bullets": [
+        "Wednesday: Noon – 4:30 PM (includes lunch)",
+        "Thursday: 9 AM – 4:30 PM (includes lunch)",
+        "Friday: 9 AM – 1:00 PM (includes lunch)",
+        "Open to all community members · Ages 18+ · All backgrounds welcome"
+      ]
+    }
+  },
+  {
+    "id": "online-aug",
+    "title": "Online Healing Group",
+    "loc": "Zoom — Online",
+    "datelabel": "August 5–14, 2026",
+    "sub": "2 Weeks · Online",
+    "type": "online",
+    "end": "2026-08-14",
+    "open": true,
+    "cta": "register",
+    "desc": "Two weeks via Zoom — both weeks must be attended for completion. Week 1: Aug 5–7 · Week 2: Aug 12–14, each 12:00 PM–3:00 PM Alaska Standard Time. Same curriculum, same scripture-grounded experience.",
+    "details": {
+      "badges": [
+        "2 Weeks",
+        "Open Spots"
+      ],
+      "intro": "A two-week online format using Zoom. Both weeks must be attended for completion. Ideal for participants who cannot travel or prefer to join from home — same full curriculum, same community experience, same scripture-grounded healing.",
+      "bullets": [
+        "Week 1: Aug 5–7 · 12:00 PM–3:00 PM Alaska Standard Time",
+        "Week 2: Aug 12–14 · 12:00 PM–3:00 PM Alaska Standard Time",
+        "Same 6 core sessions, same 390+ scriptures",
+        "A Zoom link will be emailed directly to all participants after registration",
+        "Open to all · Ages 18+ · No Cost to Participants"
+      ]
+    }
+  },
+  {
+    "id": "anchorage-oct",
+    "title": "Anchorage Healing Group",
+    "loc": "Anchorage, AK · Anchorage Lutheran Church",
+    "datelabel": "Oct 9–10, 2026",
+    "sub": "2 Days · Fri–Sat",
+    "type": "in-person",
+    "end": "2026-10-10",
+    "open": true,
+    "cta": "register",
+    "desc": "1420 N Street, Anchorage, AK 99501 (use the West 15th Street parking for easier access). Both days 9 AM–4:30 PM Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Provided",
+        "2 Days"
+      ],
+      "intro": "Anchorage Lutheran Church\n1420 N Street, Anchorage, AK 99501\nUse West 15th Street parking for easier access.",
+      "bullets": [
+        "Friday Oct 9: 9:00 AM – 4:30 PM (includes lunch)",
+        "Saturday Oct 10: 9:00 AM – 4:30 PM (includes lunch)",
+        "All times Alaska Standard Time · must attend all sessions to complete",
+        "Lunch provided — bring your own if you have dietary needs"
+      ]
+    }
+  },
+  {
+    "id": "facilitator-oct",
+    "title": "Facilitator Equipping Training",
+    "loc": "Location TBD",
+    "datelabel": "October 2026",
+    "sub": "Dates TBD",
+    "type": "facilitator",
+    "end": "2026-10-31",
+    "open": true,
+    "cta": "interest",
+    "desc": "Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips you with the tools, scripture foundation, and hands-on practice needed to bring healing to others."
+  },
+  {
+    "id": "fairbanks-nov",
+    "title": "Fairbanks Healing Group",
+    "loc": "Fairbanks, AK · Zion Lutheran Church",
+    "datelabel": "Nov 4–6, 2026",
+    "sub": "3 Days · Wed–Fri",
+    "type": "in-person",
+    "end": "2026-11-06",
+    "open": true,
+    "cta": "register",
+    "desc": "Wed Nov 4 noon–4:30 PM (lunch), Thu Nov 5 9 AM–4:30 PM, Fri Nov 6 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
+    "details": {
+      "badges": [
+        "🍽 Lunch Provided",
+        "3 Days"
+      ],
+      "intro": "Zion Lutheran Church, Fairbanks, Alaska",
+      "bullets": [
+        "Wednesday Nov 4: 12:00 PM – 4:30 PM (includes lunch)",
+        "Thursday Nov 5: 9:00 AM – 4:30 PM (includes lunch)",
+        "Friday Nov 6: 9:00 AM – 1:00 PM (includes lunch)",
+        "All times Alaska Standard Time · must attend all sessions to complete",
+        "Lunch provided — bring your own if you have dietary needs"
+      ]
+    }
+  }
+]</script>
+<script>
+(function(){
+  var host=document.getElementById('up-list');
+  if(!host) return;
+  function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function render(list){
+    var today=new Date(); today.setHours(0,0,0,0);
+    var up=(list||[]).filter(function(e){
+      if(!e||!e.end) return false;
+      var end=new Date(e.end+'T00:00:00');
+      return end>=today && e.open!==false && e.cta!=='waitlist';
+    }).sort(function(a,b){return new Date(a.end)-new Date(b.end);}).slice(0,3);
+    if(!up.length){ host.innerHTML='<p class="up-empty">New healing groups are being scheduled — <a href="healing-groups.html" style="color:var(--red)">see the full calendar</a> or contact us to host one.</p>'; return; }
+    host.innerHTML=up.map(function(e){
+      var online=e.type==='online';
+      var icon=online?'💻':'📍';
+      return '<div class="up-card">'
+        +'<span class="up-badge '+(online?'online':'inperson')+'">'+(online?'Online':'In person')+'</span>'
+        +'<div class="up-date">'+esc(e.datelabel)+'</div>'
+        +'<div class="up-sub">'+esc(e.sub||'')+'</div>'
+        +'<div class="up-title">'+esc(e.title)+'</div>'
+        +'<div class="up-loc">'+icon+' '+esc(e.loc)+'</div>'
+        +'<a class="up-cta" href="healing-groups.html">Register →</a>'
+        +'</div>';
+    }).join('');
+  }
+  var seed=[]; var tag=document.getElementById('up-seed');
+  if(tag){ try{ seed=JSON.parse(tag.textContent); }catch(e){} }
+  if(seed.length) render(seed);
+  fetch('data/events.json?ts='+Date.now()).then(function(r){return r.ok?r.json():null;})
+    .then(function(d){ if(Array.isArray(d)) render(d); })
+    .catch(function(){ if(!seed.length) host.innerHTML='<p class="up-empty"><a href="healing-groups.html" style="color:var(--red)">See all healing groups →</a></p>'; });
+})();
+</script>
+
 <!-- About / Video -->
 <section id="about" style="background:var(--charcoal);padding:5rem 1.5rem" aria-label="About LIM">
   <div class="about-g">
@@ -555,7 +831,7 @@
       <div class="pc-body">
         <span class="pc-n">Pillar 02</span>
         <h3 class="pc-title">Disciple</h3>
-        <p>Developing Native leaders through campus ministry at Haskell Indian Nations University — a home away from home for students from 130+ tribes.</p>
+        <p>Developing Native leaders through campus ministry at Haskell Indian Nations University — a home away from home for students representing 575 tribes.</p>
         <button class="pc-more" onclick="openModal('m-disciple')">Learn More <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg></button>
       </div>
     </article>
@@ -724,7 +1000,7 @@
     <div class="fi" style="transition-delay:.1s">
       <span class="lbl">Discipleship · Campus Ministry</span>
       <h2 class="h2">Haskell LIGHT</h2>
-      <p style="color:var(--muted);line-height:1.8;margin-bottom:.9rem">At Haskell Indian Nations University in Lawrence, Kansas — home to students from 130+ tribes — our campus ministry center is more than a gathering place. It's a home away from home.</p>
+      <p style="color:var(--muted);line-height:1.8;margin-bottom:.9rem">At Haskell Indian Nations University in Lawrence, Kansas — home to students representing 575 tribes — our campus ministry center is more than a gathering place. It's a home away from home.</p>
       <blockquote class="hsk-q">Leo is Keetowah Cherokee and Western Shoshone. One day he asked Pola for a Bible — and shared it on social media. Leo began reading and didn't stop. Today, Leo is walking a new path, guided by faith.</blockquote>
       <p style="color:var(--muted);line-height:1.8">Students come for meals and quilts, but stay for something deeper. A Bible study. A conversation. A meal. A reminder: <strong>"You don't have to change to be loved by God."</strong></p>
       <div class="acc-list" style="margin-top:1.75rem">
@@ -922,7 +1198,7 @@
   <div class="foot-top">
     <div class="foot-brand">
       <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
-      <p>A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across 575 tribal communities since 1985.</p>
+      <p>A Native-led ministry proclaiming the Gospel, discipling leaders, and healing the wounds of trauma across tribal communities since 1985.</p>
       <div class="foot-seals">
         <div class="foot-seal"><span class="stars">★★★</span><span>Charity Navigator</span></div>
         <div class="foot-seal"><span>⬡</span><span>GuideStar Platinum</span></div>
@@ -949,9 +1225,10 @@
     <div class="foot-col">
       <h4>Contact</h4>
       <ul>
-        <li><a href="tel:2624395663">(262) 439-5663</a></li>
-        <li><a href="tel:2627835267">(262) 783-5267</a></li>
+        <li><span class="foot-phone">(262) 439-5663</span></li>
+        <li><span class="foot-phone">(262) 783-5267</span></li>
         <li><a href="mailto:info@lutheranindianministries.org">Email LIM</a></li>
+        <li>15350 W Capitol Drive<br>Brookfield, WI 53005</li>
         <li><a href="https://www.lutheranindianministries.org" target="_blank" rel="noopener">Official Website</a></li>
       </ul>
     </div>
@@ -1122,7 +1399,7 @@
     <div class="mbody">
       <img class="m-img" src="images-master/people-lodge-training-workshop.jpg" alt="Lodge training workshop">
       <h4>Haskell LIGHT Campus Ministry</h4>
-      <p>At Haskell Indian Nations University in Lawrence, Kansas — the only federally operated tribal university in the country — our campus ministry serves students from more than 130 tribes. Students come for meals and quilts, but stay for something deeper.</p>
+      <p>At Haskell Indian Nations University in Lawrence, Kansas — the only federally operated tribal university in the country — our campus ministry serves students representing 575 tribes. Students come for meals and quilts, but stay for something deeper.</p>
       <h4>Leo's Story</h4>
       <p>Leo is Keetowah Cherokee and Western Shoshone. He visited our campus center and met Pola Farve — Haskell LIGHT Director and a Haskell graduate herself. One day, Leo asked Pola for a Bible. Touched by the moment, he shared it on social media. Leo began reading — and didn't stop. Today, Leo walks a new path, guided by faith.</p>
       <h4>Campus Programs</h4>

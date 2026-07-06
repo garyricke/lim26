@@ -252,6 +252,7 @@
     .foot-col h4{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.33);margin-bottom:1rem}
     .foot-col ul{list-style:none;display:flex;flex-direction:column;gap:.5rem}
     .foot-col ul li a{font-size:.86rem;color:rgba(255,255,255,.52);transition:var(--t)}
+    .foot-col ul li,.foot-col .foot-phone{font-size:.86rem;color:rgba(255,255,255,.52);line-height:1.45}
     .foot-col ul li a:hover{color:var(--yellow)}
     .foot-bot{max-width:var(--max);margin:0 auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem}
     .foot-bot p{font-size:.76rem;color:rgba(255,255,255,.25)}
@@ -630,7 +631,7 @@
             <div class="acc-left"><span class="acc-num" style="font-size:.65rem">Q</span><span class="acc-q">Is it really free? What does the cost cover?</span></div>
             <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
           </button>
-          <div class="acc-body"><div class="acc-inner"><p>Yes, completely free to attend. LIM covers all curriculum costs, and in-person sessions include lunch each day. Travel and accommodation are not included, but contact us if cost is a barrier — we want to make this accessible to everyone.</p></div></div>
+          <div class="acc-body"><div class="acc-inner"><p>Yes, with the help of our generous donors, there is no cost to attend. LIM covers all curriculum costs, and in-person sessions include lunch each day — we want to make this accessible to everyone.</p></div></div>
         </div>
         <div class="acc-item">
           <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
@@ -638,7 +639,7 @@
             <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
           </button>
           <div class="acc-body"><div class="acc-inner">
-            <p>Life happens — we understand. Please let us know as soon as possible so we can open your spot for someone on the waitlist and transfer your registration to a future session. We run multiple healing groups throughout the year, so there's always another opportunity.</p>
+            <p>Life happens — we understand. Please let us know as soon as possible so we can open your spot for someone on the waitlist. We offer several healing groups throughout the year, so there's always another opportunity.</p>
             <button class="btn btn-ol" style="margin-top:1rem;font-size:.85rem;padding:.6rem 1.25rem" onclick="openModal('m-cancel')">Cancel My Registration</button>
           </div></div>
         </div>
@@ -654,7 +655,7 @@
             <div class="acc-left"><span class="acc-num" style="font-size:.65rem">Q</span><span class="acc-q">Must I attend all sessions?</span></div>
             <svg class="acc-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
           </button>
-          <div class="acc-body"><div class="acc-inner"><p>Yes — the sessions build on each other, and the connections you form with others are an important part of the experience. If you miss a session, contact us; we'll do our best to help you catch up or transfer to a future group where you can attend fully.</p></div></div>
+          <div class="acc-body"><div class="acc-inner"><p>Yes — the sessions build on each other, and the connections you form with others are an important part of the experience.</p></div></div>
         </div>
         <div class="acc-item">
           <button class="acc-btn" aria-expanded="false" onclick="acc(this)">
@@ -746,9 +747,10 @@
     <div class="foot-col">
       <h4>Contact</h4>
       <ul>
-        <li><a href="tel:2624395663">(262) 439-5663</a></li>
-        <li><a href="tel:2627835267">(262) 783-5267</a></li>
+        <li><span class="foot-phone">(262) 439-5663</span></li>
+        <li><span class="foot-phone">(262) 783-5267</span></li>
         <li><a href="mailto:info@lutheranindianministries.org">Email LIM</a></li>
+        <li>15350 W Capitol Drive<br>Brookfield, WI 53005</li>
         <li><a href="https://www.lutheranindianministries.org" target="_blank" rel="noopener">Official Website</a></li>
       </ul>
     </div>
@@ -1014,16 +1016,14 @@
           <label for="can-session">Which session are you cancelling? <span style="color:var(--red)">*</span></label>
           <select id="can-session" name="session" required>
             <option value="">— Select your session —</option>
-            <option value="mil-fairbanks-mar">Military Personnel Healing Group — March 13–14, 2026 · Fairbanks, AK</option>
             <option value="winnebago-apr">Healing Group + Equipping Training — April 14–17, 2026 · Winnebago, NE</option>
-            <option value="lame-deer-may">Community Healing Group — May 16, 2026 · Lame Deer, MT</option>
-            <option value="ashland-may">Community Healing Group — May 22, 2026 · Ashland, MT</option>
-            <option value="fairbanks-may">Community Healing Group — May 27–29, 2026 · Fairbanks, AK</option>
+            <option value="lame-deer-may">Lame Deer Healing Group — May 16, 2026 · Lame Deer, MT</option>
+            <option value="ashland-may">Ashland Healing Group — May 22, 2026 · Ashland, MT</option>
+            <option value="fairbanks-may">Fairbanks Healing Group — May 27–29, 2026 · Fairbanks, AK</option>
             <option value="online-aug">Online Healing Group — August 5–14, 2026 · Zoom</option>
-            <option value="fairbanks-sep">Community Healing Group — Sept 16–18, 2026 · Fairbanks, AK</option>
-            <option value="anchorage-oct">Community Healing Group — Oct 9–10, 2026 · Anchorage, AK</option>
+            <option value="anchorage-oct">Anchorage Healing Group — Oct 9–10, 2026 · Anchorage, AK</option>
             <option value="facilitator-oct">Facilitator Equipping Training — October 2026</option>
-            <option value="fairbanks-nov">Community Healing Group — Nov 4–6, 2026 · Fairbanks, AK</option>
+            <option value="fairbanks-nov">Fairbanks Healing Group — Nov 4–6, 2026 · Fairbanks, AK</option>
             <option value="other">Other / Not Listed</option>
           </select>
         </div>
@@ -1100,32 +1100,6 @@
 <script type="application/json" id="events-seed">
 [
   {
-    "id": "fairbanks-military-mar",
-    "title": "Military Personnel Healing Group",
-    "loc": "Fairbanks, AK — In-Person",
-    "datelabel": "March 13–14, 2026",
-    "sub": "2 Days · Thu–Fri",
-    "type": "military",
-    "end": "2026-03-14",
-    "open": true,
-    "cta": "register",
-    "desc": "A focused healing group designed for active military, veterans, and their families. Same scripture-based framework in a setting that honors service and sacrifice.",
-    "details": {
-      "badges": [
-        "🎖 Military Focus",
-        "🍽 Lunch Included"
-      ],
-      "intro": "A healing group specifically for active military personnel, veterans, and their families. Same scripture-based curriculum, same compassionate community — in a setting that honors the unique experiences of those who have served.",
-      "bullets": [
-        "Open to active military, veterans, and family members",
-        "Confidential and community-supported",
-        "All faith backgrounds welcome",
-        "Lunch provided both days",
-        "Ages 18+"
-      ]
-    }
-  },
-  {
     "id": "online-mar",
     "title": "Online Healing Group",
     "loc": "Zoom — Online",
@@ -1164,7 +1138,7 @@
   },
   {
     "id": "lame-deer-may",
-    "title": "Community Healing Group",
+    "title": "Lame Deer Healing Group",
     "loc": "Lame Deer, MT",
     "datelabel": "May 16, 2026",
     "sub": "1 Day · Saturday",
@@ -1189,7 +1163,7 @@
   },
   {
     "id": "ashland-may",
-    "title": "Community Healing Group",
+    "title": "Ashland Healing Group",
     "loc": "Ashland, MT",
     "datelabel": "May 22, 2026",
     "sub": "1 Day · Friday",
@@ -1214,7 +1188,7 @@
   },
   {
     "id": "fairbanks-may",
-    "title": "Community Healing Group",
+    "title": "Fairbanks Healing Group",
     "loc": "Fairbanks, AK",
     "datelabel": "May 27–29, 2026",
     "sub": "3 Days · Wed–Fri",
@@ -1236,18 +1210,6 @@
         "Open to all community members · Ages 18+ · All backgrounds welcome"
       ]
     }
-  },
-  {
-    "title": "Healing Group — Batavia, IL",
-    "loc": "Batavia, IL",
-    "datelabel": "Jun 24–27, 2026",
-    "sub": "3 Days · Mon–Wed",
-    "type": "in-person",
-    "end": "2026-06-24",
-    "open": true,
-    "cta": "register",
-    "desc": "Three-day healing group gathering at Gary's house in Batovia, IL. Lunch provided daily. Community-focused spiritual healing and support.",
-    "id": "healing-group-batavia-il-jun-22-24-2026"
   },
   {
     "id": "online-aug",
@@ -1276,46 +1238,8 @@
     }
   },
   {
-    "title": "Healing Group Training",
-    "loc": "Zoom — Online",
-    "datelabel": "Aug 5–7 & 12–14, 2026",
-    "sub": "2 Weeks · 6 Days · Online",
-    "type": "online",
-    "end": "2026-08-14",
-    "open": true,
-    "cta": "register",
-    "desc": "16 hours of healing group training spread over two weeks in 3-hour chunks (12pm–3pm Alaska time). Sessions run August 5–7 and August 12–14. Last day to register is August 5th. Register to receive the Zoom link.",
-    "id": "healing-group-training-aug-5-7-12-14-2026"
-  },
-  {
-    "id": "fairbanks-sep",
-    "title": "Community Healing Group",
-    "loc": "Fairbanks, AK · Zion Lutheran Church",
-    "datelabel": "Sept 16–18, 2026",
-    "sub": "3 Days · Wed–Fri",
-    "type": "in-person",
-    "end": "2026-09-18",
-    "open": true,
-    "cta": "register",
-    "desc": "Wed Sept 16 noon–4:30 PM (lunch), Thu Sept 17 9 AM–4:30 PM, Fri Sept 18 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
-    "details": {
-      "badges": [
-        "🍽 Lunch Provided",
-        "3 Days"
-      ],
-      "intro": "Zion Lutheran Church, Fairbanks, Alaska",
-      "bullets": [
-        "Wednesday Sept 16: 12:00 PM – 4:30 PM (includes lunch)",
-        "Thursday Sept 17: 9:00 AM – 4:30 PM (includes lunch)",
-        "Friday Sept 18: 9:00 AM – 1:00 PM (includes lunch)",
-        "All times Alaska Standard Time · must attend all sessions to complete",
-        "Lunch provided — bring your own if you have dietary needs"
-      ]
-    }
-  },
-  {
     "id": "anchorage-oct",
-    "title": "Community Healing Group",
+    "title": "Anchorage Healing Group",
     "loc": "Anchorage, AK · Anchorage Lutheran Church",
     "datelabel": "Oct 9–10, 2026",
     "sub": "2 Days · Fri–Sat",
@@ -1341,18 +1265,18 @@
   {
     "id": "facilitator-oct",
     "title": "Facilitator Equipping Training",
-    "loc": "Location TBC",
+    "loc": "Location TBD",
     "datelabel": "October 2026",
-    "sub": "Dates TBC",
+    "sub": "Dates TBD",
     "type": "facilitator",
     "end": "2026-10-31",
     "open": true,
     "cta": "interest",
-    "desc": "Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips Native facilitators with the tools, scripture foundation, and hands-on practice needed to bring healing to others."
+    "desc": "Learn how to lead Healing the Wounds of Trauma groups in your own community. This training equips you with the tools, scripture foundation, and hands-on practice needed to bring healing to others."
   },
   {
     "id": "fairbanks-nov",
-    "title": "Community Healing Group",
+    "title": "Fairbanks Healing Group",
     "loc": "Fairbanks, AK · Zion Lutheran Church",
     "datelabel": "Nov 4–6, 2026",
     "sub": "3 Days · Wed–Fri",
