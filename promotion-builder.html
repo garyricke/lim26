@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Promotion Builder — Lutheran Indian Ministries</title>
+<link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Barlow+Condensed:wght@500;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;--sage:#B2AC88;--sage-d:#8a8665;
+    --sky:#A2C2D1;--sky-d:#6fa3b8;--stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;
+    --serif:'Merriweather',Georgia,serif;--cond:'Barlow Condensed','Arial Narrow',sans-serif;--body:'Open Sans',system-ui,sans-serif;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:var(--body);color:var(--charcoal);background:#eceae4;line-height:1.5}
+  a{color:var(--red)}
+  /* top bar */
+  .topbar{background:var(--charcoal);color:#fff;padding:.7rem 1.25rem;display:flex;align-items:center;gap:.9rem;position:sticky;top:0;z-index:20}
+  .topbar .mk{height:26px}
+  .topbar h1{font-family:var(--cond);font-size:1.15rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;margin:0}
+  .topbar .sub{font-size:.78rem;color:rgba(255,255,255,.5)}
+  .topbar .home{margin-left:auto;color:rgba(255,255,255,.6);font-size:.8rem;text-decoration:none;border:1px solid rgba(255,255,255,.2);padding:.35rem .7rem;border-radius:6px}
+  .topbar .home:hover{color:var(--yellow);border-color:var(--yellow)}
+  /* layout */
+  .app{display:grid;grid-template-columns:minmax(340px,400px) 1fr;gap:0;height:calc(100vh - 44px)}
+  @media(max-width:820px){.app{grid-template-columns:1fr;height:auto}}
+  .panel{background:#fff;border-right:1px solid var(--border);overflow-y:auto;padding:1.1rem 1.15rem 3rem}
+  .preview{overflow-y:auto;padding:1.1rem 1.25rem 3rem}
+  /* form */
+  .grp{margin-bottom:1.15rem;border:1px solid var(--border);border-radius:10px;overflow:hidden}
+  .grp>summary,.grp>.grp-hd{list-style:none;cursor:pointer;background:var(--stone);padding:.6rem .85rem;font-family:var(--cond);font-weight:700;font-size:.82rem;letter-spacing:.08em;text-transform:uppercase;color:var(--charcoal);display:flex;align-items:center;gap:.5rem}
+  .grp>summary::-webkit-details-marker{display:none}
+  .grp>summary::before{content:'▸';color:var(--sage-d);font-size:.8rem;transition:transform .15s}
+  .grp[open]>summary::before{transform:rotate(90deg)}
+  .grp-body{padding:.85rem}
+  label.fld{display:block;margin-bottom:.7rem;font-size:.78rem;font-weight:600;color:var(--muted)}
+  label.fld span{display:block;margin-bottom:.25rem;letter-spacing:.01em}
+  input[type=text],input[type=url],textarea,select{width:100%;padding:.5rem .6rem;border:1px solid var(--border);border-radius:6px;font-family:var(--body);font-size:.86rem;color:var(--charcoal);background:#fff;outline:none}
+  input:focus,textarea:focus,select:focus{border-color:var(--sky-d);box-shadow:0 0 0 2px rgba(111,163,184,.18)}
+  textarea{resize:vertical;min-height:52px;line-height:1.45}
+  .row2{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
+  .hint{font-size:.72rem;color:var(--sage-d);font-weight:500;margin-top:-.35rem;margin-bottom:.6rem}
+  .imgpick{display:flex;gap:.4rem;flex-wrap:wrap}
+  .imgpick button{width:58px;height:44px;border-radius:6px;border:2px solid transparent;overflow:hidden;padding:0;cursor:pointer;background:#ddd}
+  .imgpick button img{width:100%;height:100%;object-fit:cover;display:block}
+  .imgpick button.on{border-color:var(--red)}
+  /* AI box */
+  .ai{background:linear-gradient(135deg,#2b2c26,#1c1d18);color:#fff;border-radius:10px;padding:.85rem;margin-bottom:1.15rem}
+  .ai h3{font-family:var(--cond);font-size:.85rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--yellow);margin-bottom:.5rem}
+  .ai textarea{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.18);color:#fff;font-size:.85rem}
+  .ai textarea::placeholder{color:rgba(255,255,255,.4)}
+  .ai .aipw{margin-top:.5rem}
+  .ai input{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.18);color:#fff}
+  .ai .btn{margin-top:.55rem;width:100%;justify-content:center}
+  .ai .status{font-size:.74rem;color:rgba(255,255,255,.55);margin-top:.4rem;min-height:1em}
+  /* buttons */
+  .btn{display:inline-flex;align-items:center;gap:.4rem;background:var(--red);color:#fff;border:none;border-radius:7px;padding:.55rem .95rem;font-family:var(--cond);font-weight:700;font-size:.85rem;letter-spacing:.06em;text-transform:uppercase;cursor:pointer;transition:background .15s}
+  .btn:hover{background:#c8161d}
+  .btn.ghost{background:transparent;border:1.5px solid var(--charcoal);color:var(--charcoal)}
+  .btn.ghost:hover{background:var(--charcoal);color:#fff}
+  .btn.sky{background:var(--sky-d)}.btn.sky:hover{background:#5b8ea3}
+  .btn.gold{background:var(--yellow);color:var(--charcoal)}.btn.gold:hover{background:#ffe95c}
+  .btn:disabled{opacity:.5;cursor:not-allowed}
+  /* preview tabs */
+  .tabs{display:flex;gap:.4rem;margin-bottom:1rem;flex-wrap:wrap}
+  .tab{font-family:var(--cond);font-weight:700;font-size:.85rem;letter-spacing:.06em;text-transform:uppercase;padding:.45rem .95rem;border-radius:7px;border:1px solid var(--border);background:#fff;color:var(--muted);cursor:pointer}
+  .tab.on{background:var(--charcoal);color:#fff;border-color:var(--charcoal)}
+  .pane{display:none}.pane.on{display:block}
+  .pane-bar{display:flex;gap:.55rem;flex-wrap:wrap;align-items:center;margin-bottom:.9rem}
+  .pane-bar .sp{flex:1}
+  /* flyer preview */
+  .flyer-stage{background:#d9d6ce;border-radius:10px;padding:16px;display:flex;justify-content:center;overflow:hidden}
+  #flyer-frame{width:816px;height:1056px;border:none;background:#fff;box-shadow:0 8px 28px rgba(0,0,0,.18);transform-origin:top center}
+  /* email preview */
+  .mail-wrap{background:#d9d6ce;border-radius:10px;padding:18px;overflow:auto}
+  #mail-preview{max-width:640px;margin:0 auto;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 4px 16px rgba(0,0,0,.1)}
+  .mail-subject{font-size:.82rem;color:var(--muted);margin-bottom:.6rem}
+  .mail-subject b{color:var(--charcoal)}
+  /* social preview */
+  .social-grid{display:flex;gap:1.25rem;flex-wrap:wrap}
+  .social-card{background:#d9d6ce;border-radius:10px;padding:14px;text-align:center}
+  .social-card canvas{max-width:100%;height:auto;border-radius:4px;box-shadow:0 4px 16px rgba(0,0,0,.15);background:#333}
+  .social-card .sz{font-family:var(--cond);font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:.5rem 0 .55rem}
+  .cap{margin-top:1rem}
+  .cap textarea{min-height:80px}
+  .toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:var(--charcoal);color:#fff;padding:.65rem 1.1rem;border-radius:8px;font-size:.85rem;z-index:60;opacity:0;pointer-events:none;transition:opacity .2s}
+  .toast.on{opacity:1}
+  .toast.err{background:var(--red)}
+  .note{font-size:.75rem;color:var(--sage-d);margin-top:.5rem;line-height:1.5}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <img class="mk" src="brand/lim-mark.svg" alt="LIM">
+  <div>
+    <h1>Promotion Builder</h1>
+    <div class="sub">Flyer · Email · Social — from one healing-group campaign</div>
+  </div>
+  <a class="home" href="index.html">← Site</a>
+</div>
+
+<div class="app">
+  <!-- ─────────── CONTROL PANEL ─────────── -->
+  <div class="panel">
+
+    <label class="fld"><span>Start from a healing group</span>
+      <select id="event-select"><option value="">Loading events…</option></select>
+    </label>
+    <div class="hint">Pick a session to auto-fill everything, or choose “Custom” and type your own.</div>
+
+    <div class="ai">
+      <h3>✦ Draft with AI</h3>
+      <textarea id="ai-input" rows="3" placeholder="Describe the promotion in plain words — e.g. “Fairbanks healing group, Sept 16–18 at Zion Lutheran, free, lunch provided, register at limhope.org.”"></textarea>
+      <div class="aipw"><input type="password" id="ai-pw" placeholder="Publish password" autocomplete="off"></div>
+      <button class="btn gold" id="ai-btn" type="button">Draft copy with AI</button>
+      <div class="status" id="ai-status"></div>
+    </div>
+
+    <details class="grp" open><summary>Headline &amp; hero</summary><div class="grp-body">
+      <label class="fld"><span>Eyebrow</span><input type="text" id="f_eyebrow" data-k="eyebrow"></label>
+      <label class="fld"><span>City / location line</span><input type="text" id="f_loc" data-k="loc"></label>
+      <label class="fld"><span>Hero lede (1–2 sentences)</span><textarea id="f_lede" data-k="lede" rows="2"></textarea></label>
+      <label class="fld"><span>Hero image</span></label>
+      <div class="imgpick" id="hero-pick"></div>
+    </div></details>
+
+    <details class="grp" open><summary>Dates</summary><div class="grp-body">
+      <div id="panels"></div>
+      <label class="fld" style="display:flex;align-items:center;gap:.4rem;flex-direction:row;margin-top:.3rem">
+        <input type="checkbox" id="two-panels" style="width:auto"> <span style="margin:0">Show a second date panel</span>
+      </label>
+    </div></details>
+
+    <details class="grp"><summary>Sessions &amp; audience</summary><div class="grp-body">
+      <label class="fld"><span>Six sessions (one per line)</span><textarea id="f_sessions" data-k="sessions" rows="6"></textarea></label>
+      <label class="fld"><span>Audience pills (one per line)</span><textarea id="f_pills" data-k="pills" rows="3"></textarea></label>
+    </div></details>
+
+    <details class="grp"><summary>Where &amp; register</summary><div class="grp-body">
+      <label class="fld"><span>Venue name</span><input type="text" id="f_venue" data-k="venue"></label>
+      <label class="fld"><span>Address</span><input type="text" id="f_address" data-k="address"></label>
+      <div class="row2">
+        <label class="fld"><span>Register URL</span><input type="text" id="f_regUrl" data-k="regUrl"></label>
+        <label class="fld"><span>Phone</span><input type="text" id="f_phone" data-k="phone"></label>
+      </div>
+    </details>
+
+    <details class="grp"><summary>Email &amp; captions</summary><div class="grp-body">
+      <label class="fld"><span>Email subject</span><input type="text" id="f_emailSubject" data-k="emailSubject"></label>
+      <label class="fld"><span>Email opening line</span><textarea id="f_emailIntro" data-k="emailIntro" rows="2"></textarea></label>
+      <label class="fld"><span>Instagram / Facebook caption</span><textarea id="f_captionSquare" data-k="captionSquare" rows="3"></textarea></label>
+      <label class="fld"><span>Story / Reel caption</span><textarea id="f_captionStory" data-k="captionStory" rows="2"></textarea></label>
+    </details>
+
+  </div>
+
+  <!-- ─────────── PREVIEW ─────────── -->
+  <div class="preview">
+    <div class="tabs">
+      <button class="tab on" data-pane="flyer">Flyer</button>
+      <button class="tab" data-pane="email">Email</button>
+      <button class="tab" data-pane="social">Social</button>
+    </div>
+
+    <!-- Flyer -->
+    <div class="pane on" id="pane-flyer">
+      <div class="pane-bar">
+        <button class="btn" id="dl-flyer">⤓ Download PDF</button>
+        <button class="btn ghost" id="open-flyer">Open full size</button>
+        <span class="sp"></span>
+      </div>
+      <div class="flyer-stage" id="flyer-stage">
+        <iframe id="flyer-frame" src="flyer-template.html" title="Flyer preview"></iframe>
+      </div>
+      <p class="note">“Download PDF” opens the flyer in a print-ready window — choose <b>Save as PDF</b> as the destination. That PDF is print-shop ready (8.5×11, full-bleed).</p>
+    </div>
+
+    <!-- Email -->
+    <div class="pane" id="pane-email">
+      <div class="pane-bar">
+        <button class="btn" id="copy-email">⧉ Copy email</button>
+        <button class="btn ghost" id="dl-email">⤓ Download .html</button>
+        <span class="sp"></span>
+      </div>
+      <p class="mail-subject"><b>Subject:</b> <span id="mail-subj"></span></p>
+      <div class="mail-wrap"><div id="mail-preview"></div></div>
+      <p class="note">“Copy email” copies the formatted email — paste straight into Gmail or Outlook and the layout carries over.</p>
+    </div>
+
+    <!-- Social -->
+    <div class="pane" id="pane-social">
+      <div class="social-grid">
+        <div class="social-card">
+          <div class="sz">Instagram / Facebook · 1080×1080</div>
+          <canvas id="cv-square" width="1080" height="1080" style="width:300px"></canvas>
+          <div><button class="btn sky" data-dl="square" style="margin-top:.6rem">⤓ Download PNG</button></div>
+        </div>
+        <div class="social-card">
+          <div class="sz">Story / Reel · 1080×1920</div>
+          <canvas id="cv-story" width="1080" height="1920" style="width:200px"></canvas>
+          <div><button class="btn sky" data-dl="story" style="margin-top:.6rem">⤓ Download PNG</button></div>
+        </div>
+      </div>
+      <div class="cap">
+        <label class="fld"><span>Caption to copy (square / feed)</span><textarea id="cap-square" rows="3" readonly></textarea></label>
+        <button class="btn ghost" id="copy-cap-square" type="button">⧉ Copy caption</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+/* ══════════════ Promotion Builder ══════════════ */
+var HERO_OPTS = [
+  {f:'images-master/people-lame-deer-mixed-tipi-healing-retreat.jpg', alt:'Healing group gathered in a tipi'},
+  {f:'images-master/people-healing-embrace.jpg', alt:'Two people embracing at a healing group'},
+  {f:'images-master/people-men-discussion-circle.jpg', alt:'Men in a discussion circle'},
+  {f:'images-master/people-circle-dance.jpg', alt:'Community circle'},
+  {f:'images-master/bible-study-group-hero-1.jpg', alt:'Bible study group'},
+  {f:'images-master/people-healing-group-men-fairbanks.jpg', alt:'Healing group session'}
+];
+var DEFAULT_SESSIONS = [
+  'What is a wound of the heart?','What happens when someone is grieving?','If God loves us, why do we suffer?',
+  'Bringing our pain to the cross','What can help our heart wounds heal?','How can we forgive others?'
+];
+var DEFAULT_PILLS = ['All adults 18+ welcome','Lunch provided','Childcare not provided'];
+
+function defaultState(){
+  return {
+    eyebrow:'2026 Healing Groups', loc:'Fairbanks, Alaska',
+    lede:'What does the Bible say about healing and restoration? Join us for a free, six-session group rooted in Scripture and walked together.',
+    heroImg:HERO_OPTS[0].f, heroAlt:HERO_OPTS[0].alt,
+    sessions:DEFAULT_SESSIONS.slice(), pills:DEFAULT_PILLS.slice(),
+    venue:'Zion Lutheran Church', address:'2982 Davis Road · Fairbanks, AK 99709',
+    regUrl:'limhope.org', phone:'or call (262) 439-5663',
+    events:[{month:'Session', dates:'Sept 16 – 18, 2026', req:'Participants attend all three days.',
+             schedule:[{day:'Wed · 9/16',time:'12:00 pm – 4:30 pm'},{day:'Thu · 9/17',time:'9:00 am – 4:30 pm'},{day:'Fri · 9/18',time:'9:00 am – 1:00 pm'}]}],
+    emailSubject:"You're invited: Fairbanks Healing Group",
+    emailIntro:'You are warmly invited to a free Healing Group — a safe, confidential space to bring what you carry and meet a God who is near to the brokenhearted.',
+    captionSquare:'', captionStory:''
+  };
+}
+var state = defaultState();
+var twoPanels = false;
+
+/* ---------- utilities ---------- */
+function g(id){return document.getElementById(id);}
+function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function toast(msg,err){var t=g('toast');t.textContent=msg;t.className='toast on'+(err?' err':'');setTimeout(function(){t.className='toast';},2200);}
+function normUrl(u){return /^https?:/i.test(u)?u:'https://'+u;}
+function lines(v){return v.split('\n').map(function(x){return x.trim();}).filter(Boolean);}
+
+/* ---------- hero picker ---------- */
+(function(){
+  var wrap=g('hero-pick');
+  HERO_OPTS.forEach(function(o){
+    var b=document.createElement('button');b.type='button';
+    b.innerHTML='<img src="'+o.f+'" alt="">';
+    b.className=(o.f===state.heroImg?'on':'');
+    b.onclick=function(){state.heroImg=o.f;state.heroAlt=o.alt;
+      [].forEach.call(wrap.children,function(c){c.className='';});b.className='on';renderAll();};
+    wrap.appendChild(b);
+  });
+})();
+
+/* ---------- date panels UI ---------- */
+function panelHTML(i){
+  var e=state.events[i]||{month:'',dates:'',req:'',schedule:[]};
+  var sched=(e.schedule||[]).map(function(r){return r.day+' | '+r.time;}).join('\n');
+  return '<div style="border:1px dashed var(--border);border-radius:8px;padding:.6rem;margin-bottom:.6rem">'
+    +'<div class="hint" style="margin:0 0 .4rem">Panel '+(i+1)+'</div>'
+    +'<div class="row2"><label class="fld"><span>Label</span><input type="text" data-ev="'+i+'" data-ek="month" value="'+esc(e.month)+'"></label>'
+    +'<label class="fld"><span>Date range</span><input type="text" data-ev="'+i+'" data-ek="dates" value="'+esc(e.dates)+'"></label></div>'
+    +'<label class="fld"><span>Requirement note</span><input type="text" data-ev="'+i+'" data-ek="req" value="'+esc(e.req)+'"></label>'
+    +'<label class="fld"><span>Schedule — one “Day | Time” per line</span><textarea data-ev="'+i+'" data-ek="schedule" rows="3">'+esc(sched)+'</textarea></label>'
+    +'</div>';
+}
+function renderPanels(){
+  var n=twoPanels?2:1;
+  if(state.events.length<n) state.events.push({month:'Session 2',dates:'',req:'Participants attend all three days.',schedule:[]});
+  var html='';for(var i=0;i<n;i++)html+=panelHTML(i);
+  g('panels').innerHTML=html;
+  [].forEach.call(g('panels').querySelectorAll('[data-ev]'),function(el){
+    el.addEventListener('input',function(){
+      var i=+el.getAttribute('data-ev'),k=el.getAttribute('data-ek');
+      if(!state.events[i])state.events[i]={schedule:[]};
+      if(k==='schedule'){state.events[i].schedule=lines(el.value).map(function(ln){var p=ln.split('|');return {day:(p[0]||'').trim(),time:(p[1]||'').trim()};});}
+      else state.events[i][k]=el.value;
+      renderAll();
+    });
+  });
+}
+g('two-panels').addEventListener('change',function(){twoPanels=this.checked;if(!twoPanels)state.events=state.events.slice(0,1);renderPanels();renderAll();});
+
+/* ---------- field binding ---------- */
+function bindFields(){
+  [].forEach.call(document.querySelectorAll('[data-k]'),function(el){
+    el.addEventListener('input',function(){
+      var k=el.getAttribute('data-k');
+      if(k==='sessions'||k==='pills')state[k]=lines(el.value);
+      else state[k]=el.value;
+      renderAll();
+    });
+  });
+}
+function fillFields(){
+  [].forEach.call(document.querySelectorAll('[data-k]'),function(el){
+    var k=el.getAttribute('data-k'),v=state[k];
+    if(k==='sessions'||k==='pills')el.value=(v||[]).join('\n');
+    else el.value=v==null?'':v;
+  });
+  [].forEach.call(g('hero-pick').children,function(c,i){c.className=(HERO_OPTS[i].f===state.heroImg?'on':'');});
+  renderPanels();
+}
+
+/* ---------- events data ---------- */
+function cityFromLoc(loc){ // "Fairbanks, AK — In-Person" -> "Fairbanks, Alaska"
+  var base=(loc||'').split('—')[0].split('·')[0].trim();
+  var st={AK:'Alaska',MT:'Montana',WI:'Wisconsin',KS:'Kansas',AZ:'Arizona',MI:'Michigan',SD:'South Dakota'};
+  return base.replace(/,\s*([A-Z]{2})\b/,function(m,s){return st[s]?', '+st[s]:m;});
+}
+function applyEvent(ev){
+  if(!ev){state=defaultState();twoPanels=false;g('two-panels').checked=false;fillFields();renderAll();return;}
+  var s=defaultState();
+  s.loc=cityFromLoc(ev.loc);
+  s.lede=ev.desc||s.lede;
+  if(ev.details&&ev.details.badges&&ev.details.badges.length)
+    s.pills=ev.details.badges.map(function(b){return b.replace(/^[^\w]+\s*/,'');});
+  s.events=[{month:(ev.sub||'Session'), dates:ev.datelabel||'', req:'Participants attend all sessions.', schedule:[]}];
+  if(ev.details&&ev.details.intro&&/\d/.test(ev.details.intro)){
+    var parts=ev.details.intro.split('\n');s.venue=parts[0]||s.venue;if(parts[1])s.address=parts[1];
+  }
+  s.emailSubject="You're invited: "+(s.loc.split(',')[0])+" Healing Group";
+  state=s;twoPanels=false;g('two-panels').checked=false;fillFields();renderAll();
+}
+function loadEvents(){
+  var sel=g('event-select');
+  function fill(list){
+    var live=(list||[]).filter(function(e){return e && e.title;});
+    sel.innerHTML='<option value="__custom">✎ Custom / blank</option>'+live.map(function(e,i){
+      return '<option value="'+i+'">'+esc(e.title+' — '+(e.datelabel||e.loc||''))+'</option>';
+    }).join('');
+    sel.onchange=function(){var v=sel.value;if(v==='__custom')applyEvent(null);else applyEvent(live[+v]);};
+  }
+  fetch('data/events.json?ts='+Date.now()).then(function(r){return r.ok?r.json():Promise.reject();})
+    .then(fill).catch(function(){fill([]);});
+}
+
+/* ---------- render: flyer + email + social ---------- */
+var frameReady=false;
+window.addEventListener('message',function(e){if(e.data&&e.data.type==='promoReady'){frameReady=true;pushFlyer();}});
+function flyerData(){
+  return {eyebrow:state.eyebrow,loc:state.loc,lede:state.lede,heroImg:state.heroImg,heroAlt:state.heroAlt,
+    venue:state.venue,address:state.address,phone:state.phone,regUrl:state.regUrl,
+    pills:state.pills,sessions:state.sessions,events:state.events};
+}
+function pushFlyer(){var f=g('flyer-frame');if(f&&f.contentWindow)f.contentWindow.postMessage({type:'promo',data:flyerData()},'*');}
+function scaleFlyer(){var stage=g('flyer-stage'),f=g('flyer-frame');var avail=stage.clientWidth-32;var sc=Math.min(1,avail/816);
+  f.style.transform='scale('+sc+')';stage.style.height=(1056*sc+32)+'px';}
+
+function renderAll(){pushFlyer();renderEmail();renderSocial();syncCaptions();}
+
+/* email */
+function emailHTML(){
+  var s=state,reg=normUrl(s.regUrl),city=s.loc.split(',')[0];
+  var ev=s.events.map(function(e){return '<tr><td style="padding:6px 0;border-bottom:1px solid #eee"><b style="font-family:Georgia,serif;color:#282924">'+esc(e.dates)+'</b><br><span style="color:#5a5a52;font-size:13px">'+esc(e.month)+(e.req?' · '+esc(e.req):'')+'</span></td></tr>';}).join('');
+  var sess=s.sessions.map(function(x){return '<li style="margin:3px 0">'+esc(x)+'</li>';}).join('');
+  return ''
+  +'<div style="background:#282924;padding:18px 24px"><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,h_72/lim2026/board-kober" alt="" style="display:none">'
+  +'<span style="font-family:\'Barlow Condensed\',Arial,sans-serif;color:#fff;font-weight:800;letter-spacing:.12em;font-size:16px;text-transform:uppercase">Lutheran Indian Ministries</span></div>'
+  +'<div style="padding:26px 28px;font-family:\'Open Sans\',Arial,sans-serif;color:#282924;line-height:1.6">'
+  +'<div style="font-family:\'Barlow Condensed\',Arial,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:#8a8665;font-size:13px;font-weight:700">'+esc(s.eyebrow)+'</div>'
+  +'<h1 style="font-family:Georgia,serif;font-size:26px;margin:6px 0 14px;color:#282924">'+esc(city)+' Healing Group</h1>'
+  +'<p style="margin:0 0 16px">'+esc(s.emailIntro)+'</p>'
+  +'<table style="width:100%;border-collapse:collapse;margin:0 0 18px">'+ev+'</table>'
+  +'<p style="margin:0 0 6px"><b>Where:</b> '+esc(s.venue)+' — '+esc(s.address)+'</p>'
+  +'<p style="margin:0 0 4px"><b>What we\'ll walk through together:</b></p>'
+  +'<ul style="margin:0 0 20px;padding-left:20px;color:#3a3a34;font-size:14px">'+sess+'</ul>'
+  +'<div style="text-align:center;margin:22px 0"><a href="'+esc(reg)+'" style="background:#ED1C24;color:#fff;text-decoration:none;font-family:\'Barlow Condensed\',Arial,sans-serif;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:13px 30px;border-radius:8px;display:inline-block">Register — it\'s free</a></div>'
+  +'<p style="text-align:center;color:#5a5a52;font-size:13px;margin:0">Register at <a href="'+esc(reg)+'" style="color:#ED1C24">'+esc(s.regUrl.replace(/^https?:\/\//,''))+'</a> '+esc(s.phone)+'</p>'
+  +'</div>';
+}
+function renderEmail(){g('mail-preview').innerHTML=emailHTML();g('mail-subj').textContent=state.emailSubject;}
+
+/* social captions defaults */
+function defaultCaption(kind){
+  var s=state,city=s.loc.split(',')[0],d=(s.events[0]&&s.events[0].dates)||'';
+  var base='💛 '+city+' Healing Group — '+d+'\n\nA free, faith-based space to heal from trauma and loss, walked together. All adults 18+ welcome. Lunch provided.\n\nRegister free at '+s.regUrl+'.';
+  if(kind==='story')return city+' Healing Group\n'+d+'\nFree · Register at '+s.regUrl;
+  return base+'\n\n#LutheranIndianMinistries #HealingGroups #NativeMinistry';
+}
+function syncCaptions(){
+  if(!state.captionSquare)g('cap-square').value=defaultCaption('square'); else g('cap-square').value=state.captionSquare;
+}
+
+/* ---------- social canvas ---------- */
+var heroCache={};
+function loadImg(src){return new Promise(function(res){
+  if(heroCache[src])return res(heroCache[src]);
+  var im=new Image();im.crossOrigin='anonymous';
+  im.onload=function(){heroCache[src]=im;res(im);};im.onerror=function(){res(null);};im.src=src;
+});}
+function wrapText(ctx,text,maxW){
+  var words=text.split(' '),line='',out=[];
+  for(var i=0;i<words.length;i++){var t=line?line+' '+words[i]:words[i];
+    if(ctx.measureText(t).width>maxW&&line){out.push(line);line=words[i];}else line=t;}
+  if(line)out.push(line);return out;
+}
+function drawCover(ctx,img,w,h){
+  var ir=img.width/img.height,cr=w/h,sw,sh,sx,sy;
+  if(ir>cr){sh=img.height;sw=sh*cr;sx=(img.width-sw)/2;sy=0;}else{sw=img.width;sh=sw/cr;sx=0;sy=(img.height-sh)/2;}
+  ctx.drawImage(img,sx,sy,sw,sh,0,0,w,h);
+}
+function drawSocial(canvas){
+  var w=canvas.width,h=canvas.height,ctx=canvas.getContext('2d'),s=state,story=(h>w);
+  var city=s.loc.split(',')[0];
+  return loadImg(s.heroImg).then(function(img){
+    ctx.clearRect(0,0,w,h);
+    ctx.fillStyle='#282924';ctx.fillRect(0,0,w,h);
+    if(img){drawCover(ctx,img,w,h);}
+    // dark scrim
+    var gr=ctx.createLinearGradient(0,0,0,h);
+    gr.addColorStop(0,'rgba(40,41,36,.72)');gr.addColorStop(.45,'rgba(40,41,36,.35)');gr.addColorStop(.72,'rgba(40,41,36,.55)');gr.addColorStop(1,'rgba(40,41,36,.92)');
+    ctx.fillStyle=gr;ctx.fillRect(0,0,w,h);
+    var pad=Math.round(w*0.085), x=pad, S=w/1080;
+    ctx.textBaseline='alphabetic';ctx.textAlign='left';
+    // org
+    ctx.fillStyle='#fff';ctx.font='700 '+(30*S)+"px 'Barlow Condensed'";
+    ctx.fillText('LUTHERAN INDIAN MINISTRIES', x, pad+30*S);
+    // eyebrow
+    var topY = story? h*0.44 : h*0.40;
+    ctx.fillStyle='#FFDE16';ctx.font='700 '+(34*S)+"px 'Barlow Condensed'";
+    ctx.fillText((s.eyebrow||'').toUpperCase(), x, topY);
+    // title
+    ctx.fillStyle='#fff';var tf=(story?96:104)*S;ctx.font='900 '+tf+"px 'Merriweather'";
+    var titleLines=wrapText(ctx, city+' Healing Group', w-pad*2);
+    var ty=topY + tf*1.05;
+    titleLines.forEach(function(ln){ctx.fillText(ln, x, ty);ty+=tf*1.06;});
+    // date + venue
+    ctx.fillStyle='rgba(255,255,255,.92)';ctx.font='600 '+(38*S)+"px 'Open Sans'";
+    var dd=(s.events[0]&&s.events[0].dates)||'';
+    if(dd){ctx.fillText(dd, x, ty+14*S);ty+=52*S;}
+    ctx.fillStyle='rgba(255,255,255,.72)';ctx.font='400 '+(30*S)+"px 'Open Sans'";
+    ctx.fillText(s.venue||'', x, ty+14*S);
+    // FREE badge
+    ctx.save();
+    var bw=150*S,bh=64*S,bx=w-pad-bw,by=(story?h*0.44:h*0.40)-46*S;
+    ctx.fillStyle='#FFDE16';ctx.beginPath();ctx.rect(bx,by,bw,bh);ctx.fill();
+    ctx.fillStyle='#282924';ctx.font='800 '+(40*S)+"px 'Barlow Condensed'";ctx.textAlign='center';
+    ctx.fillText('FREE',bx+bw/2,by+bh/2+14*S);ctx.restore();
+    // register footer
+    ctx.textAlign='left';ctx.fillStyle='#FFDE16';ctx.font='700 '+(30*S)+"px 'Barlow Condensed'";
+    ctx.fillText('REGISTER FREE', x, h-pad-40*S);
+    ctx.fillStyle='#fff';ctx.font='700 '+(40*S)+"px 'Open Sans'";
+    ctx.fillText(s.regUrl.replace(/^https?:\/\//,''), x, h-pad);
+  });
+}
+function renderSocial(){
+  if(!document.getElementById('pane-social').classList.contains('on'))return; // draw when visible
+  drawSocial(g('cv-square'));drawSocial(g('cv-story'));
+}
+
+/* ---------- downloads ---------- */
+g('dl-flyer').onclick=function(){try{sessionStorage.setItem('promoFlyer',JSON.stringify(flyerData()));}catch(e){}
+  window.open('flyer-template.html?print=1','_blank');};
+g('open-flyer').onclick=function(){try{sessionStorage.setItem('promoFlyer',JSON.stringify(flyerData()));}catch(e){}
+  window.open('flyer-template.html','_blank');};
+
+function fileBase(){return 'LIM-'+(state.loc.split(',')[0]||'Healing').replace(/[^A-Za-z0-9]+/g,'-')+'-HealingGroup';}
+function dlBlob(blob,name){var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;document.body.appendChild(a);a.click();
+  setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},1500);}
+
+g('dl-email').onclick=function(){
+  var full='<!doctype html><meta charset="utf-8"><div style="max-width:640px;margin:0 auto">'+emailHTML()+'</div>';
+  dlBlob(new Blob([full],{type:'text/html'}), fileBase()+'-email.html');
+};
+g('copy-email').onclick=function(){
+  var html=emailHTML(),tmp=document.createElement('div');tmp.innerHTML=html;var text=tmp.innerText;
+  if(navigator.clipboard&&window.ClipboardItem){
+    navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([html],{type:'text/html'}),'text/plain':new Blob([text],{type:'text/plain'})})])
+      .then(function(){toast('Email copied — paste into your mail app');},function(){toast('Copy failed',true);});
+  }else{toast('Copy not supported in this browser',true);}
+};
+[].forEach.call(document.querySelectorAll('[data-dl]'),function(b){
+  b.onclick=function(){
+    var which=b.getAttribute('data-dl'),cv=g(which==='square'?'cv-square':'cv-story');
+    drawSocial(cv).then(function(){cv.toBlob(function(blob){dlBlob(blob,fileBase()+'-'+which+'.png');toast('PNG downloaded');},'image/png');});
+  };
+});
+g('copy-cap-square').onclick=function(){var t=g('cap-square');t.select();
+  if(navigator.clipboard)navigator.clipboard.writeText(t.value).then(function(){toast('Caption copied');});
+  else{document.execCommand('copy');toast('Caption copied');}};
+
+/* ---------- AI ---------- */
+g('ai-btn').onclick=function(){
+  var text=g('ai-input').value.trim(),pw=g('ai-pw').value.trim()||sessionStorage.getItem('lim_pub_pw')||'';
+  if(!text){toast('Describe the promotion first',true);return;}
+  if(!pw){toast('Enter the publish password',true);return;}
+  sessionStorage.setItem('lim_pub_pw',pw);
+  var btn=this;btn.disabled=true;g('ai-status').textContent='Drafting…';
+  fetch('/api/promo-ai',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({text:text,password:pw})})
+    .then(function(r){return r.json().then(function(j){return {ok:r.ok,j:j};});})
+    .then(function(res){
+      if(!res.ok){g('ai-status').textContent=res.j.error||'AI error';return;}
+      var d=res.j;
+      ['eyebrow','loc','lede','venue','address','regUrl','emailSubject','emailIntro','captionSquare','captionStory'].forEach(function(k){if(d[k])state[k]=d[k];});
+      if(Array.isArray(d.pills)&&d.pills.length)state.pills=d.pills;
+      if(Array.isArray(d.sessions)&&d.sessions.length===6)state.sessions=d.sessions;
+      if(Array.isArray(d.events)&&d.events.length){state.events=d.events;twoPanels=d.events.length>1;g('two-panels').checked=twoPanels;}
+      fillFields();if(state.captionSquare)g('cap-square').value=state.captionSquare;renderAll();
+      g('ai-status').textContent='Draft ready — tweak anything below.';
+    })
+    .catch(function(){g('ai-status').textContent='Network error — is the site deployed?';})
+    .then(function(){btn.disabled=false;});
+};
+
+/* ---------- tabs ---------- */
+[].forEach.call(document.querySelectorAll('.tab'),function(t){
+  t.onclick=function(){
+    [].forEach.call(document.querySelectorAll('.tab'),function(x){x.classList.remove('on');});
+    [].forEach.call(document.querySelectorAll('.pane'),function(x){x.classList.remove('on');});
+    t.classList.add('on');g('pane-'+t.getAttribute('data-pane')).classList.add('on');
+    if(t.getAttribute('data-pane')==='flyer')scaleFlyer();
+    if(t.getAttribute('data-pane')==='social')renderSocial();
+  };
+});
+
+/* ---------- init ---------- */
+bindFields();fillFields();loadEvents();
+g('flyer-frame').addEventListener('load',function(){setTimeout(function(){pushFlyer();scaleFlyer();},150);});
+window.addEventListener('resize',scaleFlyer);
+document.fonts&&document.fonts.ready.then(function(){renderSocial();});
+setTimeout(function(){scaleFlyer();renderAll();},400);
+</script>
+</body>
+</html>

@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Free Healing Group sessions in Fairbanks, AK — September and November 2026. Hosted by Lutheran Indian Ministries at Zion Lutheran Church.">
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <title>Healing Groups · Fairbanks, AK · 2026 — Lutheran Indian Ministries</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --red: #ED1C24;
+      --yellow: #FFDE16;
+      --charcoal: #282924;
+      --sage: #B2AC88;
+      --sage-d: #8a8665;
+      --sky: #A2C2D1;
+      --sky-d: #6fa3b8;
+      --stone: #EBE9E4;
+      --white: #FFFFFF;
+      --muted: #5a5a52;
+      --border: #d9d6ce;
+      --serif: 'Merriweather', Georgia, serif;
+      --cond: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+      --body: 'Open Sans', system-ui, sans-serif;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html,body{background:#e8e6e0}
+    body{font-family:var(--body);color:var(--charcoal);line-height:1.55;-webkit-print-color-adjust:exact;print-color-adjust:exact;padding:32px 0}
+    img{max-width:100%;height:auto;display:block}
+
+    /* Letter sheet — 8.5 x 11 in (fixed height to guarantee single-page print) */
+    .sheet{
+      width:8.5in;
+      height:11in;
+      margin:0 auto;
+      background:#fff;
+      box-shadow:0 8px 28px rgba(0,0,0,.18);
+      display:grid;
+      grid-template-rows:auto auto minmax(0,1fr) auto auto;
+      overflow:hidden;
+      position:relative;
+    }
+
+    /* ===== Top brand bar ===== */
+    .topbar{
+      background:var(--charcoal);
+      color:#fff;
+      padding:16px 48px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:16px;
+    }
+    .topbar .brandmark{display:flex;align-items:center;gap:12px}
+    .topbar .brandmark img{height:34px;width:auto}
+    .topbar .brandmark .org{
+      font-family:var(--cond);
+      font-weight:700;
+      font-size:14px;
+      letter-spacing:.18em;
+      text-transform:uppercase;
+      color:#fff;
+      line-height:1.1;
+    }
+    .topbar .brandmark .org small{
+      display:block;
+      font-weight:400;
+      letter-spacing:.22em;
+      font-size:11px;
+      color:var(--sky);
+      margin-top:2px;
+    }
+    .topbar .pillars{
+      display:flex;align-items:center;gap:8px;
+      font-family:var(--cond);
+      font-weight:700;font-size:12px;
+      letter-spacing:.22em;text-transform:uppercase;
+      color:#fff;
+    }
+    .topbar .pillars .dot{width:7px;height:7px;border-radius:999px;display:inline-block}
+    .topbar .pillars .heal{background:var(--sky)}
+    .topbar .pillars .pro{background:var(--yellow)}
+    .topbar .pillars .dis{background:var(--red)}
+    .topbar .pillars .sep{opacity:.45}
+
+    /* ===== Hero ===== */
+    .hero{
+      position:relative;
+      height:2.55in;
+      overflow:hidden;
+      background:var(--charcoal);
+    }
+    .hero img{
+      width:100%;height:100%;object-fit:cover;
+      filter:saturate(.92) contrast(1.02);
+    }
+    .hero::after{
+      content:"";
+      position:absolute;inset:0;
+      background:
+        linear-gradient(180deg, rgba(40,41,36,.70) 0%, rgba(40,41,36,.35) 40%, rgba(40,41,36,.05) 70%),
+        linear-gradient(90deg, rgba(40,41,36,.75) 0%, rgba(40,41,36,.10) 60%);
+      pointer-events:none;
+    }
+    .hero-overlay{
+      position:absolute;
+      left:48px;top:28px;right:48px;
+      z-index:2;
+      color:#fff;
+      max-width:5.4in;
+    }
+    .eyebrow{
+      display:inline-flex;align-items:center;gap:10px;
+      font-family:var(--cond);
+      font-weight:700;font-size:13px;
+      letter-spacing:.28em;text-transform:uppercase;
+      color:var(--yellow);
+      margin-bottom:10px;
+    }
+    .eyebrow .bar{width:28px;height:2px;background:var(--yellow);display:inline-block}
+
+    .hero h1{
+      font-family:var(--serif);
+      font-weight:900;
+      font-size:54px;
+      line-height:1.0;
+      letter-spacing:-.01em;
+      color:#fff;
+    }
+    .hero h1 .loc{
+      display:block;
+      font-family:var(--cond);
+      font-weight:600;
+      font-size:22px;
+      letter-spacing:.32em;
+      color:var(--sky);
+      text-transform:uppercase;
+      margin-bottom:8px;
+    }
+    .hero .lede{
+      margin-top:14px;
+      font-family:var(--serif);
+      font-style:italic;
+      font-size:17px;
+      line-height:1.45;
+      color:#fff;
+      max-width:4.8in;
+    }
+
+    /* FREE badge */
+    .free-badge{
+      position:absolute;
+      top:22px;right:36px;
+      width:1.05in;height:1.05in;
+      border-radius:999px;
+      background:var(--yellow);
+      color:var(--charcoal);
+      display:flex;align-items:center;justify-content:center;
+      font-family:var(--cond);
+      font-weight:800;
+      font-size:30px;
+      letter-spacing:.05em;
+      transform:rotate(-8deg);
+      border:3px solid var(--charcoal);
+      z-index:3;
+    }
+    .free-badge::after{
+      content:"NO COST";
+      position:absolute;
+      bottom:.18in;
+      font-size:9px;
+      letter-spacing:.18em;
+      font-weight:700;
+    }
+    .free-badge .word{
+      transform:translateY(-4px);
+    }
+
+    /* ===== Body content ===== */
+    .body{
+      padding:26px 48px 18px;
+      display:grid;
+      grid-template-columns:1.55fr 1fr;
+      gap:26px;
+    }
+
+    .lede-body p{
+      font-family:var(--serif);
+      font-size:14.5px;
+      line-height:1.65;
+      color:var(--charcoal);
+    }
+    .lede-body p + p{margin-top:10px}
+    .lede-body strong{color:var(--charcoal)}
+
+    .sessions{
+      margin-top:18px;
+    }
+    .sessions h3{
+      font-family:var(--cond);
+      font-weight:700;
+      letter-spacing:.18em;
+      text-transform:uppercase;
+      font-size:13px;
+      color:var(--sage-d);
+      margin-bottom:10px;
+      display:flex;align-items:center;gap:10px;
+    }
+    .sessions h3::before{
+      content:"";width:18px;height:2px;background:var(--sage-d);display:inline-block;
+    }
+    .sessions ol{
+      list-style:none;counter-reset:s;
+      display:grid;grid-template-columns:1fr 1fr;
+      gap:6px 18px;
+    }
+    .sessions li{
+      counter-increment:s;
+      position:relative;
+      padding-left:24px;
+      font-size:12.5px;
+      line-height:1.4;
+      color:var(--charcoal);
+    }
+    .sessions li::before{
+      content:counter(s);
+      position:absolute;left:0;top:1px;
+      width:18px;height:18px;border-radius:999px;
+      background:var(--sage);color:#fff;
+      font-family:var(--cond);font-weight:700;font-size:11px;
+      display:flex;align-items:center;justify-content:center;
+    }
+
+    /* Right column */
+    .aside{
+      background:var(--stone);
+      border-radius:6px;
+      padding:18px;
+      border-left:4px solid var(--sky-d);
+      align-self:start;
+    }
+    .aside h4{
+      font-family:var(--cond);
+      font-weight:700;
+      letter-spacing:.16em;
+      text-transform:uppercase;
+      font-size:12px;
+      color:var(--sky-d);
+      margin-bottom:8px;
+    }
+    .aside p{
+      font-family:var(--serif);
+      font-size:13px;
+      line-height:1.55;
+      color:var(--charcoal);
+    }
+    .aside-img{
+      margin-top:12px;
+      border-radius:4px;
+      overflow:hidden;
+      aspect-ratio: 4 / 3;
+      background:#ddd;
+    }
+    .aside-img img{width:100%;height:100%;object-fit:cover}
+
+    .audience-row{
+      margin-top:14px;
+      display:flex;
+      gap:8px;
+      flex-wrap:wrap;
+    }
+    .pill{
+      font-family:var(--cond);
+      font-weight:700;font-size:11px;
+      letter-spacing:.14em;text-transform:uppercase;
+      padding:6px 11px;border-radius:999px;
+      background:#fff;
+      color:var(--charcoal);
+      border:1.5px solid var(--border);
+    }
+    .pill.sage{background:var(--sage);color:#fff;border-color:var(--sage)}
+    .pill.sky{background:var(--sky);color:var(--charcoal);border-color:var(--sky)}
+
+    /* ===== Event panels ===== */
+    .events{
+      padding:0 48px 14px;
+      display:grid;grid-template-columns:1fr 1fr;
+      gap:14px;
+    }
+    .event{
+      border:1.5px solid var(--border);
+      border-top:6px solid var(--sky-d);
+      border-radius:6px;
+      padding:14px 16px 12px;
+      background:#fff;
+      position:relative;
+    }
+    .event.nov{border-top-color:var(--sage-d)}
+    .event .month{
+      font-family:var(--cond);
+      font-weight:700;font-size:11px;
+      letter-spacing:.22em;text-transform:uppercase;
+      color:var(--sky-d);
+      margin-bottom:2px;
+    }
+    .event.nov .month{color:var(--sage-d)}
+    .event h3{
+      font-family:var(--serif);
+      font-size:18px;
+      font-weight:700;
+      color:var(--charcoal);
+      line-height:1.15;
+      margin-bottom:2px;
+    }
+    .event .req{
+      font-size:10.5px;font-style:italic;color:var(--muted);
+      margin-bottom:8px;
+    }
+    .event .schedule{
+      display:grid;
+      grid-template-columns:auto 1fr;
+      gap:3px 14px;
+      font-size:12px;
+      line-height:1.45;
+    }
+    .event .schedule .day{
+      font-family:var(--cond);
+      font-weight:700;
+      letter-spacing:.04em;
+      color:var(--charcoal);
+    }
+    .event .schedule .time{
+      color:var(--muted);
+      font-variant-numeric:tabular-nums;
+    }
+
+    /* ===== Footer ===== */
+    .foot{
+      background:var(--charcoal);
+      color:#fff;
+      padding:28px 48px 48px;
+      min-height:1.8in;
+      display:grid;
+      grid-template-columns:1.5fr 1fr auto;
+      gap:22px;
+      align-items:center;
+    }
+    .foot .where .lbl{
+      font-family:var(--cond);font-weight:700;font-size:11px;
+      letter-spacing:.22em;text-transform:uppercase;
+      color:var(--sky);
+      margin-bottom:4px;
+    }
+    .foot .where h4{
+      font-family:var(--serif);font-weight:700;font-size:16px;
+      line-height:1.2;
+    }
+    .foot .where p{
+      font-size:12.5px;color:rgba(255,255,255,.78);
+      margin-top:2px;
+    }
+
+    .foot .reg{
+      border-left:2px solid rgba(255,255,255,.18);
+      padding-left:18px;
+    }
+    .foot .reg .lbl{
+      font-family:var(--cond);font-weight:700;font-size:11px;
+      letter-spacing:.22em;text-transform:uppercase;
+      color:var(--yellow);
+      margin-bottom:4px;
+    }
+    .foot .reg a{color:#fff;text-decoration:none}
+    .foot .reg .url{
+      font-family:var(--serif);font-weight:700;font-size:15px;
+      letter-spacing:.01em;
+    }
+    .foot .reg .phone{
+      font-size:12px;color:rgba(255,255,255,.78);margin-top:2px;
+      font-variant-numeric:tabular-nums;
+    }
+
+    .foot .qr{
+      width:1.0in;height:1.0in;
+      background:#fff;
+      padding:5px;
+      border-radius:4px;
+    }
+    .foot .qr img{width:100%;height:100%}
+
+    /* Print */
+    @page{
+      size:Letter;
+      margin:0;
+    }
+    @media print{
+      html,body{background:#fff;padding:0;margin:0;width:8.5in;height:11in}
+      .sheet{
+        box-shadow:none;
+        width:8.5in;
+        height:11in;
+        max-height:11in;
+        page-break-after:avoid;
+        page-break-inside:avoid;
+        break-inside:avoid;
+        overflow:hidden;
+      }
+      .no-print{display:none !important}
+    }
+
+    .toolbar{
+      max-width:8.5in;margin:0 auto 16px;
+      display:flex;gap:10px;justify-content:flex-end;align-items:center;
+    }
+    .toolbar .toolbar-stamp{
+      font-family:var(--cond);font-weight:600;
+      font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+      color:var(--muted);margin-right:auto;
+    }
+    .toolbar button,
+    .toolbar a.btn{
+      font-family:var(--cond);font-weight:700;
+      letter-spacing:.18em;text-transform:uppercase;font-size:12px;
+      background:var(--charcoal);color:#fff;border:0;
+      padding:10px 16px;border-radius:4px;cursor:pointer;
+      text-decoration:none;display:inline-block;
+    }
+    .toolbar button:hover,
+    .toolbar a.btn:hover{background:#000}
+    .toolbar a.btn.primary{background:var(--red)}
+    .toolbar a.btn.primary:hover{background:#c41119}
+
+    /* Tiny export-stamp baked into the PDF (bottom-right of sheet) */
+    .print-stamp{
+      position:absolute;
+      bottom:6px;right:14px;
+      font-family:var(--cond);
+      font-size:7.5px;
+      letter-spacing:.16em;
+      color:rgba(255,255,255,.45);
+      text-transform:uppercase;
+      z-index:10;
+      pointer-events:none;
+    }
+
+    /* ===== Order modal ===== */
+    .modal-backdrop{
+      position:fixed;inset:0;
+      background:rgba(20,20,18,.62);
+      display:flex;align-items:center;justify-content:center;
+      z-index:1000;
+      padding:32px 16px;
+      overflow-y:auto;
+    }
+    .modal-backdrop[hidden]{display:none}
+    .modal{
+      background:#fff;
+      width:min(880px, 100%);
+      max-height:calc(100vh - 64px);
+      border-radius:8px;
+      box-shadow:0 24px 64px rgba(0,0,0,.4);
+      display:flex;flex-direction:column;
+      overflow:hidden;
+    }
+    .modal-head{
+      padding:18px 24px;
+      background:var(--charcoal);color:#fff;
+      display:flex;align-items:center;justify-content:space-between;gap:16px;
+    }
+    .modal-head h2{
+      font-family:var(--serif);font-weight:700;font-size:22px;
+    }
+    .modal-head .modal-sub{
+      font-family:var(--cond);font-weight:600;font-size:11px;
+      letter-spacing:.22em;text-transform:uppercase;color:var(--sky);
+      margin-top:2px;
+    }
+    .modal-close{
+      background:transparent;border:0;color:#fff;
+      font-size:28px;line-height:1;cursor:pointer;padding:4px 10px;
+      border-radius:4px;
+    }
+    .modal-close:hover{background:rgba(255,255,255,.12)}
+
+    .order-form{
+      display:grid;
+      grid-template-columns:1.5fr 1fr;
+      overflow:hidden;
+    }
+    @media (max-width:760px){
+      .order-form{grid-template-columns:1fr}
+    }
+    .form-options{
+      padding:22px 24px;
+      overflow-y:auto;
+    }
+    .price-summary{
+      background:var(--stone);
+      padding:22px 24px;
+      border-left:1px solid var(--border);
+      display:flex;flex-direction:column;gap:14px;
+    }
+    @media (max-width:760px){
+      .price-summary{border-left:0;border-top:1px solid var(--border)}
+    }
+
+    .order-form fieldset{
+      border:0;
+      margin-bottom:18px;
+    }
+    .order-form legend{
+      font-family:var(--cond);font-weight:700;font-size:12px;
+      letter-spacing:.2em;text-transform:uppercase;color:var(--charcoal);
+      margin-bottom:8px;
+    }
+    .order-form label{font-size:14px}
+
+    .qty-grid{
+      display:grid;grid-template-columns:repeat(auto-fit,minmax(78px,1fr));
+      gap:6px;
+    }
+    .qty-grid label{
+      display:flex;flex-direction:column;align-items:center;
+      padding:8px 4px;
+      border:1.5px solid var(--border);
+      border-radius:5px;cursor:pointer;
+      background:#fff;
+      transition:border-color .12s, background .12s;
+    }
+    .qty-grid label:hover{border-color:var(--sky-d)}
+    .qty-grid input{position:absolute;opacity:0;pointer-events:none}
+    .qty-grid label .qv{
+      font-family:var(--cond);font-weight:700;font-size:16px;
+    }
+    .qty-grid label .qu{
+      font-size:10.5px;color:var(--muted);margin-top:1px;
+    }
+    .qty-grid input:checked + .qv{color:var(--red)}
+    .qty-grid label:has(input:checked){
+      border-color:var(--red);background:#fff8f8;
+    }
+
+    .order-form select,
+    .order-form input[type="text"],
+    .order-form input[type="email"],
+    .order-form input[type="date"],
+    .order-form input[type="tel"]{
+      width:100%;
+      padding:9px 11px;
+      font-family:var(--body);font-size:14px;
+      border:1.5px solid var(--border);
+      border-radius:5px;
+      background:#fff;
+      color:var(--charcoal);
+    }
+    .order-form select:focus,
+    .order-form input:focus{
+      outline:none;border-color:var(--sky-d);
+      box-shadow:0 0 0 3px rgba(111,163,184,.18);
+    }
+    .ship-grid{
+      display:grid;grid-template-columns:1fr 1fr;gap:10px;
+    }
+    .ship-grid .full{grid-column:1 / -1}
+
+    .price-summary h3{
+      font-family:var(--cond);font-weight:700;font-size:12px;
+      letter-spacing:.2em;text-transform:uppercase;color:var(--sky-d);
+    }
+    .price-line{
+      display:flex;justify-content:space-between;align-items:baseline;
+      font-size:13px;color:var(--charcoal);
+    }
+    .price-line .lbl{color:var(--muted)}
+    .price-line.rush .val{color:var(--red);font-weight:700}
+    .price-divider{height:1px;background:var(--border);margin:6px 0}
+    .price-total{
+      display:flex;justify-content:space-between;align-items:baseline;
+      font-family:var(--serif);font-weight:900;font-size:24px;
+      color:var(--charcoal);
+      padding-top:6px;border-top:2px solid var(--charcoal);
+    }
+    .rush-banner{
+      font-family:var(--cond);font-weight:700;font-size:11px;
+      letter-spacing:.18em;text-transform:uppercase;
+      color:var(--red);
+      background:#fff;padding:8px 10px;border-radius:5px;
+      border:1.5px dashed var(--red);
+    }
+    .rush-banner[hidden]{display:none}
+
+    .form-actions{
+      grid-column:1 / -1;
+      padding:16px 24px;
+      background:#fafaf7;
+      border-top:1px solid var(--border);
+      display:flex;gap:10px;justify-content:flex-end;align-items:center;
+    }
+    .form-actions .submit-note{
+      margin-right:auto;font-size:12px;color:var(--muted);
+    }
+    .btn-secondary{
+      font-family:var(--cond);font-weight:700;
+      letter-spacing:.18em;text-transform:uppercase;font-size:12px;
+      background:#fff;color:var(--charcoal);
+      border:1.5px solid var(--border);
+      padding:10px 16px;border-radius:4px;cursor:pointer;
+    }
+    .btn-secondary:hover{background:var(--stone)}
+    .btn-submit{
+      font-family:var(--cond);font-weight:700;
+      letter-spacing:.18em;text-transform:uppercase;font-size:12px;
+      background:var(--red);color:#fff;border:0;
+      padding:11px 22px;border-radius:4px;cursor:pointer;
+    }
+    .btn-submit:hover{background:#c41119}
+
+    .order-success{
+      padding:48px 32px;text-align:center;
+    }
+    .order-success h2{
+      font-family:var(--serif);font-weight:900;font-size:28px;
+      margin-bottom:12px;color:var(--charcoal);
+    }
+    .order-success p{
+      font-family:var(--serif);font-size:15px;color:var(--muted);
+      max-width:36ch;margin:0 auto;
+    }
+
+    /* Hidden Netlify-form copy used so the build picks up the form schema. */
+    .netlify-form-stub{display:none}
+    .events.one{grid-template-columns:1fr}
+  </style>
+</head>
+<body>
+
+
+  <article class="sheet" aria-label="Fairbanks Healing Groups 2026 flyer">
+
+    <!-- ===== Top brand bar ===== -->
+    <header class="topbar">
+      <div class="brandmark">
+        <img src="brand/lim-mark.svg" alt="Lutheran Indian Ministries mark">
+        <div class="org">
+          Lutheran Indian Ministries
+          <small>Native-Led · Christ-Centered · Since 1989</small>
+        </div>
+      </div>
+      <div class="pillars" aria-label="Three pillars">
+        <span class="dot pro"></span> Proclaim
+        <span class="sep">·</span>
+        <span class="dot dis"></span> Disciple
+        <span class="sep">·</span>
+        <span class="dot heal"></span> Heal
+      </div>
+    </header>
+
+    <!-- ===== Hero ===== -->
+    <section class="hero">
+      <img id="f-hero-img" src="images-master/people-lame-deer-mixed-tipi-healing-retreat.jpg"
+           alt="Healing Group participants — men and women — gathered in a tipi with the Healing the Wounds of Trauma workbook">
+      <div class="hero-overlay">
+        <span class="eyebrow"><span class="bar"></span> <span id="f-eyebrow">2026 Healing Groups</span></span>
+        <h1>
+          <span class="loc" id="f-loc">Fairbanks, Alaska</span>
+          Healing Groups
+        </h1>
+        <p class="lede" id="f-lede">
+          What does the Bible say about healing and restoration?
+          Join us for a free, six-session group rooted in Scripture and walked together.
+        </p>
+      </div>
+      <div class="free-badge" aria-label="Free of charge">
+        <span class="word">FREE</span>
+      </div>
+    </section>
+
+    <!-- ===== Body ===== -->
+    <section class="body">
+
+      <div class="lede-body">
+        <p>
+          <strong>Healing Groups</strong> are a free, confidential gathering developed by the
+          American Bible Society&rsquo;s Trauma Healing Institute. We use Scripture to show
+          how God&rsquo;s Word heals and restores after trauma and loss &mdash; and how we
+          can walk alongside others on their healing journey.
+        </p>
+
+        <div class="sessions">
+          <h3>Six sessions, walked together</h3>
+          <ol id="f-sessions">
+            <li>What is a wound of the heart?</li>
+            <li>What happens when someone is grieving?</li>
+            <li>If God loves us, why do we suffer?</li>
+            <li>Bringing our pain to the cross</li>
+            <li>What can help our heart wounds heal?</li>
+            <li>How can we forgive others?</li>
+          </ol>
+        </div>
+
+        <div class="audience-row" id="f-pills">
+          <span class="pill sage">All adults 18+ welcome</span>
+          <span class="pill">Lunch provided</span>
+          <span class="pill">Childcare not provided</span>
+        </div>
+      </div>
+
+      <aside class="aside">
+        <h4>A safe place to begin</h4>
+        <p>
+          You&rsquo;ll sit in a small circle, read together, listen, and rest. There is no
+          pressure to share. This is space to bring what you carry &mdash; and meet a God
+          who is near to the brokenhearted.
+        </p>
+        <div class="aside-img">
+          <img src="images-master/people-healing-group-men-fairbanks.jpg"
+               alt="Two men in a Healing Group session beside a Pendleton-draped altar">
+        </div>
+      </aside>
+
+    </section>
+
+    <!-- ===== Two event panels ===== -->
+    <section class="events" id="f-events" aria-label="Upcoming session dates">
+
+      <div class="event sept">
+        <div class="month">September Group</div>
+        <h3>Sept 16 &ndash; 18, 2026</h3>
+        <p class="req">Participants attend all three days.</p>
+        <div class="schedule">
+          <span class="day">Wed · 9/16</span><span class="time">12:00 pm &ndash; 4:30 pm</span>
+          <span class="day">Thu · 9/17</span><span class="time">9:00 am &ndash; 4:30 pm</span>
+          <span class="day">Fri · 9/18</span><span class="time">9:00 am &ndash; 1:00 pm</span>
+        </div>
+      </div>
+
+      <div class="event nov">
+        <div class="month">November Group</div>
+        <h3>Nov 4 &ndash; 6, 2026</h3>
+        <p class="req">Participants attend all three days.</p>
+        <div class="schedule">
+          <span class="day">Wed · 11/4</span><span class="time">12:00 pm &ndash; 4:30 pm</span>
+          <span class="day">Thu · 11/5</span><span class="time">9:00 am &ndash; 4:30 pm</span>
+          <span class="day">Fri · 11/6</span><span class="time">9:00 am &ndash; 1:00 pm</span>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- Tiny export timestamp (bottom-right of page, baked into PDF) -->
+
+    <!-- ===== Footer ===== -->
+    <footer class="foot">
+      <div class="where">
+        <div class="lbl">Where</div>
+        <h4 id="f-venue">Zion Lutheran Church</h4>
+        <p id="f-address">2982 Davis Road · Fairbanks, AK 99709</p>
+      </div>
+      <div class="reg">
+        <div class="lbl">Register</div>
+        <a href="https://limhope.org" class="url" id="f-regurl">limhope.org</a>
+        <div class="phone" id="f-phone">or call (262) 439&#8209;5663</div>
+      </div>
+      <div class="qr" aria-label="QR code to limhope.org">
+        <img id="f-qr" src="https://api.qrserver.com/v1/create-qr-code/?size=240x240&margin=0&data=https%3A%2F%2Flimhope.org"
+             alt="Scan to register at limhope.org">
+      </div>
+    </footer>
+
+  </article>
+
+  <script>
+  (function(){
+    function set(id,v){ if(v==null) return; var el=document.getElementById(id); if(el) el.textContent=v; }
+    function norm(u){ return /^https?:/i.test(u) ? u : 'https://'+u; }
+    function render(d){
+      if(!d) return;
+      if(d.heroImg){ var h=document.getElementById('f-hero-img'); if(h){ h.src=d.heroImg; if(d.heroAlt) h.alt=d.heroAlt; } }
+      set('f-eyebrow', d.eyebrow); set('f-loc', d.loc); set('f-lede', d.lede);
+      set('f-venue', d.venue); set('f-address', d.address); set('f-phone', d.phone);
+      if(d.regUrl){
+        var full=norm(d.regUrl);
+        var a=document.getElementById('f-regurl'); if(a){ a.textContent=d.regUrlText||d.regUrl.replace(/^https?:\/\//i,''); a.href=full; }
+        var qr=document.getElementById('f-qr'); if(qr) qr.src='https://api.qrserver.com/v1/create-qr-code/?size=240x240&margin=0&data='+encodeURIComponent(full);
+      }
+      if(Array.isArray(d.pills)){ var pr=document.getElementById('f-pills'); if(pr) pr.innerHTML=d.pills.map(function(p,i){return '<span class="pill'+(i===0?' sage':'')+'">'+String(p)+'</span>';}).join(''); }
+      if(Array.isArray(d.sessions)&&d.sessions.length){ var ol=document.getElementById('f-sessions'); if(ol) ol.innerHTML=d.sessions.map(function(x){return '<li>'+String(x)+'</li>';}).join(''); }
+      if(Array.isArray(d.events)){
+        var w=document.getElementById('f-events'); if(w){
+          var evs=d.events.slice(0,2), acc=['sept','nov'];
+          w.classList.toggle('one', evs.length===1);
+          w.innerHTML=evs.map(function(e,i){
+            var rows=(e.schedule||[]).map(function(r){return '<span class="day">'+String(r.day||'')+'</span><span class="time">'+String(r.time||'')+'</span>';}).join('');
+            return '<div class="event '+acc[i%2]+'"><div class="month">'+String(e.month||'')+'</div><h3>'+String(e.dates||'')+'</h3>'+(e.req?'<p class="req">'+String(e.req)+'</p>':'')+(rows?'<div class="schedule">'+rows+'</div>':'')+'</div>';
+          }).join('');
+        }
+      }
+    }
+    window.addEventListener('message', function(ev){ if(ev.data&&ev.data.type==='promo') render(ev.data.data); });
+    try{ var s=sessionStorage.getItem('promoFlyer'); if(s) render(JSON.parse(s)); }catch(e){}
+    try{ if(window.parent&&window.parent!==window) window.parent.postMessage({type:'promoReady'},'*'); }catch(e){}
+    if(/[?&]print=1/.test(location.search)){ window.addEventListener('load', function(){ setTimeout(function(){ window.print(); }, 500); }); }
+  })();
+  </script>
+</body>
+</html>

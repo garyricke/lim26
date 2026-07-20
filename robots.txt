@@ -7,6 +7,8 @@ Disallow: /status.html
 Disallow: /agendas.html
 Disallow: /go-live-plan.html
 Disallow: /admin-events.html
+Disallow: /promotion-builder.html
+Disallow: /flyer-template.html
 Disallow: /client-edits-tracker.html
 Disallow: /release-form.html
 Disallow: /healing-group-military-march2026.html
