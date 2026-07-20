@@ -1,0 +1,30 @@
+# Lutheran Indian Ministries — robots.txt
+User-agent: *
+Allow: /
+
+# Internal / admin — not for indexing
+Disallow: /status.html
+Disallow: /agendas.html
+Disallow: /go-live-plan.html
+Disallow: /admin-events.html
+Disallow: /client-edits-tracker.html
+Disallow: /release-form.html
+Disallow: /healing-group-military-march2026.html
+Disallow: /docs-blackbaud.html
+Disallow: /docs-feathr.html
+Disallow: /docs-seo-keywords.html
+Disallow: /docs-events-setup.html
+Disallow: /docs-video-interview-guide.html
+Disallow: /plan/
+Disallow: /print-export/
+Disallow: /bio-portraits-review/
+
+# Old duplicate page versions
+Disallow: /index-v0.html
+Disallow: /index-v1.html
+Disallow: /index-v2.html
+Disallow: /about-v0.html
+Disallow: /about-v1.html
+Disallow: /about-v2.html
+
+Sitemap: https://www.lutheranindianministries.org/sitemap.xml

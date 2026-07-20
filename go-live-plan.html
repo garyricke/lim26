@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Go-Live Plan — Lutheran Indian Ministries 2026 Site</title>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Barlow+Condensed:wght@600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{--red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;--sage-d:#8a8665;--sky:#A2C2D1;--stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;
+    --serif:'Merriweather',Georgia,serif;--cond:'Barlow Condensed','Arial Narrow',sans-serif;--body:'Open Sans',system-ui,sans-serif;}
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.65}
+  a{color:var(--red);text-decoration:none;border-bottom:1px solid rgba(237,28,36,.35)}
+  a:hover{border-bottom-color:var(--red)}
+  .topbar{background:var(--charcoal);color:#fff;padding:.85rem 1.5rem;display:flex;align-items:center;gap:.75rem}
+  .topbar .dot{width:9px;height:9px;border-radius:50%;background:var(--yellow)}
+  .topbar b{font-family:var(--cond);font-weight:800;letter-spacing:.06em;text-transform:uppercase;font-size:.95rem}
+  .topbar a{color:rgba(255,255,255,.55);font-size:.82rem;margin-left:auto;border-bottom:1px solid rgba(255,255,255,.25)}
+  .wrap{max-width:820px;margin:0 auto;padding:2.5rem 1.5rem 4rem}
+  .eyebrow{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--sage-d)}
+  h1{font-family:var(--serif);font-size:2rem;line-height:1.15;margin:.35rem 0 .5rem}
+  .intro{font-size:.95rem;color:var(--muted);max-width:66ch}
+  .head{border-bottom:3px solid var(--charcoal);padding-bottom:1.25rem;margin-bottom:1.5rem}
+  h2.sec{font-family:var(--cond);font-size:1.15rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--charcoal);margin:2.2rem 0 .4rem;display:flex;align-items:center;gap:.7rem}
+  h2.sec .n{font-family:var(--cond);font-weight:800;font-size:.9rem;background:var(--yellow);color:var(--charcoal);width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex:none}
+  .card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:1.1rem 1.3rem;margin:.9rem 0;box-shadow:0 2px 6px rgba(0,0,0,.04)}
+  .card p{font-size:.93rem;margin:.3rem 0 .5rem}
+  ul{list-style:none;margin:.3rem 0}
+  li{position:relative;padding-left:1.35rem;font-size:.93rem;margin:.42rem 0}
+  li::before{content:'';position:absolute;left:.2rem;top:.55rem;width:6px;height:6px;border-radius:50%;background:var(--red)}
+  li.ok::before{background:var(--green)}
+  li.dec::before{background:var(--yellow);box-shadow:0 0 0 1px var(--sage-d)}
+  li.warn::before{background:var(--red);box-shadow:0 0 0 3px rgba(237,28,36,.15)}
+  .ic{font-family:'Fira Code',monospace;font-size:.85em;background:rgba(40,41,36,.07);border:1px solid var(--border);border-radius:4px;padding:.05em .35em;word-break:break-word}
+  .rec{display:inline-block;font-family:var(--cond);font-size:.68rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;background:var(--green);color:#fff;padding:.1rem .45rem;border-radius:4px;margin-left:.35rem}
+  .banner{background:var(--charcoal);color:#fff;border-radius:10px;padding:1.1rem 1.35rem;margin:1.2rem 0}
+  .banner .k{font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--yellow)}
+  .banner p{font-size:.98rem;margin:.35rem 0 0;color:#fff}
+  .warnbox{background:#fff6f6;border:1px solid #f3cccc;border-left:3px solid var(--red);border-radius:8px;padding:1rem 1.2rem;margin:1rem 0}
+  .warnbox b{color:var(--red)}
+  table{width:100%;border-collapse:collapse;margin:.6rem 0;font-size:.88rem}
+  th,td{text-align:left;padding:.5rem .6rem;border-bottom:1px solid var(--border);vertical-align:top}
+  th{font-family:var(--cond);text-transform:uppercase;letter-spacing:.06em;font-size:.75rem;color:var(--sage-d)}
+  .owner{display:grid;grid-template-columns:auto 1fr;gap:.4rem 1rem;font-size:.9rem;margin-top:.3rem}
+  .owner dt{font-weight:700}
+  .foot{margin-top:2.5rem;font-size:.82rem;color:var(--muted);border-top:1px solid var(--border);padding-top:1rem}
+</style>
+</head>
+<body>
+<div class="topbar"><span class="dot"></span><b>LIM Website · Internal</b><a href="status.html">Project Status →</a></div>
+<div class="wrap">
+
+  <div class="head">
+    <span class="eyebrow">Lutheran Indian Ministries · Website Project</span>
+    <h1>Go-Live Plan</h1>
+    <p class="intro">How we take the new Netlify site live on <b>lutheranindianministries.org</b> — the pre-launch gates, the DNS cutover, who owns each step, the rollback, and the SEO tasks that follow. Prepared July 20, 2026.</p>
+  </div>
+
+  <div class="banner">
+    <span class="k">The one-line version</span>
+    <p>Everything on our side is ready. Launch = <b>point the domain's DNS at Netlify</b> (a records change at the registrar, ~5 min of actual work), with a fallback to the old site the whole time. The care is in <b>not breaking email</b> and <b>301-redirecting the old URLs</b> so we keep our search rankings.</p>
+  </div>
+
+  <h2 class="sec"><span class="n">1</span> Pre-launch checklist</h2>
+  <div class="card">
+    <p>All of these should be true before we touch DNS:</p>
+    <ul>
+      <li class="dec"><b>$1 test gift passes</b> — Gary runs one real donation end-to-end through the on-site Blackbaud form (the last open donation item)</li>
+      <li class="dec"><b>Remove the "Preview Access" password gate</b> from the public pages (index / about / healing-groups / blog) — the site must be publicly crawlable at launch. <em>Keep</em> the Admin panel gate.</li>
+      <li class="ok">Copy signed off · staff + first board bios in · events current · donation embedded on-site</li>
+      <li>Final click-through: every nav link, the registration + cancellation forms, the donate hand-off, and all event Details popups</li>
+      <li>Confirm <span class="ic">robots.txt</span>, <span class="ic">sitemap.xml</span>, canonical + Open Graph tags are live (added July 20)</li>
+    </ul>
+  </div>
+
+  <h2 class="sec"><span class="n">2</span> Who owns the domain</h2>
+  <div class="card">
+    <ul>
+      <li><b>Registrar / DNS host:</b> <span class="ic">Network Solutions</span></li>
+      <li class="warn"><b>Confirm the current login owner.</b> In the 2022 cutover, <b>Paul Flaa</b> held the Network Solutions access and made the change with Gary on a screen-share. We need to confirm whether Paul (or someone at LIM) still has that login before launch day — this is the single most likely thing to slow us down.</li>
+      <li class="dec"><b>Action:</b> Jaylene / Robert to confirm who can log into Network Solutions, and schedule that person for a 30-minute screen-share on launch day.</li>
+    </ul>
+  </div>
+
+  <h2 class="sec"><span class="n">3</span> DNS cutover — the actual switch</h2>
+  <div class="card">
+    <p>This move is <b>to Netlify</b>, which is different from the 2022 Squarespace-to-Squarespace move (that used a Squarespace CNAME verification code). Target canonical host: <span class="ic">https://www.lutheranindianministries.org</span> (apex redirects to www; Netlify issues free HTTPS automatically via Let's Encrypt).</p>
+    <div class="warnbox">
+      <b>Do not touch the email (MX) records.</b> LIM email runs on Microsoft 365 on this domain. We only change the website records (A / CNAME). Leaving MX, SPF/TXT, and autodiscover records exactly as-is keeps email working.
+    </div>
+    <p><b>Option B — keep DNS at Network Solutions, point records at Netlify</b> <span class="rec">Recommended</span></p>
+    <ul>
+      <li>Safest because it <b>leaves email and all other records untouched</b> — we only edit the two website records.</li>
+      <li>In Netlify: add the custom domain → Netlify shows the exact targets to use.</li>
+      <li>At Network Solutions, set: apex <span class="ic">A</span> record <span class="ic">@ → 75.2.60.5</span> (Netlify's load balancer), and <span class="ic">CNAME</span> <span class="ic">www → &lt;our-site&gt;.netlify.app</span> (Netlify gives the exact value).</li>
+      <li>In Netlify, set the primary domain to <span class="ic">www</span>, enable <b>Force HTTPS</b>, and let it redirect apex → www.</li>
+    </ul>
+    <p><b>Option A — move DNS to Netlify (nameserver change)</b></p>
+    <ul>
+      <li>Cleaner long-term (Netlify manages everything, incl. auto-renew HTTPS), but it <b>moves ALL DNS to Netlify</b> — so we'd have to <b>re-create the Microsoft 365 email records</b> (MX, SPF, DKIM, autodiscover) in Netlify first, or email breaks. More risk. Only do this if we want Netlify to own DNS.</li>
+    </ul>
+    <p><b>Sequence on launch day:</b></p>
+    <ul>
+      <li>1–2 days before: <b>lower the record TTL</b> to 5 min at Network Solutions so the switch propagates fast (and rollback is fast)</li>
+      <li>Launch: turn off the Preview gate → update the A + CNAME records → Netlify verifies the domain and provisions HTTPS (a few minutes)</li>
+      <li>Confirm <span class="ic">https://www.lutheranindianministries.org</span> serves the new site with a valid padlock; test on phone + desktop</li>
+      <li>Keep the old Squarespace site published until propagation is confirmed everywhere (fallback)</li>
+    </ul>
+  </div>
+
+  <h2 class="sec"><span class="n">4</span> Preserve search rankings — 301 redirects</h2>
+  <div class="card">
+    <p>The old Squarespace URLs (their page slugs) are what Google has indexed today. When those URLs change, we <b>301-redirect each old URL to its new page</b> so we don't lose ranking or send visitors to a 404.</p>
+    <ul>
+      <li class="dec"><b>Need:</b> the list of current live URLs — pull from Google Search Console (or the old Squarespace sitemap). Gary maps each to the new page.</li>
+      <li>Implement as a Netlify <span class="ic">_redirects</span> file (e.g. <span class="ic">/old-donate-slug&nbsp;&nbsp;/donate.html&nbsp;&nbsp;301</span>) — added before launch once the old slugs are known.</li>
+      <li>Watch for redirect chains; each old URL should hit its new home in one hop.</li>
+    </ul>
+  </div>
+
+  <h2 class="sec"><span class="n">5</span> SEO / AEO — already in place</h2>
+  <div class="card">
+    <p>Shipped July 20 so the site is search- and answer-engine-ready the moment it's public:</p>
+    <ul>
+      <li class="ok"><span class="ic">sitemap.xml</span> (6 public pages) + <span class="ic">robots.txt</span> (internal/admin + old <span class="ic">-v</span> duplicates disallowed, sitemap referenced)</li>
+      <li class="ok"><b>Canonical URLs</b> on every public page → the <span class="ic">www</span> host (prevents duplicate-content splits)</li>
+      <li class="ok"><b>Open Graph + Twitter cards</b> — proper title/description/image when a page is shared on Facebook, LinkedIn, iMessage, X</li>
+      <li class="ok"><b>Structured data (JSON-LD)</b> for rich results + AI answer engines: <span class="ic">NGO/Organization</span> + <span class="ic">WebSite</span> on the homepage, <span class="ic">FAQPage</span> on Healing Groups (the 7 FAQs — strong for "answer" surfaces), <span class="ic">BlogPosting</span> on the three articles</li>
+      <li class="ok">Titles + meta descriptions already unique per page; semantic headings; descriptive alt text</li>
+    </ul>
+  </div>
+
+  <h2 class="sec"><span class="n">6</span> Post-launch (first 48 hours)</h2>
+  <div class="card">
+    <ul>
+      <li><b>Google Search Console</b> — add/verify the property, submit <span class="ic">sitemap.xml</span>, request indexing of the homepage + key pages</li>
+      <li><b>Bing Webmaster Tools</b> — verify + submit the sitemap (feeds Bing + ChatGPT/Copilot answers)</li>
+      <li>Confirm <span class="ic">robots.txt</span> resolves and isn't accidentally blocking; check no page is stuck on <span class="ic">noindex</span></li>
+      <li>Confirm the <b>Feathr</b> conversion pixel fires on a donation (the John/Meyer dependency) → feeds Robert's August ROAS report</li>
+      <li>Connect / confirm <b>Google Analytics (GA4)</b></li>
+      <li>Update <b>Google Business Profile</b> + any directory listings to the new URLs</li>
+      <li>Re-check the <b>Google Ad Grant</b> — it needs the live site to verify (Jaylene on Google for Nonprofits)</li>
+      <li>Watch Search Console coverage for 404s / redirect errors for the first week</li>
+    </ul>
+  </div>
+
+  <h2 class="sec"><span class="n">7</span> Rollback</h2>
+  <div class="card">
+    <p>Low-risk because we lowered TTL and never touched email:</p>
+    <ul>
+      <li>If anything looks wrong, <b>revert the A + CNAME records</b> to the old Squarespace targets at Network Solutions — with a 5-min TTL it comes back quickly</li>
+      <li>The old site stays published until we're confident, so there's always a live fallback</li>
+    </ul>
+  </div>
+
+  <h2 class="sec"><span class="n">8</span> Owners</h2>
+  <div class="card">
+    <div class="owner">
+      <dt>Gary</dt><dd>Netlify domain config, exact record values, <span class="ic">_redirects</span>, sitemap submission, GA/Feathr checks, the $1 test</dd>
+      <dt>Jaylene / Robert</dt><dd>Confirm Network Solutions login owner + schedule launch-day screen-share; approve the go-live date; Ad Grant verification</dd>
+      <dt>Paul Flaa (TBC)</dt><dd>Held Network Solutions access in 2022 — confirm still current; join the launch-day call if he's the login owner</dd>
+    </div>
+  </div>
+
+  <p class="foot">Internal · Lutheran Indian Ministries website project · Prepared July 20, 2026 · <a href="agendas.html">Check-in agendas</a> · <a href="status.html">Project status</a></p>
+
+</div>
+</body>
+</html>
