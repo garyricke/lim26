@@ -64,6 +64,10 @@
   .card li::before{content:"";position:absolute;left:.15rem;top:.6rem;width:7px;height:7px;border-radius:50%;background:var(--red)}
   .card.dark li::before{background:var(--sky)}
   .card li strong{font-weight:700}
+  .amz-btn{display:inline-flex;align-items:center;gap:.5rem;margin-top:1rem;background:var(--charcoal);color:#fff;font-family:var(--cond);font-weight:700;letter-spacing:.05em;text-transform:uppercase;font-size:.85rem;padding:.6rem 1.1rem;border-radius:8px;transition:background .15s}
+  .amz-btn:hover{background:#000}
+  .amz-btn .amz{color:var(--yellow)}
+  .amz-link{color:var(--red);font-weight:600;white-space:nowrap}
   .tz{margin-top:1rem;padding-top:.9rem;border-top:1px solid rgba(255,255,255,.15);font-size:.86rem;color:rgba(255,255,255,.7);line-height:1.7}
   .tz b{color:#fff}
   h2.h2{font-family:var(--serif);font-size:clamp(1.5rem,3.5vw,2rem);font-weight:900;margin-bottom:.4rem}
@@ -144,6 +148,7 @@
           <li>A <strong>roadmap</strong> outlining our full reading schedule is provided once you sign up.</li>
           <li>Don't have the Bible yet? No problem — <strong>tell us on the form and we'll send you one.</strong></li>
         </ul>
+        <a class="amz-btn" href="https://www.amazon.com/dp/0310445175" target="_blank" rel="noopener noreferrer">Get the study Bible on <span class="amz">Amazon</span> →</a>
       </div>
       <div class="card dark">
         <h3>Gathering Details</h3>
@@ -194,6 +199,7 @@
               <label><input type="radio" name="has-study-bible" value="No, but I can get one"> No, but I can get one</label>
               <label><input type="radio" name="has-study-bible" value="No, send me one"> No, send me one</label>
             </div>
+            <p class="reg-note" style="text-align:left;margin-top:.7rem">Prefer to buy your own copy? <a class="amz-link" href="https://www.amazon.com/dp/0310445175" target="_blank" rel="noopener noreferrer">Order it on Amazon →</a></p>
           </div>
 
           <div class="reg-section">
