@@ -1,0 +1,40 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Old Squarespace URL migration → new site (301 permanent)
+# Source: old sitemap https://www.lutheranindianministries.org/sitemap.xml (July 2026)
+#
+# NOTE: /about and /donate already resolve natively on Netlify (same file basename
+# → served with a 200), and each page's <link rel="canonical"> consolidates the
+# clean and .html forms — so they need no rule here.
+#
+# API rewrites live in netlify.toml. Netlify processes this file top-to-bottom.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── Renamed / relocated pages ──
+/healing-wounds-of-trauma                        /healing-groups.html   301
+/events                                          /healing-groups.html   301
+/events/*                                        /healing-groups.html   301
+/tree-of-life                                    /healing-groups.html   301
+/thank-you-for-registering-for-our-bible-group   /healing-groups.html   301
+/limhopeorg-reg-thank-you                        /healing-groups.html   301
+/about-lim-2025                                  /about.html            301
+/partners                                        /about.html            301
+/partners/*                                      /about.html            301
+/ways-to-give                                    /donate.html           301
+
+# ── Retired content (devotions / news / reflections / podcast were not migrated) → home ──
+# ~2,700 old posts. Redirecting to home avoids dead links for any inbound traffic;
+# individual high-value posts can be migrated + point-redirected later if desired.
+/devotions                    /   301
+/devotions-advent             /   301
+/devotions-lent               /   301
+/devotions-monday             /   301
+/news                         /   301
+/news/*                       /   301
+/news-notes                   /   301
+/news-notes/*                 /   301
+/reflections                  /   301
+/reflections/*                /   301
+/sacred-connections-podcast   /   301
+/sacred-connections-podcast/* /   301
+/home-stage                   /   301
+/home-wire                    /   301

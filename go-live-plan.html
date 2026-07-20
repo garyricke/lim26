@@ -113,9 +113,10 @@
   <div class="card">
     <p>The old Squarespace URLs (their page slugs) are what Google has indexed today. When those URLs change, we <b>301-redirect each old URL to its new page</b> so we don't lose ranking or send visitors to a 404.</p>
     <ul>
-      <li class="dec"><b>Need:</b> the list of current live URLs — pull from Google Search Console (or the old Squarespace sitemap). Gary maps each to the new page.</li>
-      <li>Implement as a Netlify <span class="ic">_redirects</span> file (e.g. <span class="ic">/old-donate-slug&nbsp;&nbsp;/donate.html&nbsp;&nbsp;301</span>) — added before launch once the old slugs are known.</li>
-      <li>Watch for redirect chains; each old URL should hit its new home in one hop.</li>
+      <li class="ok"><b>Done — Netlify <span class="ic">_redirects</span> file built from the old sitemap</b> (2,780 URLs). Renamed pages mapped (<span class="ic">/healing-wounds-of-trauma → /healing-groups.html</span>, <span class="ic">/events/* → /healing-groups.html</span>, <span class="ic">/ways-to-give → /donate.html</span>, <span class="ic">/partners → /about.html</span>, etc.).</li>
+      <li class="ok"><span class="ic">/about</span> and <span class="ic">/donate</span> resolve natively (same filename) — no rule needed; the canonical tag consolidates them.</li>
+      <li class="dec">The ~2,700 old <b>devotions / news / reflections / podcast</b> posts weren't migrated → they 301 to <b>home</b> (avoids dead links). If any are high-value, we can migrate + point-redirect them individually later.</li>
+      <li>Post-launch: confirm in Search Console that old URLs resolve in one hop (no chains) and watch the 404 report.</li>
     </ul>
   </div>
 
