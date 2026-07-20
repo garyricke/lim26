@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>LIM Check-In Agenda — Email Version (July 20, 2026)</title>
+<style>
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif;background:#f5f4f0;color:#282924;line-height:1.6;margin:0;padding:2rem 1rem 4rem}
+  .wrap{max-width:680px;margin:0 auto}
+  .bar{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;margin-bottom:1rem}
+  .copy{font:600 .9rem/1 -apple-system,system-ui,sans-serif;background:#ED1C24;color:#fff;border:none;border-radius:8px;padding:.7rem 1.15rem;cursor:pointer}
+  .copy:hover{background:#c8161d}
+  .copy.ok{background:#5f8a4f}
+  .hint{font-size:.82rem;color:#5a5a52}
+  .subject{font-size:.82rem;color:#5a5a52;margin:.25rem 0 1rem}
+  .subject b{color:#282924}
+  .email{background:#fff;border:1px solid #d9d6ce;border-radius:12px;padding:1.75rem 1.9rem;box-shadow:0 2px 10px rgba(0,0,0,.05)}
+  /* email body styles kept simple & inline-safe so they survive a paste */
+  #body p{margin:0 0 1rem}
+  #body h3{font-size:1rem;margin:1.5rem 0 .4rem;color:#282924}
+  #body ul{margin:.2rem 0 1rem;padding-left:1.25rem}
+  #body li{margin:.3rem 0}
+  #body a{color:#ED1C24}
+  #body .sig{color:#5a5a52}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="bar">
+    <button class="copy" id="copyBtn">Copy email</button>
+    <span class="hint">Click, then paste into a new email — formatting carries over.</span>
+  </div>
+  <p class="subject"><b>Suggested subject:</b> LIM website check-in — agenda for today (Mon 7/20, 12 PM CST)</p>
+
+  <div class="email">
+    <div id="body">
+      <p>Hi team,</p>
+
+      <p>Quick agenda for today's call. The short version: since our last check-in the site got <b>more launch-ready, not less.</b> The <b>on-site donation page is live</b> (donors give without leaving the site), the <b>first board bios and photos are in</b>, and Esther has been removed per Jaylene's note. Nothing on our side is blocking launch — so the real question for today is <b>what's our go-live date?</b></p>
+
+      <p>Live preview: <a href="https://lim2026.netlify.app">lim2026.netlify.app</a> (password: <b>LIM Hope</b>)</p>
+
+      <h3>1. What shipped since July 6</h3>
+      <ul>
+        <li><b>On-site donation page is live</b> — the giving form is now embedded right in our page instead of bouncing to the old site, and the amount + monthly choice a donor picks carries straight into the form so they never re-enter it.</li>
+        <li><b>First Board of Directors bios + photos are in</b> — Dan Kempin (Chairperson), Dick Baranzini, and Ted Kober, each with a photo and a "Read full bio" pop-up. The section is now titled Board of Directors.</li>
+        <li><b>Esther Cetina removed</b> (photo + bio) per your note.</li>
+        <li><b>Board photos rebuilt to studio quality</b> — the snapshots you sent were rebuilt onto the same backdrop as the staff photos and sized to match.</li>
+        <li><b>Jaylene's portrait updated</b> to the non-V-neck version, and all About images were moved off Squarespace ahead of its shutdown.</li>
+        <li><b>Session names simplified to the location</b> ("Fairbanks Healing Group," "Anchorage Healing Group," etc.) per our last call.</li>
+      </ul>
+
+      <h3>2. Decisions / inputs I need from you today</h3>
+      <ul>
+        <li><b>Go-live date</b> — the donation page works on-site; the only thing left is a $1 confirmation test I run, and it doesn't need to hold launch. Can we pick a date?</li>
+        <li><b>Board bios</b> — 3 of 6 are in with photos; the other three are listed as text. OK to launch with the mix and fill in the rest as they arrive?</li>
+        <li><b>Roberta's photo</b> — leave the current placeholder and swap post-launch when you have one you like?</li>
+        <li><b>Flyer generator</b> — want the first self-serve flyer templates in the admin tool before or after launch?</li>
+      </ul>
+
+      <h3>3. Board bios — the rolling process</h3>
+      <p>This is exactly what you flagged on July 6 — the Chair sending bios in as they come. Kempin, Baranzini, and Kober are done; Novitch, Peterson-Nyren, and Stauffer are listed as text and become photo cards the moment their bio + photo arrive. Same easy pipeline as the staff bios: email me the bio + photo and I drop it in. Good to have the board page looking complete-ish before the August board meeting.</p>
+
+      <h3>4. Still in motion (not launch blockers)</h3>
+      <ul>
+        <li><b>Feathr donation tracking</b> — everything's built on our side; still waiting on two small answers from John (Meyer). Feeds Robert's August fundraising report, so worth closing — a nudge from LIM may help.</li>
+        <li><b>Flyer generator</b> — Roberta's ask: build flyers from the admin tool (no more Canva). I'll bring a first example.</li>
+        <li><b>Google Ad Grant</b> — pursue after go-live ($10k/mo of free Search ads). Jaylene looking into Google for Nonprofits verification.</li>
+      </ul>
+
+      <p class="sig">See you at noon,<br>Gary</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  const btn = document.getElementById('copyBtn');
+  const body = document.getElementById('body');
+  btn.addEventListener('click', async () => {
+    try {
+      const html = body.innerHTML;
+      const text = body.innerText;
+      if (navigator.clipboard && window.ClipboardItem) {
+        await navigator.clipboard.write([new ClipboardItem({
+          'text/html': new Blob([html], {type:'text/html'}),
+          'text/plain': new Blob([text], {type:'text/plain'})
+        })]);
+      } else {
+        // fallback: select + execCommand
+        const range = document.createRange();
+        range.selectNodeContents(body);
+        const sel = window.getSelection();
+        sel.removeAllRanges(); sel.addRange(range);
+        document.execCommand('copy');
+        sel.removeAllRanges();
+      }
+      btn.textContent = 'Copied ✓'; btn.classList.add('ok');
+      setTimeout(() => { btn.textContent = 'Copy email'; btn.classList.remove('ok'); }, 2000);
+    } catch (e) {
+      btn.textContent = 'Press ⌘C to copy';
+    }
+  });
+</script>
+</body>
+</html>

@@ -152,7 +152,7 @@
     <span class="eyebrow">2026 Website Project</span>
     <h1 class="title">Build Status &amp; Accomplishments</h1>
     <p class="intro">Where the new Lutheran Indian Ministries website stands heading into go-live, with the full record of what's shipped and the action items coming out of the May 11 weekly check-in. Updated when changes land.</p>
-    <p class="updated">Last updated: <b>June 12, 2026</b> · Live preview: <a href="https://lim2026.netlify.app" target="_blank" rel="noopener">lim2026.netlify.app</a> · Events Manager: <a href="admin-events.html">admin-events.html</a> · Copy edits: <a href="client-edits-tracker.html">client-edits-tracker.html</a></p>
+    <p class="updated">Last updated: <b>July 20, 2026</b> · Live preview: <a href="https://lim2026.netlify.app" target="_blank" rel="noopener">lim2026.netlify.app</a> · Events Manager: <a href="admin-events.html">admin-events.html</a> · Copy edits: <a href="client-edits-tracker.html">client-edits-tracker.html</a> · Agendas: <a href="agendas.html">agendas.html</a></p>
   </div>
 
   <!-- Milestones -->
@@ -165,14 +165,14 @@
         <p class="ms-note">Achieved. Bucket A copy review applied, all healing-group sessions live, Jaylene bio + portrait wired in. Site reviewed end-to-end at the May 11 check-in.</p>
       </div>
       <div class="ms-card now">
-        <div class="ms-date">June 2026</div>
-        <div class="ms-label">Dev Tasks + Discussion</div>
-        <p class="ms-note">Gary working the May 11 action items (nav, event tool, SEO, devotion rebuilds). Team finishing internal reviews + yellow-flag copy decisions via shared Google Doc.</p>
+        <div class="ms-date">July 2026</div>
+        <div class="ms-label">Launch-Ready</div>
+        <p class="ms-note">Copy signed off, all staff bios done, donation giving live on-site, first board bios in. Nothing on our side is blocking launch — the remaining board bios and Feathr tracking roll in without holding the date.</p>
       </div>
       <div class="ms-card">
-        <div class="ms-date">On Sign-Off</div>
+        <div class="ms-date">Set the Date</div>
         <div class="ms-label">Go Live</div>
-        <p class="ms-note">Public launch once dev action items land and the discussion items are settled. Original June 1 target slipped to allow the copy/discussion cycle to finish.</p>
+        <p class="ms-note">One decision left: pick the launch date. Gary runs a $1 confirmation gift at cutover (not a blocker), keeps the old site as fallback, then submits the new site to Google. Proposed at the July 20 check-in.</p>
       </div>
     </div>
   </div>
@@ -186,7 +186,57 @@
   <!-- Timeline -->
   <div class="sect">
     <h2>Recent Accomplishments</h2>
-    <span class="meta">Newest first · 81 commits since March 16</span>
+    <span class="meta">Newest first · 87 commits since March 16</span>
+  </div>
+
+  <!-- July 20 — Board of Directors bios + photos; Esther removed -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 20, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Board of Directors added (bios + photos); Esther removed</div>
+      <ul>
+        <li><strong>First 3 board members live</strong> — <strong>Rev. Dan Kempin (Chairperson)</strong>, <strong>Richard "Dick" Baranzini</strong>, and <strong>Ted Kober, D. Litt.</strong> — each a photo card with a short blurb + full "Read full bio" modal, written from the bios the Chair sent (per Jaylene's July 6 heads-up). Section renamed <strong>Board of Directors</strong></li>
+        <li><strong>Photos rebuilt to studio quality</strong> — the supplied images (a phone selfie, a tilted uniform scan, a low-res headshot) were rebuilt onto the <strong>same warm backdrop as the staff portraits</strong> and head-size-matched so the board grid reads as one set (hosted on Cloudinary)</li>
+        <li>The remaining three (Novitch, Peterson-Nyren, Stauffer) stay as a <strong>centered text list</strong> below the photo cards — they become photo cards as their bio + photo arrive</li>
+        <li><strong>Esther Cetina removed</strong> (card + bio modal) per Jaylene's note — she resigned</li>
+        <li>All verified live on <a href="about.html" class="ic">about.html</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- July 20 — Check-in agendas archive -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 20, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Check-in agendas archive + July 20 agenda</div>
+      <ul>
+        <li>Built a durable <a href="agendas.html" class="ic">Check-In Agendas</a> archive that lists every meeting's agenda (June 22 · July 6 · July 20) with links to the page and the copy-paste email version — so we keep a running record instead of overwriting one file</li>
+        <li>The <strong>Admin menu now links to the archive permanently</strong> (was hardcoded to a single dated agenda), so nothing needs re-pointing each meeting</li>
+        <li>Prepared the <a href="plan/checkin-agenda-2026-07-20.html" class="ic">July 20 agenda</a> from the July 6 call: on-site donation live, board bios rolling in, flyer generator (Roberta's ask), and the open go-live date</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- July 6 — On-site donation page + Squarespace migration + Jaylene photo -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 6, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">On-site donation page live; images off Squarespace; Jaylene photo updated</div>
+      <ul>
+        <li><strong>Donation now gives on-site</strong> — new <a href="donate.html" class="ic">donate.html</a> embeds the Blackbaud Online Express form <em>in the page</em> (fixed the <span class="ic">bb$ is not defined</span> error by using Blackbaud's <span class="ic">bboxInit</span> pattern instead of calling <span class="ic">showForm</span> on click). The index/about donate pop-ups hand off to it <strong>carrying the chosen amount + monthly frequency</strong>, so donors never re-enter them</li>
+        <li><strong>All 7 About images migrated off Squarespace</strong> to Cloudinary ahead of the Squarespace shutdown — no page hotlinks <span class="ic">images.squarespace-cdn.com</span> anymore</li>
+        <li><strong>Jaylene's portrait</strong> updated to the non-V-neck (crew-neck) version she asked for on the call (<span class="ic">team-jaylene-v6</span>)</li>
+      </ul>
+    </div>
   </div>
 
   <!-- July 6 — June 25 review notes applied (Roberta & Jaylene) -->
