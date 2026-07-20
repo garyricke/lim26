@@ -139,6 +139,9 @@
         var l = root.querySelector('.loading');
         if (l) l.remove();
         obs.disconnect();
+        // Drop the reserved min-height now that real content is in — otherwise the
+        // short post-gift "thank you" screen leaves ~1100px of empty white space.
+        root.style.minHeight = '0';
         bboxApplySelection();
       }
     });
