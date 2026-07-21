@@ -189,6 +189,23 @@
     <span class="meta">Newest first · 87 commits since March 16</span>
   </div>
 
+  <!-- July 21 — GTM + cookie consent -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 21, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Feathr/ad tracking carried to the new site (GTM) + cookie-consent banner</div>
+      <ul>
+        <li><strong>Why:</strong> Feathr (via Meyer) built the donation-conversion tag in LIM's GTM container (<span class="ic">GTM-TD3Z4XNG</span>) — it collects name/email/location + <strong>donation amount</strong> (ROAS). But that container lived only on the old Squarespace site; the new site didn't have it, so tracking would have gone dark at go-live.</li>
+        <li>Installed the <strong>GTM container on all 8 public pages</strong> (home, about, healing-groups, donate, bible-in-a-year, 3 blogs) so Feathr's conversion tag rides along — it fires on the new <span class="ic">donate.html</span> (same Blackbaud form)</li>
+        <li><strong>Cookie-consent gate (best practice):</strong> GTM loads <strong>only after the visitor clicks Accept</strong> — no analytics/ad cookies fire before consent. Decline = no tracking, full site still works. Choice is remembered; a subtle "Cookie preferences" link lets them change it. Verified in-browser.</li>
+        <li class="todo">Post-launch: confirm with John/Feathr that a test gift on the new /donate registers a conversion; consider adding a Privacy Policy page (the banner references cookies)</li>
+      </ul>
+    </div>
+  </div>
+
   <!-- July 20 — Bible In A Year -->
   <div class="entry">
     <div class="entry-head">
