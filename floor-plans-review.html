@@ -39,6 +39,16 @@
     .plan-head h2{font-family:var(--serif);font-size:1.25rem;color:var(--charcoal)}
     .plan-head .sf{font-family:var(--cond);font-size:.95rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--sage-d)}
     .plan img{display:block;width:100%;height:auto;background:#fff}
+    .cmp-sect{margin-top:3.5rem}
+    .cmp-title{font-family:var(--serif);font-size:1.25rem;color:var(--charcoal);margin-bottom:.35rem}
+    .cmp-lead{font-size:.9rem;color:var(--muted);margin-bottom:1.25rem}
+    .cmp{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem}
+    @media(max-width:680px){.cmp{grid-template-columns:1fr}}
+    .cmp figure{margin:0;background:#fff;border:1px solid var(--border);border-radius:var(--rl);overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.05)}
+    .cmp figcaption{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:.7rem 1.1rem;border-bottom:1px solid var(--border)}
+    .cmp .cap-before{background:var(--stone);color:var(--muted)}
+    .cmp .cap-after{background:var(--charcoal);color:var(--yellow)}
+    .cmp img{display:block;width:100%;height:auto;background:#fff}
     .foot{margin-top:3rem;padding-top:1.5rem;border-top:2px solid var(--border);font-size:.85rem;color:var(--muted)}
     .addr{font-family:var(--cond);letter-spacing:.05em;text-transform:uppercase;font-weight:600;color:var(--charcoal)}
   </style>
@@ -64,6 +74,36 @@
   <div class="plan">
     <div class="plan-head"><h2>Second Floor</h2><span class="sf">+/- 2,750 SF</span></div>
     <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_1400/v1784745814/lim2026/floorplan-15350-second.png" alt="Second floor plan — 15350 W Capitol Drive">
+  </div>
+
+  <div class="cmp-sect">
+    <h2 class="cmp-title">First Floor — Original vs. Redraw</h2>
+    <p class="cmp-lead">The original construction drawing alongside the cleaned marketing version.</p>
+    <div class="cmp">
+      <figure>
+        <figcaption class="cap-before">Original Drawing</figcaption>
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_1000/v1784746090/lim2026/floorplan-15350-first-scan.jpg" alt="First floor — original construction drawing">
+      </figure>
+      <figure>
+        <figcaption class="cap-after">Cleaned Redraw</figcaption>
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_1000/v1784745813/lim2026/floorplan-15350-first.png" alt="First floor — cleaned redraw">
+      </figure>
+    </div>
+  </div>
+
+  <div class="cmp-sect">
+    <h2 class="cmp-title">Second Floor — Original vs. Redraw</h2>
+    <p class="cmp-lead">The original construction drawing alongside the cleaned marketing version.</p>
+    <div class="cmp">
+      <figure>
+        <figcaption class="cap-before">Original Drawing</figcaption>
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_1000/v1784746091/lim2026/floorplan-15350-second-scan.jpg" alt="Second floor — original construction drawing">
+      </figure>
+      <figure>
+        <figcaption class="cap-after">Cleaned Redraw</figcaption>
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_1000/v1784745814/lim2026/floorplan-15350-second.png" alt="Second floor — cleaned redraw">
+      </figure>
+    </div>
   </div>
 
   <div class="foot">
