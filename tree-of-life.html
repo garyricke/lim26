@@ -51,9 +51,10 @@
 
   /* Hero */
   .hero{position:relative;background:var(--charcoal);color:#fff;padding:6.5rem 0 6rem;overflow:hidden}
-  .hero-bg{position:absolute;inset:0;background-image:url('https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_center,w_1800,h_950/lim2026/history-tipi-night');background-size:cover;background-position:center 62%}
-  /* Left-weighted scrim keeps the copy readable and lets the tipi breathe on the right */
-  .hero::after{content:'';position:absolute;inset:0;background:linear-gradient(100deg,rgba(26,26,22,.93) 0%,rgba(26,26,22,.86) 34%,rgba(26,26,22,.45) 62%,rgba(26,26,22,.28) 100%);pointer-events:none}
+  /* g_south keeps the lit tipi in frame; the source is portrait so a centred crop lands on dark sky */
+  .hero-bg{position:absolute;inset:0;background-image:url('https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_south,w_2000,h_900/lim2026/history-tipi-night');background-size:cover;background-position:68% bottom}
+  /* Left-weighted scrim keeps the copy readable and lets the tipi glow through on the right */
+  .hero::after{content:'';position:absolute;inset:0;background:linear-gradient(100deg,rgba(26,26,22,.92) 0%,rgba(26,26,22,.8) 30%,rgba(26,26,22,.42) 55%,rgba(26,26,22,.12) 100%);pointer-events:none}
   .hero .wrap{position:relative;z-index:1}
   @media(max-width:860px){
     .hero{padding:4.5rem 0 4rem}
