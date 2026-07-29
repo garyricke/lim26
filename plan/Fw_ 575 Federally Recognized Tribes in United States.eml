@@ -1,0 +1,425 @@
+Delivered-To: gary.ricke@orbisdesign.com
+Received: by 2002:ac4:99b6:0:b0:77b:37b9:ab10 with SMTP id bb54csp650944pib;
+        Tue, 14 Apr 2026 13:15:24 -0700 (PDT)
+X-Received: by 2002:a05:6a20:3d87:b0:39f:2c96:e0e0 with SMTP id adf61e73a8af0-39fe3dddb84mr19946269637.27.1776197724482;
+        Tue, 14 Apr 2026 13:15:24 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1776197724; cv=pass;
+        d=google.com; s=arc-20240605;
+        b=ht6zjZklRXm8gRHFWO0hQbVj36stXy/eYttIEfGBWtaFKFnnW9xTS15JYT6BncSn4T
+         j7wp6t3ENI4fYc8VbWOq22i3QcFPlguZFSgOb369LYe0cI6pbjAdRDqf1Zg/NA6B9pye
+         innpdM7+HR6GRAC6VUVkivDL3cYhx/I/uga96q2u0P3qm3/bZb68k1jbrP83EV9motf2
+         ZTDM+AKbOJDI0tkWpze5mst2zigIDjJc3iQzFWM4/nMG4wTuWccBdvwlyPwjs4PiGbeN
+         FUoKeECkLY1biRcm+aY3Qxajn6pSLY3X3S4NTnhuW6pM4XCkbeQl5GPOPRcRSK7evfBE
+         iovg==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=mime-version:msip_labels:content-language:accept-language
+         :in-reply-to:references:message-id:date:thread-index:thread-topic
+         :subject:to:from:dkim-signature;
+        bh=3G0p0qCYL51OJs5P0wryAFTiBirjGboyVthM44K03gU=;
+        fh=nvBYNFLm4Acjz9LgAG+u/Z/ZHSgtC8Wa7H6livQ+HSM=;
+        b=KHtn6EHzi8FjTFsXGQ+oDjQwyGOVXIr+YpiHyDj47u2VWx7n5yaYE0oyQHA4sFJfiN
+         Mtc+yS92h2EcUpnmalwhWWecKB4vhI2SkJDEDPDGfQh9EkD98Af/ofI3vO0WrFDnG4O5
+         bVSvmheRHxRvevP30WiF9VmwE1owAXo1gSxrjVzHe2yw05LPWTAgvgTwqtVt0CI/8vQ1
+         6oPPZx/yHW7QCJI6CapMJVB7b3Fl1WdWp93p96rzZ4uxUmG7j+vzlPHbez5ezujXoU+s
+         fKBti5mNuQ5CitkoIdX0/sePaO+vEeLP+sxN8+s0yWZQ4S+jHm7SEaiVHP+BEO3og1GR
+         p5gA==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@lutheranindianministries.onmicrosoft.com header.s=selector2-lutheranindianministries-onmicrosoft-com header.b=PWsp0v7e;
+       arc=pass (i=1 spf=pass spfdomain=lutheranindianministries.org dkim=pass dkdomain=lutheranindianministries.org dmarc=pass fromdomain=lutheranindianministries.org);
+       spf=pass (google.com: domain of jpnyren@lutheranindianministries.org designates 2a01:111:f403:c111::9 as permitted sender) smtp.mailfrom=jpnyren@lutheranindianministries.org
+Return-Path: <jpnyren@lutheranindianministries.org>
+Received: from DM5PR21CU001.outbound.protection.outlook.com (mail-centralusazlp170110009.outbound.protection.outlook.com. [2a01:111:f403:c111::9])
+        by mx.google.com with ESMTPS id 41be03b00d2f7-c792a06c8bcsi21768484a12.242.2026.04.14.13.15.24
+        for <gary.ricke@orbisdesign.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Tue, 14 Apr 2026 13:15:24 -0700 (PDT)
+Received-SPF: pass (google.com: domain of jpnyren@lutheranindianministries.org designates 2a01:111:f403:c111::9 as permitted sender) client-ip=2a01:111:f403:c111::9;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@lutheranindianministries.onmicrosoft.com header.s=selector2-lutheranindianministries-onmicrosoft-com header.b=PWsp0v7e;
+       arc=pass (i=1 spf=pass spfdomain=lutheranindianministries.org dkim=pass dkdomain=lutheranindianministries.org dmarc=pass fromdomain=lutheranindianministries.org);
+       spf=pass (google.com: domain of jpnyren@lutheranindianministries.org designates 2a01:111:f403:c111::9 as permitted sender) smtp.mailfrom=jpnyren@lutheranindianministries.org
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=KIo6zUT0GWMxdr2Q6WoFl6YcTOVsByweRnTV1xbQ2mBzvIo4llzQQ7JbZo9lKBgjc7hq9hVRKUvihoMwMbn7DHPh9f1xNT9SfyDRVznc1gXYpLLBgDRD4zBYK8bEJIgA+Y7Y7tLWXdUUqm70NBJhI/bVfaTdDYveIEhsl2rYSr71QbNPL2kusfpwlKNxv0hktisiBhZ2XJ8A/W77btB73HOrgPHlnKTm0RLZp6bdf+MrJwmBwtvbWo3tU5w+XMByop8zgQIkIvueRiQNmyBxkIv0xl6KI6M7lZWxYvvKpDFnFqPz3GzbWuE94zmaUIW+c8slcqyGNxjXBF8CE72qFw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=3G0p0qCYL51OJs5P0wryAFTiBirjGboyVthM44K03gU=;
+ b=RORrPhZqpkQdZmHwa2ZmuMVSNCRNY4Vlp1ui6imkA7IQ9+eXP496KvTETYdfM3Er8wucMd1pJbtV3DZe+MxLCGNvxEDx7c+6O8byxDmdJnotpwdBq5rS0F4V938GDBJdXgYOxQKHhLBlMu2CG0Z6N+2eWYL+xFXsGl13z6HrMtEqtMPW9jvPGSp+K2EY6HUHEbG2KcyMaT8Nr4iHdcneI/oYiYpcGNzQTmaZRB7QVA/GgJqJ8sfFEx3TG7YU7Sp0oJv9VWOmGQMUcF9t9O8usaUgXautcBr6tnojIfncP888m9xiFrA7u4+HVfAm+xkz+FbcwX48ajromqyzdGcaSw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=lutheranindianministries.org; dmarc=pass action=none
+ header.from=lutheranindianministries.org; dkim=pass
+ header.d=lutheranindianministries.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=lutheranindianministries.onmicrosoft.com;
+ s=selector2-lutheranindianministries-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=3G0p0qCYL51OJs5P0wryAFTiBirjGboyVthM44K03gU=;
+ b=PWsp0v7eDkb/FQuiaijXPNCZKBx1WnvJ8SfzcTTCHhLd8n26SwcXYgFND8td+xL9eO77AetKrw77i9M0qP+/CvguaHwIAP4LQOf9ta+65ahTNi/r3DLOiupx56IRjNLzaeN+3Fye51Ka1vkV07HliefIWX55NhrlQUVuolg9e8Q=
+Received: from MN6PR17MB6921.namprd17.prod.outlook.com (2603:10b6:208:46f::15)
+ by SA1PR17MB6526.namprd17.prod.outlook.com (2603:10b6:806:33c::18) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9769.48; Tue, 14 Apr
+ 2026 20:15:18 +0000
+Received: from MN6PR17MB6921.namprd17.prod.outlook.com
+ ([fe80::5c0d:cc0a:9aa2:d74b]) by MN6PR17MB6921.namprd17.prod.outlook.com
+ ([fe80::5c0d:cc0a:9aa2:d74b%5]) with mapi id 15.20.9769.046; Tue, 14 Apr 2026
+ 20:15:18 +0000
+From: Jaylene Peterson-Nyren <jpnyren@lutheranindianministries.org>
+To: Gary Ricke <gary.ricke@orbisdesign.com>
+Subject: Fw: 575 Federally Recognized Tribes in United States
+Thread-Topic: 575 Federally Recognized Tribes in United States
+Thread-Index: AQHcx8hxXa8Q9VOyvESzbjXf5xYh67XWF2EggAju/4k=
+Date: Tue, 14 Apr 2026 20:15:17 +0000
+Message-ID:
+ <MN6PR17MB6921B91630FBA13DD6522055CB252@MN6PR17MB6921.namprd17.prod.outlook.com>
+References:
+ <MN6PR17MB69216BC383BD7C4C65D44C20CB582@MN6PR17MB6921.namprd17.prod.outlook.com>
+ <SA0PR17MB4300F42304E501B07F560AD3C9582@SA0PR17MB4300.namprd17.prod.outlook.com>
+In-Reply-To:
+ <SA0PR17MB4300F42304E501B07F560AD3C9582@SA0PR17MB4300.namprd17.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+msip_labels:
+authentication-results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none
+ header.from=lutheranindianministries.org;
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: MN6PR17MB6921:EE_|SA1PR17MB6526:EE_
+x-ms-office365-filtering-correlation-id: 0a70c005-b9ca-4827-6528-08de9a628c09
+x-ipw-groupmember: False
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam:
+ BCL:0;ARA:13230040|376014|366016|1800799024|38070700021|13003099007|56012099003|22082099003|18002099003|8096899003;
+x-microsoft-antispam-message-info:
+ g+itPOQxLme6isg1ZWN5YV0HKfPUoRDtjuHgTNg+HhVxxv5YldN6g2IZ42qnWKqEgsDoLuT6K3uje+a3S9dp1kB3rHzClP/QqJqmvrohEqS5QGyXniN9WL2pgb9vGE/PT7uy2p0JiwdlxQQZU6n06hyiAMYKLICNyGmjO1qmcMOHePJt5sTfFcG0j2AjfQHMn0v9AOQPaTNyiaHnJBwIMoGI3JPERmhg5QynvBFdpe2/3HQI9DkvGaBXvaU5vk6FRALAaPecSKjIHWVmtzFxqmoRiB+oQRjvS02d7ihNu3Y5kEnEwp+Qxp9GOpbfrc16SH54W4BHAmmjlcu0EfLxC2mevF/sz6fDWT+aqVZ9ngpEKCecUa+m7yKWuN6D9kXler2ID4DEWQJ4zqoQkEPNct8yGsMcByJZi5Ah7/OaDZiUV2jei2/5D7eU3XjTpDxgsSNlInpcspM90u5dfINLrfwL/EqmIUxcYM7aV4oKSQewKVGVhfUYCQdw283+L4N7vkwgchblG5qutlsSLxQb9xqkR4DGmslcuKcM20bJpNCwgmiofMLysWL3r2WGgUSEwEp9i2OQij5obycDoIbuCV+P7IlWhnkkSbLybJYy0U0zYRW5eHCZgx4xR19Yc7doAyuMbqRNFRGI/kmkZg0lzFngwKM+DbNwqChRvIvEaoe3pNO8lcBOjOImTH5qhsox6PWf2Xr+ECy1gw7BUP0A6lhT3kjeODM+8SNX+2jyl1nso3WK3puwxrdTFLlbfYGK
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:MN6PR17MB6921.namprd17.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(376014)(366016)(1800799024)(38070700021)(13003099007)(56012099003)(22082099003)(18002099003)(8096899003);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?8z9pR5L1Cxf8MpUXZbcHJaPbAE5zSUhv8POGZfrDPNLpF51j+u6QVboJMQvF?=
+ =?us-ascii?Q?7rH1RjdEinAdcz/4E07up+Q+HIc14KQgUbRU/yi6+I0+yt4FUPk3YIBSnyCA?=
+ =?us-ascii?Q?Qn4XqbHW9RPCmcgJkTncoLi451ecAgXmhUttVE+6R12P7DLpvprwh1NCJoXs?=
+ =?us-ascii?Q?n45/LHB5OBwITIQ9/TDVTKUYFSxKI+0SFN58+BrbTWnbgT5j2PHDV/+9Bxki?=
+ =?us-ascii?Q?8Bbr3chXmqMv4Xr3j3slCxCNspX1egxz1PQ7yErlFrOIfQBgW9Oj2rhZlK6G?=
+ =?us-ascii?Q?YwLFg3CyzZhRZ+wmfbsIE9eGicwjjBeJ7rVZpivZQ3SRkAIiwT18Jfj6fE97?=
+ =?us-ascii?Q?XpDNxykzDSZbfZ2/esysvDUCgU6/+0YZMefXaCmM3AhcFXylCtDItV496BcW?=
+ =?us-ascii?Q?2ZSfltF0PCsb+Q62QQAWesxe98Sw2MK7hJe2mbwWIke+IelKNk8jtD4qiAbE?=
+ =?us-ascii?Q?597h1qd4XKG2npgNAOzhi5YqEHqgZ8Jimy+6ExV7sKb2lPYCEc/Z3CQ+BiQf?=
+ =?us-ascii?Q?xU5VvVCUJf7TGqshyqpj/ywZhwaVy+a2EHORm8gmVu2q4C9gYC5l6kB+6ett?=
+ =?us-ascii?Q?+lGskBuBUHtzqjC6PXWkToDl1Kgxj0ifpeRPrxNJeR4GDJ9iAOPkKsf+CB5l?=
+ =?us-ascii?Q?07BI4aLLkps6SqxlXDppzVfWRL1YGgZRAaxvD9NpuLKlp6LTZJe966McYOU0?=
+ =?us-ascii?Q?t2wnB+iDRps0aw8t7K8Ck0lZu81z6qLZdUVszF12uCfI1hrCXpciwO+z9B5F?=
+ =?us-ascii?Q?1/UikvyQbGtPDQVs2D2+oWC/DM74z7KBpBc0JRnjoqbdsZAqMA8ebtQ5MsfO?=
+ =?us-ascii?Q?KfQp6fU7hYjzOBNA6GHYI4OSt9DdMs4vxLAtkRfhxvlF8x59bvDgQ/T4PMj2?=
+ =?us-ascii?Q?E25IKJ0/LzWKzJ9aSsxbPrqXXRKxhmAuudOKX61oWJ5qs5p4t4X+DGQvjOTN?=
+ =?us-ascii?Q?De+R3KKoe85dtKmskpGV+tRSbNgDLwHAd5OgbrIRxQ6LUWLyj7cywuj17r/Q?=
+ =?us-ascii?Q?DaknxFYl/TVMJj1rrPFwVTZl7WlnMb7Z8e17w5IixhBmsychnWo6NgAS85oE?=
+ =?us-ascii?Q?rjbjfDByyVNgHnkK84Tv5w+tv5HVIcyxAgcjKi6tQwagScqBEbUpiUN3zhj9?=
+ =?us-ascii?Q?FKYYoqgdaY02GshwZUl9Lfuo1ZKygxjdP8rhVgI3mPO+vBCcEFyIgfY38S88?=
+ =?us-ascii?Q?y+dja7YyL1vjIES2XTT1pRWOfompb14XYkXh79aPsVfDHQVZlwUmgyQkio3s?=
+ =?us-ascii?Q?mFzwuiYBE9Shf01x3wyNGYh9mAmt4A71r1qmtY2+/LUowW+nqHOVwqHeKnOm?=
+ =?us-ascii?Q?OxJ5Qa0JVn1dEc0NuzlsE7+6iMxaSBQWFaJmg/e3vxEoahHwf0i8pNeE/7ZK?=
+ =?us-ascii?Q?w6BNfDN4ZNVBUJKTaWbCMOgewl/E1b2+LOwHS2cfuZd+K7LM8PC3OPTOE0mb?=
+ =?us-ascii?Q?7zhbrVRBe3g6dqxLVhriknKoM8Q/BbJdCrMeaIo2b3gtTM1rybM6Pq0GiPW2?=
+ =?us-ascii?Q?HzAOTclsYLN54kvFGsYCB/GDpbYOaKiNg4QU11eq72P71431ZVnNXX3I40Eh?=
+ =?us-ascii?Q?VxtTCLPTCvOhLbeJBtW+4/31GouDwvATG5Fmrq+/U5vnR2+eIBDRDRn3tz/k?=
+ =?us-ascii?Q?Bgn91jPDNnVkjD7RcIlM6hho/QJH6/9lQmQfQhq2q9uOnQJS3PiaRdhdN1md?=
+ =?us-ascii?Q?w4jynet6MXl0H2TvV3r1vQ4ZeNGazJ9FCi6SRaULLwkTYKjafdDDBI/UdHVm?=
+ =?us-ascii?Q?hCyhFPXpbgsgJU5uqhckS1v7rHB5BgYKerksP9nNdriI03euf9l4?=
+Content-Type: multipart/alternative;
+	boundary="_000_MN6PR17MB6921B91630FBA13DD6522055CB252MN6PR17MB6921namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: lutheranindianministries.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: MN6PR17MB6921.namprd17.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 0a70c005-b9ca-4827-6528-08de9a628c09
+X-MS-Exchange-CrossTenant-originalarrivaltime: 14 Apr 2026 20:15:17.9925
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8c59f51a-3036-46c6-a73c-6c27c7794739
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: 1uC68MGTevnCbhx0iJFrAZMxbX1fRkpxuBa6wpUGK4hbNxS5gaZUm7c0Bl7ReRItInlvpcBNkJpYHwI3Bp0BG/6tqzy683wEriRdYkRm+oIyN2Bd8WxY8tM6uPHlv1eT
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SA1PR17MB6526
+
+--_000_MN6PR17MB6921B91630FBA13DD6522055CB252MN6PR17MB6921namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Gary -
+
+The number of tribes in the US has changed to 575, with the addition of one=
+ in 2026 according to the Federal Register.  Can you update the web page we=
+ are working on to reflect this?
+
+Great to get to know more about the process of video making yesterday - and=
+ I appreciate the amazing work you are doing on the new website!
+
+Respectfully,
+
+Jaylene Peterson-Nyren, MBA
+Director of Operations
+Lutheran Indian Ministries
+jpnyren@lutheranindianministries.org
+
+________________________________
+From: Robert Heffle <rheffle@lutheranindianministries.org>
+Sent: Wednesday, April 8, 2026 7:47 PM
+To: Jaylene Peterson-Nyren <jpnyren@lutheranindianministries.org>
+Subject: RE: 575 Federally Recognized Tribes in United States
+
+
+Hi,
+
+
+
+Thanks for looking into this, and yes, I would agree that this would be gre=
+at information for onboarding new members.
+
+
+
+Robert
+
+
+
+From: Jaylene Peterson-Nyren <jpnyren@lutheranindianministries.org>
+Sent: Wednesday, April 8, 2026 6:34 PM
+To: Robert Heffle <rheffle@lutheranindianministries.org>
+Subject: 575 Federally Recognized Tribes in United States
+
+
+
+Robert -
+
+
+
+According to the Federal Register, as noticed by the BIA on January 30, 202=
+6, there are a total of 575 Federally Recognized Tribes in the United State=
+s.
+
+
+
+The link below takes you to the Federal Register where you can also see the=
+ full list broken down by the 'lower 48' and Alaska.  This may be a good ar=
+ea to cover for Board Training/Onboarding in future as well.
+
+
+
+https://www.federalregister.gov/documents/2026/01/30/2026-01899/indian-enti=
+ties-recognized-by-and-eligible-to-receive-services-from-the-united-states-=
+bureau-of
+
+
+
+Jaylene Peterson-Nyren, MBA
+
+Director of Operations
+
+Lutheran Indian Ministries
+
+jpnyren@lutheranindianministries.org<mailto:jpnyren@lutheranindianministrie=
+s.org>
+
+
+
+--_000_MN6PR17MB6921B91630FBA13DD6522055CB252MN6PR17MB6921namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Hi Gary -</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+The number of tribes in the US has changed to 575, with the addition of one=
+ in 2026 according to the Federal Register.&nbsp; Can you update the web pa=
+ge we are working on to reflect this?&nbsp;&nbsp;</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Great to get to know more about the process of video making yesterday - and=
+ I appreciate the amazing work you are doing on the new website!</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Respectfully,</div>
+<div id=3D"Signature" class=3D"elementToProof">
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Jaylene Peterson-Nyren, MBA</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Director of Operations</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Lutheran Indian Ministries</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+jpnyren@lutheranindianministries.org</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+</div>
+<div id=3D"appendonsend"></div>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>From:</b> Robert Heffle &lt;rhe=
+ffle@lutheranindianministries.org&gt;<br>
+<b>Sent:</b> Wednesday, April 8, 2026 7:47 PM<br>
+<b>To:</b> Jaylene Peterson-Nyren &lt;jpnyren@lutheranindianministries.org&=
+gt;<br>
+<b>Subject:</b> RE: 575 Federally Recognized Tribes in United States</font>
+<div>&nbsp;</div>
+</div>
+<style>
+<!--
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:Aptos}
+p.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal
+	{margin:0in;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif}
+a:link, span.x_MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+span.x_EmailStyle20
+	{font-family:"Aptos",sans-serif;
+	color:windowtext}
+.x_MsoChpDefault
+	{font-size:10.0pt}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.x_WordSection1
+	{}
+-->
+</style>
+<div lang=3D"EN-US" link=3D"blue" vlink=3D"purple" style=3D"word-wrap:break=
+-word">
+<div class=3D"x_WordSection1">
+<p class=3D"x_MsoNormal">Hi,</p>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<p class=3D"x_MsoNormal">Thanks for looking into this, and yes, I would agr=
+ee that this would be great information for onboarding new members.</p>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<p class=3D"x_MsoNormal">Robert</p>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<div>
+<div style=3D"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0i=
+n 0in 0in">
+<p class=3D"x_MsoNormal"><b><span style=3D"font-size:11.0pt; font-family:&q=
+uot;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0=
+pt; font-family:&quot;Calibri&quot;,sans-serif"> Jaylene Peterson-Nyren &lt=
+;jpnyren@lutheranindianministries.org&gt;
+<br>
+<b>Sent:</b> Wednesday, April 8, 2026 6:34 PM<br>
+<b>To:</b> Robert Heffle &lt;rheffle@lutheranindianministries.org&gt;<br>
+<b>Subject:</b> 575 Federally Recognized Tribes in United States</span></p>
+</div>
+</div>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">Robert -&nbsp;</span><=
+/p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">According to the Feder=
+al Register, as noticed by the BIA on January 30, 2026, there are a total o=
+f 575 Federally Recognized Tribes in the United States.&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">The link below takes y=
+ou to the Federal Register where you can also see the full list broken down=
+ by the 'lower 48' and Alaska.&nbsp; This may be a good area to cover for B=
+oard Training/Onboarding in future as well.&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black"><a href=3D"https://www=
+.federalregister.gov/documents/2026/01/30/2026-01899/indian-entities-recogn=
+ized-by-and-eligible-to-receive-services-from-the-united-states-bureau-of">=
+https://www.federalregister.gov/documents/2026/01/30/2026-01899/indian-enti=
+ties-recognized-by-and-eligible-to-receive-services-from-the-united-states-=
+bureau-of</a></span></p>
+</div>
+<div id=3D"x_Signature">
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">Jaylene Peterson-Nyren=
+, MBA</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">Director of Operations=
+</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">Lutheran Indian Minist=
+ries</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black"><a href=3D"mailto:jpny=
+ren@lutheranindianministries.org">jpnyren@lutheranindianministries.org</a><=
+/span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal"><span style=3D"color:black">&nbsp;</span></p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_MN6PR17MB6921B91630FBA13DD6522055CB252MN6PR17MB6921namp_--

@@ -1,0 +1,227 @@
+Delivered-To: gary.ricke@orbisdesign.com
+Received: by 2002:ac4:c9cf:0:b0:786:5ee:55ee with SMTP id b15csp1014645pin;
+        Thu, 28 May 2026 09:41:40 -0700 (PDT)
+X-Received: by 2002:a05:690c:6102:b0:7db:d730:4b97 with SMTP id 00721157ae682-7dbd7304d62mr65253977b3.29.1779986499805;
+        Thu, 28 May 2026 09:41:39 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1779986499; cv=pass;
+        d=google.com; s=arc-20240605;
+        b=KUfv6OJPgw7wHn5eFhGt92nvcZHNSc+u0mKPSSZTfYJ3ssT2M/12K5anO0lnFx4no2
+         TnCmeDKT2XyWJ4WHN/W2wvYslNTNrvv8JWB4WnZpX4u1FY3g4i/EMQW1YMqbxMYsirZp
+         +xqr1PaP7LtGUVGHt7aMaWQSRL9MmfP/j1qaNP0KwgolZWhRwcLVYTZsbRePgrEAgCQ2
+         KRi7yM1e+sYKXmua7fNzbV2PqWjVAf4fk49UEF2m/uREJ/fD9Gw9mnvSCurVhs27RD1A
+         dLEL5LKUk69kUUTr3dRw/ufIYWwb3jo+jFdaeYEDMJy40kErjf53Z1yXogi2Twk9NLX+
+         J/qQ==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=mime-version:content-language:accept-language:message-id:date
+         :thread-index:thread-topic:subject:cc:to:from:dkim-signature;
+        bh=SpzMmA4mQ44BvXwlfZkMDELa8o1dMJ9iAAfknNkNCZc=;
+        fh=KNYUdA/OkKiKPmVIIGVwX2RQODJFLBvAZ04WwxjxswQ=;
+        b=dFKZcUsOI1NOgCY5SEbKaJXgXDCj46hAvJdfM8saJziVsZj/SFS9sHXA2vb+FU7+f1
+         UAA/sEF5vnGlMH+C59R/CW+0R2Yb2uKMw44Q3UxnJ7SttywOHlgK3R+g/Z7ncGdzBPdi
+         X4PiMZrGS0Wgkirisd2mqDt4u7dqbtzzn0zt5LzMHQ2JB0vk7Tyn0j0tc5HUiq5YXf7A
+         TPaxGJOdXFZiUgnG6RMp6tLRrQv+KIFeMwPE/Su7OCLtGcm7RhhqLu1hkpnEMbJAoR+N
+         wSBSW+1XIpnXoFB8bPCIWXEEFqVzxhTk9VD7T4tTMLVVXNnuj33vgV+1+dZROO6gN5/b
+         g5vQ==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@lutheranindianministries.onmicrosoft.com header.s=selector2-lutheranindianministries-onmicrosoft-com header.b=Mj3tjEIY;
+       arc=pass (i=1 spf=pass spfdomain=lutheranindianministries.org dkim=pass dkdomain=lutheranindianministries.org dmarc=pass fromdomain=lutheranindianministries.org);
+       spf=pass (google.com: domain of rheffle@lutheranindianministries.org designates 2a01:111:f403:c100::f as permitted sender) smtp.mailfrom=rheffle@lutheranindianministries.org
+Return-Path: <rheffle@lutheranindianministries.org>
+Received: from BL2PR02CU003.outbound.protection.outlook.com (mail-eastusazlp17011000f.outbound.protection.outlook.com. [2a01:111:f403:c100::f])
+        by mx.google.com with ESMTPS id 00721157ae682-7d38dd0e647si161664027b3.190.2026.05.28.09.41.39
+        for <gary.ricke@orbisdesign.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 28 May 2026 09:41:39 -0700 (PDT)
+Received-SPF: pass (google.com: domain of rheffle@lutheranindianministries.org designates 2a01:111:f403:c100::f as permitted sender) client-ip=2a01:111:f403:c100::f;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@lutheranindianministries.onmicrosoft.com header.s=selector2-lutheranindianministries-onmicrosoft-com header.b=Mj3tjEIY;
+       arc=pass (i=1 spf=pass spfdomain=lutheranindianministries.org dkim=pass dkdomain=lutheranindianministries.org dmarc=pass fromdomain=lutheranindianministries.org);
+       spf=pass (google.com: domain of rheffle@lutheranindianministries.org designates 2a01:111:f403:c100::f as permitted sender) smtp.mailfrom=rheffle@lutheranindianministries.org
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=nREHL48jFbtSNrWPgEm3FC9EopRXqh9YrK7KJP/xb9S1oVareHTkQJmEwXRPNA9aInOpPqz1CAVl0LToiYt25C67xq9n9AKDpn3hdOVBHUUMNI17h2iRn8SqYYQ2n0PwEFPNYVCVoipZPbfIGx1DsY3MYy0rsLU8QsE31xHK/WUxXafS+NMnJneaZjPQt2EqHhoF5R54ReFDUlKz7Cx1bd45xgTE3Z4T6apaaIEvfuvGdj3YjZggZDBsMSXlT9djfECIX8AaLqBT4NtkyJHL+5DlGr3ymAw1WdMEONbtOy6o3hJwJ3Lrblkv9SypwEtg8LTg7io7KLB7PCMDi04Y7g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=SpzMmA4mQ44BvXwlfZkMDELa8o1dMJ9iAAfknNkNCZc=;
+ b=BPwWnU2JsrIZFtuqSc8JbpYuTYFosypsbiKQoy4H1dfhFBUlyIxIluI4Q++0efdGnUSP5740ElAFyvrUAVPe0F0fPfT++wPwMgsrqO/x4lPy1qx855eHX9i/wuoA91WtnGhhM2LxGo39EmlXTAXXRoeVJRGnD+osVlYl8gympIQjO9ktwjYIPqd/UWGJ7BUSqii1LS/VEbpVfkfzbyT0hiBbU0l4ggoJuOUZ3+oy2N7iO7GuTFTPxyWXNGbPeDEI+CcZtt6Te1ZjIeP0KIwrm/1uDXBYpBB3OKI1/c9mVAgdQbU9wbqolbYuU37hkdBkj9vVhF1qa3FeATpp1ZiGAg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=lutheranindianministries.org; dmarc=pass action=none
+ header.from=lutheranindianministries.org; dkim=pass
+ header.d=lutheranindianministries.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=lutheranindianministries.onmicrosoft.com;
+ s=selector2-lutheranindianministries-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=SpzMmA4mQ44BvXwlfZkMDELa8o1dMJ9iAAfknNkNCZc=;
+ b=Mj3tjEIY/5FeEsp90f+omrx/tZTu6pjiXlm3OF7Vj2SXt9J+7c5Y3ZXkm6jsfnuerW0kbSRi4srBQCoHYKy6yOrtXrCf7fF5FzkJPMLHphh47aBFn5VB4sfLmhTqkW3GKtzAM8dYeUGLixf2/zDxIaikKIhLf8GieCIwLoomVeo=
+Received: from SA0PR17MB4300.namprd17.prod.outlook.com (2603:10b6:806:d8::9)
+ by SN7PR17MB6559.namprd17.prod.outlook.com (2603:10b6:806:350::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.71.14; Thu, 28 May
+ 2026 16:41:35 +0000
+Received: from SA0PR17MB4300.namprd17.prod.outlook.com
+ ([fe80::c9b0:99da:f76:66f6]) by SA0PR17MB4300.namprd17.prod.outlook.com
+ ([fe80::c9b0:99da:f76:66f6%3]) with mapi id 15.21.0071.011; Thu, 28 May 2026
+ 16:41:35 +0000
+From: Robert Heffle <rheffle@lutheranindianministries.org>
+To: Gary Ricke <gary.ricke@orbisdesign.com>, John Payne
+	<john.payne@meyerpartners.com>
+CC: Jaylene Peterson-Nyren <jpnyren@lutheranindianministries.org>
+Subject: Feathr Campaign
+Thread-Topic: Feathr Campaign
+Thread-Index: AdzuwNbIMH0Nz9xsRfuEC/+2DN2zzw==
+Date: Thu, 28 May 2026 16:41:35 +0000
+Message-ID:
+ <SA0PR17MB43003DEB3954CC0FC9822EAAC9092@SA0PR17MB4300.namprd17.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none
+ header.from=lutheranindianministries.org;
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: SA0PR17MB4300:EE_|SN7PR17MB6559:EE_
+x-ms-office365-filtering-correlation-id: 4ab190e6-1bdd-43ab-d8ea-08debcd7fb26
+x-ipw-groupmember: False
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam:
+ BCL:0;ARA:13230040|366016|376014|1800799024|8096899003|18002099003|38070700021|56012099006;
+x-microsoft-antispam-message-info:
+ RAKjBDxgSsdSHbPz4fWQrwuiPv+RXz5fryFSmYVMZMIQZjIGO0nQ8AescRI2N+PpGYYluqpEmU9C0/2Ggg/ArvjS9xKIIcpajnXR6Aw6oM3pkHaM/DGAmfK9L5kX/6b621b+B70CdJqFREVgdpijrR0t+g+V9sgJOXZDq3HFXGYgJZI7LYBiTssMWfNhAWlYn+NJJZQmk5b0SkJwFWefX7F1oV6d6x8SjEWlVd+zHsYgPRGQTGtojHsObEbOKPmM+m8a6P8tW6oO0iyveWEmDF3zOrdCpRBilRZEfAsM/yJs4DrHDFmijURXJaabZZ/9Nl2L/w0lW0DAK8XBZqFdNlovQT/roxd59s7nKvvcSUMGBr+uQdRb993CtRdvutQ7SYweCFDn4elwV0zhy7+U4PkHy2JnGmXapNI1Y+OPZP3GoMsIzQwwN0H1PQYUAgDLvystvHTKYbwJfsaxapCANXzXU4L93aqFhfOVok8FHqqa4vtbCU8gOlairD4uIVsPyGx2CakrgVZQVRfNB0qe5+yf4DS26At5A1NzYnh9AwXFBOwBXH8HkywtsCB6eGmopMsIjRD6xgqPXRwwOKkjpkmJ8JFBkK38GE2JWXaRmH2j9oWSN9xPChJLtTDB2FD00GJgcm9WJlBBV/rpdB2ljAhMOhQDWLFBPfLpVhHZ9JsFyPfWA5TS9U2qyaK8RWy34W79B4X+YNpgZSUEhg0y6Ys4EuSlQQDmgFVDl0/pjCRLhnfJ9FD26H2Z9sueVPDW
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SA0PR17MB4300.namprd17.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(366016)(376014)(1800799024)(8096899003)(18002099003)(38070700021)(56012099006);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?wvfyYsBvHPPS/EbcbZZeRGE9f/1tl39UX9VamStDkGoBRzvWFJVd/OnQk1YN?=
+ =?us-ascii?Q?lMcUMhFKAFWYZzCz9FQJy9EDtuXGfkhuVuIoTYFHKYX8ZDqxO8UlnBX/3YJo?=
+ =?us-ascii?Q?N/adxq1BVVIsDnjIJ/xNjGigrl4PHg2fhqN0HlUWnofSwBdV/gBQCzGU0UmV?=
+ =?us-ascii?Q?uAxloqdyxsX+B/YTDc2PVsE4Ydp3B96aZDWk0UIQHWaSJwnRhOZ9kYxSZiZV?=
+ =?us-ascii?Q?GoylxQ+Myl7oADkDWVu/BQhgZW+C9OHMGThBMel/r9kWEvVIP/MD6wI6uODl?=
+ =?us-ascii?Q?yk8k5qfdJ+BGVSt6jfLnocEFPhEP8t2WcUoRJhDf8nykvopS/TiHRhh3Jz+G?=
+ =?us-ascii?Q?5xfr84wclvo8k4t3sMDMirly0wv5HSP/+SkGRYMaTOquV64Fq8VVhXKY8Q4B?=
+ =?us-ascii?Q?UG4ZUFx2MQAOSNhJne7bEM5VDVP3exwZGyKHLNN96CP/A6KXmpwoLKcTj4Gq?=
+ =?us-ascii?Q?DoMvD+Skp5aT+WGC4WK7PDtlrIZPl3SPK5EmVdX/I2cXA/RvrlYgN+mDJOUM?=
+ =?us-ascii?Q?SOVd6I3LUEMfHD4x7AsaA9OX7pWWmMdK7Znq7a9HVKuum3rzSd3FIw5MsaJA?=
+ =?us-ascii?Q?cNdP0q9wUYV3ba4Yj788FZUzz6TRW+McrQRxS69Lbv4tWQbZOCQG8cqnh2LQ?=
+ =?us-ascii?Q?yVQjdTSAgVmn8hsOZRm7ADFgBcutnjxXoJ6nFjzxW6sAb6tMNqWzaHYJ1lSn?=
+ =?us-ascii?Q?Td2HRSqm2ftLnRxdzeRSS4krJ3GoNMMIeFwdLAvtODIs6BoQ8HW9aKll1VbZ?=
+ =?us-ascii?Q?x0OH6J3PRCVQTFrzGHWZUFtUk5HbCMsQWAN1UksYMwx6VSiHM2vQw1Dq+xD3?=
+ =?us-ascii?Q?JUS8CxNslU1dwa9Xm7OaVfQzzoA7Pxm5w8yCNFWjIMPqow0Eliid6KCIHxJZ?=
+ =?us-ascii?Q?RPwwZyoE1z9JjSinwcqnROn+8fx9WEJfu1/6RpGGyn2Cfa5bq/POxuNsU/2a?=
+ =?us-ascii?Q?skchqu87+7GsmwnhYvPSPHaqbbXewxRYKz9/7sn/vu2uGktUEukKV3XExfyx?=
+ =?us-ascii?Q?IRxr8q0sFHMCBn+PhNUO4iitz5JKgOJ8sczEwHfahwZXC+sgRR+s4X33jmGW?=
+ =?us-ascii?Q?El/MQSnAAmUiG08MGDMsnaRQ4YYL73uAiOhUURvLKGcjobtxE8oe0U4gg1zU?=
+ =?us-ascii?Q?C+zAuuWrephwhaSzggRZ9c8N0Z6pWfuTFWqRH4p/xdJmGkKJcTw3K9GKte2n?=
+ =?us-ascii?Q?+Qyip9NGlM6yLsajtzY7YWSpeghmCZwpN9wNakm4G1wr1xnXrPd3Y0ufW9wA?=
+ =?us-ascii?Q?YRK28m6c3mMowOLY3CLMo3jbXri5fBSYVnDjtmIkmr4ZChFjbnP1MFgxgdqK?=
+ =?us-ascii?Q?frLs9IfkxfRJbYvx/K+BBCM4p1NrstAHk+U/ayIBylqv4KC76IJeAKBxyZK3?=
+ =?us-ascii?Q?X+30lmmSyNM0d6IBKCt6jA1Rkkh2yrruv82FAS310LfazEevlXOt/X9cZ8Ag?=
+ =?us-ascii?Q?nTk5dLZkcrHyBSZNyHsYvyw7+kbkss2oL7AfjTP9yMef+/Y7y7X9emqHb90t?=
+ =?us-ascii?Q?8OjdFCTbB3DXWgIGj5j+CVi5Vg9B+R/3FLLJcIBe+3/b/G1TC9tmiEyO9xFE?=
+ =?us-ascii?Q?gYJdvSzyxIphiHajjbnSwT4z/jXeAwScg7QlgBwU2YJLD4DmsqmRj7xk7PiQ?=
+ =?us-ascii?Q?m3ORBvFW3WUsgC9BvQjula3wlssEuaYytOhs5R5ccVa1mJm3HYfB8bwZCvRP?=
+ =?us-ascii?Q?6RP6g4UwO77tOWuwxWmeMXiLNckQWiZzYSU/11Ti6M7Foj/xSWvlZS8fzW8n?=
+ =?us-ascii?Q?IN3ssNhHcT/Yr3sQA48RMybEqnl3+PI=3D?=
+Content-Type: multipart/alternative;
+	boundary="_000_SA0PR17MB43003DEB3954CC0FC9822EAAC9092SA0PR17MB4300namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: lutheranindianministries.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SA0PR17MB4300.namprd17.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 4ab190e6-1bdd-43ab-d8ea-08debcd7fb26
+X-MS-Exchange-CrossTenant-originalarrivaltime: 28 May 2026 16:41:35.0397
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8c59f51a-3036-46c6-a73c-6c27c7794739
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: U+UOsW2TIcdaQhQynKOh7VxVGiJLTFtv/a31PjUizIwEolkslctwM2Zgi3MxDNQ0qS+/LgXMk2FEs6/SgI578vma4aegBZmqkityK5nelXpZybh+eGGL38wxGJryHBUA
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN7PR17MB6559
+
+--_000_SA0PR17MB43003DEB3954CC0FC9822EAAC9092SA0PR17MB4300namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+HI Gary,
+
+194,000 people got an LIM ad
+655 visited the LIM website
+Budget used $1700.00 at 2.64 per click
+
+Per John there is a way to capture of those 655 visitors how many gave on t=
+he website.  I think John has the information for us to put things in place=
+ so we can track those that give.
+
+Can you two connect and keep me in the loop so we can get this closed out?
+
+Thanks,
+
+--_000_SA0PR17MB43003DEB3954CC0FC9822EAAC9092SA0PR17MB4300namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">HI Gary,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">194,000 people got an LIM ad<o:p></o:p></p>
+<p class=3D"MsoNormal">655 visited the LIM website<o:p></o:p></p>
+<p class=3D"MsoNormal">Budget used $1700.00 at 2.64 per click<o:p></o:p></p=
+>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Per John there is a way to capture of those 655 visi=
+tors how many gave on the website.&nbsp; I think John has the information f=
+or us to put things in place so we can track those that give.<o:p></o:p></p=
+>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Can you two connect and keep me in the loop so we ca=
+n get this closed out?<o:p></o:p></p>
+<p class=3D"MsoNormal"><br>
+Thanks,<o:p></o:p></p>
+</div>
+</body>
+</html>
+
+--_000_SA0PR17MB43003DEB3954CC0FC9822EAAC9092SA0PR17MB4300namp_--

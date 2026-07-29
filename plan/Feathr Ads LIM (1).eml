@@ -1,0 +1,128 @@
+MIME-Version: 1.0
+Date: Wed, 8 Apr 2026 17:02:35 -0500
+References: <SA0PR17MB43007287E7D9A14E420ABF47C95B2@SA0PR17MB4300.namprd17.prod.outlook.com>
+In-Reply-To: <SA0PR17MB43007287E7D9A14E420ABF47C95B2@SA0PR17MB4300.namprd17.prod.outlook.com>
+Reply-To: gary.ricke@orbisdesign.com
+Message-ID: <CA+OnH8e1YCCL_1GPnRZ3RdieZqXwC2wzhsqHbi6F1GWLjC1rfw@mail.gmail.com>
+Subject: Re: Feathr Ads LIM
+From: Gary Ricke <gary.ricke@orbisdesign.com>
+To: Robert Heffle <rheffle@lutheranindianministries.org>
+Cc: John Payne <john.payne@meyerpartners.com>, 
+	Jaylene Peterson-Nyren <jpnyren@lutheranindianministries.org>
+Content-Type: multipart/alternative; boundary="000000000000b9a2cb064efa0e1d"
+
+--000000000000b9a2cb064efa0e1d
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Robert,
+
+That=E2=80=99s great news about the ad performance. Since we have the Black=
+baud
+donation form *embedded directly* on our site (at /donate), we are in a
+good position to track these conversions accurately.
+
+To close the loop, we just need to ensure that the "success" event=E2=80=94=
+when a
+donor clicks 'Submit' and the transaction is approved=E2=80=94is communicat=
+ed back
+to Feathr.
+
+*Next Steps:*
+
+   1.
+
+   John, can you get the specific *Feathr Conversion Pixel* code?
+   2.
+
+   *Implementation:* Once I have that code, I will embed it into the "Thank
+   You/Confirmation" section of our Blackbaud form settings. This way, the
+   moment a donation is processed, Feathr will record the success and
+   attribute it to the specific ad the person clicked.
+   3.
+
+   *ROI Tracking:* If we can get a "Revenue Tracking" version of the pixel,
+   we can even pass the exact donation amount back to their dashboard so yo=
+u
+   can see your real-time Return on Ad Spend (ROAS).
+
+Let me know what you think.
+
+On Wed, Apr 8, 2026 at 3:55=E2=80=AFPM Robert Heffle <
+rheffle@lutheranindianministries.org> wrote:
+
+> HI Gary,
+>
+>
+>
+> I just got off a meeting with Meyers Partners, our Feathr ads are doing
+> well, and people are responding.  We cannot, however, tell if they give d=
+ue
+> to the ad they viewed.  I know you shared you may have some ideas on this
+> recently, so I thought I would connect us by email.
+>
+>
+>
+> What are your thoughts?
+>
+>
+>
+> Thanks,
+>
+>
+>
+> Robert
+>
+
+--000000000000b9a2cb064efa0e1d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p>Hi Robert,</p><p>That=E2=80=99s great news about the ad=
+ performance. Since we have the Blackbaud donation form <b>embedded directl=
+y</b> on our site (at <code>/donate</code>), we are in a good position to t=
+rack these conversions accurately.</p><p>To close the loop, we just need to=
+ ensure that the &quot;success&quot; event=E2=80=94when a donor clicks &#39=
+;Submit&#39; and the transaction is approved=E2=80=94is communicated back t=
+o Feathr.</p><p><b>Next Steps:</b></p><ol start=3D"1"><li><p>John, can you=
+=C2=A0get the specific <b>Feathr Conversion Pixel</b> code?</p></li><li><p>=
+<b>Implementation:</b> Once I have that code, I will embed it into the &quo=
+t;Thank You/Confirmation&quot; section of our Blackbaud form settings. This=
+ way, the moment a donation is processed, Feathr will record the success an=
+d attribute it to the specific ad the person clicked.</p></li><li><p><b>ROI=
+ Tracking:</b> If we can get a &quot;Revenue Tracking&quot; version of the =
+pixel, we can even pass the exact donation amount back to their dashboard s=
+o you can see your real-time Return on Ad Spend (ROAS).</p></li></ol><p>Let=
+ me know what you think.</p></div><br><div class=3D"gmail_quote gmail_quote=
+_container"><div dir=3D"ltr" class=3D"gmail_attr">On Wed, Apr 8, 2026 at 3:=
+55=E2=80=AFPM Robert Heffle &lt;<a href=3D"mailto:rheffle@lutheranindianmin=
+istries.org">rheffle@lutheranindianministries.org</a>&gt; wrote:<br></div><=
+blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-l=
+eft:1px solid rgb(204,204,204);padding-left:1ex"><div class=3D"msg-26964534=
+84103522643">
+
+
+
+
+
+<div lang=3D"EN-US" style=3D"overflow-wrap: break-word;">
+<div class=3D"m_-2696453484103522643WordSection1">
+<p class=3D"MsoNormal">HI Gary,<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">I just got off a meeting with Meyers Partners, our F=
+eathr ads are doing well, and people are responding.=C2=A0 We cannot, howev=
+er, tell if they give due to the ad they viewed.=C2=A0 I know you shared yo=
+u may have some ideas on this recently, so I
+ thought I would connect us by email.<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">What are your thoughts?<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">Thanks,<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">Robert<u></u><u></u></p>
+</div>
+</div>
+
+</div></blockquote></div>
+
+--000000000000b9a2cb064efa0e1d--

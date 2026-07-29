@@ -1,0 +1,58 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>LIM — Team page updates</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#0362BC; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into your email (formatting included).</span>
+  </div>
+
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Hi Robert and Jaylene,</p>
+
+    <p style="margin:0 0 16px;">The team section on the <strong>About</strong> page is updated and live on the preview site. Here's a quick rundown of what's done:</p>
+
+    <p style="margin:0 0 8px;"><strong>New portraits &amp; bios</strong> for Angie Pantazon, Esther Cetina, Roberta Richardson, and Suzette Shreffler — built from the photos and bio docs you sent and rendered into clean, studio-quality headshots.</p>
+
+    <ul style="margin:0 0 16px; padding-left:22px; color:#1a2535;">
+      <li style="margin-bottom:6px;">The longer bios (Esther, Roberta, Suzette) each have a <strong>"Read full bio"</strong> popup so the cards stay tidy. Angie's shorter bio sits right on the card.</li>
+      <li style="margin-bottom:6px;">Suzette's traditional Northern Cheyenne regalia photo is included inside her popup.</li>
+    </ul>
+
+    <p style="margin:0 0 8px;"><strong>A few other things while we were in there:</strong></p>
+    <ul style="margin:0 0 20px; padding-left:22px; color:#1a2535;">
+      <li style="margin-bottom:6px;">Re-rendered <strong>Robert</strong> and <strong>Pola</strong> onto the same studio background, so every portrait on the page now matches.</li>
+      <li style="margin-bottom:6px;">Removed <strong>Cheristine Mousseau</strong> and <strong>Rachel Doerner</strong> from the lineup, as requested.</li>
+      <li style="margin-bottom:6px;">Made the <strong>Administrative Team</strong> and <strong>Ministry Team</strong> headings more prominent and centered the cards, so the layout reads cleanly.</li>
+      <li style="margin-bottom:6px;">Corrected a few roles and locations from the bio docs (for example, Roberta is now listed as <em>Lead Ministry Coordinator</em>, and Suzette as <em>Ministry Coordinator · Montana</em>).</li>
+    </ul>
+
+    <a href="https://lim2026.netlify.app/about.html" style="text-decoration:none; color:inherit;">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:good,w_1100/v1781187690/orbis/lim-team-overhaul-2026-06-11-final.png" alt="Updated LIM team section" style="display:block; width:100%; max-width:600px; height:auto; border:1px solid #dce3ed; border-radius:10px;">
+    </a>
+    <p style="margin:8px 0 22px; font-size:13px; color:#4a5568;">
+      See it live → <a href="https://lim2026.netlify.app/about.html" style="color:#0362BC; text-decoration:none;">lim2026.netlify.app/about.html</a>
+    </p>
+
+    <div style="background:#f4f6f9; border:1px solid #dce3ed; border-radius:10px; padding:14px 18px; margin:0 0 22px;">
+      <p style="margin:0 0 4px; font-size:12px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:#4a5568;">Preview access</p>
+      <p style="margin:0; font-size:15px;">
+        <a href="https://lim2026.netlify.app/about.html" style="color:#0362BC; text-decoration:none; font-weight:600;">lim2026.netlify.app/about.html</a><br>
+        Password: <strong style="font-family:'SFMono-Regular',Consolas,monospace;">limhope</strong>
+      </p>
+    </div>
+
+    <p style="margin:0 0 16px;">Take a look when you have a minute. If you'd like any tweaks — a different photo for someone, bio wording, the order of the cards — just reply and I'll take care of it.</p>
+
+    <p style="margin:0 0 4px;">Best,</p>
+    <p style="margin:0;">Gary</p>
+  </div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>

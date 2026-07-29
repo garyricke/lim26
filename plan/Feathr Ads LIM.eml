@@ -1,0 +1,223 @@
+Delivered-To: gary.ricke@orbisdesign.com
+Received: by 2002:a05:6a06:1e0c:b0:77b:37b9:ab10 with SMTP id a12csp2775959pit;
+        Wed, 8 Apr 2026 13:55:29 -0700 (PDT)
+X-Received: by 2002:a05:690c:102:b0:79a:40fb:9346 with SMTP id 00721157ae682-7a4d6d26cf8mr234513057b3.20.1775681729507;
+        Wed, 08 Apr 2026 13:55:29 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1775681729; cv=pass;
+        d=google.com; s=arc-20240605;
+        b=cOmU8UxE9CttHns+nHhXgTIP0S9g/XQWqOicRO/VIPFeqvf+WNfptZdfMvEgVwR/Pc
+         VPYqs42sq8kradyLBzO0yfGD4qu9Blo8kYhcWW3zXq4jMW4s+JyN4zerBK7fjyCcx6Ph
+         FNCNyRTUNbAvYmPdeNPYAVXsF9IWWInGqDKt6/x1X6luAcUo6IkPpZ/ux6Qropvh7CET
+         zfQSbF5Az2/ROE01hHlkimTpuPwrPpxtC1djjdgB83WjS6bdgyMxpWRlV4VLybKvgGxf
+         mZWoSw9qaQy9ALvXGUrzXAoLlfCvz6SBpFHzKNVtyC+Ig4nwMqzRTH0dW1iUPoDN+QMs
+         I4dw==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=mime-version:content-language:accept-language:message-id:date
+         :thread-index:thread-topic:subject:to:from:dkim-signature;
+        bh=49qD4nSBleQPJ55rpFXuI6Rjj6lNR94h4I5lsAAtWHM=;
+        fh=fHOQMyX864S056A8ZdY3xCcsJ0oV63r6XU3GJit3mmY=;
+        b=JnKmCSt5/Y03OraesExzC8I+9MyUlT/DPfn6ZKtegi+Vcz3N5SEKIkTfBpGQKTqmB0
+         azQUKkxrzpOG1WDOXiOvhrYD/1apvngZZe9TaURxQv1uTM4NB7jNDWuWHmptDhi4K26m
+         TaMtH6zRC31yhnBJxulDBjL3VTTGUw8TpR53cmG96JpmLXtYpCZwxALusF/RRfbiEKuG
+         ReG1Oo3sfku+WwfZzUlNNqeE8Hn3CfgtfohhSG3OZawamLEsk43PSBqCSDkft+3TPikY
+         bZyRnfBVryRgFc92ZJOrADZAZyObuyEccA+JK6dm48pThwYZx6tK+E5jRUFMTPd9zvDZ
+         IViQ==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@lutheranindianministries.onmicrosoft.com header.s=selector2-lutheranindianministries-onmicrosoft-com header.b=Z29KTk0G;
+       arc=pass (i=1 spf=pass spfdomain=lutheranindianministries.org dkim=pass dkdomain=lutheranindianministries.org dmarc=pass fromdomain=lutheranindianministries.org);
+       spf=pass (google.com: domain of rheffle@lutheranindianministries.org designates 2a01:111:f403:c101::7 as permitted sender) smtp.mailfrom=rheffle@lutheranindianministries.org
+Return-Path: <rheffle@lutheranindianministries.org>
+Received: from BL0PR03CU003.outbound.protection.outlook.com (mail-eastusazlp170120007.outbound.protection.outlook.com. [2a01:111:f403:c101::7])
+        by mx.google.com with ESMTPS id 00721157ae682-7a3724be8fcsi226604057b3.190.2026.04.08.13.55.29
+        for <gary.ricke@orbisdesign.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Wed, 08 Apr 2026 13:55:29 -0700 (PDT)
+Received-SPF: pass (google.com: domain of rheffle@lutheranindianministries.org designates 2a01:111:f403:c101::7 as permitted sender) client-ip=2a01:111:f403:c101::7;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@lutheranindianministries.onmicrosoft.com header.s=selector2-lutheranindianministries-onmicrosoft-com header.b=Z29KTk0G;
+       arc=pass (i=1 spf=pass spfdomain=lutheranindianministries.org dkim=pass dkdomain=lutheranindianministries.org dmarc=pass fromdomain=lutheranindianministries.org);
+       spf=pass (google.com: domain of rheffle@lutheranindianministries.org designates 2a01:111:f403:c101::7 as permitted sender) smtp.mailfrom=rheffle@lutheranindianministries.org
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=n8BGe2j82QHpJby+cBgZ5NWqnv3zaJ9jUFtLvdY5TjWVJ+bGMvASxUYmYuBwyNzHS69TFTYSd0cv8+Pb5LxdMPPgTt7fSFHm5RcVJVnsqUcnmtG0+tN6k7GD3rEmydP5tmzeLxgGwLr4TJmt7AJL06kCP1pvyqyuy2YBOH1J+7ClnkhCx0ZZYxMGuZV0RyJGTXqqXuzUE0fpI8/92dYIEBg7fa94/+pXkDFHug+IAXoaX5jxtS9SZ++bJVoJC+8UcgptQ26refPIZ0flpwcO7hLloxqmULHCGWGoe8i8NrdjSIrrAIkgEh6AsaudSXinaC4v1DVPlsAGteK8hjMSDw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=49qD4nSBleQPJ55rpFXuI6Rjj6lNR94h4I5lsAAtWHM=;
+ b=ApxYAciV2a9pELYuyhqHT1Girx2griWQJvdo6kNjtVvgJNBwBsRKhtDtZOtv05d8KOIW+bFjqEexpxJ8NMl5PpSJF1AeIgJ4rg6xSlc90oF1t+40WZXh3S5fBzynBC1SGlswwd0EbbMeXw7Y6mPIFktNEgzC/zZrn1FNu2+xyP3A+BfmKRGYhYspwRB/iCL01ikS7R3fiyLmOEY/115tnpHpVqddlLoeDsIGZt0/bkcwiejIyYnBolUrcrxRi/ziYJ4l0fRzD6z892nkvFpk4ZkAEmh7ptMFAoBD+7ZkqdatKbBKqbVaIBB7R4yvQLfR3BcQY/m7mlyJV1MdVho0mA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=lutheranindianministries.org; dmarc=pass action=none
+ header.from=lutheranindianministries.org; dkim=pass
+ header.d=lutheranindianministries.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=lutheranindianministries.onmicrosoft.com;
+ s=selector2-lutheranindianministries-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=49qD4nSBleQPJ55rpFXuI6Rjj6lNR94h4I5lsAAtWHM=;
+ b=Z29KTk0GaK39A2xhG26+59ExoWKwI+iEK0TtQvtWNTaMDQWpuIiuPCuyNQS/5m31dg4q5VXOtih17YSooExzekfZjVRgdXQJBvdgEiTnj5f1uOfsKD/OREE8AITqOAX0XK1LWX76Q8th7loiLzhzy0SgvDv2/euEUpfmbTNdenQ=
+Received: from SA0PR17MB4300.namprd17.prod.outlook.com (2603:10b6:806:d8::9)
+ by PH0PR17MB4325.namprd17.prod.outlook.com (2603:10b6:510:13::17) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9769.20; Wed, 8 Apr
+ 2026 20:55:25 +0000
+Received: from SA0PR17MB4300.namprd17.prod.outlook.com
+ ([fe80::c9b0:99da:f76:66f6]) by SA0PR17MB4300.namprd17.prod.outlook.com
+ ([fe80::c9b0:99da:f76:66f6%3]) with mapi id 15.20.9769.018; Wed, 8 Apr 2026
+ 20:55:25 +0000
+From: Robert Heffle <rheffle@lutheranindianministries.org>
+To: Gary Ricke <gary.ricke@orbisdesign.com>, John Payne
+	<john.payne@meyerpartners.com>, Jaylene Peterson-Nyren
+	<jpnyren@lutheranindianministries.org>
+Subject: Feathr Ads LIM
+Thread-Topic: Feathr Ads LIM
+Thread-Index: AdzHmcdASjlvW3jKQZGx7AVe3Tue9A==
+Date: Wed, 8 Apr 2026 20:55:25 +0000
+Message-ID:
+ <SA0PR17MB43007287E7D9A14E420ABF47C95B2@SA0PR17MB4300.namprd17.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none
+ header.from=lutheranindianministries.org;
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: SA0PR17MB4300:EE_|PH0PR17MB4325:EE_
+x-ms-office365-filtering-correlation-id: d5323d0d-d36d-426c-871e-08de95b12864
+x-ipw-groupmember: False
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam:
+ BCL:0;ARA:13230040|376014|10070799003|366016|1800799024|38070700021|18002099003|56012099003|8096899003;
+x-microsoft-antispam-message-info:
+ cgzclXZdKCTQN6M8YU/1dImkJlQywNnHmpE54q6l4bcbX8R+vJy0i24IUQitdPAs9LUWHfE9GpjaLJPQv0iZ8TOrmVEbXJzRC0f8UjTbpUMKjFvjiED0hUB0YZroOXIB4KWio8MzTu38XVMgZ/hn0nrIDU83bcxBieLJ+P58lZqBQ5EwmwoR5/xHiszTnETwAxcRc+rTBbdr2TooRU//b+ftlGDnhpp6mXGqX7Bkf+gICArDksP8yYvVNrZLAO8KmUk1EtDVad66dGhsDkcQcnHCiHn1sjcjnIena9+81T+Ec3u9Uo+81dqj47z3DwqcLT/KbwWKifs626bxQksqD8tOgXLF5GVAkqq9zKODLUHC3t+cWqt8JVjm9sk6DmdgZOU18LJYrkhRL7bk2AyYaRwmQo73+DObpqJjgO3OEXyciA2tofvXICkgUGbbp+dn5MlSjkYgrWO8apR35xx+vxzwUWLO0YcG4r2pW2VcR2G2NnrfrCu94pXCOHsyUhpx/JvitzEvY0582o8VJtEhAZnMCqq2w77fFmB0VV1BH+m3u5NDBAUEp81V1Y2Q8ohgOSTyUuyPozlVqvmtmWW+Fr1VFpYfwbkCL0RRWQAjQVyOlOXlXEyneNKwq7ZUwpG/WGDcCXY1z7EYft/lNM7ijbEKa+8xi6HGHRP7reNarTL5rByipUCF2L+aGQk4Ws51lq/cYeq8Gn/mGrJnhfkHKU0WSRsGqNPzkfaoascwTM5BubJyV+doYP1N6acBso3TcodgRFYfL+9B9BMF8fjsG1fTBJl/8U3fd40JXwj7ZmU=
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SA0PR17MB4300.namprd17.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(376014)(10070799003)(366016)(1800799024)(38070700021)(18002099003)(56012099003)(8096899003);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?6vb6T+geugS1r4RFGQw1cXD7lJBvZhrEZZt/Gy9ggFcQ4/pbjIp/w9Ul7z3k?=
+ =?us-ascii?Q?+WABdD5nxTxwtf+JO+xv5C/uptcinciEwAAeI6zM7uPo8Z1mNizSJdRekH6O?=
+ =?us-ascii?Q?Ov+EXwzz10tEpxQyr1EIqHtYaSD83S3ITOCooq75w1Xgvkr0Gdp5xwFoa1EA?=
+ =?us-ascii?Q?vbXlbrVF3PZDxuf95dlzXxnqPKKRZBPUr2ygcr1SK+mb8HR+iP79iXrerHRl?=
+ =?us-ascii?Q?igiuResXShqGsO1Qa0pXcKrlNNiGLGLI98XEmO48YfXXHZj9Gf42tL0Vvkju?=
+ =?us-ascii?Q?zEBmNCl+5Klh7YhYIMw/DExAOenW7r4FUKI6Hvq2qUvB5YNJWVDQs4g+GSTH?=
+ =?us-ascii?Q?X/UlEaBnIPLfz5OLnzHNWK9UhS9RF80QPMalZIAZ3v/EBjSPpO6Q2Prfksx6?=
+ =?us-ascii?Q?HE8OQCLQZFdTKswotZOiSSdhElCcBOg31OluNm9rv1/WnxjaEIvmIHy9qsuL?=
+ =?us-ascii?Q?iygi2kBaaih2uEHthsa7iux8TMglUYVFcs3b/f7wu7Pb1rgxUKzUo4+9HiSH?=
+ =?us-ascii?Q?Chag/eZNXm2B1OlNANdrZQtGBimzlpSPd5X1f43CgSaWJydO6+C6JxhbTvS4?=
+ =?us-ascii?Q?iAJ1SKgXFs6MqMxTUHuEykGyqbTxms+J07Olhf7cbn8XCdYWhmCNKj7syGyG?=
+ =?us-ascii?Q?h5RQKGW+ZMcH/9msNnby+kqw5Yi15qz4AZjfVYyWANTBQ54TOtFGIq4LnjwX?=
+ =?us-ascii?Q?jqn0GGsxxDFhIuh5F1H6+TmJ6GyOIi/hEzAPmaBZEDJgAl+X4M7Fju8A+nub?=
+ =?us-ascii?Q?TJAUDs2VQpr0b/n6ltR7hChG2Q9VdNG7y9XIpB6tNNoSm2zi3Nz/CgDKFNe+?=
+ =?us-ascii?Q?d8Ms3tvenwvgrlnVqPvDmmk3/o2ykoO+eeQbv+kebgUt5r5qnWR8rmgEl7mh?=
+ =?us-ascii?Q?wjXx9BQcakrY4N8OTUv8kzD07hoaiYfH/qGzukAa/iiDseVS2DB6A2ATLPGu?=
+ =?us-ascii?Q?/DjpqSs/d3a8K9wOgd3prl1fNCeTl3HqR1u/zPC+XHZHlXAkVMqYB+1FG1K+?=
+ =?us-ascii?Q?exq8bSWUVqLZwS5pWcqjmoo4h0xk64FnroZ4h+3YRcGvgdxEg8cOcDld+1B0?=
+ =?us-ascii?Q?YdLA6jM1hUujnOcO7ypR50hb/HFz0UEtRKi+930p8NX3maLs7ilrjlCC7DFd?=
+ =?us-ascii?Q?/PBCxABBnUdmtV7cO8aES/VjD5sybnwchMOor6PG6ePNHDY4MpOnsjsJe8sL?=
+ =?us-ascii?Q?A2ADgD71fyTXCiqlWROVQCH01ZfzG+VA7g067+T7jQRMl6ido0LzNNQmKWvw?=
+ =?us-ascii?Q?lRUlnhOwW9YYkhDqtxgNJcx4OzK6N88ydqFm9Hef8iMh2+tToR4jazt1D1Pw?=
+ =?us-ascii?Q?c+wJnhksHgKRW6M2G2c6FUPTkf0PROa15q8kTV+Ys03alBtBwxSHCYtFM8G0?=
+ =?us-ascii?Q?0OGz2UMTdZuej9Ab2on7Fz/NCwUiUIU1CG0KaDp93mDy9srag4hLGICdOdLN?=
+ =?us-ascii?Q?wtWYk1IozVtidieGApGqjU/UUIoqv/7fRoHSTuoZM9hzqIryvUyL6fy1a+Pv?=
+ =?us-ascii?Q?bWIP6Wny+JKazpeMZUuEBB2/+2S1zXnZiWfKtOX7JWH2MlTK8JNfbcsjcukG?=
+ =?us-ascii?Q?CAfZp9yhmF3+JgDyCqcWmlImobbu5/DPA0BsmYB4G8PWrCO1yGQsVyAKiUMP?=
+ =?us-ascii?Q?3MWZgA5Y1ZKtV9O0Tt9umFInlHr50ArCBpQccHmy3ZrEbJQzDL/jRE03meqK?=
+ =?us-ascii?Q?KlB8NuMtTppNweggyUorL2agw1JbMwtOWc+JW7/i1E4MuWuFTLWc7rZPzahn?=
+ =?us-ascii?Q?tS6YkK0i6kAWjrUqfrEk+Ar2zPRy0DSZ8SA8wdIP86d5f5uCziBv?=
+Content-Type: multipart/alternative;
+	boundary="_000_SA0PR17MB43007287E7D9A14E420ABF47C95B2SA0PR17MB4300namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: lutheranindianministries.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SA0PR17MB4300.namprd17.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: d5323d0d-d36d-426c-871e-08de95b12864
+X-MS-Exchange-CrossTenant-originalarrivaltime: 08 Apr 2026 20:55:25.1986
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8c59f51a-3036-46c6-a73c-6c27c7794739
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: Orco5kYEL1r6RMdYboeIuotysb/JqBH3xNbxq4uy5R5QQ0kAkJu5TKP9m3f5A6Ta4vuFWunWSguj91fCAXg3o6mG/ebW6G9NXKVIXtQR3QsC2p2FVCLOposfFmEfL2NA
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PH0PR17MB4325
+
+--_000_SA0PR17MB43007287E7D9A14E420ABF47C95B2SA0PR17MB4300namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+HI Gary,
+
+I just got off a meeting with Meyers Partners, our Feathr ads are doing wel=
+l, and people are responding.  We cannot, however, tell if they give due to=
+ the ad they viewed.  I know you shared you may have some ideas on this rec=
+ently, so I thought I would connect us by email.
+
+What are your thoughts?
+
+Thanks,
+
+Robert
+
+--_000_SA0PR17MB43007287E7D9A14E420ABF47C95B2SA0PR17MB4300namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">HI Gary,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">I just got off a meeting with Meyers Partners, our F=
+eathr ads are doing well, and people are responding.&nbsp; We cannot, howev=
+er, tell if they give due to the ad they viewed.&nbsp; I know you shared yo=
+u may have some ideas on this recently, so I
+ thought I would connect us by email.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">What are your thoughts?<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Thanks,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Robert<o:p></o:p></p>
+</div>
+</body>
+</html>
+
+--_000_SA0PR17MB43007287E7D9A14E420ABF47C95B2SA0PR17MB4300namp_--

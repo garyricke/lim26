@@ -1,0 +1,52 @@
+<!-- squarespace code inject header 22 jun 2026 -->
+<!-- Google Tag Manager per John / Meyers 10/6/2025 -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD3Z4XNG');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Search Console -->
+<meta name="google-site-verification" content="DM0fRAabV2u3b9J_a35hzV_Xtvb2qaBZzMJ9T0qQyxA" />
+
+<!-- quick video v2 -->
+<script src="https://assets.codepen.io/3457845/ultimate-website-dynamic-code-include-v2.js?ran=1234"></script>
+
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~ SQSHX ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!-- script src="/s/sqshx-20220919.js"></script -->
+<script src="https://www.orbisdesign.xyz/ssv2/sqshx.js"></script>
+<link rel="stylesheet" type="text/css" href="/s/sqshx.css" />
+
+<!-- Kapwing Responsive Embed -->
+<script src="https://assets.codepen.io/3457845/kapwing-embed-reponsive-20231107.js"></script>
+
+<script>
+// Changing the newsletter sign-up text to make it easier to swap copy rather than having to manually update every one  
+window.addEventListener('load', function () {
+  /* Updating all occurances of the title - note the queryselector */
+  var textToChangeAllElementsSearchPhrase = 'Subscribe to Our Newsletter';
+  var textToChangeAllElementsReplacePhrase = 'Subscribe';
+  var textToChangeAllElements = document.querySelectorAll('h2.newsletter-form-header-title');
+  textToChangeAllElements.forEach(function(element){
+    var getElementText = element.innerText.toLowerCase();
+    textToChangeAllElementsSearchPhrase = textToChangeAllElementsSearchPhrase.toLowerCase();
+    console.log(getElementText,textToChangeAllElementsSearchPhrase,);
+    if(getElementText == textToChangeAllElementsSearchPhrase){
+      element.innerText = textToChangeAllElementsReplacePhrase;
+    }
+  });
+  /* Updating all occurances of the short description */
+  textToChangeAllElementsSearchPhrase = 'Get stories like these delivered fresh to your in-box before anyone else.';
+  textToChangeAllElementsReplacePhrase = 'Sign up with your email address to receive news and updates.';
+  textToChangeAllElements = document.querySelectorAll('.newsletter-form-header-description p');
+  textToChangeAllElements.forEach(function(element){
+    var getElementText = element.innerText.toLowerCase();
+    textToChangeAllElementsSearchPhrase = textToChangeAllElementsSearchPhrase.toLowerCase();
+    if(getElementText == textToChangeAllElementsSearchPhrase){
+      element.innerText = textToChangeAllElementsReplacePhrase;
+    }
+  });  
+});
+</script>

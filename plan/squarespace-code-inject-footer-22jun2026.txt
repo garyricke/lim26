@@ -1,0 +1,12 @@
+<!-- squarespace code inject footerr 22 jun 2026 -->
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://assets.codepen.io/3198845/WMSplitSections9720v3.1.5.js"></script>
+<script src="https://assets.codepen.io/3198845/WMBlogPostBanner72020v3.0.7.min.js"></script>
+<!-- Count Up Animation from Will-Myers.com -->
+<script src="https://cdn.jsdelivr.net/gh/willmyethewebsiteguy/countup@v1/javascript.min.js"></script>
+
+<!-- Google Tag Manager (noscript) per John / Meyers -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TD3Z4XNG" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
