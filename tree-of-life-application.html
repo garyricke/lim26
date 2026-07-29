@@ -1,0 +1,587 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+<title>Tree of Life Application — Lutheran Indian Ministries</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  :root{
+    --red:#ED1C24;--red-h:#c8151c;--yellow:#FFDE16;
+    --charcoal:#282924;--sage:#B2AC88;--sage-d:#8a8665;
+    --sky:#A2C2D1;--sky-d:#6fa3b8;--stone:#EBE9E4;
+    --white:#FFFFFF;--muted:#5a5a52;--border:#d9d6ce;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+    --r:8px;--rl:16px;--t:.3s ease;
+  }
+  body{font-family:var(--body);color:var(--charcoal);background:var(--stone);line-height:1.7}
+  button{cursor:pointer;font-family:inherit;border:none;background:none}
+
+  .wrap{max-width:760px;margin:0 auto;padding:0 1.25rem}
+
+  /* Masthead */
+  .mast{background:var(--charcoal);padding:2.5rem 0 2.75rem;text-align:center}
+  .mast img{height:54px;width:auto;margin-bottom:1.4rem}
+  .mast .lbl{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--yellow);display:block;margin-bottom:.5rem}
+  .mast h1{font-family:var(--serif);font-size:clamp(1.9rem,4.5vw,2.7rem);line-height:1.15;color:#fff}
+
+  /* Event details */
+  .ev{background:var(--white);border-left:5px solid var(--yellow);border-radius:var(--r);padding:1.5rem 1.6rem;margin:-1.5rem 0 2rem;box-shadow:0 6px 24px rgba(0,0,0,.09)}
+  .ev h2{font-family:var(--cond);font-size:1.15rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.9rem}
+  .ev dl{display:grid;grid-template-columns:auto 1fr;gap:.45rem 1.1rem;font-size:.94rem}
+  .ev dt{font-family:var(--cond);font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--sage-d);font-size:.82rem;padding-top:.18rem}
+  .ev dd{color:var(--charcoal)}
+  .ev .note{margin-top:1rem;padding-top:.9rem;border-top:1px solid var(--border);font-size:.88rem;color:var(--muted)}
+
+  /* Card + sections */
+  .card{background:var(--white);border-radius:var(--rl);padding:2rem 1.9rem 2.25rem;box-shadow:0 4px 20px rgba(0,0,0,.07);margin-bottom:2rem}
+  .intro{font-size:.97rem;color:var(--muted);margin-bottom:1.9rem}
+  .sect{margin-bottom:2.1rem}
+  .sect-title{font-family:var(--cond);font-size:.78rem;font-weight:800;letter-spacing:.13em;text-transform:uppercase;color:rgba(40,41,36,.45);border-bottom:1px solid var(--border);padding-bottom:.5rem;margin-bottom:1.1rem}
+  .sect-help{font-size:.88rem;color:var(--muted);margin:-.45rem 0 1.1rem}
+
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:.85rem;margin-bottom:.85rem}
+  .row.full{grid-template-columns:1fr}
+  .row.thirds{grid-template-columns:2fr 1fr 1fr}
+  .field{display:flex;flex-direction:column;gap:.32rem}
+  .field label{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:rgba(40,41,36,.58)}
+  .field .req{color:var(--red)}
+  .field .opt{color:rgba(40,41,36,.35);font-size:.7rem;text-transform:none;letter-spacing:0}
+  .field input,.field select,.field textarea{padding:.62rem .82rem;border:2px solid var(--border);border-radius:8px;font-size:.92rem;color:var(--charcoal);background:#fff;transition:border .2s,box-shadow .2s;font-family:var(--body);width:100%}
+  .field input:focus,.field select:focus,.field textarea:focus{outline:none;border-color:var(--charcoal);box-shadow:0 0 0 3px rgba(40,41,36,.08)}
+  .field textarea{resize:vertical;min-height:82px}
+  .field .hint{font-size:.79rem;color:var(--muted);line-height:1.5}
+
+  .radio{display:flex;gap:1.1rem;flex-wrap:wrap;padding:.28rem 0}
+  .radio label{display:flex;align-items:center;gap:.42rem;font-family:var(--body);font-size:.9rem;font-weight:400;letter-spacing:0;text-transform:none;color:var(--charcoal);cursor:pointer}
+  .radio input{accent-color:var(--charcoal);width:auto}
+  .radio.stack{flex-direction:column;gap:.5rem}
+
+  .checks{display:flex;flex-direction:column;gap:.7rem;padding:.3rem 0}
+  .checks label{display:flex;align-items:flex-start;gap:.6rem;font-size:.91rem;line-height:1.6;cursor:pointer}
+  .checks input{accent-color:var(--charcoal);margin-top:.32rem;width:auto;flex-shrink:0}
+
+  /* Conditional follow-ups */
+  .cond{display:none;margin-top:.85rem;padding-left:1rem;border-left:3px solid var(--sky)}
+  .cond.show{display:block}
+
+  /* Notices */
+  .notice{background:var(--stone);border-radius:var(--r);padding:1.05rem 1.2rem;font-size:.88rem;line-height:1.65;color:var(--muted);margin:1.1rem 0}
+  .notice strong{color:var(--charcoal)}
+  .notice.warn{background:#fff6f6;border-left:4px solid var(--red)}
+
+  /* Signature */
+  .sig{font-family:var(--serif);font-size:1.15rem;font-style:italic;letter-spacing:.02em}
+
+  /* Waiver */
+  .waiver{max-height:280px;overflow-y:auto;background:var(--stone);border-radius:var(--r);padding:1.15rem 1.3rem;font-size:.85rem;line-height:1.7;color:var(--muted);margin-bottom:1.2rem;border:1px solid var(--border)}
+  .waiver h3{font-family:var(--cond);font-size:.92rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--charcoal);margin-bottom:.7rem}
+  .waiver p{margin-bottom:.8rem}
+
+  /* Buttons + status */
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:.95rem 2.2rem;border-radius:var(--r);font-family:var(--cond);font-size:1.05rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;transition:var(--t);border:2px solid transparent}
+  .btn-red{background:var(--red);color:#fff}
+  .btn-red:hover{background:var(--red-h)}
+  .btn-red[disabled]{opacity:.55;cursor:not-allowed}
+  .actions{display:flex;flex-direction:column;align-items:center;gap:.9rem;padding-top:.5rem}
+  .err{display:none;background:#fff6f6;border-left:4px solid var(--red);border-radius:var(--r);padding:.85rem 1.1rem;font-size:.9rem;color:var(--red-h);margin-bottom:1.1rem}
+  .err.show{display:block}
+  .field.invalid input,.field.invalid select,.field.invalid textarea{border-color:var(--red)}
+
+  /* Success */
+  .done{display:none;text-align:center;padding:1.5rem 0 1rem}
+  .done.show{display:block}
+  .done-ic{width:74px;height:74px;background:var(--charcoal);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 1.35rem;color:var(--yellow);font-size:2.1rem}
+  .done h2{font-family:var(--serif);font-size:1.8rem;margin-bottom:.8rem}
+  .done p{color:var(--muted);margin-bottom:1rem}
+  .done .ref{display:inline-block;font-family:var(--cond);font-size:1.05rem;font-weight:700;letter-spacing:.1em;background:var(--stone);border-radius:var(--r);padding:.55rem 1.2rem;color:var(--charcoal)}
+
+  .foot{text-align:center;padding:1.5rem 0 3rem;font-size:.85rem;color:var(--muted)}
+  .foot a{color:var(--charcoal)}
+
+  @media(max-width:640px){
+    .row,.row.thirds{grid-template-columns:1fr}
+    .card{padding:1.5rem 1.25rem 1.75rem}
+    .ev{padding:1.25rem 1.25rem}
+    .ev dl{grid-template-columns:1fr;gap:.15rem}
+    .ev dt{margin-top:.6rem}
+  }
+</style>
+
+<!-- Netlify form stub: staff notification only. Carries no health answers —
+     tol-submit posts to this after storing the full application in Blobs. -->
+<form name="tree-of-life-alert" netlify netlify-honeypot="bot-field" hidden>
+  <input type="text" name="applicant">
+  <input type="email" name="email">
+  <input type="text" name="phone">
+  <input type="text" name="city">
+  <input type="text" name="state">
+  <input type="text" name="received">
+  <input type="text" name="reference">
+  <input type="text" name="review">
+</form>
+
+<header class="mast">
+  <div class="wrap">
+    <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    <span class="lbl">Application</span>
+    <h1>Tree of Life Gathering</h1>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ═══ EVENT DETAILS ═══
+       PLACEHOLDER — Roberta had not confirmed dates or venue as of July 29, 2026.
+       Update the three <dd> values below and delete the .note block when she does. -->
+  <section class="ev" id="ev">
+    <h2>Gathering Details</h2>
+    <dl>
+      <dt>Dates</dt><dd id="ev-dates">To be announced</dd>
+      <dt>Hours</dt><dd id="ev-hours">8:30 am – 5:30 pm daily</dd>
+      <dt>Location</dt><dd id="ev-place">Fairbanks, Alaska</dd>
+      <dt>Meals</dt><dd>Provided at no cost to participants</dd>
+      <dt>Attendance</dt><dd>Full attendance at all sessions is required</dd>
+    </dl>
+    <p class="note" id="ev-note"><strong>Dates are being finalized.</strong> You're welcome to apply now — we'll confirm the schedule with you directly before the gathering.</p>
+  </section>
+
+  <div class="card">
+    <!-- Success state -->
+    <div class="done" id="done">
+      <div class="done-ic">✓</div>
+      <h2>Application Received</h2>
+      <p>Thank you for applying to the Tree of Life Gathering. A member of our team will follow up with you personally about next steps.</p>
+      <p>Your reference number:</p>
+      <p><span class="ref" id="done-ref"></span></p>
+      <p style="margin-top:1.4rem">Questions? Call <strong>(262) 439-5663</strong></p>
+    </div>
+
+    <form id="tol-form" novalidate>
+      <p class="intro">Please answer every question honestly. Your answers help us prepare well for you and make sure the gathering is a safe place for everyone who attends. Everything you share is kept confidential and read only by LIM staff involved in the gathering.</p>
+
+      <div class="err" id="err"></div>
+
+      <!-- 1 · Personal Information -->
+      <div class="sect">
+        <p class="sect-title">1 · Your Information</p>
+        <div class="row">
+          <div class="field"><label for="firstName">First Name <span class="req">*</span></label><input id="firstName" name="firstName" type="text" autocomplete="given-name" required></div>
+          <div class="field"><label for="lastName">Last Name <span class="req">*</span></label><input id="lastName" name="lastName" type="text" autocomplete="family-name" required></div>
+        </div>
+        <div class="row full">
+          <div class="field"><label for="address">Street Address <span class="req">*</span></label><input id="address" name="address" type="text" autocomplete="street-address" required></div>
+        </div>
+        <div class="row thirds">
+          <div class="field"><label for="city">City <span class="req">*</span></label><input id="city" name="city" type="text" autocomplete="address-level2" required></div>
+          <div class="field"><label for="state">State <span class="req">*</span></label><input id="state" name="state" type="text" autocomplete="address-level1" maxlength="2" style="text-transform:uppercase" required></div>
+          <div class="field"><label for="zip">ZIP <span class="req">*</span></label><input id="zip" name="zip" type="text" autocomplete="postal-code" inputmode="numeric" required></div>
+        </div>
+        <div class="row">
+          <div class="field"><label for="phone">Phone <span class="req">*</span></label><input id="phone" name="phone" type="tel" autocomplete="tel" required></div>
+          <div class="field"><label for="email">Email <span class="req">*</span></label><input id="email" name="email" type="email" autocomplete="email" required></div>
+        </div>
+      </div>
+
+      <!-- 2 · Emergency Contact -->
+      <div class="sect">
+        <p class="sect-title">2 · Emergency Contact</p>
+        <div class="row">
+          <div class="field"><label for="emergencyName">Full Name <span class="req">*</span></label><input id="emergencyName" name="emergencyName" type="text" required></div>
+          <div class="field"><label for="emergencyPhone">Phone <span class="req">*</span></label><input id="emergencyPhone" name="emergencyPhone" type="tel" required></div>
+        </div>
+      </div>
+
+      <!-- 3 · About You -->
+      <div class="sect">
+        <p class="sect-title">3 · About You</p>
+        <div class="row full">
+          <div class="field">
+            <label>Age <span class="req">*</span></label>
+            <div class="radio" data-name="ageRange">
+              <label><input type="radio" name="ageRange" value="21-30" required> 21–30</label>
+              <label><input type="radio" name="ageRange" value="31-50"> 31–50</label>
+              <label><input type="radio" name="ageRange" value="50+"> 50+</label>
+            </div>
+          </div>
+        </div>
+        <div class="row full">
+          <div class="field">
+            <label>Gender <span class="req">*</span></label>
+            <div class="radio" data-name="gender">
+              <label><input type="radio" name="gender" value="male" required> Male</label>
+              <label><input type="radio" name="gender" value="female"> Female</label>
+              <label><input type="radio" name="gender" value="other"> Other</label>
+            </div>
+          </div>
+        </div>
+        <div class="row full">
+          <div class="field">
+            <label for="ethnicity">Race / Ethnicity <span class="req">*</span></label>
+            <select id="ethnicity" name="ethnicity" required>
+              <option value="">Select one…</option>
+              <option>Alaska Native</option>
+              <option>American Indian</option>
+              <option>Caucasian</option>
+              <option>African American</option>
+              <option>Native Hawaiian</option>
+              <option>Pacific Islander</option>
+              <option>Hispanic</option>
+              <option>Other</option>
+            </select>
+          </div>
+        </div>
+        <div class="row full">
+          <div class="field">
+            <label for="education">Highest Level of Education <span class="req">*</span></label>
+            <select id="education" name="education" required>
+              <option value="">Select one…</option>
+              <option>Secondary / High School</option>
+              <option>Vocational</option>
+              <option>Associate's Degree</option>
+              <option>Bachelor's Degree</option>
+              <option>Master's Degree</option>
+              <option>Doctorate</option>
+              <option>Other</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- 4 · Attendance -->
+      <div class="sect">
+        <p class="sect-title">4 · Attendance &amp; Accommodations</p>
+        <div class="row full">
+          <div class="field">
+            <label>Are you able to attend all three full days? <span class="req">*</span></label>
+            <div class="radio" data-name="attendAll">
+              <label><input type="radio" name="attendAll" value="yes" required> Yes</label>
+              <label><input type="radio" name="attendAll" value="no"> No</label>
+            </div>
+            <div class="cond" id="c-attendAll">
+              <div class="field"><label for="attendAllExplain">Please explain</label><textarea id="attendAllExplain" name="attendAllExplain"></textarea></div>
+            </div>
+          </div>
+        </div>
+        <div class="row full">
+          <div class="field">
+            <label for="accommodations">Special Accommodation Needs <span class="opt">(optional)</span></label>
+            <textarea id="accommodations" name="accommodations" placeholder="Mobility, dietary, hearing, vision, or anything else we should prepare for."></textarea>
+          </div>
+        </div>
+      </div>
+
+      <!-- 5 · Health & Safety -->
+      <div class="sect">
+        <p class="sect-title">5 · Health &amp; Safety</p>
+        <p class="sect-help">The Tree of Life Gathering works with deep and often painful material. These questions help our facilitators care for you well. There are no wrong answers, and nothing here disqualifies you on its own.</p>
+
+        <div class="row full">
+          <div class="field">
+            <label for="dvHistory">Please describe any experience you've had with domestic violence, abuse, or neglect <span class="req">*</span></label>
+            <textarea id="dvHistory" name="dvHistory" required></textarea>
+            <span class="hint">If none, simply write "none."</span>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label for="behavioralHealth">Please describe any behavioral health conditions and/or addictions <span class="req">*</span></label>
+            <textarea id="behavioralHealth" name="behavioralHealth" required></textarea>
+            <span class="hint">If none, simply write "none."</span>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label>Are you currently receiving care for either of the above? <span class="req">*</span></label>
+            <div class="radio" data-name="receivingCare">
+              <label><input type="radio" name="receivingCare" value="yes" required> Yes</label>
+              <label><input type="radio" name="receivingCare" value="no"> No</label>
+            </div>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label>Are you currently in a relationship that feels unsafe? <span class="req">*</span></label>
+            <div class="radio" data-name="unsafeRelationship">
+              <label><input type="radio" name="unsafeRelationship" value="yes" required> Yes</label>
+              <label><input type="radio" name="unsafeRelationship" value="no"> No</label>
+            </div>
+            <div class="cond" id="c-unsafeRelationship">
+              <div class="field"><label for="unsafeRelationshipExplain">Please tell us more</label><textarea id="unsafeRelationshipExplain" name="unsafeRelationshipExplain"></textarea></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label>Are there times you do not feel safe in your home? <span class="req">*</span></label>
+            <div class="radio" data-name="unsafeHome">
+              <label><input type="radio" name="unsafeHome" value="yes" required> Yes</label>
+              <label><input type="radio" name="unsafeHome" value="no"> No</label>
+            </div>
+            <div class="cond" id="c-unsafeHome">
+              <div class="field"><label for="unsafeHomeExplain">Please tell us more</label><textarea id="unsafeHomeExplain" name="unsafeHomeExplain"></textarea></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label>Are you under unusual stress or going through a major life transition? <span class="req">*</span></label>
+            <div class="radio" data-name="unusualStress">
+              <label><input type="radio" name="unusualStress" value="yes" required> Yes</label>
+              <label><input type="radio" name="unusualStress" value="no"> No</label>
+            </div>
+            <div class="cond" id="c-unusualStress">
+              <div class="field"><label for="unusualStressExplain">Please tell us more</label><textarea id="unusualStressExplain" name="unusualStressExplain"></textarea></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label>Have you ever had serious thoughts of suicide, made an attempt, or made a plan? <span class="req">*</span></label>
+            <div class="radio" data-name="suicidalThoughts">
+              <label><input type="radio" name="suicidalThoughts" value="yes" required> Yes</label>
+              <label><input type="radio" name="suicidalThoughts" value="no"> No</label>
+            </div>
+            <div class="cond" id="c-suicidalThoughts">
+              <div class="field">
+                <label for="suicidalThoughtsDetail">Please tell us where things stand for you today</label>
+                <textarea id="suicidalThoughtsDetail" name="suicidalThoughtsDetail"></textarea>
+              </div>
+              <div class="notice warn" style="margin-bottom:0">
+                <strong>If you are in crisis right now, please don't wait on this application.</strong> Call or text <strong>988</strong> (Suicide &amp; Crisis Lifeline) any time, day or night. You can still apply afterward — we would be glad to have you.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label>Have you experienced a traumatic event within the past 12 months? <span class="req">*</span></label>
+            <div class="radio" data-name="recentTrauma">
+              <label><input type="radio" name="recentTrauma" value="yes" required> Yes</label>
+              <label><input type="radio" name="recentTrauma" value="no"> No</label>
+            </div>
+            <div class="cond" id="c-recentTrauma">
+              <div class="field"><label for="recentTraumaDetail">Brief description</label><textarea id="recentTraumaDetail" name="recentTraumaDetail"></textarea></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label for="supportSystem">Who supports you? <span class="opt">(optional)</span></label>
+            <textarea id="supportSystem" name="supportSystem" placeholder="Family, friends, church, counselor, elder — whoever you lean on."></textarea>
+          </div>
+        </div>
+      </div>
+
+      <!-- 6 · Agreements -->
+      <div class="sect">
+        <p class="sect-title">6 · Agreements</p>
+        <div class="field">
+          <label>I agree to the following <span class="req">*</span></label>
+          <div class="checks">
+            <label><input type="checkbox" name="agreeAttend"> I will attend all sessions of the gathering.</label>
+            <label><input type="checkbox" name="agreeSubstances"> I will refrain from drugs and alcohol for the duration of the gathering.</label>
+            <label><input type="checkbox" name="agreeConfidentiality"> I will keep what others share in confidence.</label>
+            <label><input type="checkbox" name="agreeFollowUp"> I understand LIM may contact me for follow-up after the gathering.</label>
+          </div>
+        </div>
+
+        <div class="notice">
+          <strong>Mandated reporter disclosure.</strong> Our facilitators are legally obligated to report any disclosure of harm to yourself or others, including abuse, neglect, or threats of harm. We tell you this up front so there are no surprises — and so you know we take your safety seriously.
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label>May we photograph you during the gathering? <span class="req">*</span></label>
+            <div class="radio" data-name="photoPermission">
+              <label><input type="radio" name="photoPermission" value="yes" required> Yes</label>
+              <label><input type="radio" name="photoPermission" value="no"> No</label>
+            </div>
+            <span class="hint">Answering "no" will not affect your application in any way.</span>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label for="applicationSignature">Type Your Full Name to Sign This Application <span class="req">*</span></label>
+            <input id="applicationSignature" name="applicationSignature" class="sig" type="text" autocomplete="off" required>
+            <span class="hint">By typing your name above, you are providing your electronic signature, which has the same legal effect as a handwritten signature.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- 7 · Waiver -->
+      <div class="sect">
+        <p class="sect-title">7 · Assumption of Risk &amp; Liability Waiver</p>
+        <div class="waiver" tabindex="0" aria-label="Liability waiver text">
+          <h3>Participant Assumption of Risks, Indemnity Agreement, and Liability Waiver and Release</h3>
+          <p>I am participating in the Tree of Life Gathering voluntarily and of my own free will.</p>
+          <p>I understand that the gathering addresses emotional, mental, and spiritual content, including subject matter related to trauma, grief, abuse, and loss. I understand that engaging with this material may bring up difficult memories, feelings, or reactions, during the gathering or afterward.</p>
+          <p>I knowingly and freely assume all risks inherent in participating, both known and unknown, including risks to my emotional and physical wellbeing.</p>
+          <p>I release, waive, and discharge Lutheran Indian Ministries, the Tree of Life Gathering, the host venue, and their respective officers, directors, employees, volunteers, and agents from any and all liability, claims, demands, or causes of action arising out of my participation, except for liability arising from willful misconduct or gross negligence.</p>
+          <p>I am responsible for my own health and wellbeing. I affirm that I have disclosed relevant health information in this application, and I will notify staff if my circumstances change before the gathering.</p>
+          <p>I agree to indemnify and hold harmless the parties named above from any loss, liability, damage, or cost they may incur arising out of my participation.</p>
+          <p>This agreement is governed by the laws of the State of Alaska. If any portion of this agreement is held to be invalid, the remainder shall continue in full legal force and effect.</p>
+          <p>I have read this waiver and release, I understand it, and I sign it freely and voluntarily.</p>
+        </div>
+        <div class="row full">
+          <div class="field">
+            <label for="waiverSignature">Type Your Full Name to Sign This Waiver <span class="req">*</span></label>
+            <input id="waiverSignature" name="waiverSignature" class="sig" type="text" autocomplete="off" required>
+          </div>
+        </div>
+      </div>
+
+      <!-- Honeypot -->
+      <div style="position:absolute;left:-9999px" aria-hidden="true">
+        <label>Leave this field blank<input type="text" name="bot-field" tabindex="-1" autocomplete="off"></label>
+      </div>
+
+      <div class="actions">
+        <button type="submit" class="btn btn-red" id="submit-btn">Submit Application</button>
+        <p style="font-size:.83rem;color:var(--muted);text-align:center">Your answers are kept confidential and are read only by LIM staff involved in the gathering.</p>
+      </div>
+    </form>
+  </div>
+
+  <p class="foot">Lutheran Indian Ministries · <a href="index.html">limhope.org</a> · (262) 439-5663</p>
+</main>
+
+<script>
+(function(){
+  var form = document.getElementById('tol-form'),
+      err  = document.getElementById('err'),
+      btn  = document.getElementById('submit-btn'),
+      done = document.getElementById('done');
+
+  // Conditional follow-ups: show when the paired question is answered "yes",
+  // except attendAll, which asks for an explanation on "no".
+  var CONDITIONS = {
+    attendAll: 'no',
+    unsafeRelationship: 'yes',
+    unsafeHome: 'yes',
+    unusualStress: 'yes',
+    suicidalThoughts: 'yes',
+    recentTrauma: 'yes'
+  };
+
+  Object.keys(CONDITIONS).forEach(function(name){
+    var box = document.getElementById('c-' + name);
+    if(!box) return;
+    form.querySelectorAll('input[name="' + name + '"]').forEach(function(input){
+      input.addEventListener('change', function(){
+        box.classList.toggle('show', input.checked && input.value === CONDITIONS[name]);
+      });
+    });
+  });
+
+  function fail(msg, el){
+    err.textContent = msg;
+    err.classList.add('show');
+    (el || err).scrollIntoView({behavior:'smooth', block:'center'});
+    if(el && el.focus) el.focus({preventScroll:true});
+    return false;
+  }
+
+  function collect(){
+    var data = {};
+    // Text, email, tel, textarea, select
+    form.querySelectorAll('input[type=text],input[type=email],input[type=tel],textarea,select').forEach(function(el){
+      if(el.name && el.name !== 'bot-field') data[el.name] = el.value.trim();
+    });
+    // Radios
+    form.querySelectorAll('input[type=radio]:checked').forEach(function(el){ data[el.name] = el.value; });
+    // Checkboxes
+    form.querySelectorAll('input[type=checkbox]').forEach(function(el){ data[el.name] = el.checked; });
+    var bot = form.querySelector('input[name="bot-field"]');
+    if(bot && bot.value) data['bot-field'] = bot.value;
+    return data;
+  }
+
+  function validate(data){
+    form.querySelectorAll('.field.invalid').forEach(function(f){ f.classList.remove('invalid'); });
+
+    var required = [
+      ['firstName','your first name'], ['lastName','your last name'],
+      ['address','your street address'], ['city','your city'], ['state','your state'],
+      ['zip','your ZIP code'], ['phone','your phone number'], ['email','your email address'],
+      ['emergencyName','an emergency contact name'], ['emergencyPhone','an emergency contact phone'],
+      ['ageRange','your age range'], ['gender','your gender'], ['ethnicity','your race or ethnicity'],
+      ['education','your level of education'], ['attendAll','whether you can attend all three days'],
+      ['dvHistory','the domestic violence question'], ['behavioralHealth','the behavioral health question'],
+      ['receivingCare','whether you are currently receiving care'],
+      ['unsafeRelationship','the unsafe relationship question'],
+      ['unsafeHome','the safety at home question'],
+      ['unusualStress','the stress question'],
+      ['suicidalThoughts','the question about thoughts of suicide'],
+      ['recentTrauma','the recent trauma question'],
+      ['photoPermission','the photography question'],
+      ['applicationSignature','your signature on the application'],
+      ['waiverSignature','your signature on the waiver']
+    ];
+
+    for(var i=0;i<required.length;i++){
+      var name = required[i][0];
+      if(!data[name]){
+        var el = form.querySelector('[name="'+name+'"]');
+        var wrap = el && el.closest('.field');
+        if(wrap) wrap.classList.add('invalid');
+        return fail('Please complete ' + required[i][1] + '.', el);
+      }
+    }
+
+    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(data.email)){
+      return fail('That email address doesn’t look right.', form.querySelector('[name=email]'));
+    }
+
+    if(!(data.agreeAttend && data.agreeSubstances && data.agreeConfidentiality && data.agreeFollowUp)){
+      return fail('Please agree to all four conditions before submitting.', form.querySelector('[name=agreeAttend]'));
+    }
+
+    err.classList.remove('show');
+    return true;
+  }
+
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    var data = collect();
+    if(!validate(data)) return;
+
+    btn.disabled = true;
+    btn.textContent = 'Submitting…';
+
+    fetch('/api/tol-submit', {
+      method: 'POST',
+      headers: {'content-type':'application/json'},
+      body: JSON.stringify(data)
+    })
+    .then(function(r){ return r.json().then(function(j){ return {ok:r.ok, body:j}; }); })
+    .then(function(res){
+      if(!res.ok || !res.body.ok){
+        throw new Error(res.body && res.body.error || 'Something went wrong.');
+      }
+      form.style.display = 'none';
+      document.getElementById('done-ref').textContent = res.body.ref;
+      done.classList.add('show');
+      window.scrollTo({top:0, behavior:'smooth'});
+    })
+    .catch(function(e){
+      btn.disabled = false;
+      btn.textContent = 'Submit Application';
+      fail(e.message + ' If this keeps happening, please call (262) 439-5663 and we’ll take your application by phone.');
+    });
+  });
+})();
+</script>

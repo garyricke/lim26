@@ -1,0 +1,366 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+<title>Tree of Life Applications — LIM Admin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  :root{
+    --red:#ED1C24;--red-h:#c8151c;--yellow:#FFDE16;
+    --charcoal:#282924;--sage:#B2AC88;--sage-d:#8a8665;
+    --sky:#A2C2D1;--sky-d:#6fa3b8;--stone:#EBE9E4;
+    --muted:#5a5a52;--border:#d9d6ce;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+    --r:8px;--rl:14px;
+  }
+  body{font-family:var(--body);color:var(--charcoal);background:var(--stone);line-height:1.65}
+  button{cursor:pointer;font-family:inherit;border:none;background:none}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 1.25rem}
+
+  .top{background:var(--charcoal);color:#fff;padding:1.4rem 0}
+  .top .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+  .top h1{font-family:var(--cond);font-size:1.4rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+  .top h1 span{color:var(--yellow)}
+  .top .meta{font-size:.83rem;color:rgba(255,255,255,.6)}
+  .top a{color:var(--yellow);font-size:.85rem}
+
+  /* Gate */
+  .gate{max-width:420px;margin:5rem auto;background:#fff;border-radius:var(--rl);padding:2.2rem 2rem;box-shadow:0 6px 30px rgba(0,0,0,.1);text-align:center}
+  .gate h2{font-family:var(--serif);font-size:1.4rem;margin-bottom:.5rem}
+  .gate p{font-size:.9rem;color:var(--muted);margin-bottom:1.4rem}
+  .gate input{width:100%;padding:.75rem .9rem;border:2px solid var(--border);border-radius:var(--r);font-size:1rem;font-family:var(--body);margin-bottom:.9rem}
+  .gate input:focus{outline:none;border-color:var(--charcoal)}
+  .gate .err{color:var(--red-h);font-size:.87rem;min-height:1.3em;margin-bottom:.5rem}
+
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:.45rem;padding:.7rem 1.5rem;border-radius:var(--r);font-family:var(--cond);font-size:.95rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;border:2px solid transparent;transition:.2s}
+  .btn-red{background:var(--red);color:#fff;width:100%}
+  .btn-red:hover{background:var(--red-h)}
+  .btn-sm{padding:.4rem 1rem;font-size:.82rem;background:var(--charcoal);color:#fff}
+  .btn-sm:hover{background:#3d3e36}
+  .btn-ol{border-color:var(--border);color:var(--charcoal);background:#fff}
+
+  /* Toolbar */
+  .bar{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;margin:1.6rem 0 1.1rem}
+  .bar .count{font-family:var(--cond);font-size:1.1rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase}
+  .bar .spacer{flex:1}
+  .bar select,.bar input{padding:.5rem .75rem;border:2px solid var(--border);border-radius:var(--r);font-size:.88rem;font-family:var(--body);background:#fff}
+
+  /* List */
+  .list{display:flex;flex-direction:column;gap:.6rem;padding-bottom:3rem}
+  .row{background:#fff;border-radius:var(--r);padding:.95rem 1.1rem;display:grid;grid-template-columns:auto 1fr auto auto;gap:1rem;align-items:center;cursor:pointer;transition:.15s;border-left:4px solid transparent}
+  .row:hover{box-shadow:0 3px 14px rgba(0,0,0,.09);transform:translateY(-1px)}
+  .row.flagged{border-left-color:var(--red)}
+  .row .nm{font-weight:600}
+  .row .sub{font-size:.82rem;color:var(--muted)}
+  .row .when{font-size:.82rem;color:var(--muted);text-align:right;white-space:nowrap}
+  .flag{display:inline-block;background:var(--red);color:#fff;font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.12rem .5rem;border-radius:20px;margin-left:.5rem;vertical-align:middle}
+  .pill{font-family:var(--cond);font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.22rem .7rem;border-radius:20px;white-space:nowrap}
+  .pill.new{background:var(--yellow);color:var(--charcoal)}
+  .pill.reviewed{background:var(--sky);color:var(--charcoal)}
+  .pill.accepted{background:#2f7d4f;color:#fff}
+  .pill.waitlisted{background:var(--sage);color:var(--charcoal)}
+  .pill.declined{background:#8d8d85;color:#fff}
+  .empty{background:#fff;border-radius:var(--rl);padding:3rem 2rem;text-align:center;color:var(--muted)}
+
+  /* Detail */
+  .scrim{position:fixed;inset:0;background:rgba(24,24,20,.72);z-index:100;display:none;align-items:flex-start;justify-content:center;padding:2.5rem 1.25rem;overflow-y:auto}
+  .scrim.show{display:flex}
+  .sheet{background:#fff;border-radius:var(--rl);max-width:820px;width:100%;padding:2rem 2rem 2.5rem;position:relative}
+  .sheet .x{position:absolute;top:1rem;right:1.1rem;font-size:1.6rem;line-height:1;color:var(--muted)}
+  .sheet h2{font-family:var(--serif);font-size:1.6rem;margin-bottom:.2rem}
+  .sheet .ref{font-family:var(--cond);font-size:.85rem;letter-spacing:.1em;color:var(--muted);margin-bottom:1.5rem}
+  .grp{margin-bottom:1.6rem}
+  .grp h3{font-family:var(--cond);font-size:.75rem;font-weight:800;letter-spacing:.13em;text-transform:uppercase;color:rgba(40,41,36,.45);border-bottom:1px solid var(--border);padding-bottom:.4rem;margin-bottom:.8rem}
+  .qa{margin-bottom:.85rem}
+  .qa dt{font-family:var(--cond);font-size:.76rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.15rem}
+  .qa dd{font-size:.93rem;white-space:pre-wrap}
+  .qa dd.yes{color:var(--red-h);font-weight:600}
+  .statusbar{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;padding-top:1.2rem;border-top:1px solid var(--border)}
+  .statusbar span{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-right:.3rem}
+
+  @media(max-width:700px){
+    .row{grid-template-columns:1fr auto;gap:.5rem}
+    .row .when{grid-column:1/-1;text-align:left}
+    .sheet{padding:1.5rem 1.25rem 2rem}
+  }
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <h1>Tree of Life <span>Applications</span></h1>
+    <div class="meta" id="meta"></div>
+    <a href="index.html">← Back to site</a>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- Password gate. Nothing loads until the server accepts it. -->
+  <div class="gate" id="gate">
+    <h2>Staff Sign-In</h2>
+    <p>Applications contain confidential health information. Please sign in to continue.</p>
+    <input type="password" id="pw" placeholder="Password" autocomplete="current-password">
+    <div class="err" id="gate-err"></div>
+    <button class="btn btn-red" id="gate-btn">Sign In</button>
+  </div>
+
+  <div id="app" hidden>
+    <div class="bar">
+      <span class="count" id="count"></span>
+      <div class="spacer"></div>
+      <input type="search" id="search" placeholder="Search name or email…">
+      <select id="filter">
+        <option value="">All statuses</option>
+        <option value="new">New</option>
+        <option value="reviewed">Reviewed</option>
+        <option value="accepted">Accepted</option>
+        <option value="waitlisted">Waitlisted</option>
+        <option value="declined">Declined</option>
+      </select>
+      <button class="btn btn-sm btn-ol" id="csv-btn">Export CSV</button>
+      <button class="btn btn-sm btn-ol" id="out-btn">Sign out</button>
+    </div>
+    <div class="list" id="list"></div>
+  </div>
+</main>
+
+<div class="scrim" id="scrim">
+  <div class="sheet" id="sheet"></div>
+</div>
+
+<script>
+(function(){
+  var PW = null;
+  var items = [];
+
+  var gate = document.getElementById('gate'),
+      gateErr = document.getElementById('gate-err'),
+      pwInput = document.getElementById('pw'),
+      app = document.getElementById('app'),
+      list = document.getElementById('list'),
+      countEl = document.getElementById('count'),
+      metaEl = document.getElementById('meta'),
+      search = document.getElementById('search'),
+      filter = document.getElementById('filter'),
+      scrim = document.getElementById('scrim'),
+      sheet = document.getElementById('sheet');
+
+  function api(payload){
+    return fetch('/api/tol-admin', {
+      method:'POST',
+      headers:{'content-type':'application/json'},
+      body: JSON.stringify(Object.assign({password: PW}, payload))
+    }).then(function(r){
+      return r.json().then(function(j){
+        if(!r.ok || !j.ok) throw new Error(j.error || 'Request failed.');
+        return j;
+      });
+    });
+  }
+
+  function esc(s){
+    return String(s == null ? '' : s).replace(/[&<>"]/g, function(c){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];
+    });
+  }
+
+  function fmtDate(iso){
+    if(!iso) return '';
+    var d = new Date(iso);
+    return d.toLocaleDateString(undefined,{month:'short',day:'numeric',year:'numeric'}) +
+           ' · ' + d.toLocaleTimeString(undefined,{hour:'numeric',minute:'2-digit'});
+  }
+
+  // ── Sign in ──────────────────────────────────────────────────────────────
+  function signIn(){
+    var val = pwInput.value;
+    if(!val){ gateErr.textContent = 'Please enter the password.'; return; }
+    gateErr.textContent = 'Checking…';
+    PW = val;
+    api({action:'list'}).then(function(res){
+      try{ sessionStorage.setItem('lim_tol_pw', val); }catch(e){}
+      gate.hidden = true;
+      app.hidden = false;
+      items = res.items;
+      render();
+    }).catch(function(e){
+      PW = null;
+      gateErr.textContent = e.message;
+      pwInput.select();
+    });
+  }
+
+  document.getElementById('gate-btn').addEventListener('click', signIn);
+  pwInput.addEventListener('keydown', function(e){ if(e.key === 'Enter') signIn(); });
+
+  document.getElementById('out-btn').addEventListener('click', function(){
+    PW = null; items = [];
+    try{ sessionStorage.removeItem('lim_tol_pw'); }catch(e){}
+    app.hidden = true; gate.hidden = false; pwInput.value = ''; gateErr.textContent = '';
+  });
+
+  // ── List ─────────────────────────────────────────────────────────────────
+  function render(){
+    var q = search.value.trim().toLowerCase(),
+        f = filter.value;
+
+    var shown = items.filter(function(it){
+      if(f && it.status !== f) return false;
+      if(!q) return true;
+      return (it.name + ' ' + it.email).toLowerCase().indexOf(q) > -1;
+    });
+
+    countEl.textContent = shown.length + (shown.length === 1 ? ' Application' : ' Applications');
+    metaEl.textContent = items.length + ' total · ' + items.filter(function(i){return i.status==='new';}).length + ' new';
+
+    if(!shown.length){
+      list.innerHTML = '<div class="empty">' +
+        (items.length ? 'No applications match this filter.' : 'No applications yet. They’ll appear here as they arrive.') +
+        '</div>';
+      return;
+    }
+
+    list.innerHTML = shown.map(function(it){
+      return '<div class="row' + (it.flagged ? ' flagged' : '') + '" data-key="' + esc(it.key) + '">' +
+        '<span class="pill ' + esc(it.status) + '">' + esc(it.status) + '</span>' +
+        '<div>' +
+          '<div class="nm">' + esc(it.name) + (it.flagged ? '<span class="flag">Review first</span>' : '') + '</div>' +
+          '<div class="sub">' + esc(it.email) + ' · ' + esc(it.phone) +
+            (it.city ? ' · ' + esc(it.city) + ', ' + esc(it.state) : '') + '</div>' +
+        '</div>' +
+        '<div class="when">' + esc(fmtDate(it.receivedAt)) + '<br><span style="opacity:.65">' + esc(it.ref) + '</span></div>' +
+        '<button class="btn btn-sm">Open</button>' +
+      '</div>';
+    }).join('');
+  }
+
+  search.addEventListener('input', render);
+  filter.addEventListener('change', render);
+
+  list.addEventListener('click', function(e){
+    var row = e.target.closest('.row');
+    if(row) openDetail(row.dataset.key);
+  });
+
+  // ── Detail ───────────────────────────────────────────────────────────────
+  var GROUPS = [
+    ['Contact', [
+      ['firstName','First name'],['lastName','Last name'],['address','Address'],
+      ['city','City'],['state','State'],['zip','ZIP'],['phone','Phone'],['email','Email']
+    ]],
+    ['Emergency Contact', [['emergencyName','Name'],['emergencyPhone','Phone']]],
+    ['About', [['ageRange','Age'],['gender','Gender'],['ethnicity','Race / ethnicity'],['education','Education']]],
+    ['Attendance', [
+      ['attendAll','Can attend all three days'],['attendAllExplain','Explanation'],
+      ['accommodations','Accommodation needs']
+    ]],
+    ['Health &amp; Safety', [
+      ['dvHistory','Domestic violence / abuse / neglect'],
+      ['behavioralHealth','Behavioral health / addictions'],
+      ['receivingCare','Currently receiving care'],
+      ['unsafeRelationship','In an unsafe relationship'],['unsafeRelationshipExplain','Explanation'],
+      ['unsafeHome','Does not feel safe at home'],['unsafeHomeExplain','Explanation'],
+      ['unusualStress','Unusual stress / life transition'],['unusualStressExplain','Explanation'],
+      ['suicidalThoughts','Thoughts of suicide / attempt / plan'],['suicidalThoughtsDetail','Where things stand today'],
+      ['recentTrauma','Trauma in past 12 months'],['recentTraumaDetail','Description'],
+      ['supportSystem','Support system']
+    ]],
+    ['Agreements', [
+      ['photoPermission','Photography permission'],
+      ['applicationSignature','Application signature'],
+      ['waiverSignature','Waiver signature']
+    ]]
+  ];
+
+  var STATUSES = ['new','reviewed','accepted','waitlisted','declined'];
+
+  function openDetail(key){
+    sheet.innerHTML = '<p style="padding:2rem;text-align:center;color:var(--muted)">Loading…</p>';
+    scrim.classList.add('show');
+    document.body.style.overflow = 'hidden';
+
+    api({action:'get', key:key}).then(function(res){
+      var a = res.application;
+      var html = '<button class="x" aria-label="Close">×</button>' +
+        '<h2>' + esc(a.firstName + ' ' + a.lastName) + '</h2>' +
+        '<p class="ref">' + esc(a.ref) + ' · received ' + esc(fmtDate(a.receivedAt)) + '</p>';
+
+      GROUPS.forEach(function(g){
+        var rows = g[1].map(function(f){
+          var v = a[f[0]];
+          if(v == null || v === '') return '';
+          var cls = (v === 'yes' && /unsafe|suicidal|recentTrauma/i.test(f[0])) ? ' class="yes"' : '';
+          return '<div class="qa"><dt>' + f[1] + '</dt><dd' + cls + '>' + esc(v) + '</dd></div>';
+        }).filter(Boolean).join('');
+        if(rows) html += '<div class="grp"><h3>' + g[0] + '</h3>' + rows + '</div>';
+      });
+
+      html += '<div class="statusbar"><span>Status</span>' +
+        STATUSES.map(function(s){
+          return '<button class="btn btn-sm ' + (a.status === s ? '' : 'btn-ol') +
+                 '" data-status="' + s + '" data-key="' + esc(key) + '">' + s + '</button>';
+        }).join('') + '</div>';
+
+      sheet.innerHTML = html;
+    }).catch(function(e){
+      sheet.innerHTML = '<button class="x" aria-label="Close">×</button>' +
+        '<p style="padding:2rem;text-align:center;color:var(--red-h)">' + esc(e.message) + '</p>';
+    });
+  }
+
+  function closeDetail(){
+    scrim.classList.remove('show');
+    document.body.style.overflow = '';
+  }
+
+  scrim.addEventListener('click', function(e){
+    if(e.target === scrim || e.target.classList.contains('x')) return closeDetail();
+
+    var st = e.target.dataset && e.target.dataset.status;
+    if(st){
+      var key = e.target.dataset.key, btnEl = e.target, prev = btnEl.textContent;
+      btnEl.textContent = '…';
+      api({action:'status', key:key, status:st}).then(function(){
+        var it = items.filter(function(i){ return i.key === key; })[0];
+        if(it) it.status = st;
+        render();
+        closeDetail();
+      }).catch(function(err){ btnEl.textContent = prev; alert(err.message); });
+    }
+  });
+
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'Escape' && scrim.classList.contains('show')) closeDetail();
+  });
+
+  // ── CSV ──────────────────────────────────────────────────────────────────
+  document.getElementById('csv-btn').addEventListener('click', function(){
+    var b = this;
+    b.textContent = 'Preparing…';
+    api({action:'csv'}).then(function(res){
+      var blob = new Blob([res.csv], {type:'text/csv;charset=utf-8'});
+      var url = URL.createObjectURL(blob);
+      var a = document.createElement('a');
+      a.href = url;
+      a.download = 'tree-of-life-applications.csv';
+      a.click();
+      URL.revokeObjectURL(url);
+      b.textContent = 'Export CSV';
+    }).catch(function(e){
+      b.textContent = 'Export CSV';
+      alert(e.message);
+    });
+  });
+
+  // Restore a session that's already signed in
+  try{
+    var saved = sessionStorage.getItem('lim_tol_pw');
+    if(saved){ pwInput.value = saved; signIn(); }
+  }catch(e){}
+})();
+</script>

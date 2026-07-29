@@ -189,6 +189,26 @@
     <span class="meta">Newest first · 87 commits since March 16</span>
   </div>
 
+  <!-- July 29 — Tree of Life application moved off Jotform -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 29, 2026</span>
+      <span class="entry-tag shipped">Shipped to staging</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Tree of Life application brought onto the site — Jotform retired</div>
+      <ul>
+        <li><strong>New public form:</strong> <a href="tree-of-life-application.html" class="ic">tree-of-life-application.html</a> — all 31 questions from the old Jotform, rebuilt in the LIM design system with conditional follow-ups and typed electronic signatures on both the application and the liability waiver (same pattern as <a href="release-form.html" class="ic">release-form.html</a>)</li>
+        <li><strong>New staff view:</strong> <a href="admin-tree-of-life.html" class="ic">admin-tree-of-life.html</a> — every application in one list, newest first, with search, status filters (new / reviewed / accepted / waitlisted / declined), one-click CSV export, and a <strong>"Review first"</strong> flag on any application disclosing suicidal thoughts or an unsafe home or relationship</li>
+        <li><strong>Sensitive answers stay out of email.</strong> The application asks about suicidal ideation, domestic violence, and housing safety. <span class="ic">tol-submit</span> stores the full record in Netlify Blobs and sends staff only a name-and-contact notification with a link to sign in — no health answers in any inbox</li>
+        <li><strong>Password is checked server-side</strong> in <span class="ic">tol-admin</span> against <span class="ic">TOL_ADMIN_PASSWORD</span>, not in page JavaScript. The site's admin badge (<span class="ic">lim2026admin</span>) is fine for hiding internal links but is readable in View Source — deliberately not used for this data</li>
+        <li><strong>Retires a $39/mo line item.</strong> LIM's Jotform Bronze plan bought capacity, not compliance — Jotform lists HIPAA features and a BAA starting at Gold ($129/mo), so nothing protective is being given up</li>
+        <li class="todo">Before go-live: set <span class="ic">TOL_ADMIN_PASSWORD</span> in Netlify, add staff emails to the <span class="ic">tree-of-life-alert</span> form notification, and drop in the confirmed dates/venue (placeholder block at the top of the application page)</li>
+        <li class="todo">Waiting on Roberta for confirmed gathering dates — the old Jotform still showed May 22–24, <em>2025</em></li>
+      </ul>
+    </div>
+  </div>
+
   <!-- July 21 — GTM + cookie consent -->
   <div class="entry">
     <div class="entry-head">

@@ -1,0 +1,9 @@
+{
+  "name": "lim2026",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lutheran Indian Ministries 2026 site — static HTML + Netlify Functions.",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}

@@ -24,3 +24,14 @@
   from = "/api/events-publish"
   to = "/.netlify/functions/events-publish"
   status = 200
+
+# Tree of Life application intake + staff review
+[[redirects]]
+  from = "/api/tol-submit"
+  to = "/.netlify/functions/tol-submit"
+  status = 200
+
+[[redirects]]
+  from = "/api/tol-admin"
+  to = "/.netlify/functions/tol-admin"
+  status = 200
