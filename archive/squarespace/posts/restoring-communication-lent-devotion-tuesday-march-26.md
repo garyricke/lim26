@@ -1,0 +1,40 @@
+---
+title: "Restoring Communication (Lent Devotion) - Tuesday, March 26"
+slug: restoring-communication-lent-devotion-tuesday-march-26
+date: 2019-03-26
+author: "Guest User"
+original_url: https://www.lutheranindianministries.org/news-notes/restoring-communication-lent-devotion-tuesday-march-26
+section: news-notes
+images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b5e8ce4bec6e8d1ed545/1748628700852/TTKzrPbIeT_1427979913795.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775082131-DPV0T094NIY5F51MVLYG/image-asset.jpeg"]
+---
+# Restoring Communication (Lent Devotion) - Tuesday, March 26
+
+[Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
+
+Mar 26
+
+Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
+
+![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775082131-DPV0T094NIY5F51MVLYG/image-asset.jpeg)
+
+# Restoring Communication
+
+## **And Jesus cried out again with a loud voice and yielded up His spirit. And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split.** ([Matthew 27:50-51](https://www.bible.com/bible/111/mat.27.50-51))
+
+There has been a major increase in the number of Native American language immersion programs since 2008. Many of these are for young children who are learning their “heart language.” This is exciting for 3 reasons: languages are being restored and saved from extinction, the younger generations are reconnecting with the culture of their ancestors, and with permission, we can speak God’s Word to people in their “heart language," which is the best way to share the Gospel.
+
+But effective communication involves more than learning a language. It includes listening to the heart of a person. Several Indian tribes gathered in 2016-17 to protest the oil pipeline in North Dakota. Some of them met face-to-face and listened to each other’s hearts. Conflicts of 150 years or more were resolved! Communication was restored.
+
+A breakdown of communication between people and God has been going on since the beginning. After our first parents, Adam and Eve, sinned against God in the Garden of Eden, corrupt people could no longer meet with their Holy Creator face-to-face.
+
+Jesus, the sinless Son of God, came to earth to restore that relationship. On the cross, He shouted, “It is finished” using a legal term meaning, “The debt is paid” (John 19:30.) Then, He died, and the thick curtain that prevented people from going into the Holy of Holies in the temple was destroyed by God.
+
+Jesus’ death removed the barrier so that new life, in a new relationship with God, could begin for all people. Jesus’ pure blood washes away our sin so we can now directly communicate with God. Communication with our Father God has been restored! Do you believe that? Then, join us in thanking God for eternal life.
+
+*Miigwetch (Ojibwe), Pilamaya (Lakota), Ahéheeʼ (Navajo), Thank you, Father, for hearing Jesus’ loud voice before his death as our substitute. Continue to hear his intercessions for us as He sits at your right side. Holy Spirit, touch the hearts of those to whom we communicate your truth of restoration. In the Name of our High Priest, Jesus, Amen.*
+
+### Bill Paris Lawrence, Kansas
+
+[devotion](/news-notes/tag/devotion)[lent devotion 2019](/news-notes/tag/lent+devotion+2019)
+
+[Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)

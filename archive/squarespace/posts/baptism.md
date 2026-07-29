@@ -1,0 +1,172 @@
+---
+title: "baptism"
+slug: baptism
+date: 
+author: ""
+original_url: https://www.lutheranindianministries.org/news-notes/tag/baptism
+section: news-notes
+images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774229418-YRH5ODGX71BAL6H0B9UJ/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774232387-Y16PI4PX49MJZRHA9QK6/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774235361-WOB1X7QNFQH5Z33PWFKR/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774244341-EC864JXSA0X9JJ2CF49M/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774247100-5Z9JTEOCF52FQXMH2KZ2/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774250375-D832Z6F5SCZK0YKZAW3E/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774253486-CYLHXBSHH8EWKFMR3Y0N/Copy+of+Baptism_+Special+delivery.png"]
+---
+* [devotion](/news-notes/tag/devotion)
+* [This Week in the News](/news-notes/tag/This+Week+in+the+News)
+* [Ministry Update](/news-notes/tag/Ministry+Update)
+* [fnv](/news-notes/tag/fnv)
+* [thirsty (for knowledge) thursday](/news-notes/tag/thirsty+%28for+knowledge%29+thursday)
+* [lent devotion 2018](/news-notes/tag/lent+devotion+2018)
+* [lent devotion 2017](/news-notes/tag/lent+devotion+2017)
+* [lent devotion 2016](/news-notes/tag/lent+devotion+2016)
+* [lent devotion 2019](/news-notes/tag/lent+devotion+2019)
+* [lent devotion 2020](/news-notes/tag/lent+devotion+2020)
+* [what to watch](/news-notes/tag/what+to+watch)
+* [advent devotion 2020](/news-notes/tag/advent+devotion+2020)
+* [advent devotion 2018](/news-notes/tag/advent+devotion+2018)
+* [advent devotion 2019](/news-notes/tag/advent+devotion+2019)
+* [advent devotion 2016](/news-notes/tag/advent+devotion+2016)
+* [advent devotion 2017](/news-notes/tag/advent+devotion+2017)
+* [advent devotion 2015](/news-notes/tag/advent+devotion+2015)
+* [video](/news-notes/tag/video)
+* [faith for the reservations](/news-notes/tag/faith+for+the+reservations)
+* [being used by god](/news-notes/tag/being+used+by+god)
+* [generosity](/news-notes/tag/generosity)
+* [live by faith](/news-notes/tag/live+by+faith)
+* [spiritual guidelines](/news-notes/tag/spiritual+guidelines)
+* [god our hope](/news-notes/tag/god+our+hope)
+* [gerhard & prayer](/news-notes/tag/gerhard+%26+prayer)
+* [my redeemer lives](/news-notes/tag/my+redeemer+lives)
+* [truth for the world](/news-notes/tag/truth+for+the+world)
+* [baptism](/news-notes/tag/baptism)
+* [a new you devotion](/news-notes/tag/a+new+you+devotion)
+* [live like job](/news-notes/tag/live+like+job)
+* [making spiritual warriors](/news-notes/tag/making+spiritual+warriors)
+* [spiritual warriors prayer](/news-notes/tag/spiritual+warriors+prayer)
+* [i am](/news-notes/tag/i+am)
+* [dangerous prayers](/news-notes/tag/dangerous+prayers)
+* [what do lutherans believe](/news-notes/tag/what+do+lutherans+believe)
+* [what is hope](/news-notes/tag/what+is+hope)
+* [fruit of the spirit](/news-notes/tag/fruit+of+the+spirit)
+* [unholy trinity](/news-notes/tag/unholy+trinity)
+* [things that matter](/news-notes/tag/things+that+matter)
+* [starting conversations](/news-notes/tag/starting+conversations)
+* [confessionandabsolution](/news-notes/tag/confessionandabsolution)
+* [encountering jesus heart](/news-notes/tag/encountering+jesus+heart)
+* [after the bunny](/news-notes/tag/after+the+bunny)
+* [everybody always](/news-notes/tag/everybody+always)
+* [sacred mysteries](/news-notes/tag/sacred+mysteries)
+* [volunteer](/news-notes/tag/volunteer)
+* [giving tuesday](/news-notes/tag/giving+tuesday)
+* [suicide](/news-notes/tag/suicide)
+* [trunk or treat](/news-notes/tag/trunk+or+treat)
+* [augsburg confession](/news-notes/tag/augsburg+confession)
+* [prayer](/news-notes/tag/prayer)
+
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 7](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774229418-YRH5ODGX71BAL6H0B9UJ/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-7)
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/7/19
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/7/19
+
+# [Baptism: Special Delivery - Monday Morning Devotions - Week 7](/news-notes/baptism-special-delivery-monday-morning-devotions-week-7)
+
+Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
+
+[Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-7)
+
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 6](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774232387-Y16PI4PX49MJZRHA9QK6/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-6)
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/6/19
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/6/19
+
+# [Baptism: Special Delivery - Monday Morning Devotions - Week 6](/news-notes/baptism-special-delivery-monday-morning-devotions-week-6)
+
+Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
+
+[Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-6)
+
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 5](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774235361-WOB1X7QNFQH5Z33PWFKR/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-5)
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/5/19
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/5/19
+
+# [Baptism: Special Delivery - Monday Morning Devotions - Week 5](/news-notes/baptism-special-delivery-monday-morning-devotions-week-5)
+
+Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
+
+[Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-5)
+
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 4](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774244341-EC864JXSA0X9JJ2CF49M/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-4)
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/4/19
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/4/19
+
+# [Baptism: Special Delivery - Monday Morning Devotions - Week 4](/news-notes/baptism-special-delivery-monday-morning-devotions-week-4)
+
+Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
+
+[Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-4)
+
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 3](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774247100-5Z9JTEOCF52FQXMH2KZ2/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-3)
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/3/19
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/3/19
+
+# [Baptism: Special Delivery - Monday Morning Devotions - Week 3](/news-notes/baptism-special-delivery-monday-morning-devotions-week-3)
+
+Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
+
+[Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-3)
+
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 2](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774250375-D832Z6F5SCZK0YKZAW3E/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-2)
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/2/19
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/2/19
+
+# [Baptism: Special Delivery - Monday Morning Devotions - Week 2](/news-notes/baptism-special-delivery-monday-morning-devotions-week-2)
+
+Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
+
+[Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-2)
+
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 1](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774253486-CYLHXBSHH8EWKFMR3Y0N/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-1)
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/1/19
+
+[Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
+Guest User
+8/1/19
+
+# [Baptism: Special Delivery - Monday Morning Devotions - Week 1](/news-notes/baptism-special-delivery-monday-morning-devotions-week-1)
+
+Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
+
+[Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-1)

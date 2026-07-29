@@ -1,0 +1,122 @@
+---
+title: "Oh God, Our Hope in Ages Past"
+slug: oh-god-our-hope-ages
+date: 2022-03-28
+author: "Gary Ricke"
+original_url: https://www.lutheranindianministries.org/reflections/oh-god-our-hope-ages
+section: reflections
+images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/62534c148f848d54c6a356c6/1654896578068/stock-place-grand-canyon.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1685464946942-7EBHYTZ6D99E3LXHJZ1X/sherri-1-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688737787630-9N1LRIRPTXOJQFP0H2SG/bev-2-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743142041-XO071JLZ2FN5XCKNF8G2/bev-3-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743701783-RBUDWPGAMIB0EZT7JUWV/bev-4-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743908990-OXA5AVJHRTBJFPP0J6V9/bev-5-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1693947483628-84Z5SDVPUSCC6PBI2EXI/katherine-gottlieb-his-hands-upon-me-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1711399385400-CDYL1Y4MC4034M0U0ZC4/blog-copper-center-blog-image-0.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1768347064201-48KIH6XTDVWXE4JNKDHE/pastor-tony-hero-wide-trees.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1770071883558-S0QS8CUQM3W22CDZMNQ0/ChatGPT+Image+Feb+2%2C+2026%2C+04_36_46+PM.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1771261250836-YMNEUOXY69GIU9JC0WMJ/pastor-tony-5th-graders-question-hero-wide.jpg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+---
+# Oh God, Our Hope in Ages Past
+
+[Reflections](/reflections/category/Reflections)
+
+Mar 28
+
+Written By [Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
+
+Seven Devotions with audio
+
+Our God, Our Hope (Week 1)
+
+Pastor Ricky Jacob · Winnebago, Nebraska
+
+Each year, our staff selects a Bible verse and a hymn to focus on at Jesus Our Savior Lutheran Preschool in Winnebago, Nebraska. This year, we selected a two-part Bible verse. The first part goes like this:
+
+> “Then [Jesus] opened their minds so they could understand the Scriptures.”
+
+Jesus was sending his disciples, now his apostles - or sent ones - to go in all four directions and share the Good News found in Scriptures. You need to have your mind open in order to understand God's Sacred Word. It is our prayer that God's Spirit would open the minds of our preschoolers, and all those who do not know Him and His Word.
+
+And what do the Scriptures teach? Jesus went on and this is part two of our Bible verse:
+
+[Jesus] told them,
+
+> “This is what is written: The Christ will suffer and rise from the dead on the third day, and repentance and forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem.”
+
+— Luke 24:45-47
+
+God's Sacred Word teaches how we can join God’s family and receive the forgiveness of sins. By the grace of God, we are moved to repent, to place our faith in Jesus Christ's saving work and awesome resurrection.
+
+The hymn that we selected for this school year was written by Frances R. Havergal, (1836-79); it is entitled '***I am trusting Thee, Lord Jesus***' [Lutheran Service Book #729]. I will let the words speak for themselves:
+
+**I am trusting Thee, Lord Jesus,  
+Trusting only Thee;  
+Trusting Thee for full salvation,  
+Great and free. (1)**
+
+**I am trusting Thee for pardon;  
+At Thy feet I bow,  
+For Thy grace and tender mercy  
+Trusting now. (2)**
+
+**I am trusting Thee to guide me;  
+Thou alone shalt lead,  
+Ev'ry day and hour supplying  
+All my need. (4)**
+
+**I am trusting Thee, Lord Jesus;  
+Never let me fall.  
+I am trusting Thee forever  
+And for all. (6)**
+
+When one has the ability to place trust in God, in spite of living in such challenging times, then one is more than prepared to not only face the difficulties of life but to persevere and to excel!
+
+Please pray with me: **Dear heavenly Father, as we make plans for the upcoming year, we turn to you for guidance and encouragement. We ask that You would open the minds of children of all ages so they might understand the Holy Scriptures, we ask this through Your Son, Jesus Christ, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. Amen.**
+
+## Subscribe to Our Newsletter
+
+Get stories like these delivered fresh to your in-box before anyone else.
+
+Email Address
+
+Sign Up
+
+Thank you!
+
+See Also
+
+[![A 5th Grader's Big Question](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1771261250836-YMNEUOXY69GIU9JC0WMJ/pastor-tony-5th-graders-question-hero-wide.jpg)](/reflections/gods-kindness-re65y)
+
+[A 5th Grader's Big Question](/reflections/gods-kindness-re65y)
+
+[![God’s Kindness in the Dead-Still Season](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1770071883558-S0QS8CUQM3W22CDZMNQ0/ChatGPT+Image+Feb+2%2C+2026%2C+04_36_46+PM.jpg)](/reflections/gods-kindness)
+
+[God’s Kindness in the Dead-Still Season](/reflections/gods-kindness)
+
+[![Living in God's Perfect Plan: A Message from the Trees](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1768347064201-48KIH6XTDVWXE4JNKDHE/pastor-tony-hero-wide-trees.jpg)](/reflections/a-message-from-the-trees)
+
+[Living in God's Perfect Plan: A Message from the Trees](/reflections/a-message-from-the-trees)
+
+[![Community Healing Through Scripture: A Journey in Copper Center, Alaska](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1711399385400-CDYL1Y4MC4034M0U0ZC4/blog-copper-center-blog-image-0.jpeg)](/reflections/community-healing-through-scripture-a-journey-in-copper-center)
+
+[Community Healing Through Scripture: A Journey in Copper Center, Alaska](/reflections/community-healing-through-scripture-a-journey-in-copper-center)
+
+[![Event: Katherine Gottlieb: “His Hands Upon Me”](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1693947483628-84Z5SDVPUSCC6PBI2EXI/katherine-gottlieb-his-hands-upon-me-thumb.jpg)](/reflections/katherine-gottlieb-his-hands-upon-me)
+
+[Event: Katherine Gottlieb: “His Hands Upon Me”](/reflections/katherine-gottlieb-his-hands-upon-me)
+
+[![Faith as Small as a Mustard Seed: Sheri's Path to Healing and Transformation](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1685464946942-7EBHYTZ6D99E3LXHJZ1X/sherri-1-thumb.jpg)](/reflections/sheri)
+
+[Faith as Small as a Mustard Seed: Sheri's Path to Healing and Transformation](/reflections/sheri)
+
+[![HOW TO START A JOURNEY TOWARDS RECOVERY](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743908990-OXA5AVJHRTBJFPP0J6V9/bev-5-thumb.jpg)](/reflections/bev#part-5:-how-to-start-a-journey-towards-recovery)
+
+[HOW TO START A JOURNEY TOWARDS RECOVERY](/reflections/bev#part-5:-how-to-start-a-journey-towards-recovery)
+
+[![ALL MY 28 YEARS OF BEING A DRUNK, I NEVER STOPPED PRAYING](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743701783-RBUDWPGAMIB0EZT7JUWV/bev-4-thumb.jpg)](/reflections/bev#part-4:-all-my-28-years-of-being-a-drunk,-i-never-stopped-praying)
+
+[ALL MY 28 YEARS OF BEING A DRUNK, I NEVER STOPPED PRAYING](/reflections/bev#part-4:-all-my-28-years-of-being-a-drunk,-i-never-stopped-praying)
+
+[![HOW GOD, MORE THAN TREATMENT HELPED ME AS AN ALCOHOLIC](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743142041-XO071JLZ2FN5XCKNF8G2/bev-3-thumb.jpg)](/reflections/bev#part-3:-how-god,-more-than-treatment-helped-me-as-an-alcoholic)
+
+[HOW GOD, MORE THAN TREATMENT HELPED ME AS AN ALCOHOLIC](/reflections/bev#part-3:-how-god,-more-than-treatment-helped-me-as-an-alcoholic)
+
+[![What You Can Do if You Feel You Don’t Have Value](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688737787630-9N1LRIRPTXOJQFP0H2SG/bev-2-thumb.jpg)](/reflections/bev#part-2:-what-you-can-do-if-you-feel-you-don’t-have-value.)
+
+[What You Can Do if You Feel You Don’t Have Value](/reflections/bev#part-2:-what-you-can-do-if-you-feel-you-don’t-have-value.)
+
+[Video](/reflections/tag/Video)
+
+[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
+<http://orbisdesign.com>
