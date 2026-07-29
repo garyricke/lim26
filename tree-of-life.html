@@ -1,0 +1,285 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+<title>Tree of Life Gathering — Lutheran Indian Ministries</title>
+<meta name="description" content="A three-day gathering in Fairbanks, Alaska for Native people carrying deep wounds — trauma, grief, abuse, and loss. Gospel-centered, Native-led, no cost to attend.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  :root{
+    --red:#ED1C24;--red-h:#c8151c;--yellow:#FFDE16;
+    --charcoal:#282924;--sage:#B2AC88;--sage-d:#8a8665;
+    --sky:#A2C2D1;--sky-d:#6fa3b8;--stone:#EBE9E4;
+    --muted:#5a5a52;--border:#d9d6ce;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+    --max:1200px;--r:8px;--rl:16px;--t:.3s ease;
+  }
+  html{scroll-behavior:smooth}
+  body{font-family:var(--body);color:var(--charcoal);background:#fff;line-height:1.75;overflow-x:hidden}
+  a{color:inherit}
+  button{cursor:pointer;font-family:inherit;border:none;background:none}
+  img{max-width:100%;display:block}
+  .wrap{max-width:var(--max);margin:0 auto;padding:0 1.5rem}
+  .narrow{max-width:780px;margin:0 auto}
+
+  .lbl{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.6rem}
+  .h2{font-family:var(--serif);font-size:clamp(1.75rem,3vw,2.6rem);line-height:1.2;margin-bottom:1.2rem}
+  .h3{font-family:var(--serif);font-size:1.25rem;line-height:1.35;margin-bottom:.6rem}
+  .lede{font-size:1.08rem;color:var(--muted)}
+
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:.55rem;padding:.95rem 2.1rem;border-radius:var(--r);font-family:var(--cond);font-size:1.05rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;transition:var(--t);border:2px solid transparent;text-decoration:none}
+  .btn-red{background:var(--red);color:#fff}
+  .btn-red:hover{background:var(--red-h)}
+  .btn-ol{border-color:rgba(255,255,255,.5);color:#fff}
+  .btn-ol:hover{background:rgba(255,255,255,.1)}
+  .btn-dk{border-color:var(--border);color:var(--charcoal)}
+  .btn-dk:hover{background:var(--stone)}
+
+  /* Nav */
+  nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.96);backdrop-filter:blur(8px);border-bottom:1px solid var(--border)}
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding-top:.75rem;padding-bottom:.75rem}
+  nav img{height:38px;width:auto}
+  nav .links{display:flex;align-items:center;gap:1.5rem;font-family:var(--cond);font-size:.95rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase}
+  nav .links a{text-decoration:none;color:var(--muted);transition:color .2s}
+  nav .links a:hover{color:var(--charcoal)}
+  @media(max-width:760px){nav .links a:not(.btn){display:none}nav .btn{padding:.6rem 1.2rem;font-size:.9rem}}
+
+  /* Hero */
+  .hero{position:relative;background:var(--charcoal);color:#fff;padding:5.5rem 0 5rem;overflow:hidden}
+  .hero::after{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 30% 20%,rgba(178,172,136,.16),transparent 60%);pointer-events:none}
+  .hero .wrap{position:relative;z-index:1}
+  .hero .lbl{color:var(--yellow)}
+  .hero h1{font-family:var(--serif);font-size:clamp(2.2rem,5.5vw,3.9rem);line-height:1.1;margin-bottom:1.3rem;max-width:16ch}
+  .hero p{font-size:1.15rem;color:rgba(255,255,255,.82);max-width:52ch;margin-bottom:2rem}
+  .hero-cta{display:flex;gap:.9rem;flex-wrap:wrap;align-items:center}
+  .hero-note{font-size:.9rem;color:rgba(255,255,255,.55);margin-top:1.4rem}
+
+  /* Facts strip */
+  .facts{background:var(--yellow);padding:1.6rem 0}
+  .facts .wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:1.5rem;text-align:center}
+  .facts .n{font-family:var(--cond);font-size:1.9rem;font-weight:800;line-height:1;margin-bottom:.2rem}
+  .facts .t{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(40,41,36,.65)}
+  @media(max-width:700px){.facts .wrap{grid-template-columns:repeat(2,1fr);gap:1.4rem 1rem}}
+
+  section{padding:4.5rem 0}
+  .alt{background:var(--stone)}
+
+  /* Two-column */
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start}
+  @media(max-width:860px){.cols{grid-template-columns:1fr;gap:2rem}}
+
+  /* Cards */
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:1.25rem;margin-top:2rem}
+  @media(max-width:860px){.cards{grid-template-columns:1fr}}
+  .card{background:#fff;border-radius:var(--rl);padding:1.6rem 1.5rem;box-shadow:0 3px 16px rgba(0,0,0,.07)}
+  .card .ic{width:42px;height:42px;border-radius:10px;background:var(--stone);display:flex;align-items:center;justify-content:center;margin-bottom:1rem;color:var(--charcoal)}
+  .card .ic svg{width:22px;height:22px}
+  .card h3{font-family:var(--cond);font-size:1.1rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;margin-bottom:.45rem}
+  .card p{font-size:.94rem;color:var(--muted)}
+
+  /* Checklist */
+  .checklist{list-style:none;margin-top:1.2rem}
+  .checklist li{position:relative;padding-left:2rem;margin-bottom:.85rem;font-size:.97rem}
+  .checklist li::before{content:'';position:absolute;left:0;top:.55rem;width:12px;height:12px;border-radius:50%;border:3px solid var(--red)}
+
+  /* Pull quote */
+  .pq{border-left:4px solid var(--yellow);padding:.4rem 0 .4rem 1.5rem;margin:2rem 0;font-family:var(--serif);font-style:italic;font-size:1.12rem;line-height:1.75}
+  .pq cite{display:block;font-family:var(--body);font-style:normal;font-size:.85rem;color:var(--muted);margin-top:.8rem;letter-spacing:.02em}
+
+  /* Safety note */
+  .safety{background:#fff;border-radius:var(--rl);padding:1.8rem 1.9rem;box-shadow:0 3px 16px rgba(0,0,0,.07)}
+  .safety h3{font-family:var(--cond);font-size:1.05rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.7rem}
+  .safety p{font-size:.95rem;color:var(--muted);margin-bottom:.7rem}
+  .safety strong{color:var(--charcoal)}
+
+  /* FAQ */
+  .faq{max-width:780px;margin:0 auto}
+  .fq{border-bottom:1px solid var(--border)}
+  .fq summary{cursor:pointer;padding:1.15rem 2.5rem 1.15rem 0;font-family:var(--cond);font-size:1.12rem;font-weight:700;letter-spacing:.03em;position:relative;list-style:none}
+  .fq summary::-webkit-details-marker{display:none}
+  .fq summary::after{content:'+';position:absolute;right:.4rem;top:50%;transform:translateY(-50%);font-size:1.5rem;font-weight:400;color:var(--sage-d);transition:transform .2s}
+  .fq[open] summary::after{content:'−'}
+  .fq p{padding:0 0 1.2rem;color:var(--muted);font-size:.97rem}
+
+  /* Final CTA */
+  .final{background:var(--charcoal);color:#fff;text-align:center;padding:4.5rem 0}
+  .final h2{font-family:var(--serif);font-size:clamp(1.8rem,3.5vw,2.6rem);margin-bottom:1rem}
+  .final p{color:rgba(255,255,255,.75);max-width:48ch;margin:0 auto 2rem}
+
+  footer{background:#1a1a16;color:rgba(255,255,255,.55);padding:2.5rem 0;font-size:.87rem;text-align:center}
+  footer a{color:rgba(255,255,255,.8)}
+
+  /* DRAFT NOTES — delete this block and every .draft element before go-live */
+  .draft{background:#fffbe6;border:2px dashed #d4a72c;border-radius:var(--r);padding:1rem 1.15rem;margin:1.1rem 0;font-size:.9rem;color:#6b5312;line-height:1.6}
+  .draft b{display:block;font-family:var(--cond);font-size:.82rem;letter-spacing:.1em;text-transform:uppercase;margin-bottom:.35rem;color:#8a6a12}
+</style>
+
+<nav>
+  <div class="wrap">
+    <a href="index.html"><img src="brand/lutheranindianMinistries-logo-horz-stacked-2026.svg" alt="Lutheran Indian Ministries"></a>
+    <div class="links">
+      <a href="#about">About</a>
+      <a href="#expect">What to Expect</a>
+      <a href="#faq">Questions</a>
+      <a href="tree-of-life-application.html" class="btn btn-red">Apply</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <span class="lbl">Fairbanks, Alaska</span>
+    <h1>The Tree of Life Gathering</h1>
+    <p>Three days set apart for Native people carrying wounds too heavy to carry alone — grief, loss, abuse, and the trauma handed down to us. Rooted in God's Word. Led by Native people who know the road.</p>
+    <div class="hero-cta">
+      <a href="tree-of-life-application.html" class="btn btn-red">Apply to Attend</a>
+      <a href="#about" class="btn btn-ol">Learn More</a>
+    </div>
+    <p class="hero-note" id="hero-dates">Dates being finalized — applications are open now.</p>
+  </div>
+</header>
+
+<div class="facts">
+  <div class="wrap">
+    <div><div class="n">3</div><div class="t">Full Days</div></div>
+    <div><div class="n">$0</div><div class="t">Cost to Attend</div></div>
+    <div><div class="n">All</div><div class="t">Meals Provided</div></div>
+    <div><div class="n">18+</div><div class="t">Adults Welcome</div></div>
+  </div>
+</div>
+
+<!-- ═══ ABOUT ═══ -->
+<section id="about">
+  <div class="wrap narrow">
+    <span class="lbl">What This Is</span>
+    <h2 class="h2">Some wounds don't heal on their own.</h2>
+    <p class="lede">Many of us carry things we've never spoken aloud. Grief that never had a place to go. Harm done to us as children. Pain passed down through generations that we didn't ask for and didn't cause.</p>
+    <p style="margin-top:1.1rem">The Tree of Life Gathering is three full days set aside for that weight — a place to name it, bring it to the cross, and begin walking out from under it. It is Gospel-centered and Native-led, and it is built on the same conviction that runs through all of our work: you don't have to change to come. God meets you exactly where you are.</p>
+
+    <div class="draft">
+      <b>Roberta — your words go here</b>
+      This section is written from what the application form and the old site say. Please replace or correct it with how <em>you</em> describe the gathering — especially anything about how Tree of Life differs from a regular Healing Group, who leads it, and any partner organizations involved. Send me a paragraph or a voice memo and I'll shape it.
+    </div>
+
+    <div class="pq">
+      "I got to let go of hurts and disappointments that I've experienced in my entire life. And talk about freedom. Oh, the freedom. I have a hard time putting into words how you feel so much lighter — how you feel so not shackled anymore."
+      <cite>— Roberta (Kitigruq), Ministry Coordinator &amp; Healing Group Participant · Anchorage, Alaska</cite>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ WHO IT'S FOR ═══ -->
+<section class="alt">
+  <div class="wrap narrow">
+    <span class="lbl">Who Should Come</span>
+    <h2 class="h2">This gathering is for you if…</h2>
+    <ul class="checklist">
+      <li>You've experienced or witnessed domestic violence, abuse, or neglect — recently or long ago.</li>
+      <li>You're carrying grief or loss that you've never had space to work through.</li>
+      <li>You feel the weight of historical trauma in your family or your community.</li>
+      <li>You've been through a Healing Group and you're ready to go deeper.</li>
+      <li>You want to walk this road with other Native people who understand it from the inside.</li>
+    </ul>
+    <p style="margin-top:1.6rem">You do not need a faith background. You do not need to have it figured out. You only need to be willing to show up for all three days.</p>
+  </div>
+</section>
+
+<!-- ═══ WHAT TO EXPECT ═══ -->
+<section id="expect">
+  <div class="wrap">
+    <div class="narrow" style="text-align:center">
+      <span class="lbl" style="text-align:center">What to Expect</span>
+      <h2 class="h2">Three days, held carefully.</h2>
+      <p class="lede">The gathering runs 8:30 in the morning until 5:30 in the evening each day. Meals are provided. Everything else is built around making it safe to do hard work.</p>
+    </div>
+
+    <div class="cards">
+      <div class="card">
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
+        <h3>Native-Led</h3>
+        <p>Facilitated by Native people who know the stories, the traditions, the culture, and the humor — and who have walked this road themselves.</p>
+      </div>
+      <div class="card">
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+        <h3>Confidential</h3>
+        <p>What is shared in the room stays in the room. Every participant agrees to hold one another's stories in confidence.</p>
+      </div>
+      <div class="card">
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20V10M18 20V4M6 20v-4"/></svg></div>
+        <h3>At Your Pace</h3>
+        <p>No pressure and no force. You go only where you're ready to go. You come as you are and you leave when the time is right.</p>
+      </div>
+    </div>
+
+    <div class="draft narrow" style="margin-top:2rem">
+      <b>Roberta — needed for this section</b>
+      A rough shape of the three days would make this page much stronger: what happens on day one versus day three, whether there are sessions with names the way Healing Groups have six named sessions, and roughly how many people attend. I've deliberately left all of that out rather than guess.
+    </div>
+  </div>
+</section>
+
+<!-- ═══ APPLYING ═══ -->
+<section class="alt">
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <span class="lbl">How to Come</span>
+        <h2 class="h2">Applying takes about fifteen minutes.</h2>
+        <p>The Tree of Life Gathering asks more of participants than a weekly Healing Group does, so we ask more up front. The application includes questions about your health, your safety, and your history — not to screen you out, but so our facilitators can prepare well for you and make the room safe for everyone in it.</p>
+        <p style="margin-top:1rem">Answer honestly. Very little disqualifies anyone. If we have concerns, we'll call you and talk it through together.</p>
+        <p style="margin-top:1.6rem"><a href="tree-of-life-application.html" class="btn btn-red">Start Your Application</a></p>
+      </div>
+      <div class="safety">
+        <h3>Your Answers Are Protected</h3>
+        <p>The application asks about difficult things — thoughts of suicide, unsafe relationships, and violence at home. We ask because we want to care for you well, and we treat those answers accordingly.</p>
+        <p>Your application is <strong>read only by the LIM staff involved in this gathering</strong>. It is not emailed around, and it is not shared outside our team.</p>
+        <p>Our facilitators are <strong>mandated reporters</strong>. If you disclose harm to yourself or another person, we are legally required to report it. We tell you this before you apply so there are no surprises.</p>
+        <p style="margin-bottom:0"><strong>If you are in crisis right now, please don't wait on an application.</strong> Call or text <strong>988</strong> any time, day or night.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ FAQ ═══ -->
+<section id="faq">
+  <div class="wrap">
+    <div class="narrow" style="text-align:center;margin-bottom:2.5rem">
+      <span class="lbl" style="text-align:center">Questions</span>
+      <h2 class="h2">Before You Apply</h2>
+    </div>
+    <div class="faq">
+      <details class="fq"><summary>What does it cost?</summary><p>Nothing. There is no cost to attend, and all meals during the gathering are provided. The Tree of Life Gathering is funded by donors who believe Native people should never have to choose between healing and affording it.</p></details>
+      <details class="fq"><summary>Do I have to attend all three days?</summary><p>Yes. The three days build on one another, and people open up in ways that depend on the group staying whole. If something makes full attendance difficult, tell us on the application — we'd rather talk about it than have you rule yourself out.</p></details>
+      <details class="fq"><summary>Do I need to be Christian?</summary><p>No. The gathering is rooted in scripture, and we don't hide that. But no faith background is needed and nobody is pressured. You come as you are.</p></details>
+      <details class="fq"><summary>Why does the application ask such personal questions?</summary><p>Because the gathering goes to hard places, and our facilitators want to be ready to support you there. The questions about safety and mental health help us prepare — they are not a test you can fail.</p></details>
+      <details class="fq"><summary>Will what I share be kept private?</summary><p>Yes, with one exception we tell everyone up front: our facilitators are mandated reporters and must report disclosures of harm to yourself or others. Everything else stays between you, the group, and the staff supporting the gathering.</p></details>
+      <details class="fq"><summary>What if I've already done a Healing Group?</summary><p>Many participants have. The gathering is a natural next step for people who have been through <a href="healing-groups.html">Healing the Wounds of Trauma</a> and want to keep going.</p></details>
+    </div>
+    <div class="draft narrow" style="margin-top:2rem">
+      <b>Roberta — please check these answers</b>
+      I wrote these from the application form and how LIM describes Healing Groups elsewhere on the site. Correct anything that's wrong, and tell me what people actually ask you — those are the questions worth adding. I'd also like to add travel and lodging guidance if people come in from out of town.
+    </div>
+  </div>
+</section>
+
+<!-- ═══ FINAL CTA ═══ -->
+<section class="final">
+  <div class="wrap">
+    <h2>You don't have to carry this alone.</h2>
+    <p>Applications are open. If you're not sure whether this is for you, apply anyway — we'll talk it through together.</p>
+    <a href="tree-of-life-application.html" class="btn btn-red">Apply to Attend</a>
+    <p style="margin-top:1.8rem;font-size:.92rem">Questions? Call <strong style="color:#fff">(262) 439-5663</strong></p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Lutheran Indian Ministries · 15350 W Capitol Drive, Brookfield, WI 53005<br>
+    <a href="index.html">limhope.org</a> · <a href="healing-groups.html">Healing Groups</a> · <a href="tree-of-life-application.html">Apply</a>
+  </div>
+</footer>
