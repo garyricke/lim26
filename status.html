@@ -297,7 +297,8 @@
         <li><strong>Sensitive answers stay out of email.</strong> The application asks about suicidal ideation, domestic violence, and housing safety. <span class="ic">tol-submit</span> stores the full record in Netlify Blobs and sends staff only a name-and-contact notification with a link to sign in — no health answers in any inbox</li>
         <li><strong>Password is checked server-side</strong> in <span class="ic">tol-admin</span> against <span class="ic">TOL_ADMIN_PASSWORD</span>, not in page JavaScript. The site's admin badge (<span class="ic">lim2026admin</span>) is fine for hiding internal links but is readable in View Source — deliberately not used for this data</li>
         <li><strong>Retires a $39/mo line item.</strong> LIM's Jotform Bronze plan bought capacity, not compliance — Jotform lists HIPAA features and a BAA starting at Gold ($129/mo), so nothing protective is being given up</li>
-        <li class="todo">Before go-live: set <span class="ic">TOL_ADMIN_PASSWORD</span> in Netlify, add staff emails to the <span class="ic">tree-of-life-alert</span> form notification, and drop in the confirmed dates/venue (placeholder block at the top of the application page)</li>
+        <li><strong>Live as of July 30:</strong> <span class="ic">TOL_ADMIN_PASSWORD</span> set in Netlify (marked secret — write-only, so it lives in the password manager, not here), and staff notifications configured on the <span class="ic">tree-of-life-alert</span> form. Applications now arrive and alert correctly</li>
+        <li class="todo">Still to do: drop in the confirmed dates/venue (placeholder block at the top of the application page), and retire the old Jotform — currently on the free plan, so no cost, but two live forms means applications could land somewhere nobody watches</li>
         <li class="todo">Waiting on Roberta for confirmed gathering dates — the old Jotform still showed May 22–24, <em>2025</em></li>
       </ul>
     </div>
