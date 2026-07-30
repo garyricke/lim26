@@ -186,7 +186,101 @@
   <!-- Timeline -->
   <div class="sect">
     <h2>Recent Accomplishments</h2>
-    <span class="meta">Newest first · 87 commits since March 16</span>
+    <span class="meta">Newest first · 188 commits since March 16</span>
+  </div>
+
+  <!-- July 30 — Lutherans Believe series rebuilt from the archive -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 30, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">"What Do Lutherans Believe?" rebuilt from the archive — LIM's best-performing content is back online</div>
+      <ul>
+        <li><strong>New page:</strong> <a href="blog-what-lutherans-believe.html" class="ic">blog-what-lutherans-believe.html</a> — Pastor Ricky Jacob's <strong>seven-part 2017 devotion series</strong> (Winnebago, Nebraska), written for the 500th anniversary of the Reformation: the Church, Baptism, the Lord's Supper, Confession, Repentance, the Sacraments, and Ecclesiastical Order</li>
+        <li><strong>Why this one:</strong> the Squarespace analytics export showed it is <strong>LIM's best-performing content after the four main pages</strong> — roughly <strong>1,500 views</strong> across the series in 19 months, with ~4-minute average read times. Every one of those URLs was redirecting to the homepage</li>
+        <li><strong>Built as one page, not seven.</strong> Each part is only ~380 words; seven thin pages would rank worse than a single substantial one. Each part has its own anchor, so <span class="ic">/news/what-are-the-sacraments</span> lands on <em>that</em> teaching rather than the top of the article</li>
+        <li><strong>21 new redirect rules</strong> covering both the <span class="ic">/news/</span> and <span class="ic">/news-notes/</span> forms of all seven parts, plus the two long-form overview posts</li>
+        <li>Added to <strong>Stories &amp; Updates</strong> on the homepage and to <span class="ic">sitemap.xml</span></li>
+        <li>Source text came from <a href="archive/squarespace/index.html" class="ic">the Squarespace archive</a> — the first real use of it</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- July 30 — analytics plan -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 30, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Analytics plan documented — GA4 via existing GTM, not Netlify Analytics</div>
+      <ul>
+        <li><strong>New doc:</strong> <a href="docs-analytics.html" class="ic">docs-analytics.html</a>, linked from the admin panel beside the Feathr and Blackbaud docs</li>
+        <li><strong>Netlify Analytics rejected as the primary tool</strong> — $9/mo per site but only a <strong>30-day retention window</strong>, no custom events, no goals, no year-over-year, no export. The Squarespace history we're replacing spans 19 months</li>
+        <li><strong>GA4 through <span class="ic">GTM-TD3Z4XNG</span></strong> instead — the container is already on every public page behind the cookie-consent gate, with no analytics tag currently firing. Free, keeps history, and it's what the <strong>Google Ad Grant requires</strong> for conversion tracking</li>
+        <li><strong>Recorded gotcha:</strong> GA4 defaults to <strong>2 months</strong> of event retention and the change to 14 months is <em>not</em> retroactive — must be set on day one</li>
+        <li><strong>Netlify Analytics still worth one month</strong> around cutover purely for its server-side "top resources not found" report, which catches old URLs no JavaScript tag can see</li>
+        <li class="todo">Create the GA4 property, add the tag in GTM, link Search Console — before DNS cutover so day one on the new domain is day one of clean data</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- July 30 — analytics-driven redirect fixes -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 30, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Redirects fixed — old traffic was landing on the homepage</div>
+      <ul>
+        <li>Robert supplied the <strong>Squarespace analytics export</strong> (Jan 1 2025 – Jul 29 2026, <strong>41,431 pageviews</strong>), saved to <span class="ic">plan/squarespace-site-analytics-jan-1-2025--july-29-2026.txt</span> and parsed to <span class="ic">plan/analytics-parsed.json</span></li>
+        <li><strong>Traffic is extremely concentrated</strong> — four pages are <strong>62%</strong> of all views: home (8,927), <span class="ic">/healing-wounds-of-trauma</span> (4,802, and a 3:29 average time on page — the most engaged page on the site), <span class="ic">/about</span> (3,332), <span class="ic">/donate</span> (2,820)</li>
+        <li><strong>Checked all top 30 old URLs against the new site.</strong> Good news: nothing 404s. Bad news: most were redirecting to <span class="ic">/</span> — a soft-404 pattern Google drops rather than honours, affecting ~6,000 views</li>
+        <li><strong>Fixed where a real destination already existed:</strong> <span class="ic">/tree-of-life</span> → the new gathering page (was healing-groups), <span class="ic">/news/the-choice-native-or-christian1</span> → <a href="blog-the-choice.html" class="ic">blog-the-choice.html</a> (602 views), <span class="ic">/reflections/bev</span> → <a href="blog-discovering-identity-bev.html" class="ic">blog-discovering-identity-bev.html</a> (146 views)</li>
+        <li class="todo">Remaining section landing pages (<span class="ic">/devotions</span> 407, <span class="ic">/reflections</span> 335, <span class="ic">/sacred-connections-podcast</span> 360) still point at home — they need real destinations</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- July 29/30 — Squarespace archive -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 29–30, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Whole Squarespace site archived before cancellation — 1,459 pages, 819k words</div>
+      <ul>
+        <li><strong>Why:</strong> Squarespace hosts both the pages and the images. When the subscription lapses, all of it vanishes — including the devotion archive going back to <strong>2013</strong>. Keeping the subscription purely to read our own back catalogue would have cost indefinitely</li>
+        <li><strong>New tool:</strong> <span class="ic">archive-squarespace.py</span> → <a href="archive/squarespace/index.html" class="ic">archive/squarespace/index.html</a>, a searchable index of everything</li>
+        <li><strong>Captured:</strong> 1,459 pages · 4,365 images (1,054 MB) · 819,405 words. Heaviest years are 2016–2019 (244/346/222/196 posts) — the Monday Morning devotion era</li>
+        <li><strong>Committed to git:</strong> markdown with frontmatter (title, date, author, original URL, image list) plus the index — 12 MB. <strong>Gitignored:</strong> raw HTML (375 MB) and images (1.0 GB), which stay local; images go to Cloudinary if a post is rebuilt</li>
+        <li><strong>Two bugs found and fixed.</strong> The first full run <em>silently lost 964 pages</em> to HTTP 429 — Squarespace rate-limits hard, and 6 workers at 0.12s tripped it. Now 2 workers at 1s with <span class="ic">Retry-After</span>-aware exponential backoff, and it completes clean. Separately, image filenames were keyed on Python's builtin <span class="ic">hash()</span>, which is salted per process — every re-run would have renamed the whole library and re-downloaded 618 MB</li>
+        <li><strong>Verified:</strong> 0 broken links, 0 zero-byte files, 0 undersized markdown, and <strong>39 of the top 40 trafficked pages</strong> captured with full text. The 13 remaining failures are all dead image hotlinks to a defunct Squarespace account — broken before we started</li>
+        <li class="todo">Before cancelling: copy the 1 GB image folder somewhere off this machine, and pull Squarespace's native Settings → Import/Export XML, which catches drafts and unlisted pages a crawl cannot see</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- July 29 — Tree of Life landing page -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 29, 2026</span>
+      <span class="entry-tag shipped">Shipped to staging</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Tree of Life gathering page — no more sending people to a bare form</div>
+      <ul>
+        <li><strong>New page:</strong> <a href="tree-of-life.html" class="ic">tree-of-life.html</a> — what the gathering is, who it's for, what to expect, how applying works, and an FAQ. Hero over the tipi-at-night photo</li>
+        <li><strong>Nothing about the programme was invented.</strong> Copy is drawn only from the application form, the old Squarespace page, and LIM's existing Healing Groups language. <strong>Three marked draft blocks</strong> show exactly where Roberta needs to supply real content — the programme description, the shape of the three days, and FAQ corrections</li>
+        <li>Carried the safety panel and the <strong>988 crisis line</strong> across from the form, since people deciding whether to apply are exactly who needs to see them</li>
+        <li><strong>Sent to Roberta</strong> with both links. Robert replied <em>"excellent in way beyond expectation yet again"</em>; Roberta is at camp, so her review will follow</li>
+        <li class="todo">Waiting on Roberta: confirmed dates and venue, plus her words for the three draft blocks. Both pages stay <span class="ic">noindex</span> until she signs off</li>
+      </ul>
+    </div>
   </div>
 
   <!-- July 29 — Tree of Life application moved off Jotform -->

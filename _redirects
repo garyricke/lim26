@@ -30,6 +30,30 @@
 /reflections/bev                                 /blog-discovering-identity-bev.html 301  # 146 views
 /news-notes/bev                                  /blog-discovering-identity-bev.html 301
 
+# ── "What Do Lutherans Believe?" — Pastor Ricky Jacob's 7-part 2017 series ──
+# Rebuilt from the Squarespace archive as one page with a section per part, so
+# each old URL lands on its own teaching rather than the top of the article.
+# ~1,500 views across these in the 19 months to Jul 2026.
+/news/what-is-the-church                  /blog-what-lutherans-believe.html#church      301
+/news/what-is-baptism                     /blog-what-lutherans-believe.html#baptism     301
+/news/what-is-the-lords-supper            /blog-what-lutherans-believe.html#supper      301
+/news/what-is-confession                  /blog-what-lutherans-believe.html#confession  301  # 222 views
+/news/what-is-repentance                  /blog-what-lutherans-believe.html#repentance  301  # 142 views
+/news/what-are-the-sacraments             /blog-what-lutherans-believe.html#sacraments  301  # 869 views
+/news/what-is-the-ecclesiastical-order    /blog-what-lutherans-believe.html#order       301
+/news-notes/what-is-the-church                /blog-what-lutherans-believe.html#church      301
+/news-notes/what-is-baptism                   /blog-what-lutherans-believe.html#baptism     301
+/news-notes/what-is-the-lords-supper          /blog-what-lutherans-believe.html#supper      301
+/news-notes/what-is-confession                /blog-what-lutherans-believe.html#confession  301
+/news-notes/what-is-repentance                /blog-what-lutherans-believe.html#repentance  301
+/news-notes/what-are-the-sacraments           /blog-what-lutherans-believe.html#sacraments  301
+/news-notes/what-is-the-ecclesiastical-order  /blog-what-lutherans-believe.html#order       301
+# The two long-form overview posts point at the top of the series
+/news/what-do-we-believe-as-lutherans-the-augsburg-confession-explained  /blog-what-lutherans-believe.html 301  # 301 views
+/reflections/what-do-we-believe-as-lutherans                            /blog-what-lutherans-believe.html 301  # 143 views
+/news/what-do-we-believe-as-lutherans                                   /blog-what-lutherans-believe.html 301
+/news-notes/tag/what+do+lutherans+believe                               /blog-what-lutherans-believe.html 301
+
 # ── Retired content (devotions / news / reflections / podcast were not migrated) → home ──
 # ~2,700 old posts. Redirecting to home avoids dead links for any inbound traffic.
 #

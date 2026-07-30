@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Seven short devotions by Pastor Ricky Jacob of Winnebago, Nebraska, written for the 500th anniversary of the Reformation: the Church, Baptism, the Lord's Supper, Confession, Repentance, the Sacraments, and Ecclesiastical Order.">
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <title>What Do Lutherans Believe? · A Seven-Part Devotion · Lutheran Indian Ministries</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --red: #ED1C24; --red-h: #c8151c;
+      --yellow: #FFDE16;
+      --charcoal: #282924;
+      --sage: #B2AC88; --sage-d: #8a8665;
+      --sky: #A2C2D1; --sky-d: #6fa3b8;
+      --stone: #EBE9E4;
+      --muted: #5a5a52;
+      --border: #d9d6ce;
+      --serif: 'Merriweather', Georgia, serif;
+      --cond: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+      --body: 'Open Sans', system-ui, sans-serif;
+      --max: 1200px; --r: 8px; --rl: 16px;
+      --sh: 0 2px 8px rgba(0,0,0,.08);
+      --shm: 0 6px 24px rgba(0,0,0,.14);
+      --shl: 0 16px 48px rgba(0,0,0,.22);
+      --t: .3s ease;
+    }
+    *,*::before,*::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body { font-family: var(--body); color: var(--charcoal); background: #fff; line-height: 1.7; overflow-x: hidden; }
+    img { max-width: 100%; height: auto; display: block; }
+    a { color: inherit; text-decoration: none; }
+    button { cursor: pointer; font-family: inherit; border: none; background: none; }
+
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 0 1.5rem; }
+    .lbl { font-family: var(--cond); font-size: .8rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: var(--sage-d); display: block; margin-bottom: .6rem; }
+    .btn { display: inline-flex; align-items: center; gap: .5rem; padding: .85rem 1.9rem; border-radius: var(--r); font-family: var(--cond); font-size: 1rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; transition: var(--t); cursor: pointer; border: 2px solid transparent; }
+    .btn-red { background: var(--red); color: #fff; border-color: var(--red); }
+    .btn-red:hover { background: var(--red-h); border-color: var(--red-h); transform: translateY(-1px); box-shadow: var(--shm); }
+    .btn-yellow { background: var(--yellow); color: var(--charcoal); border-color: var(--yellow); }
+    .btn-yellow:hover { background: #f0cf00; border-color: #f0cf00; transform: translateY(-1px); box-shadow: var(--shm); }
+    .btn-ol { background: transparent; color: var(--charcoal); border-color: var(--charcoal); }
+    .btn-ol:hover { background: var(--charcoal); color: #fff; }
+    .btn-olw { background: transparent; color: #fff; border-color: rgba(255,255,255,.55); }
+    .btn-olw:hover { background: rgba(255,255,255,.12); border-color: #fff; }
+    .fi { opacity: 0; transform: translateY(22px); transition: opacity .7s ease, transform .7s ease; }
+    .fi.vis { opacity: 1; transform: none; }
+    .fi-d1 { transition-delay: .1s; }
+    .fi-d2 { transition-delay: .2s; }
+    .fi-d3 { transition-delay: .3s; }
+    .fi-d4 { transition-delay: .4s; }
+
+    /* ── Nav ── */
+    #nav { position: sticky; top: 0; z-index: 1000; background: var(--charcoal); box-shadow: var(--shm); }
+    .nav-i { display: flex; align-items: center; justify-content: space-between; height: 66px; max-width: var(--max); margin: 0 auto; padding: 0 1.5rem; }
+    .nav-logo img { height: 42px; }
+    .nav-back { font-family: var(--cond); font-size: .82rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.55); display: flex; align-items: center; gap: .5rem; transition: color var(--t); }
+    .nav-back:hover { color: var(--yellow); }
+    .nav-give { font-family: var(--cond); font-size: .82rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; background: var(--red); color: #fff; padding: .5rem 1.2rem; border-radius: 5px; border: none; cursor: pointer; transition: var(--t); }
+    .nav-give:hover { background: var(--red-h); }
+
+    /* ── Hero ── */
+    #hero { position: relative; height: 75vh; min-height: 520px; overflow: hidden; display: flex; align-items: flex-end; background: var(--charcoal); }
+    .hero-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 20%; filter: brightness(.4); }
+    #hero::after { content: ''; position: absolute; inset: 0; background: linear-gradient(to top, rgba(20,20,16,.95) 0%, rgba(20,20,16,.25) 55%, transparent 100%); z-index: 1; pointer-events: none; }
+    .hero-c { position: relative; z-index: 2; max-width: 820px; padding: 3.5rem 1.5rem 5rem; margin: 0 auto; width: 100%; }
+    .hero-eyebrow { font-family: var(--cond); font-size: .82rem; font-weight: 700; letter-spacing: .22em; text-transform: uppercase; color: var(--yellow); display: flex; align-items: center; gap: .75rem; margin-bottom: 1rem; }
+    .hero-eyebrow::before { content: ''; width: 36px; height: 2px; background: var(--yellow); flex-shrink: 0; }
+    .hero-date { font-family: var(--cond); font-size: .88rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.4); margin-bottom: 1rem; }
+    .hero-h1 { font-family: var(--serif); font-size: clamp(2.2rem, 5.5vw, 3.75rem); line-height: 1.12; color: #fff; text-shadow: 0 2px 24px rgba(0,0,0,.6); margin-bottom: 1.1rem; }
+    .hero-h1 em { font-style: italic; color: var(--yellow); }
+    .hero-sub { font-family: var(--serif); font-style: italic; font-size: 1.12rem; color: rgba(255,255,255,.68); max-width: 560px; line-height: 1.75; margin-bottom: 1.5rem; }
+    .hero-byline { font-family: var(--cond); font-size: .82rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: rgba(255,255,255,.45); }
+    .hero-byline strong { color: rgba(255,255,255,.75); }
+
+    /* ── Article Layout ── */
+    #article { padding: 5rem 1.5rem; }
+    .article-g { max-width: var(--max); margin: 0 auto; display: grid; grid-template-columns: 1fr 320px; gap: 4.5rem; align-items: start; }
+    .article-body { max-width: 680px; }
+    .article-body p { color: var(--muted); line-height: 1.92; margin-bottom: 1.45rem; font-size: 1.02rem; }
+    .article-body p:last-child { margin-bottom: 0; }
+    .article-body em { font-style: italic; }
+
+    /* Letter block */
+    .letter-block { background: var(--stone); border-radius: var(--rl); padding: 2rem 2.25rem; margin: 2rem 0; border: 1px solid var(--border); }
+    .letter-block .letter-lbl { font-family: var(--cond); font-size: .72rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: var(--sage-d); margin-bottom: 1rem; display: flex; align-items: center; gap: .5rem; }
+    .letter-block .letter-lbl::before { content: ''; width: 20px; height: 1px; background: var(--sage); display: block; }
+    .letter-block p { font-family: var(--serif); font-style: italic; color: var(--charcoal); line-height: 1.85; font-size: 1rem; margin-bottom: .8rem; }
+    .letter-block p:last-child { margin-bottom: 0; }
+    .letter-block .letter-sig { font-family: var(--cond); font-size: .82rem; font-weight: 600; color: var(--muted); margin-top: 1rem; display: block; }
+
+    /* Scripture block */
+    .scripture { background: var(--charcoal); border-left: 4px solid var(--yellow); border-radius: 0 var(--rl) var(--rl) 0; padding: 1.6rem 2rem; margin: 2.25rem 0; }
+    .scripture .s-ref { font-family: var(--cond); font-size: .78rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: rgba(255,255,255,.35); margin-bottom: .6rem; }
+    .scripture .s-text { font-family: var(--serif); font-size: 1.15rem; font-style: italic; color: rgba(255,255,255,.88); line-height: 1.75; }
+    .scripture .s-ver { font-family: var(--cond); font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: rgba(255,255,255,.3); margin-top: .55rem; }
+
+    /* Historical callout */
+    .hist-callout { border: 1px solid var(--border); border-left: 4px solid var(--red); border-radius: 0 var(--r) var(--r) 0; padding: 1.5rem 1.75rem; margin: 2.25rem 0; background: #fff9f9; }
+    .hist-callout .hist-lbl { font-family: var(--cond); font-size: .72rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: var(--red); margin-bottom: .75rem; }
+    .hist-callout blockquote { font-family: var(--serif); font-style: italic; color: var(--charcoal); line-height: 1.8; font-size: 1rem; margin-bottom: .65rem; }
+    .hist-callout cite { font-family: var(--cond); font-size: .75rem; font-weight: 600; letter-spacing: .06em; color: var(--muted); font-style: normal; }
+
+    /* Pull quote */
+    .pull-q { margin: 2.5rem 0; padding: 1.5rem 0 1.5rem 1.75rem; border-left: 3px solid var(--yellow); }
+    .pull-q p { font-family: var(--serif); font-size: 1.28rem; font-style: italic; color: var(--charcoal); line-height: 1.65; margin: 0 !important; }
+
+    /* Section divider */
+    .art-rule { display: flex; align-items: center; gap: 1rem; margin: 2.5rem 0; }
+    .art-rule::before, .art-rule::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+    .art-rule-dot { width: 8px; height: 8px; background: var(--yellow); border-radius: 50%; flex-shrink: 0; }
+
+    /* Interior image */
+    .art-img { border-radius: var(--rl); overflow: hidden; margin: 2.5rem 0; }
+    .art-img img { width: 100%; display: block; }
+    .art-img-cap { font-family: var(--cond); font-size: .72rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--sage-d); margin-top: .6rem; text-align: center; }
+
+    /* Section heading within body */
+    .art-h3 { font-family: var(--serif); font-size: 1.35rem; color: var(--charcoal); margin: 2.5rem 0 .85rem; line-height: 1.3; }
+
+    /* Postscript */
+    .ps-box { background: var(--stone); border-radius: var(--rl); padding: 1.75rem 2rem; margin-top: 2.5rem; }
+    .ps-box .lbl { color: var(--sage-d); margin-bottom: .85rem; }
+    .ps-box p { font-family: var(--serif); font-style: italic; color: var(--charcoal); line-height: 1.85; font-size: 1rem; }
+    .ps-box .ps-sig { font-family: var(--cond); font-size: .82rem; font-weight: 700; color: var(--muted); margin-top: .85rem; display: block; }
+
+    /* ── Bridge / CTA ── */
+    #bridge { background: var(--charcoal); padding: 5rem 1.5rem; }
+    .bridge-inner { max-width: 820px; margin: 0 auto; }
+    .bridge-inner .lbl { color: rgba(255,255,255,.35); margin-bottom: 1rem; }
+    .bridge-inner h2 { font-family: var(--serif); font-size: clamp(1.8rem, 3.5vw, 2.6rem); line-height: 1.18; color: #fff; margin-bottom: 1.25rem; }
+    .bridge-inner h2 em { font-style: italic; color: var(--yellow); }
+    .bridge-pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; margin: 2.5rem 0; }
+    .bp { background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.1); border-radius: var(--rl); padding: 1.5rem; }
+    .bp.active { background: rgba(237,28,36,.12); border-color: rgba(237,28,36,.35); }
+    .bp-n { font-family: var(--cond); font-size: .68rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: rgba(255,255,255,.3); margin-bottom: .5rem; }
+    .bp.active .bp-n { color: rgba(237,28,36,.8); }
+    .bp-t { font-family: var(--serif); font-size: 1.1rem; color: #fff; margin-bottom: .5rem; }
+    .bp-d { font-size: .88rem; color: rgba(255,255,255,.55); line-height: 1.65; }
+    .bridge-ctas { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 2rem; }
+    .bridge-verse { border-left: 3px solid var(--yellow); padding: 1.25rem 1.5rem; margin-top: 2.5rem; }
+    .bridge-verse p { font-family: var(--serif); font-style: italic; color: rgba(255,255,255,.72); line-height: 1.75; font-size: 1rem; margin-bottom: .5rem; }
+    .bridge-verse cite { font-family: var(--cond); font-size: .75rem; font-weight: 600; letter-spacing: .08em; color: rgba(255,255,255,.35); font-style: normal; }
+
+    /* ── Sidebar ── */
+    .sidebar { position: sticky; top: 90px; }
+    .sidebar-card { background: var(--stone); border-radius: var(--rl); padding: 1.75rem; margin-bottom: 1.5rem; }
+    .sidebar-card h4 { font-family: var(--cond); font-size: .75rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: var(--sage-d); margin-bottom: 1rem; }
+    .sidebar-card p { font-size: .88rem; color: var(--muted); line-height: 1.7; margin-bottom: 1rem; }
+    .sidebar-card p:last-child { margin-bottom: 0; }
+    .pillar-badge { display: flex; align-items: center; gap: .75rem; background: #fff; border-radius: var(--r); padding: .9rem 1rem; border: 1px solid var(--border); margin-bottom: 1rem; }
+    .pillar-badge-n { font-family: var(--cond); font-size: .65rem; font-weight: 800; letter-spacing: .15em; text-transform: uppercase; color: var(--red); display: block; }
+    .pillar-badge-t { font-family: var(--cond); font-size: 1.05rem; font-weight: 700; color: var(--charcoal); }
+    .sidebar-donate { background: var(--charcoal); border-radius: var(--rl); padding: 1.75rem; }
+    .sidebar-donate h4 { font-family: var(--cond); font-size: .75rem; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; color: rgba(255,255,255,.3); margin-bottom: 1rem; }
+    .sidebar-donate p { font-family: var(--serif); font-style: italic; font-size: .92rem; color: rgba(255,255,255,.6); line-height: 1.7; margin-bottom: 1.25rem; }
+    .sidebar-donate a.btn { width: 100%; justify-content: center; font-size: .88rem; }
+
+    /* ── Footer ── */
+    #footer { background: #191916; padding: 3rem 1.5rem 2rem; }
+    .foot-inner { max-width: var(--max); margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1.5rem; padding-bottom: 2rem; border-bottom: 1px solid rgba(255,255,255,.07); margin-bottom: 1.5rem; }
+    .foot-inner img { height: 40px; }
+    .foot-links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .foot-links a { font-size: .85rem; color: rgba(255,255,255,.45); transition: color var(--t); }
+    .foot-links a:hover { color: var(--yellow); }
+    .foot-copy { font-size: .75rem; color: rgba(255,255,255,.25); text-align: center; max-width: var(--max); margin: 0 auto; }
+
+    /* ── Responsive ── */
+    @media(max-width:900px) {
+      .article-g { grid-template-columns: 1fr; gap: 3rem; }
+      .sidebar { position: static; }
+      .article-body { max-width: 100%; }
+      .bridge-pillars { grid-template-columns: 1fr; }
+    }
+    @media(max-width:600px) {
+      #hero { height: 60vh; }
+      .hero-c { padding: 2rem 1.5rem 3.5rem; }
+      .letter-block { padding: 1.5rem; }
+    }
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_auth_2026',HASH='53d81e6c17c82d10718106513d7a21defa05a0d73b2c89f59be66b40f8a05aac';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');
+      o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<p style="color:rgba(255,255,255,.55);font-size:.9rem;margin-bottom:1.25rem;letter-spacing:.04em">This site is password protected</p>'
+        +'<input id="ag-pw" type="password" placeholder="Enter password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw');
+      var err=document.getElementById('ag-err');
+      function attempt(){
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(inp.value)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password';inp.value='';inp.focus();}
+        });
+      }
+      document.getElementById('ag-btn').addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+<!-- SEO / social -->
+<link rel="canonical" href="https://www.lutheranindianministries.org/blog-the-choice.html">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Lutheran Indian Ministries">
+<meta property="og:title" content="The Choice: Native OR Christian · Lutheran Indian Ministries">
+<meta property="og:description" content="For more than 500 years, Native Americans were told they had to choose: be Native, or be Christian. LIM exists to answer that false choice once and for all.">
+<meta property="og:url" content="https://www.lutheranindianministries.org/blog-the-choice.html">
+<meta property="og:image" content="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_1200,h_630/lim2026/pillar-heal-session">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Choice: Native OR Christian · Lutheran Indian Ministries">
+<meta name="twitter:description" content="For more than 500 years, Native Americans were told they had to choose: be Native, or be Christian. LIM exists to answer that false choice once and for all.">
+<meta name="twitter:image" content="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_1200,h_630/lim2026/pillar-heal-session">
+
+
+<style>
+  .series-nav{position:sticky;top:64px;z-index:20;background:rgba(255,255,255,.97);backdrop-filter:blur(8px);border-bottom:1px solid var(--border);padding:.7rem 0;margin-bottom:2.5rem}
+  .series-nav .inner{max-width:820px;margin:0 auto;padding:0 1.5rem;display:flex;gap:.4rem;overflow-x:auto;scrollbar-width:none}
+  .series-nav .inner::-webkit-scrollbar{display:none}
+  .series-nav a{display:inline-flex;align-items:center;gap:.4rem;white-space:nowrap;font-family:var(--cond);font-size:.82rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);text-decoration:none;padding:.35rem .7rem;border-radius:20px;transition:.15s}
+  .series-nav a:hover{background:var(--stone);color:var(--charcoal)}
+  .sn-n{display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;border-radius:50%;background:var(--yellow);color:var(--charcoal);font-size:.68rem;font-weight:800;flex-shrink:0}
+  .part{max-width:720px;margin:0 auto 3.5rem;padding-bottom:3rem;border-bottom:1px solid var(--border);scroll-margin-top:130px}
+  .part:last-of-type{border-bottom:none}
+  .part-hd{margin-bottom:1.6rem}
+  .part-n{font-family:var(--cond);font-size:.75rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.5rem}
+  .part-t{font-family:var(--serif);font-size:clamp(1.5rem,3vw,2.1rem);line-height:1.22;color:var(--charcoal);margin-bottom:.6rem}
+  .part-sf{font-family:var(--serif);font-style:italic;font-size:1.05rem;color:var(--sage-d);line-height:1.6;margin-bottom:.7rem}
+  .part-date{font-family:var(--cond);font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  .part p{font-size:1.02rem;line-height:1.85;color:#3c3d36;margin-bottom:1.15rem}
+  .part p strong{color:var(--charcoal)}
+  blockquote.scripture{border-left:3px solid var(--yellow);background:var(--stone);border-radius:0 var(--r) var(--r) 0;padding:1.1rem 1.4rem;margin:1.5rem 0;font-family:var(--serif);font-style:italic;font-size:1rem;line-height:1.8;color:#3c3d36}
+  blockquote.scripture em{font-style:normal}
+  .author-card{max-width:720px;margin:0 auto 3rem;background:var(--stone);border-radius:var(--rl);padding:1.9rem}
+  .author-card .lbl{margin-bottom:.6rem}
+  .author-card h3{font-family:var(--serif);font-size:1.25rem;margin-bottom:.5rem}
+  .author-card p{font-size:.97rem;color:var(--muted);line-height:1.75;margin-bottom:0}
+  @media(max-width:640px){.series-nav{top:56px}.part{scroll-margin-top:112px}}
+</style>
+</head><body>
+
+<nav id="nav">
+  <div class="nav-i">
+    <a href="index.html" class="nav-logo">
+      <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+    </a>
+    <a href="index.html#blog" class="nav-back">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M10 12L6 8l4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Blog
+    </a>
+    <button onclick="window.location='index.html'" class="nav-give">Home</button>
+  </div>
+</nav>
+
+<section id="hero" aria-label="Article hero">
+  <img class="hero-img" style="object-position:65% bottom;filter:brightness(.55)"
+    src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_south,w_2000,h_1000/lim2026/history-tipi-night"
+    alt="A lit tipi under a starry night sky">
+  <div class="hero-c">
+    <div class="hero-eyebrow fi">A Seven-Part Devotion</div>
+    <p class="hero-date fi fi-d1">Autumn 2017 &middot; 500th Anniversary of the Reformation</p>
+    <h1 class="hero-h1 fi fi-d2">What Do<br><em>Lutherans</em> Believe?</h1>
+    <p class="hero-sub fi fi-d3">Seven short teachings on the chief articles of the faith &mdash; drawn solely from the sacred Word of God.</p>
+    <p class="hero-byline fi fi-d4">By <strong>Pastor Ricky Jacob</strong> &middot; Winnebago, Nebraska</p>
+  </div>
+</section>
+
+<div class="series-nav">
+  <div class="inner">
+        <a href="#church"><span class="sn-n">1</span>Church</a>
+        <a href="#baptism"><span class="sn-n">2</span>Baptism</a>
+        <a href="#supper"><span class="sn-n">3</span>Lord's Supper</a>
+        <a href="#confession"><span class="sn-n">4</span>Confession</a>
+        <a href="#repentance"><span class="sn-n">5</span>Repentance</a>
+        <a href="#sacraments"><span class="sn-n">6</span>Sacraments</a>
+        <a href="#order"><span class="sn-n">7</span>Ecclesiastical Order</a>
+  </div>
+</div>
+
+<section id="article" aria-label="Series content">
+  <div class="wrap">
+
+    <div class="part fi" style="border-bottom:none;padding-bottom:1rem">
+      <p style="font-size:1.1rem;line-height:1.85">Five hundred years after Martin Luther nailed his theses to a church door in Wittenberg, Pastor Ricky Jacob of Winnebago, Nebraska sat down to answer a question his own congregation kept asking him: <em>just what do we Lutherans believe?</em></p>
+      <p>What follows is his answer &mdash; seven short devotions, written across seven weeks in the autumn of 2017. Each takes one chief article of the faith and summarizes it plainly, grounded in Scripture rather than in argument. They were written for Native believers who wanted to understand the tradition they had been handed, and they have been among the most-read pages on this site ever since.</p>
+    </div>
+
+    <article class="part fi" id="church">
+      <header class="part-hd">
+        <span class="part-n">Part 1 of 7</span>
+        <h2 class="part-t">What is the Church?</h2>
+        <p class="part-sf">The assembly of saints — visible and invisible.</p>
+        <span class="part-date">Sept 4, 2017</span>
+      </header>
+      <p>Defining "church" was one of the most controversial topics during the time of the Lutheran Reformation.</p>
+      <p>Properly speaking, the church is the assembly of saints and true believers. The church is primarily the gathering of God's people around Christ's Word and the Sacraments of Holy Baptism and the Lord's Supper.</p>
+      <p>In the wide sense, the visible church includes all who are seen together around the sacred Word of God and the Sacraments. This, of course, includes hypocrites and evil persons who mingle with believers, including (it is sad to say) some pastors and leaders of the church organization.</p>
+      <p>In the narrow sense, the invisible church includes all who genuinely have faith in Christ, an aspect of church that cannot be seen. Fellowship around, in, and through the Word and Sacraments define unity in the faith.</p>
+      <p>The Apostle Paul writes, regarding Christ's work in the making of the saints of the church by grace alone, in his letter to the saints, the faithful believers in Christ of the church at Ephesus.</p>
+      <p><em>"Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish." Ephesians 5:25-27 (ESV)</em></p>
+    </article>
+    <article class="part fi" id="baptism">
+      <header class="part-hd">
+        <span class="part-n">Part 2 of 7</span>
+        <h2 class="part-t">What is Baptism?</h2>
+        <p class="part-sf">Grace offered, and why children are baptized.</p>
+        <span class="part-date">Sept 11, 2017</span>
+      </header>
+      <p>Our Lutheran churches teach that baptism is necessary for salvation, that the grace of God is offered through baptism, and that children should be baptized. For by being offered to God through baptism, they are received into His grace.</p>
+      <p>God's Kingdom exists only with the proclamation of God's Sacred Word and the Sacraments of Holy Baptism and the Lord's Supper. It is necessary and a blessing from above to baptize children of all ages, due to the inheritance of sin from one's sinful parents, and so that the blessed hope and promises of salvation may be applied to them, according to God's command.</p>
+      <p>Jesus came and said to the eleven disciples:</p>
+      <blockquote class="scripture"><em>"All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you." (Matthew 28:18-20 ESV)</em></blockquote>
+      <p>Jesus did not qualify making disciples of <em>all nations</em> with "except infants." <em>All nations</em> includes all people of all ages. Holy Baptism works forgiveness of sins, delivers from death and the devil, and gives eternal salvation to all who believe in Jesus as Lord and Savior.</p>
+      <p>Faith is a gift of the Holy Spirit and, by the grace of God, is found even in the child inside his mother's womb. As was the case with John the Baptist, who was filled with the Holy Spirit and leaped for joy at the sound of the mother of Jesus' voice while still in the womb.</p>
+    </article>
+    <article class="part fi" id="supper">
+      <header class="part-hd">
+        <span class="part-n">Part 3 of 7</span>
+        <h2 class="part-t">What is the Lord's Supper?</h2>
+        <p class="part-sf">“This <em>is</em> my body” — taken at its word.</p>
+        <span class="part-date">Sept 18, 2017</span>
+      </header>
+      <p>Our Lutheran churches teach that the body and blood of Christ are truly present and are distributed to those who eat in the supper of the Lord.</p>
+      <p>Listen to the very words of Christ in the Gospel of St. Matthew, the twenty-sixth chapter:</p>
+      <blockquote class="scripture"><em>Now as they were eating, Jesus took bread, and after</em> <em>blessing</em> <em>it broke it and gave it to the disciples, and said, “Take, eat; this is my body.” And he took a cup, and when he had given thanks he gave it to them, saying, “Drink of it, all of you, for this is my blood of the covenant, which is poured out for many for the forgiveness of sins." (Matthew 26:26-28 ESV)</em></blockquote>
+      <p>Based on these words, we Lutherans believe, teach, and confess that, of the bread, it is what Jesus said it is, namely "This <strong><em>is</em></strong> my body." And of the wine, "This <strong><em>is</em></strong> my blood."</p>
+      <p>These are given and shed for the forgiveness of sins. So, in the eating of the bread and the drinking of the wine, one receives the very body and blood of Jesus. These are given so that those who receive them in faith also are assured of their forgiveness of sins. Where there is forgiveness of sins, there is also life and salvation. But anyone who does not believe these words or doubts is unworthy and unfit, for the words "for you," require that you truly believe.</p>
+      <p>Don't forget: to truly believe is a gift of the Holy Spirit.</p>
+    </article>
+    <article class="part fi" id="confession">
+      <header class="part-hd">
+        <span class="part-n">Part 4 of 7</span>
+        <h2 class="part-t">What is Confession?</h2>
+        <p class="part-sf">Two parts: we confess, and we are absolved.</p>
+        <span class="part-date">Sept 25, 2017</span>
+      </header>
+      <p>At the time of the Lutheran Reformation, the practice of confessing sins privately and confidentially to a pastor had been a well-accepted church practice for over one thousand years. Private confession and absolution was never something Lutherans wanted to get rid of, but as time went on, the practice fell into disuse. But clearly, at the time of the Lutheran Reformation, the Lutheran church assumed that private confession would continue to take place.</p>
+      <p>Our Lutheran churches teach that private absolution should be retained in the churches. However, in confession, an enumeration of all sins is not necessary, for this is not possible according to the Psalmist:</p>
+      <blockquote class="scripture"><em>Who can discern his errors? (Psalm 19:12 ESV)</em></blockquote>
+      <p>So, what exactly is confession from a Lutheran perspective?</p>
+      <p>Confession has two parts. The first is that we confess our sins. The other is that we receive absolution, or forgiveness, from the confessor, as from God Himself, and in no way doubt but firmly believe that our sins are forgiven before God in Heaven.</p>
+      <p>Which sin should we confess? Before God, we should plead guilty of all sins, even of those we do not know, as we do in the Lord's Prayer. But before the confessor, we should confess only those sins that we know and feel in our hearts.</p>
+      <p>James offers these words of instruction, regarding confession:</p>
+      <blockquote class="scripture"><em>Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working. (James 5:16 ESV)</em></blockquote>
+    </article>
+    <article class="part fi" id="repentance">
+      <header class="part-hd">
+        <span class="part-n">Part 5 of 7</span>
+        <h2 class="part-t">What is Repentance?</h2>
+        <p class="part-sf">Not paying God off — turning to His mercy.</p>
+        <span class="part-date">Oct 2, 2017</span>
+      </header>
+      <p>Our Lutheran churches teach that those who have fallen after baptism can receive forgiveness of sins whenever they are converted and that the church ought to impart absolution to those who return to repentance.</p>
+      <p>Properly speaking, repentance consists of these two parts. One is contrition, that is terror, submitting the conscience with the knowledge of sin. The other is faith, which is born of the Gospel or of absolution. Belief that sins are forgiven, for Christ's sake, conforts the conscience and delivers it from terror. Then, good works, which are the fruits of repentance, are bound to follow.</p>
+      <p>Repentance, in other words, is not about paying God off or making some satisfaction for our sins. Repentance is recognizing the reality of our sin and turning to God, in faith, for his mercy.</p>
+      <p>God reveals our sin through his law. He forgives our sin and restores us to the right relationship with Him through his Gospel.</p>
+      <p>While we affirm that there is fruit of repentance, the focus of the Gospel must be clear. Our sins are forgiven only because of Christ. Our lives in Christ are lives of repentance, returning again and again to the source of that mercy, our Savior.</p>
+      <p>Repentance should produce good fruit. These good fruit are what the commandments teach: prayer, thanksgiving, the confession of the Gospel, teaching the Gospel, obeying parents and rulers, and being obedient to one's calling. We should also speak the truth. These fruit are God's command and should be produced for the sake of God's glory.</p>
+    </article>
+    <article class="part fi" id="sacraments">
+      <header class="part-hd">
+        <span class="part-n">Part 6 of 7</span>
+        <h2 class="part-t">What is the Purpose of the Sacraments?</h2>
+        <p class="part-sf">Signs and testimonies of God's will toward us.</p>
+        <span class="part-date">Oct 9, 2017</span>
+      </header>
+      <p>Our Lutheran churches teach that the Sacraments were instituted not merely to be marks of profession among men but to be the signs and testimonies of the will of God toward us, intended to awaken and confirm faith in those who use them. Consequently, the Sacraments should be used so that faith, which believes the promises that are offered, is increased.</p>
+      <p>Our churches, therefore, condemn those who teach that the Sacraments are justified simply by the outward act and do not teach that faith, which believes that sins are forgiven, is required in the use of the Sacraments.</p>
+      <p>The Bible reveals the Sacraments to be the means with which God distributes his grace and promises. God attaches his word of promise to the element of the Sacrament.</p>
+      <p>The Latin word "Sacrament" means mystery. God's gifts are given in God's mysterious ways. He offers, gives, and seals the forgiveness of sins earned by Jesus Christ.</p>
+      <p>By the Lutheran definition, there are two sacraments: Holy Baptism and the Lord's Supper. Sometimes, Holy Absolution is counted as a third sacrament. Even though it has no divinely-instituted, visible element, it still offers, gives, and seals the forgiveness of sins earned by Jesus Christ.</p>
+    </article>
+    <article class="part fi" id="order">
+      <header class="part-hd">
+        <span class="part-n">Part 7 of 7</span>
+        <h2 class="part-t">What is Ecclesiastical Order?</h2>
+        <p class="part-sf">Called under-shepherds of the Good Shepherd.</p>
+        <span class="part-date">Oct 16, 2017</span>
+      </header>
+      <p>Our Lutheran churches teach that nobody should preach publically in the church or administer the Sacraments unless he is rightly called. Lutheranism desire to maintain whatever best contributes to good order, peace, and harmony in the church. Therefore, Lutherans insist on a rightly ordered call and ordination for those who will serve the church as ministers, or servants of Word and Sacrament.</p>
+      <p>These ministers, or servants, are often called pastors. The Latin word "pastor" means shepherd. Jesus refers to himself as the "Good Shepherd." Jesus said:</p>
+      <blockquote class="scripture"><em>"I am the good shepherd. I know my own and my own know me, just as the Father knows me and I know the</em> <em>Father; and</em> <em>I lay down my life for the sheep." (John 10:14-15 ESV)</em></blockquote>
+      <p>Pastors serve as called under-shepherds of The Shepherd, Jesus Christ. As an under-shepherd, a pastor is called by God to be like John the Baptist, unworthy even to untie the sandals of Jesus, but rather to point others to the Lamb of God who takes away the sins of the world.</p>
+      <p>Another way to describe the role of a pastor is to be an overseer, tending God's flock. The Apostle Paul wrote these words regarding the qualifications for an overseer:</p>
+      <blockquote class="scripture"><em>The saying is trustworthy: If anyone aspires to the office of overseer, he desires a noble task. Therefore an overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach. (1 Timothy 3:1-2 ESV)</em></blockquote>
+    </article>
+
+    <div class="author-card fi">
+      <span class="lbl">About the Author</span>
+      <h3>Pastor Ricky Jacob</h3>
+      <p>Pastor Ricky Jacob serves in <strong>Winnebago, Nebraska</strong>. He wrote this seven-week series in the autumn of 2017 to mark the 500th anniversary of the Lutheran Reformation, summarizing each chief article of faith for the people he serves.</p>
+    </div>
+
+    <div class="part fi" style="border-bottom:none;text-align:center">
+      <span class="lbl" style="display:block;text-align:center">Keep Going</span>
+      <h3 style="font-family:var(--serif);font-size:1.4rem;margin-bottom:.9rem">Walk this out with others.</h3>
+      <p style="margin-bottom:1.5rem">Our healing groups gather around Scripture in the safety of community &mdash; no cost, no pressure, and no faith background required.</p>
+      <a href="healing-groups.html" class="btn btn-red">Find a Healing Group</a>
+    </div>
+
+  </div>
+</section>
+
+<footer style="background:#1a1a16;color:rgba(255,255,255,.55);padding:2.5rem 1.5rem;text-align:center;font-size:.87rem">
+  Lutheran Indian Ministries &middot; 15350 W Capitol Drive, Brookfield, WI 53005<br>
+  <a href="index.html" style="color:rgba(255,255,255,.8)">Home</a> &middot;
+  <a href="healing-groups.html" style="color:rgba(255,255,255,.8)">Healing Groups</a> &middot;
+  <a href="donate.html" style="color:rgba(255,255,255,.8)">Give</a>
+</footer>
+
+<script>
+(function(){
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('vis');io.unobserve(e.target);}});},{threshold:.08});
+  document.querySelectorAll('.fi').forEach(function(el){io.observe(el);});
+})();
+</script>
+</body>
+</html>
