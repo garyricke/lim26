@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Analytics — LIM Developer Docs</title>
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+      --sage-d:#8a8665;--sky:#A2C2D1;--sky-d:#6f9bb0;--stone:#EBE9E4;
+      --muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;
+      --serif:'Merriweather',Georgia,serif;
+      --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --body:'Open Sans',system-ui,sans-serif;
+      --max:860px;--r:8px;--rl:16px;
+      --shm:0 6px 24px rgba(0,0,0,.12);
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--body);color:var(--charcoal);background:#f5f4f0;line-height:1.7}
+    a{color:var(--red);text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    /* Top bar */
+    #topbar{background:var(--charcoal);padding:.75rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
+    #topbar img{height:34px}
+    #topbar span{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4)}
+
+    /* Page layout */
+    .doc-wrap{max-width:var(--max);margin:0 auto;padding:3rem 1.5rem 5rem}
+
+    /* Header */
+    .doc-header{margin-bottom:2.5rem;padding-bottom:2rem;border-bottom:2px solid var(--border)}
+    .doc-eyebrow{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.75rem;display:block}
+    .doc-title{font-family:var(--serif);font-size:clamp(1.8rem,3.5vw,2.4rem);color:var(--charcoal);line-height:1.2;margin-bottom:1rem}
+    .doc-intro{font-size:1rem;color:var(--muted);line-height:1.8;max-width:660px}
+    .doc-intro strong{color:var(--charcoal)}
+
+    /* Meta row */
+    .doc-meta{display:flex;flex-wrap:wrap;gap:.5rem .65rem;margin-top:1.5rem}
+    .doc-tag{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;background:#fff;border:1px solid var(--border);color:var(--muted);padding:.3rem .7rem;border-radius:20px}
+    .doc-tag b{color:var(--charcoal)}
+
+    /* Alert box */
+    .doc-alert{background:var(--yellow);border-radius:var(--r);padding:1.1rem 1.4rem;margin-bottom:2.5rem;display:flex;gap:.75rem;align-items:flex-start}
+    .doc-alert-icon{font-size:1.1rem;flex-shrink:0;margin-top:1px}
+    .doc-alert p{font-size:.92rem;color:var(--charcoal);line-height:1.65}
+    .doc-alert strong{font-weight:700}
+
+    /* Stat strip */
+    .doc-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem;margin-bottom:2.5rem}
+    .doc-stat{background:#fff;border:1px solid var(--border);border-radius:var(--r);padding:1.1rem 1rem;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .doc-stat .n{font-family:var(--serif);font-size:1.45rem;font-weight:700;color:var(--charcoal);line-height:1.1}
+    .doc-stat .l{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-top:.4rem}
+    @media(max-width:600px){.doc-stats{grid-template-columns:1fr 1fr}}
+
+    /* Section */
+    .doc-section{background:#fff;border-radius:var(--rl);border:1px solid var(--border);overflow:hidden;margin-bottom:1.75rem;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+    .doc-section-head{background:var(--charcoal);padding:1rem 1.5rem;display:flex;align-items:center;gap:.85rem}
+    .doc-section-num{font-family:var(--cond);font-size:.7rem;font-weight:800;letter-spacing:.15em;background:var(--yellow);color:var(--charcoal);width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+    .doc-section-title{font-family:var(--cond);font-size:1rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#fff}
+    .doc-section-body{padding:1.75rem}
+    .doc-section-body p{color:var(--muted);line-height:1.8;margin-bottom:1rem;font-size:.95rem}
+    .doc-section-body p:last-child{margin-bottom:0}
+    .doc-section-body h3{font-family:var(--serif);font-size:1.05rem;color:var(--charcoal);margin:1.5rem 0 .5rem}
+
+    /* Step label */
+    .doc-step{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.5rem;margin-top:1.5rem;display:block}
+    .doc-step:first-child{margin-top:0}
+
+    /* Code block */
+    .doc-code-wrap{position:relative;margin:.75rem 0 1rem}
+    .doc-code-label{font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;background:var(--charcoal);color:var(--yellow);display:inline-block;padding:.2rem .65rem;border-radius:4px 4px 0 0;margin-bottom:0}
+    pre{background:#1a1a16;color:#e8e6e0;border-radius:0 var(--r) var(--r) var(--r);padding:1.25rem 1.4rem;overflow-x:auto;font-size:.85rem;line-height:1.7;white-space:pre}
+    code{font-family:'Fira Code','Cascadia Code','Courier New',monospace}
+    .hl-comment{color:#6a9955}
+    .hl-tag{color:#4ec9b0}
+    .hl-attr{color:#9cdcfe}
+    .hl-val{color:#ce9178}
+    .hl-kw{color:#c586c0}
+    .hl-fn{color:#dcdcaa}
+    .hl-str{color:#ce9178}
+    .hl-num{color:#b5cea8}
+
+    /* Inline code */
+    .ic{font-family:'Fira Code','Cascadia Code','Courier New',monospace;font-size:.85em;background:rgba(40,41,36,.08);border:1px solid var(--border);border-radius:4px;padding:.1em .4em;color:var(--charcoal);white-space:nowrap}
+
+    /* List */
+    .doc-list{list-style:none;display:flex;flex-direction:column;gap:.65rem;margin:.75rem 0 1rem}
+    .doc-list li{position:relative;padding-left:1.4rem;font-size:.95rem;color:var(--muted);line-height:1.65}
+    .doc-list li::before{content:'→';color:var(--red);font-weight:700;position:absolute;left:0;top:0}
+    .doc-list.check li::before,.doc-list li.check::before{content:'✓';color:var(--green)}
+    .doc-list li.check strong{color:var(--green)}
+    .doc-list li strong{color:var(--charcoal)}
+
+    /* Requirements & summary cards */
+    .doc-cards{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-top:1rem}
+    .doc-card{background:var(--stone);border-radius:var(--r);padding:1.25rem}
+    .doc-card h4{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--charcoal);margin-bottom:.6rem}
+    .doc-card p{font-size:.88rem;color:var(--muted);line-height:1.65;margin:0}
+
+    /* Option badge */
+    .doc-option-badge{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;background:var(--sky);color:var(--charcoal);padding:.3rem .8rem;border-radius:20px;margin-bottom:1rem}
+    .doc-option-badge.recommended::after{content:'Recommended';background:var(--red);color:#fff;font-size:.65rem;padding:.15rem .5rem;border-radius:10px;margin-left:.25rem}
+
+    /* Owner pills */
+    .doc-owner{display:inline-block;font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;background:rgba(162,194,209,.25);color:var(--sky-d);padding:.15rem .55rem;border-radius:5px;margin-left:.4rem}
+
+    /* Next-steps checklist */
+    .doc-todo{list-style:none;display:flex;flex-direction:column;gap:.85rem;margin-top:.5rem}
+    .doc-todo li{display:flex;gap:.85rem;background:var(--stone);border-radius:var(--r);padding:1rem 1.1rem;font-size:.93rem;color:var(--charcoal);line-height:1.6}
+    .doc-todo .box{flex-shrink:0;width:20px;height:20px;border:2px solid var(--sage-d);border-radius:5px;margin-top:1px}
+    .doc-todo .num{font-family:var(--cond);font-weight:800;color:var(--red);flex-shrink:0}
+
+    /* Email thread */
+    .doc-thread{display:flex;flex-direction:column;gap:0;border-left:2px solid var(--border);padding-left:1.25rem;margin:.5rem 0}
+    .doc-msg{padding:.4rem 0 1.1rem;position:relative}
+    .doc-msg::before{content:'';position:absolute;left:calc(-1.25rem - 6px);top:.7rem;width:9px;height:9px;border-radius:50%;background:var(--sage-d);border:2px solid #fff}
+    .doc-msg .who{font-family:var(--cond);font-weight:700;letter-spacing:.03em;text-transform:uppercase;font-size:.82rem;color:var(--charcoal)}
+    .doc-msg .when{font-size:.78rem;color:var(--muted);margin-left:.4rem;font-weight:400;text-transform:none;letter-spacing:0}
+    .doc-msg p{font-size:.92rem;color:var(--muted);margin:.35rem 0 0;line-height:1.65}
+
+    /* Divider */
+    .doc-divider{border:none;border-top:1px solid var(--border);margin:2rem 0}
+
+    @media(max-width:600px){
+      .doc-cards{grid-template-columns:1fr}
+    }
+  </style>
+  <script>
+  (function(){
+    var KEY='lim_docs_auth',HASH='fbb7e71f6658977d5d5092c4a0ef302ee21f429af79600be63b7b0f1fea60ef4';
+    if(localStorage.getItem(KEY)==='ok')return;
+    document.documentElement.style.visibility='hidden';
+    function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+    function showGate(){
+      document.documentElement.style.visibility='';
+      var o=document.createElement('div');
+      o.id='auth-gate';
+      o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+        +'<img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+        +'<h2 style="color:#fff;font-family:\'Merriweather\',serif;font-size:1.2rem;margin:0 0 .5rem;text-align:center">Developer Documentation</h2>'
+        +'<p style="color:rgba(255,255,255,.45);font-size:.85rem;margin:0 0 2rem;text-align:center">Restricted access — staff only</p>'
+        +'<input id="ag-pw" type="password" placeholder="Enter password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+        +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+        +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button>'
+        +'</div>';
+      document.body.appendChild(o);
+      var inp=document.getElementById('ag-pw'),btn=document.getElementById('ag-btn'),err=document.getElementById('ag-err');
+      function attempt(){
+        var pw=inp.value;
+        if(!pw){err.textContent='Please enter the password.';return;}
+        crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw)).then(function(buf){
+          if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}
+          else{err.textContent='Incorrect password.';inp.value='';inp.focus();}
+        });
+      }
+      btn.addEventListener('click',attempt);
+      inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});
+      setTimeout(function(){inp.focus();},100);
+    }
+    if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+  })();
+  </script>
+</head>
+<body>
+
+<div id="topbar">
+  <a href="index.html"><img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries — Home"></a>
+  <span>Developer Docs</span>
+</div>
+
+<div class="doc-wrap">
+
+  <div class="doc-header">
+    <span class="doc-eyebrow">Measurement &amp; Reporting</span>
+    <h1 class="doc-title">Analytics for the New Site</h1>
+    <p class="doc-intro">Squarespace Analytics dies with the Squarespace subscription. This page records <strong>what we're losing, what replaces it, and why</strong> — plus the exact setup steps. Short version: <strong>GA4 through the GTM container we already have</strong>, not Netlify Analytics. Wire it up <strong>before</strong> the DNS cutover so day one on the new domain is day one of clean data.</p>
+    <div class="doc-meta">
+      <span class="doc-tag">Status: <b>Not yet installed</b></span>
+      <span class="doc-tag">GTM: <b>GTM-TD3Z4XNG (live, consent-gated)</b></span>
+      <span class="doc-tag">Owner: <b>Gary</b></span>
+      <span class="doc-tag">Do before: <b>DNS cutover</b></span>
+    </div>
+  </div>
+
+  <div class="doc-alert">
+    <span class="doc-alert-icon">⚠</span>
+    <p><strong>Time-sensitive.</strong> Squarespace Analytics is only readable while the subscription is active. The full Jan 2025 – Jul 2026 export is saved at <span class="ic">plan/squarespace-site-analytics-jan-1-2025--july-29-2026.txt</span> and parsed to <span class="ic">plan/analytics-parsed.json</span>. <strong>Export anything else you want before cancelling.</strong></p>
+  </div>
+
+  <div class="doc-stats">
+    <div class="doc-stat"><div class="n">41,431</div><div class="l">Pageviews Jan 25 – Jul 26</div></div>
+    <div class="doc-stat"><div class="n">62%</div><div class="l">From top 4 pages</div></div>
+    <div class="doc-stat"><div class="n">~6,000</div><div class="l">Views hitting home redirects</div></div>
+    <div class="doc-stat"><div class="n">19 mo</div><div class="l">History to preserve</div></div>
+  </div>
+
+  <!-- 1 -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">1</div>
+      <span class="doc-section-title">Why Not Netlify Analytics</span>
+    </div>
+    <div class="doc-section-body">
+      <p>It's the obvious choice and it's the wrong one <em>as the primary tool</em>. Netlify Analytics is <strong>$9/month per site</strong> and server-side, which is genuinely nice — ad blockers can't stop it and it needs no cookie consent. But:</p>
+      <ul class="doc-list">
+        <li><strong>30-day retention.</strong> That's the killer. The Squarespace report we just exported spans 19 months. Netlify gives a rolling month and nothing before it.</li>
+        <li><strong>No custom events, goals, or conversion tracking.</strong> So it can't tell us a donation happened.</li>
+        <li><strong>No year-over-year comparison</strong> — the exact view Robert and Jaylene ask for.</li>
+        <li><strong>No data export.</strong> When you stop paying, the history is gone.</li>
+      </ul>
+      <h3>The one thing it's genuinely good for</h3>
+      <p>Netlify's <strong>"Top resources not found"</strong> report lists real 404s observed server-side — something no JavaScript tool catches reliably, because a browser hitting a dead URL never runs our tag. In the weeks right after a migration that is the single most useful report there is: it tells us which old URLs we failed to redirect.</p>
+      <p><strong>Recommendation:</strong> switch it on for the month around cutover, read the 404 list weekly, add redirects, then switch it off. Roughly <strong>$18 total</strong>.</p>
+    </div>
+  </div>
+
+  <!-- 2 -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">2</div>
+      <span class="doc-section-title">The Plan — GA4 via Existing GTM</span>
+    </div>
+    <div class="doc-section-body">
+      <p>Google Tag Manager (<span class="ic">GTM-TD3Z4XNG</span>) is already on every public page, installed behind the cookie-consent gate in July 2026. <strong>No GA tag is currently firing through it.</strong> So this is a container change, not a code change — nothing to deploy.</p>
+      <ul class="doc-list check">
+        <li><strong>Free</strong>, with history that doesn't expire at 30 days</li>
+        <li><strong>Conversion tracking</strong> — required for the Google Ad Grant Robert is considering</li>
+        <li><strong>Search Console integration</strong> — search queries, which Squarespace never showed us</li>
+        <li><strong>Already consent-gated</strong>, so it inherits the banner we built</li>
+      </ul>
+      <p>If staff want something simpler to actually read day-to-day, <strong>Plausible or Fathom</strong> (~$9–14/mo) gives a plain dashboard much closer in spirit to Squarespace's. Optional — GA4 alone meets the requirement.</p>
+    </div>
+  </div>
+
+  <!-- 3 -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">3</div>
+      <span class="doc-section-title">Setup Steps</span>
+    </div>
+    <div class="doc-section-body">
+      <span class="doc-step">Step 1 — Create the property</span>
+      <p>Google Analytics → Admin → Create Property. Name it <strong>Lutheran Indian Ministries</strong>, set the timezone to <strong>US Central</strong> (Brookfield HQ), currency USD. Add a Web data stream for <span class="ic">https://lutheranindianministries.org</span>. Copy the Measurement ID — it looks like <span class="ic">G-XXXXXXXXXX</span>.</p>
+
+      <span class="doc-step">Step 2 — Fix data retention immediately</span>
+      <p>New GA4 properties default to <strong>2 months</strong> of event retention. Change it or you'll lose exactly the long-range history we're trying to preserve.</p>
+      <p>Admin → Data collection and modification → <strong>Data Settings → Data Retention</strong> → set <strong>Event data retention to 14 months</strong> (the maximum for a free property) → Save.</p>
+      <div class="doc-alert" style="margin-bottom:1rem">
+        <span class="doc-alert-icon">⚠</span>
+        <p><strong>Not retroactive.</strong> Data already aged out under the 2-month default cannot be recovered, and the change takes ~24 hours to apply. Do this on day one, not later.</p>
+      </div>
+
+      <span class="doc-step">Step 3 — Add the tag in GTM</span>
+      <p>In container <span class="ic">GTM-TD3Z4XNG</span>: new Tag → <strong>Google Tag</strong> → paste the Measurement ID → trigger <strong>Initialization – All Pages</strong>. Gate it on the existing consent variable so it respects the banner.</p>
+
+      <span class="doc-step">Step 4 — Verify before publishing</span>
+      <p>Use GTM <strong>Preview</strong> against the live site and confirm the tag fires once per page, and that it does <em>not</em> fire before consent is given. Then Publish.</p>
+
+      <span class="doc-step">Step 5 — Link Search Console</span>
+      <p>GA4 Admin → Product Links → Search Console. This is what surfaces the search queries bringing people in — the single biggest reporting gain over Squarespace.</p>
+    </div>
+  </div>
+
+  <!-- 4 -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">4</div>
+      <span class="doc-section-title">Timing — Wire It Up Now, With One Caveat</span>
+    </div>
+    <div class="doc-section-body">
+      <p><strong>There is no meaningful downside to installing before cutover, and one real benefit:</strong> we find out the tag works while it doesn't matter, rather than discovering it's broken on launch day when traffic actually arrives.</p>
+      <h3>The one caveat, and how to handle it</h3>
+      <p>Until DNS moves, traffic hits <span class="ic">lim2026.netlify.app</span>. After it moves, <span class="ic">lutheranindianministries.org</span>. Both report into the same property, so the pre-launch weeks will contain our own testing and client review visits — a slightly dirty baseline.</p>
+      <ul class="doc-list">
+        <li><strong>Filter internal traffic by IP</strong> — Admin → Data Streams → Configure tag settings → Define internal traffic. Add the office/home IPs, then activate the <span class="ic">Internal Traffic</span> filter (it's created in testing mode by default and does nothing until you switch it to active).</li>
+        <li><strong>Segment by hostname when reading reports.</strong> GA4 records the hostname, so <span class="ic">netlify.app</span> traffic can be excluded from any report or exploration after the fact.</li>
+        <li><strong>Write down the cutover date</strong> and treat it as the real baseline. Note it in <a href="status.html">status.html</a> when it happens.</li>
+      </ul>
+      <p>Overlapping with Squarespace for a few weeks is a <em>feature</em>, not a problem — two sources measuring the same period is how we sanity-check that the new numbers are believable before the old ones disappear.</p>
+    </div>
+  </div>
+
+  <!-- 5 -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">5</div>
+      <span class="doc-section-title">What the Old Analytics Told Us</span>
+    </div>
+    <div class="doc-section-body">
+      <p>Worth keeping, because it should shape what we build next. Traffic is extraordinarily concentrated — <strong>four pages are 62% of all views</strong>.</p>
+      <ul class="doc-list">
+        <li><span class="ic">/</span> — 8,927</li>
+        <li><span class="ic">/healing-wounds-of-trauma</span> — 4,802 <strong>(3:29 average time on page — the most engaged page on the site)</strong></li>
+        <li><span class="ic">/about</span> — 3,332</li>
+        <li><span class="ic">/donate</span> — 2,820</li>
+      </ul>
+      <h3>The buried finding</h3>
+      <p><strong>"What Do Lutherans Believe?" is the best-performing content after the four main pages</strong> — roughly <strong>1,500 views across four posts</strong> (sacraments 869, Augsburg Confession 301, confession 222, repentance 142), with 4-minute average read times and 90%+ bounce, which is the signature of people arriving from search, reading, and leaving satisfied.</p>
+      <p>All four currently redirect to the homepage, and all four are captured in <span class="ic">archive/squarespace/posts/</span>. Rebuilding that series and pointing the redirects at the rebuilds is the highest-value content work available right now.</p>
+      <div class="doc-alert" style="background:rgba(95,138,79,.14);border:1px solid var(--green)">
+        <span class="doc-alert-icon" style="color:var(--green)">✓</span>
+        <p><strong>Fixed 30 Jul 2026:</strong> three redirects that were throwing away real traffic now point at real pages — <span class="ic">/tree-of-life</span> → the new gathering page, <span class="ic">/news/the-choice-native-or-christian1</span> → <span class="ic">blog-the-choice.html</span> (602 views), <span class="ic">/reflections/bev</span> → <span class="ic">blog-discovering-identity-bev.html</span> (146 views).</p>
+      </div>
+      <p><strong>Why homepage redirects matter:</strong> Google treats bulk redirects to the homepage as soft 404s — it drops those URLs from the index rather than passing their accumulated value to the new site. Roughly 6,000 views over 19 months currently land that way.</p>
+    </div>
+  </div>
+
+  <!-- 6 -->
+  <div class="doc-section">
+    <div class="doc-section-head">
+      <div class="doc-section-num">6</div>
+      <span class="doc-section-title">Checklist</span>
+    </div>
+    <div class="doc-section-body">
+      <ul class="doc-todo">
+        <li><span class="box"></span><span><strong>Create the GA4 property</strong> and copy the Measurement ID.</span></li>
+        <li><span class="box"></span><span><strong>Set event data retention to 14 months</strong> — day one, not later. Not retroactive.</span></li>
+        <li><span class="box"></span><span><strong>Add the Google Tag in GTM-TD3Z4XNG</strong>, gated on consent. Preview, then Publish.</span></li>
+        <li><span class="box"></span><span><strong>Link Search Console</strong> to GA4.</span></li>
+        <li><span class="box"></span><span><strong>Define and activate internal traffic filtering</strong> so our own testing doesn't pollute the baseline.</span></li>
+        <li><span class="box"></span><span><strong>Switch on Netlify Analytics for the cutover month</strong> and work the 404 report weekly.</span></li>
+        <li><span class="box"></span><span><strong>Record the cutover date</strong> in <a href="status.html">status.html</a> as the real baseline.</span></li>
+        <li><span class="box"></span><span><strong>Rebuild the "What Do Lutherans Believe?" series</strong> from the archive and repoint its redirects.</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <hr class="doc-divider">
+  <p style="font-size:.85rem;color:var(--muted);text-align:center">
+    Related: <a href="docs-feathr.html">Feathr Conversion Tracking</a> ·
+    <a href="go-live-plan.html">Go-Live Plan</a> ·
+    <a href="archive/squarespace/index.html">Squarespace Archive</a> ·
+    <a href="status.html">Status</a>
+  </p>
+
+</div>
+</body>
+</html>
