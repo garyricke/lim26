@@ -13,7 +13,7 @@
 /healing-wounds-of-trauma                        /healing-groups.html   301
 /events                                          /healing-groups.html   301
 /events/*                                        /healing-groups.html   301
-/tree-of-life                                    /healing-groups.html   301
+/tree-of-life                                    /tree-of-life.html     301
 /thank-you-for-registering-for-our-bible-group   /healing-groups.html   301
 /limhopeorg-reg-thank-you                        /healing-groups.html   301
 /about-lim-2025                                  /about.html            301
@@ -21,9 +21,25 @@
 /partners/*                                      /about.html            301
 /ways-to-give                                    /donate.html           301
 
+# ── Posts that DO exist on the new site ──
+# Must precede the /news/* and /reflections/* catch-alls below — Netlify takes
+# the first match, so a wildcard above these would swallow them.
+# Traffic figures are Jan 1 2025 – Jul 29 2026 from Squarespace Analytics.
+/news/the-choice-native-or-christian1            /blog-the-choice.html               301  # 602 views
+/reflections/the-choice-native-or-christian1     /blog-the-choice.html               301
+/reflections/bev                                 /blog-discovering-identity-bev.html 301  # 146 views
+/news-notes/bev                                  /blog-discovering-identity-bev.html 301
+
 # ── Retired content (devotions / news / reflections / podcast were not migrated) → home ──
-# ~2,700 old posts. Redirecting to home avoids dead links for any inbound traffic;
-# individual high-value posts can be migrated + point-redirected later if desired.
+# ~2,700 old posts. Redirecting to home avoids dead links for any inbound traffic.
+#
+# WARNING — this is a soft-404 pattern. Google treats bulk redirects to the
+# homepage as "not found" and drops those URLs rather than passing their value
+# on. Analytics shows ~6,000 views over 19 months landing here, including the
+# "What Do Lutherans Believe?" series (~1,500 views across 4 posts: sacraments
+# 869, Augsburg Confession 301, confession 222, repentance 142). Every one of
+# those is captured in archive/squarespace/posts/ — rebuild them as real pages
+# and point these at the rebuilds rather than at /.
 /devotions                    /   301
 /devotions-advent             /   301
 /devotions-lent               /   301
