@@ -189,6 +189,24 @@
     <span class="meta">Newest first · 188 commits since March 16</span>
   </div>
 
+  <!-- July 30 — Jaylene photo + board listing -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">July 30, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Jaylene's portrait — root cause found after three rounds; board listing corrected</div>
+      <ul>
+        <li><strong>Removed Jaylene from the Board of Directors list</strong> (<span class="ic">about.html</span>) — she is staff, not board. She had flagged it on July 20 <em>and</em> July 29 before it was caught</li>
+        <li><strong>The eyes: she was right all three times.</strong> Comparing her original photo against the site version showed the AI had not merely swapped her background — it <strong>re-rendered her face</strong>, opening the eyes wider than in her photograph, brightening the whites and adding a catchlight. That is the "red and glassy" she kept reporting. Earlier "red tint corrections" were adjusting the wrong thing, and measurement showed one of them left the eye region marginally <em>redder</em></li>
+        <li><strong>Fix:</strong> Cloudinary <span class="ic">e_background_removal</span> masks rather than regenerates, so her face survives untouched. Composited onto a plate matched to Angie's studio backdrop (centre 163,155,133 / edge 110,104,87), matte eroded 2px and feathered, subject bottom-anchored on a 1500&times;2000 canvas so <span class="ic">c_thumb/z_0.6</span> has room and her head scales with Robert's and Angie's. Verified by rendering the real card transform side by side</li>
+        <li><strong>Presented as a choice, not a fix.</strong> The cut-out still reads slightly pasted-in next to real studio portraits, so the email to Jaylene lays out three options — generated version, cut-out, or change nothing — and notes the live Squarespace site currently shows <strong>no staff photos at all</strong> (verified), so waiting costs nothing. Portraits are due to be redone with cultural artifacts in clothing/background regardless</li>
+        <li class="todo">Jaylene to choose. If she prefers her photo fully unaltered, swap is a two-minute job</li>
+      </ul>
+    </div>
+  </div>
+
   <!-- July 30 — Lutherans Believe series rebuilt from the archive -->
   <div class="entry">
     <div class="entry-head">
