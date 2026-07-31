@@ -25,7 +25,7 @@ const CSV_FIELDS = [
   "ref", "receivedAt", "status", "firstName", "lastName", "address", "city",
   "state", "zip", "phone", "email", "emergencyName", "emergencyPhone",
   "ageRange", "gender", "ethnicity", "education", "accommodations",
-  "attendAll", "attendAllExplain", "dvHistory", "behavioralHealth",
+  "attendAll", "attendAllExplain", "needHousing", "dvHistory", "behavioralHealth",
   "receivingCare", "unsafeRelationship", "unsafeRelationshipExplain",
   "unsafeHome", "unsafeHomeExplain", "unusualStress", "unusualStressExplain",
   "suicidalThoughts", "suicidalThoughtsDetail", "recentTrauma",

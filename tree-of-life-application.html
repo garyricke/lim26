@@ -1,6 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
+<link rel="canonical" href="https://www.lutheranindianministries.org/apply">
 <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
 <title>Tree of Life Application — Lutheran Indian Ministries</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -141,13 +142,12 @@
   <section class="ev" id="ev">
     <h2>Gathering Details</h2>
     <dl>
-      <dt>Dates</dt><dd id="ev-dates">To be announced</dd>
+      <dt>Dates</dt><dd id="ev-dates"><strong>Monday 21 &ndash; Wednesday 23 September 2026</strong></dd>
       <dt>Hours</dt><dd id="ev-hours">8:30 am – 5:30 pm daily</dd>
-      <dt>Location</dt><dd id="ev-place">Fairbanks, Alaska</dd>
+      <dt>Location</dt><dd id="ev-place">Zion Lutheran Church<br>2982 Davis Road, Fairbanks, AK 99709</dd>
       <dt>Meals</dt><dd>Provided at no cost to participants</dd>
       <dt>Attendance</dt><dd>Full attendance at all sessions is required</dd>
     </dl>
-    <p class="note" id="ev-note"><strong>Dates are being finalized.</strong> You're welcome to apply now — we'll confirm the schedule with you directly before the gathering.</p>
   </section>
 
   <div class="card">
@@ -203,7 +203,7 @@
           <div class="field">
             <label>Age <span class="req">*</span></label>
             <div class="radio" data-name="ageRange">
-              <label><input type="radio" name="ageRange" value="21-30" required> 21–30</label>
+              <label><input type="radio" name="ageRange" value="18-30" required> 18–30</label>
               <label><input type="radio" name="ageRange" value="31-50"> 31–50</label>
               <label><input type="radio" name="ageRange" value="50+"> 50+</label>
             </div>
@@ -215,7 +215,6 @@
             <div class="radio" data-name="gender">
               <label><input type="radio" name="gender" value="male" required> Male</label>
               <label><input type="radio" name="gender" value="female"> Female</label>
-              <label><input type="radio" name="gender" value="other"> Other</label>
             </div>
           </div>
         </div>
@@ -267,6 +266,17 @@
             </div>
           </div>
         </div>
+        <div class="row full">
+          <div class="field">
+            <label>Do you need housing in order to attend? <span class="req">*</span></label>
+            <div class="radio" data-name="needHousing">
+              <label><input type="radio" name="needHousing" value="yes" required> Yes</label>
+              <label><input type="radio" name="needHousing" value="no"> No</label>
+            </div>
+            <span class="hint">If yes, we'll follow up with you directly about the arrangements.</span>
+          </div>
+        </div>
+
         <div class="row full">
           <div class="field">
             <label for="accommodations">Special Accommodation Needs <span class="opt">(optional)</span></label>
@@ -391,6 +401,7 @@
         <div class="field">
           <label>I agree to the following <span class="req">*</span></label>
           <div class="checks">
+            <label><input type="checkbox" name="agreeAdult"> I am 18 years of age or older.</label>
             <label><input type="checkbox" name="agreeAttend"> I will attend all sessions of the gathering.</label>
             <label><input type="checkbox" name="agreeSubstances"> I will refrain from drugs and alcohol for the duration of the gathering.</label>
             <label><input type="checkbox" name="agreeConfidentiality"> I will keep what others share in confidence.</label>
@@ -399,7 +410,7 @@
         </div>
 
         <div class="notice">
-          <strong>Mandated reporter disclosure.</strong> Our facilitators are legally obligated to report any disclosure of harm to yourself or others, including abuse, neglect, or threats of harm. We tell you this up front so there are no surprises — and so you know we take your safety seriously.
+          <strong>About mandated reporting.</strong> Our team are mandated reporters and will report as required by law, to keep everyone safe. In practice, sharing your own story &mdash; including things that are happening now &mdash; is not something we report. The law requires us to act in narrower situations, such as a child under 18 currently being harmed or witnessing violence. We'll talk about this together at the gathering.
         </div>
 
         <div class="row full">
@@ -456,7 +467,7 @@
     </form>
   </div>
 
-  <p class="foot"><a href="tree-of-life.html">← About the Tree of Life Gathering</a> · Lutheran Indian Ministries · (262) 439-5663</p>
+  <p class="foot"><a href="/tree-of-life">← About the Tree of Life Gathering</a> · Lutheran Indian Ministries · (262) 439-5663</p>
 </main>
 
 <script>
@@ -520,6 +531,7 @@
       ['emergencyName','an emergency contact name'], ['emergencyPhone','an emergency contact phone'],
       ['ageRange','your age range'], ['gender','your gender'], ['ethnicity','your race or ethnicity'],
       ['education','your level of education'], ['attendAll','whether you can attend all three days'],
+      ['needHousing','whether you need housing'],
       ['dvHistory','the domestic violence question'], ['behavioralHealth','the behavioral health question'],
       ['receivingCare','whether you are currently receiving care'],
       ['unsafeRelationship','the unsafe relationship question'],
@@ -546,8 +558,12 @@
       return fail('That email address doesn’t look right.', form.querySelector('[name=email]'));
     }
 
+    if(!data.agreeAdult){
+      return fail('This gathering is for adults 18 and over — please confirm your age.', form.querySelector('[name=agreeAdult]'));
+    }
+
     if(!(data.agreeAttend && data.agreeSubstances && data.agreeConfidentiality && data.agreeFollowUp)){
-      return fail('Please agree to all four conditions before submitting.', form.querySelector('[name=agreeAttend]'));
+      return fail('Please agree to all of the conditions before submitting.', form.querySelector('[name=agreeAttend]'));
     }
 
     err.classList.remove('show');

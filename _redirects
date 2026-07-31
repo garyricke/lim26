@@ -21,6 +21,13 @@
 /partners/*                                      /about.html            301
 /ways-to-give                                    /donate.html           301
 
+# ── Short, shareable stems ──
+# Robert sends the application by text and email, so it must never be a .html
+# link. /apply is the memorable form; keep the long path working for anything
+# already sent out.
+/apply                                           /tree-of-life-application.html   200
+/tree-of-life-application                        /apply                           301
+
 # ── Posts that DO exist on the new site ──
 # Must precede the /news/* and /reflections/* catch-alls below — Netlify takes
 # the first match, so a wildcard above these would swallow them.

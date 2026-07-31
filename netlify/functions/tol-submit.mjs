@@ -29,7 +29,7 @@ const ALLOWED = new Set([
   "firstName", "lastName", "address", "city", "state", "zip", "phone", "email",
   "emergencyName", "emergencyPhone",
   "ageRange", "gender", "ethnicity", "education",
-  "accommodations", "attendAll", "attendAllExplain",
+  "accommodations", "attendAll", "attendAllExplain", "needHousing",
   "dvHistory", "behavioralHealth", "receivingCare",
   "unsafeRelationship", "unsafeRelationshipExplain",
   "unsafeHome", "unsafeHomeExplain",
@@ -37,14 +37,14 @@ const ALLOWED = new Set([
   "suicidalThoughts", "suicidalThoughtsDetail",
   "recentTrauma", "recentTraumaDetail",
   "supportSystem",
-  "agreeAttend", "agreeSubstances", "agreeConfidentiality", "agreeFollowUp",
+  "agreeAdult", "agreeAttend", "agreeSubstances", "agreeConfidentiality", "agreeFollowUp",
   "photoPermission", "applicationSignature", "waiverSignature",
 ]);
 
 const REQUIRED = [
   "firstName", "lastName", "address", "city", "state", "zip", "phone", "email",
   "emergencyName", "emergencyPhone", "ageRange", "gender", "ethnicity",
-  "education", "attendAll", "dvHistory", "behavioralHealth", "receivingCare",
+  "education", "attendAll", "needHousing", "dvHistory", "behavioralHealth", "receivingCare",
   "unsafeRelationship", "unsafeHome", "unusualStress", "suicidalThoughts",
   "recentTrauma", "photoPermission", "applicationSignature", "waiverSignature",
 ];
@@ -88,9 +88,9 @@ export default async (req) => {
   }
 
   // All four conditions must be agreed to
-  for (const box of ["agreeAttend", "agreeSubstances", "agreeConfidentiality", "agreeFollowUp"]) {
+  for (const box of ["agreeAdult", "agreeAttend", "agreeSubstances", "agreeConfidentiality", "agreeFollowUp"]) {
     if (app[box] !== true && app[box] !== "true" && app[box] !== "yes") {
-      return json(400, { error: "All four conditions must be agreed to before applying." });
+      return json(400, { error: "All conditions must be agreed to before applying, including confirming you are 18 or older." });
     }
   }
 
