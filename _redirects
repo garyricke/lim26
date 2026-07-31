@@ -23,10 +23,11 @@
 
 # ── Short, shareable stems ──
 # Robert sends the application by text and email, so it must never be a .html
-# link. /apply is the memorable form; keep the long path working for anything
-# already sent out.
-/apply                                           /tree-of-life-application.html   200
-/tree-of-life-application                        /apply                           301
+# link. Scoped under /tree-of-life rather than a bare /apply, so a future
+# healing-group or training application can sit alongside it without a clash.
+/tree-of-life/apply                              /tree-of-life-application.html   200
+/apply                                           /tree-of-life/apply              301
+/tree-of-life-application                        /tree-of-life/apply              301
 
 # ── Posts that DO exist on the new site ──
 # Must precede the /news/* and /reflections/* catch-alls below — Netlify takes
