@@ -182,8 +182,8 @@
     <h1 class="doc-title">Analytics for the New Site</h1>
     <p class="doc-intro">Squarespace Analytics dies with the Squarespace subscription. This page records <strong>what we're losing, what replaces it, and why</strong> — plus the exact setup steps. Short version: <strong>GA4 through the GTM container we already have</strong>, not Netlify Analytics. Wire it up <strong>before</strong> the DNS cutover so day one on the new domain is day one of clean data.</p>
     <div class="doc-meta">
-      <span class="doc-tag">Status: <b>Not yet installed</b></span>
-      <span class="doc-tag">GTM: <b>GTM-TD3Z4XNG (live, consent-gated)</b></span>
+      <span class="doc-tag">Status: <b>Installed 31 Jul 2026</b></span>
+      <span class="doc-tag">GTM: <b>GTM-TZG3PCB (LIM's) + GTM-TD3Z4XNG (Meyer's)</b></span><span class="doc-tag">GA4: <b>G-ZLC3QT9T1E</b></span>
       <span class="doc-tag">Owner: <b>Gary</b></span>
       <span class="doc-tag">Do before: <b>DNS cutover</b></span>
     </div>
@@ -246,22 +246,26 @@
       <span class="doc-section-title">Setup Steps</span>
     </div>
     <div class="doc-section-body">
-      <span class="doc-step">Step 1 — Create the property</span>
-      <p>Google Analytics → Admin → Create Property. Name it <strong>Lutheran Indian Ministries</strong>, set the timezone to <strong>US Central</strong> (Brookfield HQ), currency USD. Add a Web data stream for <span class="ic">https://lutheranindianministries.org</span>. Copy the Measurement ID — it looks like <span class="ic">G-XXXXXXXXXX</span>.</p>
-
-      <span class="doc-step">Step 2 — Fix data retention immediately</span>
-      <p>New GA4 properties default to <strong>2 months</strong> of event retention. Change it or you'll lose exactly the long-range history we're trying to preserve.</p>
-      <p>Admin → Data collection and modification → <strong>Data Settings → Data Retention</strong> → set <strong>Event data retention to 14 months</strong> (the maximum for a free property) → Save.</p>
-      <div class="doc-alert" style="margin-bottom:1rem">
-        <span class="doc-alert-icon">⚠</span>
-        <p><strong>Not retroactive.</strong> Data already aged out under the 2-month default cannot be recovered, and the change takes ~24 hours to apply. Do this on day one, not later.</p>
+      <div class="doc-alert" style="background:rgba(95,138,79,.14);border:1px solid var(--green);margin-bottom:1.25rem">
+        <span class="doc-alert-icon" style="color:var(--green)">✓</span>
+        <p><strong>Done 31 Jul 2026 — and the original plan was wrong about the container.</strong> A GA4 property already existed (<span class="ic">G-ZLC3QT9T1E</span>, property <em>lutheranindianministries.org</em>, stream <em>Lutheran Indian Ministries Website</em> → https://www.lutheranindianministries.org) and had never received data.</p>
       </div>
 
-      <span class="doc-step">Step 3 — Add the tag in GTM</span>
-      <p>In container <span class="ic">GTM-TD3Z4XNG</span>: new Tag → <strong>Google Tag</strong> → paste the Measurement ID → trigger <strong>Initialization – All Pages</strong>. Gate it on the existing consent variable so it respects the banner.</p>
+      <span class="doc-step">What was actually wrong</span>
+      <p>The site loaded <strong>GTM-TD3Z4XNG</strong> only. That container is <strong>Meyer Partners'</strong> — it is not in LIM's Tag Manager account, so we cannot edit it. Fetching its <span class="ic">gtm.js</span> shows it carries a <strong>Universal Analytics</strong> reference plus a Feathr hook. UA was retired in July 2023, so <strong>nothing on the site was reporting into GA4 at all.</strong></p>
+      <p>LIM's own container, <strong>GTM-TZG3PCB</strong>, already held a Google Tag firing on <em>All Pages</em> into <span class="ic">G-ZLC3QT9T1E</span>. It had simply never been installed on the site.</p>
 
-      <span class="doc-step">Step 4 — Verify before publishing</span>
-      <p>Use GTM <strong>Preview</strong> against the live site and confirm the tag fires once per page, and that it does <em>not</em> fire before consent is given. Then Publish.</p>
+      <span class="doc-step">The fix</span>
+      <ul class="doc-list check">
+        <li><strong>GTM-TZG3PCB now loads alongside GTM-TD3Z4XNG</strong> on all 8 public pages, behind the existing cookie-consent gate. Meyer's container was kept, not replaced — removing it could break their Feathr tracking, which is theirs to speak to.</li>
+        <li><strong>Event data retention raised 2 months → 14 months.</strong> The 2-month default would have discarded exactly the long-range history we are switching for, and the change is not retroactive.</li>
+      </ul>
+
+      <span class="doc-step">Still open</span>
+      <ul class="doc-list">
+        <li><strong>Confirm data is flowing</strong> — visit the site, accept cookies, then check GA4 → Reports → Realtime. Nothing arrives before consent is granted, by design.</li>
+        <li><strong>Ask Meyer whether GTM-TD3Z4XNG is still needed.</strong> If its only live content is a dead UA tag, it is dead weight on every page load.</li>
+      </ul>
 
       <span class="doc-step">Step 5 — Link Search Console</span>
       <p>GA4 Admin → Product Links → Search Console. This is what surfaces the search queries bringing people in — the single biggest reporting gain over Squarespace.</p>
