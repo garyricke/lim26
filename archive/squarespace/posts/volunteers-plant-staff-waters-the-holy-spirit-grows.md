@@ -5,7 +5,7 @@ date: 2017-04-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/volunteers-plant-staff-waters-the-holy-spirit-grows
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1204505c216efab76f5/1748628700852/121211_Psalm67_1to2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777953297-NIVXA0IEWTSA2QR5INSN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777954628-YK9OSOZC1IQE3KMGQ37L/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777955691-Y2TRNQW6AI7YICG6BMHS/image-asset.jpeg"]
+images: ["images/1996f0d0-121211_Psalm67_1to2.jpg", "images/db2649c3-image-asset.jpeg", "images/52590462-image-asset.jpeg", "images/2d926365-image-asset.jpeg"]
 ---
 # Volunteers Plant, Staff Waters, the Holy Spirit Grows
 
@@ -15,7 +15,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 Summer is nearly here and for gardeners, at least in the north, we’re starting to think about and plan which seeds we will plant and dream about the harvests that will fill our tables.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777953297-NIVXA0IEWTSA2QR5INSN/image-asset.jpeg)
+![](images/db2649c3-image-asset.jpeg)
 
 At Lutheran Indian Ministries, we’re planning and dreaming about seeds as well, seeds of faith planted and nurtured in the hearts of our Native brothers and sisters.
 
@@ -43,7 +43,7 @@ More community garden plots popped up, and neighbors helped each other store and
 
 While trends in food consumption and the health of the Native people as a whole are problems, they pale in comparison to the spiritual illness in many communities.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777954628-YK9OSOZC1IQE3KMGQ37L/image-asset.jpeg)
+![](images/52590462-image-asset.jpeg)
 
 One staff member explained: “I’d have to say the most pervasive illnesses I encounter, by far, are trauma and grief. The more I get to know the incredible people in our communities, the more I hear of devastating loss and abuse. I have yet to meet a person, of any age, that does not have a terrible story of tragic death, domestic violence, or substance abuse. I don’t say this to downplay the tragedies that happen everywhere, every day, but what is astounding is the sheer number of traumas that occur in each Native person’s life.”
 
@@ -133,7 +133,7 @@ When a group tells us about Jacob and his incredible transformation, we are able
 
 When Jo tells us the story of Anita, we are able to reach out to that community and begin the process of healing at its very core and find resources for the family as they move forward.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777955691-Y2TRNQW6AI7YICG6BMHS/image-asset.jpeg)
+![](images/2d926365-image-asset.jpeg)
 
 ### With the help of our volunteers and our faithful supporters, and with God’s blessing, Lutheran Indian Ministries is ready for the summer. Ready to plant; ready to dream; ready to harvest.
 

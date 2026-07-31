@@ -5,7 +5,7 @@ date: 2017-10-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-102017
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bea57f53cf3725db12c4/1748628700852/DCtpQhBWAAAln2E+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777318048-0G7P0YGOXJA44AHQ88DN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777319090-0M54RXOTEDQUFQ7USY78/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777320352-R72J75X1S9RG22R8M5DQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777321255-X8751MWVS6J87HLU89OG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777322442-1ADEJEHOUPLLN8PFHDA9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777323546-5YW0BOYYR2NVXISVNVLG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777324434-2SCBDR33MQMGTTZWB7H3/image-asset.jpeg"]
+images: ["images/13412985-DCtpQhBWAAAln2E__1_.jpg", "images/6d50c3d1-image-asset.jpeg", "images/fdfd0e79-image-asset.jpeg", "images/122dfc77-image-asset.jpeg", "images/71de59fb-image-asset.jpeg", "images/ab4eef58-image-asset.jpeg", "images/f89264ed-image-asset.jpeg", "images/100ee3ad-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/20/17): The End of Coal for Navajo, Intergenerational Trauma, and 'The Inuit' on Jeopardy
 
@@ -13,7 +13,7 @@ Oct 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777318048-0G7P0YGOXJA44AHQ88DN/image-asset.jpeg)
+![](images/6d50c3d1-image-asset.jpeg)
 
 # October 20, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: High School Senior Developing Solar Heaters for Navajo Nation Homes
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777319090-0M54RXOTEDQUFQ7USY78/image-asset.jpeg)
+![](images/fdfd0e79-image-asset.jpeg)
 
 Meet the Teen Inventor Who Wants to Get the Navajo Nation Off Coal
 
@@ -29,7 +29,7 @@ High school senior Kelly Charley is developing a solar heater for the thousands 
 
 ### [Watch the video here](https://fusion.net/video/396979/wired-women-teen-inventor-who-wants-to-get-the-navajo-nation-off-coal/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777320352-R72J75X1S9RG22R8M5DQ/image-asset.jpeg)
+![](images/122dfc77-image-asset.jpeg)
 
 ## In other coal news...
 
@@ -43,7 +43,7 @@ The fossil fuel has been an environmental threat and economic necessity for Nati
 
 ## Inherited Pain - Learning to Deal with the Wounds of the Past
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777321255-X8751MWVS6J87HLU89OG/image-asset.jpeg)
+![](images/71de59fb-image-asset.jpeg)
 
 The LOVE Project of Oklahoma and Matriarch presents Native Trauma: Made in America.
 
@@ -59,7 +59,7 @@ If you're in the Norman, Oklahoma, area check it out tomorrow night.
 
 ## Health Advocates Use Traditional Games
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777322442-1ADEJEHOUPLLN8PFHDA9/image-asset.jpeg)
+![](images/ab4eef58-image-asset.jpeg)
 
 Sasha Houston Brown, center, battled for the ball during an evening of the Creator’s game, which closely resembles lacrosse, in a Minneapolis park. — David Joles, Star Tribune
 
@@ -81,7 +81,7 @@ The prescription for better health for Native Americans lies in returning to the
 
 ## Inventing a New Vocabulary
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777323546-5YW0BOYYR2NVXISVNVLG/image-asset.jpeg)
+![](images/f89264ed-image-asset.jpeg)
 
 Adams worked with artist Emma Segal to create illustrations that represent the new energy terms. The English translation of the words on this image is: Solar Panels, a flat piece resembling a window/mirror placed on top of a building to collect electricity from the sun to power the house. (Sheena Adams and Emma Segal)  
 Read more: http://www.smithsonianmag.com/science-nature/inventing-vocabulary-to-help-inuit-people-talk-about-climate-change-180965062/#9Ygc1rCjFGv6RQRm.99  
@@ -96,7 +96,7 @@ Sheena Adams is partnering with Inuvialuit elders to change this, by creating a 
 
 ### [Read the full story here](https://www.smithsonianmag.com/science-nature/inventing-vocabulary-to-help-inuit-people-talk-about-climate-change-180965062/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777324434-2SCBDR33MQMGTTZWB7H3/image-asset.jpeg)
+![](images/100ee3ad-image-asset.jpeg)
 
 ## Speaking of Inuit: I'll Take "Inuit" for $200
 

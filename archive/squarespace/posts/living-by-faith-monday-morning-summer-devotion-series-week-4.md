@@ -5,7 +5,7 @@ date: 2020-08-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-4
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afb689548629034cf178/1748628700852/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773495576-61AZLMBVD91CCN1GSIL6/image-asset.png"]
+images: ["images/63b8a390-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/19720406-image-asset.png"]
 ---
 # Living By Faith - Monday Morning Summer Devotion Series - Week 4
 
@@ -15,7 +15,7 @@ Aug 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773495576-61AZLMBVD91CCN1GSIL6/image-asset.png)
+![](images/19720406-image-asset.png)
 
 Need to start at week 1? [Start here](https://lutheranindianministries.org/news/living-by-faith-monday-morning-summer-devotion-series-week-1)
 

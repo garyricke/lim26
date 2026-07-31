@@ -5,7 +5,7 @@ date: 2016-12-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/he-speaks-our-language-december-23
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c43242bb01115107d478/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778739843-EE7GFI52QROZOQ411G8Q/image-asset.png"]
+images: ["images/031ee81d-2016_Advent_Devotions.png", "images/d7c5b95e-image-asset.png"]
 ---
 # He Speaks Our Language: December 23
 
@@ -15,7 +15,7 @@ Dec 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778739843-EE7GFI52QROZOQ411G8Q/image-asset.png)
+![](images/d7c5b95e-image-asset.png)
 
 ## And there were shepherds living out in the fields nearby… the angel said to them, “Do not be afraid. I bring you good news of great joy that will be for all the people.” Luke 2:8, 10 (NIV)
 

@@ -5,7 +5,7 @@ date: 2020-11-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/comforter-in-you-sunday-november-29-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af08d102823ae1a51ac8/1748628700852/W_John14.15-31_Slider-scaled.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773324420-TKMI8V07QM7VF1GPWLOF/image-asset.png"]
+images: ["images/dcfcac05-W_John14.15-31_Slider-scaled.jpg", "images/1e1aadd5-image-asset.png"]
 ---
 # Comforter in You - Sunday, November 29 (Advent 2020)
 
@@ -13,7 +13,7 @@ Nov 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773324420-TKMI8V07QM7VF1GPWLOF/image-asset.png)
+![](images/1e1aadd5-image-asset.png)
 
 ## And I will ask the Father, and he will give you another advocate to help you and be with you forever— the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you. 18I will not leave you as orphans; I will come to you. [John 14:16-18](https://my.bible.com/bible/111/JHN.14.16-18)
 

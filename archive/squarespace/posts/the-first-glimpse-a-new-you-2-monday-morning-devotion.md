@@ -5,7 +5,7 @@ date: 2018-01-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-first-glimpse-a-new-you-2-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd5062aeae08e1ff90f6/1748628700852/discovering.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776977784-N7P9UGOCGKFY30CNGLYC/image-asset.png"]
+images: ["images/9e005560-discovering.png", "images/71a5ba7f-image-asset.png"]
 ---
 # The First Glimpse (A New You #2) - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jan 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776977784-N7P9UGOCGKFY30CNGLYC/image-asset.png)
+![](images/71a5ba7f-image-asset.png)
 
 In this season of resolutions and "becoming a new person," we invite you to join us on a journey in the seven weeks leading to Lent. Come and discover more about the baby we celebrated in the manger.
 

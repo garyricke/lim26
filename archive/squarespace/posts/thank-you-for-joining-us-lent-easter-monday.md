@@ -5,7 +5,7 @@ date: 2018-04-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thank-you-for-joining-us-lent-easter-monday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bba4fc45ad1a48d714ff/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776549039-Z10DQYNG6N4E8LAZR8OT/image-asset.png"]
+images: ["images/51f0e7f0-1748628700852", "images/8d480206-image-asset.png"]
 ---
 # Thank you for joining us (Lent) - Easter Monday
 
@@ -13,7 +13,7 @@ Apr 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776549039-Z10DQYNG6N4E8LAZR8OT/image-asset.png)
+![](images/8d480206-image-asset.png)
 
 I hope that you enjoyed your Lent devotions this year.
 

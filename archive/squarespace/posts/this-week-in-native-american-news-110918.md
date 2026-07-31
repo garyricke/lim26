@@ -5,7 +5,7 @@ date: 2018-11-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-110918
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7bc09a0b66f51f0bace/1748628700852/309a51cf4b6ced606793b7e2cc0eedef.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775548996-3B8YVCC3MDXIW5Q6AB8H/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775550012-AIG196YT0S3SU5GEZPMM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775550899-Q65Y34JV7IENC4TZI13P/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775551783-39EIL7GSHCKS0A8NLW3N/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775552873-YYPX82Q8P8SGCI1BYK2S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775553734-C9AR5F0XWL99CKXHN2Q8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775554943-04B5VJXSR2BI1O18CM6T/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775555814-6Y0AJAGGM6KVU7DF9QHF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775556739-GN6RD0W5MQ0VCAAE58ZS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775557677-6MO5EAKY5COG3L2XRTA5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775558814-O934GIXLDGQRGJTHG38X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775559783-2W62VN70LPA708TBA46N/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775560826-KXAFGIXKDGB04CYMLHIM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775561897-QRXBUM24WU4SF6OARA6T/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775563042-O55AL63BE22JYNLL0968/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775563869-HZF7ZT4IF3P0C1BBLJMF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775565101-F8L9G44HSYKRF5E2PX5X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775565957-6X49RG3MAAEUSJK5I24S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775566606-SGP3SITLQ1SMPNXO20VM/image-asset.jpeg"]
+images: ["images/a1ac89f2-309a51cf4b6ced606793b7e2cc0eedef.jpg", "images/1340cb5e-image-asset.jpeg", "images/46d91019-image-asset.jpeg", "images/c52fb3e5-image-asset.jpeg", "images/2468b3fe-image-asset.jpeg", "images/4f609aad-image-asset.jpeg", "images/d63fc6d9-image-asset.jpeg", "images/2e91a42f-image-asset.jpeg", "images/e5f5e192-image-asset.jpeg", "images/6cf54fd4-image-asset.jpeg", "images/fb19ffe1-image-asset.jpeg", "images/64b61f17-image-asset.jpeg", "images/a33755f4-image-asset.jpeg", "images/881aa285-image-asset.jpeg", "images/bbf28976-image-asset.jpeg", "images/5de98024-image-asset.png", "images/9053d6e1-image-asset.jpeg", "images/f7682d93-image-asset.jpeg", "images/7974b458-image-asset.jpeg", "images/5c2295c8-image-asset.jpeg"]
 ---
 # This Week in Native American News (11/9/18): Veterans, Elections, and Native Heritage Month (this is a BIG one!)
 
@@ -13,7 +13,7 @@ Nov 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775548996-3B8YVCC3MDXIW5Q6AB8H/image-asset.jpeg)
+![](images/1340cb5e-image-asset.jpeg)
 
 # November 9, 2018 - Happy Veterans Day to all those who served!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Why This Pioneering Hopi Soldier Has a Mountain Named After Her
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775550012-AIG196YT0S3SU5GEZPMM/image-asset.jpeg)
+![](images/46d91019-image-asset.jpeg)
 
 Specialist Lori Ann Piestewah (December 14, 1979 – March 23, 2003) was a U.S. Army Quartermaster Corps soldier killed during the same Iraqi Army attack in which fellow soldiers Shoshana Johnson and Jessica Lynch sustained injuries. A member of the Hopi tribe, Piestewa was the first Native American woman in history to die in combat while serving with the U.S. military and the first woman in the U.S. armed forces killed in the 2003 invasion of Iraq. Arizona's Piestewa Peak is named in her honor.
 
@@ -33,13 +33,13 @@ The first American Indian woman to die serving the U.S. Armed Forces, in the fir
 
 ## In more Native Veteran news…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775550899-Q65Y34JV7IENC4TZI13P/image-asset.jpeg)
+![](images/c52fb3e5-image-asset.jpeg)
 
 ### [Navy celebrates American Indian and Alaska Native Heritage contributions](https://hanfordsentinel.com/community/lemoorenavynews/news/navy-celebrates-american-indian-and-alaska-native-heritage-contributions/article_23c3e140-5576-51d6-a5dd-4eed8ec1490f.html)
 
 The Navy honors National American Indian Heritage Month in November celebrating achievements of American Indians and Alaska Natives and recognizing the central role they have played in the nation’s history.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775551783-39EIL7GSHCKS0A8NLW3N/image-asset.jpeg)
+![](images/2468b3fe-image-asset.jpeg)
 
 ### [Kahnawake students honour Mohawk veterans with handmade wreaths and poppies](https://www.cbc.ca/news/indigenous/kahnawake-mohawk-veterans-kateri-school-1.4897211)
 
@@ -47,7 +47,7 @@ Showing appreciation to veterans is a long standing tradition at Kateri Tekakw
 
 The elementary school in the community on the south shore of Montreal presented dozens of homemade wreaths and poppies to members of the Royal Canadian Legion's Mohawk branch 219 on Thursday to mark Aboriginal Veterans Day.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775552873-YYPX82Q8P8SGCI1BYK2S/image-asset.jpeg)
+![](images/4f609aad-image-asset.jpeg)
 
 ### [Alaska Natives Defended Their Territory 75 Years Ago during World War II](https://dod.defense.gov/News/Article/Article/1374255/alaska-natives-defended-their-territory-75-years-ago/)
 
@@ -57,7 +57,7 @@ Given no pay, more than 6,300 Alaskans from 12 to 80 years old signed on to be s
 
 Once enlisted, the Alaskan natives trained on Army tactics so they could defend the territory from an attack, if needed. They even made decoys using barrels and logs to resemble cannons to Japanese aircraft flying overhead.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775553734-C9AR5F0XWL99CKXHN2Q8/image-asset.jpeg)
+![](images/d63fc6d9-image-asset.jpeg)
 
 ### [These Meaningful Military Traditions Come From Native American Culture](https://www.military.com/undertheradar/2018/04/16/these-meaningful-military-traditions-come-native-american-culture.html)
 
@@ -67,7 +67,7 @@ Many military members feel a connection between the bold warriors of Native Amer
 
 Here are some of the many connections between the US military and Native American nations, past and present.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775554943-04B5VJXSR2BI1O18CM6T/image-asset.jpeg)
+![](images/2e91a42f-image-asset.jpeg)
 
 ### [Native Americans served in Vietnam, PBS is sharing their story](https://www.pbs.org/video/native-in-vietnam-mmceyj/)
 
@@ -77,7 +77,7 @@ As part of native american heritage month, this November, PBS is highlighting na
 
 ## Two Native American women are headed to Congress.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775555814-6Y0AJAGGM6KVU7DF9QHF/image-asset.jpeg)
+![](images/e5f5e192-image-asset.jpeg)
 
 Sharice Davids and Deb Haaland Will Officially Become the First Native American Congresswomen
 
@@ -93,13 +93,13 @@ Native American women held tremendous power in pre-Colonial, egalitarian societi
 
 ## In other Native Voting News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775556739-GN6RD0W5MQ0VCAAE58ZS/image-asset.jpeg)
+![](images/6cf54fd4-image-asset.jpeg)
 
 ### [Why more Native Americans are running for office](https://www.bbc.com/news/world-us-canada-46050464)
 
 Clearly no two candidates are propelled into politics by exactly the same circumstances, but when discussing this phenomenon two factors come up time and again. One has its roots in the frozen plains of North Dakota; the other in the bright lights of Hollywood.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775557677-6MO5EAKY5COG3L2XRTA5/image-asset.jpeg)
+![](images/fb19ffe1-image-asset.jpeg)
 
 ### [How the Native American vote evolved](https://www.sltrib.com/news/nation-world/2018/11/02/how-native-american-vote/)
 
@@ -111,7 +111,7 @@ Here's a look at how the Native American vote has become a key bloc in the U.S. 
 
 ## Challenges to Indian Child Welfare Act Concern Native Americans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775558814-O934GIXLDGQRGJTHG38X/image-asset.jpeg)
+![](images/64b61f17-image-asset.jpeg)
 
 Four-year-old Bobby Morris of Wisconsin Dells, Wis.,at the Prairie Island Dakota Wacipi Celebration Pow Wow near Red Wing., Minn., on July 11, 2003.
 
@@ -137,7 +137,7 @@ The lawsuit was filed by a group of parents and attorneys with the support of th
 
 ## More Information on ICWA (from both sides)…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775559783-2W62VN70LPA708TBA46N/image-asset.jpeg)
+![](images/a33755f4-image-asset.jpeg)
 
 ### [Why the Indian Child Welfare Act Matters](https://www.cato-unbound.org/2016/08/09/kristen-carpenter/indian-status-not-racial-understanding-icwa-matter-law-practice)
 
@@ -145,7 +145,7 @@ What will legal reconsideration of the Indian Child Welfare Act bring?
 
 Many tribes fear that the Texas ruling sets a dangerous precedent that could dismantle the federal laws put in place to correct historical injustices like the boarding school system. Other tribal leaders see the ruling as an attempt to destroy their right to political and cultural survival through their children, while simultaneously compromising efforts to heal from the wrongdoings inflicted upon tribal communities.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775560826-KXAFGIXKDGB04CYMLHIM/image-asset.jpeg)
+![](images/881aa285-image-asset.jpeg)
 
 ### [The Indian Child Welfare Act does not help children](http://www.aei.org/multimedia/the-indian-child-welfare-act-does-not-help-children-in-60-seconds/)
 
@@ -155,7 +155,7 @@ AEI’s Naomi Schaefer Riley argues that the Indian Child Welfare Act of 1978 ha
 
 ## Indigenous Comic Con showcases American Indian pop culture
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775561897-QRXBUM24WU4SF6OARA6T/image-asset.jpeg)
+![](images/bbf28976-image-asset.jpeg)
 
 A panel from Jim Terry's "Edgebright" series.
 
@@ -175,7 +175,7 @@ In fact, the popularity has grown so much that Indigenous Comic Cons will be hel
 
 ## Today’s History Lesson
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775563042-O55AL63BE22JYNLL0968/image-asset.png)
+![](images/5de98024-image-asset.png)
 
 ### [The History Of Human Trafficking In Hawaii](http://amp.civilbeat.org/2018/10/the-history-of-human-trafficking-in-hawaii/)
 
@@ -183,25 +183,25 @@ A number of recent news articles and reports from the Hawaii Commission on the
 
 It would be helpful if we look at early historical events and attitudes that still frame our discussions about prostitution and human trafficking. There is a wide acceptance of the idea that Pacific Island women in general were “promiscuous,” unrestrained, sexualized and willingly submitted to foreign lovers making prostitution seem more acceptable and therefore a problem that could be ignored.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775563869-HZF7ZT4IF3P0C1BBLJMF/image-asset.jpeg)
+![](images/9053d6e1-image-asset.jpeg)
 
 ### [In 1868, Two Nations Made a Treaty, the U.S. Broke It and Plains Indian Tribes are Still Seeking Justice](https://www.smithsonianmag.com/smithsonian-institution/1868-two-nations-made-treaty-us-broke-it-and-plains-indian-tribes-are-still-seeking-justice-180970741/)
 
 In the Fort Laramie Treaty of 1868, the United States entered into the treaty with a collective of Native American bands historically known as the Sioux (Dakota, Lakota and Nakota) and Arapaho. The treaty established the Great Sioux Reservation, a large swath of lands west of the Missouri River. It also designated the Black Hills as “unceded Indian Territory” for the exclusive use of native peoples. But when gold was found in the Black Hills, the United States reneged on the agreement, redrawing the boundaries of the treaty, and confining the Sioux people—traditionally nomadic hunters—to a farming lifestyle on the reservation. It was a blatant abrogation that has been at the center of legal debate ever since.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775565101-F8L9G44HSYKRF5E2PX5X/image-asset.jpeg)
+![](images/f7682d93-image-asset.jpeg)
 
 ### [An ingenious Indigenous fishing technology with spiritual significance is making a comeback.](https://www.hakaimagazine.com/features/the-halibut-hook-revival/)
 
 Indigenous peoples of the northwest coast of North America have been hauling in halibut on what are known colloquially as “wood hooks” for centuries, but very few fishermen use them today. In his community of about 800, Rowan can count on one hand the people who practice this traditional technique. Over time, wood hooks were replaced with off-the-shelf fishing equipment with no assembly, or artistic aptitude, required.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775565957-6X49RG3MAAEUSJK5I24S/image-asset.jpeg)
+![](images/7974b458-image-asset.jpeg)
 
 ### [Honolulu exhibit celebrates ‘forward-thinking’ last Hawaiian king](https://www.sfchronicle.com/travel/article/Honolulu-exhibit-celebrates-13296640.php)
 
 The last king of Hawaii, David Kaläkaua, has strong associations with San Francisco: It was his first stop on a world tour in 1881, as well as where he died a decade later, while staying at the Palace Hotel. Passionate about the arts, innovation and travel, the monarch would likely have been at home in today’s San Francisco, too, as a new exhibition at the Honolulu Museum of Art reveals.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775566606-SGP3SITLQ1SMPNXO20VM/image-asset.jpeg)
+![](images/5c2295c8-image-asset.jpeg)
 
 ### [There Were Once More Than 425 Shellmounds in the Bay Area. Where Did They Go?](https://www.kqed.org/news/11704679/there-were-once-more-than-425-shellmounds-in-the-bay-area-where-did-they-go)
 

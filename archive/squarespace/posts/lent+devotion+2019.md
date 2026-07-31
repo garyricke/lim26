@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/lent+devotion+2019
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774492551-VB1JT7UDE69DUSCTE9Q7/25529133208_4e990cf0d0_b.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774495357-I9FK6Z2V6CNO7E29DNYB/594e1e3f09bc044f20bed0ebd82c52d4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774499507-5OYLKVKJML55RS1MYSL5/Heb_13-5_v3_Chalk_Web_2000x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774516478-H3HEPJQXILVIC7L6ER2D/6a00e5547fc293883401b8d0fb826b970c-580wi.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774519569-U1IJHAO8MW51MUOGPOKB/8417.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774527189-608Q1X6BBLHN04J9G021/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774529418-0RBJY0ITJEM9FOUSYE1X/Ps74.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774532493-8T7VIT5X540A0EXKUV4C/HRT-Ephesians-instagram4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774537322-TCRCYEGM7X1Q24LX6U3H/DuBGht-WkAU9p2D.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774540513-8LNQNJQX72MWDZYBMVCM/20180407.jpg"]
+images: ["images/ec5014f0-25529133208_4e990cf0d0_b.jpg", "images/64703557-594e1e3f09bc044f20bed0ebd82c52d4.jpg", "images/9e2ccf4c-Heb_13-5_v3_Chalk_Web_2000x.jpg", "images/2e791946-6a00e5547fc293883401b8d0fb826b970c-580wi.jpg", "images/374625fd-8417.jpg", "images/9dba47fb-1280x1280.jpg", "images/c4e7d095-Ps74.jpeg", "images/1c388fc7-HRT-Ephesians-instagram4.jpg", "images/29452b26-DuBGht-WkAU9p2D.jpg", "images/8c88d73d-20180407.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![You are Never Alone (Lent Devotion) - Monday, April 22 (Easter Monday)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774492551-VB1JT7UDE69DUSCTE9Q7/25529133208_4e990cf0d0_b.jpg)](/news-notes/you-are-never-alone-lent-devotion-monday-april-22-easter-monday)
+[![You are Never Alone (Lent Devotion) - Monday, April 22 (Easter Monday)](images/ec5014f0-25529133208_4e990cf0d0_b.jpg)](/news-notes/you-are-never-alone-lent-devotion-monday-april-22-easter-monday)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -75,7 +75,7 @@ Guest User
 
 [Read More](/news-notes/you-are-never-alone-lent-devotion-monday-april-22-easter-monday)
 
-[![Reflections (Lent Devotion) - Sunday, April 21 (Easter)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774495357-I9FK6Z2V6CNO7E29DNYB/594e1e3f09bc044f20bed0ebd82c52d4.jpg)](/news-notes/reflections-lent-devotion-sunday-april-21-easter)
+[![Reflections (Lent Devotion) - Sunday, April 21 (Easter)](images/64703557-594e1e3f09bc044f20bed0ebd82c52d4.jpg)](/news-notes/reflections-lent-devotion-sunday-april-21-easter)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -91,7 +91,7 @@ Lord Jesus, you are the King! You are the one who died for me and took my sins t
 
 [Read More](/news-notes/reflections-lent-devotion-sunday-april-21-easter)
 
-[![Forsaken, So You Never Will Be (Lent Devotion) - Saturday, April 20 (Holy Saturday)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774499507-5OYLKVKJML55RS1MYSL5/Heb_13-5_v3_Chalk_Web_2000x.jpg)](/news-notes/forsaken-so-you-never-will-be-lent-devotion-saturday-april-20-holy-saturday)
+[![Forsaken, So You Never Will Be (Lent Devotion) - Saturday, April 20 (Holy Saturday)](images/9e2ccf4c-Heb_13-5_v3_Chalk_Web_2000x.jpg)](/news-notes/forsaken-so-you-never-will-be-lent-devotion-saturday-april-20-holy-saturday)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -107,7 +107,7 @@ Dear Heavenly Father, you turned your back on your only Son when He suffered and
 
 [Read More](/news-notes/forsaken-so-you-never-will-be-lent-devotion-saturday-april-20-holy-saturday)
 
-[![Finished! (Lent Devotion) - Friday, April 19 (Good Friday)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774516478-H3HEPJQXILVIC7L6ER2D/6a00e5547fc293883401b8d0fb826b970c-580wi.jpg)](/news-notes/finished-lent-devotion-friday-april-19-good-friday)
+[![Finished! (Lent Devotion) - Friday, April 19 (Good Friday)](images/2e791946-6a00e5547fc293883401b8d0fb826b970c-580wi.jpg)](/news-notes/finished-lent-devotion-friday-april-19-good-friday)
 
 Guest User
 4/19/19
@@ -121,7 +121,7 @@ Lord Jesus, keep us in the assurance that because you said, â€œIt is finished,â€
 
 [Read More](/news-notes/finished-lent-devotion-friday-april-19-good-friday)
 
-[![Your Gethsemane (Lent Devotion) - Thursday, April 18 (Maundy Thursday)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774519569-U1IJHAO8MW51MUOGPOKB/8417.jpg)](/news-notes/your-gethsemane-lent-devotion-thursday-april-18-maundy-thursday)
+[![Your Gethsemane (Lent Devotion) - Thursday, April 18 (Maundy Thursday)](images/374625fd-8417.jpg)](/news-notes/your-gethsemane-lent-devotion-thursday-april-18-maundy-thursday)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -137,7 +137,7 @@ Dear Father in Heaven, thank you for sending your Son, Jesus, to die and then ri
 
 [Read More](/news-notes/your-gethsemane-lent-devotion-thursday-april-18-maundy-thursday)
 
-[![The Lamb (Lent Devotion) - Wednesday, April 17 ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774527189-608Q1X6BBLHN04J9G021/1280x1280.jpg)](/news-notes/the-lamb-lent-devotion-wednesday-april-17)
+[![The Lamb (Lent Devotion) - Wednesday, April 17 ](images/9dba47fb-1280x1280.jpg)](/news-notes/the-lamb-lent-devotion-wednesday-april-17)
 
 Guest User
 4/17/19
@@ -151,7 +151,7 @@ O Lamb of God, we thank you for taking all our sins upon yourself. Freed from th
 
 [Read More](/news-notes/the-lamb-lent-devotion-wednesday-april-17)
 
-[![Son or Shadow Watching? (Lent Devotion) - Tuesday, April 16 ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774529418-0RBJY0ITJEM9FOUSYE1X/Ps74.jpeg)](/news-notes/son-or-shadow-watching-lent-devotion-tuesday-april-16)
+[![Son or Shadow Watching? (Lent Devotion) - Tuesday, April 16 ](images/c4e7d095-Ps74.jpeg)](/news-notes/son-or-shadow-watching-lent-devotion-tuesday-april-16)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -167,7 +167,7 @@ Father, God of Light, in whom no darkness dwells, thank you for sending your onl
 
 [Read More](/news-notes/son-or-shadow-watching-lent-devotion-tuesday-april-16)
 
-[![People of the Standing Stone (Lent Devotion) - Monday, April 15](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774532493-8T7VIT5X540A0EXKUV4C/HRT-Ephesians-instagram4.jpg)](/news-notes/people-of-the-standing-stone-lent-devotion-monday-april-15)
+[![People of the Standing Stone (Lent Devotion) - Monday, April 15](images/1c388fc7-HRT-Ephesians-instagram4.jpg)](/news-notes/people-of-the-standing-stone-lent-devotion-monday-april-15)
 
 Guest User
 4/15/19
@@ -181,7 +181,7 @@ Lord Jesus, you are the stone we have rejected. It is amazingly good news that y
 
 [Read More](/news-notes/people-of-the-standing-stone-lent-devotion-monday-april-15)
 
-[![Blessed is the King (Lent Devotion) - Sunday, April 14 (Palm Sunday)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774537322-TCRCYEGM7X1Q24LX6U3H/DuBGht-WkAU9p2D.jpg)](/news-notes/blessed-is-the-king-lent-devotion-sunday-april-14-palm-sunday)
+[![Blessed is the King (Lent Devotion) - Sunday, April 14 (Palm Sunday)](images/29452b26-DuBGht-WkAU9p2D.jpg)](/news-notes/blessed-is-the-king-lent-devotion-sunday-april-14-palm-sunday)
 
 Guest User
 4/14/19
@@ -195,7 +195,7 @@ Blessed be you, O King of kings. May you daily ride triumphantly into our hearts
 
 [Read More](/news-notes/blessed-is-the-king-lent-devotion-sunday-april-14-palm-sunday)
 
-[![Preparing for Holy Week (Lent Devotion) - Saturday, April 13 ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774540513-8LNQNJQX72MWDZYBMVCM/20180407.jpg)](/news-notes/preparing-for-holy-week-lent-devotion-saturday-april-13)
+[![Preparing for Holy Week (Lent Devotion) - Saturday, April 13 ](images/8c88d73d-20180407.jpg)](/news-notes/preparing-for-holy-week-lent-devotion-saturday-april-13)
 
 Guest User
 4/13/19

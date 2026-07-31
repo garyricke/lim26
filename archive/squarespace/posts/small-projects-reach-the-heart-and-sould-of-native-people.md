@@ -5,7 +5,7 @@ date: 2017-08-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/small-projects-reach-the-heart-and-sould-of-native-people
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf69b65d424aeb55f9a7/1748628700852/makah.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777514948-WGTUPRK0HPJTEY071GOP/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777516506-2NDW31CE31RWFFFZUK2Y/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777518242-FOFR4BDHQZLEZSF8QOQT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777519346-5PX96JOI4A89P0C1S7T2/image-asset.jpeg"]
+images: ["images/98a04038-makah.jpg", "images/2d053d55-image-asset.png", "images/3ce3c964-image-asset.jpeg", "images/648cd1fa-image-asset.jpeg", "images/b680dfd1-image-asset.jpeg"]
 ---
 # Small Projects Reach the Hearts and Souls of Native People
 
@@ -15,7 +15,7 @@ Aug 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777514948-WGTUPRK0HPJTEY071GOP/image-asset.png)
+![](images/2d053d55-image-asset.png)
 
 “Truly, I say to you, as you did it to one  
 of the least of these my brothers,  
@@ -27,7 +27,7 @@ That was a question that Tom and Cathy Benzler were often asked when they began 
 
 Their reply was: “Sure, they can go to the local food bank, but they won’t receive the message of God’s forgiveness there. They won’t hear that Jesus loves them and that He died for their salvation.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777516506-2NDW31CE31RWFFFZUK2Y/image-asset.jpeg)
+![](images/3ce3c964-image-asset.jpeg)
 
 We think it is this message of hope in Jesus Christ, through the work of the Holy Spirit, that the Hope House has experienced such growth over the years.
 
@@ -45,7 +45,7 @@ When they gathered a group of volunteers to fill in potholes around elders’ ho
 
 After they helped to plan drumming circles and dance groups; tribal groups started to teach the youth about their lost culture.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777518242-FOFR4BDHQZLEZSF8QOQT/image-asset.jpeg)
+![](images/648cd1fa-image-asset.jpeg)
 
 These projects, and others like them, have opened doors for Tom and Cathy. And through those doors, they have been able to gather together the believers in the community to teach and mentor and share their faith in our Lord and Savior, Jesus Christ.
 
@@ -55,7 +55,7 @@ This group from Lower Elwha has realized that they are powerless to fix themselv
 
 Look what the Lord can do when we let Him work through us!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777519346-5PX96JOI4A89P0C1S7T2/image-asset.jpeg)
+![](images/b680dfd1-image-asset.jpeg)
 
 Because you helped meet the needs of the Native people on the Olympic Peninsula, lives have been changed and hearts have been open to the healing message of the Gospel.
 

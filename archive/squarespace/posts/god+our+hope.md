@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/god+our+hope
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773407489-652VWK3FAFZUGT8ZO9X5/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773417748-VU035D01OQBAYWWGRJW4/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773420940-N4P8OI74JGE9T5CQ0JQ5/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773439170-FCFV0RY4QHXFQHX8VOHO/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773442168-GF5LDGY34VQ81L7H5MF1/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773453431-DJRB43SZQKKY1W62NAPU/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773463245-6HPYB1PMDZKMVVLORL3O/image-asset.png"]
+images: ["images/2250b263-image-asset.png", "images/c05319fc-image-asset.png", "images/9e1d349f-image-asset.png", "images/749bc876-image-asset.png", "images/cd343259-image-asset.png", "images/d93fafa1-image-asset.png", "images/ff76c07d-image-asset.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Oh God, Our Hope (Week 7) - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773407489-652VWK3FAFZUGT8ZO9X5/image-asset.png)](/news-notes/oh-god-our-hope-week-7-monday-morning-devotions)
+[![Oh God, Our Hope (Week 7) - Monday Morning Devotions](images/2250b263-image-asset.png)](/news-notes/oh-god-our-hope-week-7-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -73,7 +73,7 @@ Guest User
 
 [Read More](/news-notes/oh-god-our-hope-week-7-monday-morning-devotions)
 
-[![Oh God, Our Hope (Week 6) - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773417748-VU035D01OQBAYWWGRJW4/image-asset.png)](/news-notes/oh-god-our-hope-week-6-monday-morning-devotions)
+[![Oh God, Our Hope (Week 6) - Monday Morning Devotions](images/c05319fc-image-asset.png)](/news-notes/oh-god-our-hope-week-6-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -87,7 +87,7 @@ Guest User
 
 [Read More](/news-notes/oh-god-our-hope-week-6-monday-morning-devotions)
 
-[![Oh God, Our Hope (Week 5) - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773420940-N4P8OI74JGE9T5CQ0JQ5/image-asset.png)](/news-notes/oh-god-our-hope-week-5-monday-morning-devotions)
+[![Oh God, Our Hope (Week 5) - Monday Morning Devotions](images/9e1d349f-image-asset.png)](/news-notes/oh-god-our-hope-week-5-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -101,7 +101,7 @@ Guest User
 
 [Read More](/news-notes/oh-god-our-hope-week-5-monday-morning-devotions)
 
-[![Oh God, Our Hope (Week 4) - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773439170-FCFV0RY4QHXFQHX8VOHO/image-asset.png)](/news-notes/oh-god-our-hope-week-4-monday-morning-devotions)
+[![Oh God, Our Hope (Week 4) - Monday Morning Devotions](images/749bc876-image-asset.png)](/news-notes/oh-god-our-hope-week-4-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -115,7 +115,7 @@ Guest User
 
 [Read More](/news-notes/oh-god-our-hope-week-4-monday-morning-devotions)
 
-[![Oh God, Our Hope (Week 3) - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773442168-GF5LDGY34VQ81L7H5MF1/image-asset.png)](/news-notes/oh-god-our-hope-week-3-monday-morning-devotions)
+[![Oh God, Our Hope (Week 3) - Monday Morning Devotions](images/cd343259-image-asset.png)](/news-notes/oh-god-our-hope-week-3-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -129,7 +129,7 @@ Guest User
 
 [Read More](/news-notes/oh-god-our-hope-week-3-monday-morning-devotions)
 
-[![Oh God, Our Hope (Week 2) - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773453431-DJRB43SZQKKY1W62NAPU/image-asset.png)](/news-notes/oh-god-our-hope-week-2-monday-morning-devotions)
+[![Oh God, Our Hope (Week 2) - Monday Morning Devotions](images/d93fafa1-image-asset.png)](/news-notes/oh-god-our-hope-week-2-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -143,7 +143,7 @@ Guest User
 
 [Read More](/news-notes/oh-god-our-hope-week-2-monday-morning-devotions)
 
-[![Oh God, Our Hope (Week 1) - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773463245-6HPYB1PMDZKMVVLORL3O/image-asset.png)](/news-notes/oh-god-our-hope-week-1-monday-morning-devotions)
+[![Oh God, Our Hope (Week 1) - Monday Morning Devotions](images/ff76c07d-image-asset.png)](/news-notes/oh-god-our-hope-week-1-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

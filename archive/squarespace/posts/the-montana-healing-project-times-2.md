@@ -5,7 +5,7 @@ date: 2020-01-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-montana-healing-project-times-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1227abee65742273c70/1748628700852/82213778_10217359258437513_4891921776814063616_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773859583-S5KX9TR27HZJ214SD96I/image-asset.jpeg"]
+images: ["images/0b6c3126-82213778_10217359258437513_4891921776814063616_n.jpg", "images/a8517c59-image-asset.jpeg"]
 ---
 # The Montana Healing Project (times 2)
 
@@ -19,7 +19,7 @@ Last fall, Lutheran Indian Ministries was invited by a local Native pastor to vi
 
 In November, our traveling ministry team, which includes Rick McCafferty (Inupiaq), Rick and Linda (Cree) Martin, Dave Sternbeck (Nuu-chah-nulth), Kyonia, and Tim Young Eagle (Pawnee), traveled to Fort Peck and Fort Belknap for the first of these training sessions. Before we had finished this first week, we were invited to come back to Fort Peck for another session. We hope to reach all seven reservations in Montana with our Sacred Grounds program.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773859583-S5KX9TR27HZJ214SD96I/image-asset.jpeg)
+![](images/a8517c59-image-asset.jpeg)
 
 Ministry team in Poplar, Montana on the the Fort Peck Reservation. Pictured: Rick Martin, Linda Martin (Cree), Tim Young Eagle (Pawnee), Kyonia, Rick McCafferty (Inupiaq), Dave Sternbeck (Nuu-chah-nulth)
 

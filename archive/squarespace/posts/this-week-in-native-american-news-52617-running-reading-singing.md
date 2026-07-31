@@ -5,7 +5,7 @@ date: 2017-05-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-52617-running-reading-singing
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c07170f86f2c8d539c5a/1748628700852/17424912_10158345913145484_8017018528680528564_n_0.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777778208-J13UN79G1F9COYFIM236/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777779585-6LDD6E9PQ471M0A7VEJ2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777780547-3FKG6EYK3DCTTI9V1ZMQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777781697-TENVRMGOKBN8HLTJKCX5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777782818-SFNVXSC559VK64ZZU2AF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777783706-L4LAEHR5FPXH9LP80L4I/image-asset.jpeg"]
+images: ["images/3ec5db7d-17424912_10158345913145484_8017018528680528564_n_0.jpg", "images/92fd83de-image-asset.jpeg", "images/e26c1775-image-asset.jpeg", "images/81759a35-image-asset.jpeg", "images/73e9f9b8-image-asset.jpeg", "images/c3fcab28-image-asset.jpeg", "images/292d8103-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/26/17): Running, Reading, & Singing
 
@@ -13,7 +13,7 @@ May 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777778208-J13UN79G1F9COYFIM236/image-asset.jpeg)
+![](images/92fd83de-image-asset.jpeg)
 
 # May 26, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Helping Native Runners
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777779585-6LDD6E9PQ471M0A7VEJ2/image-asset.jpeg)
+![](images/e26c1775-image-asset.jpeg)
 
 As a Navajo child in Gallup, New Mexico, Dustin Martin would watch the best high school athletes run Red Rock State Park near his home in brand new running shoes.
 
@@ -35,7 +35,7 @@ Since 1988, Wings of America has worked with more than 40,000 American Indian an
 
 ## Residential School Shaped Activism
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777780547-3FKG6EYK3DCTTI9V1ZMQ/image-asset.jpeg)
+![](images/81759a35-image-asset.jpeg)
 
 Grand Chief Ed John has a long history fighting in the political arena on behalf of indigenous people.
 
@@ -55,7 +55,7 @@ John said his activism came from the culture he absorbed from his family and the
 
 ## Poor Roads Lead to Missed School
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777781697-TENVRMGOKBN8HLTJKCX5/image-asset.jpeg)
+![](images/73e9f9b8-image-asset.jpeg)
 
 The federal government released a report Monday that casts a critical light on the poor conditions of roads on tribal lands nationwide, highlighting the widespread challenge of getting Native American children to school during bad weather.
 
@@ -71,7 +71,7 @@ The report notes that the Bureau of Indian Education's schools generally don't c
 
 ## Summer Reading List
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777782818-SFNVXSC559VK64ZZU2AF/image-asset.jpeg)](https://www.vagabomb.com/All-I-Owe-to-the-World-Is-My-Art/)
+[![](images/c3fcab28-image-asset.jpeg)](https://www.vagabomb.com/All-I-Owe-to-the-World-Is-My-Art/)
 
 The website Vagabomb compiled their 9 favorite quotes from Sherman Alexie books to encourage your summer reading.
 
@@ -85,7 +85,7 @@ The website Vagabomb compiled their 9 favorite quotes from Sherman Alexie books 
 
 ## Finally, a dose of cute for your weekend
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777783706-L4LAEHR5FPXH9LP80L4I/image-asset.jpeg)
+![](images/292d8103-image-asset.jpeg)
 
 This 4-year-old Adnyamathanha girl is using her culture to help save sacred spot, Yungapunganah, from being turned into a nuclear waste site.
 

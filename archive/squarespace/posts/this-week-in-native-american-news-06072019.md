@@ -5,7 +5,7 @@ date: 2019-06-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-06072019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b33674e2e15255405cf1/1748628700852/Julia_Kelly_1500x800.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774391817-ZEK3BD7QXC9B99IDY0EG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774393336-3IQT77YX9WYE1KXHEB8Z/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774396836-Y9MZMGC4958LII5J3GXO/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774398464-C3VV4MK2POF8YMRIPDHB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774400303-P328M2NN0DAPUSPBFBQS/image-asset.jpeg"]
+images: ["images/51d3b525-Julia_Kelly_1500x800.png", "images/fdc8fa99-image-asset.jpeg", "images/26e759c9-image-asset.png", "images/cee166e0-image-asset.png", "images/35571ceb-image-asset.jpeg", "images/58c16783-image-asset.jpeg"]
 ---
 # This Week in Native American News (6/7/19): Remembering D-Day, Returning to Traditional Birthing Practices, and Honoring Female Artists
 
@@ -13,7 +13,7 @@ Jun 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774391817-ZEK3BD7QXC9B99IDY0EG/image-asset.jpeg)
+![](images/fdc8fa99-image-asset.jpeg)
 
 # June 7, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## On the 75th Anniversary of D-Day, Native Americans Remember Veterans’ Service and Sacrifices
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774393336-3IQT77YX9WYE1KXHEB8Z/image-asset.png)
+![](images/26e759c9-image-asset.png)
 
 Command Sergeant Major Julia Kelly (U.S. Army retired), one of 80 Native American delegates to the 75th anniversary observance of D-Day, stands on Omaha Beach. Kelly holds an eagle feather staff, an American Indian symbol of respect, honor, and patriotism. (Courtesy of Julia Kelly)
 
@@ -39,7 +39,7 @@ Two years ago today, on the 73rd anniversary of D-Day, in a park overlooking Oma
 
 ## How one midwife is helping indigenous mothers connect to their childbirth traditions
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774396836-Y9MZMGC4958LII5J3GXO/image-asset.png)
+![](images/cee166e0-image-asset.png)
 
 Musqueam councillor and former chief Wendy Grant-John says the Women Deliver 2019 Conference offers a chance to learn about lesser-known impacts of European imperialism.
 
@@ -63,7 +63,7 @@ Changing Woman, or Asdzáá Naadleehi, the center’s namesake, is a sacred crea
 
 ## Inside the First Major Museum Exhibition Celebrating Native Women Artists
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774398464-C3VV4MK2POF8YMRIPDHB/image-asset.jpeg)
+![](images/35571ceb-image-asset.jpeg)
 
 *The Wisdom of the Universe* by Christi Belcourt (Michif). Courtesy Minneapolis Institute of Art
 
@@ -81,7 +81,7 @@ With “Hearts of Our People,” Greeves wants women past and present to stake t
 
 ## This Week’s History Lesson…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774400303-P328M2NN0DAPUSPBFBQS/image-asset.jpeg)
+![](images/58c16783-image-asset.jpeg)
 
 ### [The impact of the Transcontinental Railroad on Native Americans](https://americanhistory.si.edu/blog/TRR)
 

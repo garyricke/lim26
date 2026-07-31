@@ -5,7 +5,7 @@ date: 2018-06-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-731-35-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b89e4870844ff5840c01/1748628700852/He+Shows+Goodwill+%28John%29+did+not+feast+or+drink+wine%2C+but+you+say%2C+%E2%80%98He+has+an+evil+spirit.%E2%80%99+The+True+Human+Being+comes+feasting+and+drinking+and+you+say%2C+%E2%80%98He+eats+too+much+and+is+a+drunk%2C+a+friend+of+trib.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775774804-AULUHAANFIHNNAAHGJGS/image-asset.png"]
+images: ["images/0c36573e-He_Shows_Goodwill__John__did_not_feast_or_drink_wine__but_you_say___He_has_an_evil_spirit.__The_True_Human_Being_comes_f", "images/cec9fd14-image-asset.png"]
 ---
 # Luke 7:31-35 FNV
 
@@ -13,7 +13,7 @@ Jun 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775774804-AULUHAANFIHNNAAHGJGS/image-asset.png)
+![](images/cec9fd14-image-asset.png)
 
 Jesus Christ very seldom took any notice of the mists of calumny that drifted round Him. ‘When He was reviled He reviled not again.’ If ever He did allude to them it was for the sake of the people who were harming themselves by uttering them.
 

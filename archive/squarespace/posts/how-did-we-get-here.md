@@ -5,7 +5,7 @@ date: 2020-03-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/how-did-we-get-here
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b084046d523415cd853a/1748628700852/622adc5d44ee2c4bccb4be6edbf99f3e.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773703064-NO6LT642YBUYFAVV2EA8/image-asset.png"]
+images: ["images/1ac1e741-622adc5d44ee2c4bccb4be6edbf99f3e.jpg", "images/8e9bddc8-image-asset.png"]
 ---
 # How Did We Get Here? - Lent 2020
 
@@ -13,7 +13,7 @@ Mar 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773703064-NO6LT642YBUYFAVV2EA8/image-asset.png)
+![](images/8e9bddc8-image-asset.png)
 
 ### Then the LORD God formed a manfrom the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being. [Genesis 2:7](https://www.bible.com/bible/111/gen.2.7)
 

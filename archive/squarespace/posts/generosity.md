@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/generosity
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773369419-TLTQ5LYSITAO4UO8DARU/seek-first-kingdom-calligraphy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773403542-67HZM0D693WGTUMWAB01/In+every+way+I+showed+you+that+by+working+hard+like+this+we+can+help+those+who+are+weak.+We+must+remember+what+the+Lord+Jesus+said%2C+-We+are+more+happy+when+we+give+than+when+we+receive.-Acts+20-35+NLT2.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778880119-C92NMJUEKCF07AS4XSG3/bizcard+large.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778897884-PSOQL2N67FE9JRTZNNZ9/85a7a8857f0ba66df6ce2dbfe990793c.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778917025-LBA9EA6I9FYH3X3NFSSF/slide-16-1-corinthians-12-27.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778957500-UC7DJCS8AKNHPIQ8ZL7Y/Find+out+what+pleases+the+Lord.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778974689-18H46XMYV7FRN9B4AYI0/Holy+is+his+name.+His+mercy+extends+to+those+who+fear+him%2C+from+generation+to+generation.+%28Luke+1-46-50%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778982982-LXJ67OAP92G78R5NS1AJ/seek-first-kingdom-calligraphy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779000517-7DQMKX55F40PRDT7RYWI/In+every+way+I+showed+you+that+by+working+hard+like+this+we+can+help+those+who+are+weak.+We+must+remember+what+the+Lord+Jesus+said%2C+-We+are+more+happy+when+we+give+than+when+we+receive.-Acts+20-35+NLT2.png"]
+images: ["images/985a9e9c-seek-first-kingdom-calligraphy.jpg", "images/f6652fbc-In_every_way_I_showed_you_that_by_working_hard_like_this_we_can_help_those_who_are_weak._We_must_remember_what_the_Lord_", "images/6dd114b4-bizcard_large.jpg", "images/98d6c0fa-85a7a8857f0ba66df6ce2dbfe990793c.jpg", "images/204004f0-slide-16-1-corinthians-12-27.jpg", "images/b96fb74d-Find_out_what_pleases_the_Lord.png", "images/a95dfaaf-Holy_is_his_name._His_mercy_extends_to_those_who_fear_him__from_generation_to_generation.__Luke_1-46-50_.png", "images/b888fb10-seek-first-kingdom-calligraphy.jpg", "images/6405b48e-In_every_way_I_showed_you_that_by_working_hard_like_this_we_can_help_those_who_are_weak._We_must_remember_what_the_Lord_"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![The Give &amp; Take of Generosity - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773369419-TLTQ5LYSITAO4UO8DARU/seek-first-kingdom-calligraphy.jpg)](/news-notes/giveandtakemondaymorningdevotion)
+[![The Give &amp; Take of Generosity - Monday Morning Devotion](images/985a9e9c-seek-first-kingdom-calligraphy.jpg)](/news-notes/giveandtakemondaymorningdevotion)
 
 Guest User
 11/16/20
@@ -75,7 +75,7 @@ When God places a burden on your heart, when you see the need, respond with the 
 
 [Read More](/news-notes/giveandtakemondaymorningdevotion)
 
-[![We give because He gave - Monday Morning Devotion ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773403542-67HZM0D693WGTUMWAB01/In+every+way+I+showed+you+that+by+working+hard+like+this+we+can+help+those+who+are+weak.+We+must+remember+what+the+Lord+Jesus+said%2C+-We+are+more+happy+when+we+give+than+when+we+receive.-Acts+20-35+NLT2.png)](/news-notes/we-give-because-he-gave-monday-morning-devotion-pacp6)
+[![We give because He gave - Monday Morning Devotion ](images/f6652fbc-In_every_way_I_showed_you_that_by_working_hard_like_this_we_can_help_those_who_are_weak._We_must_remember_what_the_Lord_)](/news-notes/we-give-because-he-gave-monday-morning-devotion-pacp6)
 
 Guest User
 11/9/20
@@ -89,7 +89,7 @@ If we are, now, to be Christ's hands and feet on earth, generosity, and the joy 
 
 [Read More](/news-notes/we-give-because-he-gave-monday-morning-devotion-pacp6)
 
-[![What We Can Learn About Generosity, Lesson 6: It's all about faith - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778880119-C92NMJUEKCF07AS4XSG3/bizcard+large.jpg)](/news-notes/what-we-can-learn-about-generosity-lesson-6-its-all-about-faith-monday-morning-devotion)
+[![What We Can Learn About Generosity, Lesson 6: It's all about faith - Monday Morning Devotion](images/6dd114b4-bizcard_large.jpg)](/news-notes/what-we-can-learn-about-generosity-lesson-6-its-all-about-faith-monday-morning-devotion)
 
 Guest User
 11/21/16
@@ -103,7 +103,7 @@ God's great plan "for hope and a future" is for all people, but His Kingdom is s
 
 [Read More](/news-notes/what-we-can-learn-about-generosity-lesson-6-its-all-about-faith-monday-morning-devotion)
 
-[![What We Can Learn About Generosity, Lesson 5: See what's coming - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778897884-PSOQL2N67FE9JRTZNNZ9/85a7a8857f0ba66df6ce2dbfe990793c.jpg)](/news-notes/what-we-can-learn-about-generosity-lesson-5-see-whats-coming-monday-morning-devotion)
+[![What We Can Learn About Generosity, Lesson 5: See what's coming - Monday Morning Devotion](images/98d6c0fa-85a7a8857f0ba66df6ce2dbfe990793c.jpg)](/news-notes/what-we-can-learn-about-generosity-lesson-5-see-whats-coming-monday-morning-devotion)
 
 Guest User
 11/14/16
@@ -117,7 +117,7 @@ Like the Native families that gave everything to their community, confident of w
 
 [Read More](/news-notes/what-we-can-learn-about-generosity-lesson-5-see-whats-coming-monday-morning-devotion)
 
-[![What We Can Learn About Generosity, Lesson 4: We are a TRIBE](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778917025-LBA9EA6I9FYH3X3NFSSF/slide-16-1-corinthians-12-27.jpg)](/news-notes/what-we-can-learn-about-generosity-lesson-4-we-are-a-tribe)
+[![What We Can Learn About Generosity, Lesson 4: We are a TRIBE](images/204004f0-slide-16-1-corinthians-12-27.jpg)](/news-notes/what-we-can-learn-about-generosity-lesson-4-we-are-a-tribe)
 
 Guest User
 11/7/16
@@ -131,7 +131,7 @@ We don't have to stretch our imaginations very far to see that Jesus understood 
 
 [Read More](/news-notes/what-we-can-learn-about-generosity-lesson-4-we-are-a-tribe)
 
-[![What We Can Learn About Generosity, Lesson 3: Gifts aren't always tangible](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778957500-UC7DJCS8AKNHPIQ8ZL7Y/Find+out+what+pleases+the+Lord.png)](/news-notes/what-we-can-learn-about-generosity-lesson-3-gifts-arent-always-tangible)
+[![What We Can Learn About Generosity, Lesson 3: Gifts aren't always tangible](images/b96fb74d-Find_out_what_pleases_the_Lord.png)](/news-notes/what-we-can-learn-about-generosity-lesson-3-gifts-arent-always-tangible)
 
 Guest User
 10/31/16
@@ -145,7 +145,7 @@ Everything we do can be a gift to those around us. We can encourage generosity w
 
 [Read More](/news-notes/what-we-can-learn-about-generosity-lesson-3-gifts-arent-always-tangible)
 
-[![What We Can Learn About Generosity, Lesson 2: Future Driven - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778974689-18H46XMYV7FRN9B4AYI0/Holy+is+his+name.+His+mercy+extends+to+those+who+fear+him%2C+from+generation+to+generation.+%28Luke+1-46-50%29.png)](/news-notes/what-we-can-learn-about-generosity-lesson-2-future-driven-monday-morning-devotion)
+[![What We Can Learn About Generosity, Lesson 2: Future Driven - Monday Morning Devotion](images/a95dfaaf-Holy_is_his_name._His_mercy_extends_to_those_who_fear_him__from_generation_to_generation.__Luke_1-46-50_.png)](/news-notes/what-we-can-learn-about-generosity-lesson-2-future-driven-monday-morning-devotion)
 
 Guest User
 10/24/16
@@ -159,7 +159,7 @@ Jesus tells us to "store up for yourselves treasures in heaven... For where your
 
 [Read More](/news-notes/what-we-can-learn-about-generosity-lesson-2-future-driven-monday-morning-devotion)
 
-[![What We Can Learn About Generosity, Lesson 1: Give &amp; Take - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778982982-LXJ67OAP92G78R5NS1AJ/seek-first-kingdom-calligraphy.jpg)](/news-notes/what-we-can-learn-about-generosity-lesson-1-give-take-monday-morning-devotion)
+[![What We Can Learn About Generosity, Lesson 1: Give &amp; Take - Monday Morning Devotion](images/b888fb10-seek-first-kingdom-calligraphy.jpg)](/news-notes/what-we-can-learn-about-generosity-lesson-1-give-take-monday-morning-devotion)
 
 Guest User
 10/17/16
@@ -175,7 +175,7 @@ When God places a burden on your heart, when you see the need, respond with the 
 
 [Read More](/news-notes/what-we-can-learn-about-generosity-lesson-1-give-take-monday-morning-devotion)
 
-[![We give because He gave - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779000517-7DQMKX55F40PRDT7RYWI/In+every+way+I+showed+you+that+by+working+hard+like+this+we+can+help+those+who+are+weak.+We+must+remember+what+the+Lord+Jesus+said%2C+-We+are+more+happy+when+we+give+than+when+we+receive.-Acts+20-35+NLT2.png)](/news-notes/we-give-because-he-gave-monday-morning-devotion)
+[![We give because He gave - Monday Morning Devotion](images/6405b48e-In_every_way_I_showed_you_that_by_working_hard_like_this_we_can_help_those_who_are_weak._We_must_remember_what_the_Lord_)](/news-notes/we-give-because-he-gave-monday-morning-devotion)
 
 Guest User
 10/10/16

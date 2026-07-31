@@ -5,7 +5,7 @@ date: 2021-03-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/we-are-all-human-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae3c635358029d8965ee/1748628700852/21+We+Are+All+Human.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773117497-QMPR9ODOSN3U7GD6QGG4/image-asset.jpeg"]
+images: ["images/10d6f49d-21_We_Are_All_Human.jpg", "images/de07226f-image-asset.jpeg"]
 ---
 # We Are All Human (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773117497-QMPR9ODOSN3U7GD6QGG4/image-asset.jpeg)
+![](images/de07226f-image-asset.jpeg)
 
 # "THEN THE LORD GOD FORMED A MAN FROM THE DUST OF THE GROUND AND BREATHED INTO HIS NOSTRILS THE BREATH OF LIFE, AND THE MAN BECAME A LIVING BEING." (GENESIS 2:7)
 

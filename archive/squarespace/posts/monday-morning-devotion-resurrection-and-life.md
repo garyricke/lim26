@@ -5,7 +5,7 @@ date: 2016-09-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/monday-morning-devotion-resurrection-and-life
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5714e34042f8b59857a/1748628700852/9760-ea_resurrection_life+Jesus+design.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779059084-VCO6NGH8UM5JNAFEMIK1/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779061003-10E96OU6S47HDOF2FAXI/image-asset.jpeg"]
+images: ["images/0b1cc86a-9760-ea_resurrection_life_Jesus_design.png", "images/7c3d54b1-image-asset.png", "images/2234c807-image-asset.jpeg"]
 ---
 # Monday Morning Devotion - Resurrection and Life
 
@@ -15,7 +15,7 @@ Sep 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779059084-VCO6NGH8UM5JNAFEMIK1/image-asset.png)
+![](images/7c3d54b1-image-asset.png)
 
 This is week FIVE in our seven-part devotion series, brought to you by Pastor Ricky Jacob, our Lutheran Indian Ministries Associate Pastor serving the Winnebago people of Nebraska.
 
@@ -37,7 +37,7 @@ Skip to a specific week:
 
 This week's "I am" statement is: I am the Resurrection and the Life.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779061003-10E96OU6S47HDOF2FAXI/image-asset.jpeg)
+![](images/2234c807-image-asset.jpeg)
 
 Do you have a positive outlook on life? As I age and hear of the many conflicts around the world, the natural disasters, the mass murders, I find it more challenging to have a positive outlook on life. And when it comes to the death of a family member, or a dear friend, how devastating that news and the realization of living life without that loved one.
 

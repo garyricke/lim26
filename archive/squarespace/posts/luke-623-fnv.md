@@ -5,7 +5,7 @@ date: 2017-09-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-623-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349beee6a6122712eb9a29e/1748628700852/luke+6-23.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777391741-8526KFBFYVDPIXE3YO0K/image-asset.png"]
+images: ["images/c3e15424-luke_6-23.png", "images/ddcec091-image-asset.png"]
 ---
 # Luke 6:23 FNV
 
@@ -13,7 +13,7 @@ Sep 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777391741-8526KFBFYVDPIXE3YO0K/image-asset.png)
+![](images/ddcec091-image-asset.png)
 
 When they should be hated, discarded, reproached, and anathematized: and leap for joy; as if the greatest honour and happiness imaginable had been conferred on them; and as persons do, when in the greatest rapture: for behold, your reward is great in heaven.
 

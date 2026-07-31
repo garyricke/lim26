@@ -5,7 +5,7 @@ date: 2017-09-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-journey-is-in-gods-hands-and-yours
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf0a9c4d201dc3cf3cab/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777419915-UWHWBJY6IZ9GP3RLTX3L/image-asset.png"]
+images: ["images/c9ad58e2-1748628700852", "images/bda4944d-image-asset.png"]
 ---
 # See, I am doing a new thing - Haskell
 
@@ -15,7 +15,7 @@ Sep 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777419915-UWHWBJY6IZ9GP3RLTX3L/image-asset.png)
+![](images/bda4944d-image-asset.png)
 
 Do you remember your first day of school?
 

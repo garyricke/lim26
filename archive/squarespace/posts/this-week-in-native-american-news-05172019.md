@@ -5,7 +5,7 @@ date: 2019-05-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-05172019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b35b3cdc7517f158d133/1748628700852/ct-1557954176-7nkt4td9mo-snap-image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774429032-E2GW7OKWEFMUBENB34EH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774431112-X1YCDITK3YAT98D4Z66B/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774433496-AKRDQPKHAPSASQ6BG2WN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774435307-CTBEFHZB09NI6U4PA14J/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774437807-9GSLKTEOD4S49ALGK2AB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774439222-7NJHOTISNQ9091GL84HQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774441238-X13VJI30DYSYCCLVD7I2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774442366-ZP3L33IUKCQ7MNVROL9M/image-asset.jpeg"]
+images: ["images/bfcd7c66-ct-1557954176-7nkt4td9mo-snap-image.jpg", "images/dd86b5ac-image-asset.jpeg", "images/c57ab5f9-image-asset.jpeg", "images/479cecaa-image-asset.jpeg", "images/7c2cbdec-image-asset.jpeg", "images/bf60c017-image-asset.jpeg", "images/3a02e453-image-asset.jpeg", "images/21b5344a-image-asset.jpeg", "images/65721bfd-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/17/19): the Effects of Trauma, a Native National Park, and Not Removing Murals
 
@@ -13,7 +13,7 @@ May 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774429032-E2GW7OKWEFMUBENB34EH/image-asset.jpeg)
+![](images/dd86b5ac-image-asset.jpeg)
 
 # May 17, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Trauma lives on in Native Americans by making us sick
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774431112-X1YCDITK3YAT98D4Z66B/image-asset.jpeg)
+![](images/c57ab5f9-image-asset.jpeg)
 
 Trauma is at the root of the issues that translate into the poor health outcomes characteristic of American Indians. Illustration: Sonny Ross/Sonny Ross for Guardian US
 
@@ -33,13 +33,13 @@ Trauma is at the root of the issues that translate into the poor health outcomes
 
 ## Similar News in Overcoming Generational Trauma…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774433496-AKRDQPKHAPSASQ6BG2WN/image-asset.jpeg)
+![](images/479cecaa-image-asset.jpeg)
 
 ### [How this survivor is fighting sexual assault in Navajo Nation](https://www.pbs.org/newshour/show/how-this-survivor-is-fighting-sexual-assault-in-navajo-nation)
 
 Sexual assault and abuse are issues of national and global reach and prominence. Among Navajo populations, the problem is even more prevalent. As one of the few female delegates on the Navajo council, Amber Kanazbah Crotty is leading a campaign called "Start by Believing" to encourage communities to support survivors. She shares her brief but spectacular take on revitalizing Navajo communities.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774435307-CTBEFHZB09NI6U4PA14J/image-asset.jpeg)
+![](images/7c2cbdec-image-asset.jpeg)
 
 ### [Remembrance offers healing to Alaska Native community mourning missing and murdered women](https://www.adn.com/alaska-news/anchorage/2019/05/05/remembrance-offers-healing-to-alaska-native-community-mourning-missing-and-murdered-women/)
 
@@ -47,7 +47,7 @@ The list was five pages long. On it were written 191 names.
 
 Each name represented an Alaska Native woman or girl who has either gone missing or been killed, and each one was read aloud at a Saturday remembrance for missing and murdered indigenous women at the Alaska Native Heritage Center.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774437807-9GSLKTEOD4S49ALGK2AB/image-asset.jpeg)
+![](images/bf60c017-image-asset.jpeg)
 
 ### [Lutheran Indian Ministries - Sacred Ground on the Haskell Campus](https://www.lutheranindianministries.org/news/the-harvest-is-ready-a-beauty-for-ashes-adventure?rq=generational%20trauma)
 
@@ -59,7 +59,7 @@ Before you make assumptions, Haskell LIGHT is not your typical campus ministry.
 
 ## The Blackfeet Nation is opening its own national park
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774439222-7NJHOTISNQ9091GL84HQ/image-asset.jpeg)
+![](images/3a02e453-image-asset.jpeg)
 
 Ed DesRosier's company Sun Tours has been giving Indigenous-centered tours of Glacier National Park for 27 years. He and other tribal members are pushing to establish Blackfeet National Park to the east of Glacier. Courtesy of Ed DesRosier
 
@@ -73,7 +73,7 @@ So DesRosier, an enrolled member of the Blackfeet Nation in northwestern Montana
 
 ## Native American Tribes Across the Country Are Pushing for Better Internet Access
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774441238-X13VJI30DYSYCCLVD7I2/image-asset.jpeg)
+![](images/21b5344a-image-asset.jpeg)
 
 Ophelia Watahomigie-Corliss, a member of the Havasupai Tribal Council, at Red Butte, a site that the Havasupai consider sacred about 15 miles south of Tusayan, Ariz. (Amy Martin—AP)
 
@@ -93,7 +93,7 @@ Jacqueline Siyuja now has a wireless router to take online classes for her job a
 
 ## Instead of removal, Park Ridge library will add historical context to mural of Native Americans ceding land to government
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774442366-ZP3L33IUKCQ7MNVROL9M/image-asset.jpeg)
+![](images/65721bfd-image-asset.jpeg)
 
 The restored "Indians Cede the Land" mural on the wall of the Park Ridge Public Library is shown in this 2013 file photo. (Keri Wiginton/Chicago Tribune)
 

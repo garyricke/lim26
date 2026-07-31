@@ -5,7 +5,7 @@ date: 2015-05-28
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/kansaslhaskell-light-campus-ministry/looking-forward-to-a-greater-capacity-to-serve-may-2015-haskell-construction-update
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dced771b7a501b626d92/1665785080776/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785070759-CQDM0SY63G8Q0IYKFH1M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785073382-BFQZNYOGXEPMBGFZS7VB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785074956-CGF5OANSCS5SMSDHT148/image-asset.jpeg"]
+images: ["images/3f67a983-1665785080776", "images/d36441cd-image-asset.jpeg", "images/fd2b0c69-image-asset.jpeg", "images/9a838791-image-asset.jpeg"]
 ---
 # Looking Forward to a Greater Capacity to Serve - May 2015 Haskell Construction Update
 
@@ -15,7 +15,7 @@ May 28
 
 Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785070759-CQDM0SY63G8Q0IYKFH1M/image-asset.jpeg)
+![](images/d36441cd-image-asset.jpeg)
 
 Haskell LIGHT Campus Ministry Construction Update May 2015
 
@@ -23,13 +23,13 @@ Haskell LIGHT Campus Ministry Construction Update May 2015
 
 Construction on Lutheran Indian Ministries’ new campus ministry facility continues in full swing. Since April, LFC volunteers have begun to put the roof beams in place and they will soon have the structure enclosed.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785073382-BFQZNYOGXEPMBGFZS7VB/image-asset.jpeg)
+![](images/fd2b0c69-image-asset.jpeg)
 
 Haskell LIGHT Campus Ministry Construction Update May 2015
 
 “With the majority of roof trusses in place and the four corners of the building enclosed with sheathing, the building is more clearly defined. It’s so impressive!” Will comments, adding, “I can feel my spirit rising higher at the thought of having such a greater capacity to serve our young Native men and women and community.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785074956-CGF5OANSCS5SMSDHT148/image-asset.jpeg)
+![](images/9a838791-image-asset.jpeg)
 
 Haskell LIGHT Campus Ministry Construction Update May 2015
 

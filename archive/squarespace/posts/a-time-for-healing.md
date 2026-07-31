@@ -5,7 +5,7 @@ date: 2019-05-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-time-for-healing
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b36ca992b149232e446a/1748628700852/a+time+for+healing+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774446700-DHRWLVU74XN1RA1AH2LK/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/7daa545a-a_time_for_healing__1_.png", "images/69708af5-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # A Time for Healing
 
@@ -15,7 +15,7 @@ May 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774446700-DHRWLVU74XN1RA1AH2LK/image-asset.png)
+![](images/69708af5-image-asset.png)
 
 “It was very dark around the campus that day.”
 
@@ -66,7 +66,7 @@ Executive Director
 
 **Your gift today affirms that Jesus was born for all, including our Native American brothers and sisters.  Thank you!**
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

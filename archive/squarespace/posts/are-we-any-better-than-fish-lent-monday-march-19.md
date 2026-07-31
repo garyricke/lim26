@@ -5,7 +5,7 @@ date: 2018-03-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/are-we-any-better-than-fish-lent-monday-march-19
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbd19af4ad0956c8346a/1748628700852/09b9f07c680a50e191f87975267cd14d.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776594817-VF3BBAGTQX7N2K8BOZAB/image-asset.png"]
+images: ["images/3ca1b793-09b9f07c680a50e191f87975267cd14d.jpg", "images/db6154a5-image-asset.png"]
 ---
 # Are We Any Better Than Fish? (Lent) - Monday, March 19
 
@@ -15,7 +15,7 @@ Mar 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776594817-VF3BBAGTQX7N2K8BOZAB/image-asset.png)
+![](images/db6154a5-image-asset.png)
 
 ### "On the evening of that day, the first day of the week, the doors being locked where the disciples were for fear of the Jews, Jesus came and stood among them and said to them, 'Peace be with you.' When he had said this, he showed them his hands and his side. Then the disciples were glad when they saw the Lord. Jesus said to them again, 'Peace be with you. As the Father has sent me, even so I am sending you.'"   [John 20:19-21 (ESV)](https://www.bible.com/bible/59/JHN.20.19-21)
 

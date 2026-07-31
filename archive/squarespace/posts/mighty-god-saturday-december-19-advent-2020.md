@@ -5,7 +5,7 @@ date: 2020-12-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/mighty-god-saturday-december-19-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae98d102823ae1a50873/1748628700852/452aadc66d8d5a2a94f27c0f30662cee.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773210561-UDKKW8C21LFXP1GO3U2H/image-asset.png"]
+images: ["images/db4d1834-452aadc66d8d5a2a94f27c0f30662cee.jpg", "images/8fe5f2ec-image-asset.png"]
 ---
 # Mighty God - Saturday, December 19 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773210561-UDKKW8C21LFXP1GO3U2H/image-asset.png)
+![](images/8fe5f2ec-image-asset.png)
 
 ## For to us a child is born, to us a son is given… And he will be called… Mighty God… [Isaiah 9:6](https://my.bible.com/bible/111/ISA.9.6)
 

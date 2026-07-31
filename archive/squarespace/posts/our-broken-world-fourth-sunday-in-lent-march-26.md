@@ -5,7 +5,7 @@ date: 2017-03-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/our-broken-world-fourth-sunday-in-lent-march-26
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c169598c94025ea116c7/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778025973-RGZII1MPZ5L2DVNCSY73/image-asset.jpeg"]
+images: ["images/ebe161ec-2017_lent_cover.jpg", "images/246303a4-image-asset.jpeg"]
 ---
 # Our Broken World: Fourth Sunday in Lent, March 26
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## And he came to Nazareth, where he had been brought up. And as was his custom, he went to the synagogue on the Sabbath day, and he stood up to read. And the scroll of the prophet Isaiah was given to him. He unrolled the scroll and found the place where it was written, “The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, to proclaim the year of the Lord’s favor.” Luke 4:16-19 (ESV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778025973-RGZII1MPZ5L2DVNCSY73/image-asset.jpeg)
+![](images/246303a4-image-asset.jpeg)
 
 I love this passage and the Isaiah 61 text Jesus was reading from that day. Through this Scripture reading, Jesus unfolds his ministry. It is a timeless statement that is needed as much now as it was in the day that He read it. It is a course of action that has framed Lutheran Indian Ministries for years, leading Native Americans to the freedom found only through Jesus Christ.
 

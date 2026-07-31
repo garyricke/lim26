@@ -5,7 +5,7 @@ date: 2017-04-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/hallowed-be-thy-name-spiritual-warriors-prayer-part-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0fd9d6ea636a8af76ef/1748628700852/Hallowed-Be-Thy-Name2.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777918280-FC137GYQFAQUBTN1MGOX/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777919558-18WI4ANR5N6F7MCP09VF/image-asset.png"]
+images: ["images/bb6317c6-Hallowed-Be-Thy-Name2.png", "images/6445557c-image-asset.png", "images/76637a7e-image-asset.png"]
 ---
 # Hallowed Be Thy Name: Spiritual Warriors Prayer, Part 1
 
@@ -15,7 +15,7 @@ Apr 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777918280-FC137GYQFAQUBTN1MGOX/image-asset.png)
+![](images/6445557c-image-asset.png)
 
 We're starting a seven-week study on the Lord's Prayer, or as Pastor Ricky Jacob likes to call it: the Spiritual Warriors Prayer.
 
@@ -41,7 +41,7 @@ But anyone who teaches or lives contrary to God’s Word profanes the name of Go
 
 Protect us from this, heavenly Father!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777919558-18WI4ANR5N6F7MCP09VF/image-asset.png)
+![](images/76637a7e-image-asset.png)
 
 At the end of this story, Naaman honors the slave girl’s God with these words: “Now I know that there is no God in all the world except in Israel.” (2 Kings 5:15b) You may often question ‘why?’ However, you would truly be blessed to pray ‘Hallowed be Thy Name’ and then trust in God with a faith that teaches and lives according to the Sacred Word of God.
 

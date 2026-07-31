@@ -5,7 +5,7 @@ date: 2019-03-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/preparing-for-lent-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b64ed20efd47a96f30eb/1748628700852/devotion+title.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775184777-7PUJBBTR3QA0UQ8X4HGA/image-asset.jpeg"]
+images: ["images/9efe14a9-devotion_title.jpg", "images/39c928c7-image-asset.jpeg"]
 ---
 # Preparing for Lent - Monday Morning Devotions
 
@@ -13,7 +13,7 @@ Mar 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775184777-7PUJBBTR3QA0UQ8X4HGA/image-asset.jpeg)
+![](images/39c928c7-image-asset.jpeg)
 
 **Article by Scott Hubbard**Editor, [desiringGod.org](https://www.desiringgod.org/articles/join-the-40-day-feast)
 

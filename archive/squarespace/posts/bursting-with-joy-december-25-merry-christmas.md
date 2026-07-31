@@ -5,7 +5,7 @@ date: 2016-12-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/bursting-with-joy-december-25-merry-christmas
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c42435c9066700e26a11/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778726011-16LLSJ2DMPMGBML7HXD6/image-asset.png"]
+images: ["images/e1c83512-2016_Advent_Devotions.png", "images/e25ccd9c-image-asset.png"]
 ---
 # Bursting with Joy: December 25 - MERRY CHRISTMAS!
 
@@ -15,7 +15,7 @@ Dec 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778726011-16LLSJ2DMPMGBML7HXD6/image-asset.png)
+![](images/e25ccd9c-image-asset.png)
 
 ## And suddenly there was with the angel a multitude of the heavenly host praising God and saying, “Glory to God in the highest, and on earth peace among those with whom he is pleased!" Luke 2:13-14 (ESV)
 

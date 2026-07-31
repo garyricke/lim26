@@ -5,7 +5,7 @@ date: 2017-10-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-102717
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be964e34042f8b585efc/1748628700852/CulturalAppropriation_1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777302957-JFGAMIXBVEQRQ23B8V7F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777303900-JLX8S0O8LCA4P7OOCPIK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777305252-0J7N6YOVPFAU4KBF52N7/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777307454-9C3B9DVDP5ZIIG5GGM0M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777309031-3ISHNJL0P85L2ESR2D2I/image-asset.jpeg"]
+images: ["images/0a4baee7-CulturalAppropriation_1.jpg", "images/afa3cc9a-image-asset.jpeg", "images/f8380e7b-image-asset.jpeg", "images/1951dcbb-image-asset.png", "images/8e497709-image-asset.jpeg", "images/f1ce7a95-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/27/17): Makeup, Bulletin Boards, and Costumes
 
@@ -13,7 +13,7 @@ Oct 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777302957-JFGAMIXBVEQRQ23B8V7F/image-asset.jpeg)
+![](images/afa3cc9a-image-asset.jpeg)
 
 # October 27, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Make-Up Brand Helping Indigenous Youth
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777303900-JLX8S0O8LCA4P7OOCPIK/image-asset.jpeg)
+![](images/f8380e7b-image-asset.jpeg)
 
 Three years ago, Jennifer Harper had a dream. “There were all of these little Aboriginal girls, and they were playing with lip gloss. It was all over everything, and I woke up and I was like, ‘That’s it, that’s what I’m going to do.'” The Anishinaabe marketing and sales professional, who grew up in St. Catharines, wanted to give back to her community, and that night, she decided she’d do it with makeup—an industry she had never worked in.
 
@@ -35,7 +35,7 @@ But Cheekbone Beauty is far more than a product range.Immediately after conceivi
 
 ## Students Teaching Students
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777305252-0J7N6YOVPFAU4KBF52N7/image-asset.png)
+![](images/1951dcbb-image-asset.png)
 
 Padlet is an online bulletin board that allows the three classes to ask each other questions. By doing this students are developing a language to talk about their identity.
 
@@ -55,7 +55,7 @@ The teachers said that they are focusing on an "inquiry classroom" allowing the 
 
 ## Pe Sla is for Native Youth
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777307454-9C3B9DVDP5ZIIG5GGM0M/image-asset.jpeg)
+![](images/8e497709-image-asset.jpeg)
 
 COURTESY NANCY ERGER, REMINISCE
 
@@ -83,7 +83,7 @@ Created and written by Lucas Brown Eyes, *Reservations* is based on his real-li
 
 ## And Just in Time for Halloween
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777309031-3ISHNJL0P85L2ESR2D2I/image-asset.jpeg)](https://www.teenvogue.com/story/cultural-appropriation-halloween-costume-video)
+[![](images/f1ce7a95-image-asset.jpeg)](https://www.teenvogue.com/story/cultural-appropriation-halloween-costume-video)
 
 ## You might also be interested in:
 

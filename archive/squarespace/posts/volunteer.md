@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/volunteer
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777405382-1AYEZTBY92LUZE1HFJZG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777917957-1UTD7WLZL1PN2EMLXIMF/IMG_3447.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781600280-I4CQXZXV2ISDT7CQDD3M/image-asset.jpeg"]
+images: ["images/91881af7-image-asset.jpeg", "images/1c5cf5b8-IMG_3447.JPG", "images/9235203c-image-asset.jpeg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![What it means to serve: Volunteering Changes You](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777405382-1AYEZTBY92LUZE1HFJZG/image-asset.jpeg)](/news-notes/what-it-means-to-serve)
+[![What it means to serve: Volunteering Changes You](images/91881af7-image-asset.jpeg)](/news-notes/what-it-means-to-serve)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -73,7 +73,7 @@ Guest User
 
 [Read More](/news-notes/what-it-means-to-serve)
 
-[![Reflections on Rural Alaska: A Volunteer Diary](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777917957-1UTD7WLZL1PN2EMLXIMF/IMG_3447.JPG)](/news-notes/reflections-on-rural-alaska-a-volunteer-diary)
+[![Reflections on Rural Alaska: A Volunteer Diary](images/1c5cf5b8-IMG_3447.JPG)](/news-notes/reflections-on-rural-alaska-a-volunteer-diary)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -93,7 +93,7 @@ Every missionary has their story of falling in love with the people and the hear
 
 [Read More](/news-notes/reflections-on-rural-alaska-a-volunteer-diary)
 
-[![4 Things You Can Do To Help With the Native American Suicide Epidemic](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781600280-I4CQXZXV2ISDT7CQDD3M/image-asset.jpeg)](/news-notes/category/qt3o6qud29vozuo5qeb9rnxm971dtf)
+[![4 Things You Can Do To Help With the Native American Suicide Epidemic](images/9235203c-image-asset.jpeg)](/news-notes/category/qt3o6qud29vozuo5qeb9rnxm971dtf)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User

@@ -5,7 +5,7 @@ date: 2017-12-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/even-a-match-advent-sunday-december-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be41598c94025ea07575/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777217867-EB8CA9JBT10IXA36T25U/image-asset.png"]
+images: ["images/31799762-Advent__1_.png", "images/9d5e6b5b-image-asset.png"]
 ---
 # Even a Match (Advent) - Sunday, December 3
 
@@ -13,7 +13,7 @@ Dec 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777217867-EB8CA9JBT10IXA36T25U/image-asset.png)
+![](images/9d5e6b5b-image-asset.png)
 
 ### **Even a Match - Sunday, December 3rd**
 

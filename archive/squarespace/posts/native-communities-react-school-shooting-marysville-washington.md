@@ -5,7 +5,7 @@ date: 2014-11-06
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/washingtonneah-bay/native-communities-react-school-shooting-marysville-washington
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4439a/1451491776828/W-WILSON-canoe-journeys-2013-2-web-use.jpg"]
+images: ["images/a0a163a4-W-WILSON-canoe-journeys-2013-2-web-use.jpg"]
 ---
 # Native Communities React to School Shooting in Marysville, Washington
 
@@ -20,7 +20,7 @@ Our Northwest Coastal tribes share so much in common. We are a people of the oce
 
 Tribal Journeys, an annual gathering of all of the coastal tribes in the Northwest, bring our coastal people together in a strong cultural setting where family ties across tribal lines are celebrated and reinforced. One story that comes out of the last Tribal Journey connects with this tragedy. It involves one of the men in our congregation, Paul, who is captain of the oil recovery vessel in Neah Bay. Paul has a 50-foot vessel that he used as a support boat for Tribal Journeys. Jaylen Fryberg, the 14-year-old who shot his classmates and himself, was one of the young men on one of the Tulalip canoes.
 
-[![Canoe [Tribal] Journeys 2013](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4439a/1451491776828/W-WILSON-canoe-journeys-2013-2-web-use.jpg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4439a/1451491776828/W-WILSON-canoe-journeys-2013-2-web-use.jpg?format=original)Paul recalls that it had been a difficult day of paddling in rough waters. Swells made it impossible for canoes to land as evening approached, so Jaylen’s canoe family spent the night aboard his yacht. Paul remembers the many questions that Jaylen asked and how he showed a real interest in his yacht. It is difficult to recall memories of someone who only recently expressed his passion for life on the ocean and then for this tragedy to take place. The future could’ve been so different.
+[![Canoe [Tribal] Journeys 2013](images/a0a163a4-W-WILSON-canoe-journeys-2013-2-web-use.jpg)](images/a0a163a4-W-WILSON-canoe-journeys-2013-2-web-use.jpg)Paul recalls that it had been a difficult day of paddling in rough waters. Swells made it impossible for canoes to land as evening approached, so Jaylen’s canoe family spent the night aboard his yacht. Paul remembers the many questions that Jaylen asked and how he showed a real interest in his yacht. It is difficult to recall memories of someone who only recently expressed his passion for life on the ocean and then for this tragedy to take place. The future could’ve been so different.
 
 So, what is always so perplexing in these situations is the huge question of WHY? Jaylen was popular, not a disgruntled outsider. He was named homecoming prince and was an athlete who had many friends. Those whom he shot were close friends and family. They were all beautiful kids with a bright future now tragically cut short.
 

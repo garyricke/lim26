@@ -5,7 +5,7 @@ date: 2017-11-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-special-thanksgiving-letter
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be5935c9066700e178c5/1748628700852/1447772474-delish-thanksgiving-side-says-about-you.jpg"]
+images: ["images/f2af2223-1447772474-delish-thanksgiving-side-says-about-you.jpg"]
 ---
 # A Special Thanksgiving Letter
 

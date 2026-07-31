@@ -5,7 +5,7 @@ date: 2017-09-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-092217
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bef160d4ef62def9e8b5/1748628700852/road-sign.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777393739-DDZ8Y6NOYS91F8X5GX25/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777394610-F2MF7MR00P5SI3OSF6W8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777395564-PN9ZHF6MIQUXPTZG0ZY5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777396364-IKJMZDBMYHLME6ZZCZCB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777398111-009IDJ9LV4K3WYDED133/image-asset.png"]
+images: ["images/6d64a2f5-road-sign.JPG", "images/634dc94f-image-asset.jpeg", "images/d358dd95-image-asset.jpeg", "images/b3eb1df7-image-asset.jpeg", "images/8bf3f01e-image-asset.jpeg", "images/1ef902ad-image-asset.png"]
 ---
 # This Week in Native American News (9/22/17): Mars Missions, Ice Roads, and Comic Con
 
@@ -13,7 +13,7 @@ Sep 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777393739-DDZ8Y6NOYS91F8X5GX25/image-asset.jpeg)
+![](images/634dc94f-image-asset.jpeg)
 
 # September 22, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Yup'ik Student Helps NASA
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777394610-F2MF7MR00P5SI3OSF6W8/image-asset.jpeg)
+![](images/d358dd95-image-asset.jpeg)
 
 Originally from Bethel, Christopher Liu is the engineer behind the Muktuk Plot - a strategy that will help NASA pilot its next orbiter mission to Mars. Credit Courtesy of Christopher Liu.
 
@@ -37,7 +37,7 @@ Today, after years of hard work, he’s studying electrical engineering as a gra
 
 ## All-Season Road to the Far North
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777395564-PN9ZHF6MIQUXPTZG0ZY5/image-asset.jpeg)
+![](images/b3eb1df7-image-asset.jpeg)
 
 A hand-drawn road sign directs James Bay ice road travellers to the communities of the coast. (Erik White/CBC)
 
@@ -57,7 +57,7 @@ Solomon predicts the feasibility study could take up to two years to complete.
 
 ## Finding Old Hawaii in the Small Towns
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777396364-IKJMZDBMYHLME6ZZCZCB/image-asset.jpeg)
+![](images/8bf3f01e-image-asset.jpeg)
 
 A sign marks the entrance to the remains of a 600-year old village at Lapakahi State Historical Park near Hawi on Hawaii’s Kohala Coast.Photo: George Rose, Getty Images
 
@@ -79,7 +79,7 @@ But residents and savvy travelers know the spirit of Old Hawaii is still out the
 
 ## Indigenous Comic Con is Coming to Albuquerque
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777398111-009IDJ9LV4K3WYDED133/image-asset.png)
+![](images/1ef902ad-image-asset.png)
 
 A young fan poses at the 2016 Indigenous Comic Con in Albuquerque, New Mexico. Screenshot from YouTube video by City Alive.
 

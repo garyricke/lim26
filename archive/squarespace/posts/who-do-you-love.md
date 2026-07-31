@@ -5,7 +5,7 @@ date: 2019-02-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/who-do-you-love
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b66d5c155d7631592764/1748628700852/Who+do+you+love_+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775214989-IVDLIBYE96WLP9SHZGWW/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/a52fc477-Who_do_you_love___1_.png", "images/dab435a1-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # who do you love?
 
@@ -13,7 +13,7 @@ Feb 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775214989-IVDLIBYE96WLP9SHZGWW/image-asset.png)
+![](images/dab435a1-image-asset.png)
 
 February is well known to be the month for expressing love. More specifically, February 14th is the day you share the feelings of your heart with those you love.
 
@@ -72,7 +72,7 @@ Executive Director, Lutheran Indian Ministries
 
 **Your gift today affirms that Jesus was born for all, including our Native American brothers and sisters.  Thank you!**
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

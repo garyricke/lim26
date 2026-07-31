@@ -5,7 +5,7 @@ date: 2016-11-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/be-the-light-to-the-lost
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4b4b65d424aeb56e9f4/1748628700852/We+all+feel+lost+sometimes.+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778870142-Q1DV305533GMTMVMX06G/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778871844-7G4G53X8MIGJ1AQ8WVAV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778874720-JON867BWX8EAW3NF71R1/image-asset.jpeg"]
+images: ["images/306201f2-We_all_feel_lost_sometimes.__1_.png", "images/e8383363-image-asset.png", "images/e289ad76-image-asset.jpeg", "images/9f450e17-image-asset.jpeg"]
 ---
 # Be the Light to the Lost
 
@@ -13,7 +13,7 @@ Nov 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778870142-Q1DV305533GMTMVMX06G/image-asset.png)
+![](images/e8383363-image-asset.png)
 
 Have you ever been lost?
 
@@ -41,7 +41,7 @@ His relationship with Lutheran Indian Ministries had exposed him to the power of
 
 Rick is an amazing man of God, who is currently a student of the LCMS-EIIT program, training to become an LCMS ordained pastor. He also has a unique set of skills and specialized training to help Native people to understand their abusive past, face their addictions, and put them on a path to healing and restoration.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778871844-7G4G53X8MIGJ1AQ8WVAV/image-asset.jpeg)
+![](images/e289ad76-image-asset.jpeg)
 
 Because this situation required both pastoral training and experience as a counselor, it was abundantly clear that Rick was what our dear brother and his family needed. Without blinking an eye, Rick dropped everything and traveled a great distance to pray, console, and counsel his Native brother. **He was there to make certain our friend had what he needed to begin the road out of the darkness and toward the light, to shepherd him from the land of the lost to a place where he could be found.**
 
@@ -55,7 +55,7 @@ The battle is not over. Recovery from abuse is a long road. But by the grace of 
 
 ### Many Native Americans are lost.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778874720-JON867BWX8EAW3NF71R1/image-asset.jpeg)
+![](images/9f450e17-image-asset.jpeg)
 
 They are lost in addiction to alcohol and drugs. They are lost to physical and sexual abuse. They are being lost to suicide. And, they are spiritually lost.
 

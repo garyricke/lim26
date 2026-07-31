@@ -5,7 +5,7 @@ date: 2017-03-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-friday-march-31
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c15864d4ff56121bf9aa/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778009535-FNVB4ENBUURJYLUKDY6M/image-asset.png"]
+images: ["images/836cce3e-2017_lent_cover.jpg", "images/50a2154f-image-asset.png"]
 ---
 # Read & Reflect: Friday, March 31
 
@@ -13,7 +13,7 @@ Mar 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778009535-FNVB4ENBUURJYLUKDY6M/image-asset.png)
+![](images/50a2154f-image-asset.png)
 
 ## Read: [1 Peter 3:18-22](https://www.bible.com/bible/111/1pe.3.18-22)
 

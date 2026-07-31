@@ -5,7 +5,7 @@ date: 2018-03-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/jesus-our-sacrifice-lent-tuesday-march-13
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbf275bd3d30f0f4e43d/1748628700852/heb-7-22-web-watermarked.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776627784-WOQ3KFOI6X0MYFML29MB/image-asset.png"]
+images: ["images/11c2d417-heb-7-22-web-watermarked.jpg", "images/2354c3ec-image-asset.png"]
 ---
 # Jesus, Our Sacrifice (Lent) - Tuesday, March 13
 
@@ -13,7 +13,7 @@ Mar 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776627784-WOQ3KFOI6X0MYFML29MB/image-asset.png)
+![](images/2354c3ec-image-asset.png)
 
 ### "He sacrificed for their sins once for all when he offered himself." [Hebrews 7:27b (NIV)](https://www.bible.com/bible/111/HEB.7.27)
 

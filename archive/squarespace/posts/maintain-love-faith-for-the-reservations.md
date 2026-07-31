@@ -5,7 +5,7 @@ date: 2017-07-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/maintain-love-faith-for-the-reservations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfcb8eead250d7bc22d1/1748628700852/tumblr_nchgdsbPbM1qg1umyo1_500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777611703-X4231SXD26HVT6CB0D5Q/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777613130-C5Q0XJ2P1BJ0XTZJF4FA/image-asset.png"]
+images: ["images/448a13df-tumblr_nchgdsbPbM1qg1umyo1_500.jpg", "images/e364d6ee-image-asset.jpeg", "images/1acab8c7-image-asset.png"]
 ---
 # Maintain Love: Faith for the Reservations, Devo 5 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jul 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777611703-X4231SXD26HVT6CB0D5Q/image-asset.jpeg)
+![](images/e364d6ee-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -49,7 +49,7 @@ But if you feel the call to stay, Pray and Love.
 
 When the Israelites found themselves deported to Babylon, they were unsure how to act in this new land with their enemies. But God used the Jeremiah to explain that He wanted them to make the most of their time in the foreign land.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777613130-C5Q0XJ2P1BJ0XTZJF4FA/image-asset.png)
+![](images/1acab8c7-image-asset.png)
 
 God called His people to "build houses and settle down. Plant gardens and eat what you grow in them." (Jeremiah 29:5) God wanted His people to "work for the good of the cities I have put you in... Pray to me on their behalf, because if they are prosperous, you will be prosperous too." (Jeremiah 29:7)
 

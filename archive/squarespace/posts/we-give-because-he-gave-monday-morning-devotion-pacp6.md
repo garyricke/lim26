@@ -5,7 +5,7 @@ date: 2020-11-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/we-give-because-he-gave-monday-morning-devotion-pacp6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af52a8416125af4e4259/1748628700852/In+every+way+I+showed+you+that+by+working+hard+like+this+we+can+help+those+who+are+weak.+We+must+remember+what+the+Lord+Jesus+said%2C+-We+are+more+happy+when+we+give+than+when+we+receive.-Acts+20-35+NLT2.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773396079-2MU7GDV2D1LZGGE4EUF6/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773399999-D0LDJ9USVKKPWM1LIKWX/image-asset.png"]
+images: ["images/028a3bf0-In_every_way_I_showed_you_that_by_working_hard_like_this_we_can_help_those_who_are_weak._We_must_remember_what_the_Lord_", "images/99f319d9-image-asset.png", "images/bd1fbb6e-image-asset.png"]
 ---
 # We give because He gave - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Nov 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773396079-2MU7GDV2D1LZGGE4EUF6/image-asset.png)
+![](images/99f319d9-image-asset.png)
 
 It's that time of year again, when visions of sugarplums begin to dance in our heads. And with Christmas and the celebration of the greatest gift God has ever given us, we begin to plan for the gifts we will give and the donations we will make during the upcoming Advent season.
 
@@ -35,7 +35,7 @@ God's excitement spilled over onto those shepherds in the field outside of Bethl
 
 If we are, now, to be Christ's hands and feet on earth, generosity, and the joy that comes with it, should be part of everything we do, not just on December 25th, but every day. And we do this not to get anything in return, but because it was God has called us to do.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773399999-D0LDJ9USVKKPWM1LIKWX/image-asset.png)
+![](images/bd1fbb6e-image-asset.png)
 
 We give because He gave.
 

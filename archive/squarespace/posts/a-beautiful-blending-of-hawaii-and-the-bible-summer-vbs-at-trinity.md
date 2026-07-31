@@ -5,7 +5,7 @@ date: 2016-04-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/a-beautiful-blending-of-hawaii-and-the-bible-summer-vbs-at-trinity
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ced1a6bb7771834d3619/1748628700852/Clarence-NativeHawaiian.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781460990-JIQ7VXM7ICZS1IP76BE4/image-asset.jpeg"]
+images: ["images/dc6cf22f-Clarence-NativeHawaiian.jpg", "images/479cdb30-image-asset.jpeg"]
 ---
 # A Beautiful Blending of Hawaii and the Bible: Summer VBS at Trinity
 
@@ -31,7 +31,7 @@ This year, Trinity’s Vacation Bible School, the first after many years without
 
 The Hawaiian culture, like most native cultures, is deeply based in oral history and storytelling. Children grow up learning the stories of their ancestors: young Kamehameha and the Naha stone, the greedy king Hala’ea, and the god, Kane, who created the first man by forming him from red dirt.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781460990-JIQ7VXM7ICZS1IP76BE4/image-asset.jpeg)
+![](images/479cdb30-image-asset.jpeg)
 
 “My people have a beautiful creation story,” Clarence explains. “But the best part is how similar our stories are to those we find in the Bible, and it’s those stories that we need to bring to life for our children.” Whether it will be learning about creation in a place where God’s beauty abounds or comparing Jesus’ fishermen to Hawaiian fishing, Clarence hopes to really blend what Hawaiian children already know with biblical stories and lessons.
 

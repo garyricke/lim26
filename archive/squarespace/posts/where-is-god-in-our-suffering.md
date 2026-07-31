@@ -5,7 +5,7 @@ date: 2015-04-07
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/minnesotaleech-lake-reservation/where-is-god-in-our-suffering
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd075c72011c6fd9f546/1665785100018/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785096583-QEDREF8R1PJI3I4M5UL2/image-asset.png"]
+images: ["images/8bdb7262-1665785100018", "images/3035fda1-image-asset.png"]
 ---
 # Where Is God In Our Suffering?
 
@@ -18,7 +18,7 @@ Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 During my 20 years as a missionary to Native people, God has blessed me to be able to baptize two dozen Native people who have confessed their faith in our Lord Jesus Christ. But the Native community tends to be a very mobile group, and some have moved away from this area and now live in places like Duluth, Park Rapids, Moorhead, or even Canada. One man has died and gone to be with the Lord. And a few have returned to drug and alcohol abuse.
 **I’ve been interested to discover how those who have moved away still find opportunities to stay connected with me even though there are miles between us.**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785096583-QEDREF8R1PJI3I4M5UL2/image-asset.png)
+![](images/3035fda1-image-asset.png)
 
 *Photo by JFXie [via Flickr](https://www.flickr.com/photos/jfxie/6448173183)*
 

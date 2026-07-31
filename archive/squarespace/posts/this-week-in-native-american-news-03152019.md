@@ -5,7 +5,7 @@ date: 2019-03-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-03152019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b60e99aed3385f6df2e8/1748628700852/https___images.saymedia-content.com_.image_t_share_MTYyNjE4MDE2NDQwMjY0NTQ2_Pete+Kaiser+by+Chuck+Ashley+4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775119974-L75XKEII7OI103L69CD3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775121137-J8UXTPNBWO76RNK8I5YE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775122077-5R4I9AW40UEE637QYYGG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775123430-NVBUTDKF43GASLFQ5HSC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775125704-J8SMMN1CL1037S34EK0A/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775127137-6THJX25KVUV3U7LG5KUY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775128707-ORB9PJY72SXDHZGFRYTM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775130233-L8P3VUM1PM86DR9AI0KL/image-asset.jpeg"]
+images: ["images/a3eb7108-https___images.saymedia-content.com_.image_t_share_MTYyNjE4MDE2NDQwMjY0NTQ2_Pete_Kaiser_by_Chuck_Ashley_4.jpg", "images/6061ee3b-image-asset.jpeg", "images/d4642870-image-asset.jpeg", "images/a73fad8e-image-asset.jpeg", "images/575e6bd7-image-asset.jpeg", "images/30b55539-image-asset.jpeg", "images/c1052af5-image-asset.jpeg", "images/350e5ef3-image-asset.jpeg", "images/436fdd14-image-asset.jpeg"]
 ---
 # This Week in Native American News (3/15/19): Winning Races, Supporting Teens, and Controlling Anger
 
@@ -13,7 +13,7 @@ Mar 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775119974-L75XKEII7OI103L69CD3/image-asset.jpeg)
+![](images/6061ee3b-image-asset.jpeg)
 
 # March 15, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Yup’ik musher wins Iditarod!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775121137-J8UXTPNBWO76RNK8I5YE/image-asset.jpeg)
+![](images/d4642870-image-asset.jpeg)
 
 *Pete Kaiser became the first Yup’ik musher March 13 to win the Iditarod, North America’s premier long-distance sled dog race.* Photo: Silver Wolf Photography
 
@@ -35,7 +35,7 @@ People from Kaiser’s hometown of Bethel drummed and danced and the crowd cheer
 
 ## The Turtle Mountain Youth Council is Helping Chippewa Teens Find Their Voices
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775122077-5R4I9AW40UEE637QYYGG/image-asset.jpeg)
+![](images/a73fad8e-image-asset.jpeg)
 
 Courtesy of PBS NewsHour Student Reporting Labs
 
@@ -51,7 +51,7 @@ The Turtle Mountain Youth Council was established 14 years ago to mobilize resou
 
 ## Increasing Exposure for Native Artists
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775123430-NVBUTDKF43GASLFQ5HSC/image-asset.jpeg)
+![](images/575e6bd7-image-asset.jpeg)
 
 “iilaalée = car (goes by itself) + ii = by means of which + dáanniili = we parade” by Wendy Red Star (2015).CreditCreditWendy Red Star/Crow's Shadow
 
@@ -67,7 +67,7 @@ For more than 25 years, some of the biggest indigenous names in contemporary art
 
 ## How Inuit Parents Teach Kids To Control Their Anger
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775125704-J8SMMN1CL1037S34EK0A/image-asset.jpeg)
+![](images/30b55539-image-asset.jpeg)
 
 At age 34, Jean Briggs traveled above the Arctic Circle and lived out on the tundra for 17 months. There were no roads, no heating systems, no grocery stores. Winter temperatures could easily dip below minus 40 degrees Fahrenheit.
 
@@ -81,7 +81,7 @@ Briggs quickly realized something remarkable was going on in these families: The
 
 ## Seasonal complaint: 'Missionaries are on our reservation!'
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775127137-6THJX25KVUV3U7LG5KUY/image-asset.jpeg)
+![](images/c1052af5-image-asset.jpeg)
 
 Davidica Little Spotted Horse has handed out flyers on the Pine Ridge reservation since 2014. It's a seasonal thing. The weather is warmer and there's another influx of Christian missionaries and charity groups.
 
@@ -93,7 +93,7 @@ The flyer warns tribal citizens about their rights to access information about c
 
 ## Today’s History Lesson
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775128707-ORB9PJY72SXDHZGFRYTM/image-asset.jpeg)
+![](images/350e5ef3-image-asset.jpeg)
 
 ### [A race against time to document Native American shelters](https://durangoherald.com/articles/267717)
 
@@ -101,7 +101,7 @@ For years, archaeologists have been documenting hundreds of wooden shelters left
 
 Now, archaeologists are turning their attention to the largely undocumented southwestern region of the state before it’s too late.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775130233-L8P3VUM1PM86DR9AI0KL/image-asset.jpeg)
+![](images/436fdd14-image-asset.jpeg)
 
 ### [Technology revitalizes Native American boarding school exhibit at Heard Museum](https://newsmaven.io/indiancountrytoday/news/technology-revitalizes-native-american-boarding-school-exhibit-at-heard-museum-EpmqXe5PCEOYE2ntRgvTMw/)
 

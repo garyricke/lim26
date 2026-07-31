@@ -5,7 +5,7 @@ date: 2018-01-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-010518
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd5b0bda9b53014ba9d3/1748628700852/images.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776988705-G7G8YPHC8IJZ796G2NIT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776992294-GMWX7793AZBGEHYPGWIS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776995645-8UCJY1F9T99UEMPGUW2W/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776998642-9RUFFGBS8LVLJQKO9B7J/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777005668-V48GZ6WM0TBOP4CNQQMC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777008117-UVU06ZJ6OOO5NWKHQPVB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777013940-WU0ABAFJFN2A9FB83Q7P/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777017873-JONNPYYIWYQ3XLU5DK2Q/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777019141-KA4G7M6T1BOGQDXIBW7A/image-asset.jpeg"]
+images: ["images/47faf6c2-images.png", "images/9277de50-image-asset.jpeg", "images/1059d0ce-image-asset.jpeg", "images/4316d499-image-asset.png", "images/f0bdfc6c-image-asset.jpeg", "images/f4296dff-image-asset.jpeg", "images/0df5bfb3-image-asset.jpeg", "images/93fe2b53-image-asset.jpeg", "images/16db8100-image-asset.jpeg", "images/bb84f822-image-asset.jpeg"]
 ---
 # This Week in Native American News (1/5/18): community changers, ecological activists, and ice age babies
 
@@ -13,7 +13,7 @@ Jan 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776988705-G7G8YPHC8IJZ796G2NIT/image-asset.jpeg)
+![](images/9277de50-image-asset.jpeg)
 
 # January 5, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great people doing great things: How these three men are changing their communities
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776992294-GMWX7793AZBGEHYPGWIS/image-asset.jpeg)
+![](images/1059d0ce-image-asset.jpeg)
 
 Left to right: Greg Sarris, Roy Boney and Jason Baldes
 
@@ -33,7 +33,7 @@ Many Native Americans, especially those living on reservations, struggle with po
 
 ## Rift Growing Between Ecological Activists and Tribes
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776995645-8UCJY1F9T99UEMPGUW2W/image-asset.png)
+![](images/4316d499-image-asset.png)
 
 Chief Martin Louis, hereditary chief of the Nadleh Whut’en First Nation in north-central British Columbia
 
@@ -53,7 +53,7 @@ Louie’s experience is indicative of a widening rift between Indigenous communi
 
 ## This is Resilience: Ten Photos from Indian Country
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776998642-9RUFFGBS8LVLJQKO9B7J/image-asset.jpeg)
+![](images/f0bdfc6c-image-asset.jpeg)
 
 Lakota girls from Pine Ridge play basketball at the first private girls school on the reservation, called Anpo Wicahpi ("Morning Star"). The college preparatory school incorporates Lakota spirituality and culture in its curriculum and restores the traditional belief that Lakota women had "the final say" in community decisions. Anpo is modeled on the Archer School for Girls in Los Angeles. School leaders cite UNESCO United Nations Educational Scientific and Cultural Organization [data](http://www.unesco.org/new/en/unesco/events/prizes-and-celebrations/celebrations/international-days/international-womens-day-2014/women-ed-facts-and-figure/) showing that educated girls help counteract community problems such as poverty, health issues and unemployment. (Photo: Mary Annette Pember)
 
@@ -71,7 +71,7 @@ In 2017, I was gifted with a glimpse of the people behind the damning data. Thei
 
 ## The Essential Guide to Taro (and It's significance in Native Hawaiian Culture)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777005668-V48GZ6WM0TBOP4CNQQMC/image-asset.jpeg)
+![](images/f4296dff-image-asset.jpeg)
 
 KA PAPA LO‘I ‘O KĀNEWAI IN MĀNOA PRESERVES THE CULTURE AND HISTORY SURROUNDING KALO. PHOTO: ELYSE BUTLER MALLAMS
 
@@ -89,25 +89,25 @@ The ancestral ties to kalo resonate with him every day. “Even for me, the way 
 
 ## You might also enjoy...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777008117-UVU06ZJ6OOO5NWKHQPVB/image-asset.jpeg)
+![](images/0df5bfb3-image-asset.jpeg)
 
 ### DNA FROM ICE AGE BABY BACKS THEORIES
 
 DNA analysis of a six-week-old baby girl, buried some 11,500 years ago in what is now Alaska, has identified her as a member of a previously unknown Native American population. The discovery strongly supports the theory that the Americas were settled by people from Siberia, and presents scientists with the genetic key to better understanding how ancient humans migrated to North America from Asia.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777013940-WU0ABAFJFN2A9FB83Q7P/image-asset.jpeg)
+![](images/93fe2b53-image-asset.jpeg)
 
 ### [Telling Stories and Changing Lives](http://www.cbc.ca/radio/ideas/first-nations-in-the-first-person-telling-stories-changing-lives-1.4472956)
 
 Canada's 150th anniversary in 2017 highlighted its evolving relationship with Indigenous people. Too often in that history, voices other than those from First Nations did the talking for them. That's why in this episode we're featuring the stories of three Indigenous people told in their own words, people whose lives embody this changing relationship and the multitude of new realities they face. The episode has no interviewer.  It's just them and their stories.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777017873-JONNPYYIWYQ3XLU5DK2Q/image-asset.jpeg)
+![](images/16db8100-image-asset.jpeg)
 
 ### [Learn more about Native American Current Issues](https://goodmenproject.com/featured-content/native-american-studies-sovereign-stories-phtz/)
 
 On January 1, 2018, a new YouTube educational channel called [Sovereign Stories](https://www.youtube.com/channel/UCHjcCIAK0Gyds-7ETimTfkg) launched its first short animation. The channel will operate under the umbrella of the [National Peace Academy,](https://nationalpeaceacademy.us/) an organization dedicated to peace building, diversity, and inclusion. Sovereign Stories will post multiple videos per week throughout the course of the year, slowly guiding followers through Native American history, policy and laws, stereotypes and misconceptions, contemporary issues, historic and prominent figures, and more.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777019141-KA4G7M6T1BOGQDXIBW7A/image-asset.jpeg)
+![](images/bb84f822-image-asset.jpeg)
 
 ### Add "There, There" and "The Color of Christ" to your Reading Lists
 

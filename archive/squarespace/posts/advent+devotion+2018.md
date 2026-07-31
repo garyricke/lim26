@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/advent+devotion+2018
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775323420-JFF4YG04RRGFOFY48L6M/ScriptureType-Hebrews11-1-tablet.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775324722-772NYKRQOJ2P3V35OL4K/Jn14.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775328503-OKV00OOV1RNT71Y34QVF/Galatians-4-4-5.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775332031-7R3K2CFX6AJZFXZ9ZFML/12242017social_2000x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775335913-4TF0GX6Y0E45Z0JI3EIR/Mt2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775341471-OKCNOVNK6M3E3FJ1QQLG/December-Typography-11.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775344601-F9Q3ZTOTMZOVKTS2J8EY/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775348710-WMNF36E05KNOKH5S4D4H/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775351821-6P59W4LSQRETV87FFGIX/Is9+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775356265-B8F6XHGSUA8JLGRYCFIX/Is9.jpg"]
+images: ["images/7e690d19-ScriptureType-Hebrews11-1-tablet.jpg", "images/4c757c66-Jn14.jpg", "images/c90dd277-Galatians-4-4-5.jpg", "images/3a65c592-12242017social_2000x.jpg", "images/1508d0c7-Mt2.jpg", "images/2a36a6a9-December-Typography-11.jpg", "images/054f01d8-1280x1280__1_.jpg", "images/e1bdb703-1280x1280.jpg", "images/dab813ac-Is9__1_.jpg", "images/77afbe75-Is9.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Living in Faith (Advent Devotion) - Tuesday, January 1 - Happy New Year!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775323420-JFF4YG04RRGFOFY48L6M/ScriptureType-Hebrews11-1-tablet.jpg)](/news-notes/living-in-faith-advent-devotion-tuesday-january-1-happy-new-year)
+[![Living in Faith (Advent Devotion) - Tuesday, January 1 - Happy New Year!](images/7e690d19-ScriptureType-Hebrews11-1-tablet.jpg)](/news-notes/living-in-faith-advent-devotion-tuesday-january-1-happy-new-year)
 
 Guest User
 1/1/19
@@ -73,7 +73,7 @@ Guest User
 
 [Read More](/news-notes/living-in-faith-advent-devotion-tuesday-january-1-happy-new-year)
 
-[![Longing for Home (Advent Devotion) - Monday, December 31](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775324722-772NYKRQOJ2P3V35OL4K/Jn14.jpg)](/news-notes/longing-for-home-advent-devotion-monday-december-31)
+[![Longing for Home (Advent Devotion) - Monday, December 31](images/4c757c66-Jn14.jpg)](/news-notes/longing-for-home-advent-devotion-monday-december-31)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -91,7 +91,7 @@ Jesus also left His home. But He chose to do that because He longed for everyone
 
 [Read More](/news-notes/longing-for-home-advent-devotion-monday-december-31)
 
-[![In The Fullness of Time (Advent Devotion) - Sunday, December 30](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775328503-OKV00OOV1RNT71Y34QVF/Galatians-4-4-5.jpg)](/news-notes/the-fullness-of-time-advent-devotion-sunday-december-30)
+[![In The Fullness of Time (Advent Devotion) - Sunday, December 30](images/c90dd277-Galatians-4-4-5.jpg)](/news-notes/the-fullness-of-time-advent-devotion-sunday-december-30)
 
 Guest User
 12/30/18
@@ -107,7 +107,7 @@ We can, through faith in Christ, enjoy His completed work on the cross looking f
 
 [Read More](/news-notes/the-fullness-of-time-advent-devotion-sunday-december-30)
 
-[![Worship Like a Wise Man (or Woman) (Advent Devotion) - Saturday, December 29](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775332031-7R3K2CFX6AJZFXZ9ZFML/12242017social_2000x.jpg)](/news-notes/worship-like-a-wise-man-or-woman-advent-devotion-saturday-december-29)
+[![Worship Like a Wise Man (or Woman) (Advent Devotion) - Saturday, December 29](images/3a65c592-12242017social_2000x.jpg)](/news-notes/worship-like-a-wise-man-or-woman-advent-devotion-saturday-december-29)
 
 Guest User
 12/29/18
@@ -121,7 +121,7 @@ How did the Wise Men worship Jesus? Bow down and give gifts. A quick visit, in 
 
 [Read More](/news-notes/worship-like-a-wise-man-or-woman-advent-devotion-saturday-december-29)
 
-[![Light in the Sky (Advent Devotion) - Friday, December 28](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775335913-4TF0GX6Y0E45Z0JI3EIR/Mt2.jpg)](/news-notes/light-in-the-sky-advent-devotion-friday-december-28)
+[![Light in the Sky (Advent Devotion) - Friday, December 28](images/1508d0c7-Mt2.jpg)](/news-notes/light-in-the-sky-advent-devotion-friday-december-28)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -139,7 +139,7 @@ He is the All-Powerful Warrior Jesus. He is the light in the sky that we follow 
 
 [Read More](/news-notes/light-in-the-sky-advent-devotion-friday-december-28)
 
-[![Kissed by a Prince (Advent Devotion) - Thursday, December 27](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775341471-OKCNOVNK6M3E3FJ1QQLG/December-Typography-11.jpg)](/news-notes/kissed-by-a-prince-advent-devotion-thursday-december-27)
+[![Kissed by a Prince (Advent Devotion) - Thursday, December 27](images/2a36a6a9-December-Typography-11.jpg)](/news-notes/kissed-by-a-prince-advent-devotion-thursday-december-27)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -155,7 +155,7 @@ Guest User
 
 [Read More](/news-notes/kissed-by-a-prince-advent-devotion-thursday-december-27)
 
-[![Life Within (Advent Devotion) - Wednesday, December 26](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775344601-F9Q3ZTOTMZOVKTS2J8EY/1280x1280+%281%29.jpg)](/news-notes/life-within-advent-devotion-wednesday-december-26)
+[![Life Within (Advent Devotion) - Wednesday, December 26](images/054f01d8-1280x1280__1_.jpg)](/news-notes/life-within-advent-devotion-wednesday-december-26)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -171,7 +171,7 @@ Guest User
 
 [Read More](/news-notes/life-within-advent-devotion-wednesday-december-26)
 
-[![For You, A Savior is Born (Advent Devotion) - Tuesday, December 25](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775348710-WMNF36E05KNOKH5S4D4H/1280x1280.jpg)](/news-notes/for-you-a-savior-is-born-advent-devotion-tuesday-december-25)
+[![For You, A Savior is Born (Advent Devotion) - Tuesday, December 25](images/e1bdb703-1280x1280.jpg)](/news-notes/for-you-a-savior-is-born-advent-devotion-tuesday-december-25)
 
 Guest User
 12/25/18
@@ -185,7 +185,7 @@ Guest User
 
 [Read More](/news-notes/for-you-a-savior-is-born-advent-devotion-tuesday-december-25)
 
-[![The Pony (Advent Devotion) - Monday, December 24](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775351821-6P59W4LSQRETV87FFGIX/Is9+%281%29.jpg)](/news-notes/the-pony-advent-devotion-monday-december-24)
+[![The Pony (Advent Devotion) - Monday, December 24](images/dab813ac-Is9__1_.jpg)](/news-notes/the-pony-advent-devotion-monday-december-24)
 
 Guest User
 12/24/18
@@ -199,7 +199,7 @@ Guest User
 
 [Read More](/news-notes/the-pony-advent-devotion-monday-december-24)
 
-[![Hope in the Darkness (Advent Devotion) - Sunday, December 23](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775356265-B8F6XHGSUA8JLGRYCFIX/Is9.jpg)](/news-notes/hope-in-the-darkness-advent-devotion-sunday-december-23)
+[![Hope in the Darkness (Advent Devotion) - Sunday, December 23](images/77afbe75-Is9.jpg)](/news-notes/hope-in-the-darkness-advent-devotion-sunday-december-23)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User

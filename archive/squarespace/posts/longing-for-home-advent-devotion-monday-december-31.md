@@ -5,7 +5,7 @@ date: 2018-12-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/longing-for-home-advent-devotion-monday-december-31
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6d80bda9b53014a84d1/1748628700852/Jn14.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775322784-RZUXSMP96Z97W0Z3FC2S/image-asset.png"]
+images: ["images/aa374460-Jn14.jpg", "images/e56eb71e-image-asset.png"]
 ---
 # Longing for Home (Advent Devotion) - Monday, December 31
 
@@ -15,7 +15,7 @@ Dec 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775322784-RZUXSMP96Z97W0Z3FC2S/image-asset.png)
+![](images/e56eb71e-image-asset.png)
 
 ## Let not your hearts be troubled. Believe in God; believe also in Me. In My Father’s house are many rooms. If it were not so, would I have told you that I go to prepare a place for you?  And if I go and prepare a place for you, I will come again and will take you to Myself, that where I am you may be also. (John 14:1-3 ESV)
 

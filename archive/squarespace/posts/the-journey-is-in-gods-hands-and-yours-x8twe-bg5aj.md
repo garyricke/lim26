@@ -5,7 +5,7 @@ date: 2017-12-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-journey-is-in-gods-hands-and-yours-x8twe-bg5aj
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be3675bd3d30f0f55275/1748628700852/Jesus+completed+his+mission%2C+and+now+we+are+called+to+continue+in+his+footsteps+with+the+work+He+has+set+before+us..png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777208094-M33MWHCVEU0R1RUUQ94O/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/2d4429b9-Jesus_completed_his_mission__and_now_we_are_called_to_continue_in_his_footsteps_with_the_work_He_has_set_before_us..png", "images/688ce1a8-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Mission Incomplete
 
@@ -15,7 +15,7 @@ Dec 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777208094-M33MWHCVEU0R1RUUQ94O/image-asset.png)
+![](images/688ce1a8-image-asset.png)
 
 ## "Those who say they live in God should live their lives as Jesus did.” 1 John 2:6 (NLT)
 
@@ -79,7 +79,7 @@ The villagers enjoy the stories, gifts, and fellowship we provide, but many vill
 
 ### **Please consider a year-end gift today and your gift will be doubled thanks to a generous matching gift from our board of directors!**
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

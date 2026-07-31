@@ -5,7 +5,7 @@ date: 2016-10-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/refreshed-recharged-for-christ-a-womens-retreat-in-neah-bay
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c53e39aa220f9165f293/1748628700852/Proverbs-11-25-NIV.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779008187-U55FWYROAD9GVTQLYSCD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779009925-AC8L09THSA4JO477P3BN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779014200-7BJ3Z5422RBNLJ9MEMYC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779016006-7LZL3WH2IVUJDG45VPI2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779016840-GFMNZDJX67WWUIAL4130/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779018083-E3C75AU2C7GO5UU7CZNE/image-asset.jpeg"]
+images: ["images/b6fe72ea-Proverbs-11-25-NIV.jpg", "images/fb1c66df-image-asset.jpeg", "images/b0a5f88e-image-asset.jpeg", "images/23a49e99-image-asset.jpeg", "images/5e3d8984-image-asset.jpeg", "images/44a38c21-image-asset.jpeg", "images/36363425-image-asset.jpeg"]
 ---
 # Refreshed & Recharged for Christ: a women's retreat in Neah Bay
 
@@ -19,7 +19,7 @@ It’s a beautiful day – Thank you, Lord!
 
 We are leaving Port Angeles and heading for the Inn at Neah Bay just ten minutes west of Makah Lutheran Church.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779008187-U55FWYROAD9GVTQLYSCD/image-asset.jpeg)
+![](images/fb1c66df-image-asset.jpeg)
 
 Road through Olympic National Park
 
@@ -29,7 +29,7 @@ So many windy roads! I have to make sure not to drive too fast or my passengers 
 
 Between our two cars, there are 10 of us women, nine Makah women and myself. We’ve come together for this weekend to be refreshed and recharged by digging into the Word of God. For most of the women, this is their first retreat experience, and, as a group, they don’t yet understand how it will differ from a big pajama party, or simply a time to hang out with the girls, but our anticipation is high as we pull into the driveway of the Inn.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779009925-AC8L09THSA4JO477P3BN/image-asset.jpeg)
+![](images/b0a5f88e-image-asset.jpeg)
 
 The Inn at Neah Bay, hosted by Dora and Tom
 
@@ -43,7 +43,7 @@ Once we’ve all arrived and settled, we come together as a group for the first 
 
 Needless to say, we need to start our retreat with prayer – asking for God’s peace in our hearts and our lives, and over a hearty, home-cooked meal.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779014200-7BJ3Z5422RBNLJ9MEMYC/image-asset.jpeg)
+![](images/23a49e99-image-asset.jpeg)
 
 Praying together.
 
@@ -53,7 +53,7 @@ It’s been a long day. So, after a brief introduction to the book, we all retir
 
 Saturday morning begins with another delicious meal, made lovingly by Dora, and a devotion from “Jesus Lives,” by Sarah Young, before we jump full force in to “Abiding with Christ” for the remainder of the morning.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779016006-7LZL3WH2IVUJDG45VPI2/image-asset.jpeg)
+![](images/5e3d8984-image-asset.jpeg)
 
 Most of the women with us this weekend have lived hard lives. They struggle with alcoholic sons, distant grandchildren, and aging parents, much like their neighbors. Unemployment hovers around 51% on the reservation, dipping only slightly in the summer during tourist season, and about the same percentage fall below the poverty line. Life on the Makah reservation, just like on reservations across the country, is tough.
 
@@ -71,7 +71,7 @@ To abide in Christ is to rest in Him, relying on Him and needing only Him. This 
 
 We enjoy some free time after lunch. Some women rest and take the time to be alone, no doubt needed for their tired and processing brains, while the rest of us walk across the street to the beach. It is such a perfect, sunny day for walking and fellowship, and our study overflows into our free time. I’m always amazed how women can come together and share their burdens when given the time to step away from daily stress.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779016840-GFMNZDJX67WWUIAL4130/image-asset.jpeg)
+![](images/44a38c21-image-asset.jpeg)
 
 Beach at the Inn at Neah Bay
 
@@ -93,7 +93,7 @@ They left excited and revitalized. They no longer think of a women’s retreat a
 
 ***And for the special donor who sponsored this event, I say, “A generous [woman] will prosper; [she] who refreshes others will [herself] be refreshed.” Proverbs 11:25***
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779018083-E3C75AU2C7GO5UU7CZNE/image-asset.jpeg)
+![](images/36363425-image-asset.jpeg)
 
 (The following Sunday, we joyfully hand out a copy of the book, as well as “Jesus Lives,” the author of which, Sarah Young, wrote from of her own abiding in Christ, which she, of course, had learned from Andrew Murray. The women were also given a journal with which to record their prayers and/or their walk with Christ. Finally, they were introduced to the concept of “Secret Sisters,” wherein you draw a name out of a bag and periodically drop your Secret Sister a note or small gift to encourage them in their faith walk. We'll start this at our retreat in October! I can’t wait to see what comes out of these new sisters!)
 

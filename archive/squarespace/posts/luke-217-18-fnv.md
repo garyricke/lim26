@@ -5,7 +5,7 @@ date: 2016-09-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/luke-217-18-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c58f60d4ef62defb1748/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779089458-E6Z72WS21E2VNBUG58UQ/image-asset.png"]
+images: ["images/0163a32b-1748628700852", "images/a4b0d776-image-asset.png"]
 ---
 # Luke 2:17-18 FNV
 
@@ -13,7 +13,7 @@ Sep 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779089458-E6Z72WS21E2VNBUG58UQ/image-asset.png)
+![](images/a4b0d776-image-asset.png)
 
 Having seen the child themselves, they had now evidence that would satisfy others; and accordingly they became the first preachers of the "gospel," and went and proclaimed to others that the Messiah had come.
 

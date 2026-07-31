@@ -5,7 +5,7 @@ date: 2016-10-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/it-only-takes-one-a-teen-camp-recap
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c51143af6e48c31b021d/1748628700852/IMG_2422.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778963809-LAFLFHW45VYV3SEK8BP6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778965348-BL61G8KFKTTHV3XTU2HF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778966668-B968FDJPGN08YGQBKUM9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778967902-UZDECK0SVMXTN00NHXUG/image-asset.jpeg"]
+images: ["images/14f6f41b-IMG_2422.JPG", "images/f57db77c-image-asset.jpeg", "images/6fbe7cc6-image-asset.jpeg", "images/bc0805d6-image-asset.jpeg", "images/66ec70f3-image-asset.jpeg"]
 ---
 # It only takes one: A Teen Camp Recap
 
@@ -25,7 +25,7 @@ There is amazing ministry being done in Alaska. The Word of God is being shared,
 
 ### TEEN CAMP IS NO ORDINARY CAMP
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778963809-LAFLFHW45VYV3SEK8BP6/image-asset.jpeg)
+![](images/f57db77c-image-asset.jpeg)
 
 Jumping off the dock at Camp Bingle at Lutheran Indian Ministries Teen Camp Alaska
 
@@ -39,7 +39,7 @@ In many ways, remote Alaskan Native villages mirror American Indian reservations
 
 ### SING THEIR SONG
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778965348-BL61G8KFKTTHV3XTU2HF/image-asset.jpeg)
+![](images/6fbe7cc6-image-asset.jpeg)
 
 Lake discoveries at Camp Bingle during Lutheran Indian Ministries Teen Camp Alaska
 
@@ -69,7 +69,7 @@ Teens like Clarence and Andrea.
 
 ### JUNIOR COUNSELORS LEAD AND LEARN
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778966668-B968FDJPGN08YGQBKUM9/image-asset.jpeg)
+![](images/bc0805d6-image-asset.jpeg)
 
 Enjoying the sun at Camp Bingle at Lutheran Indian Ministries Teen Camp Alaska
 
@@ -103,7 +103,7 @@ Like Clarence, Andrea wants better for her people and her village, and Dave and 
 
 ### FANNING THE FLAME
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778967902-UZDECK0SVMXTN00NHXUG/image-asset.jpeg)
+![](images/66ec70f3-image-asset.jpeg)
 
 The teens sporting their Thrivent shirts at Camp Bingle at Lutheran Indian Ministries Teen Camp Alaska
 

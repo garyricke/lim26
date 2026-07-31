@@ -5,7 +5,7 @@ date: 2020-03-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/sacred-story-success-at-haskell
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0881770ed03474a72cb/1748628700852/87669279_3173358989360288_1316742505147924480_o.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773706099-AF1VJPA0N69A9S3DN12I/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773708170-TT3O9226L9KBAM48NN4V/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773710217-XC9O0RRCC9AVKACVGOC0/image-asset.jpeg"]
+images: ["images/735cfe60-87669279_3173358989360288_1316742505147924480_o.jpg", "images/5d765fce-image-asset.jpeg", "images/6a53720f-image-asset.jpeg", "images/0798f44b-image-asset.jpeg"]
 ---
 # Sacred Story Success at Haskell
 
@@ -15,7 +15,7 @@ Mar 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773706099-AF1VJPA0N69A9S3DN12I/image-asset.jpeg)
+![](images/5d765fce-image-asset.jpeg)
 
 The weekend of Valentine’s Day saw many hearts open at Haskell LIGHT.
 
@@ -31,7 +31,7 @@ With 37 participants, the Haskell LIGHT House did not have sufficient space to h
 
 Deon, Bob’s wife, explained, “It was a lot of fun to have our own little ‘lodge.’ With the igloos, we still didn’t have enough room, so two groups went across the street to Bill’s new house. Those groups were bummed they didn’t get to meet in the igloos!”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773708170-TT3O9226L9KBAM48NN4V/image-asset.jpeg)
+![](images/6a53720f-image-asset.jpeg)
 
 In the weeks after Sacred Story, Bob, Deon, and full-time volunteer Bill made one-on-one follow-up appointments with many of the students and were looking forward to growing the relationships started over the weekend.
 
@@ -39,7 +39,7 @@ Unfortunately, the campus is now shut down for the rest of the semester. On the 
 
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773710217-XC9O0RRCC9AVKACVGOC0/image-asset.jpeg)
+![](images/0798f44b-image-asset.jpeg)
 
 [Ministry Update](/news-notes/tag/Ministry+Update)
 

@@ -5,7 +5,7 @@ date: 2018-12-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/from-death-to-life-advent-devotion-monday-december-17
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7305b3de4701de0fd80/1748628700852/Is11.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775410112-ZOZD7I8MDA474D5LD4V1/image-asset.png"]
+images: ["images/69ee3a7a-Is11.jpg", "images/bbd86509-image-asset.png"]
 ---
 # From Death to Life (Advent Devotion) - Monday, December 17
 
@@ -15,7 +15,7 @@ Dec 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775410112-ZOZD7I8MDA474D5LD4V1/image-asset.png)
+![](images/bbd86509-image-asset.png)
 
 ## There shall come forth a shoot from the stump of Jesse, and a branch from his roots shall bear fruit. (Isaiah 11:1 NIV)
 

@@ -5,7 +5,7 @@ date: 2017-05-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-to-watc-handgame
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c06fd155a1763e68fade/1748628700852/hqdefault.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777776397-AGZKK7BDQXYM3RNA41Q4/image-asset.jpeg"]
+images: ["images/9c70c7b6-hqdefault.jpg", "images/3a4c8a65-image-asset.jpeg"]
 ---
 # What to Watch: Hand Game
 
@@ -19,7 +19,7 @@ Watch them while they are available!
 
 This week's featured film is: [Hand Game](http://americanarchive.org/catalog/cpb-aacip_508-w66930ps8b)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777776397-AGZKK7BDQXYM3RNA41Q4/image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-w66930ps8b)
+[![](images/3a4c8a65-image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-w66930ps8b)
 
 This documentary explores the mythic and historic roots of contemporary gambling in the Northwest Native Society through a look at the traditional hand game (also called "stick game" or "bone game"). Traveling from reservation to reservation and meeting engaging and colorful players, the filmmakers show how traditional ways of thinking are alive today in Indian country. An inside view of an ancient form of gambling that combines strategy, wit and skill.
 

@@ -5,7 +5,7 @@ date: 2017-04-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/he-is-risen-easter-sunday-april-16
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c10f6a6122712eba0fcf/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777936687-BUUBYNGSF55ALWVPUN9G/image-asset.jpeg"]
+images: ["images/2450f244-2017_lent_cover.jpg", "images/5cf52db5-image-asset.jpeg"]
 ---
 # He is RISEN!: Easter Sunday, April 16
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## “He is not here; he has risen!” Luke 24:6 (NIV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777936687-BUUBYNGSF55ALWVPUN9G/image-asset.jpeg)
+![](images/5cf52db5-image-asset.jpeg)
 
 There was so much fear, anxiety, doubt, and confusion from the people who were present on that first morning of the resurrection of Jesus.
 

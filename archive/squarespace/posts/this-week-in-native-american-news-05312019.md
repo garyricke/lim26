@@ -5,7 +5,7 @@ date: 2019-05-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-05312019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b34af09029341eb0c875/1748628700852/Duct-tape-dancer-Cole-Turcotte.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774412015-7JCQQUBC4EA7NTCPQGV5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774413054-9DPFWPOKLTU3B5V7U23X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774414083-2GJGXRP1WLQWU0MQ6TOO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774415027-PGHRFQHS5YOM0VBQGRMR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774417344-EYFK0QCJIIX6JDXMSMAP/image-asset.jpeg"]
+images: ["images/25d5d3b5-Duct-tape-dancer-Cole-Turcotte.jpg", "images/299fe9ea-image-asset.jpeg", "images/ebb7438a-image-asset.jpeg", "images/2b93a597-image-asset.jpeg", "images/c015af02-image-asset.jpeg", "images/e7663bdc-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/31/19): the Attorney General in Alaska, the Broken Marriages, and the Duct Tape Powwow
 
@@ -13,7 +13,7 @@ May 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774412015-7JCQQUBC4EA7NTCPQGV5/image-asset.jpeg)
+![](images/299fe9ea-image-asset.jpeg)
 
 # May 31, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## ‘Enough is enough’: Attorney General Barr hears from Native leaders about rural justice problems
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774413054-9DPFWPOKLTU3B5V7U23X/image-asset.jpeg)
+![](images/ebb7438a-image-asset.jpeg)
 
 U.S. Attorney General William Barr meets with a group of Native leaders from around the state in Anchorage to discuss rural justice issues. (Photo by Joey Mendolia, Alaska’s Energy Desk – Anchorage)
 
@@ -39,7 +39,7 @@ At a roundtable discussion at the Alaska Native Tribal Health Consortium, Barr h
 
 ## Wendy Grant-John reveals how colonialism shattered relationships between Indigenous men and women
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774414083-2GJGXRP1WLQWU0MQ6TOO/image-asset.jpeg)
+![](images/2b93a597-image-asset.jpeg)
 
 Musqueam councillor and former chief Wendy Grant-John says the Women Deliver 2019 Conference offers a chance to learn about lesser-known impacts of European imperialism.
 
@@ -63,7 +63,7 @@ The councillor and former chief of the Musqueam Indian Band was curious to know
 
 ## UIC to offer in-state tuition to American Indian, Alaska Native students
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774415027-PGHRFQHS5YOM0VBQGRMR/image-asset.jpeg)
+![](images/c015af02-image-asset.jpeg)
 
 [Native American Support Program | University of Illinois at Chicago](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiLyfXIi8biAhVMtlkKHUTDBOwQjhx6BAgBEAI&url=https%3A%2F%2Fnasp.uic.edu%2F&psig=AOvVaw2KnzOxg81Ty7gsXpsRaiOq&ust=1559403144385901)
 
@@ -79,7 +79,7 @@ Currently there are about 600 students at UIC who identify as American Indian/Al
 
 ## Duct tape also good for pow-wow regalia!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774417344-EYFK0QCJIIX6JDXMSMAP/image-asset.jpeg)
+![](images/e7663bdc-image-asset.jpeg)
 
 Cole Turcotte was 3-years-old when he won second prize in the Maamwi Kindaaswin Pow-Wow’s initial Duct Tape family dance special.
 

@@ -5,7 +5,7 @@ date: 2019-07-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/train-up-a-child-teen-camp-in-alaska
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2d075bd3d30f0f34e43/1748628700852/Train+up+a+child+in+the+way+he+should+go%3B+even+when+he+is+old+he+will+not+depart+from+it..png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774291976-T9BRTA1VDZJPDBJOADEV/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/16d560d8-Train_up_a_child_in_the_way_he_should_go__even_when_he_is_old_he_will_not_depart_from_it..png", "images/e0bcb5b9-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Train Up a Child - Teen Camp in Alaska
 
@@ -15,7 +15,7 @@ Jul 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774291976-T9BRTA1VDZJPDBJOADEV/image-asset.png)
+![](images/e0bcb5b9-image-asset.png)
 
 ### Train up a child in the way he should go;  even when he is old he will not depart from it. Proverbs 22:6
 
@@ -60,7 +60,7 @@ Executive Director
 
 **Your gift today affirms that Jesus was born for all, including our Native American brothers and sisters.  Thank you!**
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

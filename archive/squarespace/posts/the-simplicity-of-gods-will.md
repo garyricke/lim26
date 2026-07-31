@@ -5,7 +5,7 @@ date: 2016-05-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-simplicity-of-gods-will
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c95b90b69e1d9bfa309d/1748628700852/Navajo_Girl_%282195373631%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780061142-NUB5H64G2QGBPAU3SPYB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780064317-M5JPB5PO71VGINRBJI34/image-asset.jpeg"]
+images: ["images/28ec219b-Navajo_Girl__2195373631_.jpg", "images/f2e8377b-image-asset.jpeg", "images/1cde3531-image-asset.jpeg"]
 ---
 # The Simplicity of God's Will-Monday Devotion
 
@@ -15,11 +15,11 @@ May 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780061142-NUB5H64G2QGBPAU3SPYB/image-asset.jpeg)
+![](images/f2e8377b-image-asset.jpeg)
 
 # The Simplicity of God’s Will
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780064317-M5JPB5PO71VGINRBJI34/image-asset.jpeg)
+![](images/1cde3531-image-asset.jpeg)
 
 Have you ever heard someone ask, “What is God’s will for my life?”  Often what they want to know is a very specific answer to a question: Should I marry this person? Should I take this new job?
 

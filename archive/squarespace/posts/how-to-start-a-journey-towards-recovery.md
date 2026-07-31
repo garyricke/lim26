@@ -5,7 +5,7 @@ date: 2023-01-23
 author: "Robert Heffle · Lutheran Indian Ministries"
 original_url: https://www.lutheranindianministries.org/reflections/how-to-start-a-journey-towards-recovery
 section: reflections
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/64a82f62f27a461828c14590/1688743945115/bev-5-thumb.jpg"]
+images: ["images/645ec578-bev-5-thumb.jpg"]
 ---
 # HOW TO START A JOURNEY TOWARDS RECOVERY
 

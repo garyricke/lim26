@@ -5,7 +5,7 @@ date: 2018-04-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-041318
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bb8ccb88a56680b0b658/1748628700852/child-abuse1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776524959-HA4JNBKPSLSXI01WAC0D/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776526076-DADEEE40XO11IIOPDAO1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776527715-O1NYWGTPAR4BZ1R5QYJY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776528608-W04DES4SAHCDLTQCUEC4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776529650-26RM09667PWOMI7JUXI2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776530453-X5EJZD2S64R2GIO6SBIY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776531499-6B216UC7450QHVO44AKG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776532325-I8S6G9AGJ58C3BRKSC6L/image-asset.jpeg"]
+images: ["images/2e2cac8c-child-abuse1.jpg", "images/0c88cbd0-image-asset.jpeg", "images/061ff6c4-image-asset.jpeg", "images/6f73b657-image-asset.jpeg", "images/2b8a4332-image-asset.jpeg", "images/808c55a6-image-asset.jpeg", "images/18d7e726-image-asset.jpeg", "images/9bde25b9-image-asset.jpeg", "images/21015628-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/13/18): Lost Fathers, Missing Mothers, and Traumatized Children
 
@@ -13,7 +13,7 @@ Apr 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776524959-HA4JNBKPSLSXI01WAC0D/image-asset.jpeg)
+![](images/0c88cbd0-image-asset.jpeg)
 
 # April 13, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Helping Fathers Find Their Way Home
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776526076-DADEEE40XO11IIOPDAO1/image-asset.jpeg)
+![](images/061ff6c4-image-asset.jpeg)
 
 Albert Pooley is on a mission to help Native American fathers. When working as a career counselor, he soon noticed that many of his male clients were struggling — not just in their lives but by what he identified as inadequate social services provided by the government. To help, Pooley who is half-Hopi, half-Navajo and father of six (as well as a grandfather to sixteen) founded the Native American Fathers and Families Association, which works to train and empower Native American men. To date, he’s helped thousands of fathers.
 
@@ -33,7 +33,7 @@ Lutheran Indian Ministries is thrilled to have a relationship with this inspirin
 
 ## Fighting for Justice for Missing and Murdered Native Women
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776527715-O1NYWGTPAR4BZ1R5QYJY/image-asset.jpeg)
+![](images/6f73b657-image-asset.jpeg)
 
 Marita GrowingThunder (third from left) and supporters of her 80-mile walk through the Flathead Indian Reservation. Photo via [Save Our Sisters MMIW/Facebook](https://www.facebook.com/SAVEOURSISTERSMMIW/).
 
@@ -49,7 +49,7 @@ GrowingThunder, who is a member of the Fort Peck Assiniboine Sioux tribe, had tw
 
 ## Also in #MMIW...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776528608-W04DES4SAHCDLTQCUEC4/image-asset.jpeg)
+![](images/2b8a4332-image-asset.jpeg)
 
 ### [Legislature proposes finding out why a staggering number of Native American women in Minnesota are murdered or go missing](https://www.minnpost.com/politics-policy/2018/04/legislature-proposes-finding-out-why-staggering-number-native-american-women)
 
@@ -59,7 +59,7 @@ Mysti Babineau recalled stories of missing and murdered Native women between tea
 
 ## Addressing Childhood Trauma
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776529650-26RM09667PWOMI7JUXI2/image-asset.jpeg)
+![](images/808c55a6-image-asset.jpeg)
 
 Historical Trauma is an issue we take seriously at Lutheran Indian Ministries and one we address through our Sacred Ground, Celebrate Recovery, and Naffa programs.
 
@@ -83,19 +83,19 @@ If you really want to dig deeper, this article highlights a number of studies th
 
 ## Your Weekly History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776530453-X5EJZD2S64R2GIO6SBIY/image-asset.jpeg)
+![](images/18d7e726-image-asset.jpeg)
 
 ### [Was the Iroquois Great Law of Peace the Source for the U.S. Constitution?](https://history.howstuffworks.com/history-vs-myth/iroquois-great-law-peace-source-us-constitution.htm)
 
 "We heartily recommend Union and a good agreement between you, our brethren," an Iroquois leader admonished the colonists. He advised that they follow the example of the Iroquois who had established a well-organized system of self-government, codified in the Great Law of Peace, with both a central council and checks and balances that protected individual freedoms.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776531499-6B216UC7450QHVO44AKG/image-asset.jpeg)
+![](images/9bde25b9-image-asset.jpeg)
 
 ### [Caroline Weldon, 19th Century Indigenous Rights Advocate and Sitting Bull's Secretary](http://mentalfloss.com/article/502054/retrobituaries-caroline-weldon-19th-century-indigenous-rights-advocate-and-sitting-bulls-secretary)
 
 Caroline Weldon is worth remembering as an activist who set out alone to try and help Sitting Bull and his people. While her story as a white woman attempting to guide indigenous affairs is not uncomplicated, what she did was rare both in terms of 19th century activism and for a single woman in the Victorian era. Her courage is reflected in the nickname the Sioux gave her: “Woman Walking Ahead."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776532325-I8S6G9AGJ58C3BRKSC6L/image-asset.jpeg)
+![](images/21015628-image-asset.jpeg)
 
 ### [The Gruesome Story of Hannah Duston, Whose Slaying of Indians Made Her an American Folk *“Hero”*](https://www.smithsonianmag.com/history/gruesome-story-hannah-duston-american-colonist-whose-slaying-indians-made-her-folk-hero-180968721/)
 

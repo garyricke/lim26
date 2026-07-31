@@ -5,7 +5,7 @@ date: 2019-04-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/are-we-listening-lent-devotion-friday-april-12
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3df4870844ff58316de/1748628700852/49858071_310202519619741_5956545956191701006_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774560859-N5RGRLXL9JMDYHD5BG29/image-asset.jpeg"]
+images: ["images/6650360c-49858071_310202519619741_5956545956191701006_n.jpg", "images/d4fcfbd3-image-asset.jpeg"]
 ---
 # Are We Listening? (Lent Devotion) - Friday, April 12
 
@@ -15,7 +15,7 @@ Apr 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774560859-N5RGRLXL9JMDYHD5BG29/image-asset.jpeg)
+![](images/d4fcfbd3-image-asset.jpeg)
 
 # Are We Listening?
 

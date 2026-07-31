@@ -5,7 +5,7 @@ date: 2017-02-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/american-indian-occupation-mural-project-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c214c383b522978e6e16/1748628700852/spencer-keeton-cunningham_jaque-fragua_American-Indian-Mural-Project_San-Francisco_October-18th-2011_we-been-occupied_american-occupation-of-the-american-indian_666_2.jpg"]
+images: ["images/0275bb8d-spencer-keeton-cunningham_jaque-fragua_American-Indian-Mural-Project_San-Francisco_October-18th-2011_we-been-occupied_am"]
 ---
 # American Indian Occupation Mural Project - Thirsty (for Knowledge) Thursday
 

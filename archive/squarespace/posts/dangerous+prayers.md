@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/dangerous+prayers
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773556744-B3EULUJ08BC6NEII99HW/DP_SplashPage_TitleandLogo-copy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773568913-RL4LRI9KSAHNJBTLW6OB/DP_SplashPage_TitleandLogo-copy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773570772-ZSBXVMCTWMNV92PVPYOB/DP_SplashPage_TitleandLogo-copy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773587536-U52S205J3VRFQFC518LH/DP_SplashPage_TitleandLogo-copy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773590153-OW3OOSDJR9WP74F2LRTK/DP_SplashPage_TitleandLogo-copy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773593332-UVP8HTAH4TUU2V17LZ25/DP_SplashPage_TitleandLogo-copy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773596172-DB6URP2YE3U09AC13BIX/DP_SplashPage_TitleandLogo-copy.jpg"]
+images: ["images/adbfe632-DP_SplashPage_TitleandLogo-copy.jpg", "images/eebfb5ca-DP_SplashPage_TitleandLogo-copy.jpg", "images/02dcba0a-DP_SplashPage_TitleandLogo-copy.jpg", "images/6bb14a29-DP_SplashPage_TitleandLogo-copy.jpg", "images/d40af62f-DP_SplashPage_TitleandLogo-copy.jpg", "images/60281928-DP_SplashPage_TitleandLogo-copy.jpg", "images/3bab7ae2-DP_SplashPage_TitleandLogo-copy.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Disturb Me: Week 7 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773556744-B3EULUJ08BC6NEII99HW/DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-7-monday-morning-devotions)
+[![Disturb Me: Week 7 - Monday Morning Devotions](images/adbfe632-DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-7-monday-morning-devotions)
 
 Guest User
 6/1/20
@@ -75,7 +75,7 @@ Now answer honestly. If God said yes to every prayer you prayed in the last seve
 
 [Read More](/news-notes/dangerous-prayers-week-7-monday-morning-devotions)
 
-[![Send Me: Week 6 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773568913-RL4LRI9KSAHNJBTLW6OB/DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-6-monday-morning-devotions)
+[![Send Me: Week 6 - Monday Morning Devotions](images/eebfb5ca-DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-6-monday-morning-devotions)
 
 Guest User
 5/25/20
@@ -91,7 +91,7 @@ What if we prayed perhaps the most dangerous prayer of all?
 
 [Read More](/news-notes/dangerous-prayers-week-6-monday-morning-devotions)
 
-[![Break Me: Week 5 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773570772-ZSBXVMCTWMNV92PVPYOB/DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-5-monday-morning-devotions)
+[![Break Me: Week 5 - Monday Morning Devotions](images/02dcba0a-DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-5-monday-morning-devotions)
 
 Guest User
 5/18/20
@@ -107,7 +107,7 @@ Instead of just asking God to keep you safe, give you more, and protect your lif
 
 [Read More](/news-notes/dangerous-prayers-week-5-monday-morning-devotions)
 
-[![Reveal My Fears: Week 4 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773587536-U52S205J3VRFQFC518LH/DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-4-monday-morning-devotions)
+[![Reveal My Fears: Week 4 - Monday Morning Devotions](images/6bb14a29-DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-4-monday-morning-devotions)
 
 Guest User
 5/11/20
@@ -123,7 +123,7 @@ What we fear matters.
 
 [Read More](/news-notes/dangerous-prayers-week-4-monday-morning-devotions)
 
-[![Search Me: Week 3 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773590153-OW3OOSDJR9WP74F2LRTK/DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-3-monday-morning-devotions)
+[![Search Me: Week 3 - Monday Morning Devotions](images/d40af62f-DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-3-monday-morning-devotions)
 
 Guest User
 5/4/20
@@ -139,7 +139,7 @@ But God’s Word actually reveals the exact opposite.
 
 [Read More](/news-notes/dangerous-prayers-week-3-monday-morning-devotions)
 
-[![Your Will Be Done: Week 2 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773593332-UVP8HTAH4TUU2V17LZ25/DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-2-monday-morning-devotions)
+[![Your Will Be Done: Week 2 - Monday Morning Devotions](images/60281928-DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-2-monday-morning-devotions)
 
 Guest User
 4/27/20
@@ -159,7 +159,7 @@ Your. Prayers. Move. God.
 
 [Read More](/news-notes/dangerous-prayers-week-2-monday-morning-devotions)
 
-[![It's Time for Dangerous Prayers: Week 1 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773596172-DB6URP2YE3U09AC13BIX/DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-1-monday-morning-devotions)
+[![It's Time for Dangerous Prayers: Week 1 - Monday Morning Devotions](images/3bab7ae2-DP_SplashPage_TitleandLogo-copy.jpg)](/news-notes/dangerous-prayers-week-1-monday-morning-devotions)
 
 Guest User
 4/20/20

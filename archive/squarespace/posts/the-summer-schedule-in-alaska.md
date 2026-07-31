@@ -5,7 +5,7 @@ date: 2018-06-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-summer-schedule-in-alaska
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8ac89548629034e951d/1748628700852/34107639_1741263845989097_5713494010597736448_o.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775788957-H23AD7QEZRWF1RJSUYDT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775790141-XSY0FMAB89SIMQ1JOEE7/image-asset.jpeg"]
+images: ["images/08e2a714-34107639_1741263845989097_5713494010597736448_o.jpg", "images/15cc3204-image-asset.jpeg", "images/af81dd00-image-asset.jpeg"]
 ---
 # The Summer Schedule in Alaska
 
@@ -21,11 +21,11 @@ The summer volunteer program is already in full swing in Fairbanks with teams tr
 
 Bill Paris, assisstant at the Haskell LIGHT House, is spending the summer in Fairbanks to help with the volunteer program and had the opportunity to travel with teams to Kiana and Circle.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775788957-H23AD7QEZRWF1RJSUYDT/image-asset.jpeg)
+![](images/15cc3204-image-asset.jpeg)
 
 "We had a great time with the kids in Kiana," Bill recalled. "Everyday more than 20 kids would coming rumbling in, excited to hear the Word of God and participate in the activities. They called me Grandpa Bill, so I even grew out my beard to better fit the grandpa role! It was an amazing experience!"
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775790141-XSY0FMAB89SIMQ1JOEE7/image-asset.jpeg)
+![](images/af81dd00-image-asset.jpeg)
 
 While the next month will be filled with volunteer groups moving in and out of the Mission Training Center, we also make room for our biggest Teen Camp to date.
 

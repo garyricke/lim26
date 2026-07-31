@@ -5,7 +5,7 @@ date: 2018-08-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-082418
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b836dd7dfe2ee01ee2f6/1748628700852/wpid-20131219__131219_homelessness_skybox.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775670515-LRBR2E0EYJ9CZNNDLH3B/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775671768-2VML6E3S9G1JHCNMEBJ1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775672714-PUM9PC6RZTT3IFN0YFVQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775673540-D6A86XZ2FNVZA80B0QDU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775674564-NNDELX97I8030UYROU50/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775676338-RM0RH2F9IIB7SV8LAQ05/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775677259-ZOZ10JUSNZNJ46SXVXJR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775677896-9M73F3C64HP3E2Q03AOA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775678807-M15GFIJDFFGSXWOH2I1E/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775679916-QNJQZJCRZHIJZGCWZSYL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775680960-2RQFG5AA6OQD4LTROBAO/image-asset.jpeg"]
+images: ["images/b1cea544-wpid-20131219__131219_homelessness_skybox.jpg", "images/3fbe9a8b-image-asset.jpeg", "images/e8da3d45-image-asset.jpeg", "images/ab367330-image-asset.jpeg", "images/8f7144e6-image-asset.jpeg", "images/bc170f37-image-asset.jpeg", "images/53a98fc7-image-asset.jpeg", "images/357e0561-image-asset.jpeg", "images/93292592-image-asset.jpeg", "images/6be92eed-image-asset.jpeg", "images/6ca01648-image-asset.jpeg", "images/387bbda1-image-asset.jpeg"]
 ---
 # This Week in Native American News (8/24/18): sharing stories, helping the homeless, and paying taxes
 
@@ -13,7 +13,7 @@ Aug 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775670515-LRBR2E0EYJ9CZNNDLH3B/image-asset.jpeg)
+![](images/3fbe9a8b-image-asset.jpeg)
 
 # August 24, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Oral history project preserves experience of Alaska Native women
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775671768-2VML6E3S9G1JHCNMEBJ1/image-asset.jpeg)
+![](images/e8da3d45-image-asset.jpeg)
 
 Researchers present their findings from an oral history project at the Bristol Bay Native Association in Dillingham. CREDIT AUSTIN FAST / KDLG
 
@@ -35,13 +35,13 @@ Timmerman was one of a dozen Alaska Native women from Dillingham, Naknek and Tog
 
 ## More Stories About Stories (and Songs)...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775672714-PUM9PC6RZTT3IFN0YFVQ/image-asset.jpeg)
+![](images/ab367330-image-asset.jpeg)
 
 ### [Mark King shares stories of Alaganik’s days gone by](https://www.thecordovatimes.com/2018/08/17/mark-king-shares-stories-of-alaganiks-days-gone-by/)
 
 “It’s a sacred site,” King, 63, said of Alaganik. “It’s changed a lot just in my lifetime. Delta raised up and was a mud flat when I was a youngster and now it’s got trees that are 40 feet tall on it. It’s still changing, but I guess that’s the way deltas are.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775673540-D6A86XZ2FNVZA80B0QDU/image-asset.jpeg)
+![](images/8f7144e6-image-asset.jpeg)
 
 ### [Wisconsin man sings Native American song for NASCAR](https://apnews.com/990f5fd6cc7b4b939807625bc6e04e59)
 
@@ -51,7 +51,7 @@ People stared, and more than once, they called out an ugly, oft-repeated racial 
 
 ## Homeless women in danger at ‘The Wall’ with few options for help
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775674564-NNDELX97I8030UYROU50/image-asset.jpeg)
+![](images/bc170f37-image-asset.jpeg)
 
 Outside the Dorothy Day Center in St. Paul, 2013. (Pioneer Press archives)
 
@@ -71,7 +71,7 @@ After visiting the camp on Sunday, Jackson realized there were several women who
 
 ## More on "The Wall"...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775676338-RM0RH2F9IIB7SV8LAQ05/image-asset.jpeg)
+![](images/53a98fc7-image-asset.jpeg)
 
 ### [Minneapolis city leaders unveil 'action plan'](http://www.startribune.com/minneapolis-city-leaders-to-unveil-action-plan-for-tackling-growing-homeless-encampment/491547431/)
 
@@ -81,7 +81,7 @@ At a crowded news conference, Frey promised a “full-throated effort” by city
 
 ## Do Native Americans Pay Taxes? Let Sort Out Rumors from Fact
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775677259-ZOZ10JUSNZNJ46SXVXJR/image-asset.jpeg)
+![](images/357e0561-image-asset.jpeg)
 
 The rumor has been around for decades, maybe even centuries: Native Americans don’t have to pay taxes. And that’s exactly what it is—a rumor—although the devil is in the details.
 
@@ -95,7 +95,7 @@ Tribes themselves are not bound to pay taxes to the U.S. government. That’s th
 
 ## Lost Native American city of Etzanoa opens its gates to tourists
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775677896-9M73F3C64HP3E2Q03AOA/image-asset.jpeg)
+![](images/93292592-image-asset.jpeg)
 
 Etzanoa had an estimated population of 20,000 who lived in dwellings similar in shape to beehives
 
@@ -111,19 +111,19 @@ Some had doubted its existence until its discovery on uncultivated wildlands in 
 
 ## This Week's History Lesson...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775678807-M15GFIJDFFGSXWOH2I1E/image-asset.jpeg)
+![](images/6be92eed-image-asset.jpeg)
 
 ### [More than 300 years ago, a revolt at this Hopi pueblo shaped the future of the American Southwest.](https://www.atlasobscura.com/places/awatovi-ruins)
 
 Cultural tensions, famine, and brutal treatment of the native population eventually precipitated a coordinated rebellion in which the Spanish were overwhelmed by a surprise attack by every pueblo on the same day.  Led by Popé from the San Juan Pueblo, the Pueblo Revolt of 1680 successfully eliminated European hegemony, but only briefly as the Spanish gradually reasserted control by 1692.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775679916-QNJQZJCRZHIJZGCWZSYL/image-asset.jpeg)
+![](images/6ca01648-image-asset.jpeg)
 
 ### [How a small American Indian tribe came to give an incredible gift to Irish famine sufferers](http://theconversation.com/how-a-small-american-indian-tribe-came-to-give-an-incredible-gift-to-irish-famine-sufferers-98742)
 
 In the winter of 1847, the people of Ireland were suffering from a devastating famine. Meanwhile, members of the Choctaw Nation of American Indians, one of the five great southern tribes of the United States, met in a small town in Indian Territory called Skullyville. There, members of the tribe discussed the experiences of the Irish poor. It was proposed that they would gather what monies they could spare. This wasn’t going to be much in the wake of their recent removal from their tribal homelands east of the Mississippi River. Ultimately, they collected US$170, a sum roughly equivalent to US$5,000 today.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775680960-2RQFG5AA6OQD4LTROBAO/image-asset.jpeg)
+![](images/387bbda1-image-asset.jpeg)
 
 ### [Liliuokalani - Ahead of Her Time](https://www.hawaiibusiness.com/ahead-of-her-time/)
 

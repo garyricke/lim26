@@ -5,7 +5,7 @@ date: 2020-03-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/while-we-wait-for-blessed-hope
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b07dcb88a56680aeb541/1748628700852/tumblr_oyajtr9ihh1uh8gz5o1_400.png"]
+images: ["images/ed12f33a-tumblr_oyajtr9ihh1uh8gz5o1_400.png"]
 ---
 # While We Wait for Blessed Hope - Lent 2020
 

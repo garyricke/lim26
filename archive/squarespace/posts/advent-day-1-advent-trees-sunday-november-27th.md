@@ -5,7 +5,7 @@ date: 2016-11-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-day-1-advent-trees-sunday-november-27th
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4a7b382b13bb76a3b8a/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778856823-B7X9Q7KJW3Z7YVOHF9AX/image-asset.png"]
+images: ["images/20dca59f-2016_Advent_Devotions.png", "images/23c49251-image-asset.png"]
 ---
 # Advent Trees: November 27th
 
@@ -15,7 +15,7 @@ Nov 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778856823-B7X9Q7KJW3Z7YVOHF9AX/image-asset.png)
+![](images/23c49251-image-asset.png)
 
 ## And (Jesus) told them a parable: "Look at the fig tree, and all the trees. As soon as they come out in leaf, you see for yourselves and know that the summer is already near. So also, when you see these things taking place, you know that the kingdom of God is near. Truly, I say to you, this generation will not pass away until all has taken place. Heaven and earth will pass away, but my words will not pass away.” Luke 21:29-33 (ESV)
 

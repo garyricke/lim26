@@ -5,7 +5,7 @@ date: 2018-03-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/he-paid-a-debt-lent-saturday-march-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc2aa8416125af5075b0/1748628700852/98ac0d04cad6cea41599fcb6a5aacdbd.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776683805-OLULMPR52O4TV1WLIRM6/image-asset.png"]
+images: ["images/c4b5770f-98ac0d04cad6cea41599fcb6a5aacdbd.jpg", "images/a060ae51-image-asset.png"]
 ---
 # He Paid a Debt (Lent) - Saturday, March 3
 
@@ -15,7 +15,7 @@ Mar 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776683805-OLULMPR52O4TV1WLIRM6/image-asset.png)
+![](images/a060ae51-image-asset.png)
 
 ### "...know that a person is not justified by the works of the law, but by faith in Jesus Christ.  So we, too have put our faith in Christ Jesus that we may be justified by faith in Christ and not by the works of the law, because by the works of the law no one will be justified." [Galatians 2:16 (NIV)](https://www.bible.com/bible/111/GAL.2.16)
 

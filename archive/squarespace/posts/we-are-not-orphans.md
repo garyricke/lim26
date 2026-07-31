@@ -5,7 +5,7 @@ date: 2021-03-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/we-are-not-orphans
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae38f7f83a4636d1afea/1748628700852/21+We+are+Not+Orphans.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773113633-O37HXDVE4HESIOKMMP3L/image-asset.jpeg"]
+images: ["images/a180d075-21_We_are_Not_Orphans.jpg", "images/222171c0-image-asset.jpeg"]
 ---
 # We are Not Orphans (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773113633-O37HXDVE4HESIOKMMP3L/image-asset.jpeg)
+![](images/222171c0-image-asset.jpeg)
 
 # “AND I WILL ASK THE FATHER, AND HE WILL GIVE YOU ANOTHER COUNSELOR TO BE WITH YOU FOREVER – THE SPIRIT OF TRUTH." (JOHN 14:16-18)
 

@@ -5,7 +5,7 @@ date: 2016-04-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cdb0f356c23a7b914902/1748628700852/5367.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781172903-85FCJ6A9Y05KC3UBQNGR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781229041-MZ3VIPKL9NITMGRTZZZ0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781289548-KVYWWZ3KEHL7GCAEX575/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781349213-9RZLXODJ75SWKC4IFOGC/image-asset.jpeg"]
+images: ["images/e07ed795-5367.jpg", "images/10a4d011-image-asset.jpeg", "images/8956b7b5-image-asset.jpeg", "images/d8805988-image-asset.jpeg", "images/416dcf9c-image-asset.jpeg"]
 ---
 # This Week in Native American News
 
@@ -15,7 +15,7 @@ Apr 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781172903-85FCJ6A9Y05KC3UBQNGR/image-asset.jpeg)
+![](images/10a4d011-image-asset.jpeg)
 
 ### [Interested in getting "This Week in Native American News" in your inbox?](http://eepurl.com/urL8f)
 
@@ -23,7 +23,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### How would an ivory ban affect Alaska Natives?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781229041-MZ3VIPKL9NITMGRTZZZ0/image-asset.jpeg)
+![](images/8956b7b5-image-asset.jpeg)
 
 [Inupiaq artwork made from marine mammals. Photograph: Steven Kazlowski/Science Faction/Corbis](http://www.theguardian.com/us-news/2016/apr/06/ivory-ban-criminalize-indigenous-artists-alaska)
 
@@ -37,7 +37,7 @@ You may be also interested in [this Washington Post article from 2005](http://ww
 
 ### Who else can replace on our currency?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781289548-KVYWWZ3KEHL7GCAEX575/image-asset.jpeg)
+![](images/d8805988-image-asset.jpeg)
 
 Maybe Jackson should have been replaced by a renowned and historic chief, since he implemented the Indian Removal Act of 1830 which led to the Trail of Tears. In fact, [some natives in Oklahoma won't even touch a $20 bill](http://www.chicagotribune.com/news/nationworld/ct-tubman-replacing-jackson-20-symbolism-20160422-story.html). At least, [that's what this article argues](http://bigthink.com/paul-ratner/a-native-american-chief-should-replace-andrew-jackson-on-the-20), though we think Harriet Tubman deserves it as well.
 
@@ -45,7 +45,7 @@ Maybe Jackson should have been replaced by a renowned and historic chief, since 
 
 ### UCLA Mapping Indigenous Groups
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781349213-9RZLXODJ75SWKC4IFOGC/image-asset.jpeg)
+![](images/416dcf9c-image-asset.jpeg)
 
 [Screenshot for Mapping Indigenous L.A.](https://mila.ss.ucla.edu/)
 

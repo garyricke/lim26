@@ -5,7 +5,7 @@ date: 2015-10-20
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/hawaiioahu/summer-of-connections
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a445fa/1451491778754/CDELUDE-HAWAII-FOOD-DIST-AUG2015-4.jpeg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a445fc/1451491778756/CDELUDE-HAWAII-FOOD-DIST-AUG2015-6.jpeg"]
+images: ["images/a717b09d-CDELUDE-HAWAII-FOOD-DIST-AUG2015-4.jpeg", "images/bf49a729-CDELUDE-HAWAII-FOOD-DIST-AUG2015-6.jpeg"]
 ---
 # Summer of Connections
 
@@ -27,9 +27,9 @@ This summer I was blessed to reconnect with members of the [Cross-Cultural Minis
 
 **Back home in Hawaii, our church and community addressed the needs of our homeless population.** [Hawaii’s homeless ranks first in the nation](http://www.huffingtonpost.com/entry/hawaii-governor-declares-homelessness-state-of-emergency_5621b2a7e4b02f6a900c8eb8?ncid=fcbklnkushpmg00000063) and has for the last four years, followed by New York and California by per capita. The homeless includes veterans as well as *ohana*, or families with children. The children are in a high-risk group for not finishing school and, therefore, continuing the cycle of generational poverty. My home church at Trinity Lutheran participated in Hawaii Food Banks distribution of food to the homeless. We included young adults home for summer break.
 
-![Hawaiian mission food distribution](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a445fc/1451491778756/CDELUDE-HAWAII-FOOD-DIST-AUG2015-6.jpeg)
+![Hawaiian mission food distribution](images/bf49a729-CDELUDE-HAWAII-FOOD-DIST-AUG2015-6.jpeg)
 
-![Hawaiian Mission of Lutheran Indian Ministries](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a445fa/1451491778754/CDELUDE-HAWAII-FOOD-DIST-AUG2015-4.jpeg)
+![Hawaiian Mission of Lutheran Indian Ministries](images/a717b09d-CDELUDE-HAWAII-FOOD-DIST-AUG2015-4.jpeg)
 
 **May the Lord continue to bless us as we reach out in Christ’s love among our Native peoples.**
 

@@ -5,7 +5,7 @@ date: 2019-06-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-06282019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3043cdc7517f158bc06/1748628700852/IMG_0699-1068x712.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774341876-AHNQKX59LSKZU9RSHXI8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774344070-4MJLAZ8YDF2ID22NAY6A/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774345117-1B8VHL0Q1ERM7SO1X86Q/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774346145-0E87B9AAP2O8IVKLMA7B/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774346993-WZK2O44J5FL7CNZ1HE2V/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774348047-7HU849QAUHWKZ6JNJT94/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774349043-1O64XU2MYRX9VZ9L9041/image-asset.jpeg"]
+images: ["images/03a07fef-IMG_0699-1068x712.jpg", "images/d3622d4e-image-asset.jpeg", "images/2df8ffa5-image-asset.jpeg", "images/7d2900a2-image-asset.jpeg", "images/25c0d689-image-asset.jpeg", "images/7452557b-image-asset.jpeg", "images/9c7cfb08-image-asset.jpeg", "images/fe47977b-image-asset.jpeg"]
 ---
 # This Week in Native American News (6/28/19): Increased Solar Energy, Suicide Rates, and Historical and Cultural Awareness
 
@@ -13,7 +13,7 @@ Jun 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774341876-AHNQKX59LSKZU9RSHXI8/image-asset.jpeg)
+![](images/d3622d4e-image-asset.jpeg)
 
 # June 28, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Could This New Approach Unlock Gigawatts Of Native American Solar Energy Potential?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774344070-4MJLAZ8YDF2ID22NAY6A/image-asset.jpeg)
+![](images/2df8ffa5-image-asset.jpeg)
 
 Tribal members install solar panels on the Okreek community building on the Rosebud Indian Reservation. GRID ALTERNATIVES
 
@@ -37,7 +37,7 @@ While federal funding has helped tribal communities start accessing clean energy
 
 ## Suicide rate for Native American women is up 139%
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774345117-1B8VHL0Q1ERM7SO1X86Q/image-asset.jpeg)
+![](images/7d2900a2-image-asset.jpeg)
 
 The US suicide rate is up 33% since 1999, but for Native American women and men, the increase is even greater: 139% and 71%, respectively, according to an analysis out this week from the Centers for Disease Control and Prevention's National Center for Health Statistics.
 
@@ -53,7 +53,7 @@ Also, American Indian and Alaska Native women experience higher levels of violen
 
 ## Supreme Court set to issue most high-profile decisions of term
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774346145-0E87B9AAP2O8IVKLMA7B/image-asset.jpeg)
+![](images/25c0d689-image-asset.jpeg)
 
 Observers are also awaiting a ruling in a death penalty case that could have implications for Native American territory in Oklahoma.
 
@@ -77,7 +77,7 @@ Federal law goes into effect for “Indian country,” indicating that the justi
 
 ## Meet Sovereign Bill, the voice behind Molly of Denali
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774346993-WZK2O44J5FL7CNZ1HE2V/image-asset.jpeg)
+![](images/7452557b-image-asset.jpeg)
 
 *Sovereign Bill, the voice of Molly Mabray on the WGBH/PBS children’s program Molly of Denali, poses at the Fairbanks world premiere of the show. (Photo by Wesley Early, Alaska Public Media – Anchorage)*
 
@@ -91,7 +91,7 @@ Molly is voiced by 14-year-old Indigenous actress Sovereign Bill of Auburn, Wash
 
 ## This Week’s History Lesson…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774348047-7HU849QAUHWKZ6JNJT94/image-asset.jpeg)
+![](images/9c7cfb08-image-asset.jpeg)
 
 ### [The last Confederate troops to surrender in the Civil War were Native American — here’s how they ended up fighting for the South](https://www.insider.com/how-native-americans-ended-up-fighting-for-the-confederacy-2019-6)
 
@@ -99,7 +99,7 @@ Even after Confederate commander Robert E. Lee surrendered in Appomattox Court H
 
 It was led not by one of the wealthy white southerners who made up much of the Confederacy's officer class — but by a Native American chief called Stand Watie.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774349043-1O64XU2MYRX9VZ9L9041/image-asset.jpeg)
+![](images/fe47977b-image-asset.jpeg)
 
 ### [Proposed Bill Would Rescind Medals of Honor awarded for the Wounded Knee Massacre](https://www.cnn.com/2019/06/26/politics/medal-of-honor-wounded-knee-trnd/)
 

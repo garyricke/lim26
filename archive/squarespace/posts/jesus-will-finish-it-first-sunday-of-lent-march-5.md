@@ -5,7 +5,7 @@ date: 2017-03-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/jesus-will-finish-it-first-sunday-of-lent-march-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1c96f9a84583cd1bbbf/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778123137-ALTLMDZTFJ6IR1JG69MH/image-asset.jpeg"]
+images: ["images/ccc0633b-1748628700852", "images/ce2a1f97-image-asset.jpeg"]
 ---
 # Jesus Will Finish It: First Sunday of Lent, March 5
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## When the days drew near for him to be taken up, he set his face to go to Jerusalem. Luke 9:51 (ESV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778123137-ALTLMDZTFJ6IR1JG69MH/image-asset.jpeg)
+![](images/ce2a1f97-image-asset.jpeg)
 
 Although this particular hinge in the narrative of the Gospel of Luke takes place well before the passion of Jesus and the events we commemorate in Lent, it is nonetheless the beginning of the end.
 

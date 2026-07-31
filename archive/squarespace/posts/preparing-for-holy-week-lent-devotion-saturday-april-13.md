@@ -5,7 +5,7 @@ date: 2019-04-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/preparing-for-holy-week-lent-devotion-saturday-april-13
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3c989548629034dbf72/1748628700852/20180407.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774538952-1SDJTJR8CCBQDV021RQK/image-asset.jpeg"]
+images: ["images/09a18f83-20180407.jpg", "images/8844aeb6-image-asset.jpeg"]
 ---
 # Preparing for Holy Week (Lent Devotion) - Saturday, April 13
 
@@ -13,7 +13,7 @@ Apr 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774538952-1SDJTJR8CCBQDV021RQK/image-asset.jpeg)
+![](images/8844aeb6-image-asset.jpeg)
 
 # Preparing for Holy Week
 

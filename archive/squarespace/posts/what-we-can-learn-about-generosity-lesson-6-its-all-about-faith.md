@@ -5,7 +5,7 @@ date: 2017-11-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-we-can-learn-about-generosity-lesson-6-its-all-about-faith
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be4e6a6122712eb98136/1748628700852/bizcard+large.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777231096-MRN6HUL6M1PKDQWQFCKS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777231995-7VNWLTLXX568WPRMPWYA/image-asset.jpeg"]
+images: ["images/45394b14-bizcard_large.jpg", "images/f668a8a2-image-asset.jpeg", "images/1703b632-image-asset.jpeg"]
 ---
 # What We Can Learn About Generosity, Lesson 6: It's all about faith - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Nov 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777231096-MRN6HUL6M1PKDQWQFCKS/image-asset.jpeg)
+![](images/f668a8a2-image-asset.jpeg)
 
 Missed a devotion in this generosity series? [Read them all here.](http://www.lutheranindianministries.org/news/?tag=generosity)
 
@@ -56,7 +56,7 @@ I pray that our generosity would reflect that of our most generous God.
 
 [I WANT TO BE GENEROUS](/donate)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777231995-7VNWLTLXX568WPRMPWYA/image-asset.jpeg)
+![](images/1703b632-image-asset.jpeg)
 
 [devotion](/news-notes/tag/devotion)
 

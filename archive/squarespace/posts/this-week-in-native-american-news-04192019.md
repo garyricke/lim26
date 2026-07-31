@@ -5,7 +5,7 @@ date: 2019-04-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-04192019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3a37e444e62ee961f04/1748628700852/Maria_Sturm05.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774500827-LR8MP9GF9L9Y7M6RNDB5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774506472-9D2GTJMER53Y28U23ZD2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774509526-LZ8QJWVBT5XMUFKN8VOO/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774511156-D47C93E0UQXHN2GK7IS4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774512080-CYV6X6PQLUAF49Y7J70M/image-asset.jpeg"]
+images: ["images/29f89232-Maria_Sturm05.jpg", "images/2b5ed6ba-image-asset.jpeg", "images/6133e303-image-asset.jpeg", "images/09c0fa1b-image-asset.png", "images/139fd988-image-asset.jpeg", "images/58035c6e-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/19/19): You Don't Look Native, Indigenous Designs, and Sacred Sites
 
@@ -13,7 +13,7 @@ Apr 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774500827-LR8MP9GF9L9Y7M6RNDB5/image-asset.jpeg)
+![](images/2b5ed6ba-image-asset.jpeg)
 
 # April 19, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## The True Story Of Proud, Young Native Americans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774506472-9D2GTJMER53Y28U23ZD2/image-asset.jpeg)
+![](images/6133e303-image-asset.jpeg)
 
 “You Don‘t Look Native to Me“ shows excerpts from the lives of young Native Americans from around Pembroke, Robeson County, North Carolina, where 89% of the city’s population identifies as Native American. from Maria Sturm
 
@@ -35,7 +35,7 @@ Romanian photographer Maria Sturm says her project "You Don't Look Native To Me"
 
 ## It's disrespectful for non-Indigenous artists to make a profit off our designs
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774509526-LZ8QJWVBT5XMUFKN8VOO/image-asset.png)
+![](images/09c0fa1b-image-asset.png)
 
 The National Museum of the American Indian - Smithsonian Institution. The Indian Arts and Crafts Board: Mukluks
 
@@ -53,7 +53,7 @@ When the woman in Inuvik said she wasn't copying anyone and she draws her own de
 
 ## When Rivers Were Trails: an indigenous take on Oregon Trail
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774511156-D47C93E0UQXHN2GK7IS4/image-asset.jpeg)
+![](images/139fd988-image-asset.jpeg)
 
 When Rivers Were Trails is a "Native-themed decision-based RPG" based on the classic Apple ][+ game "Oregon Trail," in which you play an 1890 Anishinaabeg person who has been forced off your land in Fond du Lac, Minnesota and must migrate through the northwest to California.
 
@@ -69,7 +69,7 @@ The writers used drew on their own families' stories of displacement to craft th
 
 ## The world mourns Notre Dame Cathedral's destruction. But some ask: What about our sacred sites?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774512080-CYV6X6PQLUAF49Y7J70M/image-asset.jpeg)
+![](images/58035c6e-image-asset.jpeg)
 
 Native American tribes believe Bears Ears is the last of undisturbed sacred lands. Mark Stevens, CC BY-NC-SA
 

@@ -5,7 +5,7 @@ date: 2020-01-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-01312020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b11df7d225059ae9c297/1748628700852/20170277_6325-full_jpg_1280.jpg__600x0_q85_subsampling-2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773853876-PX59EZC4VT45S3E90QVO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773854810-4DE6VKLDGGAAVCRYNI6L/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773855595-N55HYU3H4T5DEW40YNDW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773856585-QOFGNBAEW1N7X9O17Q8Z/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773857835-7BP30C1UN1D4ZOI3VUG6/image-asset.jpeg"]
+images: ["images/837313c8-20170277_6325-full_jpg_1280.jpg__600x0_q85_subsampling-2.jpg", "images/7b1be363-image-asset.jpeg", "images/e3cd4c1d-image-asset.jpeg", "images/7e7d747e-image-asset.jpeg", "images/f6cc9b6e-image-asset.jpeg", "images/057e3fe7-image-asset.jpeg"]
 ---
 # This Week in Native American News (1/31/2020): Museums embrace Native Perspectives, Street Artists Leave Their Mark, and a Tribe Saves a Boarding School
 
@@ -13,7 +13,7 @@ Jan 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773853876-PX59EZC4VT45S3E90QVO/image-asset.jpeg)
+![](images/7b1be363-image-asset.jpeg)
 
 # January 31, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## How Museums Are Deepening Their Commitments to Native American Perspectives
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773854810-4DE6VKLDGGAAVCRYNI6L/image-asset.jpeg)
+![](images/e3cd4c1d-image-asset.jpeg)
 
 The Peabody Essex Museum hosts a field-leading fellowship program for emerging Native American leaders. Courtesy of the Peabody Essex Museum.
 
@@ -35,7 +35,7 @@ Across the country at the Peabody Essex Museum (PEM) in Salem, Massachusetts, th
 
 ### [Read the Full Story Here](https://mellon.org/shared-experiences-blog/how-museums-are-deepening-their-commitment-native-american-perspectives/?fbclid=IwAR3VzkGD03-PTEPPyjB0KDgS4sbpAo9XMIG4fiJwkF65J4c3GKYZ-BeNsfM)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773855595-N55HYU3H4T5DEW40YNDW/image-asset.jpeg)
+![](images/7e7d747e-image-asset.jpeg)
 
 ### In Similar News: [Museums Have Stumbled When It Comes to Curating Indigenous American Art. These Native Students at Yale Are Modeling a New Way Forward](https://news.artnet.com/exhibitions/a-new-way-to-curate-indigenous-art-1754667)
 
@@ -43,7 +43,7 @@ When Yale University in New Haven, Connecticut, decided to reevaluate its North 
 
 It enlisted a trio of students, two of whom are Native Americans, as the curators. Initially, the students thought that the university “should be hiring someone who is a professional curator and has more time and more knowledge than we do as students,” co-curator Katherine Nova McCleary, who is Little Shell Chippewa-Cree, told Artnet News. “But then we realized that if we didn’t take this opportunity, the show was likely not going to happen.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773856585-QOFGNBAEW1N7X9O17Q8Z/image-asset.jpeg)
+![](images/f6cc9b6e-image-asset.jpeg)
 
 ### [How a New Generation of Native American Street Artists Is Leaving Its Mark Across the United States](https://news.artnet.com/art-world/native-american-street-art-1757085)
 
@@ -57,7 +57,7 @@ Renaming the street after an already existing nickname, Wild Life kicked off a m
 
 ## Colorado boarding school, where government sought to assimilate tribal students, listed as a “most endangered” place
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773857835-7BP30C1UN1D4ZOI3VUG6/image-asset.jpeg)
+![](images/057e3fe7-image-asset.jpeg)
 
 *This undated photo shows part of the Southern Ute Boarding School campus just outside of Ignacio in southwest Colorado. The site has been designated among the state's "most endangered" as tribal authorities consider how best to preserve its painful history. (Southern Ute Drum Archives)*
 

@@ -5,7 +5,7 @@ date: 2020-01-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/happy-2020-from-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1445b3de4701ddfe679/1748628700852/A9Rjj07zo_1fm3s3r_c54.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773894142-RAM6QGRYY5G5BK7ZAD92/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773895595-NZUFM95DP5QZFYR9OIZY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773897457-PS7E0SL75QZ4WH57VVDM/image-asset.jpeg"]
+images: ["images/a40616c7-A9Rjj07zo_1fm3s3r_c54.jpg", "images/bff139db-image-asset.jpeg", "images/0e3d84c3-image-asset.jpeg", "images/5678ad31-image-asset.jpeg"]
 ---
 # Happy 2020 from Navajo!
 
@@ -19,13 +19,13 @@ Dear Friends in Christ,
 
 A belated Merry Christmas and Happy New Year!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773894142-RAM6QGRYY5G5BK7ZAD92/image-asset.jpeg)
+![](images/bff139db-image-asset.jpeg)
 
 This year we celebrated Christmas Eve with the children pictured above (and some others). During the service, we performed the Christmas Story and sang “Joy to the World”.
 
 Eleven days before Christmas, we did our annual service project of Christmas boxes, where we deliver food staples and some treats to single seniors and others in our community in need. We were helped greatly in this endeavor this year by Grace Lutheran Church in Albuquerque, who bought the supplies and packed the boxes. They also added a turkey which we had not included in the past. A school from Colorado, Our Savior’s Lutheran in Pagosa Springs, contributed their offerings to the project as well.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773895595-NZUFM95DP5QZFYR9OIZY/image-asset.jpeg)
+![](images/0e3d84c3-image-asset.jpeg)
 
 The Christmas box project has been a great joy for everyone involved in the past, and this year was no exception. The children and youth introduce themselves to their elders in Navajo, and then we sing a Christmas carol or two and pray for the people and the home that we visit.
 
@@ -33,7 +33,7 @@ One of the people who participated was still beaming the day afterward, and one 
 
 Earlier in the fall, we had the joy of more baptisms. The family pictured below received the washing of regeneration (Titus 3:5) on October 6.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773897457-PS7E0SL75QZ4WH57VVDM/image-asset.jpeg)
+![](images/5678ad31-image-asset.jpeg)
 
 It has been a delight to have them as a part of our community, as the children are eager to learn and the adults have invited their neighbors to worship the Lord (Ps. 122:1).
 

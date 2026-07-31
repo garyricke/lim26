@@ -5,7 +5,7 @@ date: 2017-02-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-438-41-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1ff5e47eb614f783760/1748628700852/Later+that+day%2C+when+the+sun+was+going+down%2C+many+sick+people+were+brought+to+him.+He+touched+them+all+and+healed+them.+Many+were+set+free+from+evil+spirits.+As+the+spirits+left+them%2C+they+howled+with+loud+voi.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778176919-CXJ1YE0XE5UGXR7DTRAD/image-asset.png"]
+images: ["images/0b9f0793-Later_that_day__when_the_sun_was_going_down__many_sick_people_were_brought_to_him._He_touched_them_all_and_healed_them._", "images/d45ae5d0-image-asset.png"]
 ---
 # Luke 4:38-41 FNV
 
@@ -13,7 +13,7 @@ Feb 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778176919-CXJ1YE0XE5UGXR7DTRAD/image-asset.png)
+![](images/d45ae5d0-image-asset.png)
 
 This was so memorable an occasion that all the three evangelists notice it; their reports are recorded in almost the same words. No doubt, in the early days of the preaching of the faith, this evening's work was constantly alluded to by the first teachers.
 

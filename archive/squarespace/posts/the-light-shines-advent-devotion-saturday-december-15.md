@@ -5,7 +5,7 @@ date: 2018-12-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-light-shines-advent-devotion-saturday-december-15
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b76aff37c7283942fe3f/1748628700852/a79d6f9b9ac6ee159f67f91fa59fc507.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775467072-NCI7ZYEIFYLHOA3TTPUG/image-asset.png"]
+images: ["images/9dc1b098-a79d6f9b9ac6ee159f67f91fa59fc507.jpg", "images/2a3154ba-image-asset.png"]
 ---
 # The Light Shines (Advent Devotion) - Saturday, December 15
 
@@ -15,7 +15,7 @@ Dec 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775467072-NCI7ZYEIFYLHOA3TTPUG/image-asset.png)
+![](images/2a3154ba-image-asset.png)
 
 ## The light shines in the darkness, and the darkness has not overcome it. (John 1:5 NIV)
 

@@ -5,7 +5,7 @@ date: 2018-02-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/lord-increase-our-faith-lent-monday-february-26
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc55f9c95608ba411a44/1748628700852/9c636e06e267b6e6c6854ec06296e4eb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776726798-9T66QLQO3U2AHV0JWU6B/image-asset.png"]
+images: ["images/af7880b4-9c636e06e267b6e6c6854ec06296e4eb.jpg", "images/335d97ce-image-asset.png"]
 ---
 # Lord Increase Our Faith (Lent) - Monday, February 26
 
@@ -15,7 +15,7 @@ Feb 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776726798-9T66QLQO3U2AHV0JWU6B/image-asset.png)
+![](images/335d97ce-image-asset.png)
 
 ### "Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God."   [1 Peter 1:21 (NIV)](https://www.bible.com/bible/111/1PE.1.21)
 

@@ -5,7 +5,7 @@ date: 2018-12-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-messenger-advent-devotion-friday-december-7
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7853cdc7517f1599ee4/1748628700852/desert.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775494838-ZEOH5DOCK33SYFV2HETL/image-asset.png"]
+images: ["images/5a7f52fa-desert.jpg", "images/ac3d227c-image-asset.png"]
 ---
 # The Messenger (Advent Devotion) - Friday, December 7
 
@@ -15,7 +15,7 @@ Dec 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775494838-ZEOH5DOCK33SYFV2HETL/image-asset.png)
+![](images/ac3d227c-image-asset.png)
 
 ## The beginning of the gospel of Jesus Christ, the Son of God.  As it is written in Isaiah the prophet: “Behold, I send my messenger before your face, who will prepare your way, the voice of one crying in the wilderness: ‘Prepare the way of the Lord, make his paths straight.' (Mark 1:1-3 NIV)
 

@@ -5,7 +5,7 @@ date: 2017-08-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/compassion-for-crowds-faith-for-the-reservations1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf4581715079237e21c7/1748628700852/d7c5bf43835c266168a06698045a6245--homemaking-sheep.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777477630-480I76C96D2Q9K3FXAGH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777478442-ORUPC2CUU0T1VHFFZH6K/image-asset.jpeg"]
+images: ["images/026fd495-d7c5bf43835c266168a06698045a6245--homemaking-sheep.jpg", "images/538c22d7-image-asset.jpeg", "images/b1534978-image-asset.jpeg"]
 ---
 # Compassion for the People, Live for the People: Faith for the Reservations, Devo 11 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Aug 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777477630-480I76C96D2Q9K3FXAGH/image-asset.jpeg)
+![](images/538c22d7-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -39,7 +39,7 @@ Similarly, Paul had a deep personal relationship with the people of Philippi. Pa
 
 When Paul wrote this letter, he was in jail and faced with the looming threat of death. He mentions, "I desire to depart and be with Christ, which is better by far; but it is more necessary for you that I remain in the body. " (Philippians 1: 23-24)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777478442-ORUPC2CUU0T1VHFFZH6K/image-asset.jpeg)
+![](images/b1534978-image-asset.jpeg)
 
 God has given us the longing to spend eternity with Him, but He also called us to spread the good news of Jesus' resurrection. Paul understands that as long as God keeps him on this earth, it is his job to share his joy and God's mercy with others.
 

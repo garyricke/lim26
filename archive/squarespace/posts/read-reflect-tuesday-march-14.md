@@ -5,7 +5,7 @@ date: 2017-03-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-tuesday-march-14
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1a3c383b522978e5e36/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778085020-NZ7AEUV2JH0FASD97XHN/image-asset.png"]
+images: ["images/b10b2a8d-2017_lent_cover.jpg", "images/ae79fa6d-image-asset.png"]
 ---
 # Read & Reflect: Tuesday, March 14
 
@@ -13,7 +13,7 @@ Mar 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778085020-NZ7AEUV2JH0FASD97XHN/image-asset.png)
+![](images/ae79fa6d-image-asset.png)
 
 ## Read: [Jeremiah 29:11-13](https://www.bible.com/bible/111/jer.29.11-13), [John 3:16-17](https://www.bible.com/bible/111/jhn.3.16-17)
 

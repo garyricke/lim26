@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/lent+devotion+2018
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775186970-12Y8XO3L7O3WVFJJFOTC/devotion+title.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776550553-418I5TVFEUDESULHX80O/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776554224-18PLG37MCSI5ZWPD896P/20140404-164601.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776556097-DQ2K6GDKCF8JGN4HDMDN/John-15-13-1024x672.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776572195-492A39LXUVB2QB29H4BD/8939.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776572235-6W8LB485GB3V08RBCIXY/isaiah-53-5.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776573674-J39XIR25BXSROXPUJW5T/ab89b4efa1002d1f2b4f35d560cf65e0.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776575010-SN1TPYJC4VAYL09298WY/and-he-answered-them-do-you-think-that-these-galileans-were-worse-sinners-t-esv43619.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776576694-KPVQFYN2KX2QQMJT8D7U/Luke-9.56.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776578290-T5F5JBPRL8ZTNW75O562/4b0f2f9191f8b0ca1efe03ebf002aabd--quotable-quotes-bible-quotes.jpg"]
+images: ["images/66e06389-devotion_title.jpg", "images/02b46e6e-image-asset.png", "images/7899c9d8-20140404-164601.jpg", "images/d7b3fd83-John-15-13-1024x672.jpg", "images/c259b416-8939.jpg", "images/2fc69518-isaiah-53-5.jpg", "images/c33f3ca9-ab89b4efa1002d1f2b4f35d560cf65e0.jpg", "images/f8810df9-and-he-answered-them-do-you-think-that-these-galileans-were-worse-sinners-t-esv43619.jpg", "images/5c1746f0-Luke-9.56.jpg", "images/f3998cbb-4b0f2f9191f8b0ca1efe03ebf002aabd--quotable-quotes-bible-quotes.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Preparing for Lent - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775186970-12Y8XO3L7O3WVFJJFOTC/devotion+title.jpg)](/news-notes/preparing-for-lent-monday-morning-devotions)
+[![Preparing for Lent - Monday Morning Devotions](images/66e06389-devotion_title.jpg)](/news-notes/preparing-for-lent-monday-morning-devotions)
 
 Guest User
 3/4/19
@@ -77,7 +77,7 @@ Recognizing that every church follows some calendar or set of seasonal rhythms, 
 
 [Read More](/news-notes/preparing-for-lent-monday-morning-devotions)
 
-[![Thank you for joining us (Lent) - Easter Monday](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776550553-418I5TVFEUDESULHX80O/image-asset.png)](/news-notes/thank-you-for-joining-us-lent-easter-monday)
+[![Thank you for joining us (Lent) - Easter Monday](images/02b46e6e-image-asset.png)](/news-notes/thank-you-for-joining-us-lent-easter-monday)
 
 Guest User
 4/2/18
@@ -93,7 +93,7 @@ Hopefully, through these devotions, you were able to draw closer to your Savior 
 
 [Read More](/news-notes/thank-you-for-joining-us-lent-easter-monday)
 
-[![Not Alone (Lent) - Easter Sunday, April 1](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776554224-18PLG37MCSI5ZWPD896P/20140404-164601.jpg)](/news-notes/not-alone-lent-easter-sunday-april-1)
+[![Not Alone (Lent) - Easter Sunday, April 1](images/7899c9d8-20140404-164601.jpg)](/news-notes/not-alone-lent-easter-sunday-april-1)
 
 Guest User
 4/1/18
@@ -107,7 +107,7 @@ On this, the Day of Resurrection, Jesus first sought out people to show them He 
 
 [Read More](/news-notes/not-alone-lent-easter-sunday-april-1)
 
-[![Barabbas (Lent) - Holy Saturday, March 31](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776556097-DQ2K6GDKCF8JGN4HDMDN/John-15-13-1024x672.jpg)](/news-notes/barabbas-lent-holy-saturday-march-31)
+[![Barabbas (Lent) - Holy Saturday, March 31](images/d7b3fd83-John-15-13-1024x672.jpg)](/news-notes/barabbas-lent-holy-saturday-march-31)
 
 Guest User
 3/31/18
@@ -121,7 +121,7 @@ Maybe Barabbas looked into the distance and saw the three crosses and thought to
 
 [Read More](/news-notes/barabbas-lent-holy-saturday-march-31)
 
-[![He Was Crushed and Wounded (Lent) - Good Friday, March 30](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776572235-6W8LB485GB3V08RBCIXY/isaiah-53-5.jpg)](/news-notes/he-was-crushed-and-wounded-lent-good-friday-march-30)
+[![He Was Crushed and Wounded (Lent) - Good Friday, March 30](images/2fc69518-isaiah-53-5.jpg)](/news-notes/he-was-crushed-and-wounded-lent-good-friday-march-30)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -139,7 +139,7 @@ We must look at the gruesome scene in order to value what it means for us.
 
 [Read More](/news-notes/he-was-crushed-and-wounded-lent-good-friday-march-30)
 
-[![My Soul is Overwhelmed (Lent) - Maundy Thursday, March 29](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776572195-492A39LXUVB2QB29H4BD/8939.jpg)](/news-notes/my-soul-is-overwhelmed-lent-maundy-thursday-march-29)
+[![My Soul is Overwhelmed (Lent) - Maundy Thursday, March 29](images/c259b416-8939.jpg)](/news-notes/my-soul-is-overwhelmed-lent-maundy-thursday-march-29)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -155,7 +155,7 @@ Knowing that Christ has gone through all of this for our salvation does not solv
 
 [Read More](/news-notes/my-soul-is-overwhelmed-lent-maundy-thursday-march-29)
 
-[![Songs Out of the Deep Caves (Lent) - Wednesday, March 28](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776573674-J39XIR25BXSROXPUJW5T/ab89b4efa1002d1f2b4f35d560cf65e0.jpg)](/news-notes/songs-out-of-the-deep-caves-lent-wednesday-march-28)
+[![Songs Out of the Deep Caves (Lent) - Wednesday, March 28](images/c33f3ca9-ab89b4efa1002d1f2b4f35d560cf65e0.jpg)](/news-notes/songs-out-of-the-deep-caves-lent-wednesday-march-28)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -171,7 +171,7 @@ God uses our hard experiences to teach us to trust, to learn more about His love
 
 [Read More](/news-notes/songs-out-of-the-deep-caves-lent-wednesday-march-28)
 
-[![Beware the Sharks (Lent) - Tuesday, March 27](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776575010-SN1TPYJC4VAYL09298WY/and-he-answered-them-do-you-think-that-these-galileans-were-worse-sinners-t-esv43619.jpg)](/news-notes/beware-the-sharks-lent-tuesday-march-27)
+[![Beware the Sharks (Lent) - Tuesday, March 27](images/f8810df9-and-he-answered-them-do-you-think-that-these-galileans-were-worse-sinners-t-esv43619.jpg)](/news-notes/beware-the-sharks-lent-tuesday-march-27)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User
@@ -189,7 +189,7 @@ When trials come, do not blame God. Repent. Confess your sins and ask for forgiv
 
 [Read More](/news-notes/beware-the-sharks-lent-tuesday-march-27)
 
-[![Proclaim Boldly (Lent) - Monday, March 26](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776576694-KPVQFYN2KX2QQMJT8D7U/Luke-9.56.jpg)](/news-notes/proclaim-boldly-lent-monday-march-26)
+[![Proclaim Boldly (Lent) - Monday, March 26](images/5c1746f0-Luke-9.56.jpg)](/news-notes/proclaim-boldly-lent-monday-march-26)
 
 Guest User
 3/26/18
@@ -203,7 +203,7 @@ Loving your neighbor as yourself is key to Jesus' teachings, and His death and r
 
 [Read More](/news-notes/proclaim-boldly-lent-monday-march-26)
 
-[![I Have Overcome the World (Lent) - Palm Sunday, March 25](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776578290-T5F5JBPRL8ZTNW75O562/4b0f2f9191f8b0ca1efe03ebf002aabd--quotable-quotes-bible-quotes.jpg)](/news-notes/i-have-overcome-the-world-lent-palm-sunday-march-25)
+[![I Have Overcome the World (Lent) - Palm Sunday, March 25](images/f3998cbb-4b0f2f9191f8b0ca1efe03ebf002aabd--quotable-quotes-bible-quotes.jpg)](/news-notes/i-have-overcome-the-world-lent-palm-sunday-march-25)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User

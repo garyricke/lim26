@@ -5,7 +5,7 @@ date: 2015-08-04
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/new-mexiconavajo/navajo-devotion-being-a-navajo-code-talker
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4457a/1451491778587/Navajo_Code-Talker.jpeg"]
+images: ["images/126e8b2b-Navajo_Code-Talker.jpeg"]
 ---
 # Navajo Devotion: Being a Navajo Code Talker
 
@@ -21,7 +21,7 @@ After her mission trip with the Utah-Idaho LWML last summer to Shepherd of the V
 
 The Navajo people are proud of their contribution to the war effort in World War II. They not only have a memorial to these brave soldiers but when meeting people in the community, they are eager to tell you they are a veteran or a descendant of a Code Talker.
 
-![The Legendary Navajo Code Talkers](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4457a/1451491778587/Navajo_Code-Talker.jpeg)
+![The Legendary Navajo Code Talkers](images/126e8b2b-Navajo_Code-Talker.jpeg)
 
 If you are not familiar with the term Code Talker, these are the men who used their Navajo language to send coded radio messages during the war in the South Pacific. You can learn more about and hear from Navajo Code Talkers at [NavajoCodeTalkers.org](http://navajocodetalkers.org/).
 

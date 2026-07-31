@@ -5,7 +5,7 @@ date: 2017-04-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thirsty-for-knowledge-thursday-the-brave-heart-society
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c11d748b2274c967cf0d/1748628700852/Brave_Heart_0321.jpg"]
+images: ["images/fb410911-Brave_Heart_0321.jpg"]
 ---
 # Thirsty (for Knowledge) Thursday - The Brave Heart Society
 

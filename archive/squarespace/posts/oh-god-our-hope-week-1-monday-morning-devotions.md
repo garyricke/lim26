@@ -5,7 +5,7 @@ date: 2020-09-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/oh-god-our-hope-week-1-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af93a0971d66a913530a/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773461132-8ISPR4PTIZ6AIAVUS9SB/image-asset.png"]
+images: ["images/a4baa4a9-1748628700852", "images/2367d33c-image-asset.png"]
 ---
 # Oh God, Our Hope (Week 1) - Monday Morning Devotions
 
@@ -15,7 +15,7 @@ Sep 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773461132-8ISPR4PTIZ6AIAVUS9SB/image-asset.png)
+![](images/2367d33c-image-asset.png)
 
 Each year, our staff selects a Bible verse and a hymn to focus on at Jesus Our Savior Lutheran Preschool in Winnebago, Nebraska. This year, we selected a two-part Bible verse. The first part goes like this:
 

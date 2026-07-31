@@ -5,7 +5,7 @@ date: 2017-02-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/being-used-by-god-tip-9-be-god-confident-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1eb598c94025ea12cbe/1748628700852/00026528_h.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778155962-O558X8RH9M343E1ZAIFA/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778157388-PUEQXLXJPXRN9OD9YFXH/image-asset.jpeg"]
+images: ["images/53283570-00026528_h.jpg", "images/b1607725-image-asset.png", "images/fc567420-image-asset.jpeg"]
 ---
 # Being Used by God, Tip #9: Be God-Confident - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Feb 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778155962-O558X8RH9M343E1ZAIFA/image-asset.png)
+![](images/b1607725-image-asset.png)
 
 The secret behind Gideon's power was that "the Spirit of the Lord came upon [him]" (Judges 6:34). He may have been fearful of the task ahead of him, but he was God-confident.
 
@@ -29,7 +29,7 @@ This is our last Monday Morning Devotion before the Daily Lent Series Begins. Be
 
 (This series is based on a daily devotion from Vicar Nicky Gumbel's "Bible in One Year" Reading Plan. Need to start at the beginning? [Read the Introduction here.](https://www.lutheranindianministries.org/news/being-used-by-god))
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778157388-PUEQXLXJPXRN9OD9YFXH/image-asset.jpeg)
+![](images/fc567420-image-asset.jpeg)
 
 [devotion](/news-notes/tag/devotion)[being used by god](/news-notes/tag/being+used+by+god)
 

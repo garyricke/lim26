@@ -5,7 +5,7 @@ date: 2020-12-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/i-cant-even-walk-tuesday-december-8-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aedd9af4ad0956c5b344/1748628700852/e86c6ce738dd6af0ec2792e157ce8fee.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773279619-87MHPVBZ77AU6Z3M9KWM/image-asset.png"]
+images: ["images/1d9db0e9-e86c6ce738dd6af0ec2792e157ce8fee.jpg", "images/1a1c03e3-image-asset.png"]
 ---
 # I Can't Even Walk - Tuesday, December 8 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773279619-87MHPVBZ77AU6Z3M9KWM/image-asset.png)
+![](images/1a1c03e3-image-asset.png)
 
 ## For I am the LORD your God who takes hold of your right hand and says to you, Do not fear; I will help you. [Isaiah 41:13](https://my.bible.com/bible/111/ISA.41.13)
 

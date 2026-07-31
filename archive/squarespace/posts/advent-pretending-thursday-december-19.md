@@ -5,7 +5,7 @@ date: 2019-12-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-pretending-thursday-december-19
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1701186e246c3b7c123/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773937824-36XOAJEKINGA2A8EPJS4/image-asset.png"]
+images: ["images/0de1bafe-1748628700852", "images/4b0f9522-image-asset.png"]
 ---
 # Advent: Pretending - Thursday, December 19
 
@@ -13,7 +13,7 @@ Dec 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773937824-36XOAJEKINGA2A8EPJS4/image-asset.png)
+![](images/4b0f9522-image-asset.png)
 
 ### At the name of Jesus every knee should bow, in heaven and on earth and under the earth.
 

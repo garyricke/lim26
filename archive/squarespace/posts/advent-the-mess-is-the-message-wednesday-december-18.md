@@ -5,7 +5,7 @@ date: 2019-12-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-the-mess-is-the-message-wednesday-december-18
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b175f09029341eb07a45/1748628700852/Titus_3_4-5_watermarked.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773943368-8IIINL721HCPXIWFK6BY/image-asset.png"]
+images: ["images/4a1850c6-Titus_3_4-5_watermarked.jpg", "images/2e690fed-image-asset.png"]
 ---
 # Advent: The Mess is the Message - Wednesday, December 18
 
@@ -13,7 +13,7 @@ Dec 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773943368-8IIINL721HCPXIWFK6BY/image-asset.png)
+![](images/2e690fed-image-asset.png)
 
 ### But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior.
 

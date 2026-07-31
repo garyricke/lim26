@@ -5,7 +5,7 @@ date: 2019-04-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-041119
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3cc09a0b66f51effeb5/1748628700852/03Colwell-superJumbo.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774541843-KRG6524NHTY18X9A9J3C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774544286-X7JOGGZXDI43V19T66TQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774546276-JOKOES604I8W9QG77PD9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774548478-PIKEK9UU3206X6GUS93F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774550199-QPYMCJZLGP02YEWXUWVF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774552126-ZKROPMT8R6KVSO2CWETV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774553211-80K9F1EVV8PUCT23T573/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774555460-P5YP8T62KK63J4YJ6ENX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774557237-Y8F5I95QC9CZA3SQ1QGC/image-asset.jpeg"]
+images: ["images/b5ae4b16-03Colwell-superJumbo.jpg", "images/5025a4cf-image-asset.jpeg", "images/251ce358-image-asset.jpeg", "images/cb03120f-image-asset.jpeg", "images/3dc74abc-image-asset.jpeg", "images/3104dcbe-image-asset.jpeg", "images/983b097b-image-asset.jpeg", "images/6bea4c35-image-asset.jpeg", "images/ba7c60d1-image-asset.jpeg", "images/9defd05b-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/11/19): Reviving Old Plants, Reliving Old Atrocities, and Carving new Futures
 
@@ -13,7 +13,7 @@ Apr 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774541843-KRG6524NHTY18X9A9J3C/image-asset.jpeg)
+![](images/5025a4cf-image-asset.jpeg)
 
 # April 11, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## The Promise and Perils of Resurrecting Native Americans’ Lost Crops
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774544286-X7JOGGZXDI43V19T66TQ/image-asset.jpeg)
+![](images/251ce358-image-asset.jpeg)
 
 Sacred Seeds’ 2018 spring planting. [TAYLOR KEEN](https://www.instagram.com/p/Bi9YJ3zFzzmlr1kPGVqTMnzHI2zgruskUpde4w0/)
 
@@ -37,7 +37,7 @@ With the possibility of redomestication and even commercialization on the horizo
 
 ## In Other Food News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774546276-JOKOES604I8W9QG77PD9/image-asset.jpeg)
+![](images/cb03120f-image-asset.jpeg)
 
 ### [Native American fry bread is the food of our oppression. It's also delicious, so we're reclaiming it.](https://www.nbcnews.com/think/opinion/native-american-fry-bread-food-our-oppression-it-s-also-ncna991591)
 
@@ -49,7 +49,7 @@ One of the legacies of that brutal aspect of colonialism is now a beloved deep-f
 
 ## ‘As Native Americans, We Are in a Constant State of Mourning’
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774548478-PIKEK9UU3206X6GUS93F/image-asset.jpeg)
+![](images/3dc74abc-image-asset.jpeg)
 
 University of Northern Colorado maintenance crew workers guide a 600-pound bear totem pole top into a crate to be shipped back to the Tlingit Nation in Angoon, Alaska, where the totem originally stood and disappeared in 1908.CreditCreditGlenn Asakawa/The Denver Post, via Getty Images
 
@@ -63,7 +63,7 @@ Last week in a ceremony, Bristol Museum officials returned the remains to repr
 
 ## In Other News Related to Generational Trauma…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774550199-QPYMCJZLGP02YEWXUWVF/image-asset.jpeg)
+![](images/3104dcbe-image-asset.jpeg)
 
 *Carlisle School*
 
@@ -73,7 +73,7 @@ The National Native American Boarding School Healing Coalition (NABS), the First
 
 NABS aims to learn more about individuals’ experiences of child removal, the impacts these experiences have had on them and their descendants, and the methods that individuals are successfully using for healing intergenerational traumas
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774552126-ZKROPMT8R6KVSO2CWETV/image-asset.jpeg)
+![](images/983b097b-image-asset.jpeg)
 
 ### [How ‘pretendians’ undermine the rights of Indigenous people](https://www.hcn.org/articles/tribal-affairs-how-pretendians-undermine-the-rights-of-indigenous-people?fbclid=IwAR07FPd9pd8seTNjkrqtCSO08WyoGImI53fK3LJUVkPwlnOrUGBkVCXne7k)
 
@@ -85,7 +85,7 @@ To protect the rights of Indigenous people, pretendians like Wages and Warren mu
 
 ## Native American athletes and fans face ongoing racism
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774553211-80K9F1EVV8PUCT23T573/image-asset.jpeg)
+![](images/6bea4c35-image-asset.jpeg)
 
 Some of the students were crying as they got back on to the bus. In early 2015, Justin Poor Bear, now 39, chaperoned dozens of Native students to see a Rapid City Rush ice hockey game in South Dakota. The trip was part of an after-school program at American Horse School on the Pine Ridge Indian Reservation. “It’s not your fault,” Poor Bear told the bus full of kids as he drove home. During the third period, the chaperones alleged a white man poured beer on two of the students and called them racist slurs, a claim that could not be proven in court. Poor Bear was angry: He remembered experiencing the same kind of treatment during his high school basketball games in the ’90s.
 
@@ -99,7 +99,7 @@ Rural towns are often highly supportive of their high school sports teams, and r
 
 ## Arctic Treasures helps Alaskan carvers create art and new lives
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774555460-P5YP8T62KK63J4YJ6ENX/image-asset.jpeg)
+![](images/ba7c60d1-image-asset.jpeg)
 
 Walrus carved from ivory
 
@@ -123,7 +123,7 @@ Kinneeveauk understands struggling; he has had some troubles of his own. He serv
 
 ## Today’s History Lesson…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774557237-Y8F5I95QC9CZA3SQ1QGC/image-asset.jpeg)
+![](images/9defd05b-image-asset.jpeg)
 
 *Manitou Cave near Fort Payne, Alabama*
 

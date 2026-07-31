@@ -5,7 +5,7 @@ date: 2020-12-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/recognizing-christ-monday-december-28-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae761865b0438dc344e3/1748628700852/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773176180-TBYNXL5F2ZW0BBL47NO1/image-asset.png"]
+images: ["images/8c1a1f77-1280x1280__1_.jpg", "images/968f3d6d-image-asset.png"]
 ---
 # Recognizing Christ - Monday, December 28 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773176180-TBYNXL5F2ZW0BBL47NO1/image-asset.png)
+![](images/968f3d6d-image-asset.png)
 
 ## He was in the world, and though the world was made through him, the world did not recognize him. [John 1:10](https://my.bible.com/bible/111/JHN.1.10)
 

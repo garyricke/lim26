@@ -5,7 +5,7 @@ date: 2019-03-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/restoring-communication-lent-devotion-tuesday-march-26
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b5e8ce4bec6e8d1ed545/1748628700852/TTKzrPbIeT_1427979913795.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775082131-DPV0T094NIY5F51MVLYG/image-asset.jpeg"]
+images: ["images/c3b6cde7-TTKzrPbIeT_1427979913795.jpg", "images/8951ee02-image-asset.jpeg"]
 ---
 # Restoring Communication (Lent Devotion) - Tuesday, March 26
 
@@ -15,7 +15,7 @@ Mar 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775082131-DPV0T094NIY5F51MVLYG/image-asset.jpeg)
+![](images/8951ee02-image-asset.jpeg)
 
 # Restoring Communication
 

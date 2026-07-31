@@ -5,7 +5,7 @@ date: 2019-04-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/people-of-the-standing-stone-lent-devotion-monday-april-15
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3c1a0971d66a9140c38/1748628700852/HRT-Ephesians-instagram4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774531028-9RXGGP0XEBJ7CM8AORJ9/image-asset.jpeg"]
+images: ["images/d42d0a62-HRT-Ephesians-instagram4.jpg", "images/de4a8828-image-asset.jpeg"]
 ---
 # People of the Standing Stone (Lent Devotion) - Monday, April 15
 
@@ -13,7 +13,7 @@ Apr 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774531028-9RXGGP0XEBJ7CM8AORJ9/image-asset.jpeg)
+![](images/de4a8828-image-asset.jpeg)
 
 # People of the Standing Stone
 

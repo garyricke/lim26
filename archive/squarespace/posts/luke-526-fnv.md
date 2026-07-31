@@ -5,7 +5,7 @@ date: 2017-06-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-526-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bff8b65dbd3949cbafec/1748628700852/Great+respect+and+awe+filled+the+hearts+of+all+who+were+in+the+house.+They+gove+honor+to+Creator%2C+saying%2C+-Today+we+have+seen+how+mysterious+the+ways+fo+the+Great+Spirit+can+be.-Luke+5-26+FNV+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777660244-YBRLJFGCY1QCB41DY9EW/image-asset.png"]
+images: ["images/0edbc164-Great_respect_and_awe_filled_the_hearts_of_all_who_were_in_the_house._They_gove_honor_to_Creator__saying__-Today_we_have", "images/6708226f-image-asset.png"]
 ---
 # Luke 5:26 FNV
 
@@ -13,7 +13,7 @@ Jun 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777660244-YBRLJFGCY1QCB41DY9EW/image-asset.png)
+![](images/6708226f-image-asset.png)
 
 ALL THIS TENDS TO GLORIFY GOD.
 

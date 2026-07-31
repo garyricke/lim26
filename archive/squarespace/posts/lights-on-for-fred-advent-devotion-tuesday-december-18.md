@@ -5,7 +5,7 @@ date: 2018-12-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/lights-on-for-fred-advent-devotion-tuesday-december-18
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b70a7e444e62ee96b222/1748628700852/2Co4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775372502-JXHVH5EZFAHPI7KR02IO/image-asset.png"]
+images: ["images/a6af5fb3-2Co4.jpg", "images/421d8582-image-asset.png"]
 ---
 # Lights On for Fred (Advent Devotion) - Tuesday, December 18
 
@@ -15,7 +15,7 @@ Dec 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775372502-JXHVH5EZFAHPI7KR02IO/image-asset.png)
+![](images/421d8582-image-asset.png)
 
 ## For God, who said,  ‘Let light shine out of darkness,’ made his light shine in our hearts to give us the light. (2 Corinthians 4:6 NIV)
 

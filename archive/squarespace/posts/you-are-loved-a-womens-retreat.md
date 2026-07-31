@@ -5,7 +5,7 @@ date: 2017-03-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/you-are-loved-a-womens-retreat
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c19f70f86f2c8d53cc8b/1748628700852/Feb+Retreat-Bri%2C+BobbieLynn%2CHelen%2CShannie%2CEmily%2C+Berence-Aubrey%2CJessica%2CRebecca.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778080576-VO2FEWMHSX3RSN5KULZL/image-asset.jpeg"]
+images: ["images/3378891d-Feb_Retreat-Bri__BobbieLynn_Helen_Shannie_Emily__Berence-Aubrey_Jessica_Rebecca.jpg", "images/88399fe2-image-asset.jpeg"]
 ---
 # You are loved: a women's retreat in Kansas
 
@@ -23,7 +23,7 @@ Being rejected by a parent, however, leaves a scar that never goes away. Nonethe
 
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778080576-VO2FEWMHSX3RSN5KULZL/image-asset.jpeg)
+![](images/88399fe2-image-asset.jpeg)
 
 In between sessions, the women took the time to enjoy the great weather.
 

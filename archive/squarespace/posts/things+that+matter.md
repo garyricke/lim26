@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/things+that+matter
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774115463-3CJ3RV1YH7HMBNGNYWP1/07312017.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774125903-0PR4Q34ZU5UYHXJGA7N1/Serving-Jesus.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774154853-UVXGIL4R1NW6OBBQT0ZG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774163218-D3YBBTNXELV2B07FGFU1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774174836-Z78E5DN99JPVJWEYX4CS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774181936-54KN785OG3ZHALC59C93/image-asset.jpeg"]
+images: ["images/d81ce4b6-07312017.jpg", "images/a92f3758-Serving-Jesus.png", "images/78ed17a7-image-asset.jpeg", "images/4884c124-image-asset.jpeg", "images/0498751e-image-asset.jpeg", "images/94b56c9c-image-asset.jpeg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Doing Things that Matter: What's Your Story - Monday Morning Devotions (Week 6)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774115463-3CJ3RV1YH7HMBNGNYWP1/07312017.jpg)](/news-notes/doing-things-that-matter-whats-your-story-monday-morning-devotions-week-6)
+[![Doing Things that Matter: What's Your Story - Monday Morning Devotions (Week 6)](images/d81ce4b6-07312017.jpg)](/news-notes/doing-things-that-matter-whats-your-story-monday-morning-devotions-week-6)
 
 Guest User
 10/14/19
@@ -81,7 +81,7 @@ What if you never allowed fear to stop you?
 
 [Read More](/news-notes/doing-things-that-matter-whats-your-story-monday-morning-devotions-week-6)
 
-[![Doing Things that Matter: Lead Courageously - Monday Morning Devotions (Week 5)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774125903-0PR4Q34ZU5UYHXJGA7N1/Serving-Jesus.png)](/news-notes/doing-things-that-matter-lead-courageously-monday-morning-devotions-week-5)
+[![Doing Things that Matter: Lead Courageously - Monday Morning Devotions (Week 5)](images/a92f3758-Serving-Jesus.png)](/news-notes/doing-things-that-matter-lead-courageously-monday-morning-devotions-week-5)
 
 Guest User
 10/7/19
@@ -99,7 +99,7 @@ Leadership is about you following God.
 
 [Read More](/news-notes/doing-things-that-matter-lead-courageously-monday-morning-devotions-week-5)
 
-[![Doing Things that Matter: Love Recklessly - Monday Morning Devotions (Week 4)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774154853-UVXGIL4R1NW6OBBQT0ZG/image-asset.jpeg)](/news-notes/doing-things-that-matter-love-recklessly-monday-morning-devotions-week-4)
+[![Doing Things that Matter: Love Recklessly - Monday Morning Devotions (Week 4)](images/78ed17a7-image-asset.jpeg)](/news-notes/doing-things-that-matter-love-recklessly-monday-morning-devotions-week-4)
 
 Guest User
 9/30/19
@@ -113,7 +113,7 @@ Guest User
 
 [Read More](/news-notes/doing-things-that-matter-love-recklessly-monday-morning-devotions-week-4)
 
-[![Doing Things that Matter: Live Differently - Monday Morning Devotions (Week 3)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774163218-D3YBBTNXELV2B07FGFU1/image-asset.jpeg)](/news-notes/doing-things-that-matter-live-differently-monday-morning-devotions-week-3)
+[![Doing Things that Matter: Live Differently - Monday Morning Devotions (Week 3)](images/4884c124-image-asset.jpeg)](/news-notes/doing-things-that-matter-live-differently-monday-morning-devotions-week-3)
 
 Guest User
 9/23/19
@@ -127,7 +127,7 @@ You can be a great neighbor, a humble servant at your child’s school, an inclu
 
 [Read More](/news-notes/doing-things-that-matter-live-differently-monday-morning-devotions-week-3)
 
-[![Doing Things that Matter: Dream Wildly - Monday Morning Devotions (Week 2)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774174836-Z78E5DN99JPVJWEYX4CS/image-asset.jpeg)](/news-notes/doing-things-that-matter-dream-wildly-monday-morning-devotions-week-2)
+[![Doing Things that Matter: Dream Wildly - Monday Morning Devotions (Week 2)](images/0498751e-image-asset.jpeg)](/news-notes/doing-things-that-matter-dream-wildly-monday-morning-devotions-week-2)
 
 Guest User
 9/16/19
@@ -141,7 +141,7 @@ Many of us hope to see the power of God in our lives, yet we continue to dream, 
 
 [Read More](/news-notes/doing-things-that-matter-dream-wildly-monday-morning-devotions-week-2)
 
-[![Doing Things that Matter: Choosing the Path to God - Monday Morning Devotions (Week 1)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774181936-54KN785OG3ZHALC59C93/image-asset.jpeg)](/news-notes/doing-things-that-matter-monday-morning-devotions-week-1)
+[![Doing Things that Matter: Choosing the Path to God - Monday Morning Devotions (Week 1)](images/94b56c9c-image-asset.jpeg)](/news-notes/doing-things-that-matter-monday-morning-devotions-week-1)
 
 Guest User
 9/9/19

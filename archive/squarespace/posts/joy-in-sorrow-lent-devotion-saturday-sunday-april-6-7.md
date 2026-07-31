@@ -5,7 +5,7 @@ date: 2019-04-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/joy-in-sorrow-lent-devotion-saturday-sunday-april-6-7
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3f2a992b149232e5823/1748628700852/185eae659bd966f3da024306cafde8fc.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774580174-Y9GAA74V8L2JLQ6ER8HP/image-asset.jpeg"]
+images: ["images/9efb004e-185eae659bd966f3da024306cafde8fc.jpg", "images/e748d964-image-asset.jpeg"]
 ---
 # Joy in Sorrow (Lent Devotion) - Saturday & Sunday, April 6 & 7
 
@@ -13,7 +13,7 @@ Apr 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774580174-Y9GAA74V8L2JLQ6ER8HP/image-asset.jpeg)
+![](images/e748d964-image-asset.jpeg)
 
 # Joy in Sorrow
 

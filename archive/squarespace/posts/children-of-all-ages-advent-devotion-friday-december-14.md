@@ -5,7 +5,7 @@ date: 2018-12-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/children-of-all-ages-advent-devotion-friday-december-14
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b76c927b114520700ce8/1748628700852/8250.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775468866-HVWUARVXQBL0Q9YVMO5U/image-asset.png"]
+images: ["images/2ce268c9-8250.jpg", "images/43c7ec65-image-asset.png"]
 ---
 # Children of all Ages (Advent Devotion) - Friday, December 14
 
@@ -15,7 +15,7 @@ Dec 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775468866-HVWUARVXQBL0Q9YVMO5U/image-asset.png)
+![](images/43c7ec65-image-asset.png)
 
 ## And Jesus took the children in his arms, put his hands on them and blessed them. (Mark 10:16 NIV)
 

@@ -5,7 +5,7 @@ date: 2018-03-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/beware-the-sharks-lent-tuesday-march-27
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbbd7c9bc16a0fbe7490/1748628700852/and-he-answered-them-do-you-think-that-these-galileans-were-worse-sinners-t-esv43619.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776573776-JTBB0W9OMDWC72B4Y48N/image-asset.png"]
+images: ["images/6999f7d6-and-he-answered-them-do-you-think-that-these-galileans-were-worse-sinners-t-esv43619.jpg", "images/b3521bc5-image-asset.png"]
 ---
 # Beware the Sharks (Lent) - Tuesday, March 27
 
@@ -15,7 +15,7 @@ Mar 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776573776-JTBB0W9OMDWC72B4Y48N/image-asset.png)
+![](images/b3521bc5-image-asset.png)
 
 ### "Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered in this way? No, I tell you; but unless you repent, you will all likewise perish. Or those eighteen on whom the tower in Siloam fell and killed them: do you think that they were worse offenders than all the others who lived in Jerusalem? No, I tell you; but unless you repent, you will all likewise perish."   [Luke 13:2-5 (ESV)](https://www.bible.com/bible/59/LUK.13.2-5)
 

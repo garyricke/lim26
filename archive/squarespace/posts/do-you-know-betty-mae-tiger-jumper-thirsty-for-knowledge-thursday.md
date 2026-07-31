@@ -5,7 +5,7 @@ date: 2017-03-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/do-you-know-betty-mae-tiger-jumper-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c19ccfaa51222aa214de/1748628700852/Screen_Shot_2015-02-11_at_7.30.22_AM.png"]
+images: ["images/46008d3a-Screen_Shot_2015-02-11_at_7.30.22_AM.png"]
 ---
 # Do you know Betty Mae Tiger Jumper? - Thirsty (for Knowledge) Thursday
 

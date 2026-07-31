@@ -5,7 +5,7 @@ date: 2016-02-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/i-can-do-all-things-philippians-413
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cfbf4da50253557ddac0/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781697118-4C3TNK7JKJ2RR0RN8Y0E/image-asset.jpeg"]
+images: ["images/27388798-1748628700852", "images/9be639ba-image-asset.jpeg"]
 ---
 # I Can Do All Things - Philippians 4:13
 
@@ -15,7 +15,7 @@ Feb 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781697118-4C3TNK7JKJ2RR0RN8Y0E/image-asset.jpeg)
+![](images/9be639ba-image-asset.jpeg)
 
 **Monday February 29**
 

@@ -5,7 +5,7 @@ date: 2015-03-17
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/kansaslhaskell-light-campus-ministry/its-on-at-haskell-light-campus-ministry
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd1bccfd4171883f2826/1665785122705/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785116885-VTT7QZQC8ACSA9CDPHI8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785117821-O1WLX6MYEIADVA6PHGF9/image-asset.jpeg"]
+images: ["images/c714b350-1665785122705", "images/569a0902-image-asset.jpeg", "images/ceeecf66-image-asset.jpeg"]
 ---
 # “It’s on!” at Haskell LIGHT Campus Ministry
 
@@ -20,13 +20,13 @@ Spring is on, yes! And that changes the pace for how quickly we’ll see Phase I
 
 For instance, by the time you read this, a full team of Laborers For Christ volunteers will have arrived on site, adding to the work currently taking place.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785116885-VTT7QZQC8ACSA9CDPHI8/image-asset.jpeg)
+![](images/569a0902-image-asset.jpeg)
 
 Laborers For Christ Volunteers Haskell LIGHT Campus Ministry
 
 To date, the construction crew has erected the steel beams and will begin to put the glu-lam (or wooden) beams in place. After that, they will start building the outside walls.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785117821-O1WLX6MYEIADVA6PHGF9/image-asset.jpeg)
+![](images/ceeecf66-image-asset.jpeg)
 
 SteelBeams-for-web
 

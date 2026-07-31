@@ -5,7 +5,7 @@ date: 2018-12-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/birthing-cry-advent-devotion-monday-december-10
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b775d102823ae1a6721e/1748628700852/Creation-of-Man.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775478589-PJLHFPPVETC602P6P0ZG/image-asset.png"]
+images: ["images/367046f7-Creation-of-Man.jpg", "images/5165ff66-image-asset.png"]
 ---
 # Birthing Cry (Advent Devotion) - Monday, December 10
 
@@ -15,7 +15,7 @@ Dec 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775478589-PJLHFPPVETC602P6P0ZG/image-asset.png)
+![](images/5165ff66-image-asset.png)
 
 ## Then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life. (Genesis 2:7 ESV)
 

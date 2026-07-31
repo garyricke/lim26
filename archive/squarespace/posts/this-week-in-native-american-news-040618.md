@@ -5,7 +5,7 @@ date: 2018-04-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-040618
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bb9b981ba40c2a9bb745/1748628700852/image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776540262-WQAPUABO5CCO07W1UU0M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776541300-KVRH5EH78JRX9RQ3KIDA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776542349-7985OM68DANG013ZJ93H/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776543743-F37I5R0SB5F38SQN8K0V/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776545012-H3JMJT8EHXAC1FP3N5XY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776546183-8A61BOU4I5FJ80QWLRPH/image-asset.jpeg"]
+images: ["images/59770a6f-image.jpg", "images/4e3d8f1b-image-asset.jpeg", "images/3f43d080-image-asset.jpeg", "images/f09454e1-image-asset.jpeg", "images/03fa2a8e-image-asset.jpeg", "images/9676a527-image-asset.jpeg", "images/4c67ecd0-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/6/18): Resilience in Traditions, the Violence Against Women Act, #DeleteFacebook, and Insect-Eating
 
@@ -13,7 +13,7 @@ Apr 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776540262-WQAPUABO5CCO07W1UU0M/image-asset.jpeg)
+![](images/4e3d8f1b-image-asset.jpeg)
 
 # April 6, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Finding Resilience Through Ancient Traditions
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776541300-KVRH5EH78JRX9RQ3KIDA/image-asset.jpeg)
+![](images/3f43d080-image-asset.jpeg)
 
 Debra Dommek, Inupiaq, center, performs traditional dances at the Alaska Native Heritage Center in Anchorage, Alaska.
 
@@ -43,7 +43,7 @@ Rasmus and Charles have developed a cultural-based training and teaching manual 
 
 ## Tribes Ability to Charge Non-Natives Shows Improvements in Community
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776542349-7985OM68DANG013ZJ93H/image-asset.jpeg)
+![](images/f09454e1-image-asset.jpeg)
 
 President Barack Obama greets Our Sisterís Keeper Executive Director Diane Millich, from left, and Tulalip Tribes of Washington State Vice Chairwoman Deborah Parker, after signing the Violence Against Women Act in Washington, D.C., March 7, 2013. Five years after a federal law gave tribes authority over non-Natives for some domestic violence crimes, public safety advocates say communities are empowered to report wrongdoing and governments are working better together. Photo credit: VOA File
 
@@ -75,7 +75,7 @@ The new money meant to help tribes serve crime victims will come from funds that
 
 ## Native Hawaiian Culture is Science
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776543743-F37I5R0SB5F38SQN8K0V/image-asset.jpeg)
+![](images/03fa2a8e-image-asset.jpeg)
 
 Photography by Elyse Butler Mallams. Based at Kaʻalaea in Kāneʻohe Bay, Kānehūnāmoku, a 29ft double hull sailing canoe is a hands-on, dynamic, and living classroom for students of all ages.
 
@@ -89,7 +89,7 @@ Hokulea, which originated in the 1970s, is the best-known example of the interse
 
 ## #DeleteFacebook? Not in Indian Country!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776545012-H3JMJT8EHXAC1FP3N5XY/image-asset.jpeg)
+![](images/9676a527-image-asset.jpeg)
 
 In the last 48 hours, I've seen several people turn to one social network, Twitter, to vent their frustrations about another one: Facebook.
 
@@ -107,7 +107,7 @@ And it's not just Indian Country that would feel the extreme disconnect in a Fac
 
 ## Your Weekly History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776546183-8A61BOU4I5FJ80QWLRPH/image-asset.jpeg)
+![](images/4c67ecd0-image-asset.jpeg)
 
 ### [Insect-Eating is an American Tradition](https://www.atlasobscura.com/articles/history-of-eating-bugs-america)
 

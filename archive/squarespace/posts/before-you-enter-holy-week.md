@@ -5,7 +5,7 @@ date: 2017-04-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/before-you-enter-holy-week
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c12f2e65bd531c308810/1748628700852/lent+cover.jpg"]
+images: ["images/295ab768-lent_cover.jpg"]
 ---
 # Before You Enter Holy Week
 

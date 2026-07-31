@@ -5,7 +5,7 @@ date: 2016-03-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/beauty-for-our-ashes-isaiah-613
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf7349ebb306072a5be5/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781621150-TLF9U880TFR37ORJ7ZNZ/image-asset.jpeg"]
+images: ["images/692a4df3-1748628700852", "images/b44ad18f-image-asset.jpeg"]
 ---
 # Beauty for our Ashes - Isaiah 61:3
 
@@ -15,7 +15,7 @@ Mar 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781621150-TLF9U880TFR37ORJ7ZNZ/image-asset.jpeg)
+![](images/b44ad18f-image-asset.jpeg)
 
 **Tuesday March 15**
 

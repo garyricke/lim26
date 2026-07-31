@@ -5,7 +5,7 @@ date: 2018-04-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-bunny-is-gone-so-whats-next-devotion-1-following-in-the-footsteps-of-the-apostles-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bba6d20efd47a970280c/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776551065-SA7BNQ6O4QEGBS92UHD8/image-asset.png"]
+images: ["images/317b141d-1748628700852", "images/9bf0e7b6-image-asset.png"]
 ---
 # The Bunny is Gone, So What's Next? Devotion #1: Following in the Footsteps of the Apostles - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Apr 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776551065-SA7BNQ6O4QEGBS92UHD8/image-asset.png)
+![](images/9bf0e7b6-image-asset.png)
 
 The Easter ham is gone. The hard-boiled egg shards scatter the floor. The Easter bunny has hopped on. So what do we do now? How do we continue to live in the joy of Easter?
 

@@ -5,7 +5,7 @@ date: 2016-06-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/fnv-verse-mark-835-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c92a14c45a2de06d54f1/1748628700852/Mark8-35.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780013601-MJ3YUCDF07SRLIHYIU5Y/image-asset.jpeg"]
+images: ["images/6865d286-Mark8-35.jpg", "images/9c7af210-image-asset.jpeg"]
 ---
 # FNV Verse - Mark 8:35 FNV
 
@@ -13,7 +13,7 @@ Jun 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780013601-MJ3YUCDF07SRLIHYIU5Y/image-asset.jpeg)
+![](images/9c7af210-image-asset.jpeg)
 
 There are two attitudes toward life that are possible, and you can have only one or the other.
 

@@ -5,7 +5,7 @@ date: 2017-05-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-growth-of-nations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c08e8eead250d7bc394f/1748628700852/IMG_6293.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777807979-L8C725LR72UQKUOUACKC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777809519-XSHDSWL8STZ4IZOP80DA/image-asset.jpeg"]
+images: ["images/d08d9350-IMG_6293.jpg", "images/bf207358-image-asset.jpeg", "images/4f32e6ae-image-asset.jpeg"]
 ---
 # The Growth of Nations
 
@@ -15,7 +15,7 @@ May 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777807979-L8C725LR72UQKUOUACKC/image-asset.jpeg)
+![](images/bf207358-image-asset.jpeg)
 
 When we began the Hope House ministry eight years ago, people often asked, “Why don’t the Indians just use the local food bank?”  
   
@@ -29,7 +29,7 @@ It is not our job to “fix” the Native people we work with, but it is our cal
   
 It was never our intention to go on to the reservations with the resources to fix everything. It is not physically or financially possible. We have discovered, however, when individuals learn they are capable doing and succeeding at small things, they feel empowered! They, in turn, want to take on bigger projects and see bigger results.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777809519-XSHDSWL8STZ4IZOP80DA/image-asset.jpeg)
+![](images/4f32e6ae-image-asset.jpeg)
 
 Over the years, we’ve had amazing opportunities to be the hands and feet of Jesus on our local reservations and to assist the Native people in our area to start a number of small projects that led to bigger, tribe-initiated projects.  
   

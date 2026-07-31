@@ -5,7 +5,7 @@ date: 2019-12-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-landscapes-monday-december-30
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b14f19ed594d3b1183c6/1748628700852/2719ac13b387a5188d31798504851725.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773905710-NGDGC8GDDEC4C64F095F/image-asset.png"]
+images: ["images/b07dc712-2719ac13b387a5188d31798504851725.jpg", "images/1466e6e5-image-asset.png"]
 ---
 # Advent: Landscapes - Monday, December 30
 
@@ -15,7 +15,7 @@ Dec 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773905710-NGDGC8GDDEC4C64F095F/image-asset.png)
+![](images/1466e6e5-image-asset.png)
 
 ### And John went into all the region around the Jordan, proclaiming a baptism of repentance for the forgiveness of sins. . . “The voice of one crying in the wilderness: ‘Prepare the way of the Lord, make His paths straight. Every valley shall be filled, and every mountain and hill shall be made low, and the crooked shall become straight, and the rough places shall become level ways, and all flesh shall see the salvation of God.’”
 

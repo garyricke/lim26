@@ -5,7 +5,7 @@ date: 2020-12-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-countdown-tuesday-december-1-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af0145c85a1da505af40/1748628700852/b6f9e29972c72319059880f029cbe12b.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773316105-2W8TNWTVS7GT9SFHSMSL/image-asset.png"]
+images: ["images/64f8e5d8-b6f9e29972c72319059880f029cbe12b.jpg", "images/92934044-image-asset.png"]
 ---
 # The Countdown - Tuesday, December 1 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773316105-2W8TNWTVS7GT9SFHSMSL/image-asset.png)
+![](images/92934044-image-asset.png)
 
 ## For everything there is a season, and a time for every matter under heaven. [Ecclesiastes 3:1](https://my.bible.com/bible/111/ECC.3.1)
 

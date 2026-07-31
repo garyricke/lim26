@@ -5,7 +5,7 @@ date: 2017-08-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-612-13-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf47b65dbd3949cb8aa1/1748628700852/He+went+by+himself+to+a+mountain+where+he+prayed+all+night+to+the+Great+Spirit.+In+the+morning%2C+on+the+mountain+side%2C+he+gathered+the+ones+who+had+been+walking+the+road+with+him.+He+chose+twelve+of+them+to+be+.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777481139-0YKKS7PB023Q86HNBXBV/image-asset.png"]
+images: ["images/cf9d34b9-He_went_by_himself_to_a_mountain_where_he_prayed_all_night_to_the_Great_Spirit._In_the_morning__on_the_mountain_side__he", "images/a8e734d3-image-asset.png"]
 ---
 # Luke 6:12-13 FNV
 
@@ -13,7 +13,7 @@ Aug 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777481139-0YKKS7PB023Q86HNBXBV/image-asset.png)
+![](images/a8e734d3-image-asset.png)
 
 We often think one half hour a great deal to spend in meditation and secret prayer, but Christ was whole nights engaged in these duties. In serving God, our great care should be not to lose time, but to make the end of one good duty the beginning of another.
 

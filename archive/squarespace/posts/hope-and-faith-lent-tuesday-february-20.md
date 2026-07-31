@@ -5,7 +5,7 @@ date: 2018-02-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/hope-and-faith-lent-tuesday-february-20
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc81ab393413117fde0f/1748628700852/1cor15-4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776770774-Q6LUUAK92FOMT3AXV0O5/image-asset.png"]
+images: ["images/3fcda9ac-1cor15-4.jpg", "images/8f3c8cea-image-asset.png"]
 ---
 # Hope and Faith (Lent) - Tuesday, February 20
 
@@ -15,7 +15,7 @@ Feb 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776770774-Q6LUUAK92FOMT3AXV0O5/image-asset.png)
+![](images/8f3c8cea-image-asset.png)
 
 ### "If there is no resurrection of the dead, then not even Christ has been raised.  And if Christ has not been raised, our preaching is useless and so is your faith" [1 Corinthians 15:13-14 (NIV)](https://www.bible.com/bible/111/1CO.15.13-14)
 

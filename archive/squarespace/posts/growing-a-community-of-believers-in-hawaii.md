@@ -5,7 +5,7 @@ date: 2018-02-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/growing-a-community-of-believers-in-hawaii
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc4efc45ad1a48d733e3/1748628700852/17JulClarence.jpg"]
+images: ["images/7681c8a5-17JulClarence.jpg"]
 ---
 # Growing a Community of Believers in Hawaii
 

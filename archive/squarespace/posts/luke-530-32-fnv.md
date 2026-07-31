@@ -5,7 +5,7 @@ date: 2017-07-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-530-32-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfb540a2740f9d0607d5/1748628700852/%E2%80%9CPeople+who+are+well+do+not+need+medicine.+I+have+not+come+for+the+ones+with+good+hearts.+No%21+I+have+come+to+help+the+outcasts+find+the+path+back+home+again.%E2%80%9D.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777591034-UOC8OGXWLIRF44NPF7GB/image-asset.png"]
+images: ["images/344fb1a1-_People_who_are_well_do_not_need_medicine._I_have_not_come_for_the_ones_with_good_hearts._No__I_have_come_to_help_the_ou", "images/3b4618d8-image-asset.png"]
 ---
 # Luke 5:30-32 FNV
 
@@ -13,7 +13,7 @@ Jul 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777591034-UOC8OGXWLIRF44NPF7GB/image-asset.png)
+![](images/3b4618d8-image-asset.png)
 
 This was one of those sayings of the Lord which sank very deep into the hearts of the hearers.
 

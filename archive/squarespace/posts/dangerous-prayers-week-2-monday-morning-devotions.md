@@ -5,7 +5,7 @@ date: 2020-04-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/dangerous-prayers-week-2-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b01609a0b66f51ef46ab/1748628700852/DP_SplashPage_TitleandLogo-copy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773591964-1U08MZSEMMI6EKWKV2MN/image-asset.png"]
+images: ["images/844d5929-DP_SplashPage_TitleandLogo-copy.jpg", "images/032610eb-image-asset.png"]
 ---
 # Your Will Be Done: Week 2 - Monday Morning Devotions
 
@@ -13,7 +13,7 @@ Apr 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773591964-1U08MZSEMMI6EKWKV2MN/image-asset.png)
+![](images/032610eb-image-asset.png)
 
 In this crazy time, let’s refocus on God and the power of prayer. Join us for the next 7 weeks as we dive into Craig Groeschel’s “Dangerous Prayer: Following Jesus was Never Meant to be Safe” devotion series.
 

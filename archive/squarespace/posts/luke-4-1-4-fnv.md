@@ -5,7 +5,7 @@ date: 2017-01-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-4-1-4-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c409cdfe3c472ddf331e/1748628700852/For+forty+days+and+nights%2C+Creator+Sets+Free+%28Jesus%29+ate+nothing.+His+body+became+weak%2C+and+his+hunger+grew+strong.+When+the+evil+snake+saw+that+Creator+Sets+Free+%28Jesus%29+was+weak+and+hungry%2C+he+came+to+him+an.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778699610-3V7C3E1YH7BRFOYK65XE/image-asset.png"]
+images: ["images/e555d569-For_forty_days_and_nights__Creator_Sets_Free__Jesus__ate_nothing._His_body_became_weak__and_his_hunger_grew_strong._When", "images/58afe4db-image-asset.png"]
 ---
 # Luke 4: 1-4 FNV
 
@@ -13,7 +13,7 @@ Jan 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778699610-3V7C3E1YH7BRFOYK65XE/image-asset.png)
+![](images/58afe4db-image-asset.png)
 
 Long experience had taught the tempter that his most taking baits were those which appealed to the appetites and needs of the body, and so he tries these first.
 

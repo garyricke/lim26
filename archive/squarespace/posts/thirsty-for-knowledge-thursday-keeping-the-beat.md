@@ -5,7 +5,7 @@ date: 2017-05-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thirsty-for-knowledge-thursday-keeping-the-beat
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0caaaaa5d7dbb8f3fbf/1748628700852/maxresdefault+%282%29.jpg"]
+images: ["images/91c16fd3-maxresdefault__2_.jpg"]
 ---
 # Thirsty (for Knowledge) Thursday - Keeping the Beat
 

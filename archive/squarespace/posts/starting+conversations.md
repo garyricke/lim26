@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/starting+conversations
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774296928-SL7LWXIJ4GCGQGOGGY13/BtFwv2EIcAAQYZy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774308381-30DI49JTIL4RIJ4RVXWR/038ab030607874a7f0fddf2e7974020a.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774340630-TQSVCDUBLAAF69WYVRIY/23531dd508c8c4e11d97c82da1d3873d.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774358772-3HV4AK0ENJBYZF18MQDV/Eph3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774380719-SSW15LCI5TU9LXJ84Z6E/28584736_10107003188805530_1065246582_o.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774391028-G4TMYJ8E7VKPSD23LANB/1280x1280.jpg"]
+images: ["images/ad22140c-BtFwv2EIcAAQYZy.jpg", "images/dab75334-038ab030607874a7f0fddf2e7974020a.jpg", "images/eed6023e-23531dd508c8c4e11d97c82da1d3873d.jpg", "images/de781281-Eph3.jpg", "images/a394a8db-28584736_10107003188805530_1065246582_o.jpg", "images/55854d4e-1280x1280.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![On Board with God - Week 6 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774296928-SL7LWXIJ4GCGQGOGGY13/BtFwv2EIcAAQYZy.jpg)](/news-notes/on-board-with-god-week-6-monday-morning-devotion)
+[![On Board with God - Week 6 (Monday Morning Devotion)](images/ad22140c-BtFwv2EIcAAQYZy.jpg)](/news-notes/on-board-with-god-week-6-monday-morning-devotion)
 
 Guest User
 7/15/19
@@ -73,7 +73,7 @@ Then, sin entered the world. Many aspects of God's creation became broken—incl
 
 [Read More](/news-notes/on-board-with-god-week-6-monday-morning-devotion)
 
-[![The GROW Model - Week 5 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774308381-30DI49JTIL4RIJ4RVXWR/038ab030607874a7f0fddf2e7974020a.jpg)](/news-notes/the-grow-model-week-5-monday-morning-devotion)
+[![The GROW Model - Week 5 (Monday Morning Devotion)](images/dab75334-038ab030607874a7f0fddf2e7974020a.jpg)](/news-notes/the-grow-model-week-5-monday-morning-devotion)
 
 Guest User
 7/8/19
@@ -87,7 +87,7 @@ The GROW Model - goal, reality, options, way forward - uses the questions Jesus 
 
 [Read More](/news-notes/the-grow-model-week-5-monday-morning-devotion)
 
-[![Ask the Right Questions - Week 4 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774340630-TQSVCDUBLAAF69WYVRIY/23531dd508c8c4e11d97c82da1d3873d.jpg)](/news-notes/ask-the-right-questions-week-4-monday-morning-devotion)
+[![Ask the Right Questions - Week 4 (Monday Morning Devotion)](images/eed6023e-23531dd508c8c4e11d97c82da1d3873d.jpg)](/news-notes/ask-the-right-questions-week-4-monday-morning-devotion)
 
 Guest User
 7/1/19
@@ -103,7 +103,7 @@ It’s way easier and faster to just tell people what you think they need to kno
 
 [Read More](/news-notes/ask-the-right-questions-week-4-monday-morning-devotion)
 
-[![Creating Change - Week 3 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774358772-3HV4AK0ENJBYZF18MQDV/Eph3.jpg)](/news-notes/creating-change-week-3-monday-morning-devotion)
+[![Creating Change - Week 3 (Monday Morning Devotion)](images/de781281-Eph3.jpg)](/news-notes/creating-change-week-3-monday-morning-devotion)
 
 Guest User
 6/24/19
@@ -117,7 +117,7 @@ As a Christ follower, you have a unique advantage. You don't have to rely on you
 
 [Read More](/news-notes/creating-change-week-3-monday-morning-devotion)
 
-[![You Don't Have to be Perfect to Start - Week 2 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774380719-SSW15LCI5TU9LXJ84Z6E/28584736_10107003188805530_1065246582_o.jpg)](/news-notes/you-dont-have-to-be-perfect-to-start-week-2-monday-morning-devotion)
+[![You Don't Have to be Perfect to Start - Week 2 (Monday Morning Devotion)](images/a394a8db-28584736_10107003188805530_1065246582_o.jpg)](/news-notes/you-dont-have-to-be-perfect-to-start-week-2-monday-morning-devotion)
 
 Guest User
 6/17/19
@@ -135,7 +135,7 @@ Abraham Lincoln, a man who united a nation and put an end to slavery, was mentor
 
 [Read More](/news-notes/you-dont-have-to-be-perfect-to-start-week-2-monday-morning-devotion)
 
-[![Starting the Conversation - Week 1 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774391028-G4TMYJ8E7VKPSD23LANB/1280x1280.jpg)](/news-notes/starting-the-conversation-week-1-monday-morning-devotion)
+[![Starting the Conversation - Week 1 (Monday Morning Devotion)](images/55854d4e-1280x1280.jpg)](/news-notes/starting-the-conversation-week-1-monday-morning-devotion)
 
 Guest User
 6/10/19

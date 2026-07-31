@@ -5,7 +5,7 @@ date: 2017-03-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/burning-the-tree
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c17e570b9a14322a3e1e/1748628700852/17bb4ccdb123af462ddee695da8e92da.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778047322-3B9YIMTOX9UZJ0818IR8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778048423-GD8CSKR5HVV5KQ1RJZ9C/image-asset.jpeg"]
+images: ["images/84493f80-17bb4ccdb123af462ddee695da8e92da.jpg", "images/ce340e08-image-asset.jpeg", "images/975ca884-image-asset.jpeg"]
 ---
 # Burning the Tree
 
@@ -31,7 +31,7 @@ A year after his release, Rick agreed to join Joseph far into the bush of Canada
 
 In the shade beneath the tree, Joseph sat down and cried and called out to God to heal his heart, for it was in this exact place that Joseph, himself, had been sexually abused as a child. This large and foreboding tree was symbolic of all the hurt and pain that Joseph had felt since that day.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778047322-3B9YIMTOX9UZJ0818IR8/image-asset.jpeg)
+![](images/ce340e08-image-asset.jpeg)
 
 When his sobs died down and his eyes had cleared, Joseph started up the chainsaw he had brought with him and took down the tree, cut it into large chunks, and lit a fire. While the fire took hold, Joseph began to read a letter he had written to his father, the main abuser of his childhood. When he finished, he tossed the paper into the fire, as well. As the flames shot up and engulfed the tree that had once stood as a reminder of his past, Joseph began to pray to his Redeemer, Jesus.
 
@@ -51,7 +51,7 @@ Years later, tragedy struck Joseph's community. Two young men took their own liv
 
 "In my past life," Joseph explains, "I would have been crushed under that sadness. I would have found the closest bottle of alcohol and my family would have paid dearly for it." But now, Joseph was on fire for the Lord. For the past few years, Rick had mentored and discipled him during regular visits, and, although Joseph still struggled daily to the live the life of a child of Christ, he was at a place in his faith (and had seen it in his own life) where he could trust that God could use these tragedies for something good.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778048423-GD8CSKR5HVV5KQ1RJZ9C/image-asset.jpeg)
+![](images/975ca884-image-asset.jpeg)
 
 Knowing the grief the community was suffering with, Joseph organized a community healing dinner. People young and old came together for a potlatch, comforting one another with shared personal memories of the lost loved ones. Butcher paper covered the tables and crayons were provided, and the people were encouraged to write down their thoughts and express their pain, grief, and confusion.
 

@@ -5,7 +5,7 @@ date: 2020-12-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/identity-friday-december-18-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aea531413017034b2ede/1748628700852/matthew2_4-6.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773224922-IQ9IUPYV58BBUHPPWWEE/image-asset.png"]
+images: ["images/2dc935c0-matthew2_4-6.jpg", "images/050b28c4-image-asset.png"]
 ---
 # Identity - Friday, December 18 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773224922-IQ9IUPYV58BBUHPPWWEE/image-asset.png)
+![](images/050b28c4-image-asset.png)
 
 ## AND YOU, O BETHLEHEM, IN THE LAND OF JUDAH, ARE BY NO MEANS LEAST AMONG THE RULERS OF JUDAH; FOR FROM YOU SHALL COME A RULER WHO WILL SHEPHERD MY PEOPLE ISRAEL. [Matthew 2:6](https://my.bible.com/bible/111/MAT.2.6)
 

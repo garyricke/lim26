@@ -5,7 +5,7 @@ date: 2015-03-31
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/news-from-brookfield/native-americans-congressional-cemetery-washington-dc
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd0accfd4171883f27b0/1665785107872/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785099933-95CW5LH9EIGW6CL2I592/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785101820-4T2CD7Z06VJMYH9PW5T2/image-asset.jpeg"]
+images: ["images/b714e2c0-1665785107872", "images/ff81bb68-image-asset.jpeg", "images/a6fd8dd0-image-asset.jpeg"]
 ---
 # Native Americans and Congressional Cemetery in Washington, DC
 
@@ -19,13 +19,13 @@ On a warm spring afternoon recently, my wife and I visited a rather obscure Wash
 
 We then noticed graves of Native Americans in the cemetery: Apache chief Taza, son of Cochise; Pushmataha, a Choctaw chief and general who served under Andrew Jackson during the Battle of New Orleans; and Capt. John Rogers, a Cherokee chief and forebearer of American humorist Will Rogers.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785099933-95CW5LH9EIGW6CL2I592/image-asset.jpeg)
+![](images/ff81bb68-image-asset.jpeg)
 
 Congressional Cemetery Washington DC Native Americans
 
 **There were 36 Native Americans buried at** [**Congressional Cemetery**](http://www.congressionalcemetery.org/)**.** In researching this, I learned that most were in Washington negotiating treaties or agreements with the United States government. While in DC, many contracted various “white man” diseases, such as measles, pneumonia, croup, etc., and died.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785101820-4T2CD7Z06VJMYH9PW5T2/image-asset.jpeg)
+![](images/a6fd8dd0-image-asset.jpeg)
 
 Congressional Cemetery Washington DC Native American Headstone
 

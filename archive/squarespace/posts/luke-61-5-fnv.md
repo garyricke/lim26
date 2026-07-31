@@ -5,7 +5,7 @@ date: 2017-08-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-61-5-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf739fbe2f30bcd0464f/1748628700852/On+another+Day+of+Resting%2C+Creator+Sets+Free+%28Jesus%29+and+his+followers+were+walking+through+a+field+of+grain.+The+men+were+hungry%2C+so+they+plucked+some+grain%2C+rubbed+the+husks+off+in+their+hands+and+began+to+e.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777525251-2G9NZV3LQR13YQ0J8SFA/image-asset.png"]
+images: ["images/9446b9db-On_another_Day_of_Resting__Creator_Sets_Free__Jesus__and_his_followers_were_walking_through_a_field_of_grain._The_men_we", "images/f2ffb7fc-image-asset.png"]
 ---
 # Luke 6:1-5 FNV
 
@@ -13,7 +13,7 @@ Aug 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777525251-2G9NZV3LQR13YQ0J8SFA/image-asset.png)
+![](images/f2ffb7fc-image-asset.png)
 
 The Sabbath was made for man; therefore it was lawful to do good on the Sabbath. Thus we see that, according to our Saviour, no act of necessity nor of mercy is a breach of the Sabbath.
 

@@ -5,7 +5,7 @@ date: 2020-03-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/we-are-on-the-way-to-resurrection
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b07cac64b420975ee8cf/1748628700852/86d4694d6432e53d74dbcb4aba8a967e.jpg"]
+images: ["images/0c129b35-86d4694d6432e53d74dbcb4aba8a967e.jpg"]
 ---
 # We are on the Way to Resurrection - Lent 2020
 

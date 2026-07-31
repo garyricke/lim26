@@ -5,7 +5,7 @@ date: 2019-12-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-when-storms-arise-sunday-december-8
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b18a75bd3d30f0f31e12/1748628700852/Mark-4.39b.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773963975-PV2ZKITNAGA4W1VAXR8S/image-asset.png"]
+images: ["images/28415f7e-Mark-4.39b.png", "images/5ffa88fc-image-asset.png"]
 ---
 # Advent: When Storms Arise -Sunday, December 8
 
@@ -13,7 +13,7 @@ Dec 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773963975-PV2ZKITNAGA4W1VAXR8S/image-asset.png)
+![](images/5ffa88fc-image-asset.png)
 
 ### On that day, when evening had come, he said to them, “Let us go across to the other side.” And leaving the crowd, they took him with them in the boat, just as he was. And other boats were with him. And a great windstorm arose, and the waves were breaking into the boat, so that the boat was already filling. But he was in the stern, asleep on the cushion. And they woke him and said to him, “Teacher, do you not care that we are perishing?” And he awoke and rebuked the wind and said to the sea, “Peace! Be still!” And the wind ceased, and there was a great calm. He said to them, “Why are you so afraid? Have you still no faith?” And they were filled with great fear and said to one another, “Who then is this, that even the wind and the sea obey him?”
 

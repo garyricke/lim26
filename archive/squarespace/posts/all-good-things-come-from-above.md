@@ -5,7 +5,7 @@ date: 2017-11-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/all-good-things-come-from-above
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be68fd8ac76e12bc7b29/1748628700852/Every+good+and+perfect+giftis+from+aboveJames+1-17+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777257662-8Y4NNRUMB477ODV1OHW0/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/338f1d6f-Every_good_and_perfect_giftis_from_aboveJames_1-17__1_.png", "images/f2ce3c13-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # All Good Things Come from Above
 
@@ -13,7 +13,7 @@ Nov 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777257662-8Y4NNRUMB477ODV1OHW0/image-asset.png)
+![](images/f2ce3c13-image-asset.png)
 
 ## “Every good and perfect gift is from above” James 1:17
 
@@ -70,7 +70,7 @@ Lutheran Indian Ministries
 
 ### **Ministry opportunities abound, and your gift is the flame that can ignite the fire!**
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer Paypal? Click here
 

@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/lent+devotion+2016
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781539412-2PC85FQ9VW54WGP5C8LF/tipis+with+logo.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781543877-TBVHAXTLJH2FPURDU5L1/tipis+with+logo.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781556407-63UKXK4MIB7I9SMESVX0/tipis+with+logo.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781560289-IQJCWSWFA9DLNR2X4OTO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781565435-V3YZIMHYCGDZMGF7R6M4/tipis+with+logo.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781569554-C3PTQRZX8Z2T5TXGEPRJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781573291-2WJURCT1KQEF3VWT5D2O/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781577479-YR17LK6ZZPLQ6DCJJKHX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781585411-S2MMNHG361BF2434C2TQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781602360-BQOCE8FAXRWKJXUPWDF3/image-asset.jpeg"]
+images: ["images/314d3ef6-tipis_with_logo.jpg", "images/b3f4410e-tipis_with_logo.jpg", "images/4597b403-tipis_with_logo.jpg", "images/969c1aa5-image-asset.jpeg", "images/f1f009b2-tipis_with_logo.jpg", "images/3049a2a0-image-asset.jpeg", "images/fb6db768-image-asset.jpeg", "images/3afc85cf-image-asset.jpeg", "images/f47c16ad-image-asset.jpeg", "images/a8c2778c-image-asset.jpeg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![The Good News of Freedom! - Matthew 28:7](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781539412-2PC85FQ9VW54WGP5C8LF/tipis+with+logo.jpg)](/news-notes/category/the-good-news-of-freedom-matthew-287)
+[![The Good News of Freedom! - Matthew 28:7](images/314d3ef6-tipis_with_logo.jpg)](/news-notes/category/the-good-news-of-freedom-matthew-287)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -81,7 +81,7 @@ The Good News of Freedom! - Matthew 28:7 (NIV)
 
 [Read More](/news-notes/category/the-good-news-of-freedom-matthew-287)
 
-[![One Hour - Mark 14:37](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781543877-TBVHAXTLJH2FPURDU5L1/tipis+with+logo.jpg)](/news-notes/category/one-hour-mark-1437)
+[![One Hour - Mark 14:37](images/b3f4410e-tipis_with_logo.jpg)](/news-notes/category/one-hour-mark-1437)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -103,7 +103,7 @@ I have lunch with the elders of our community on a weekly basis.  On this parti
 
 [Read More](/news-notes/category/one-hour-mark-1437)
 
-[![The Thief on the Cross - Luke 23:43](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781556407-63UKXK4MIB7I9SMESVX0/tipis+with+logo.jpg)](/news-notes/category/the-thief-on-the-cross-luke-2343)
+[![The Thief on the Cross - Luke 23:43](images/4597b403-tipis_with_logo.jpg)](/news-notes/category/the-thief-on-the-cross-luke-2343)
 
 Guest User
 3/25/16
@@ -125,7 +125,7 @@ Some blame, even curse God for their circumstances much like the unrepentant thi
 
 [Read More](/news-notes/category/the-thief-on-the-cross-luke-2343)
 
-[![God's Will Be Done - Psalm 40:8](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781560289-IQJCWSWFA9DLNR2X4OTO/image-asset.jpeg)](/news-notes/category/gods-will-be-done-psalm-408)
+[![God's Will Be Done - Psalm 40:8](images/969c1aa5-image-asset.jpeg)](/news-notes/category/gods-will-be-done-psalm-408)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -139,7 +139,7 @@ Guest User
 
 [Read More](/news-notes/category/gods-will-be-done-psalm-408)
 
-[![Still “Thee Light House” - Psalm 27:1](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781565435-V3YZIMHYCGDZMGF7R6M4/tipis+with+logo.jpg)](/news-notes/category/still-thee-light-house-psalm-271)
+[![Still “Thee Light House” - Psalm 27:1](images/f1f009b2-tipis_with_logo.jpg)](/news-notes/category/still-thee-light-house-psalm-271)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -161,7 +161,7 @@ High above Lake Superior at almost ten thousand feet the view was spectacular. 
 
 [Read More](/news-notes/category/still-thee-light-house-psalm-271)
 
-[![It is Finished! - 1 Corinthians 15:55](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781569554-C3PTQRZX8Z2T5TXGEPRJ/image-asset.jpeg)](/news-notes/category/it-is-finished-1-corinthians-1555)
+[![It is Finished! - 1 Corinthians 15:55](images/3049a2a0-image-asset.jpeg)](/news-notes/category/it-is-finished-1-corinthians-1555)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -175,7 +175,7 @@ Guest User
 
 [Read More](/news-notes/category/it-is-finished-1-corinthians-1555)
 
-[![Time to Awaken - Matthew 26:41](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781573291-2WJURCT1KQEF3VWT5D2O/image-asset.jpeg)](/news-notes/category/time-to-awaken-matthew-2641)
+[![Time to Awaken - Matthew 26:41](images/fb6db768-image-asset.jpeg)](/news-notes/category/time-to-awaken-matthew-2641)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -189,7 +189,7 @@ Guest User
 
 [Read More](/news-notes/category/time-to-awaken-matthew-2641)
 
-[![Punishment and Peace - Isaiah 53:5](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781577479-YR17LK6ZZPLQ6DCJJKHX/image-asset.jpeg)](/news-notes/category/punishment-and-peace-isaiah-535)
+[![Punishment and Peace - Isaiah 53:5](images/3afc85cf-image-asset.jpeg)](/news-notes/category/punishment-and-peace-isaiah-535)
 
 Guest User
 3/20/16
@@ -201,7 +201,7 @@ Guest User
 
 [Read More](/news-notes/category/punishment-and-peace-isaiah-535)
 
-[![​Don't Give Up! - Psalm 135:14](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781585411-S2MMNHG361BF2434C2TQ/image-asset.jpeg)](/news-notes/category/dont-give-up-psalm-13514)
+[![​Don't Give Up! - Psalm 135:14](images/f47c16ad-image-asset.jpeg)](/news-notes/category/dont-give-up-psalm-13514)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -215,7 +215,7 @@ Guest User
 
 [Read More](/news-notes/category/dont-give-up-psalm-13514)
 
-[![The Unfathomable Love of God - Romans 8:32](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781602360-BQOCE8FAXRWKJXUPWDF3/image-asset.jpeg)](/news-notes/category/the-unfathomable-love-of-god-romans-832)
+[![The Unfathomable Love of God - Romans 8:32](images/a8c2778c-image-asset.jpeg)](/news-notes/category/the-unfathomable-love-of-god-romans-832)
 
 Guest User
 3/18/16

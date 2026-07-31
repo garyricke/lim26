@@ -5,7 +5,7 @@ date: 2020-03-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/my-father-is-with-me
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b09f981ba40c2a99ac56/1748628700852/John_16_32-1920x1080_watermarked.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773729131-LDLKD1DZDGR9YBWNP9P9/image-asset.png"]
+images: ["images/36c7695f-John_16_32-1920x1080_watermarked.jpg", "images/ff763136-image-asset.png"]
 ---
 # My Father is With Me - Lent 2020
 
@@ -15,7 +15,7 @@ Mar 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773729131-LDLKD1DZDGR9YBWNP9P9/image-asset.png)
+![](images/ff763136-image-asset.png)
 
 ### Yet I am not alone, for my Father is with me. [John 16:32](https://www.bible.com/bible/111/jhn.16.32)
 

@@ -5,7 +5,7 @@ date: 2018-07-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/well-done-good-and-faithful-servant
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b878b70da5601eda5c9a/1748628700852/Well+done%2C+good+and+faithful+servant.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775737820-U8APA5K26A4GFILJKDJ7/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/3a9c6fec-Well_done__good_and_faithful_servant.png", "images/53f75de3-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Well done, good and faithful servant
 
@@ -15,7 +15,7 @@ Jul 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775737820-U8APA5K26A4GFILJKDJ7/image-asset.png)
+![](images/53f75de3-image-asset.png)
 
 “Well done, good and faithful servant.”  
 Matthew 25:23
@@ -62,7 +62,7 @@ Lutheran Indian Ministries
 
 ### Your gifts to this ministry change lives and save souls.
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

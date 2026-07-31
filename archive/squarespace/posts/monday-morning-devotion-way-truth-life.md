@@ -5,7 +5,7 @@ date: 2016-09-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/monday-morning-devotion-way-truth-life
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c557492474407c7d9e52/1748628700852/John-146.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779032926-YD2HYQTP0K7Q7L0MU1QB/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779033896-RD1IPN6F7TRT28YJQQUS/image-asset.jpeg"]
+images: ["images/0922975a-John-146.jpg", "images/f130e23e-image-asset.png", "images/b0fde4ad-image-asset.jpeg"]
 ---
 # Monday Morning Devotion - Way, Truth, & Life
 
@@ -15,7 +15,7 @@ Sep 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779032926-YD2HYQTP0K7Q7L0MU1QB/image-asset.png)
+![](images/f130e23e-image-asset.png)
 
 This is week SIX in our seven-part devotion series, brought to you by Pastor Ricky Jacob, our Lutheran Indian Ministries Associate Pastor serving the Winnebago people of Nebraska.
 
@@ -37,7 +37,7 @@ Skip to a specific week:
 
 This week’s “I am” statement is: I am the Way, the Truth, and the Life.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779033896-RD1IPN6F7TRT28YJQQUS/image-asset.jpeg)
+![](images/b0fde4ad-image-asset.jpeg)
 
 There appear to be various ways and paths to God, in this day in age.
 

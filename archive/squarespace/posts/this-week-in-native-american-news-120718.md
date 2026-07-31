@@ -5,7 +5,7 @@ date: 2018-12-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-120718
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b77cab393413117ef84b/1748628700852/5c05d00501957.image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775484510-FLQZKB3ZLGTG10ZH0LLU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775485468-P4T6SEGLOSYNYDO270I1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775486306-5KLR3J7JQJEHOAV9DVMH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775486891-780WSKWUL77PNFGAG1NO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775487786-6X7UT210M90L75AS39VQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775488605-SSL5594UUSO88OU8PK5Q/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775489394-HWTM1ZRY3TQ0J2NXS0CM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775490428-TZ0HN0EFLH56GBSVJFBO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775491300-KXMOM6U8OFKKP7CC3CWW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775492153-SKPV3C11DMYAVR7NFGZT/image-asset.png"]
+images: ["images/7caddd02-5c05d00501957.image.jpg", "images/b5e64f31-image-asset.jpeg", "images/00b4d7a6-image-asset.jpeg", "images/a16f7886-image-asset.jpeg", "images/8de35491-image-asset.jpeg", "images/247b3590-image-asset.jpeg", "images/3f230ee8-image-asset.jpeg", "images/7c621dfc-image-asset.jpeg", "images/96d79cd9-image-asset.jpeg", "images/60654abd-image-asset.jpeg", "images/46d72fc0-image-asset.png"]
 ---
 # This Week in Native American News (12/7/18): Liquor store turned makerspace and other gift ideas
 
@@ -13,7 +13,7 @@ Dec 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775484510-FLQZKB3ZLGTG10ZH0LLU/image-asset.jpeg)
+![](images/b5e64f31-image-asset.jpeg)
 
 # December 7, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Former beer store in Whiteclay to become a 'makerspace' for artisans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775485468-P4T6SEGLOSYNYDO270I1/image-asset.jpeg)
+![](images/00b4d7a6-image-asset.jpeg)
 
 The former Arrowhead Inn, a liquor store in Whiteclay, Nebraska, has been purchased to turn into a space for local artisans to work. WHITECLAY MAKERSPACE
 
@@ -37,7 +37,7 @@ The purchase was hailed a “first step” toward converting Whiteclay into a pl
 
 ## The 23rd RNCI Red Nation International Film Festival
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775486306-5KLR3J7JQJEHOAV9DVMH/image-asset.jpeg)
+![](images/a16f7886-image-asset.jpeg)
 
 *Wayne Baker/ Indian Horse, Glenna Slater/ UmoNhoN Iye THE OMAHA SPEAKING. Ajuawak Kapashesit/Indian Horse, Brigitte Timmerman/ UmoNhoN Iye THE OMAHA SPEAKING. Photo courtesy: Headshots by Peggy*
 
@@ -53,7 +53,7 @@ The 23rd RNCI Red Nation International Film Festival & Awards, presented by Fil
 
 ## AAIA holds Fourth Annual Repatriation Conference
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775486891-780WSKWUL77PNFGAG1NO/image-asset.jpeg)
+![](images/8de35491-image-asset.jpeg)
 
 This Northern Cheyenne headdress was offered to sale to a Norwegian collector for $140,000. Photo Credit: Albuquerque Journal
 
@@ -71,7 +71,7 @@ The Repatriation Conference is designed to share best practices, strategies, and
 
 ## Today’s History Lesson
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775487786-6X7UT210M90L75AS39VQ/image-asset.jpeg)
+![](images/247b3590-image-asset.jpeg)
 
 ### [The National Archives and Records Administration has begun an effort to conserve and digitize 377 Native American treaties.](https://americanlibrariesmagazine.org/latest-links/efforts-begin-digitize-377-native-treaties/)
 
@@ -81,7 +81,7 @@ The project will add the treaties and supplemental records to the digital cata
 
 ## Christmas Gift Ideas that Support Native Peoples
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775488605-SSL5594UUSO88OU8PK5Q/image-asset.jpeg)
+![](images/3f230ee8-image-asset.jpeg)
 
 ### [What does it mean to be Native American? A new novel offers a bracing answer.](https://www.washingtonpost.com/entertainment/books/what-does-it-mean-to-be-native-american-a-new-novel-offers-a-bracing-answer/2018/05/29/a508d0ba-6289-11e8-a768-ed043e33f1dc_story.html?utm_term=.1621fc7f928b)
 
@@ -91,7 +91,7 @@ Tommy Orange’s “There, There” reached #8 on the New York Times Best Seller
 
 [**Buy it here**](https://amzn.to/2L1xcEs)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775489394-HWTM1ZRY3TQ0J2NXS0CM/image-asset.jpeg)
+![](images/7c621dfc-image-asset.jpeg)
 
 ### [Pendleton edition Nikes will be available in December.](https://www.sneakerfiles.com/nike-pg-2-5-pendleton-ci0294-900-release-date/)
 
@@ -99,13 +99,13 @@ This Nike PG 2.5 comes dressed in a Multi-Color and College Navy color combina
 
 Full disclosure: We are not aware of any benefit to Native peoples by purchasing Pendelton Nikes but they do look cool.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775490428-TZ0HN0EFLH56GBSVJFBO/image-asset.jpeg)
+![](images/96d79cd9-image-asset.jpeg)
 
 ### [Sealaska Heritage Institute releases new Baby Raven Reads books](https://newsmaven.io/indiancountrytoday/the-press-pool/sealaska-heritage-institute-releases-new-baby-raven-reads-books-iHII3PnRH0WW9G2XiXCVkw/)
 
 “The original Raven stories are complex, humorous and sometimes filled with raucous adventures. Raven stories are not about what is viewed as proper behavior, but what is *not* acceptable behavior,” Worl said. “Raven the Trickster is found in oral traditions throughout North America and elsewhere in the world and teaches people how to exist in society.” The books were adapted from the works of the late Nora and Dick Dauenhauer, who transcribed the stories from Elders’ oral accounts.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775491300-KXMOM6U8OFKKP7CC3CWW/image-asset.jpeg)
+![](images/60654abd-image-asset.jpeg)
 
 ### [Support Local, LIVING Artists](https://newsmaven.io/indiancountrytoday/the-press-pool/aaia-buyers-should-invest-in-contemporary-native-american-art-0l1wKQ9pIECQww93TuB78w/)
 
@@ -123,7 +123,7 @@ Need help? [**Search “Native American Artist” on Etsy**](https://www.etsy.co
 
 # Today is your last chance to take part in our gift match. Click below!
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775492153-SKPV3C11DMYAVR7NFGZT/image-asset.png)](https://www.lutheranindianministries.org/news/gathering-to-give-thanks/#it-is-like-a-bogo)
+[![](images/46d72fc0-image-asset.png)](https://www.lutheranindianministries.org/news/gathering-to-give-thanks/#it-is-like-a-bogo)
 
 ---
 

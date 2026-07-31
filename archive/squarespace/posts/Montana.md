@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Montana
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773734636-RDLRQ6O23JP6P9VB6WMC/i_will_praise_thee-101610.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773860808-Z9C14E55OUB7LUH704GO/82213778_10217359258437513_4891921776814063616_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781750341-45UI8S6M76MBAQKWKM96/image-asset.jpeg"]
+images: ["images/4bb1fd30-i_will_praise_thee-101610.jpg", "images/cfd53dd9-82213778_10217359258437513_4891921776814063616_n.jpg", "images/6aa84218-image-asset.jpeg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Montana Healing Project](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773734636-RDLRQ6O23JP6P9VB6WMC/i_will_praise_thee-101610.jpg)](/news-notes/montana-healing-project)
+[![Montana Healing Project](images/4bb1fd30-i_will_praise_thee-101610.jpg)](/news-notes/montana-healing-project)
 
 [Montana](/news-notes/category/Montana)
 Guest User
@@ -75,7 +75,7 @@ Because you recognize the importance of this work, LIM has been able to send our
 
 [Read More](/news-notes/montana-healing-project)
 
-[![The Montana Healing Project (times 2)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773860808-Z9C14E55OUB7LUH704GO/82213778_10217359258437513_4891921776814063616_n.jpg)](/news-notes/the-montana-healing-project-times-2)
+[![The Montana Healing Project (times 2)](images/cfd53dd9-82213778_10217359258437513_4891921776814063616_n.jpg)](/news-notes/the-montana-healing-project-times-2)
 
 [Montana](/news-notes/category/Montana)
 Guest User
@@ -93,7 +93,7 @@ In January, our team took their second trip to Montana and were blown away by th
 
 [Read More](/news-notes/the-montana-healing-project-times-2)
 
-[![Sleeping Under the Cross - Psalm 4:8](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781750341-45UI8S6M76MBAQKWKM96/image-asset.jpeg)](/news-notes/category/sleeping-under-the-cross-psalm-48)
+[![Sleeping Under the Cross - Psalm 4:8](images/6aa84218-image-asset.jpeg)](/news-notes/category/sleeping-under-the-cross-psalm-48)
 
 [Montana](/news-notes/category/Montana)
 Guest User

@@ -5,7 +5,7 @@ date: 2018-02-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/whats-weighing-us-down-lent-wednesday-february-28
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc4fd102823ae1a76a2b/1748628700852/c7bb0e291a041d96500fcb4860918717--scripture-arrows-scripture-tattoos.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776720838-7G19S9X892RNJN7XX2G1/image-asset.png"]
+images: ["images/6c5d6d2e-c7bb0e291a041d96500fcb4860918717--scripture-arrows-scripture-tattoos.jpg", "images/7045327c-image-asset.png"]
 ---
 # What's Weighing Us Down? (Lent) - Wednesday, February 28
 
@@ -15,7 +15,7 @@ Feb 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776720838-7G19S9X892RNJN7XX2G1/image-asset.png)
+![](images/7045327c-image-asset.png)
 
 ### "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God."   [Hebrews 12:1-2 (ESV)](https://www.bible.com/bible/111/HEB.12.1-2)
 

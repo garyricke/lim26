@@ -5,7 +5,7 @@ date: 2016-11-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/ice-road-faith-november-30
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c49be32d1337947922ed/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778845057-H872UGBI3FDRUX0BKP1J/image-asset.png"]
+images: ["images/d2874e83-2016_Advent_Devotions.png", "images/44b5bd84-image-asset.png"]
 ---
 # Ice Road Faith: November 30
 
@@ -15,7 +15,7 @@ Nov 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778845057-H872UGBI3FDRUX0BKP1J/image-asset.png)
+![](images/44b5bd84-image-asset.png)
 
 ## “. . . We saw his star in the east and have come to worship him.” Matthew 2:2 (NIV)
 

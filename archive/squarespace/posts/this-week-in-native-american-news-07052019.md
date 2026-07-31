@@ -5,7 +5,7 @@ date: 2019-07-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-07052019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2ee3a0e05602625d294/1748628700852/6a01156f5f4ba1970b01b7c9087e1b970b-550wi.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774319873-2UJK8C32K28S81A2DB1C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774321807-ZWUNWIAZ4BEN79NA0P6K/image-asset.png"]
+images: ["images/0459aec3-6a01156f5f4ba1970b01b7c9087e1b970b-550wi.png", "images/8830b5e9-image-asset.jpeg", "images/4e3f548d-image-asset.png"]
 ---
 # This Week in Native American News (7/5/19): Happy 4th of July Weekend
 
@@ -13,7 +13,7 @@ Jul 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774319873-2UJK8C32K28S81A2DB1C/image-asset.jpeg)
+![](images/8830b5e9-image-asset.jpeg)
 
 # July 5, 2019 - Happy 4th of July Weekend!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Do American Indians celebrate the 4th of July?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774321807-ZWUNWIAZ4BEN79NA0P6K/image-asset.png)
+![](images/4e3f548d-image-asset.png)
 
 The Pawnee Indian Veterans Homecoming Pow Wow recognizes returning military servicemen and women. Pawnee, Oklahoma. The 71st annual Pawnee homecoming took place this year from June 29 to July 2. Photo courtesy of Pius Spottedhorsechief, vice president of the Pawnee Indian Veterans.
 

@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/sacred+mysteries
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775614502-XKMTY3VZTOHONH05E9RW/the+union+of.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775617020-W3B6JF9LC2ZNB6Q7GNG5/the+union+of.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775627493-OYZDL1XPXOOKAVRCHGKB/the+union+of.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775645499-G6JZ8H8TL5QD8ZLLJXX8/the+union+of.jpg"]
+images: ["images/937c336f-the_union_of.jpg", "images/47da58ad-the_union_of.jpg", "images/27763a9a-the_union_of.jpg", "images/6b9d2a92-the_union_of.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Sacred Mysteries by Francis Chan - Week 4 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775614502-XKMTY3VZTOHONH05E9RW/the+union+of.jpg)](/news-notes/sacred-mysteries-by-francis-chan-week-4-monday-morning-devotions)
+[![Sacred Mysteries by Francis Chan - Week 4 (Monday Morning Devotions)](images/937c336f-the_union_of.jpg)](/news-notes/sacred-mysteries-by-francis-chan-week-4-monday-morning-devotions)
 
 Guest User
 10/8/18
@@ -75,7 +75,7 @@ So, why aren’t we amazed by Jesus?
 
 [Read More](/news-notes/sacred-mysteries-by-francis-chan-week-4-monday-morning-devotions)
 
-[![Sacred Mysteries by Francis Chan - Week 3 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775617020-W3B6JF9LC2ZNB6Q7GNG5/the+union+of.jpg)](/news-notes/sacred-mysteries-by-francis-chan-week-3-monday-morning-devotions)
+[![Sacred Mysteries by Francis Chan - Week 3 (Monday Morning Devotions)](images/47da58ad-the_union_of.jpg)](/news-notes/sacred-mysteries-by-francis-chan-week-3-monday-morning-devotions)
 
 Guest User
 10/1/18
@@ -89,7 +89,7 @@ Gathering with the Church should lead us to holy ground. You get to come and wor
 
 [Read More](/news-notes/sacred-mysteries-by-francis-chan-week-3-monday-morning-devotions)
 
-[![Sacred Mysteries by Francis Chan - Week 2 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775627493-OYZDL1XPXOOKAVRCHGKB/the+union+of.jpg)](/news-notes/sacred-mysteries-by-francis-chan-week-2-monday-morning-devotions)
+[![Sacred Mysteries by Francis Chan - Week 2 (Monday Morning Devotions)](images/27763a9a-the_union_of.jpg)](/news-notes/sacred-mysteries-by-francis-chan-week-2-monday-morning-devotions)
 
 Guest User
 9/24/18
@@ -107,7 +107,7 @@ The New Testament describes something even greater. **The fact that I covet the 
 
 [Read More](/news-notes/sacred-mysteries-by-francis-chan-week-2-monday-morning-devotions)
 
-[![Sacred Mysteries by Francis Chan - Week 1 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775645499-G6JZ8H8TL5QD8ZLLJXX8/the+union+of.jpg)](/news-notes/sacred-mysteries-by-francis-chan-week-1-monday-morning-devotions)
+[![Sacred Mysteries by Francis Chan - Week 1 (Monday Morning Devotions)](images/6b9d2a92-the_union_of.jpg)](/news-notes/sacred-mysteries-by-francis-chan-week-1-monday-morning-devotions)
 
 Guest User
 9/17/18

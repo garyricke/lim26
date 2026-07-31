@@ -5,7 +5,7 @@ date: 2017-03-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-to-watch-seasoned-with-spirit
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c14db5450373d86ec38f/1748628700852/4c55604a9aa849189beb542b4e84f393.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777997991-MC3J9W6X3KWSIQL3P267/image-asset.jpeg"]
+images: ["images/98db575a-4c55604a9aa849189beb542b4e84f393.jpg", "images/b0eb67b9-image-asset.jpeg"]
 ---
 # What to Watch: Seasoned with Spirit
 
@@ -19,7 +19,7 @@ Watch them while they are available!
 
 This week's featured film is: [Seasoned with Spirit](http://americanarchive.org/catalog/cpb-aacip_508-7m03x8484m)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777997991-MC3J9W6X3KWSIQL3P267/image-asset.jpeg)
+![](images/b0eb67b9-image-asset.jpeg)
 
 This week, Vision Maker Media takes a culinary journey with Loretta Barrett Oden, a renowned Native American chef, food historian and lecturer, and proud woman of the Citizen Potawatomi Nation.
 

@@ -5,7 +5,7 @@ date: 2018-03-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/welcometophoenix
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbeb5b3de4701de1cf01/1748628700852/Love+Your+Brother.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776621513-IMDK9H1IWWF44FYA27IZ/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/3f87c16e-Love_Your_Brother.png", "images/abb4e68c-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Here we go, Phoenix!
 
@@ -15,7 +15,7 @@ Mar 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776621513-IMDK9H1IWWF44FYA27IZ/image-asset.png)
+![](images/abb4e68c-image-asset.png)
 
 It is the fifth largest city in the United States, in a state with the second largest Native population in the Nation.
 
@@ -86,7 +86,7 @@ Tim Young Eagle
 
 ### Then, give with faith and confidence.
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

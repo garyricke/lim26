@@ -5,7 +5,7 @@ date: 2019-07-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/patience-fruit-of-the-spirit-study-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2adeb83c9576f8ee541/1748628700852/IMG_2760.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774255530-XE1CQPA1NY7E0MH246AM/image-asset.png"]
+images: ["images/d36a4370-IMG_2760.jpg", "images/f28d974b-image-asset.png"]
 ---
 # Patience - Fruit of the Spirit Study (Monday Morning Devotions)
 
@@ -15,7 +15,7 @@ Jul 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774255530-XE1CQPA1NY7E0MH246AM/image-asset.png)
+![](images/f28d974b-image-asset.png)
 
 ## patience μακροθυμία (1-14)
 

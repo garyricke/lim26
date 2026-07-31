@@ -5,7 +5,7 @@ date: 2020-03-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/using-lent-as-a-mirror
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0d4a0971d66a913843b/1748628700852/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773782319-ZS6K59NUEC371R7ODR6C/image-asset.png"]
+images: ["images/6817f55f-1280x1280.jpg", "images/32426c23-image-asset.png"]
 ---
 # Using Lent as a Mirror - Lent 2020
 
@@ -13,7 +13,7 @@ Mar 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773782319-ZS6K59NUEC371R7ODR6C/image-asset.png)
+![](images/32426c23-image-asset.png)
 
 ### If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness. [1 John 1:9](https://www.bible.com/bible/111/1jn.1.9)
 

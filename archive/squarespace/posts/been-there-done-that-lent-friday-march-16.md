@@ -5,7 +5,7 @@ date: 2018-03-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/been-there-done-that-lent-friday-march-16
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbe7ab562073a4faffb1/1748628700852/1-Peter-3.18.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776615525-KK10P3O8RZUO22NNFG5Z/image-asset.png"]
+images: ["images/1daa9425-1-Peter-3.18.jpg", "images/f91cc5f3-image-asset.png"]
 ---
 # Been There, Done That (Lent) - Friday, March 16
 
@@ -15,7 +15,7 @@ Mar 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776615525-KK10P3O8RZUO22NNFG5Z/image-asset.png)
+![](images/f91cc5f3-image-asset.png)
 
 ### "For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit, in which he went and proclaimed to the spirits in prison, because they formerly did not obey, when God’s patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water."   [1 Peter 3:18-20 (ESV)](https://www.bible.com/bible/59/1PE.3.18-20)
 

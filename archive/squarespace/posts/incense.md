@@ -5,7 +5,7 @@ date: 2020-03-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/incense
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0ac3cdc7517f1584ce1/1748628700852/613f43cd83141121e77400062ebbc1b4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773742365-9EIZIK2OVL60ED8ZWAY2/image-asset.png"]
+images: ["images/23ef2ede-613f43cd83141121e77400062ebbc1b4.jpg", "images/de0fb1fa-image-asset.png"]
 ---
 # Incense - Lent 2020
 
@@ -13,7 +13,7 @@ Mar 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773742365-9EIZIK2OVL60ED8ZWAY2/image-asset.png)
+![](images/de0fb1fa-image-asset.png)
 
 ### O Lord, I call upon you; hasten to me! Give ear to my voice when I call to you! |Let my prayer be counted as incense before you, and the lifting up of my hands as the evening sacrifice. [Psalm 141:1-2](https://www.bible.com/bible/111/psa.141.1-2)
 

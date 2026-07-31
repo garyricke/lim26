@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Washington%2FNeah+Bay
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773504684-3MAS64FHKEUUK7CIVMEK/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774170048-930G5GC0LMNX15SCLQJ7/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774210212-FMQQ6AZO3627SJ9PE6OG/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775589057-KL21NXM9RX7X8DOKGR53/generosity+pumpkin+patch+trunk+or+treat+makah+lutheran+neah+bay+washington+state+ben+maxson+lutheran+indian+ministries.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776814542-B3P63L76Q0O694OI25KI/Ben%2CNatalieMaxson.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777350023-QG820P5GST05HCPW10B7/18581944_1885585281724609_2817081200559945575_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777520640-MJOQYPLXO1XBVEGMB0UJ/makah.jpg"]
+images: ["images/5d6b51f0-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/0938b208-image-asset.png", "images/8c9915c0-image-asset.png", "images/b30c365c-generosity_pumpkin_patch_trunk_or_treat_makah_lutheran_neah_bay_washington_state_ben_maxson_lutheran_indian_ministries.j", "images/abd75252-Ben_NatalieMaxson.jpg", "images/9c2ad06e-18581944_1885585281724609_2817081200559945575_n.jpg", "images/6a2b147b-makah.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Living By Faith: Fear or Faith - Monday Morning Summer Devotion Series - Week 2](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773504684-3MAS64FHKEUUK7CIVMEK/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-2)
+[![Living By Faith: Fear or Faith - Monday Morning Summer Devotion Series - Week 2](images/5d6b51f0-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-2)
 
 [Washington/Neah Bay](/news-notes/category/Washington%2FNeah+Bay)
 Guest User
@@ -99,7 +99,7 @@ We heard the warnings and followed the rules: Stay home, social distance, self-q
 
 [Read More](/news-notes/a-new-trauma)
 
-[![Summer Mission Work Doesn't End in the Fall](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774170048-930G5GC0LMNX15SCLQJ7/image-asset.png)](/news-notes/summer-mission-work-doesnt-end-in-the-fall)
+[![Summer Mission Work Doesn't End in the Fall](images/0938b208-image-asset.png)](/news-notes/summer-mission-work-doesnt-end-in-the-fall)
 
 [Washington/Neah Bay](/news-notes/category/Washington%2FNeah+Bay)
 Guest User
@@ -115,7 +115,7 @@ I love to tell of what the Lord is doing when we let Him work through us, and **
 
 [Read More](/news-notes/summer-mission-work-doesnt-end-in-the-fall)
 
-[![Train up a Child - VBS in Neah Bay](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774210212-FMQQ6AZO3627SJ9PE6OG/image-asset.png)](/news-notes/a-time-for-healing-w9am4-nmb68)
+[![Train up a Child - VBS in Neah Bay](images/8c9915c0-image-asset.png)](/news-notes/a-time-for-healing-w9am4-nmb68)
 
 [Washington/Neah Bay](/news-notes/category/Washington%2FNeah+Bay)
 Guest User
@@ -147,7 +147,7 @@ Guest User
 
 [Read More](/news-notes/ask-the-right-questions-then-stop-talking)
 
-[![Trunk or Treating Fun at Makah Lutheran](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775589057-KL21NXM9RX7X8DOKGR53/generosity+pumpkin+patch+trunk+or+treat+makah+lutheran+neah+bay+washington+state+ben+maxson+lutheran+indian+ministries.jpg)](/news-notes/trunk-or-treating-fun-at-makah-lutheran)
+[![Trunk or Treating Fun at Makah Lutheran](images/b30c365c-generosity_pumpkin_patch_trunk_or_treat_makah_lutheran_neah_bay_washington_state_ben_maxson_lutheran_indian_ministries.j)](/news-notes/trunk-or-treating-fun-at-makah-lutheran)
 
 [Washington/Neah Bay](/news-notes/category/Washington%2FNeah+Bay)
 Guest User
@@ -175,7 +175,7 @@ Guest User
 
 [Read More](/news-notes/see-a-need-fill-a-need)
 
-[![Generosity is Meant to Be Shared](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776814542-B3P63L76Q0O694OI25KI/Ben%2CNatalieMaxson.jpg)](/news-notes/generosity-is-meant-to-be-shared)
+[![Generosity is Meant to Be Shared](images/abd75252-Ben_NatalieMaxson.jpg)](/news-notes/generosity-is-meant-to-be-shared)
 
 [Washington/Neah Bay](/news-notes/category/Washington%2FNeah+Bay)
 Guest User
@@ -191,7 +191,7 @@ Besides being extra busy with ministry and children, our hearts are full. It is 
 
 [Read More](/news-notes/generosity-is-meant-to-be-shared)
 
-[![Living in the Mission Field](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777350023-QG820P5GST05HCPW10B7/18581944_1885585281724609_2817081200559945575_n.jpg)](/news-notes/living-in-the-mission-field)
+[![Living in the Mission Field](images/9c2ad06e-18581944_1885585281724609_2817081200559945575_n.jpg)](/news-notes/living-in-the-mission-field)
 
 [Washington/Neah Bay](/news-notes/category/Washington%2FNeah+Bay)
 Guest User
@@ -207,7 +207,7 @@ Guest User
 
 [Read More](/news-notes/living-in-the-mission-field)
 
-[![Small Projects Reach the Hearts and Souls of Native People](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777520640-MJOQYPLXO1XBVEGMB0UJ/makah.jpg)](/news-notes/small-projects-reach-the-heart-and-sould-of-native-people)
+[![Small Projects Reach the Hearts and Souls of Native People](images/6a2b147b-makah.jpg)](/news-notes/small-projects-reach-the-heart-and-sould-of-native-people)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula), 
 [Washington/Neah Bay](/news-notes/category/Washington%2FNeah+Bay)

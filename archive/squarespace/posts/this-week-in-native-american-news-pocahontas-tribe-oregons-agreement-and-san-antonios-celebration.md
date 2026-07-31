@@ -5,7 +5,7 @@ date: 2017-03-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-pocahontas-tribe-oregons-agreement-and-san-antonios-celebration
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c16fff08fa3d1ab00c5d/1748628700852/8681437710_cfd2acc705_b.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778032672-4KT8ZLOY0Z4QECGCWT27/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778033881-WEEOACQJ3QA7FES8FQ5X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778034823-KF1IOXV545MCZLVDC5GU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778036322-6J6F4GY7W1JMS0PBE4EL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778037674-R2Q5843Y932PBIHHM9CG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778039020-BNWBTOBALSL4TYNU6APJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778040118-M2ZTTNMRK8GSJPB7BL4D/image-asset.jpeg"]
+images: ["images/01533006-8681437710_cfd2acc705_b.jpg", "images/8a36cb33-image-asset.jpeg", "images/d5ff83d2-image-asset.jpeg", "images/1d7635ef-image-asset.jpeg", "images/a9c24344-image-asset.jpeg", "images/a47b2025-image-asset.jpeg", "images/bc6a0347-image-asset.jpeg", "images/c81c9e9a-image-asset.jpeg"]
 ---
 # This Week in Native American News: Pocahontas' Tribe, Oregon's Agreement, and San Antonio's Celebration
 
@@ -13,7 +13,7 @@ Mar 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778032672-4KT8ZLOY0Z4QECGCWT27/image-asset.jpeg)
+![](images/8a36cb33-image-asset.jpeg)
 
 # March 24, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Celebrating 8 Native Women during Women's History Month
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778033881-WEEOACQJ3QA7FES8FQ5X/image-asset.jpeg)
+![](images/d5ff83d2-image-asset.jpeg)
 
 Native women have always served as leaders, healers, artists, and anything else they wanted to be — but you wouldn’t know it from reading most history textbooks. Pocahontas and Sacajawea are usually there, though their lives are generally boiled down to the part they played in saving white men.
 
@@ -29,7 +29,7 @@ While it would be impossible to list all the Native women who have made history,
 
 ### [See the list here](http://hellogiggles.com/native-women-learned-history-class/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778034823-KF1IOXV545MCZLVDC5GU/image-asset.jpeg)
+![](images/1d7635ef-image-asset.jpeg)
 
 ## Speaking of historical women...
 
@@ -41,7 +41,7 @@ Pocahontas' tribe isn't impressed with her place in history.
 
 ## A little more history: Native Carvings in French WWI Quarries
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778036322-6J6F4GY7W1JMS0PBE4EL/image-asset.jpeg)
+![](images/a9c24344-image-asset.jpeg)
 
 Why is there a Native American canoe carved in an abandoned quarry inhabited by U.S. soldiers during WWI? The answer leads back to Point Pleasant, Maine--home of the Passamaquoddy Tribe.
 
@@ -51,7 +51,7 @@ Why is there a Native American canoe carved in an abandoned quarry inhabited by 
 
 ## Arctic RISING SUN organizations working together to prevent suicide
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778037674-R2Q5843Y932PBIHHM9CG/image-asset.jpeg)
+![](images/a47b2025-image-asset.jpeg)
 
 A group of international Arctic organizations is coming together to talk about the difficult subject of suicide within northern indigenous communities.
 
@@ -65,7 +65,7 @@ The initiative is called RISING SUN, which stands for Reducing the Incidence of 
 
 ## Mascots and Tribal Agreements
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778039020-BNWBTOBALSL4TYNU6APJ/image-asset.jpeg)
+![](images/bc6a0347-image-asset.jpeg)
 
 At least seven Oregon school districts are working to keep their Native American mascots by getting the support of local tribes.
 
@@ -77,7 +77,7 @@ The Roseburg School Board is the latest to approve an agreement with a local tri
 
 ## Native History will be part of tricentennial
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778040118-M2ZTTNMRK8GSJPB7BL4D/image-asset.jpeg)
+![](images/c81c9e9a-image-asset.jpeg)
 
 Plans are taking shape to make San Antonio’s approaching Tricentennial a year of nonstop cultural celebrations. Drawing from 300 years of history, organizers are overseeing a busy, event-filled calendar. Outside the official preparations, others are working to make sure the city’s story is told in all its nuanced historical dimensions.
 

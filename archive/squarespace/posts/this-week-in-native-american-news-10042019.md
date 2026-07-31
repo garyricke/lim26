@@ -5,7 +5,7 @@ date: 2019-10-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-10042019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b22d1770ed03474aae3a/1748628700852/GP2-912x608%402x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774126196-N56O1RO82RHZ8Q5JQM9R/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774129724-U2Z78K7VZZ5K1NS9THYO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774132217-SIIVQ2JFUOCVPR8QLMV8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774133273-OO5WUIPN1YFYFOG9NJC7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774134986-SKUN46BBQI3WCJWAEYCI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774136513-0BG1YT5OC58WQ36T6K1E/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774137493-R2SOHLIS0A2XSSKCG1J8/image-asset.jpeg"]
+images: ["images/6ae5a0f9-GP2-912x608_2x.jpg", "images/7b161d5f-image-asset.jpeg", "images/1193fc5a-image-asset.jpeg", "images/367d3231-image-asset.jpeg", "images/87cffe57-image-asset.jpeg", "images/5ec6633e-image-asset.jpeg", "images/43d96635-image-asset.png", "images/5ac468e4-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/4/19): Regaining Culture, A Navajo for President, and a Halloween Reminder
 
@@ -13,7 +13,7 @@ Oct 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774126196-N56O1RO82RHZ8Q5JQM9R/image-asset.jpeg)
+![](images/7b161d5f-image-asset.jpeg)
 
 # October 4, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## A Day at Camp in Solomon
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774129724-U2Z78K7VZZ5K1NS9THYO/image-asset.jpeg)
+![](images/1193fc5a-image-asset.jpeg)
 
 Campers and staff gather for a group photo at the 2019 Solomon Youth and Elder Camp. Photo: JoJo Phillips, KNOM.
 
@@ -39,7 +39,7 @@ THE WEEK-LONG, 2019 SOLOMON YOUTH AND ELDER CAMP, held in September at the Solom
 
 ## We Didn’t Stand a Chance Against Opioids
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774132217-SIIVQ2JFUOCVPR8QLMV8/image-asset.jpeg)
+![](images/367d3231-image-asset.jpeg)
 
 The author’s cousin Keith (left) has struggled with opioid addiction; Keith’s mother’s grave (right). (Photos: Joshua Hunt)
 
@@ -53,7 +53,7 @@ The first lesson was this: Always start at the bottom, then cast your eyes upwar
 
 ## Did you know there’s a Navajo man running for president in 2020
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774133273-OO5WUIPN1YFYFOG9NJC7/image-asset.jpeg)
+![](images/87cffe57-image-asset.jpeg)
 
 In a video launching his presidential campaign, Mark Charles, hair tied in a *tsiiyéeł*, a Native American hair knot, introduces himself in the Navajo language.
 
@@ -71,7 +71,7 @@ Roughly translated, Charles is explaining that his father was Navajo and his mot
 
 ## As Halloween Approaches, Here’s your Friendly Annual Reminder that Native Americans are People Not Costumes
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774134986-SKUN46BBQI3WCJWAEYCI/image-asset.jpeg)
+![](images/5ec6633e-image-asset.jpeg)
 
 Photo by John McDonnell/The Washington Post via Getty Images
 
@@ -87,13 +87,13 @@ Racism toward Native people is normalized, so much so that many people do not se
 
 ## This Week’s History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774136513-0BG1YT5OC58WQ36T6K1E/image-asset.png)
+![](images/43d96635-image-asset.png)
 
 ### [The Native Americans Who Assisted the Underground Railroad](https://historynewsnetwork.org/article/173041)
 
 In an interview conducted in 2002, the late Helen Hornbeck Tanner, an influential historian of the Native American experience in the Midwest best known for her magisterial *Atlas of Great Lakes Indian History* (1987), reflected on the considerable record of “coexistence and cooperation” between African Americans and Indians in the region. According to Tanner, “[an] important example of African and Indian cooperation was the Indian-operated Underground Railroad. Nothing about this activity appears in the historical literature.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774137493-R2SOHLIS0A2XSSKCG1J8/image-asset.jpeg)
+![](images/5ac468e4-image-asset.jpeg)
 
 ### [Native American Jewelry Tells ‘Stunning Stories’ of Indigenous People](https://news.wttw.com/2019/10/03/native-american-jewelry-tells-stunning-stories-indigenous-people)
 

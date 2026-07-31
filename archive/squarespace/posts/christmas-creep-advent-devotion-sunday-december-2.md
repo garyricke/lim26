@@ -5,7 +5,7 @@ date: 2018-12-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/christmas-creep-advent-devotion-sunday-december-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b78fc6472d27aab090a1/1748628700852/Is64.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775504396-PLKKTEEHTCTCI2SJGMAZ/image-asset.png"]
+images: ["images/2009e328-Is64.jpg", "images/63add5ed-image-asset.png"]
 ---
 # Christmas Creep (Advent Devotion) - Sunday, December 2
 
@@ -15,7 +15,7 @@ Dec 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775504396-PLKKTEEHTCTCI2SJGMAZ/image-asset.png)
+![](images/63add5ed-image-asset.png)
 
 ## All of us have become like one who is unclean, and all our righteous acts are like filthy rags; we all shrivel up like a leaf, and like the wind our sins sweep us away.  No one calls on your name or strives to lay hold of you; for you have hidden your face from us and made us waste away because of our sins. (Is. 64:6-8 NIV)
 

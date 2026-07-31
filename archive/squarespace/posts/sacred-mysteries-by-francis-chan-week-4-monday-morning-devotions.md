@@ -5,7 +5,7 @@ date: 2018-10-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/sacred-mysteries-by-francis-chan-week-4-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7fcf9c95608ba40598d/1748628700852/the+union+of.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775613183-6RRHQ4VH5V7KSS9LPNFD/image-asset.jpeg"]
+images: ["images/affec216-the_union_of.jpg", "images/3fa14208-image-asset.jpeg"]
 ---
 # Sacred Mysteries by Francis Chan - Week 4 (Monday Morning Devotions)
 
@@ -13,7 +13,7 @@ Oct 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775613183-6RRHQ4VH5V7KSS9LPNFD/image-asset.jpeg)
+![](images/3fa14208-image-asset.jpeg)
 
 This series is brought to you from Francis Chan’s “Letters to the Church” Bible Series. If you’ve never read Chan or heard him speak, be prepared. He has a way of laying it all on the line. He attacks hard truths that will really make you think and reflect. Here, he explores the mysteries of God’s love for us. Enjoy!
 

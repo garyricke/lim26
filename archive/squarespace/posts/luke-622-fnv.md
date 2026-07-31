@@ -5,7 +5,7 @@ date: 2017-09-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-622-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349befe9c4d201dc3cf3c6b/1748628700852/luke+6-22.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777408111-D9RH5D91AJJOJQCLOSIL/image-asset.png"]
+images: ["images/20974fe0-luke_6-22.png", "images/991ce6bd-image-asset.png"]
 ---
 # Luke 6:22 FNV
 
@@ -13,7 +13,7 @@ Sep 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777408111-D9RH5D91AJJOJQCLOSIL/image-asset.png)
+![](images/991ce6bd-image-asset.png)
 
 "You now undergo the world’s ill will. You must expect all the base treatment that a spiteful world can give you for Christ’s sake, because you serve him and his interests; you must expect that wicked men will hate you, because your doctrine and life convict and condemn them; and those that have church-power in their hands will separate you, will force you to separate yourselves, and then excommunicate you for so doing, and lay you under the most ignominious censures. They will pronounce anathemas against you, as scandalous and incorrigible offenders. They will do this with all possible gravity and solemnity, and pomp and pageantry of appeals to Heaven, to make the world believe, and almost you yourselves too, that it is ratified in heaven. Thus will they endeavour to make you odious to others and a terror to yourselves."
 

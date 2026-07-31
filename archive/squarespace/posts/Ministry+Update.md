@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/Ministry+Update
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773239529-R65BB5P5IJ84OXNTCGE1/Copy+of+SHINE+THE+LIGHT.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773268904-6BR66PI6I2RVVIUCW4OO/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773274644-6M0SB7F2GTHWD2JN3JSS/Copy+of+Give+us+this+day.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773347922-R6N9RUE2ENFYRPBZJ97X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773400001-P8J1V46397XFLFJJ1QL2/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773437607-5AAG7SYSABJHAYOUQK51/THE+GUIDE+TO+THE+ENDANGERED.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773448224-P8OEXSK55EQ80OVO35PB/Copy+of+Dark+Blue+and+Orange+Nature+Photo+Church+Newsletter+%284%29_Page_1_Image_0001.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773459569-TWC6S5KZLWUX0KKGOE53/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773471753-M15JXM108JGOF50EZN8L/White+and+Green+Quotes+Book+Literature+Facebook+Cover+%283%29.png"]
+images: ["images/03b51330-Copy_of_SHINE_THE_LIGHT.png", "images/f8aabe41-image-asset.png", "images/d0394fed-Copy_of_Give_us_this_day.png", "images/fdd91c30-image-asset.jpeg", "images/b4c78bc9-image-asset.png", "images/90da9ec0-THE_GUIDE_TO_THE_ENDANGERED.png", "images/8381273b-Copy_of_Dark_Blue_and_Orange_Nature_Photo_Church_Newsletter__4__Page_1_Image_0001.jpg", "images/3dc7273d-image-asset.jpeg", "images/622e2b48-White_and_Green_Quotes_Book_Literature_Facebook_Cover__3_.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Shine His Light](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773239529-R65BB5P5IJ84OXNTCGE1/Copy+of+SHINE+THE+LIGHT.png)](/news-notes/shine-his-light)
+[![Shine His Light](images/03b51330-Copy_of_SHINE_THE_LIGHT.png)](/news-notes/shine-his-light)
 
 Guest User
 12/16/20
@@ -75,7 +75,7 @@ Today, Christ shines His light through individuals - people like you and me, peo
 
 [Read More](/news-notes/shine-his-light)
 
-[![December Update from Sacred Ground - Haskell](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773268904-6BR66PI6I2RVVIUCW4OO/image-asset.png)](/news-notes/update-from-sacred-ground-haskell)
+[![December Update from Sacred Ground - Haskell](images/f8aabe41-image-asset.png)](/news-notes/update-from-sacred-ground-haskell)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -89,7 +89,7 @@ Guest User
 
 [Read More](/news-notes/update-from-sacred-ground-haskell)
 
-[![Our Daily Bread](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773274644-6M0SB7F2GTHWD2JN3JSS/Copy+of+Give+us+this+day.png)](/news-notes/our-daily-bread)
+[![Our Daily Bread](images/d0394fed-Copy_of_Give_us_this_day.png)](/news-notes/our-daily-bread)
 
 Guest User
 12/9/20
@@ -103,7 +103,7 @@ As Lutheran Indian Ministries moves into the new year, our mission and focus con
 
 [Read More](/news-notes/our-daily-bread)
 
-[![Ministry Prayer Requests &amp; Thanksgiving](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773347922-R6N9RUE2ENFYRPBZJ97X/image-asset.jpeg)](/news-notes/ministry-prayer-requests-amp-thanksgiving)
+[![Ministry Prayer Requests &amp; Thanksgiving](images/fdd91c30-image-asset.jpeg)](/news-notes/ministry-prayer-requests-amp-thanksgiving)
 
 Guest User
 11/25/20
@@ -117,7 +117,7 @@ Join us in prayers of Thanksgiving for our staff and the work they do in Native 
 
 [Read More](/news-notes/ministry-prayer-requests-amp-thanksgiving)
 
-[![Give Thanks!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773400001-P8J1V46397XFLFJJ1QL2/image-asset.png)](/news-notes/give-thanks)
+[![Give Thanks!](images/b4c78bc9-image-asset.png)](/news-notes/give-thanks)
 
 Guest User
 11/11/20
@@ -133,7 +133,7 @@ The Bible tells us, **“Give thanks** in all circumstances; for this is God’s
 
 [Read More](/news-notes/give-thanks)
 
-[![Feed My Sheep](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773437607-5AAG7SYSABJHAYOUQK51/THE+GUIDE+TO+THE+ENDANGERED.png)](/news-notes/feedmysheep)
+[![Feed My Sheep](images/90da9ec0-THE_GUIDE_TO_THE_ENDANGERED.png)](/news-notes/feedmysheep)
 
 Guest User
 10/14/20
@@ -151,7 +151,7 @@ At Lutheran Indian Ministries, we believe in the healing and restorative Word of
 
 [Read More](/news-notes/feedmysheep)
 
-[![Strengths Based Ministry in Alaska](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773448224-P8OEXSK55EQ80OVO35PB/Copy+of+Dark+Blue+and+Orange+Nature+Photo+Church+Newsletter+%284%29_Page_1_Image_0001.jpg)](/news-notes/strengthsbasedministry)
+[![Strengths Based Ministry in Alaska](images/8381273b-Copy_of_Dark_Blue_and_Orange_Nature_Photo_Church_Newsletter__4__Page_1_Image_0001.jpg)](/news-notes/strengthsbasedministry)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -179,7 +179,7 @@ Guest User
 
 [Read More](/news-notes/sometimes-you-seek-out-ministry-other-times-it-finds-you)
 
-[![Greetings from Navajo - Fall 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773459569-TWC6S5KZLWUX0KKGOE53/image-asset.jpeg)](/news-notes/greetings-from-navajo)
+[![Greetings from Navajo - Fall 2020](images/3dc7273d-image-asset.jpeg)](/news-notes/greetings-from-navajo)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -193,7 +193,7 @@ Guest User
 
 [Read More](/news-notes/greetings-from-navajo)
 
-[![Times of Change](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773471753-M15JXM108JGOF50EZN8L/White+and+Green+Quotes+Book+Literature+Facebook+Cover+%283%29.png)](/news-notes/times-of-change)
+[![Times of Change](images/622e2b48-White_and_Green_Quotes_Book_Literature_Facebook_Cover__3_.png)](/news-notes/times-of-change)
 
 Guest User
 9/16/20

@@ -5,7 +5,7 @@ date: 2016-12-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/gods-magicians-december-19-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c44060d4ef62defad55c/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778754065-YBAHGC157FI2XJQ23M98/image-asset.png"]
+images: ["images/ae06a6ef-2016_Advent_Devotions.png", "images/edab5a34-image-asset.png"]
 ---
 # God's Magicians: December 19
 
@@ -13,7 +13,7 @@ Dec 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778754065-YBAHGC157FI2XJQ23M98/image-asset.png)
+![](images/edab5a34-image-asset.png)
 
 ## After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the East came to Jerusalem and asked, "Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him." Matthew 2:1-2 (NIV)
 

@@ -5,7 +5,7 @@ date: 2015-07-15
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/news-from-brookfield/test-your-native-knowledge
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44544/1451491778280/LWML-Booth-visitors-busy-place.jpeg"]
+images: ["images/cb069855-LWML-Booth-visitors-busy-place.jpeg"]
 ---
 # Test Your Native Knowledge
 
@@ -40,7 +40,7 @@ Here are the questions and answers. How did you do?
 
 *Find the answers below the picture.*
 
-![2015 LWML Convention Lutheran Indian Ministries Booth](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44544/1451491778280/LWML-Booth-visitors-busy-place.jpeg)
+![2015 LWML Convention Lutheran Indian Ministries Booth](images/cb069855-LWML-Booth-visitors-busy-place.jpeg)
 
 **Answers:**
 

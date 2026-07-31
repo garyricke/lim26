@@ -5,7 +5,7 @@ date: 2018-03-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/fear-of-the-lord-lent-wednesday-march-7
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc1bd20efd47a97033f1/1748628700852/hebrews-12-29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776668957-HH5G6V5RW1AX0ASXPKJ0/image-asset.png"]
+images: ["images/d4381622-hebrews-12-29.jpg", "images/dbdb2e52-image-asset.png"]
 ---
 # Fear of the Lord (Lent) - Wednesday, March 7
 
@@ -13,7 +13,7 @@ Mar 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776668957-HH5G6V5RW1AX0ASXPKJ0/image-asset.png)
+![](images/dbdb2e52-image-asset.png)
 
 ### "Through love and faithfulness sin is atoned for; through the fear of the Lord evil is avoided."   [Proverbs 16:6 (NIV)](https://www.bible.com/bible/111/PRO.16.6)
 

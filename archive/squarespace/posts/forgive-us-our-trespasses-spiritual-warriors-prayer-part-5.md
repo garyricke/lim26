@@ -5,7 +5,7 @@ date: 2017-05-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/forgive-us-our-trespasses-spiritual-warriors-prayer-part-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c07eec57fd4c7f5fd0e1/1748628700852/forgive.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777791706-J6OINV2XE8LWHBQCAREU/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777792749-A2MOVV2IL26U7T5WEBNI/image-asset.jpeg"]
+images: ["images/53a0c73d-forgive.jpg", "images/3da0395b-image-asset.png", "images/ec490636-image-asset.jpeg"]
 ---
 # Forgive Us: Spiritual Warriors Prayer, Part 5
 
@@ -15,7 +15,7 @@ May 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777791706-J6OINV2XE8LWHBQCAREU/image-asset.png)
+![](images/3da0395b-image-asset.png)
 
 This is week five in a seven-week study on the Lord's Prayer, or as Pastor Ricky Jacob likes to call it: the Spiritual Warriors Prayer. Need to start at the beginning? [Read Part 1 here.](https://www.lutheranindianministries.org/news/hallowed-be-thy-name-spiritual-warriors-prayer-part-1)
 
@@ -35,7 +35,7 @@ This young girl loved God because He first loved her. That love which she receiv
 
 In what I call the Spiritual Warrior’s prayer, Jesus, the greatest Spiritual Warrior ever, taught his disciples these words: **And forgive us our trespasses as we forgive those who trespass against us.**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777792749-A2MOVV2IL26U7T5WEBNI/image-asset.jpeg)
+![](images/ec490636-image-asset.jpeg)
 
 **We pray in this petition that our Father in heaven would not look at our sins, or deny our prayer because of them. We are neither worthy of the things for which we pray, nor have we deserved them, but we ask that He would give them all to us by grace, for we daily sin much and surely deserve nothing but punishment.**
 

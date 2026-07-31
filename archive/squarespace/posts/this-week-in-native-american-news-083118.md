@@ -5,7 +5,7 @@ date: 2018-08-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-083118
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b829a8416125af4fb658/1748628700852/Miss-NA-USA.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775657698-MM7NFS3CNCBJVH21OMWL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775658448-5U5AM8QYWZ0ANO492RXD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775659411-N0K81YJ6ECA1UD9U499B/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775660203-LVNO017IE4BCWJ1NXSEW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775661102-8OP5MXNLGC98K3HF6428/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775661864-N6H55GPY3GDXIWXXLPJZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775663153-PYM8UG3ZRMAYMV788D2B/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775664160-95QS9QMYG6RXENBADTNS/image-asset.jpeg"]
+images: ["images/d4eb3ccb-Miss-NA-USA.jpg", "images/47f9d607-image-asset.jpeg", "images/b751a735-image-asset.jpeg", "images/cf09d14d-image-asset.jpeg", "images/e5860045-image-asset.jpeg", "images/a17181d7-image-asset.jpeg", "images/3cf7aeaf-image-asset.jpeg", "images/7e13d54a-image-asset.jpeg", "images/18eae7f9-image-asset.jpeg"]
 ---
 # This Week in Native American News (8/31/18): Saving rice beds, learning coding to teach, and celebrating the new Miss Native American
 
@@ -13,7 +13,7 @@ Aug 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775657698-MM7NFS3CNCBJVH21OMWL/image-asset.jpeg)
+![](images/47f9d607-image-asset.jpeg)
 
 # August 31, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## This Local American Indian Tribe Doesn’t Want Official Recognition
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775658448-5U5AM8QYWZ0ANO492RXD/image-asset.jpeg)
+![](images/b751a735-image-asset.jpeg)
 
 Natalie Proctor and Mervin Savoy, both of the Piscataway-Conoy Confederacy, embrace at a 2012 ceremony to celebrate Maryland’s recognition of two tribes of Piscataway Indians. Photo By Jay Baker
 
@@ -33,7 +33,7 @@ Earlier this year, the Trump administration granted federal recognition to six A
 
 ## Settlers nearly destroyed Michigan’s wild rice beds. Native tribes are restoring them.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775659411-N0K81YJ6ECA1UD9U499B/image-asset.jpeg)
+![](images/cf09d14d-image-asset.jpeg)
 
 Barbara Barton and Roger LaBine navigate a large wild rice bed on Tawas Lake. (BARBARA BARTON)
 
@@ -49,7 +49,7 @@ Now only one large bed remains in Michigan, but there is work afoot to restore a
 
 ## With new coding skills, Tobique students help create knowledge map
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775660203-LVNO017IE4BCWJ1NXSEW/image-asset.jpeg)
+![](images/e5860045-image-asset.jpeg)
 
 Isabella Perley didn't think she would have ever considered coding, but the program has piqued her interest. (Mike Heenan/CBC)
 
@@ -73,7 +73,7 @@ Throughout the summer, Wolastoqiyik high school students have been taking part 
 
 ## KARYL FRANKIEWICZ WINS MISS NATIVE AMERICAN USA
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775661102-8OP5MXNLGC98K3HF6428/image-asset.jpeg)
+![](images/a17181d7-image-asset.jpeg)
 
 Karyl Frankiewicz crowned Miss Native American USA
 
@@ -89,19 +89,19 @@ Frankiewicz obtained a degree in Early Childhood Education from Southwestern Com
 
 ## This Week's History Lesson...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775661864-N6H55GPY3GDXIWXXLPJZ/image-asset.jpeg)
+![](images/3cf7aeaf-image-asset.jpeg)
 
 ### [The Arctic Explorer Who Pushed an All-Meat Diet](https://www.neatorama.com/2018/08/29/The-Arctic-Explorer-Who-Pushed-an-All-Meat-Diet/)
 
 Canadian anthropologist Vilhjalmur Stefansson spent much of his time exploring the Arctic. Instead of taking vast stores of food, he ate what the Inuit ate: fish, caribou, walrus, and other meat, with few fruits and vegetables of any kind.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775663153-PYM8UG3ZRMAYMV788D2B/image-asset.jpeg)
+![](images/7e13d54a-image-asset.jpeg)
 
 ### [Cherokee Nation v. Georgia: The Case and Its Impact](https://www.thoughtco.com/cherokee-nation-v-georgia-4174060)
 
 Cherokee Nation v. Georgia (1831) asked the Supreme Court to determine whether a state may impose its laws on Native Americans and their territory. In the late 1820s, the Georgia legislature passed laws designed to force the Cherokee people off of their historic land. The Supreme Court refused to rule on whether the Georgia state laws were applicable to the Cherokee people. Instead, the Court ruled that it did not have jurisdiction over the case because the Cherokee Nation, was a “domestic dependent nation” instead of a “foreign state."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775664160-95QS9QMYG6RXENBADTNS/image-asset.jpeg)
+![](images/18eae7f9-image-asset.jpeg)
 
 ### [How Disease and Conquest Carved a New Planetary Landscape](https://www.neatorama.com/2018/08/27/How-Disease-and-Conquest-Carved-a-New-Planetary-Landscape/)
 

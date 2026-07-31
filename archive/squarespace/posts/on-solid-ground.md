@@ -5,7 +5,7 @@ date: 2020-07-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/on-solid-ground
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afcfa8416125af4e4a15/1748628700852/White+and+Green+Quotes+Book+Literature+Facebook+Cover.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773521845-47YR5QZ7YEZN3CZ8XP0I/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/7fe70cef-White_and_Green_Quotes_Book_Literature_Facebook_Cover.png", "images/362ac28a-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # On Solid Ground
 
@@ -13,7 +13,7 @@ Jul 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773521845-47YR5QZ7YEZN3CZ8XP0I/image-asset.png)
+![](images/362ac28a-image-asset.png)
 
 These last several months have been challenging for all of us. Perhaps your coping method has been in prayer, in video chats with friends and family, in taking a walk, riding your bike, or enjoying a game of golf. Maybe all you needed was the words of your favorite hymn.
 
@@ -63,7 +63,7 @@ Executive Director
 
 ### P.S. No matter what challenges we face in life, we know that Jesus is our Rock, and with Him, our ground is solid. Your gift today will help us to continue to share this message with our Native American friends in Christ. Thank you!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

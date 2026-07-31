@@ -5,7 +5,7 @@ date: 2020-12-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-12182020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae9b7324bc2d2c069d93/1748628700852/Marie_Nez_big_rug.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773212454-OIBBY9O1KT5TX7V5JNOB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773213509-V656EURVU4199AVWY0G4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773215218-DZ4GCGPZXQKPJVX8O0G7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773216298-YH41SR5RVCLX9U9P2S2D/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773217549-P5JF97JYO3BMF3OZCGJK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773218587-NJ7MVUWP4BWFEMLB0YHH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773219795-EBHN9ZN99KVGKIBKV35V/image-asset.jpeg"]
+images: ["images/530e9905-Marie_Nez_big_rug.jpg", "images/e021da20-image-asset.jpeg", "images/256f06ef-image-asset.jpeg", "images/8abb04b7-image-asset.jpeg", "images/f859e455-image-asset.jpeg", "images/9dce6d38-image-asset.jpeg", "images/81d2a4cc-image-asset.jpeg", "images/536a1acc-image-asset.jpeg"]
 ---
 # This Week in Native American News (12/18/2020): Suicide Prevention, Homeless Shelters, and Traditional Celebrations
 
@@ -13,7 +13,7 @@ Dec 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773212454-OIBBY9O1KT5TX7V5JNOB/image-asset.jpeg)
+![](images/e021da20-image-asset.jpeg)
 
 # December 18, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### Good Works captain Teton Saltes gears strong voice toward Native American suicide prevention
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773213509-V656EURVU4199AVWY0G4/image-asset.jpeg)
+![](images/256f06ef-image-asset.jpeg)
 
 The tribe's water scarcity is a bigger issue during the COVID-19 pandemic, when people have to wash their hands and sanitize more frequently.
 
@@ -37,7 +37,7 @@ It's a tough question, but the 6-6, 332-pound senior tackle's answer starts wit
 
 ### City considers proposed youth homeless center
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773215218-DZ4GCGPZXQKPJVX8O0G7/image-asset.jpeg)
+![](images/8abb04b7-image-asset.jpeg)
 
 The project is being spearheaded by the Zach Gordon Youth Center, which would operate the shelter program that would provide 24-hour, drop-in homeless shelter for youths. Under the proposed plan, the Tlingit and Haida Regional Housing Authority would maintain the property that would be leased from CBJ.
 
@@ -49,7 +49,7 @@ The property is the former site of Juneau Youth Services and already has many of
 
 ### Indigenous inmates, volunteers navigate a year without ceremonies, celebrations
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773216298-YH41SR5RVCLX9U9P2S2D/image-asset.jpeg)
+![](images/f859e455-image-asset.jpeg)
 
 Joey Dexter, front right, drums with his family during powwow at Two Rivers Correctional Institute in Umatilla, Ore., Aug. 24, 2019. *Bradley W. Parks / OPB*
 
@@ -71,7 +71,7 @@ For Indigenous inmates, the pause on visitation carries the potential for cultur
 
 ### This Christmas: Shop Native
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773217549-P5JF97JYO3BMF3OZCGJK/image-asset.jpeg)
+![](images/9dce6d38-image-asset.jpeg)
 
 ## [Inuit-designed board game Nunami hits the shelves](https://nunatsiaq.com/stories/article/inuit-designed-board-game-nunami-hits-the-shelves/)
 
@@ -85,7 +85,7 @@ Players — from two to four — can take on the role of either human or nature.
 
 [Preorder the game on kickstarter](https://www.kickstarter.com/projects/nunamigame/nunami-an-inuit-game)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773218587-NJ7MVUWP4BWFEMLB0YHH/image-asset.jpeg)
+![](images/81d2a4cc-image-asset.jpeg)
 
 ## [Lakota-Owned Bookstore Fills Void in Rapid City](https://www.usnews.com/news/best-states/south-dakota/articles/2020-12-16/lakota-owned-bookstore-fills-void-in-rapid-city)
 
@@ -95,7 +95,7 @@ Mendoza is the owner of the Bird Cage Book Store and Mercantile, a shop she ran 
 
 [Shop online](https://www.wordcarrier.com/shop)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773219795-EBHN9ZN99KVGKIBKV35V/image-asset.jpeg)
+![](images/536a1acc-image-asset.jpeg)
 
 ## [This Instagram Account Spotlights Handmade Works by Indigenous Elders](https://www.vogue.com/article/adopt-a-native-elder-navajo-rugs-jewelry-art)
 

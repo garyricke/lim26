@@ -5,7 +5,7 @@ date: 2020-02-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-02282020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0e9046d523415cd908d/1748628700852/adams-trio1_custom-0fac44ecb9e79e7a19128bbe7eb56654d407c13c-s2500-c85.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773802297-HTZTCITTCOW1LVNF3E73/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773803243-2C5M77W55ZYBWBT8KO1E/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773805303-J68DMHUA0ZFFX25TWMXW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773807362-SR8U58V5UY05923U2TDI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773808821-L4CR9XUAPPH6Q9DFL0HM/image-asset.jpeg"]
+images: ["images/0cd4abd3-adams-trio1_custom-0fac44ecb9e79e7a19128bbe7eb56654d407c13c-s2500-c85.jpg", "images/620e5f2f-image-asset.jpeg", "images/5971748f-image-asset.jpeg", "images/82c9d37c-image-asset.jpeg", "images/279950de-image-asset.jpeg", "images/3c4a8cff-image-asset.jpeg"]
 ---
 # This Week in Native American News (2/28/2020): Stay Strong, Travel, Eat Well, and Read
 
@@ -13,7 +13,7 @@ Feb 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773802297-HTZTCITTCOW1LVNF3E73/image-asset.jpeg)
+![](images/620e5f2f-image-asset.jpeg)
 
 # February 28, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## ‘I gotta stay strong’: the Native American families with a legacy of violent deaths
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773803243-2C5M77W55ZYBWBT8KO1E/image-asset.jpeg)
+![](images/5971748f-image-asset.jpeg)
 
 Women take part in an annual event honoring the lives of missing and murdered Indigenous women. Photograph: Jennifer Gauthier/Reuters
 
@@ -41,7 +41,7 @@ Officials reported there was a fire in the 25-year-old’s motel room and she di
 
 ## A Nomadic Start To Photographing Inuit Culture Across Countries
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773805303-J68DMHUA0ZFFX25TWMXW/image-asset.jpeg)
+![](images/82c9d37c-image-asset.jpeg)
 
 Top: Bruce Inglangasak (left) and his friend Herman Oyagak look for a way through the sea ice that is close to shore near Alaska's Arctic National Wildlife Refuge in 2018. Left: Coco chases his ball. Inglangasak and his daughter adopted Coco while visiting their relatives in Aklavik, Canada, in 2017. Right: Polar bear art outside of the home of Marie and Eddie Rexford in Kaktovik, Alaska. (*Brian Adams)*
 
@@ -59,7 +59,7 @@ In Adams' latest project, *Ilatka*: *The Inuit Word For My Relatives*, he is p
 
 ## Alaska father speaks out after his kids find traditional dishes listed in book of ‘disgusting’ foods
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773807362-SR8U58V5UY05923U2TDI/image-asset.jpeg)
+![](images/279950de-image-asset.jpeg)
 
 ’Take Your Pick of Disgusting Foods ’ by G. G. Lake
 
@@ -85,7 +85,7 @@ When they got home, David flipped through the book and then sat down with his ki
 
 ## For Native Americans, a history of pain — and reasons for hope
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773808821-L4CR9XUAPPH6Q9DFL0HM/image-asset.jpeg)
+![](images/3c4a8cff-image-asset.jpeg)
 
 Former Senator Byron Dorgan (D-N.D.), pictured in 1994, writes that he was moved by a newspaper photo of a young Native girl who was abused in foster care. In his book, her sufferings parallel those faced by Native Americans throughout history. (Maureen Keating/CQ Roll Call/Getty Images)
 

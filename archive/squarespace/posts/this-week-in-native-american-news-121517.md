@@ -5,7 +5,7 @@ date: 2017-12-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-121517
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bdfd4505c216efaaee23/1748628700852/native-kids-in-canoe-gabrielle-colton.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777150047-OI7WWUJ7FA0DAZ90JQOY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777152105-Y41EFK22IFZ4PRW1Q4UN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777157271-JNZSZ3KQSCCQDO7EQPJH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777159663-VQS1BKIMDP51XJUKSJWC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777160659-8705EW5MV6SQ7AS8PU4R/image-asset.jpeg"]
+images: ["images/efaa8126-native-kids-in-canoe-gabrielle-colton.jpg", "images/e73b06f1-image-asset.jpeg", "images/de282118-image-asset.jpeg", "images/2bc2deb5-image-asset.jpeg", "images/cdd2c9dc-image-asset.jpeg", "images/e53c4651-image-asset.jpeg"]
 ---
 # This Week in Native American News (12/15/17): photographers, teachers, and fakers
 
@@ -13,7 +13,7 @@ Dec 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777150047-OI7WWUJ7FA0DAZ90JQOY/image-asset.jpeg)
+![](images/e73b06f1-image-asset.jpeg)
 
 # December 15, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Native Photographers Tell Their Story
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777152105-Y41EFK22IFZ4PRW1Q4UN/image-asset.jpeg)
+![](images/de282118-image-asset.jpeg)
 
 Two young native girls sitting patiently in the canoe. Photo by Gabrielle Colton
 
@@ -35,7 +35,7 @@ The lack of big city news coverage and government agency involvement leaves inde
 
 ## Residential Schools Forced Assimilation AND Taught Resistance
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777157271-JNZSZ3KQSCCQDO7EQPJH/image-asset.jpeg)
+![](images/2bc2deb5-image-asset.jpeg)
 
 Pupils at Carlisle Indian Industrial School, Pennsylvania (c. 1900) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carlisle_pupils.jpg)
 
@@ -49,7 +49,7 @@ Gere paints a picture of educators caught between two worlds. They were painted 
 
 ## Also in the news:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777159663-VQS1BKIMDP51XJUKSJWC/image-asset.jpeg)
+![](images/cdd2c9dc-image-asset.jpeg)
 
 ## Indigenous social movements: journalism versus activism in times of resistance
 
@@ -59,7 +59,7 @@ Gere paints a picture of educators caught between two worlds. They were painted 
 
 ## The Redhawks Hoax
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777160659-8705EW5MV6SQ7AS8PU4R/image-asset.jpeg)
+![](images/e53c4651-image-asset.jpeg)
 
 http://wjla.com/news/local/native-american-activists-behind-washington-redhawks-hoax
 

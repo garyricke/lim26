@@ -5,7 +5,7 @@ date: 2017-11-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-we-can-learn-about-generosity-lesson-5-see-whats-coming
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be5b60d4ef62def9ace8/1748628700852/85a7a8857f0ba66df6ce2dbfe990793c.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777244177-0904JBPN4BS3X1LBOYR5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777244996-SGBSN33LU8UQCOQB2YHZ/image-asset.jpeg"]
+images: ["images/25a6973f-85a7a8857f0ba66df6ce2dbfe990793c.jpg", "images/711096b3-image-asset.jpeg", "images/c821a502-image-asset.jpeg"]
 ---
 # What We Can Learn About Generosity, Lesson 5: See what's coming - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Nov 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777244177-0904JBPN4BS3X1LBOYR5/image-asset.jpeg)
+![](images/711096b3-image-asset.jpeg)
 
 Many of the tribes of the Pacific Northwest of Canada and the United States once took part in a ritual called the potlatch. Though these ceremonies are less common today, it is still a part of some great celebrations in certain communities.
 
@@ -29,7 +29,7 @@ The moral of the story: give and it WILL be given to you, but not necessarily he
 
 Our reward has already been given to us by Jesus' death and resurrection. Our inheritance waits for us in heaven to be given to us in full when we are reunited with our Heavenly Father. And what God asks to give while we are here on earth is a pittance compared to what we will receive.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777244996-SGBSN33LU8UQCOQB2YHZ/image-asset.jpeg)
+![](images/c821a502-image-asset.jpeg)
 
 Like the families that gave everything to their community, confident of what was waiting for them, ***are we willing to give beyond our comfort, trusting that, because of our faith in Jesus as our Savior, we have the ultimate reward awaiting us?***
 

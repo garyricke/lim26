@@ -5,7 +5,7 @@ date: 2018-12-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-pony-advent-devotion-monday-december-24
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6f487fb27609f6dd90e/1748628700852/Is9+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775350212-ZRI3WQ10QMJQCC8DFP4N/image-asset.png"]
+images: ["images/b33e4a22-Is9__1_.jpg", "images/5019396f-image-asset.png"]
 ---
 # The Pony (Advent Devotion) - Monday, December 24
 
@@ -13,7 +13,7 @@ Dec 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775350212-ZRI3WQ10QMJQCC8DFP4N/image-asset.png)
+![](images/5019396f-image-asset.png)
 
 ## And He will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. (Isaiah 9:6 NIV)
 

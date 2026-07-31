@@ -5,7 +5,7 @@ date: 2023-09-05
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/reflections/katherine-gottlieb-his-hands-upon-me
 section: reflections
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/64f78f9f6a09870cab89a249/1697482039600/katherine-gottlieb-his-hands-upon-me-thumb.jpg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/0160e546-katherine-gottlieb-his-hands-upon-me-thumb.jpg", "images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # Event: Katherine Gottlieb: “His Hands Upon Me”
 
@@ -60,6 +60,6 @@ Katherine Gottlieb, born to an Alaska Native mother and a Filipino father, grew 
 
 This event is open to all individuals who are 18 years old and above. We look forward to seeing you there!
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

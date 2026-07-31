@@ -5,7 +5,7 @@ date: 2017-04-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-fathers-love-fifth-sunday-in-lent-april-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c14870f86f2c8d53c4ec/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777993665-IX6RC1GJ4EDLPFBH19T7/image-asset.jpeg"]
+images: ["images/83ea2bce-2017_lent_cover.jpg", "images/31324a67-image-asset.jpeg"]
 ---
 # A Father's Love: Fifth Sunday in Lent, April 2
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## The Father loves the Son and has given all things into his hand. John 3:35 (NASB)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777993665-IX6RC1GJ4EDLPFBH19T7/image-asset.jpeg)
+![](images/31324a67-image-asset.jpeg)
 
 Responsibility is the duty and power to deal with something and to be held accountable.
 

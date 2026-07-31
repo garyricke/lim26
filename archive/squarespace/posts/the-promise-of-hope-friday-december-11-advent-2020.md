@@ -5,7 +5,7 @@ date: 2020-12-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-promise-of-hope-friday-december-11-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aec7fc45ad1a48d47eb4/1748628700852/Is40.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773257695-3H9BN9KIV1DLQV5RVH39/image-asset.png"]
+images: ["images/582e09b9-Is40.jpg", "images/9f04e3d5-image-asset.png"]
 ---
 # The Promise of Hope - Friday, December 11 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773257695-3H9BN9KIV1DLQV5RVH39/image-asset.png)
+![](images/9f04e3d5-image-asset.png)
 
 ## COMFORT, COMFORT MY PEOPLE, SAYS YOUR GOD. SPEAK TENDERLY TO JERUSALEM, AND PROCLAIM TO HER THAT HER HARD SERVICE HAS BEEN COMPLETED, THAT HER SIN HAS BEEN PAID FOR, THAT SHE HAS RECEIVED FROM THE LORD’S HAND DOUBLE FOR ALL HER SINS. A VOICE OF ONE CALLING: “IN THE WILDERNESS PREPARE THE WAY FOR THE LORD; MAKE STRAIGHT IN THE DESERT A HIGHWAY FOR OUR GOD. EVERY VALLEY SHALL BE RAISED UP, EVERY MOUNTAIN AND HILL MADE LOW; THE ROUGH GROUND SHALL BECOME LEVEL, THE RUGGED PLACES A PLAIN. AND THE GLORY OF THE LORD WILL BE REVEALED, AND ALL PEOPLE WILL SEE IT TOGETHER. FOR THE MOUTH OF THE LORD HAS SPOKEN.” [ISAIAH 40:1-5](https://www.bible.com/bible/111/ISA.40.1-5)
 

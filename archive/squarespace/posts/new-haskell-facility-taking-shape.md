@@ -5,7 +5,7 @@ date: 2015-07-28
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/kansaslhaskell-light-campus-ministry/new-haskell-facility-taking-shape
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dcd367e04008d297879a/1665785061706/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785045010-B8PZEFLS7Y9F4V0369OP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785047050-1R6NQP1MON7ILLEUSD6A/image-asset.jpeg"]
+images: ["images/cc64bc53-1665785061706", "images/1a266acb-image-asset.jpeg", "images/a4ee2ead-image-asset.jpeg"]
 ---
 # New Haskell Facility Taking Shape
 
@@ -15,7 +15,7 @@ Jul 28
 
 Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785045010-B8PZEFLS7Y9F4V0369OP/image-asset.jpeg)
+![](images/1a266acb-image-asset.jpeg)
 
 HASKELL-FRONT-VIEW3-July2015
 
@@ -27,7 +27,7 @@ When we get the windows and doors installed, we will have a weatherproof facilit
 
 Even if it rains, we can still finish framing the interior walls. **Now that it is really taking shape, we have people already stopping by and wanting to have events in the building.**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785047050-1R6NQP1MON7ILLEUSD6A/image-asset.jpeg)
+![](images/a4ee2ead-image-asset.jpeg)
 
 HASKELL-SANCTUARY2-July2015
 

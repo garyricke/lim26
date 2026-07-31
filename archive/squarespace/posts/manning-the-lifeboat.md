@@ -5,7 +5,7 @@ date: 2020-04-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/manning-the-lifeboat
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b05687fb27609f6c9182/1748628700852/04-Sep-bv.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773658215-S3S5R6FXU0MHRGLKC1KU/image-asset.png"]
+images: ["images/b8be4837-04-Sep-bv.jpg", "images/a5f34731-image-asset.png"]
 ---
 # Manning the Lifeboat - Lent 2020
 
@@ -13,7 +13,7 @@ Apr 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773658215-S3S5R6FXU0MHRGLKC1KU/image-asset.png)
+![](images/a5f34731-image-asset.png)
 
 ### Carry each other's burdens, and in this way you will fulfill the law of Christ. [Galatians 6:2](https://www.bible.com/bible/111/gal.6.2)
 

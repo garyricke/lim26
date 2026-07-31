@@ -5,7 +5,7 @@ date: 2020-08-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afbea992b149232da3e3/1748628700852/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773503592-KNLQ4X53RBLUX15J3OEA/image-asset.png"]
+images: ["images/20fbda58-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/f13f49e4-image-asset.png"]
 ---
 # Living By Faith: Fear or Faith - Monday Morning Summer Devotion Series - Week 2
 
@@ -15,7 +15,7 @@ Aug 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773503592-KNLQ4X53RBLUX15J3OEA/image-asset.png)
+![](images/f13f49e4-image-asset.png)
 
 Need to start at week 1? [Start here](https://lutheranindianministries.org/news/living-by-faith-monday-morning-summer-devotion-series-week-1)
 

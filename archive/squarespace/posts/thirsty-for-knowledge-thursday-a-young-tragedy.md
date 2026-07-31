@@ -5,7 +5,7 @@ date: 2017-04-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thirsty-for-knowledge-thursday-a-young-tragedy
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c13e6f9a84583cd1a6fe/1748628700852/hqdefault.jpg"]
+images: ["images/778e4362-hqdefault.jpg"]
 ---
 # Thirsty (for Knowledge) Thursday - A Young Tragedy
 

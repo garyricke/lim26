@@ -5,7 +5,7 @@ date: 2020-03-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/sacred-ground
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b06a927b1145206eb4d7/1748628700852/col-2-13-a.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773677991-QO8IUM6YCSUVKZG2GECK/image-asset.png"]
+images: ["images/f338732e-col-2-13-a.jpg", "images/16ebc426-image-asset.png"]
 ---
 # Sacred Ground - Lent 2020
 
@@ -15,7 +15,7 @@ Mar 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773677991-QO8IUM6YCSUVKZG2GECK/image-asset.png)
+![](images/16ebc426-image-asset.png)
 
 ### When you were dead in your sins and in the uncircumcision of your flesh, God made you alive with Christ. He forgave us all our sins, having canceled the charge of our legal indebtedness, which stood against us and condemned us; He has taken it away, nailing it to the cross. And having disarmed the powers and authorities, He made a public spectacle of them, triumphing over them by the cross. [Colossians 2:13-15](https://www.bible.com/bible/111/col.2.13-15)
 

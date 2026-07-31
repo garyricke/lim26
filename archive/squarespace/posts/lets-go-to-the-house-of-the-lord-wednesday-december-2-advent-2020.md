@@ -5,7 +5,7 @@ date: 2020-12-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/lets-go-to-the-house-of-the-lord-wednesday-december-2-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aefbac64b420975e8442/1748628700852/f66f1eb4dc14338b9956b71dda206373.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773310006-I0E2K8QG1TZUYVO907NN/image-asset.png"]
+images: ["images/e1f82fb7-f66f1eb4dc14338b9956b71dda206373.jpg", "images/c6864860-image-asset.png"]
 ---
 # Let's Go to the House of the Lord - Wednesday, December 2 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773310006-I0E2K8QG1TZUYVO907NN/image-asset.png)
+![](images/c6864860-image-asset.png)
 
 ## I rejoiced with those who said to me, “Let us go to the house of the LORD.” [Psalm 122:1](https://my.bible.com/bible/111/PSA.122.1)
 

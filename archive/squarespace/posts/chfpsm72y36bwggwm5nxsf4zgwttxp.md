@@ -5,7 +5,7 @@ date: 2016-05-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/chfpsm72y36bwggwm5nxsf4zgwttxp
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cb58c9d36d75aa6e9c19/1748628700852/madeline+sayet.jpg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/0caabc9c-5717-4a40-b7ae-8ecb9b8a4ff7.jpg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/32710934-a51f-4bd2-8d14-78e573451697.jpg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/5f7e8711-eeb6-4809-a21b-8874f5e6ed1c.jpg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/ac49a01c-af9a-4d86-a213-cd5499a4eac7.jpeg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/e175815e-b7df-4255-8304-d68655554010.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780570044-COPZ2NLIIQJEUV34UHQ9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/82d59526-99de-438f-bde8-53e700b2fd9c/footer-location-map.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/d1bcbd12-f68d-4bd1-843a-4bbe56f5ef63/lutheranindianMinistries-logo-redrawn-horz.png"]
+images: ["images/72ccb64b-madeline_sayet.jpg", "images/b16b12eb-0caabc9c-5717-4a40-b7ae-8ecb9b8a4ff7.jpg", "images/0ecc182d-32710934-a51f-4bd2-8d14-78e573451697.jpg", "images/6943d85d-5f7e8711-eeb6-4809-a21b-8874f5e6ed1c.jpg", "images/f67412bf-ac49a01c-af9a-4d86-a213-cd5499a4eac7.jpeg", "images/22408288-e175815e-b7df-4255-8304-d68655554010.jpg", "images/2cdca2b1-image-asset.jpeg", "images/47d1aa1c-footer-location-map.jpg", "images/91c41d88-lutheranindianMinistries-logo-redrawn-horz.png"]
 ---
 # This Week in Native American News
 
@@ -15,7 +15,7 @@ May 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780570044-COPZ2NLIIQJEUV34UHQ9/image-asset.jpeg)
+![](images/2cdca2b1-image-asset.jpeg)
 
 ---
 

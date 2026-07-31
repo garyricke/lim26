@@ -5,7 +5,7 @@ date: 2017-07-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-533-35-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfa59aa0180a63d2a6e0/1748628700852/%E2%80%9CDo+you+expect+wedding+guests+to+be+sad+and+go+without+eating+when+the+groom+is+hosting+a+feast-%E2%80%9D+he+asked.+%E2%80%9CThe+time+will+come+when+he+is+gone%3B+then+they+will+be+sad+and+go+without+eating.%E2%80%9D+%28Luke+5-33-35%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777575734-34YFIXBMPH43OLA3W6ZL/image-asset.png"]
+images: ["images/a7d3b1fd-_Do_you_expect_wedding_guests_to_be_sad_and_go_without_eating_when_the_groom_is_hosting_a_feast-__he_asked.__The_time_wi", "images/635f847a-image-asset.png"]
 ---
 # Luke 5:33-35 FNV
 
@@ -13,7 +13,7 @@ Jul 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777575734-34YFIXBMPH43OLA3W6ZL/image-asset.png)
+![](images/635f847a-image-asset.png)
 
 They were ignorant of the glory of the person of Him Who was present, as much as of His grace. Had they known the singular dignity of Jesus, they would have seen how incongruous it would have been to fast in His presence.
 

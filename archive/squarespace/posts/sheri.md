@@ -5,7 +5,7 @@ date: 2023-07-12
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/reflections/sheri
 section: reflections
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/64a3055d46300d01b3110ffe/1691421265064/sherri-1-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/359b382e-8acf-490e-bd91-d5c64970828c/sherri-1-thumb-9-16.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/71ae8c48-7135-4218-82cc-c16f745234a0/sherri-2-thumb-9-16.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/94317caf-4432-4097-8707-9f0245d9664f/sherri-3-thumb-9-16.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a5a6d036-bd08-44bd-a0b2-470f8b1c1972/healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen%2Bcopy+copy.jpeg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/3fd72303-sherri-1-thumb.jpg", "images/6482b5ea-sherri-1-thumb-9-16.jpg", "images/4093237b-sherri-2-thumb-9-16.jpg", "images/d404adaf-sherri-3-thumb-9-16.jpg", "images/2cfac3e5-healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen_copy_copy.jpeg", "images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # Faith as Small as a Mustard Seed: Sheri's Path to Healing and Transformation
 
@@ -29,7 +29,7 @@ Dive into this transformative conversation between Sheri and Robert as they expl
 
 — Psalm 147:3
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/359b382e-8acf-490e-bd91-d5c64970828c/sherri-1-thumb-9-16.jpg)
+![](images/6482b5ea-sherri-1-thumb-9-16.jpg)
 
 > I'm Sheri Timber. I am from Lame Deer, Montana. I'm Oglala Lakota Sioux from South Dakota and I've been living in Montana for 23 years and my husband helps with the ministry here in Montana.
 
@@ -39,7 +39,7 @@ Dive into this transformative conversation between Sheri and Robert as they expl
 
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a5a6d036-bd08-44bd-a0b2-470f8b1c1972/healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen%2Bcopy+copy.jpeg)
+![](images/2cfac3e5-healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen_copy_copy.jpeg)
 
 ## Healing The Wounds of Trauma
 
@@ -65,7 +65,7 @@ Learn more about the program that changed Sheri’s life.
 >
 > I never thought of those kind of things that happened to me before. And I know God was working right there through those ladies to share my story of how I've been feeling for a very long time. And I see that he's always been there for me.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/71ae8c48-7135-4218-82cc-c16f745234a0/sherri-2-thumb-9-16.jpg)
+![](images/4093237b-sherri-2-thumb-9-16.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ Learn more about the program that changed Sheri’s life.
 
 *So many of us have experienced those things, and then we just walk in silence. So I'm I'm glad that you're finding your voice and that you're recognizing that God's grace applies to you, too, and that he's been walking alongside you.*
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/94317caf-4432-4097-8707-9f0245d9664f/sherri-3-thumb-9-16.jpg)
+![](images/d404adaf-sherri-3-thumb-9-16.jpg)
 
 ---
 
@@ -159,6 +159,6 @@ You can **help us help Native Americans and Alaska Natives like Bev** — by tra
 
 ~subheadIndex-h2
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

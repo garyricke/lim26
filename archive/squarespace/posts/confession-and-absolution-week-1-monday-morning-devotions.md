@@ -5,7 +5,7 @@ date: 2020-01-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/confession-and-absolution-week-1-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b13b1186e246c3b7b720/1748628700852/lutheran+indian+ministries+-+starting+fresh+monday+morning+devotion+about+confession+and+absolution+ricky+jacob+winnebago+nebraska.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773884616-SGVWAP1X4NM0FT13GP1T/image-asset.png"]
+images: ["images/c64ecf0a-lutheran_indian_ministries_-_starting_fresh_monday_morning_devotion_about_confession_and_absolution_ricky_jacob_winnebag", "images/a65509fb-image-asset.png"]
 ---
 # Confession and Absolution - Week 1 (Monday Morning Devotions)
 
@@ -15,7 +15,7 @@ Jan 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773884616-SGVWAP1X4NM0FT13GP1T/image-asset.png)
+![](images/a65509fb-image-asset.png)
 
 As we dive into the New Year, as well as prepare for the season of Lent, Pastor Ricky Jacob leads us through a devotion series on Confession and Absolution.
 

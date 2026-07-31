@@ -5,7 +5,7 @@ date: 2016-09-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-september-9-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c593fd1d7d6219a9ce00/1748628700852/akuacreative_5_fab65ebe8915a8b91d2d3929e906c94d.nbcnews-ux-600-480.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779092933-DDJZ0B4GNB4Q7FCZ4N00/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779093827-YPHH0I71X9N0TM8PKR6O/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779095469-ATV7Y417TD1ZJ74F1V5B/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779096834-6LHBP01HTRJLH6GTXVPP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779098658-U90W8OUJOD09ZXRBIZL0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779100016-MATPJNNAUQQLJENPEDHI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779103904-I09KHWNJ7T3K6G0A5IS0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779104972-A01E5CCVG88C0ZXITRK0/image-asset.jpeg"]
+images: ["images/5f655ee3-akuacreative_5_fab65ebe8915a8b91d2d3929e906c94d.nbcnews-ux-600-480.jpg", "images/47964bfe-image-asset.jpeg", "images/51c7d543-image-asset.jpeg", "images/ff5c2d95-image-asset.jpeg", "images/5451219e-image-asset.jpeg", "images/f24a1370-image-asset.jpeg", "images/f93ce8b1-image-asset.jpeg", "images/dc0fa678-image-asset.jpeg", "images/63080ea5-image-asset.jpeg"]
 ---
 # This Week in Native American News - September 9, 2016
 
@@ -15,13 +15,13 @@ Sep 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779092933-DDJZ0B4GNB4Q7FCZ4N00/image-asset.jpeg)
+![](images/47964bfe-image-asset.jpeg)
 
 ---
 
 ### Bill Passed for Native Choice Schools
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779093827-YPHH0I71X9N0TM8PKR6O/image-asset.jpeg)
+![](images/51c7d543-image-asset.jpeg)
 
 [Senate passed a bill Wednesday](http://watchdog.org/275192/senate-panel-approves-bill-expand-school-choice-native-american-students/), September 7, 2016, to allow the expansion of School Choice to Native Americans, as proposed by Senator John McCain.
 
@@ -33,7 +33,7 @@ This bill is set to improve education for Native Americans living on reservation
 
 ### Loss of Bird and Plant Species = Loss of Culture in Hawaii
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779095469-ATV7Y417TD1ZJ74F1V5B/image-asset.jpeg)
+![](images/ff5c2d95-image-asset.jpeg)
 
 According to the International Union for Conservation of Nature, 87% of Hawaii's native plant species are endangered, meaning a total of 415 plants are on the organizations "red list" and on the verge of extinction. Each of these individual  species have an important role in the forest, as well as in the Hawaiian culture. ([Read the full story here](http://www.civilbeat.org/2016/09/iucn-extinction-threatens-87-percent-of-hawaiis-native-plants/).)
 
@@ -43,7 +43,7 @@ Likewise, a study published recently in Science Advances states that there is a 
 
 > Crampton said that feathers were a part of the ancient Hawaiian attire. “If we lose these forest birds, we lose our connection to our past,” [[Lisa Crampton, co-author of the study and project leader with the Kaua’i Forest Bird Recovery Project] reportedly said](http://www.ibtimes.com/climate-change-prime-suspect-behind-decline-native-hawaiian-bird-numbers-study-says-2412913). “Even though the situation is dire, it's not too late. It’s not hopeless.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779096834-6LHBP01HTRJLH6GTXVPP/image-asset.jpeg)
+![](images/5451219e-image-asset.jpeg)
 
 Alongside scientists, Native Hawaiians are helping to preserve their culture and its connection to nature through art. Jeremiah White's company, [Akua Creative](https://www.etsy.com/shop/AkuaCreative?ref=listing-shop2-all-items-count#items), sells unique articles of clothing that showcase designs of fish, sharks, whales, sea turtles, octopuses, wild boar, owls, and more are inspired by both the science and mythology of Hawaii. [Read the full story here.](http://www.nbcnews.com/news/asian-america/akua-creative-tells-hawaiian-cultural-study-design-n640046) And visit his store [here](https://www.etsy.com/listing/229809753/chakra-tank-top-mint-gold-print-on-9?ref=shop_home_active_1).
 
@@ -51,7 +51,7 @@ Alongside scientists, Native Hawaiians are helping to preserve their culture and
 
 ### Here's Your Lastest Dakota Pipeline Update
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779098658-U90W8OUJOD09ZXRBIZL0/image-asset.jpeg)
+![](images/f24a1370-image-asset.jpeg)
 
 Photo Credit: Andrew Cullen/Reuters
 
@@ -73,7 +73,7 @@ P.S. [The Justice League stands behind Standing Rock.](http://www.newsarama.com/
 
 ### If you're in the St. Louis Area, Head to Cahokia This Weekend
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779100016-MATPJNNAUQQLJENPEDHI/image-asset.jpeg)
+![](images/f93ce8b1-image-asset.jpeg)
 
 Cahokia Mounds State Historic Site in southwest Illinois is hosting two days of cultural presentations by Native Americans.
 
@@ -83,7 +83,7 @@ Native American artists, story tellers and dancers will display clothing, demons
 
 ### First Earthship Built on Native Land
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779103904-I09KHWNJ7T3K6G0A5IS0/image-asset.jpeg)
+![](images/dc0fa678-image-asset.jpeg)
 
 No, not a space ship. An Earthship is a "Self-sustaining house, made entirely out of recycled materials." This particular Earthship was built on Six Nations of the Grand River territory near Brantford, Ontario to a grandmother, her daughter, and her four children. The house took a total of 14 days to build, runs on solar energy, contains a greenhouse (for food and insulation), and provides plenty of room for this growing family.
 
@@ -93,7 +93,7 @@ Thousands of Earthship homes have been built around the world in the last 20 yea
 
 ### So that's where Eagle Feathers Come From!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779104972-A01E5CCVG88C0ZXITRK0/image-asset.jpeg)
+![](images/63080ea5-image-asset.jpeg)
 
 By federal law, it is illegal to possess, use, or sell eagle feathers. A violation can result in a fine of up to $200,000, one year of imprisonment, or both. And yet, Native Americans use still use them in religious and culturally ceremonies. That's because, Native Americans, who are members of federally recognized tribes, can obtain a permit under the Federally Recognized Tribal List Act of 1994 to gain access to golden eagles and bald eagles.
 

@@ -5,7 +5,7 @@ date: 2019-04-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/double-happy-exchange-lent-devotion-tuesday-april-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b514046d523415ce4416/1748628700852/Heb12.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774870085-81RU55D2271F4QKY6HJK/image-asset.jpeg"]
+images: ["images/b6ffd534-Heb12.jpg", "images/7a0b9156-image-asset.jpeg"]
 ---
 # Double Happy Exchange (Lent Devotion) - Tuesday, April 2
 
@@ -13,7 +13,7 @@ Apr 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774870085-81RU55D2271F4QKY6HJK/image-asset.jpeg)
+![](images/7a0b9156-image-asset.jpeg)
 
 # Double Happy Exchange
 

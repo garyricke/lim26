@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/gerhard+%26+prayer
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774037525-3JWFLTFJ9Y6EWOAPA6LZ/prayer+based+on+the+writings+of+johann+gerhard.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774043737-0L8Z2O5RPBJZYEBKF1AZ/prayer+based+on+the+writings+of+johann+gerhard.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774053843-VSAWL5646IMVMUYN7JRO/prayer+based+on+the+writings+of+johann+gerhard.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774057294-QSRD2GE1VCDYU0GXLPN6/prayer+based+on+the+writings+of+johann+gerhard.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774064816-TCEW3ZT9VG0YVILW836S/prayer+based+on+the+writings+of+johann+gerhard.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774071260-N6C8SX2N35XCBYP4YRLD/prayer+based+on+the+writings+of+johann+gerhard.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774078275-OL7KTGEMM5ISAS195NCL/prayer+based+on+the+writings+of+johann+gerhard.png"]
+images: ["images/88518360-prayer_based_on_the_writings_of_johann_gerhard.png", "images/2d3981f2-prayer_based_on_the_writings_of_johann_gerhard.png", "images/9b08d64b-prayer_based_on_the_writings_of_johann_gerhard.png", "images/51d47eaf-prayer_based_on_the_writings_of_johann_gerhard.png", "images/6c3c2563-prayer_based_on_the_writings_of_johann_gerhard.png", "images/569c8272-prayer_based_on_the_writings_of_johann_gerhard.png", "images/82ac030b-prayer_based_on_the_writings_of_johann_gerhard.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Prayer: What does Johann Gerhard say? (Week 7)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774037525-3JWFLTFJ9Y6EWOAPA6LZ/prayer+based+on+the+writings+of+johann+gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-7)
+[![Prayer: What does Johann Gerhard say? (Week 7)](images/88518360-prayer_based_on_the_writings_of_johann_gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-7)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -75,7 +75,7 @@ Join us as Pastor Ricky Jacob explores the 400-year old writings of Johann Gerha
 
 [Read More](/news-notes/prayer-what-does-johann-gerhard-say-week-7)
 
-[![Prayer: What does Johann Gerhard say? (Week 6)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774043737-0L8Z2O5RPBJZYEBKF1AZ/prayer+based+on+the+writings+of+johann+gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-6)
+[![Prayer: What does Johann Gerhard say? (Week 6)](images/2d3981f2-prayer_based_on_the_writings_of_johann_gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-6)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -91,7 +91,7 @@ Join us as Pastor Ricky Jacob explores the 400-year old writings of Johann Gerha
 
 [Read More](/news-notes/prayer-what-does-johann-gerhard-say-week-6)
 
-[![Prayer: What does Johann Gerhard say? (Week 5)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774053843-VSAWL5646IMVMUYN7JRO/prayer+based+on+the+writings+of+johann+gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-5)
+[![Prayer: What does Johann Gerhard say? (Week 5)](images/9b08d64b-prayer_based_on_the_writings_of_johann_gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-5)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -107,7 +107,7 @@ Join us as Pastor Ricky Jacob explores the 400-year old writings of Johann Gerha
 
 [Read More](/news-notes/prayer-what-does-johann-gerhard-say-week-5)
 
-[![Prayer: What does Johann Gerhard say? (Week 4)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774057294-QSRD2GE1VCDYU0GXLPN6/prayer+based+on+the+writings+of+johann+gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-4)
+[![Prayer: What does Johann Gerhard say? (Week 4)](images/51d47eaf-prayer_based_on_the_writings_of_johann_gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-4)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -123,7 +123,7 @@ Join us as Pastor Ricky Jacob explores the 400-year old writings of Johann Gerha
 
 [Read More](/news-notes/prayer-what-does-johann-gerhard-say-week-4)
 
-[![Prayer: What does Johann Gerhard say? (Week 3)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774064816-TCEW3ZT9VG0YVILW836S/prayer+based+on+the+writings+of+johann+gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-3)
+[![Prayer: What does Johann Gerhard say? (Week 3)](images/6c3c2563-prayer_based_on_the_writings_of_johann_gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-3)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -139,7 +139,7 @@ Join us as Pastor Ricky Jacob explores the 400-year old writings of Johann Gerha
 
 [Read More](/news-notes/prayer-what-does-johann-gerhard-say-week-3)
 
-[![Prayer: What does Johann Gerhard say? (Week 2)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774071260-N6C8SX2N35XCBYP4YRLD/prayer+based+on+the+writings+of+johann+gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-2)
+[![Prayer: What does Johann Gerhard say? (Week 2)](images/569c8272-prayer_based_on_the_writings_of_johann_gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-2)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -155,7 +155,7 @@ Join us as Pastor Ricky Jacob explores the 400-year old writings of Johann Gerha
 
 [Read More](/news-notes/prayer-what-does-johann-gerhard-say-week-2)
 
-[![Prayer: What does Johann Gerhard say? (Week 1)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774078275-OL7KTGEMM5ISAS195NCL/prayer+based+on+the+writings+of+johann+gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-1)
+[![Prayer: What does Johann Gerhard say? (Week 1)](images/82ac030b-prayer_based_on_the_writings_of_johann_gerhard.png)](/news-notes/prayer-what-does-johann-gerhard-say-week-1)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

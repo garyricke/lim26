@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Minnesota%2FLeech+Lake
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781635368-N9WGU6PEEXG1C4BWHIEA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785098098-297CWMC1829ER5816W0P/image-asset.png"]
+images: ["images/57e63b10-image-asset.jpeg", "images/69e1fe19-image-asset.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![God's Living Word - Hebrews 4:12](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781635368-N9WGU6PEEXG1C4BWHIEA/image-asset.jpeg)](/news-notes/category/gods-living-word-hebrews-412)
+[![God's Living Word - Hebrews 4:12](images/57e63b10-image-asset.jpeg)](/news-notes/category/gods-living-word-hebrews-412)
 
 [Minnesota/Leech Lake](/news-notes/category/Minnesota%2FLeech+Lake)
 Guest User
@@ -97,7 +97,7 @@ LIM
 
 [Read More](/news-notes/devotions/acts-1-11-going-and-coming)
 
-[![Where Is God In Our Suffering?](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785098098-297CWMC1829ER5816W0P/image-asset.png)](/news-notes/minnesotaleech-lake-reservation/where-is-god-in-our-suffering)
+[![Where Is God In Our Suffering?](images/69e1fe19-image-asset.png)](/news-notes/minnesotaleech-lake-reservation/where-is-god-in-our-suffering)
 
 [Minnesota/Leech Lake](/news-notes/category/Minnesota%2FLeech+Lake)
 LIM

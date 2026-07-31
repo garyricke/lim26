@@ -5,7 +5,7 @@ date: 2016-05-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/fnv-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cc84e322920e7965fdda/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780870253-YASF2IOEIR34FNZFYD46/image-asset.jpeg"]
+images: ["images/8f31e15b-1748628700852", "images/abf71492-image-asset.jpeg"]
 ---
 # FNV Verse - Matthew 6:24
 
@@ -13,7 +13,7 @@ May 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780870253-YASF2IOEIR34FNZFYD46/image-asset.jpeg)
+![](images/abf71492-image-asset.jpeg)
 
 First Nations Version
 

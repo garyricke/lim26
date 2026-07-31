@@ -5,7 +5,7 @@ date: 2018-05-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-720-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8e07e444e62ee9711e0/1748628700852/When+they+found+Creator+Sets+Free+%28Jesus%29%2C+they+asked+him+the+question+from+He+Shows+Goodwill+%28John%29%2C+%E2%80%9CAre+you+the+one+who+is+to+come%2C+or+should+we+look+for+some+else_%E2%80%9DLuke+7_20+FNV.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775841473-UD53E8MOHI7PCGTQD3CZ/image-asset.png"]
+images: ["images/8a6ec3a7-When_they_found_Creator_Sets_Free__Jesus___they_asked_him_the_question_from_He_Shows_Goodwill__John____Are_you_the_one_w", "images/8c635b8e-image-asset.png"]
 ---
 # Luke 7:20 FNV
 
@@ -13,7 +13,7 @@ May 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775841473-UD53E8MOHI7PCGTQD3CZ/image-asset.png)
+![](images/8c635b8e-image-asset.png)
 
 It seems to me that here the Lord prescribes to His Church the answer she should give in all days when men rise up and question whether He comes from God, when men rise up to say to His Church, "Are you the kingdom of God? are you the Divine society established upon earth to be the home of the new life, and the source of a wide-spreading influence? Are you the city set upon a hill that cannot be hid?"
 

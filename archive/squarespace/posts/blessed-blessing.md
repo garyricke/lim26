@@ -5,7 +5,7 @@ date: 2014-08-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/kansaslhaskell-light-campus-ministry/blessed-blessing
 section: news-notes
-images: ["http://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/8272e2fc-6c61-4f08-9d4c-6a5904673ea5.jpg", "http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd7ef5be4a50a85cbdc6/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785216457-I1FPVUEXRQD6HKNO9MRJ/image-asset.jpeg"]
+images: ["images/818b1483-8272e2fc-6c61-4f08-9d4c-6a5904673ea5.jpg", "images/afbc3261-1748628700852", "images/66fa76d1-image-asset.jpeg"]
 ---
 # Blessed to be a Blessing
 
@@ -20,7 +20,7 @@ In early May, we held a groundbreaking for our new Haskell LIGHT Campus Ministry
 
 Ponka-We Victors, the only Native American member ever to be elected to the Kansas State Legislature, shared her thoughts with the crowd, describing the moment she met Patricia Main, co-director for Haskell LIGHT Campus Ministry, along with her husband, Will. Ponka-We described how Patricia came up to her at the state capital, asking if she could pray for her. Ponka-We said it's something she'll never forget and that she continues to count on Patricia's faithful prayers on her behalf.
 
-![](http://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/8272e2fc-6c61-4f08-9d4c-6a5904673ea5.jpg)
+![](images/818b1483-8272e2fc-6c61-4f08-9d4c-6a5904673ea5.jpg)
 
 LCMS Kansas District President Keith Kohlmeier and his wife, Marlene, also were present. We were truly encouraged by his affirming words for Haskell LIGHT Campus Ministry, for the work that Will and Patricia do among the students and for the building campaign. Rev. Scott Snow, who serves as pastor at Holy Cross Lutheran Church and School in Wichita, was present as a member of the mission board of the LCMS Kansas District. Rev. Jack Preus was present and shared his thoughts, saying, “I’m so excited by what I see happening here that I want to somehow be involved in this.”
 
@@ -38,7 +38,7 @@ Lawrence Mayor Mike Amyx summarized our need for campus ministry very well, addi
 
 *Thank you again for allowing me to participate.*
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785216457-I1FPVUEXRQD6HKNO9MRJ/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a44362/1451491776552/WEB-USE-Will-and-Patricia-1-fixed.jpg?format=original)
+[![](images/66fa76d1-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a44362/1451491776552/WEB-USE-Will-and-Patricia-1-fixed.jpg?format=original)
 
 WEB USE Will and Patricia 1 fixed
 

@@ -5,7 +5,7 @@ date: 2019-04-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/we-are-on-the-way-to-resurrection-lent-devotion-friday-april-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b4600eda784f703ab7f6/1748628700852/86d4694d6432e53d74dbcb4aba8a967e.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774690205-JXKXU3IF317T2J6CFPTW/image-asset.jpeg"]
+images: ["images/4ff0efde-86d4694d6432e53d74dbcb4aba8a967e.jpg", "images/b1dcb66e-image-asset.jpeg"]
 ---
 # We are on the Way to Resurrection (Lent Devotion) - Friday, April 5
 
@@ -15,7 +15,7 @@ Apr 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774690205-JXKXU3IF317T2J6CFPTW/image-asset.jpeg)
+![](images/b1dcb66e-image-asset.jpeg)
 
 # We are on the Way to Resurrection
 

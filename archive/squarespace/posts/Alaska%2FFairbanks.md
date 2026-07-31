@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Alaska%2FFairbanks
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773448224-P8OEXSK55EQ80OVO35PB/Copy+of+Dark+Blue+and+Orange+Nature+Photo+Church+Newsletter+%284%29_Page_1_Image_0001.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773508520-AOCINNK86XVLBWWXZ6C8/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773614467-GQPR04QC9A0NPQ8DN9CL/Mt28.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773618400-VB5VCY0SI59OM95XK7AJ/Globe-1_940x940.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773921308-BCV9I5HBPJ46K1NVCZPR/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773968462-UENS6PU6N31OQPT9P0W4/luke.2.6_lg.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774006869-K9WBLIPI4Y9D7AHKBEXP/70241399_2402810926652280_9194379890915278848_o.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774143743-5QKIFHJW1CKHQUFKA3CN/SarahMilan_1.jpeg"]
+images: ["images/8381273b-Copy_of_Dark_Blue_and_Orange_Nature_Photo_Church_Newsletter__4__Page_1_Image_0001.jpg", "images/5346ada3-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/477d67ed-Mt28.jpg", "images/d52378fb-Globe-1_940x940.jpg", "images/2b143873-1280x1280__1_.jpg", "images/f2b14413-luke.2.6_lg.jpg", "images/e00517ae-70241399_2402810926652280_9194379890915278848_o.jpg", "images/508027c2-SarahMilan_1.jpeg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Strengths Based Ministry in Alaska](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773448224-P8OEXSK55EQ80OVO35PB/Copy+of+Dark+Blue+and+Orange+Nature+Photo+Church+Newsletter+%284%29_Page_1_Image_0001.jpg)](/news-notes/strengthsbasedministry)
+[![Strengths Based Ministry in Alaska](images/8381273b-Copy_of_Dark_Blue_and_Orange_Nature_Photo_Church_Newsletter__4__Page_1_Image_0001.jpg)](/news-notes/strengthsbasedministry)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -75,7 +75,7 @@ These instances remind us that, even while someone may be struggling and may eve
 
 [Read More](/news-notes/strengthsbasedministry)
 
-[![Living By Faith: Heroes - Monday Morning Summer Devotion Series - Week 1](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773508520-AOCINNK86XVLBWWXZ6C8/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-1)
+[![Living By Faith: Heroes - Monday Morning Summer Devotion Series - Week 1](images/5346ada3-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-1)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -115,7 +115,7 @@ We heard the warnings and followed the rules: Stay home, social distance, self-q
 
 [Read More](/news-notes/a-new-trauma)
 
-[![Live Unafraid - Lent 2020 - Happy Easter!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773614467-GQPR04QC9A0NPQ8DN9CL/Mt28.jpg)](/news-notes/live-unafraid)
+[![Live Unafraid - Lent 2020 - Happy Easter!](images/477d67ed-Mt28.jpg)](/news-notes/live-unafraid)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -133,7 +133,7 @@ As the Son of God, he knew the absolute truth of what his life, death, and resur
 
 [Read More](/news-notes/live-unafraid)
 
-[![Take Heart - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773618400-VB5VCY0SI59OM95XK7AJ/Globe-1_940x940.jpg)](/news-notes/take-heart)
+[![Take Heart - Lent 2020](images/d52378fb-Globe-1_940x940.jpg)](/news-notes/take-heart)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -151,7 +151,7 @@ We are a bit spoiled. We know how this story ends. We know that Christ rises fro
 
 [Read More](/news-notes/take-heart)
 
-[![MERRY CHRISTMAS! Advent: God's Unique Love - Wednesday, December 25](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773921308-BCV9I5HBPJ46K1NVCZPR/1280x1280+%281%29.jpg)](/news-notes/merry-christmas-advent-gods-unique-love-wednesday-december-25)
+[![MERRY CHRISTMAS! Advent: God's Unique Love - Wednesday, December 25](images/2b143873-1280x1280__1_.jpg)](/news-notes/merry-christmas-advent-gods-unique-love-wednesday-december-25)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -167,7 +167,7 @@ When I hear the Christmas story of Jesus’s birth to Mary in the stable, I also
 
 [Read More](/news-notes/merry-christmas-advent-gods-unique-love-wednesday-december-25)
 
-[![Advent: Reflecting on the Journey - Friday, December 6](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773968462-UENS6PU6N31OQPT9P0W4/luke.2.6_lg.jpg)](/news-notes/advent-reflecting-on-the-journey-friday-december-6)
+[![Advent: Reflecting on the Journey - Friday, December 6](images/f2b14413-luke.2.6_lg.jpg)](/news-notes/advent-reflecting-on-the-journey-friday-december-6)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -195,7 +195,7 @@ Guest User
 
 [Read More](/news-notes/reflecting-on-our-first-summer-while-watching-the-snow)
 
-[!["I'm going to Heaven!"](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774006869-K9WBLIPI4Y9D7AHKBEXP/70241399_2402810926652280_9194379890915278848_o.jpg)](/news-notes/im-going-to-heaven)
+[!["I'm going to Heaven!"](images/e00517ae-70241399_2402810926652280_9194379890915278848_o.jpg)](/news-notes/im-going-to-heaven)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks), 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage), 
@@ -215,7 +215,7 @@ I’ll never forget the words of one of our Native American sisters as she explo
 
 [Read More](/news-notes/im-going-to-heaven)
 
-[![The Milans are Featured in a New Article - Check it out!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774143743-5QKIFHJW1CKHQUFKA3CN/SarahMilan_1.jpeg)](/news-notes/the-milans-are-featured-in-a-new-article-check-it-out)
+[![The Milans are Featured in a New Article - Check it out!](images/508027c2-SarahMilan_1.jpeg)](/news-notes/the-milans-are-featured-in-a-new-article-check-it-out)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User

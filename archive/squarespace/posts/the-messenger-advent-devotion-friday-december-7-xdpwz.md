@@ -5,7 +5,7 @@ date: 2018-12-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-messenger-advent-devotion-friday-december-7-xdpwz
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b77a7c9bc16a0fbda68d/1748628700852/Lk2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775483005-860HOIIRI9D3UF7OLRRL/image-asset.png"]
+images: ["images/24898e01-Lk2.jpg", "images/b699fc5f-image-asset.png"]
 ---
 # Angels and Whales (Advent Devotion) - Saturday, December 8
 
@@ -15,7 +15,7 @@ Dec 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775483005-860HOIIRI9D3UF7OLRRL/image-asset.png)
+![](images/b699fc5f-image-asset.png)
 
 ## And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people…And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,Glory to God in the highest, and on earth peace, good will toward men. (Luke 2:7-14 KJV)
 

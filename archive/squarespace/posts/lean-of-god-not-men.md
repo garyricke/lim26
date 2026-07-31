@@ -5,7 +5,7 @@ date: 2020-03-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/lean-of-god-not-men
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0d7cacaf50ec8954948/1748628700852/ba53777c72cee220246c7931a82932a4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773785534-5LLQ0IIDEJJ07QGY9AAW/image-asset.png"]
+images: ["images/2cdbbc42-ba53777c72cee220246c7931a82932a4.jpg", "images/00f084ba-image-asset.png"]
 ---
 # Lean of God, Not Men - Lent 2020
 
@@ -15,7 +15,7 @@ Mar 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773785534-5LLQ0IIDEJJ07QGY9AAW/image-asset.png)
+![](images/00f084ba-image-asset.png)
 
 ### That your faith should not be in the wisdom of man but in the power of God. [1 Corinthians 2:5](https://www.bible.com/bible/111/1co.2.5)
 

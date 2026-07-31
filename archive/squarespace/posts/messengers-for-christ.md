@@ -5,7 +5,7 @@ date: 2018-09-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/messengers-for-christ
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b81dd2c1581771e93617/1748628700852/messengers.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775646669-RS9ZTA7XIUIIR4HPBHE8/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/28d04393-messengers.png", "images/027bc62d-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Messengers for Christ
 
@@ -15,7 +15,7 @@ Sep 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775646669-RS9ZTA7XIUIIR4HPBHE8/image-asset.png)
+![](images/027bc62d-image-asset.png)
 
 In Scripture, we are told that angels have many roles. Often, they act as messengers, companions, protectors, and soldiers here on earth. When done, they return to Heaven to praise and worship God.
 
@@ -61,7 +61,7 @@ Executive Director, Lutheran Indian Ministries
 
 ### P.S. We have so much to celebrate and be thankful for as God is working in the lives of Native American people, like Aston.  Your gift today ensures we can continue to bring the message of hope and joy in Jesus Christ, acting as God’s earthly messengers. Thank you!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

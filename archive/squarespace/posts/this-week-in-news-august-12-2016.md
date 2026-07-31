@@ -5,7 +5,7 @@ date: 2016-08-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-news-august-12-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c60554bcd83138381288/1748628700852/jqian_hapa_npr_b9-82bb5325393030f2168a172c4fdd984e4654dfe4.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779206955-YN1JDM9HPD7U8GMJU8YF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779208913-R2OL82OC5VBKGJXZKW58/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779210963-4CW6P60O24T50ZSIDSP0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779211886-F18LM3ZSTVSYTSGI0T3L/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779212770-2FLI3UE8NIC4FRTJX89H/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779213995-5955A6CNN48T2JGFF1MI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779214912-7HKI36AK9CJVHBHUAK84/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779215831-UW72JDMDPO8LYGC9ONWI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779217136-4NF8RNVDH2ZSE6Q3G3ZJ/image-asset.png"]
+images: ["images/97b99738-jqian_hapa_npr_b9-82bb5325393030f2168a172c4fdd984e4654dfe4.jpeg", "images/46cdb1ae-image-asset.jpeg", "images/86418f66-image-asset.jpeg", "images/cd135559-image-asset.jpeg", "images/5efa8182-image-asset.jpeg", "images/6f51d4b8-image-asset.jpeg", "images/ccd10e29-image-asset.jpeg", "images/3de94447-image-asset.jpeg", "images/4031d860-image-asset.jpeg", "images/03aa1013-image-asset.png"]
 ---
 # This Week in Native American News - August 12, 2016
 
@@ -15,7 +15,7 @@ Aug 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779206955-YN1JDM9HPD7U8GMJU8YF/image-asset.jpeg)
+![](images/46cdb1ae-image-asset.jpeg)
 
 ---
 
@@ -25,7 +25,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### Native people and education
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779208913-R2OL82OC5VBKGJXZKW58/image-asset.jpeg)
+![](images/86418f66-image-asset.jpeg)
 
 Photo credit: Equalvoiceforfamilies.org
 
@@ -41,13 +41,13 @@ The NACA Inspired Schools Network will be opening five more schools in the Albuq
 
 ### Others across the country are stepping in for Native Youth
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779210963-4CW6P60O24T50ZSIDSP0/image-asset.jpeg)
+![](images/cd135559-image-asset.jpeg)
 
 ### California
 
 Hemet and Davis, California, will both be opening drug and alcohol rehabilitation centers for Native American youth. Run by the Indian Health Service, these centers will serve 12 to 17-year-olds. The Hemet Center will begin accepting patients later this year, and the Davis center is scheduled to open in 2018. [Read the full story here.](http://www.capradio.org/articles/2016/08/03/california-to-open-two-native-american-youth-treatment-centers/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779211886-F18LM3ZSTVSYTSGI0T3L/image-asset.jpeg)
+![](images/5efa8182-image-asset.jpeg)
 
 Andrea Hearting, Erica Donner and Julie Muldoon, all with Native Hope,Photo credit: Caitlynn Peetz/Republic
 
@@ -59,7 +59,7 @@ Native Hope, a new non-profit located in South Dakota strives to inspire hope in
 
 ### St. Lawrence Island Officially Belongs to Alaska Natives
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779212770-2FLI3UE8NIC4FRTJX89H/image-asset.jpeg)
+![](images/6f51d4b8-image-asset.jpeg)
 
 Neil Kornze of BLM signs final patent to transfer over 1 million acres of St. Lawrence Island to Native Corporations. Photo Credit: Bureau of Land Management
 
@@ -71,7 +71,7 @@ The more than one million acres that make St. Lawrence Island, located west of t
 
 ### Tourists find 400-year-old Petroglyphs on Hawaiian Beach
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779213995-5955A6CNN48T2JGFF1MI/image-asset.jpeg)
+![](images/ccd10e29-image-asset.jpeg)
 
 Photo credit: DLNR
 
@@ -87,7 +87,7 @@ If you go to Hawaii to see these or other petrogyphs of the ancient Hawaiians, [
 
 ### The 2,000-mile runners made it to D.C.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779214912-7HKI36AK9CJVHBHUAK84/image-asset.jpeg)
+![](images/3de94447-image-asset.jpeg)
 
 Native American Youth march in protest in front of the White House. Photo credit:  Jose Venture/Indian Country Today
 
@@ -101,13 +101,13 @@ Back in the Dakotas and Iowa, [Native Americans and local land owners are being 
 
 ## News Tidbits:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779215831-UW72JDMDPO8LYGC9ONWI/image-asset.jpeg)
+![](images/4031d860-image-asset.jpeg)
 
 Canoe culture returns to the Musqueam Band of British Columbia. The last hand-carved canoe was launched in 1985, and now 30 years later, this canoe, which was carved out of a 350-year-old cedar log, ["glides like glass across the water," according to one tribal member.](http://www.cbc.ca/news/canada/british-columbia/musqueam-indian-band-350-year-old-cedar-canoe-1.3710569)
 
 > “It’s a real special moment to us,” Louis said. “We haven’t had a canoe built on this reserve in 30 years or more because our canoe builders all passed away, and with them we almost lost our canoemanship.”[Read the full story here.](http://vancouversun.com/news/local-news/canoe-culture-makes-triumphant-return-to-musqueam-band-after-30-years)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779217136-4NF8RNVDH2ZSE6Q3G3ZJ/image-asset.png)
+![](images/03aa1013-image-asset.png)
 
 With the upcoming presidential elections, many Native American legislatures are concerned about current voter i.d. laws. Native Americans who live on reservations often do not have the resources or access to the approved forms of identification.
 

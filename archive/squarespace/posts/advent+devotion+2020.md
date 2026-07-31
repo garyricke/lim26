@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/advent+devotion+2020
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773165078-BMPI89ZT94LVFMKGF1DZ/download.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773168966-FWHF7LWZKDFDCJSYTG0A/Mt2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773171953-2DUZ69I906E0SBJP7WFI/bda9dfe6f5b03636900d737edb157419.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773174603-GMLTK1J3YM5E2Z1GIB2I/1280x1280+%282%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773177749-JVGYS0WVG4N8DE6VMGNT/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773180696-FMR6XPXH6GWZ9W38Q3V2/December-Typography-11.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773189254-RIN6W0ZUZILWC8UESVKP/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773194656-XU8MDDS6NT8KEODIJMM7/thy-kingdom-come-artworks-000506988810-jrbim1-t500x500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773197379-TB8QNIFRJJXMMBM6Q9VB/img_1945.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773203230-17LY23WOL2C3ARNDNXZA/maxresdefault.jpg"]
+images: ["images/c854f435-download.png", "images/ba1b3ad4-Mt2.jpg", "images/57f372fb-bda9dfe6f5b03636900d737edb157419.jpg", "images/9ee1b380-1280x1280__2_.jpg", "images/a1132b4a-1280x1280__1_.jpg", "images/f6008377-December-Typography-11.jpg", "images/f4fffd99-1280x1280.jpg", "images/af5892c9-thy-kingdom-come-artworks-000506988810-jrbim1-t500x500.jpg", "images/4ba50377-img_1945.jpg", "images/f5fd2cc4-maxresdefault.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Peace in the New Year - Friday, January 1 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773165078-BMPI89ZT94LVFMKGF1DZ/download.png)](/news-notes/everlasting-father-saturday-december-26-advent-2020-nj74g)
+[![Peace in the New Year - Friday, January 1 (Advent 2020)](images/c854f435-download.png)](/news-notes/everlasting-father-saturday-december-26-advent-2020-nj74g)
 
 Guest User
 1/1/21
@@ -73,7 +73,7 @@ As we celebrate the beginning of a new year, we pray the Prince of Peace would b
 
 [Read More](/news-notes/everlasting-father-saturday-december-26-advent-2020-nj74g)
 
-[![The Star - Thursday, December 31 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773168966-FWHF7LWZKDFDCJSYTG0A/Mt2.jpg)](/news-notes/the-star-thursday-december-31-advent-2020)
+[![The Star - Thursday, December 31 (Advent 2020)](images/ba1b3ad4-Mt2.jpg)](/news-notes/the-star-thursday-december-31-advent-2020)
 
 Guest User
 12/31/20
@@ -89,7 +89,7 @@ God can still use the stars in the night sky to direct and lead us to Jesus, to 
 
 [Read More](/news-notes/the-star-thursday-december-31-advent-2020)
 
-[![Time - Wednesday, December 30 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773171953-2DUZ69I906E0SBJP7WFI/bda9dfe6f5b03636900d737edb157419.jpg)](/news-notes/time-wednesday-december-30-advent-2020)
+[![Time - Wednesday, December 30 (Advent 2020)](images/57f372fb-bda9dfe6f5b03636900d737edb157419.jpg)](/news-notes/time-wednesday-december-30-advent-2020)
 
 Guest User
 12/30/20
@@ -107,7 +107,7 @@ As we go out and meet needs, whether it is in your own home or in a distant coun
 
 [Read More](/news-notes/time-wednesday-december-30-advent-2020)
 
-[![Be a Follower - Tuesday, December 29 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773174603-GMLTK1J3YM5E2Z1GIB2I/1280x1280+%282%29.jpg)](/news-notes/be-a-follower-tuesday-december-29-advent-2020)
+[![Be a Follower - Tuesday, December 29 (Advent 2020)](images/9ee1b380-1280x1280__2_.jpg)](/news-notes/be-a-follower-tuesday-december-29-advent-2020)
 
 Guest User
 12/29/20
@@ -121,7 +121,7 @@ When I began doing women’s ministry, I balked at the idea of leading other wom
 
 [Read More](/news-notes/be-a-follower-tuesday-december-29-advent-2020)
 
-[![Recognizing Christ - Monday, December 28 (Advent 2020) ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773177749-JVGYS0WVG4N8DE6VMGNT/1280x1280+%281%29.jpg)](/news-notes/recognizing-christ-monday-december-28-advent-2020)
+[![Recognizing Christ - Monday, December 28 (Advent 2020) ](images/a1132b4a-1280x1280__1_.jpg)](/news-notes/recognizing-christ-monday-december-28-advent-2020)
 
 Guest User
 12/28/20
@@ -137,7 +137,7 @@ He is calling us to grow, to change. Christmas is a time of new beginnings. Joy 
 
 [Read More](/news-notes/recognizing-christ-monday-december-28-advent-2020)
 
-[![Everlasting Father - Saturday, December 26 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773180696-FMR6XPXH6GWZ9W38Q3V2/December-Typography-11.jpg)](/news-notes/everlasting-father-saturday-december-26-advent-2020)
+[![Everlasting Father - Saturday, December 26 (Advent 2020)](images/f6008377-December-Typography-11.jpg)](/news-notes/everlasting-father-saturday-december-26-advent-2020)
 
 Guest User
 12/26/20
@@ -151,7 +151,7 @@ The baby we celebrated yesterday is also the Everlasting Father, the Creator of 
 
 [Read More](/news-notes/everlasting-father-saturday-december-26-advent-2020)
 
-[![Fingerprints - Friday, December 25 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773189254-RIN6W0ZUZILWC8UESVKP/1280x1280.jpg)](/news-notes/fingerprints-friday-december-25-advent-2020)
+[![Fingerprints - Friday, December 25 (Advent 2020)](images/f4fffd99-1280x1280.jpg)](/news-notes/fingerprints-friday-december-25-advent-2020)
 
 Guest User
 12/25/20
@@ -165,7 +165,7 @@ When I hear the Christmas story of Jesus’ birth to Mary in the stable, I also 
 
 [Read More](/news-notes/fingerprints-friday-december-25-advent-2020)
 
-[![Thy Kingdom Come - Thursday, December 24 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773194656-XU8MDDS6NT8KEODIJMM7/thy-kingdom-come-artworks-000506988810-jrbim1-t500x500.jpg)](/news-notes/thy-kingdom-come-thursday-december-24-advent-2020)
+[![Thy Kingdom Come - Thursday, December 24 (Advent 2020)](images/af5892c9-thy-kingdom-come-artworks-000506988810-jrbim1-t500x500.jpg)](/news-notes/thy-kingdom-come-thursday-december-24-advent-2020)
 
 Guest User
 12/24/20
@@ -179,7 +179,7 @@ These three words have power: Thy kingdom come - 1) to me, 2) to others, 3) to o
 
 [Read More](/news-notes/thy-kingdom-come-thursday-december-24-advent-2020)
 
-[![Mountains - Wednesday, December 23 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773197379-TB8QNIFRJJXMMBM6Q9VB/img_1945.jpg)](/news-notes/mountains-wednesday-december-23-advent-2020)
+[![Mountains - Wednesday, December 23 (Advent 2020)](images/4ba50377-img_1945.jpg)](/news-notes/mountains-wednesday-december-23-advent-2020)
 
 Guest User
 12/23/20
@@ -197,7 +197,7 @@ To whom is God sending you today? Who do you know that needs to hear of the LORD
 
 [Read More](/news-notes/mountains-wednesday-december-23-advent-2020)
 
-[![God's Whisper - Tuesday, December 22 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773203230-17LY23WOL2C3ARNDNXZA/maxresdefault.jpg)](/news-notes/gods-whisper-tuesday-december-22-advent-2020)
+[![God's Whisper - Tuesday, December 22 (Advent 2020)](images/f5fd2cc4-maxresdefault.jpg)](/news-notes/gods-whisper-tuesday-december-22-advent-2020)
 
 Guest User
 12/22/20

@@ -5,7 +5,7 @@ date: 2018-11-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-113018
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b79374e2e152554137f3/1748628700852/TLGA6AAHYJF5NM7UWOLHRUHRTM.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775507899-XXI8ZPLKOTLSFAMCOCW3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775509446-55ISP5N4PPFVJXLAMJJ2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775510419-G2Q5D97IDTFXW1JPF5J0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775511338-B7736GDYRAHB1M0PXO6S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775512239-4EK9HK0IXO3DDPTXA7BU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775513252-MQ458BOQTOZMOGCF3Z87/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775514631-UNLBTAUIXPPL8TQA0UP6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775515735-Y2N9DICS81LARVZTVU04/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775516743-4MMQGR9IUIT3T2HFLFVG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775518265-1QXBUKTMCXJFDIX1C0N8/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775518899-TSN6QHIJIHJ40146E5IU/image-asset.png"]
+images: ["images/9462c371-TLGA6AAHYJF5NM7UWOLHRUHRTM.jpg", "images/16d8fd6a-image-asset.jpeg", "images/5fd9f786-image-asset.jpeg", "images/97982393-image-asset.jpeg", "images/64457484-image-asset.jpeg", "images/334b7ebe-image-asset.jpeg", "images/1bd579ae-image-asset.jpeg", "images/95f14780-image-asset.jpeg", "images/d4ca6fdc-image-asset.jpeg", "images/f476b417-image-asset.jpeg", "images/9db7062f-image-asset.png", "images/9062f684-image-asset.png"]
 ---
 # This Week in Native American News (11/30/18): Protecting culture, land, and art (plus a whole bunch of history)
 
@@ -13,7 +13,7 @@ Nov 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775507899-XXI8ZPLKOTLSFAMCOCW3/image-asset.jpeg)
+![](images/16d8fd6a-image-asset.jpeg)
 
 # November 30, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Native People Are Taking Center Stage. Finally.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775509446-55ISP5N4PPFVJXLAMJJ2/image-asset.jpeg)
+![](images/5fd9f786-image-asset.jpeg)
 
 The New York Times asked a group of Native people about their heritage, the country and the future. Photo credit: George Wylesol
 
@@ -31,7 +31,7 @@ It’s hard to fathom that it took until 2018 for the first Native American wome
 
 ## In Similar News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775510419-G2Q5D97IDTFXW1JPF5J0/image-asset.jpeg)
+![](images/97982393-image-asset.jpeg)
 
 ### [How Native Americans in the arts are preserving tradition in a changing world](https://www.latimes.com/entertainment/arts/museums/la-et-cm-native-american-artists-20181129-htmlstory.html)
 
@@ -39,7 +39,7 @@ In Native societies, art was integrated into the act of making everyday things a
 
 ## On the Other Hand…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775511338-B7736GDYRAHB1M0PXO6S/image-asset.jpeg)
+![](images/64457484-image-asset.jpeg)
 
 ### [Why Native American Heritage Month can actually be a nightmare for Native people](https://hellogiggles.com/lifestyle/native-american-heritage-month-nightmare-for-native-people/)
 
@@ -51,7 +51,7 @@ At the risk of sounding salty, I’m going to detail why Native American Herita
 
 ## Indigenous protected areas are the next generation of conservation
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775512239-4EK9HK0IXO3DDPTXA7BU/image-asset.jpeg)
+![](images/334b7ebe-image-asset.jpeg)
 
 Edéhzhíe is located in the Dehcho region of the Northwest Territories. It is the first Indigenous protected area designated in Canada. Credit: Government of Northwest Territories Read more at: https://phys.org/news/2018-11-indigenous-areas.html#jCp
 
@@ -71,7 +71,7 @@ Prime Minister Justin Trudeau included a $1.3-billion nature fund in the 2018 f
 
 ## This Artist Reenvisioned Marvel Superheroes in a Traditional Native American Style
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775513252-MQ458BOQTOZMOGCF3Z87/image-asset.jpeg)
+![](images/1bd579ae-image-asset.jpeg)
 
 Of Gods and Heroes by Jeffrey Veregge, 2018 (detail featuring Colleen Wing and Misty Knight) (©2018, Marvel)
 
@@ -85,13 +85,13 @@ Designed by artist Jeffrey Veregge, the work features all the elements of a gre
 
 ## Today’s History Lesson
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775514631-UNLBTAUIXPPL8TQA0UP6/image-asset.jpeg)
+![](images/95f14780-image-asset.jpeg)
 
 ### [Why World War I Was a Surprisingly Pivotal Moment for American Indian History](http://time.com/5459439/american-indians-wwi/)
 
 “When the [first] World War came about, we had weapons, and we became warriors again,” Asepermy says. He himself is a retired sergeant major who served in the Army from 1966 to 1990, including a combat tour in Vietnam from 1969-1970, and he says that urge to connect with the past contributed his own decision to go into the military.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775515735-Y2N9DICS81LARVZTVU04/image-asset.jpeg)
+![](images/d4ca6fdc-image-asset.jpeg)
 
 ### [10 landmarks you didn't know had Native American origins](https://www.businessinsider.com/native-american-landmarks-origins-2018-11)
 
@@ -99,7 +99,7 @@ Native Americans built vibrant communities in what is now the United States long
 
 From the Gateway Arch to Alcatraz, here 10 US landmarks you may not have known have Native American origins.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775516743-4MMQGR9IUIT3T2HFLFVG/image-asset.jpeg)
+![](images/f476b417-image-asset.jpeg)
 
 ### [Alaska Native teens get official credit for assisting historic Denali ascent](https://www.adn.com/sports/2018/11/21/alaska-sports-hall-of-fame-plaque-honoring-historic-denali-ascent-gets-an-edit/)
 
@@ -109,7 +109,7 @@ The first time the plaque honoring the first ascent of Denali was taken down, it
 
 The second time was this fall, so the names of two Alaska Native teenagers could be added to the brief story about the expedition.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775518265-1QXBUKTMCXJFDIX1C0N8/image-asset.png)
+![](images/9db7062f-image-asset.png)
 
 ### [Native American History Timeline](https://www.history.com/topics/native-american-history/native-american-timeline)
 
@@ -127,7 +127,7 @@ Years before Christopher Columbus stepped foot on what would come to be known 
 
 # Today is your last chance to take part in our gift match. Click below!
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775518899-TSN6QHIJIHJ40146E5IU/image-asset.png)](https://www.lutheranindianministries.org/news/gathering-to-give-thanks/#it-is-like-a-bogo)
+[![](images/9062f684-image-asset.png)](https://www.lutheranindianministries.org/news/gathering-to-give-thanks/#it-is-like-a-bogo)
 
 ---
 

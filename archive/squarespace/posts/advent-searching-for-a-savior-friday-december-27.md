@@ -5,7 +5,7 @@ date: 2019-12-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-searching-for-a-savior-friday-december-27
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1553cdc7517f1586524/1748628700852/03c4e43ebee46080b98a83af23513504.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773912595-KPD7DT59GX39LFBUZH6T/image-asset.png"]
+images: ["images/92266f79-03c4e43ebee46080b98a83af23513504.jpg", "images/3f697edf-image-asset.png"]
 ---
 # Advent: Searching for a Savior - Friday, December 27
 
@@ -15,7 +15,7 @@ Dec 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773912595-KPD7DT59GX39LFBUZH6T/image-asset.png)
+![](images/3f697edf-image-asset.png)
 
 ### Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem, saying, “Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him."
 

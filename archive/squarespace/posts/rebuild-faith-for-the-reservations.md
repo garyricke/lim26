@@ -5,7 +5,7 @@ date: 2017-06-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/rebuild-faith-for-the-reservations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bff29fbe2f30bcd06164/1748628700852/devotion+title.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777650891-DQWU7HS3C2N8ESU3X63L/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777652842-7MI6AGZY3T8SSRAV373A/image-asset.jpeg"]
+images: ["images/77bc6a9c-devotion_title.jpg", "images/b75c29ae-image-asset.jpeg", "images/94dc4eba-image-asset.jpeg"]
 ---
 # Rebuild: Faith for the Reservations, Devo 3 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jun 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777650891-DQWU7HS3C2N8ESU3X63L/image-asset.jpeg)
+![](images/b75c29ae-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -43,7 +43,7 @@ Scripture tells us that when Paul and Silas were singing, "Suddenly there was a 
 
 Native Americans, overall, suffer from the highest rates of poverty, disease, incarceration, and suicide of any demographic group and yet, to many, they are a forgotten race - simply people who lived long ago, who we learn about in history class.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777652842-7MI6AGZY3T8SSRAV373A/image-asset.jpeg)
+![](images/94dc4eba-image-asset.jpeg)
 
 Native people are alive. They are hurting. They need the Light.
 

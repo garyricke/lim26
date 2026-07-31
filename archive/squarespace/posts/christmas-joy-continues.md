@@ -5,7 +5,7 @@ date: 2017-01-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/christmas-joy-continues
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c3eb4e34042f8b5942e9/1748628700852/grateful.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778670022-7ARWJQ3BZ2ZAVNUYR1ZW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778671915-J6IUBR4DL4Y4V25R8PFW/image-asset.jpeg"]
+images: ["images/80ed0217-grateful.jpg", "images/f14bcdd5-image-asset.jpeg", "images/fdc036b6-image-asset.jpeg"]
 ---
 # Christmas Joy and Thanks - Christmas on the Lower Elwha Reservation
 
@@ -19,7 +19,7 @@ Yes, the gifts have all been unwrapped, the tree has been taken down, and the de
 
 That joy is still felt in the houses on the Lower Elwha Reservation in Washington's Olympic Peninsula. You will still find ornaments hanging on windows and doorknobs and Christmas books being read - all because of the generosity of people like you, people who care about our Native brothers and sisters and want to share with them the love of Jesus Christ.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778670022-7ARWJQ3BZ2ZAVNUYR1ZW/image-asset.jpeg)
+![](images/f14bcdd5-image-asset.jpeg)
 
 The Lower Elwha tribe holds a Christmas party every year for everyone on their rolls (those with Elwha lineage), not just those who live on the reservation. The tribal leadership provides a meal and a present for each child, and for the past few years, Tom and Cathy Benzler, LIM staff, have attended and enjoyed the festivities, food, and fellowship. Becuase everyone is invited, it is a great opportunity for them to get to know new people, especially those who live and work off the reservation.
 
@@ -37,7 +37,7 @@ This man, who Cathy and Tom know through their involvement with the Lower Elwha,
 
 It is amazing the way God can work in a person's life. We never know what a small, simple act of love can do to make a huge difference.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778671915-J6IUBR4DL4Y4V25R8PFW/image-asset.jpeg)
+![](images/fdc036b6-image-asset.jpeg)
 
 If you gave a gift or prayed for Lutheran Indian Ministries last year, you made this possible, and we want to you know how much we appreciate you. We are so grateful for your generosity and passion.
 

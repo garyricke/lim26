@@ -5,7 +5,7 @@ date: 2016-05-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/a-mentor-and-a-savior
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cb94ba908c3f3fd537cd/1748628700852/Will-Matthew_Haskell-LIGHT.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780630018-6SY8QO7JYNMJ0EI0AWU1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780631985-WZ0A0JM8RUJ6A8V1ZUC7/image-asset.jpeg"]
+images: ["images/e714e43d-Will-Matthew_Haskell-LIGHT.jpg", "images/2ecf502a-image-asset.jpeg", "images/e0747889-image-asset.jpeg"]
 ---
 # A Mentor and A Savior
 
@@ -19,7 +19,7 @@ Think about what your life would have been like without the important role model
 
 However, now, without mentors or reliable adults, the statistics are dismal: lower graduation rates, higher teenage pregnancy, higher drug abuse. For those that do succeed and enroll in college, few finish their degree, and those that do have usually found the support of caring and attentive adults on campus - a mentor.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780630018-6SY8QO7JYNMJ0EI0AWU1/image-asset.jpeg)
+![](images/2ecf502a-image-asset.jpeg)
 
 Many of the students that come to the Haskell Indian Nations University come from this exact situation, so [Will and Patricia Main](/haskell)[, LIM staff in charge of the Haskell LIGHT Campus Ministry](/haskell), step in as the caring adults to these students ([students like Matthew](http://www.lutheranindianministries.org/news/kansaslhaskell-light-campus-ministry/the-importance-of-fathers)), teaching both the loving grace of Jesus, as well as His leadership qualities.
 
@@ -39,7 +39,7 @@ What better teacher and mentor is there?
 
 ### At the LIGHT House, they call it "Champions in Training."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780631985-WZ0A0JM8RUJ6A8V1ZUC7/image-asset.jpeg)
+![](images/e0747889-image-asset.jpeg)
 
 The latest installment in the series drew from John Maxwell's leadership concepts and spoke of raising your leadership ability and finding mentors in other leaders.
 

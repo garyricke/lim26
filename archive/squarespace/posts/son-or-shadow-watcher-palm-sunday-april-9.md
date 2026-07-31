@@ -5,7 +5,7 @@ date: 2017-04-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/son-or-shadow-watcher-palm-sunday-april-9
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c12d7f9bf6106f0956d3/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777966331-XXFU3X504QL6390MUCS1/image-asset.jpeg"]
+images: ["images/e8de1a86-2017_lent_cover.jpg", "images/6ce6d5d5-image-asset.jpeg"]
 ---
 # Son or Shadow Watcher: Palm Sunday, April 9
 
@@ -15,7 +15,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## The day is yours, and yours also the night; you established the sun and the moon. Psalm 74:16 (NIV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777966331-XXFU3X504QL6390MUCS1/image-asset.jpeg)
+![](images/6ce6d5d5-image-asset.jpeg)
 
 It lay just a few feet under the surface of a farm field, undisturbed for over 600 years.  Now, it is a significant National Historic Landmark and a gathering place for Native Americans and archaeologists.  On the list of possible World Heritage Sites, SunWatch Indian Village in Dayton, Ohio, is a giant sundial, a solar calendar.
 

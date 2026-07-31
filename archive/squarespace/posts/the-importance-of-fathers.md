@@ -5,7 +5,7 @@ date: 2015-11-16
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/kansaslhaskell-light-campus-ministry/the-importance-of-fathers
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349da580bd5b10e95f5a751/1665784415541/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784409951-Q2WVIKA4PK4UW0FVLOPU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784411814-5DVWZ8IOPV8RS1D3YSV3/image-asset.jpeg"]
+images: ["images/1d7b1b06-1665784415541", "images/b6bdd699-image-asset.jpeg", "images/332103fe-image-asset.jpeg"]
 ---
 # The Importance of Fathers
 
@@ -19,7 +19,7 @@ Picture a young Native American man running the streets in Reno, Nevada, involve
 
 He shares with me that he sees consistency in our lives. He sees Patricia and I living a life of encouragement and faith. The spark in his life is fanned into flame by the Holy Spirit. **We have been used by God to be the stability and encouragement in his faith walk.**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784409951-Q2WVIKA4PK4UW0FVLOPU/image-asset.jpeg)
+![](images/b6bdd699-image-asset.jpeg)
 
 Matthew, Will, and friend at Haskell LIGHT Campus Ministry
 
@@ -27,7 +27,7 @@ Our friend graduates from HINU, enrolls at the [University of Kansas](http://www
 
 Our friend feels called to return to Kansas to resume classes. **Once again we enter his story.** He shares that he has been watching and learning from me. What a great honor to mentor such a fine man. The natural leadership abilities he possesses have been developed under the watchful eyes of Jesus.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784411814-5DVWZ8IOPV8RS1D3YSV3/image-asset.jpeg)
+![](images/332103fe-image-asset.jpeg)
 
 Will and Matthew at Haskell LIGHT Campus Ministry
 

@@ -5,7 +5,7 @@ date: 2020-03-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/calm-in-the-storm
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0c87c9bc16a0fbc7798/1748628700852/matt-8.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773772312-1NPKGAYI6G0GQQ5IALPQ/image-asset.png"]
+images: ["images/102fd1b0-matt-8.jpg", "images/3260049d-image-asset.png"]
 ---
 # Calm in the Storm - Lent 2020
 
@@ -15,7 +15,7 @@ Mar 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773772312-1NPKGAYI6G0GQQ5IALPQ/image-asset.png)
+![](images/3260049d-image-asset.png)
 
 ### Then he got up and rebuked the winds and the waves, and it was completely calm. [Matthew 8:26](https://www.bible.com/bible/111/mat.8.26)
 

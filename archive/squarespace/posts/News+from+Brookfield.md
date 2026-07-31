@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/News+from+Brookfield
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779106437-5253SAVNAT7WQSA1DXGO/akuacreative_5_fab65ebe8915a8b91d2d3929e906c94d.nbcnews-ux-600-480.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779136636-SBNC28RBKIJYXI84ERXD/Black-Felt-Headdress.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779155217-YINAXQEVUA2YF5DQZJ22/01black-elk-peak.adapt.1190.1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779182602-9SW7RGEKNDQVO967NQ4R/2016-08-17-1471421676-4561983-DF13_11.6_GDTimesSquare1_1340_c-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779219339-IZUM116LORUBSZATY8CR/jqian_hapa_npr_b9-82bb5325393030f2168a172c4fdd984e4654dfe4.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779253103-1DESK1J7JTPQOOF4B479/61acdd1bff0cb25e5ce06d69775ede49.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779430296-TCAOJ5TS4QQXJE4Z5LR8/IMG_2169.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779781856-M81NODA90MPBHH9XKV3G/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779794713-0PJCPEWNZOEQOE0LDT1J/Now+to+Him+who+is+able+to+do+immeasurably+more+than+all+we+ask+or+imagine%2C+according+to+his+power+that+is+at+work+within+us%2C+to+him+be+glory+in+the+church+and+in+Jesus+Christ+throughout+all+generations%2C+for+ev.png"]
+images: ["images/56e615d8-akuacreative_5_fab65ebe8915a8b91d2d3929e906c94d.nbcnews-ux-600-480.jpg", "images/c582af15-Black-Felt-Headdress.jpg", "images/8349c23a-01black-elk-peak.adapt.1190.1.jpg", "images/bcd89ce2-2016-08-17-1471421676-4561983-DF13_11.6_GDTimesSquare1_1340_c-thumb.jpg", "images/bc2db050-jqian_hapa_npr_b9-82bb5325393030f2168a172c4fdd984e4654dfe4.jpeg", "images/337dae98-61acdd1bff0cb25e5ce06d69775ede49.jpg", "images/b12a3ea8-IMG_2169.jpg", "images/d7ee49da-image-asset.jpeg", "images/0d579652-Now_to_Him_who_is_able_to_do_immeasurably_more_than_all_we_ask_or_imagine__according_to_his_power_that_is_at_work_within"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -73,7 +73,7 @@ Press Release: September 13, 2016:  Lutheran Indian Ministries Selects New Exe
 
 [Read More](/news-notes/category/press-release-september-13-2016)
 
-[![This Week in Native American News - September 9, 2016](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779106437-5253SAVNAT7WQSA1DXGO/akuacreative_5_fab65ebe8915a8b91d2d3929e906c94d.nbcnews-ux-600-480.jpg)](/news-notes/category/this-week-in-native-american-news-september-9-2016)
+[![This Week in Native American News - September 9, 2016](images/56e615d8-akuacreative_5_fab65ebe8915a8b91d2d3929e906c94d.nbcnews-ux-600-480.jpg)](/news-notes/category/this-week-in-native-american-news-september-9-2016)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User
@@ -89,7 +89,7 @@ This Week in Native American News - September 9, 2016: an Earthship, Native clot
 
 [Read More](/news-notes/category/this-week-in-native-american-news-september-9-2016)
 
-[![This Week in Native American News - September 2, 2016](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779136636-SBNC28RBKIJYXI84ERXD/Black-Felt-Headdress.jpg)](/news-notes/category/this-week-in-native-american-news-september-2-2016)
+[![This Week in Native American News - September 2, 2016](images/c582af15-Black-Felt-Headdress.jpg)](/news-notes/category/this-week-in-native-american-news-september-2-2016)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User
@@ -105,7 +105,7 @@ This Week in Native American News - September 2, 2016: politics and headdresses.
 
 [Read More](/news-notes/category/this-week-in-native-american-news-september-2-2016)
 
-[![This Week in Native American News - August 26, 2016](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779155217-YINAXQEVUA2YF5DQZJ22/01black-elk-peak.adapt.1190.1.jpg)](/news-notes/category/this-week-in-native-american-news-august-26-2016)
+[![This Week in Native American News - August 26, 2016](images/8349c23a-01black-elk-peak.adapt.1190.1.jpg)](/news-notes/category/this-week-in-native-american-news-august-26-2016)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User
@@ -121,7 +121,7 @@ This Week in Native American News - August 26, 2016: a new mountain, a graphic n
 
 [Read More](/news-notes/category/this-week-in-native-american-news-august-26-2016)
 
-[![This Week in Native American News - August 19, 2016](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779182602-9SW7RGEKNDQVO967NQ4R/2016-08-17-1471421676-4561983-DF13_11.6_GDTimesSquare1_1340_c-thumb.jpg)](/news-notes/category/this-week-in-native-american-news-august-19-2016)
+[![This Week in Native American News - August 19, 2016](images/bcd89ce2-2016-08-17-1471421676-4561983-DF13_11.6_GDTimesSquare1_1340_c-thumb.jpg)](/news-notes/category/this-week-in-native-american-news-august-19-2016)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User
@@ -137,7 +137,7 @@ This week in Native American News - August 19, 2016: a relocated village, a man
 
 [Read More](/news-notes/category/this-week-in-native-american-news-august-19-2016)
 
-[![This Week in Native American News - August 12, 2016](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779219339-IZUM116LORUBSZATY8CR/jqian_hapa_npr_b9-82bb5325393030f2168a172c4fdd984e4654dfe4.jpeg)](/news-notes/category/this-week-in-news-august-12-2016)
+[![This Week in Native American News - August 12, 2016](images/bc2db050-jqian_hapa_npr_b9-82bb5325393030f2168a172c4fdd984e4654dfe4.jpeg)](/news-notes/category/this-week-in-news-august-12-2016)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User
@@ -153,7 +153,7 @@ This week in Native American News - August 12, 2016: a successful Native school,
 
 [Read More](/news-notes/category/this-week-in-news-august-12-2016)
 
-[![This Week in Native American News - August 5, 2016](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779253103-1DESK1J7JTPQOOF4B479/61acdd1bff0cb25e5ce06d69775ede49.jpg)](/news-notes/category/this-week-in-native-american-news-august-5-2016)
+[![This Week in Native American News - August 5, 2016](images/337dae98-61acdd1bff0cb25e5ce06d69775ede49.jpg)](/news-notes/category/this-week-in-native-american-news-august-5-2016)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User
@@ -169,7 +169,7 @@ This Week in Native American News - August 5, 2016: a 2,000 mile run, a country-
 
 [Read More](/news-notes/category/this-week-in-native-american-news-august-5-2016)
 
-[![This Week in Native American News - July 29, 2016](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779430296-TCAOJ5TS4QQXJE4Z5LR8/IMG_2169.jpg)](/news-notes/category/this-week-in-native-american-news-july-29-2016)
+[![This Week in Native American News - July 29, 2016](images/b12a3ea8-IMG_2169.jpg)](/news-notes/category/this-week-in-native-american-news-july-29-2016)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User
@@ -185,7 +185,7 @@ This Week in Native American News - July 29, 2016: suicide prevention, a pardon,
 
 [Read More](/news-notes/category/this-week-in-native-american-news-july-29-2016)
 
-[![What is Native Ministry?](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779781856-M81NODA90MPBHH9XKV3G/image-asset.jpeg)](/news-notes/category/what-is-native-ministry)
+[![What is Native Ministry?](images/d7ee49da-image-asset.jpeg)](/news-notes/category/what-is-native-ministry)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User
@@ -201,7 +201,7 @@ Tim Young Eagle explains Native Ministry through Lutheran Indian Ministries on K
 
 [Read More](/news-notes/category/what-is-native-ministry)
 
-[![Does God Still Perform Miracles?](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779794713-0PJCPEWNZOEQOE0LDT1J/Now+to+Him+who+is+able+to+do+immeasurably+more+than+all+we+ask+or+imagine%2C+according+to+his+power+that+is+at+work+within+us%2C+to+him+be+glory+in+the+church+and+in+Jesus+Christ+throughout+all+generations%2C+for+ev.png)](/news-notes/category/does-god-still-perform-miracles)
+[![Does God Still Perform Miracles?](images/0d579652-Now_to_Him_who_is_able_to_do_immeasurably_more_than_all_we_ask_or_imagine__according_to_his_power_that_is_at_work_within)](/news-notes/category/does-god-still-perform-miracles)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User

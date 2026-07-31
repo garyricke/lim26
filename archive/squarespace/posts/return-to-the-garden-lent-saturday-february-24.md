@@ -5,7 +5,7 @@ date: 2018-02-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/return-to-the-garden-lent-saturday-february-24
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc5e89548629034f4041/1748628700852/Then-Jesus-went-with-1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776735843-SIENVYFDRSFHGY5SWPEH/image-asset.png"]
+images: ["images/00be84f0-Then-Jesus-went-with-1.jpg", "images/e335b606-image-asset.png"]
 ---
 # Return to the Garden (Lent) - Saturday, February 24
 
@@ -15,7 +15,7 @@ Feb 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776735843-SIENVYFDRSFHGY5SWPEH/image-asset.png)
+![](images/e335b606-image-asset.png)
 
 ### "When Jesus had spoken these words, he went out with his disciples…  where there was a garden… for Jesus often met there with his disciples." [John 18:1-2 (NIV)](https://www.bible.com/bible/111/JHN.18.1-2)
 

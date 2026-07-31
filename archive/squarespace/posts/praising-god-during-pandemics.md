@@ -5,7 +5,7 @@ date: 2020-04-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/praising-god-during-pandemics
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b02127d6ef0b95a50fa9/1748628700852/psalms-34-1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773603259-PSX0IB6GB6KN90EKD0GU/image-asset.jpeg", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/d8ba59c1-psalms-34-1.jpg", "images/8a26472c-image-asset.jpeg", "images/6ac51f52-pixel.gif"]
 ---
 # Praising God During a Pandemic
 
@@ -13,7 +13,7 @@ Apr 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773603259-PSX0IB6GB6KN90EKD0GU/image-asset.jpeg)
+![](images/8a26472c-image-asset.jpeg)
 
 ### And He never sleeps, He never slumbers.  He never tires of hearing our prayer.  When we are weak, He becomes stronger.  So, rest in His love and cast all of your cares on Him. Our God is able. He is mighty. He is faithful. -“He Never Sleeps” by Don Moen
 
@@ -63,7 +63,7 @@ Executive Director
 
 ### If you feel God moving you to make a gift, you can use the form below. More importantly, we want to use this opportunity to slow down and serve you with our prayers. Please, send your prayer requests to Jessica with the form below and know God is in control of it all!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

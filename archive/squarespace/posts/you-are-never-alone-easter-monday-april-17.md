@@ -5,7 +5,7 @@ date: 2017-04-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/you-are-never-alone-easter-monday-april-17
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c10d9aa0180a63d2ee0d/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777934470-M58YEE2A8TMB7NAQTOTQ/image-asset.jpeg"]
+images: ["images/d9a9cbad-2017_lent_cover.jpg", "images/95072cfd-image-asset.jpeg"]
 ---
 # You are Never Alone: Easter Monday, April 17
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## “And surely, I am with you always, to the very end of the age.” Matthew 28:20 (NIV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777934470-M58YEE2A8TMB7NAQTOTQ/image-asset.jpeg)
+![](images/95072cfd-image-asset.jpeg)
 
 To be alone in the face of a challenging task can be unsettling. To feel alone in the midst of a difficult experience can be frightening. At times, these can be part of ministry.  Opportunities in new areas can often feel overwhelming and lonely. This is not unique to those working in ministry; life experiences, such as tragic deaths, family break-up, loss of a job, or struggling with mental health, elicit strong negative feelings and make us feel very alone with our pain, espeically when we believe we have no one to talk to about it.
 

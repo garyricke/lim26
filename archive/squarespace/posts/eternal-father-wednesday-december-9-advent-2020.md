@@ -5,7 +5,7 @@ date: 2020-12-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/eternal-father-wednesday-december-9-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aed789548629034cbf1e/1748628700852/Isaiah-9-6_2011_2560x1440.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773275487-4I0EP1ADNTTSM41LQRQV/image-asset.png"]
+images: ["images/ef3d8320-Isaiah-9-6_2011_2560x1440.jpg", "images/b48e8993-image-asset.png"]
 ---
 # Eternal Father - Wednesday, December 9 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773275487-4I0EP1ADNTTSM41LQRQV/image-asset.png)
+![](images/b48e8993-image-asset.png)
 
 ## And he will be called Wonderful Counsellor, Mighty God, Everlasting Father, Prince of Peace. [Isaiah 9:6](https://my.bible.com/bible/111/ISA.9.6)
 

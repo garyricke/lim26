@@ -5,7 +5,7 @@ date: 2021-03-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/father-forgive-them-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae43f20dc33f337111f3/1748628700852/21+Father+Forgive+Them.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773124001-9ZPA8L15YEZXBJGDK33V/image-asset.jpeg"]
+images: ["images/98bf51fa-21_Father_Forgive_Them.jpg", "images/9dfff674-image-asset.jpeg"]
 ---
 # Father, Forgive Them (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773124001-9ZPA8L15YEZXBJGDK33V/image-asset.jpeg)
+![](images/9dfff674-image-asset.jpeg)
 
 # WHEN THEY CAME TO THE PLACE CALLED THE SKULL, THERE THEY CRUCIFIED HIM, ALONG WITH THE CRIMINALS--ONE ON HIS RIGHT, THE OTHER ON HIS LEFT. JESUS SAID, "FATHER, FORGIVE THEM, FOR THEY DO NOT KNOW WHAT THEY ARE DOING." (LUKE 23:33-34)
 

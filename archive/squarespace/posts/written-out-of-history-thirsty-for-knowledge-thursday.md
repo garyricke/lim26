@@ -5,7 +5,7 @@ date: 2017-03-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/written-out-of-history-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1bb8eead250d7bc8331/1748628700852/_63313399_3350418.jpg"]
+images: ["images/e43e736b-_63313399_3350418.jpg"]
 ---
 # Written out of history - Thirsty (for Knowledge) Thursday
 

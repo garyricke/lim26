@@ -5,7 +5,7 @@ date: 2016-06-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/fnv-verse-luke-11-4
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c8e3e25f322cd9e528b5/1748628700852/O+most+honored+Friend+of+Creator+%28Theophilus%29%2C+many+have+told+this+story%2C+given+to+them+from+those+who+saw+these+things+with+their+own+eyes%2C+the+ones+who+first+walked+out+this+message+to+hand+it+down+to+us.Hav.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779942440-Y4J72APUITFHZBXT0VYE/image-asset.png"]
+images: ["images/c139a7e8-O_most_honored_Friend_of_Creator__Theophilus___many_have_told_this_story__given_to_them_from_those_who_saw_these_things_", "images/6b5ab5e0-image-asset.png"]
 ---
 # FNV Verse - Luke 1:1-4
 
@@ -17,7 +17,7 @@ We are so excited to have received our print copy of the [First Nations Version 
 
 Because the Gospel of Luke is written with the goal of persuading people (with the help of the Holy Spirit) to understand the story of Jesus and follow Him, and because that is also the goal of Lutheran Indian Ministries, we will work our way through Luke (with the help of scholarly friends).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779942440-Y4J72APUITFHZBXT0VYE/image-asset.png)
+![](images/6b5ab5e0-image-asset.png)
 
 > What is the main point of these four verses? Luke is writing to persuade this Roman official [Theophilus] (and probably others like him) that the Christian teachings which he has heard are true.
 

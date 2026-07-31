@@ -5,7 +5,7 @@ date: 2021-03-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/victory-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae3e35e7643a6e5628c1/1748628700852/21+Victory.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773119393-N5BQ1L0PCR01HVGBO42Z/image-asset.jpeg"]
+images: ["images/9657bfb5-21_Victory.jpg", "images/86a0d0ce-image-asset.jpeg"]
 ---
 # Victory (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773119393-N5BQ1L0PCR01HVGBO42Z/image-asset.jpeg)
+![](images/86a0d0ce-image-asset.jpeg)
 
 # “JESUS SAID TO HIM. “AWAY FROM ME SATAN!FOR IT IS WRITTEN; ‘WORSHIP THE LORD YOUR GOD AND SERVE HIM ONLY.” THEN THE DEVIL LEFT HIM AND ANGELS CAME AND ATTENDED HIM.” (MATTHEW 4:10-11)
 

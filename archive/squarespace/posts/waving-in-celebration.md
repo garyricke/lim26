@@ -5,7 +5,7 @@ date: 2020-04-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/waving-in-celebration
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b05c27d6ef0b95a51b03/1748628700852/Re7.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773663241-7HX7C7W85BIO7IGYMB8M/image-asset.png"]
+images: ["images/43e3dfdc-Re7.jpg", "images/0f24b134-image-asset.png"]
 ---
 # Waving in Celebration - Lent 2020
 
@@ -15,7 +15,7 @@ Apr 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773663241-7HX7C7W85BIO7IGYMB8M/image-asset.png)
+![](images/0f24b134-image-asset.png)
 
 ### After this I looked and behold a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb, clothed in white robes, with palm branches in their hands, and crying out with a loud voice, “Salvation belongs to our God who sits on the throne, and to the Lamb!” [Revelation 7:9-10](https://www.bible.com/bible/111/rev.7.9-10)
 

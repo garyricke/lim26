@@ -5,7 +5,7 @@ date: 2015-08-18
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/new-mexiconavajo/summer-events-in-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44594/1451491778619/Navajo-Alaska_Old-Minto.jpg"]
+images: ["images/03136060-Navajo-Alaska_Old-Minto.jpg"]
 ---
 # Summer Events in Navajo
 
@@ -22,7 +22,7 @@ The second team came from Our Savior's Lutheran in Topsfield, Mass. They provide
 
 The last team was a group who also visited last year from the [LWML Utah-Idaho District](http://www.utahidaholwml.com/). They built on relationships they had established last year and did many collaborative projects, including sewing pajama pants, making a quilt and decorating cakes. The women also shared the Word of God in Bible studies with adults and children.
 
-![Navajo Ministry Mission Trip to Old Minto, Alaska](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44594/1451491778619/Navajo-Alaska_Old-Minto.jpg)
+![Navajo Ministry Mission Trip to Old Minto, Alaska](images/03136060-Navajo-Alaska_Old-Minto.jpg)
 
 Our church was on the giving end, as well as the receiving end of mission this summer. We hosted our own VBS, organized and led by one of our congregation members. We also sent a team once again to Old Minto, Alaska, for a weeklong servant event. Although it was a demanding servant event (cooking, VBS and taking care of the camp), we saw God's hand in many things, and we heard many stories from people whom He called out of darkness and into His marvelous light (1 Peter 2:0).
 

@@ -5,7 +5,7 @@ date: 2017-07-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-7717
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfd3570b9a14322a04b1/1748628700852/20170623innonations_19.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777619918-IOJFOOUHJQH0XH1FNHDE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777620928-KS3POFAY8GXYKS6ASC91/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777622012-KAC24LDCN7SXV6N2RJZY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777623400-5QBZ1DNTTAIRAG0DCWL7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777624774-RJ6NKIR522Q9AA04ZTFS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777626091-GZQRLE7P2S9V74KZ2UC8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777627155-60FUL9AOW0KSTBQ35QT0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777628172-OMH84GR6WO4ZRY4WUUQR/image-asset.jpeg"]
+images: ["images/667bf890-20170623innonations_19.jpg", "images/1f9d7461-image-asset.jpeg", "images/d1751e06-image-asset.jpeg", "images/8c264c80-image-asset.jpeg", "images/62476879-image-asset.jpeg", "images/b5ec62e4-image-asset.jpeg", "images/0371a77b-image-asset.jpeg", "images/85d17b1f-image-asset.jpeg", "images/a924142b-image-asset.jpeg"]
 ---
 # This Week in Native American News (7/7/17): upending poverty, encouraging entreprenuers, and fixing history
 
@@ -13,7 +13,7 @@ Jul 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777619918-IOJFOOUHJQH0XH1FNHDE/image-asset.jpeg)
+![](images/1f9d7461-image-asset.jpeg)
 
 # July 7, 2017
 
@@ -35,7 +35,7 @@ On 34 acres, the organization is developing a regenerative community that builds
 
 ## Encouraging Entrepreneurs
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777620928-KS3POFAY8GXYKS6ASC91/image-asset.jpeg)
+![](images/d1751e06-image-asset.jpeg)
 
 Looking to create opportunity, the [American Indian Policy Institute](https://aipi.clas.asu.edu/) in collaboration with [ASU’s Entrepreneurship + Innovation](https://entrepreneurship.asu.edu/) has developed an intertribal initiative called Inno-NATIONS, which champions indigenous entrepreneurship and economic development across America.
 
@@ -45,7 +45,7 @@ Morris said by spearheading innovative partnerships and leveraging resources fro
 
 ### [Read the full story here](https://asunow.asu.edu/20170623-entrepreneurship-asu-program-gives-native-entrepreneurs-boost)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777622012-KAC24LDCN7SXV6N2RJZY/image-asset.jpeg)
+![](images/8c264c80-image-asset.jpeg)
 
 Australian Aboriginal, Dean Foley, is doing the same with his small business incubator.
 
@@ -55,7 +55,7 @@ Australian Aboriginal, Dean Foley, is doing the same with his small business inc
 
 ## Powwows display patriotism and unity
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777623400-5QBZ1DNTTAIRAG0DCWL7/image-asset.jpeg)
+![](images/62476879-image-asset.jpeg)
 
 It’s pow wow season in the United States, a time when Native American nations, bands and tribes gather to connect, celebrate tribal histories and cultures, and express their patriotism. On any given weekend this summer, a pow wow is taking place somewhere in the country, an expression of unity within and between Native communities.
 
@@ -67,7 +67,7 @@ And, she added, the food.
 
 ### [Read the Full story & learn more about powwows here](https://www.voanews.com/a/native-american-pow-wows-celebrate-patriotism-unity/3917859.html) -or- [Find a Powwow near you](http://calendar.powwows.com/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777624774-RJ6NKIR522Q9AA04ZTFS/image-asset.jpeg)
+![](images/b5ec62e4-image-asset.jpeg)
 
 Looking for other ways to explore Native history and culture? Marriott Traveler put together a list of 5 must-see places to visit.
 
@@ -77,7 +77,7 @@ Looking for other ways to explore Native history and culture? Marriott Traveler 
 
 ### Fixing History
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777626091-GZQRLE7P2S9V74KZ2UC8/image-asset.jpeg)
+![](images/0371a77b-image-asset.jpeg)
 
 In Utqiaġvik over the weekend, Gov. Bill Walker signed legislation recognizing Indigenous Peoples Day in Alaska.
 
@@ -85,7 +85,7 @@ The law establishes Alaska as the second state in the nation to recognize Indige
 
 ### [Read More](http://www.ktoo.org/2017/06/28/walker-signs-law-recognizing-indigenous-peoples-day-alaska/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777627155-60FUL9AOW0KSTBQ35QT0/image-asset.jpeg)
+![](images/85d17b1f-image-asset.jpeg)
 
 The National Congress of American Indians recently adopted a resolution to document the stories of Native American families who lost relatives during the boarding school era of the late 1800's through the 1970's. Those testimonies will then be submitted to the United Nations.
 
@@ -93,7 +93,7 @@ The hope is to heal the historical trauma of the boarding schools by getting the
 
 ### [Read More](http://wyomingpublicmedia.org/post/call-testimonies-missing-native-american-boarding-school-students)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777628172-OMH84GR6WO4ZRY4WUUQR/image-asset.jpeg)
+![](images/a924142b-image-asset.jpeg)
 
 Currently, monuments to our country’s reprehensible history of slavery, segregation, and oppression of African Americans are a heated battleground in our ongoing culture wars—most notably in New Orleans, where Mayor Mitch Landrieu recently delivered a moving speech after he oversaw the removal of four Confederate monuments.
 

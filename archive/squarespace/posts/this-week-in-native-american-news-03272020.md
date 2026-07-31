@@ -5,7 +5,7 @@ date: 2020-03-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-03272020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b077cb88a56680aeb51d/1748628700852/Delvin_Garcia_at_Santa_Rosa_de_Lima_Church___Russel_Albert_Daniels.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773688996-HMRAA75E310IE006ZKO2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773690118-MMMSRE3JLDUK1OB7LCW5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773691219-K927NZCVVM40TM2BVRXM/image-asset.jpeg"]
+images: ["images/44dbdcaa-Delvin_Garcia_at_Santa_Rosa_de_Lima_Church___Russel_Albert_Daniels.jpg", "images/20a512d6-image-asset.jpeg", "images/4e36f5f3-image-asset.jpeg", "images/cb96cd27-image-asset.jpeg"]
 ---
 # This Week in Native American News (3/27/2020): Yes there is more Covid-19 news AND a great watchlist for when you are stuck in your house and bored
 
@@ -13,7 +13,7 @@ Mar 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773688996-HMRAA75E310IE006ZKO2/image-asset.jpeg)
+![](images/20a512d6-image-asset.jpeg)
 
 # March 27, 2020 - Happy Distanced Friday #2!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## How the coronavirus threatens Native American communities
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773690118-MMMSRE3JLDUK1OB7LCW5/image-asset.jpeg)
+![](images/4e36f5f3-image-asset.jpeg)
 
 So far, the Lummi tribe has reported three Covid-19 cases, but expect numbers to rise as the pandemic progresses. Photograph: Stephen Brashear/EPA
 
@@ -43,7 +43,7 @@ There are 574 federally recognized Native American tribes across the United Stat
 
 ## “Developing Stories: Native Photographers in the Field” Presents Contemporary Native Experiences from the Inside
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773691219-K927NZCVVM40TM2BVRXM/image-asset.jpeg)
+![](images/cb96cd27-image-asset.jpeg)
 
 Genízaro Delvin Garcia standing in remains of the 18th-century Santa Rosa de Lima Church. Abiquiú, New Mexico, 2019. (© 2020 Russel Albert Daniels)
 

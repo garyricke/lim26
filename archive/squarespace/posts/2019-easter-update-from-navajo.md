@@ -5,7 +5,7 @@ date: 2019-06-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/2019-easter-update-from-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b30f7cbdef6eaa53f481/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774352900-2R4VXNI4ZKQXLF0GNR0Y/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774353890-VSUW6MSZ020UMXWK7077/image-asset.png"]
+images: ["images/62595699-1748628700852", "images/a93dec0e-image-asset.png", "images/011df2cd-image-asset.png"]
 ---
 # 2019 Easter Update from Navajo
 
@@ -19,13 +19,13 @@ Dear Friends in Christ,
 
 Blessed Eastertide! Although all times of the year are occasions to remember our new birth in Christ, the Easter season is an especially poignant reminder. Pictured above is a baptism of a newborn child that we had earlier this month. Rejoice with us in God’s washing of regeneration (Titus 3:5) of this child and her adoption as God’s child (1 Jn. 3:1).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774352900-2R4VXNI4ZKQXLF0GNR0Y/image-asset.png)
+![](images/a93dec0e-image-asset.png)
 
 Another event that took place this month was a visit from students of Concordia University in Irvine, CA. 11 students and their leader Rev. Jonathan Ruehs spent a week learning about Navajo culture, sharing God’s Word through skits, Bible lessons, and songs, and loving their Navajo neighbors through acts of service. This group did a great job of participating in all aspects of life, and adopting the posture of learners. Together with our church members they butchered a sheep and learned how to make fry bread. It was the first time for any of our visitors to butcher, but they thoroughly enjoyed the experience.
 
 Of course ministry here is not all sunshine and roses. I had the challenging experience of conducting a funeral for a young man who was murdered just before Easter. Cases like that are times for lament, but at the same time a reminder of what Christ offers to anyone who believes.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774353890-VSUW6MSZ020UMXWK7077/image-asset.png)
+![](images/011df2cd-image-asset.png)
 
 This winter was one of the snowier ones we have experienced here. We even had snow on the 20th of May! The snow didn’t stop our monthly barbeques at church to celebrate God’s gift of life (birthdays). Pictured below is one of our church members Howard Nutlouis, who did not let a little weather get in the way of cooking outdoors.
 

@@ -5,7 +5,7 @@ date: 2020-02-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/greetings-lets-get-ready-for-lent
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0fe046d523415cd940e/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773825646-Z0HY9P5AZ7XI1YT18N4G/image-asset.png"]
+images: ["images/46f8a588-1748628700852", "images/54f1bd2d-image-asset.png"]
 ---
 # Greetings! Let's get ready for Lent!
 
@@ -13,7 +13,7 @@ Feb 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773825646-Z0HY9P5AZ7XI1YT18N4G/image-asset.png)
+![](images/54f1bd2d-image-asset.png)
 
 Lent is a magnificent time to reflect on transformational change. And in the spring, change is everywhere we look, the world is abundant with new beginnings and new growth.
 

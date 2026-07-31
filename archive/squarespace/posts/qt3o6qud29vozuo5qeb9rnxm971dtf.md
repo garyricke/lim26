@@ -5,7 +5,7 @@ date: 2016-03-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/qt3o6qud29vozuo5qeb9rnxm971dtf
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf57bde6d40f7aa9b173/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781594824-LSLW4CDHIOJX70GW38MZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781596189-ANRCN1DI4VEJ865DZKS7/image-asset.png"]
+images: ["images/d6567003-1748628700852", "images/9a63376c-image-asset.jpeg", "images/448756de-image-asset.png"]
 ---
 # 4 Things You Can Do To Help With the Native American Suicide Epidemic
 
@@ -33,7 +33,7 @@ The more you know about the bigger picture, the history as well as the current e
 
 ### 2. Connect with a non-profit already doing the work
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781594824-LSLW4CDHIOJX70GW38MZ/image-asset.jpeg)
+![](images/9a63376c-image-asset.jpeg)
 
 Lutheran Indian Ministries works closely with [nine specific native nations](/who-we-are), as well as many rural communities and a native campus ministry. (And we're really nice people... wink, wink, nudge, nudge)
 
@@ -49,7 +49,7 @@ Look up your closest reservation or tribal group and ask them what they need. Th
 
 ### 4. Pray
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781596189-ANRCN1DI4VEJ865DZKS7/image-asset.png)
+![](images/448756de-image-asset.png)
 
 Prayer is our most powerful tool.
 

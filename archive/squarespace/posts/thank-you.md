@@ -5,7 +5,7 @@ date: 2016-12-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thank-you
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c423b382b13bb76a2493/1748628700852/2016+Advent+Devotions.png"]
+images: ["images/b932c5e9-2016_Advent_Devotions.png"]
 ---
 # THANK YOU!
 

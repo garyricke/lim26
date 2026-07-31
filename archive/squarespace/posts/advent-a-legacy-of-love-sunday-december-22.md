@@ -5,7 +5,7 @@ date: 2019-12-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-a-legacy-of-love-sunday-december-22
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b165d20efd47a96e2a27/1748628700852/4012.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773927198-FJMF1YJ8P566R97N7JT9/image-asset.png"]
+images: ["images/a81dd32d-4012.jpg", "images/8dd56367-image-asset.png"]
 ---
 # Advent: A Legacy of Love - Sunday, December 22
 
@@ -15,7 +15,7 @@ Dec 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773927198-FJMF1YJ8P566R97N7JT9/image-asset.png)
+![](images/8dd56367-image-asset.png)
 
 ### A good man leaves an inheritance to his children’s children, but the sinner’s wealth is laid up for the righteous
 

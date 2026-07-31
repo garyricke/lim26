@@ -5,7 +5,7 @@ date: 2016-08-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-august-5-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c61e9d6ea636a8b075ca/1748628700852/61acdd1bff0cb25e5ce06d69775ede49.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779231821-P033WQPTKGJ8H71KWHRN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779232867-NZEYP4333QGRRSAIWHG2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779236277-OLX3H6JAELM43HLIJQWD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779238930-Q8PNLVZY519AU3F3J5UB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779240968-3IW5119UY3A0E8N1XYXJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779243715-RGL8AQDFJM1WHV7JZV9O/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779245685-360Y1YIUMNUG1WBIZG8Z/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779246725-5T0RW8SXXCF1EA82F4XK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779249132-PD70K5WTXP0ZNNPTHPLT/image-asset.jpeg"]
+images: ["images/3ec4ce27-61acdd1bff0cb25e5ce06d69775ede49.jpg", "images/15576f84-image-asset.jpeg", "images/f474d956-image-asset.jpeg", "images/95e448d3-image-asset.jpeg", "images/e51f1ae6-image-asset.jpeg", "images/96e61e17-image-asset.jpeg", "images/e8d07abb-image-asset.jpeg", "images/9a71610b-image-asset.jpeg", "images/3f82c57b-image-asset.jpeg", "images/26a11858-image-asset.jpeg"]
 ---
 # This Week in Native American News - August 5, 2016
 
@@ -15,13 +15,13 @@ Aug 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779231821-P033WQPTKGJ8H71KWHRN/image-asset.jpeg)
+![](images/15576f84-image-asset.jpeg)
 
 ---
 
 ### Alaska Research Center Collaborates to Address Native Health
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779232867-NZEYP4333QGRRSAIWHG2/image-asset.jpeg)
+![](images/f474d956-image-asset.jpeg)
 
 Colleges, foundations, and organizations in Alaska and Montana are joining forces to improve Indigenous health care. With a grant from the National Institutes of Health, leaders in the medical sciences hope to increase the number of scientists working with Native people.
 
@@ -33,7 +33,7 @@ American Indian and Alaska Native communities lack health care and resources mor
 
 ### Farther South...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779236277-OLX3H6JAELM43HLIJQWD/image-asset.jpeg)
+![](images/95e448d3-image-asset.jpeg)
 
 Miss Native America USA, Kristina Hyatt (Cherokee), is using her platform to improve dental hygiene among Native Americans, particularly on reservations. [Read the story](http://wfae.org/post/cherokees-miss-native-american-usa-mission-improve-dental-hygiene-reservations).
 
@@ -41,7 +41,7 @@ Miss Native America USA, Kristina Hyatt (Cherokee), is using her platform to imp
 
 ### The World is watching Canada
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779238930-Q8PNLVZY519AU3F3J5UB/image-asset.jpeg)
+![](images/e51f1ae6-image-asset.jpeg)
 
 [The UN and other human rights organizations are watching Canada](http://ipolitics.ca/2016/08/05/the-world-is-watching-canadas-inquiry-into-missingmurdered-indigenous-women/) to see how they will act in the inquiry into almost 1,200 missing and murdered indigenous women (often referred to as MMIW).
 
@@ -53,7 +53,7 @@ While everyone believes this investigation is a good thing, [the way it is imple
 
 ### Native American Youth run 2,000 Miles in Protest
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779240968-3IW5119UY3A0E8N1XYXJ/image-asset.jpeg)
+![](images/96e61e17-image-asset.jpeg)
 
 Thirty-nine youth from the Oceti Sakowin Nation of North Dakota are running 2,000 miles to Washington D.C. to protest a pipeline approved to be built across their sacred tribal lands. [Read the full story here.](http://indiancountrytodaymedianetwork.com/2016/08/04/native-youth-run-2000-miles-washington-dc-protest-dakota-access-pipeline-165377)
 
@@ -63,7 +63,7 @@ Thirty-nine youth from the Oceti Sakowin Nation of North Dakota are running 2,00
 
 ### Navajo Artist Explains Lawsuit Against Urban Outfitter
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779243715-RGL8AQDFJM1WHV7JZV9O/image-asset.jpeg)
+![](images/e8d07abb-image-asset.jpeg)
 
 *Digital Man sketch by Lehi Thunder Voice Eagle Sanchez.*
 
@@ -75,7 +75,7 @@ Based on the [Indian Arts and Crafts Act of 1990](https://www.doi.gov/iacb/act) 
 
 ### In Other Native Art News, Store Promotes Native Artisans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779245685-360Y1YIUMNUG1WBIZG8Z/image-asset.jpeg)
+![](images/9a71610b-image-asset.jpeg)
 
 The Inside of Prairie Edge Trading Co. Photo Credit: [Prairie Edge](https://prairieedge.com/)
 
@@ -91,7 +91,7 @@ Prairie Edge was created to reverse the problem. Formed in the 1970's by a group
 
 ### Amish Groups Ask for Forgiveness
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779246725-5T0RW8SXXCF1EA82F4XK/image-asset.jpeg)
+![](images/3f82c57b-image-asset.jpeg)
 
 Started more than ten years ago by Pennsylvania-based Mennonites, Christian groups have been asking for forgiveness from local Native Americans. In the most recent event, a Lancaster County-based Amish bishop met with a number of local tribal representatives to apologize for their lack of action during a time of Indian deprivation. Being pacifists, the Amish community did not fight against the Native tribes, but they did take Native land for their farms.
 
@@ -99,7 +99,7 @@ Started more than ten years ago by Pennsylvania-based Mennonites, Christian grou
 
 [Get the News in Your inbox](http://eepurl.com/urL8f)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779249132-PD70K5WTXP0ZNNPTHPLT/image-asset.jpeg)](/tribe)
+[![](images/26a11858-image-asset.jpeg)](/tribe)
 
 [This Week in the News](/news-notes/tag/This+Week+in+the+News)
 

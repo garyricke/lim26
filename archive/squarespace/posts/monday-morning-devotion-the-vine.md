@@ -5,7 +5,7 @@ date: 2016-10-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/monday-morning-devotion-the-vine
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c54b42bb01115108132a/1748628700852/tumblr_n2dme2UCvZ1s91yx0o1_500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779021101-9QPC3K7NULMHGIMIIITY/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779023211-UG9KTEPID6AUOZSJUN8K/image-asset.jpeg"]
+images: ["images/aecfe7dd-tumblr_n2dme2UCvZ1s91yx0o1_500.jpg", "images/32a987c5-image-asset.png", "images/0462e8f0-image-asset.jpeg"]
 ---
 # Monday Morning Devotion - The Vine
 
@@ -15,7 +15,7 @@ Oct 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779021101-9QPC3K7NULMHGIMIIITY/image-asset.png)
+![](images/32a987c5-image-asset.png)
 
 This is week SEVEN, the final week in our seven-part devotion series, brought to you by Pastor Ricky Jacob, our Lutheran Indian Ministries Associate Pastor serving the Winnebago people of Nebraska.
 
@@ -37,7 +37,7 @@ Skip to a specific week:
 
 Today’s “I am” statement is: I am the Vine.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779023211-UG9KTEPID6AUOZSJUN8K/image-asset.jpeg)
+![](images/0462e8f0-image-asset.jpeg)
 
 Being and staying connected seems the most important need for today’s youth. Some would much rather live life without a limb than go without their cell phone. Many are so attached to staying in touch with their friends, that a cruel and unusual punishment today would be turning off the wifi signal in one’s home, or taking away the charger for one’s computer or cell phone. Having one’s battery diminish slowly and inevitably is harsh, for sure. One who receives the notification sound that a text has arrived, can hardly wait to read it – even while driving.
 

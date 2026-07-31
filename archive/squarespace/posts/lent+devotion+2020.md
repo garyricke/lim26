@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/lent+devotion+2020
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773614467-GQPR04QC9A0NPQ8DN9CL/Mt28.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773618400-VB5VCY0SI59OM95XK7AJ/Globe-1_940x940.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773623864-STS6XU8K9O2MI7BVMGVT/1280x1280+%282%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773628879-3QJQ7IP9J61KGSIG68KZ/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773632427-VTVBXWIQREWF5FZ0XWCX/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773637527-U3X2TYP1XLNK380KW5IE/1796573_10154749554850201_1924754896643632754_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773640262-TSEY27RVK2UDDAPSANF9/GoZbOg.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773648001-8XJBLNM3RFJW6IVOY5Y4/040917Matthew21-9NoLogo.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773661130-TYITQCDFELOUYL673J4J/04-Sep-bv.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773665507-2MWK5NI1CGX2E09EY38Y/Re7.jpg"]
+images: ["images/477d67ed-Mt28.jpg", "images/d52378fb-Globe-1_940x940.jpg", "images/46010820-1280x1280__2_.jpg", "images/2a7df2e8-1280x1280__1_.jpg", "images/c3c1bca3-1280x1280.jpg", "images/00e654f6-1796573_10154749554850201_1924754896643632754_n.jpg", "images/192a1ecc-GoZbOg.jpg", "images/cfee1c42-040917Matthew21-9NoLogo.png", "images/12f6a229-04-Sep-bv.jpg", "images/38e18edd-Re7.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Live Unafraid - Lent 2020 - Happy Easter!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773614467-GQPR04QC9A0NPQ8DN9CL/Mt28.jpg)](/news-notes/live-unafraid)
+[![Live Unafraid - Lent 2020 - Happy Easter!](images/477d67ed-Mt28.jpg)](/news-notes/live-unafraid)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -77,7 +77,7 @@ As the Son of God, he knew the absolute truth of what his life, death, and resur
 
 [Read More](/news-notes/live-unafraid)
 
-[![Take Heart - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773618400-VB5VCY0SI59OM95XK7AJ/Globe-1_940x940.jpg)](/news-notes/take-heart)
+[![Take Heart - Lent 2020](images/d52378fb-Globe-1_940x940.jpg)](/news-notes/take-heart)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -95,7 +95,7 @@ We are a bit spoiled. We know how this story ends. We know that Christ rises fro
 
 [Read More](/news-notes/take-heart)
 
-[![Forsaken So You Never Will Be - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773623864-STS6XU8K9O2MI7BVMGVT/1280x1280+%282%29.jpg)](/news-notes/forsaken-so-you-never-will-be)
+[![Forsaken So You Never Will Be - Lent 2020](images/46010820-1280x1280__2_.jpg)](/news-notes/forsaken-so-you-never-will-be)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -113,7 +113,7 @@ At times, you might have experienced the agony of being forsaken. You may have f
 
 [Read More](/news-notes/forsaken-so-you-never-will-be)
 
-[![Our Darkest Hour - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773628879-3QJQ7IP9J61KGSIG68KZ/1280x1280+%281%29.jpg)](/news-notes/our-darkest-hour)
+[![Our Darkest Hour - Lent 2020](images/2a7df2e8-1280x1280__1_.jpg)](/news-notes/our-darkest-hour)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -129,7 +129,7 @@ God allows us to go through hard times. Of course, our trials are nowhere near t
 
 [Read More](/news-notes/our-darkest-hour)
 
-[![Do not Grieve - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773632427-VTVBXWIQREWF5FZ0XWCX/1280x1280.jpg)](/news-notes/do-not-grieve)
+[![Do not Grieve - Lent 2020](images/c3c1bca3-1280x1280.jpg)](/news-notes/do-not-grieve)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -145,7 +145,7 @@ In our broken and fallen world, our joy seems like this, ephemeral, brief, and t
 
 [Read More](/news-notes/do-not-grieve)
 
-[![Love as I have Loved - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773637527-U3X2TYP1XLNK380KW5IE/1796573_10154749554850201_1924754896643632754_n.jpg)](/news-notes/love-as-i-have-loved)
+[![Love as I have Loved - Lent 2020](images/00e654f6-1796573_10154749554850201_1924754896643632754_n.jpg)](/news-notes/love-as-i-have-loved)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -163,7 +163,7 @@ It is hard to love one another because we are sinful, selfish humans. We look at
 
 [Read More](/news-notes/love-as-i-have-loved)
 
-[![Our Sacred Work - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773640262-TSEY27RVK2UDDAPSANF9/GoZbOg.jpg)](/news-notes/our-sacred-service)
+[![Our Sacred Work - Lent 2020](images/192a1ecc-GoZbOg.jpg)](/news-notes/our-sacred-service)
 
 Guest User
 4/6/20
@@ -177,7 +177,7 @@ The work of our Sacred Ground program allows missionaries to go into communities
 
 [Read More](/news-notes/our-sacred-service)
 
-[![Preparing for Holy Week - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773648001-8XJBLNM3RFJW6IVOY5Y4/040917Matthew21-9NoLogo.png)](/news-notes/preparing-for-holy-week)
+[![Preparing for Holy Week - Lent 2020](images/cfee1c42-040917Matthew21-9NoLogo.png)](/news-notes/preparing-for-holy-week)
 
 Guest User
 4/4/20
@@ -193,7 +193,7 @@ We recommend Matthew, which focuses on the kingship of Jesus, how the ruling po
 
 [Read More](/news-notes/preparing-for-holy-week)
 
-[![Manning the Lifeboat - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773661130-TYITQCDFELOUYL673J4J/04-Sep-bv.jpg)](/news-notes/manning-the-lifeboat)
+[![Manning the Lifeboat - Lent 2020](images/12f6a229-04-Sep-bv.jpg)](/news-notes/manning-the-lifeboat)
 
 Guest User
 4/3/20
@@ -207,7 +207,7 @@ Guest User
 
 [Read More](/news-notes/manning-the-lifeboat)
 
-[![Waving in Celebration - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773665507-2MWK5NI1CGX2E09EY38Y/Re7.jpg)](/news-notes/waving-in-celebration)
+[![Waving in Celebration - Lent 2020](images/38e18edd-Re7.jpg)](/news-notes/waving-in-celebration)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User

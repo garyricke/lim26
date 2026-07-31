@@ -5,7 +5,7 @@ date: 2016-08-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/monday-morning-devotion-bread-of-life
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5dbd80fa260b7a89c5a/1748628700852/Jesus-the-bread-of-life.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779165002-EGV61B3VPJ230AZ1A4NL/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779165877-TMS2EDQJMQYDAE55J3BH/image-asset.jpeg"]
+images: ["images/74e6686c-Jesus-the-bread-of-life.jpg", "images/12d686f2-image-asset.png", "images/1006b490-image-asset.jpeg"]
 ---
 # Monday Morning Devotion - Bread of Life
 
@@ -15,7 +15,7 @@ Aug 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779165002-EGV61B3VPJ230AZ1A4NL/image-asset.png)
+![](images/12d686f2-image-asset.png)
 
 The next seven weeks will be brought to you by Pastor Ricky Jacob, our Lutheran Indian Ministries Associate Pastor serving the Winnebago people of Nebraska.
 
@@ -37,7 +37,7 @@ Skip to a specific week:
 
 Today’s “I am” statement is: I am the Bread of Life.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779165877-TMS2EDQJMQYDAE55J3BH/image-asset.jpeg)
+![](images/1006b490-image-asset.jpeg)
 
 Bread is a staple food for people all around the world. Bread comes in various grains, sizes, and shapes. Each ethnic group has its own bread of choice: the Native Americans have fry bread; the Greeks have pita bread; the Latin Americans have tortillas. Each has their own distinct texture and taste.
 

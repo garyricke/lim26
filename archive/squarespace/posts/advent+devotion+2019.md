@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/advent+devotion+2019
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773609575-ZDC6L1HVW2VQJQQAFRRA/hopelifter-400.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773901645-205ZC9S2Z3I4QWR42EKU/IMG_0677.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773904736-8UQGGYQ5IUEVWL4MSSUW/CP1829112_l.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773907121-SP6I9M7BSZQHMLDRJDCW/2719ac13b387a5188d31798504851725.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773909993-BKUL78BZG1XUDJT516QB/Luke_2_13_Alt-1920x1080_watermarked.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773915181-VTNTYOX915W2BDA1FP8J/03c4e43ebee46080b98a83af23513504.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773918901-9ZEKDJYTT59JXVW0MTKB/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773921308-BCV9I5HBPJ46K1NVCZPR/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773923977-KDKBKE83P00F82I53CU6/gn20161121125910jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773925993-0C5B9E8YAXXQUYWAFHKW/569571f61b546fec17fd0a1f1e27854f--hebrew-bible-bible-scriptures.jpg"]
+images: ["images/846d3325-hopelifter-400.png", "images/90f54f5c-IMG_0677.jpg", "images/6e43a960-CP1829112_l.jpg", "images/57bbafe9-2719ac13b387a5188d31798504851725.jpg", "images/cb88e4b7-Luke_2_13_Alt-1920x1080_watermarked.jpg", "images/c4966211-03c4e43ebee46080b98a83af23513504.jpg", "images/40e8f756-1280x1280.jpg", "images/2b143873-1280x1280__1_.jpg", "images/fe51d769-gn20161121125910jpeg", "images/8229c40e-569571f61b546fec17fd0a1f1e27854f--hebrew-bible-bible-scriptures.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Serving God &amp; Sharing Hope - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773609575-ZDC6L1HVW2VQJQQAFRRA/hopelifter-400.png)](/news-notes/serving-god-sharing-hope-lent)
+[![Serving God &amp; Sharing Hope - Lent 2020](images/846d3325-hopelifter-400.png)](/news-notes/serving-god-sharing-hope-lent)
 
 Guest User
 4/13/20
@@ -73,7 +73,7 @@ Lutheran Indian Ministries is ripe with potential and opportunity. The chance to
 
 [Read More](/news-notes/serving-god-sharing-hope-lent)
 
-[![Serving God &amp; Sharing Hope in 2020 - HAPPY NEW YEAR!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773901645-205ZC9S2Z3I4QWR42EKU/IMG_0677.jpg)](/news-notes/serving-god-sharing-hope-in-2020-happy-new-year)
+[![Serving God &amp; Sharing Hope in 2020 - HAPPY NEW YEAR!](images/90f54f5c-IMG_0677.jpg)](/news-notes/serving-god-sharing-hope-in-2020-happy-new-year)
 
 Guest User
 1/1/20
@@ -87,7 +87,7 @@ Lutheran Indian Ministries is ripe with potential and opportunity. The chance to
 
 [Read More](/news-notes/serving-god-sharing-hope-in-2020-happy-new-year)
 
-[![Advent: What's Next? - Tuesday, December 31](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773904736-8UQGGYQ5IUEVWL4MSSUW/CP1829112_l.jpg)](/news-notes/advent-whats-next-tuesday-december-31)
+[![Advent: What's Next? - Tuesday, December 31](images/6e43a960-CP1829112_l.jpg)](/news-notes/advent-whats-next-tuesday-december-31)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -103,7 +103,7 @@ We all have been called to mission work - in our homes and communities - to shar
 
 [Read More](/news-notes/advent-whats-next-tuesday-december-31)
 
-[![Advent: Landscapes - Monday, December 30](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773907121-SP6I9M7BSZQHMLDRJDCW/2719ac13b387a5188d31798504851725.jpg)](/news-notes/advent-landscapes-monday-december-30)
+[![Advent: Landscapes - Monday, December 30](images/57bbafe9-2719ac13b387a5188d31798504851725.jpg)](/news-notes/advent-landscapes-monday-december-30)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -119,7 +119,7 @@ During the days of Advent – and EVERY DAY – let us be like John the Baptist.
 
 [Read More](/news-notes/advent-landscapes-monday-december-30)
 
-[![Advent: Correcting the Story - Sunday, December 29](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773909993-BKUL78BZG1XUDJT516QB/Luke_2_13_Alt-1920x1080_watermarked.jpg)](/news-notes/advent-correcting-the-story-sunday-december-29)
+[![Advent: Correcting the Story - Sunday, December 29](images/cb88e4b7-Luke_2_13_Alt-1920x1080_watermarked.jpg)](/news-notes/advent-correcting-the-story-sunday-december-29)
 
 Guest User
 12/29/19
@@ -133,7 +133,7 @@ This season, are we paying attention? Did we listen and pay attention to the sto
 
 [Read More](/news-notes/advent-correcting-the-story-sunday-december-29)
 
-[![Advent: Searching for a Savior - Friday, December 27](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773915181-VTNTYOX915W2BDA1FP8J/03c4e43ebee46080b98a83af23513504.jpg)](/news-notes/advent-searching-for-a-savior-friday-december-27)
+[![Advent: Searching for a Savior - Friday, December 27](images/c4966211-03c4e43ebee46080b98a83af23513504.jpg)](/news-notes/advent-searching-for-a-savior-friday-december-27)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -149,7 +149,7 @@ In this one day, I encountered three people in need of a savior. In this one day
 
 [Read More](/news-notes/advent-searching-for-a-savior-friday-december-27)
 
-[![Advent: Telling Their Story - Thursday, December 26](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773918901-9ZEKDJYTT59JXVW0MTKB/1280x1280.jpg)](/news-notes/advent-telling-their-story-thursday-december-26)
+[![Advent: Telling Their Story - Thursday, December 26](images/40e8f756-1280x1280.jpg)](/news-notes/advent-telling-their-story-thursday-december-26)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -165,7 +165,7 @@ Advent is also a time of telling a simple story. It is the story of God coming i
 
 [Read More](/news-notes/advent-telling-their-story-thursday-december-26)
 
-[![MERRY CHRISTMAS! Advent: God's Unique Love - Wednesday, December 25](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773921308-BCV9I5HBPJ46K1NVCZPR/1280x1280+%281%29.jpg)](/news-notes/merry-christmas-advent-gods-unique-love-wednesday-december-25)
+[![MERRY CHRISTMAS! Advent: God's Unique Love - Wednesday, December 25](images/2b143873-1280x1280__1_.jpg)](/news-notes/merry-christmas-advent-gods-unique-love-wednesday-december-25)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -197,7 +197,7 @@ The Good News is that Jesus was born to ultimately offer his sinless life as the
 
 [Read More](/news-notes/advent-no-other-name-tuesday-december-24)
 
-[![Advent: the High Places - Monday, December 23](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773925993-0C5B9E8YAXXQUYWAFHKW/569571f61b546fec17fd0a1f1e27854f--hebrew-bible-bible-scriptures.jpg)](/news-notes/advent-the-high-places-monday-december-23)
+[![Advent: the High Places - Monday, December 23](images/8229c40e-569571f61b546fec17fd0a1f1e27854f--hebrew-bible-bible-scriptures.jpg)](/news-notes/advent-the-high-places-monday-december-23)
 
 [Arizona/Pheonix](/news-notes/category/Arizona%2FPheonix)
 Guest User

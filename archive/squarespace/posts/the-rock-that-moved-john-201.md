@@ -5,7 +5,7 @@ date: 2016-03-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-rock-that-moved-john-201
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cfb354fa330b0626dbce/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781685178-K29EEBU0VBZTVNGYYVXR/image-asset.jpeg"]
+images: ["images/35391c4c-1748628700852", "images/51e7806a-image-asset.jpeg"]
 ---
 # The Rock that Moved - John 20:1
 
@@ -15,7 +15,7 @@ Mar 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781685178-K29EEBU0VBZTVNGYYVXR/image-asset.jpeg)
+![](images/51e7806a-image-asset.jpeg)
 
 **Thursday March 3**
 

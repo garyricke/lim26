@@ -5,7 +5,7 @@ date: 2016-04-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cef22fb90d032775c918/1748628700852/Native-Peoples-Magazine.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781492353-IGXUUKTM8QEP108WN335/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781493779-JV7AAXU94LKJD9R00PK2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781495706-7UZX172C519W7S14RT6F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781497257-84AUFO71LSRO7X3KBWGN/image-asset.jpeg"]
+images: ["images/1c0d5bfb-Native-Peoples-Magazine.jpg", "images/4533f9d7-image-asset.jpeg", "images/5a76b2ea-image-asset.jpeg", "images/e1825e1e-image-asset.jpeg", "images/961b2ad7-image-asset.jpeg"]
 ---
 # This Week in Native American News
 
@@ -15,13 +15,13 @@ Apr 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781492353-IGXUUKTM8QEP108WN335/image-asset.jpeg)
+![](images/4533f9d7-image-asset.jpeg)
 
 ---
 
 ### Native Americans are Making Their Mark in the Gaming World
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781493779-JV7AAXU94LKJD9R00PK2/image-asset.jpeg)
+![](images/5a76b2ea-image-asset.jpeg)
 
 [Elizabeth LaPensee's](#), *Honour Water,* represents the imagery of some of the games.
 
@@ -53,7 +53,7 @@ At Lutheran Indian Ministries, we try, too. In our various locations, LIM staff 
 
 ### Oglala Lakota, Sean Sherman, Mixes Native Practices with Great Food
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781495706-7UZX172C519W7S14RT6F/image-asset.jpeg)
+![](images/e1825e1e-image-asset.jpeg)
 
 [Sean Sherman, The Sioux Chef](http://sioux-chef.com/about/)
 
@@ -65,7 +65,7 @@ Known as the Sioux Chef, Sean Sherman, an Oglala Lakota, born in Pine Ridge, Sou
 
 ### Portland Art Museum Adds Native Art to Curtis Exhibit
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781497257-84AUFO71LSRO7X3KBWGN/image-asset.jpeg)
+![](images/961b2ad7-image-asset.jpeg)
 
 *Wendy Red Star, “Apsa’olooke Feminist,” 2015. | Image source: Wendy Red Star*
 

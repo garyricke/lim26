@@ -5,7 +5,7 @@ date: 2019-07-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-07192019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2c0dd7dfe2ee01d9ad9/1748628700852/image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774274060-XNEYIIUOOEV6EMX1ALQF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774276043-09LFSH4NKJQ7BBX7EI3N/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774277651-GP9A0YYK3UT1A7AAVEVX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774279287-YP3NWEMZGR7364LVIHKT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774281276-NCXHQTX8NRCNOHG3U4O1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774282947-MKUGLEEVBKEVKU6B2RG4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774284050-6IF8RJV7NV4A39CYI5W7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774286882-VRD9L17N8HOUYR1WICFC/image-asset.jpeg"]
+images: ["images/ba3e6102-image.jpg", "images/fba901c7-image-asset.jpeg", "images/4ff43247-image-asset.jpeg", "images/f1082006-image-asset.jpeg", "images/6fa95b53-image-asset.jpeg", "images/24c1925e-image-asset.jpeg", "images/b4e530d9-image-asset.jpeg", "images/b25d2409-image-asset.jpeg", "images/ff116be8-image-asset.jpeg"]
 ---
 # This Week in Native American News (7/19/19): Natives... Traveling Space, Running to Heal, and Making Art
 
@@ -13,7 +13,7 @@ Jul 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774274060-XNEYIIUOOEV6EMX1ALQF/image-asset.jpeg)
+![](images/fba901c7-image-asset.jpeg)
 
 # July 19, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## As we celebrate 50 years since the moon landing, the First Native American in space reflects on the journey
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774276043-09LFSH4NKJQ7BBX7EI3N/image-asset.jpeg)
+![](images/4ff43247-image-asset.jpeg)
 
 *On the anniversary of the Apollo 11, and the first moon landing, Indian Country Today speaks with Natives Americans at NASA*
 
@@ -41,7 +41,7 @@ And, oh yeah, Herrington spent nearly two weeks aboard the [International Space
 
 ## HOW YOUNG NATIVE AMERICANS ARE USING THE CENSUS TO MAKE THEIR COMMUNITIES HEARD
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774277651-GP9A0YYK3UT1A7AAVEVX/image-asset.jpeg)
+![](images/f1082006-image-asset.jpeg)
 
 For Austin Weahkee, a member of the Cochiti and Zuni tribes and Navajo Nation, his activism began “basically from the day I was born.” When he was a child, his family was part of a campaign to prevent the construction of a road through Petroglyph National Monument, a sacred Native American site in New Mexico, where he grew up. They ended up losing that particular battle in 2004, but the experience far from discouraged Weahkee, who comes from a long line of activists involved in protecting sacred sites.
 
@@ -57,7 +57,7 @@ The consequences of this are manifold: Census data determines how funding and re
 
 ## How these Native American women found the strength to heal through running: 'We're protecting each other'
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774279287-YP3NWEMZGR7364LVIHKT/image-asset.jpeg)
+![](images/6fa95b53-image-asset.jpeg)
 
 The women from KwePack running in a marathon in an undated handout photo.   
 Courtesy Alicia Kozlowski
@@ -84,7 +84,7 @@ The woman, Chally Topping, said Howes should run the upcoming half marathon with
 
 ## Bost introduces legislation to elevate Cahokia Mounds to national park status
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774281276-NCXHQTX8NRCNOHG3U4O1/image-asset.jpeg)
+![](images/24c1925e-image-asset.jpeg)
 
 Cahokia Mounds took a step closer this week to possibly becoming a national park.
 
@@ -98,19 +98,19 @@ U.S. Rep. Mike Bost, a longtime supporter of lifting the Native American landmar
 
 ## Highlighting Native Creativity in Art, Stories, and Film:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774282947-MKUGLEEVBKEVKU6B2RG4/image-asset.jpeg)
+![](images/b4e530d9-image-asset.jpeg)
 
 ### [Indigenous arts, culture and more on display at Native POP](https://rapidcityjournal.com/compass/arts/indigenous-arts-culture-and-more-on-display-at-native-pop/article_83ae3c34-85e3-5fba-ae71-be29341f71c0.amp.html)
 
 Native POP: People of the Plains, the annual Native American art show and cultural celebration, is July 19-20 in Rapid City. It is free to attend.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774284050-6IF8RJV7NV4A39CYI5W7/image-asset.jpeg)
+![](images/b25d2409-image-asset.jpeg)
 
 ### [New podcast spotlights Native American stories](https://www.minnpost.com/community-sketchbook/2019/07/new-podcast-spotlights-native-american-stories/)
 
 “Native Lights Podcast,” a production of Minnesota Native News and the radio network Ampers, spotlights personal stories from Native American guests. Some are notable names in their community; others are everyday people with something to share.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774286882-VRD9L17N8HOUYR1WICFC/image-asset.jpeg)
+![](images/ff116be8-image-asset.jpeg)
 
 ### [yoox̲atuwatánk (We Speak)](https://www.pbs.org/filmfestival/2019-festival/yooxatuwatank-we-speak/)
 

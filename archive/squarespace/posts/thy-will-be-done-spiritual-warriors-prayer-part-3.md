@@ -5,7 +5,7 @@ date: 2017-05-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thy-will-be-done-spiritual-warriors-prayer-part-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0ad8ebef200568532a6/1748628700852/4097319-thy-will-be-done.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777838023-Y9V4GWDSHGQ9SAHL6H1Y/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777848785-M98BFRL26NEBFP6QONQ5/image-asset.png"]
+images: ["images/ac800038-4097319-thy-will-be-done.jpg", "images/5b7adfeb-image-asset.png", "images/85e4d8fe-image-asset.png"]
 ---
 # Thy Will Be Done: Spiritual Warriors Prayer, Part 3
 
@@ -15,7 +15,7 @@ May 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777838023-Y9V4GWDSHGQ9SAHL6H1Y/image-asset.png)
+![](images/5b7adfeb-image-asset.png)
 
 This is week three in a seven-week study on the Lord's Prayer, or as Pastor Ricky Jacob likes to call it: the Spiritual Warriors Prayer. Need to start at the beginning? [Read Part 1 here.](https://www.lutheranindianministries.org/news/hallowed-be-thy-name-spiritual-warriors-prayer-part-1)
 
@@ -37,7 +37,7 @@ Have you ever wondered if maybe, just maybe, God is attempting to get your atten
 
 In what I call the Spiritual Warrior’s prayer, we pray:  **Thy will be done on earth as it is in heaven.**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777848785-M98BFRL26NEBFP6QONQ5/image-asset.png)
+![](images/85e4d8fe-image-asset.png)
 
 The good and gracious will of God is done even without our prayer, but we pray in this petition that it may be done among us also. **God’s will is done when He breaks and hinders every evil plan and purpose of the devil, the world, and our sinful nature, which do not want us to hallow God’s name or let His kingdom come; and when He strengthens and keeps us firm in His Word and faith until we die.**
 

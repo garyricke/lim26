@@ -5,7 +5,7 @@ date: 2017-08-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-081817
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf4a8eead250d7bc093c/1748628700852/download.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777483009-W56LR26LVLF9FDX6873R/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777484748-647B4DCYOCE2LPYIPK4U/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777485971-J1JRH731NXTUCZAZD5WO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777487069-73ELD10ZRVE42INJG93E/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777488900-OH1B02CWMS1AOE8D6KYX/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777490068-7I1E2A7VOOUHIFKUNQAU/image-asset.jpeg"]
+images: ["images/53af201e-download.jpg", "images/094b8489-image-asset.jpeg", "images/6a58971b-image-asset.jpeg", "images/c9fd6e95-image-asset.jpeg", "images/77a18390-image-asset.jpeg", "images/7dcca9a9-image-asset.png", "images/5b11bcaf-image-asset.jpeg"]
 ---
 # This Week in Native American News (8/18/17): 40 under 40 awards, generational dancing, and a discussion about race
 
@@ -13,7 +13,7 @@ Aug 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777483009-W56LR26LVLF9FDX6873R/image-asset.jpeg)
+![](images/094b8489-image-asset.jpeg)
 
 # August 18, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Native 40 Under 40
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777484748-647B4DCYOCE2LPYIPK4U/image-asset.jpeg)
+![](images/6a58971b-image-asset.jpeg)
 
 Photo from article: [Indian Country Media](https://indiancountrymedianetwork.com/news/business/national-center-names-40-emerging-leaders-in-indian-country/)
 
@@ -35,7 +35,7 @@ The prestigious 40 under 40 award is bestowed upon individuals under the age of 
 
 ## Three Generations of Native Dancing
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777485971-J1JRH731NXTUCZAZD5WO/image-asset.jpeg)
+![](images/c9fd6e95-image-asset.jpeg)
 
 Photo from article: Daily Mail
 
@@ -57,7 +57,7 @@ Despite the impact of these traditions, that have endured thousands of years, sh
 
 ## Native Americans Speak About Race
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777487069-73ELD10ZRVE42INJG93E/image-asset.jpeg)
+![](images/77a18390-image-asset.jpeg)
 
 Photo from article: [Indie Wire](http://www.indiewire.com/2017/08/native-americans-race-new-york-times-documentary-video-1201867078/)
 
@@ -71,7 +71,7 @@ Much like Ava DuVernay’s “13th,” the film sets its subjects against a simp
 
 ## Native American or American Indian? Nope!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777488900-OH1B02CWMS1AOE8D6KYX/image-asset.png)
+![](images/7dcca9a9-image-asset.png)
 
 Picture from article: [Indian Country Media](https://indiancountrymedianetwork.com/culture/social-issues/blackhorse-native-american-american-indian-nope-refer-us-tribe-nation/)
 
@@ -83,7 +83,7 @@ Indigenous peoples continue to widely reject the monikers 'Native American' and 
 
 ## Interesting Facts about Native Populations
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777490068-7I1E2A7VOOUHIFKUNQAU/image-asset.jpeg)
+![](images/5b11bcaf-image-asset.jpeg)
 
 Photo from article: [Thought Co.](https://www.thoughtco.com/interesting-facts-about-native-americans-2834518)
 

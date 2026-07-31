@@ -5,7 +5,7 @@ date: 2018-04-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-76b-10-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b915c9a5633813c27665/1748628700852/_Honored+One%2C+I+don%27t+want+you+to+bring+trouble+on+yourself+by+coming+into+my+house.+That%27s+why+I+didn%27t+hink+it+wise+to+come+to+you+myself.+If+you+will+only+speak+a+word%2C+my+servant+will+be+healed.+I+too.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775894362-L3PYR3FWW6PWUWOVCM3R/image-asset.png"]
+images: ["images/6d35f886-_Honored_One__I_don_t_want_you_to_bring_trouble_on_yourself_by_coming_into_my_house._That_s_why_I_didn_t_hink_it_wise_to", "images/12eb065a-image-asset.png"]
 ---
 # Luke 7:6b-10 FNV
 
@@ -13,7 +13,7 @@ Apr 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775894362-L3PYR3FWW6PWUWOVCM3R/image-asset.png)
+![](images/12eb065a-image-asset.png)
 
 The greatest light may enter into the darkest places. We may find the choicest flowers blooming where we least expected them. Here was a Gentile, a Roman, a soldier — a soldier clothed with absolute power — and yet a tender master, a considerate citizen, a lover of God! The best of pearls have been found in the darkest caves of ocean. Let no man think that because of his position in society he cannot excel in virtue. It is not the place which is to blame, but the man.
 

@@ -5,7 +5,7 @@ date: 2019-01-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-010419
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6c162aeae08e1fe6481/1748628700852/inuktut.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775298958-WGNN6K1BMDF9T344U2XW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775300073-3FO7IJ0FR3J87C8O2AGF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775301550-R56DV6AFMOBMD2GAH2Y3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775304403-25HQHFJO0BGOHTN3QXM6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775306064-09X4R9SNSU45GNE5V66U/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775308432-5WMVD2L43PT54HY9J6FU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775310245-WHI7EDPVWXGPOIGRBJC5/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775312142-E6YIMDSAHO807XGCNHL5/image-asset.jpeg"]
+images: ["images/52e41314-inuktut.jpg", "images/d68e0a8f-image-asset.jpeg", "images/10a8d269-image-asset.jpeg", "images/4f56d1ce-image-asset.jpeg", "images/07abbdf0-image-asset.jpeg", "images/89840562-image-asset.jpeg", "images/4b7ed3e8-image-asset.jpeg", "images/65daf51b-image-asset.png", "images/0822311b-image-asset.jpeg"]
 ---
 # This Week in Native American News (01/04/19): the year of indigenous languages, unlikely alliances, and haka in hollywood (plus a call for Native artists)
 
@@ -13,7 +13,7 @@ Jan 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775298958-WGNN6K1BMDF9T344U2XW/image-asset.jpeg)
+![](images/d68e0a8f-image-asset.jpeg)
 
 # January 4, 2019 - HAPPY NEW YEAR!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## UN names 2019 as international year of Indigenous languages
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775300073-3FO7IJ0FR3J87C8O2AGF/image-asset.jpeg)
+![](images/10a8d269-image-asset.jpeg)
 
 Here, a young Nunavut student learns the names of the week in Inuinnaqtun. (PHOTO COURTESY OF GN)
 
@@ -39,7 +39,7 @@ In this case, 2019 sets out to highlight the need to preserve, revitalize and pr
 
 ## Follow Up on a story we highlighted [here](https://www.lutheranindianministries.org/news/this-week-in-native-american-news-082418?rq=minnesota%20homeless): Native American Homeless Crisis in Minnesota Inspires an Unlikely Alliance
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775301550-R56DV6AFMOBMD2GAH2Y3/image-asset.jpeg)
+![](images/4f56d1ce-image-asset.jpeg)
 
 The homeless encampment in Minneapolis. Credit: Tim Gruber for The New York Times
 
@@ -61,7 +61,7 @@ It was a rare show of unity by tribal nations to resolve an urban crisis, Native
 
 ## Rodeo is a way of life for Millennial Native American riders
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775304403-25HQHFJO0BGOHTN3QXM6/image-asset.jpeg)
+![](images/07abbdf0-image-asset.jpeg)
 
 At the Indian National Finals Rodeo, Native Americans give lessons on what a 21st century cowboy looks like
 
@@ -79,7 +79,7 @@ And the Native American community has been a key part of that Arizona rodeo trad
 
 ## Today’s History Lesson
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775306064-09X4R9SNSU45GNE5V66U/image-asset.jpeg)
+![](images/89840562-image-asset.jpeg)
 
 ### [Native Americans in South Carolina: ‘A great survival story’](https://www.postandcourier.com/features/native-americans-in-south-carolina-a-great-survival-story/article_3ef3d718-ec20-11e8-a3f7-8fcf8aae4ae8.html)
 
@@ -89,7 +89,7 @@ South Carolina’s only federally recognized Native American tribe, the Catawbas
 
 Today, there’s a reason many know little about the tribe: Its members are like their fellow South Carolinians in a lot of ways. What some don’t see, however, is how Catawbas fight to sustain their ancestral traditions while fully embracing American society in the 21st century.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775308432-5WMVD2L43PT54HY9J6FU/image-asset.jpeg)
+![](images/4b7ed3e8-image-asset.jpeg)
 
 ### [This Native American Nation Maintained Canals In The Face Of Flooding For Over 1000 Years](https://www.forbes.com/sites/davidanderson/2018/12/17/native-americans-worked-to-maintain-canals-in-the-face-of-flooding-1000-years-ago/#6f60fea51213)
 
@@ -97,7 +97,7 @@ Archaeological data allow us to consider human actions over extended periods of 
 
 From approximately A.D. 450-1400, a Native American group known today as the Hohokam overcame a harsh desert environment along with periodic droughts and floods to settle and farm much of modern Arizona. They managed this feat by collectively maintaining an extensive infrastructure of canals with collaborative labor.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775310245-WHI7EDPVWXGPOIGRBJC5/image-asset.png)
+![](images/65daf51b-image-asset.png)
 
 ### [Quillwork - A Uniquely Native American Art](http://www.sdpb.org/blogs/images-of-the-past/quillwork-a-uniquely-native-american-art/)
 
@@ -105,7 +105,7 @@ Quillwork is an art form unique to Native Americans.  It was practiced for hund
 
 Interested in other Native art forms? Check out: [Sealaska Heritage’s how-to video series highlighting endangered art practices](https://vimeo.com/user2380918)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775312142-E6YIMDSAHO807XGCNHL5/image-asset.jpeg)
+![](images/0822311b-image-asset.jpeg)
 
 ### [What happened to the Hawaiians who once lived in Idaho?](https://www.idahostatesman.com/news/local/article222558535.html)
 

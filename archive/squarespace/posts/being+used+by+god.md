@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/being+used+by+god
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778158888-LKJILZNXGM8PXP3CC0UW/00026528_h.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778176682-75VRSJ11ZUOKL6FTMKLA/FN_ProPresenter.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778189777-VVU9PS3MFXWVVWE561DF/bb3663f877a6d22f80f764b8cce465b5.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778206653-EPNO2PT99SDWPZU2JJV7/image-712.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778634346-BJRB1QSFMTOSGULE5GQN/john5_30.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778657491-UFD0FXQDRXMOI8CB2EIU/John.5.19.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778677462-IL0K5EZF2L5F08437JM4/psa-57-11-ww-nasa-9x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778697172-7Z19VIU38AVJSQ2KCNF8/588b8654c4f68b12a2b100299153626a.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778711626-P9T8ILBGGBNZJKLAVHTH/Psalm-57-10.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778723227-VC48T6Y5Z937IM9WB5XT/devotion+title.jpg"]
+images: ["images/1dd4c4e4-00026528_h.jpg", "images/6068fe83-FN_ProPresenter.jpg", "images/ac1d9656-bb3663f877a6d22f80f764b8cce465b5.jpg", "images/94cd21eb-image-712.jpg", "images/b774d0a3-john5_30.jpg", "images/4b921f98-John.5.19.jpg", "images/0a3db226-psa-57-11-ww-nasa-9x.jpg", "images/1a5f0592-588b8654c4f68b12a2b100299153626a.jpg", "images/0b4772f6-Psalm-57-10.png", "images/c78354af-devotion_title.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Being Used by God, Tip #9: Be God-Confident - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778158888-LKJILZNXGM8PXP3CC0UW/00026528_h.jpg)](/news-notes/being-used-by-god-tip-9-be-god-confident-monday-morning-devotion)
+[![Being Used by God, Tip #9: Be God-Confident - Monday Morning Devotion](images/1dd4c4e4-00026528_h.jpg)](/news-notes/being-used-by-god-tip-9-be-god-confident-monday-morning-devotion)
 
 Guest User
 2/27/17
@@ -75,7 +75,7 @@ There is no need to be self-confident (or reliant on yourself) when God is on yo
 
 [Read More](/news-notes/being-used-by-god-tip-9-be-god-confident-monday-morning-devotion)
 
-[![Being Used by God, Tip #8: Obey God Without Fear - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778176682-75VRSJ11ZUOKL6FTMKLA/FN_ProPresenter.jpg)](/news-notes/being-used-by-god-tip-8-obey-god-without-fear-monday-morning-devotion)
+[![Being Used by God, Tip #8: Obey God Without Fear - Monday Morning Devotion](images/6068fe83-FN_ProPresenter.jpg)](/news-notes/being-used-by-god-tip-8-obey-god-without-fear-monday-morning-devotion)
 
 Guest User
 2/20/17
@@ -89,7 +89,7 @@ Most of us find that we are timid in the face of opposition. But, the opposition
 
 [Read More](/news-notes/being-used-by-god-tip-8-obey-god-without-fear-monday-morning-devotion)
 
-[![Being Used by God, Tip #7: Know Your Weakness - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778189777-VVU9PS3MFXWVVWE561DF/bb3663f877a6d22f80f764b8cce465b5.jpg)](/news-notes/being-used-by-god-tip-7-know-monday-morning-devotion-your-weakness)
+[![Being Used by God, Tip #7: Know Your Weakness - Monday Morning Devotion](images/ac1d9656-bb3663f877a6d22f80f764b8cce465b5.jpg)](/news-notes/being-used-by-god-tip-7-know-monday-morning-devotion-your-weakness)
 
 Guest User
 2/13/17
@@ -103,7 +103,7 @@ Like Gideon, we often feel God can't use us because of our weaknesses, but somet
 
 [Read More](/news-notes/being-used-by-god-tip-7-know-monday-morning-devotion-your-weakness)
 
-[![Being Used by God, Tip #6: Seek to Please God - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778206653-EPNO2PT99SDWPZU2JJV7/image-712.jpg)](/news-notes/being-used-by-god-truth-6-seek-to-please-god-monday-morning-devotion)
+[![Being Used by God, Tip #6: Seek to Please God - Monday Morning Devotion](images/94cd21eb-image-712.jpg)](/news-notes/being-used-by-god-truth-6-seek-to-please-god-monday-morning-devotion)
 
 Guest User
 2/6/17
@@ -117,7 +117,7 @@ Seeking to please God is one of the hardest things to even begin to put into pra
 
 [Read More](/news-notes/being-used-by-god-truth-6-seek-to-please-god-monday-morning-devotion)
 
-[![Being Used by God, Tip #5: Listen to God - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778634346-BJRB1QSFMTOSGULE5GQN/john5_30.jpg)](/news-notes/being-used-by-god-truth-5-listen-to-god-monday-morning-devotion)
+[![Being Used by God, Tip #5: Listen to God - Monday Morning Devotion](images/b774d0a3-john5_30.jpg)](/news-notes/being-used-by-god-truth-5-listen-to-god-monday-morning-devotion)
 
 Guest User
 1/30/17
@@ -131,7 +131,7 @@ Praying for guidance and wisdom means nothing if we don't take the time to medit
 
 [Read More](/news-notes/being-used-by-god-truth-5-listen-to-god-monday-morning-devotion)
 
-[![Being Used by God, Tip #4: Follow the Father - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778657491-UFD0FXQDRXMOI8CB2EIU/John.5.19.jpg)](/news-notes/being-used-by-god-truth-4-follow-the-father-monday-morning-devotion)
+[![Being Used by God, Tip #4: Follow the Father - Monday Morning Devotion](images/4b921f98-John.5.19.jpg)](/news-notes/being-used-by-god-truth-4-follow-the-father-monday-morning-devotion)
 
 Guest User
 1/23/17
@@ -145,7 +145,7 @@ You probably have some good ideas, maybe you even have some great ideas, about w
 
 [Read More](/news-notes/being-used-by-god-truth-4-follow-the-father-monday-morning-devotion)
 
-[![Being Used by God, Tip #3: Honor God in Everything - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778677462-IL0K5EZF2L5F08437JM4/psa-57-11-ww-nasa-9x.jpg)](/news-notes/being-used-by-god-truth-3-honor-god-in-everything-monday-morning-devotion)
+[![Being Used by God, Tip #3: Honor God in Everything - Monday Morning Devotion](images/0a3db226-psa-57-11-ww-nasa-9x.jpg)](/news-notes/being-used-by-god-truth-3-honor-god-in-everything-monday-morning-devotion)
 
 Guest User
 1/16/17
@@ -161,7 +161,7 @@ Now, we, being on the other side of Jesus' resurrection, have a Savior to procla
 
 [Read More](/news-notes/being-used-by-god-truth-3-honor-god-in-everything-monday-morning-devotion)
 
-[![Being Used by God, Tip #2: Worship First - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778697172-7Z19VIU38AVJSQ2KCNF8/588b8654c4f68b12a2b100299153626a.jpg)](/news-notes/being-used-by-god-truth-2-worship-first-monday-morning-devotion)
+[![Being Used by God, Tip #2: Worship First - Monday Morning Devotion](images/1a5f0592-588b8654c4f68b12a2b100299153626a.jpg)](/news-notes/being-used-by-god-truth-2-worship-first-monday-morning-devotion)
 
 Guest User
 1/9/17
@@ -177,7 +177,7 @@ God is looking for those who love Him to share his love.
 
 [Read More](/news-notes/being-used-by-god-truth-2-worship-first-monday-morning-devotion)
 
-[![Being Used by God, Tip #1: It's all about love - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778711626-P9T8ILBGGBNZJKLAVHTH/Psalm-57-10.png)](/news-notes/being-used-by-god-truth-2)
+[![Being Used by God, Tip #1: It's all about love - Monday Morning Devotion](images/0b4772f6-Psalm-57-10.png)](/news-notes/being-used-by-god-truth-2)
 
 Guest User
 1/2/17
@@ -193,7 +193,7 @@ Our thoughts and actions should reflect Jesus' love to the world, but to do that
 
 [Read More](/news-notes/being-used-by-god-truth-2)
 
-[![Being Used by God - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778723227-VC48T6Y5Z937IM9WB5XT/devotion+title.jpg)](/news-notes/being-used-by-god)
+[![Being Used by God - Monday Morning Devotion](images/c78354af-devotion_title.jpg)](/news-notes/being-used-by-god)
 
 Guest User
 12/26/16

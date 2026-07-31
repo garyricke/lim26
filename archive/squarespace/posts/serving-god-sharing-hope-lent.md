@@ -5,7 +5,7 @@ date: 2020-04-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/serving-god-sharing-hope-lent
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b024a0971d66a913675e/1748628700852/hopelifter-400.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773607502-MJ8P78DKKS4RKNFYPUXK/image-asset.png"]
+images: ["images/7d7cab7e-hopelifter-400.png", "images/ee09881a-image-asset.png"]
 ---
 # Serving God & Sharing Hope - Lent 2020
 
@@ -13,7 +13,7 @@ Apr 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773607502-MJ8P78DKKS4RKNFYPUXK/image-asset.png)
+![](images/ee09881a-image-asset.png)
 
 ### Thank you for taking this Lenten journey with us.
 

@@ -5,7 +5,7 @@ date: 2017-09-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-is-the-lords-supper
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349befc9d6ea636a8af1c1c/1748628700852/9025910_orig.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777405463-WTAPR9AYMVMPB43C8TG2/image-asset.jpeg"]
+images: ["images/eaa81560-9025910_orig.jpg", "images/84b905f4-image-asset.jpeg"]
 ---
 # What is the Lord's Supper? (What do Lutherans Believe?: Part 3)
 
@@ -15,7 +15,7 @@ Sep 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777405463-WTAPR9AYMVMPB43C8TG2/image-asset.jpeg)
+![](images/84b905f4-image-asset.jpeg)
 
 This is a seven-week devotion by Pastor Ricky Jacob, of Winnebago, Nebraska.  
 (Read the full series here)

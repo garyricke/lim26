@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/augsburg+confession
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775762693-Z5LNY8XQO673IHYB7WFM/augsburg+%281%29.png"]
+images: ["images/6e2dc2bb-augsburg__1_.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![What Do We Believe as Lutherans? (The Augsburg Confession Explained)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775762693-Z5LNY8XQO673IHYB7WFM/augsburg+%281%29.png)](/news-notes/what-do-we-believe-as-lutherans-the-augsburg-confession-explained)
+[![What Do We Believe as Lutherans? (The Augsburg Confession Explained)](images/6e2dc2bb-augsburg__1_.png)](/news-notes/what-do-we-believe-as-lutherans-the-augsburg-confession-explained)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

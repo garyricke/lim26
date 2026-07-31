@@ -5,7 +5,7 @@ date: 2018-01-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-641-42-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bce6cb88a56680b0fc67/1748628700852/_Think+of+it+this+way%2C+how+can+you+see+the+speck+of+wood+in+someone+else%27s+eye+when+you+can%27t+even+see+the+log+in+your+own+eye_+How+can+you+say%2C+%27Here%2C+let+me+help+you%2C%27+when+you+can%27t+see+that+you+are+the+one.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776872619-CG07TWF761AOF0KO8107/image-asset.png"]
+images: ["images/57d3470a-_Think_of_it_this_way__how_can_you_see_the_speck_of_wood_in_someone_else_s_eye_when_you_can_t_even_see_the_log_in_your_o", "images/4c9131aa-image-asset.png"]
 ---
 # Luke 6:41-42 FNV
 
@@ -13,7 +13,7 @@ Jan 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776872619-CG07TWF761AOF0KO8107/image-asset.png)
+![](images/4c9131aa-image-asset.png)
 
 The thought-leaders of the day were in good truth hypocrites, proud, avaricious, in many cases self-indulgent, bigoted, and selfish; they were utterly unfit to be the moral teachers of the people - a position they had arrogated to themselves. The homely but well-known Jewish proverb of the mote and the beam picturesquely put before his listeners the position as it appeared to the Lord. The very defects among the people which the religious teachers professed to lecture upon and to discuss, disfigured and marred their own lives. They were - these priests and scribes and Pharisees - worse than self deceivers; they were religious hypocrites. The now famous illustration of the mote and the beam is, as has been said, purely Jewish, and was no doubt a familiar one to the people. It is found in the Talmud (treatise 'Bava Bathra' fol. 15. 2).
 

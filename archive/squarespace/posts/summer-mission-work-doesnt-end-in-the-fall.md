@@ -5,7 +5,7 @@ date: 2019-09-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/summer-mission-work-doesnt-end-in-the-fall
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2513cdc7517f1589c83/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774166385-3VGGIIDVJTUUCDFYFTP3/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/be802432-1748628700852", "images/927bd409-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Summer Mission Work Doesn't End in the Fall
 
@@ -15,7 +15,7 @@ Sep 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774166385-3VGGIIDVJTUUCDFYFTP3/image-asset.png)
+![](images/927bd409-image-asset.png)
 
 **It was a busy summer for the missionaries of Lutheran Indian Ministries!**
 
@@ -58,7 +58,7 @@ Executive Director
 
 ### P.S. Your gift today ensures the ministry begun this summer can grow and flourish to make an impact for eternity!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

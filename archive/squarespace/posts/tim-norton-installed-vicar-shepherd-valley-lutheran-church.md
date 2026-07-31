@@ -5,7 +5,7 @@ date: 2013-09-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/new-mexiconavajo/tim-norton-installed-vicar-shepherd-valley-lutheran-church
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a4443e/1451491777647/Tim-Norton-Don-Johnson-district-pastors-at-installation-sep-2013-web-size.jpg"]
+images: ["images/6948f15c-Tim-Norton-Don-Johnson-district-pastors-at-installation-sep-2013-web-size.jpg"]
 ---
 # Tim Norton Installed at Shepherd of the Valley Lutheran Church
 
@@ -16,7 +16,7 @@ Sep 27
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 IT IS WITH JOY IN OUR HEARTS TO THE LORD to share with you that on Sunday, Sept. 8, Tim Norton was installed to serve as missionary at Shepherd of the Valley Lutheran Church in Navajo, N.M.
-[![Tim Norton Don Johnson district pastors at installation sep 2013 web size](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a4443e/1451491777647/Tim-Norton-Don-Johnson-district-pastors-at-installation-sep-2013-web-size.jpg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a4443e/1451491777647/Tim-Norton-Don-Johnson-district-pastors-at-installation-sep-2013-web-size.jpg?format=original)
+[![Tim Norton Don Johnson district pastors at installation sep 2013 web size](images/6948f15c-Tim-Norton-Don-Johnson-district-pastors-at-installation-sep-2013-web-size.jpg)](images/6948f15c-Tim-Norton-Don-Johnson-district-pastors-at-installation-sep-2013-web-size.jpg)
 
 The service was well attended by the Navajo community, members of Trinity Lutheran Church in Gallup, N.M., as well as seven clergy from the circuit Tim is now part of.  Rev. Gary Bickner was the liturgist, Rev. Peter Spallek led the installation and Rev. Dr. Don Johnson offered the message.
 

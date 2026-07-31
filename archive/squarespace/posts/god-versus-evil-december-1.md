@@ -5,7 +5,7 @@ date: 2016-12-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/god-versus-evil-december-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4947f9bf6106f0a041d/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778837984-6U5YZP14R5VWQFLD67W2/image-asset.png"]
+images: ["images/50e0fe3d-2016_Advent_Devotions.png", "images/b3dcd76f-image-asset.png"]
 ---
 # God Versus Evil: December 1
 
@@ -13,7 +13,7 @@ Dec 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778837984-6U5YZP14R5VWQFLD67W2/image-asset.png)
+![](images/b3dcd76f-image-asset.png)
 
 ## For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.  John 3:16 (ESV)
 

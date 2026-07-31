@@ -5,7 +5,7 @@ date: 2020-09-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/times-of-change
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af9b99aed3385f6cbad5/1748628700852/White+and+Green+Quotes+Book+Literature+Facebook+Cover+%283%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773469349-2N4F0N1QROVQXC07UJDP/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/fe7eb39a-White_and_Green_Quotes_Book_Literature_Facebook_Cover__3_.png", "images/473307a9-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Times of Change
 
@@ -13,7 +13,7 @@ Sep 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773469349-2N4F0N1QROVQXC07UJDP/image-asset.png)
+![](images/473307a9-image-asset.png)
 
 Stop me if you’ve heard this one before:  
              How many Lutherans does it take to change a light bulb?  **Wait, CHANGE?!?!**
@@ -82,7 +82,7 @@ Executive Director
 
 ### Please join us in congratulating Rick and pray for blessings on him as he continues to fulfill his calling with Lutheran Indian Ministries as a Missionary at Large. Your prayers, encouragement, and financial support went a very long way to help make this happen. And so, along with Reverend Rick McCafferty, we thank you!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

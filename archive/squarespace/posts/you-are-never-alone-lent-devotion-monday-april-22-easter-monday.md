@@ -5,7 +5,7 @@ date: 2019-04-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/you-are-never-alone-lent-devotion-monday-april-22-easter-monday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3995b3de4701de05ae7/1748628700852/25529133208_4e990cf0d0_b.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774491106-A7DEKXLKU8VFYILXEQ6Z/image-asset.jpeg"]
+images: ["images/1cc8c180-25529133208_4e990cf0d0_b.jpg", "images/d8465994-image-asset.jpeg"]
 ---
 # You are Never Alone (Lent Devotion) - Monday, April 22 (Easter Monday)
 
@@ -15,7 +15,7 @@ Apr 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774491106-A7DEKXLKU8VFYILXEQ6Z/image-asset.jpeg)
+![](images/d8465994-image-asset.jpeg)
 
 # Reflections
 

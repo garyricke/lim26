@@ -5,7 +5,7 @@ date: 2016-03-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/our-fathers-ways-john-14710
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf98ab4b4921555783e5/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781658150-W8TYA6685K8WL3RNBD0P/image-asset.jpeg"]
+images: ["images/e0ce413c-1748628700852", "images/52604ebc-image-asset.jpeg"]
 ---
 # Our Father's Ways - John 14:7,10
 
@@ -15,7 +15,7 @@ Mar 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781658150-W8TYA6685K8WL3RNBD0P/image-asset.jpeg)
+![](images/52604ebc-image-asset.jpeg)
 
 **Wednesday** **March 9**
 

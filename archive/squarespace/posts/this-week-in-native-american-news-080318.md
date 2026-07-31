@@ -5,7 +5,7 @@ date: 2018-08-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-080318
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b857d102823ae1a6a3f4/1748628700852/american-indian-health.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775704079-FYTV6T7O0SOV949JCHBE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775705462-EKF0QOHBJ7AE7QOJM1C5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775706439-ASOGQQT101O2JW03UQYV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775707527-90W6D94PV4H3MZZZI06P/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775708480-CCN94CT5M5QM6BWBHDMX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775709275-Z8TPZ34B7D0GVWM3XDIE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775710268-SSYYR1RVRQR3KT8JWCUM/image-asset.jpeg"]
+images: ["images/5e6b8527-american-indian-health.jpg", "images/11fc35f6-image-asset.jpeg", "images/a200cb6c-image-asset.jpeg", "images/7154e664-image-asset.jpeg", "images/66c09954-image-asset.jpeg", "images/b4c7213a-image-asset.jpeg", "images/53537643-image-asset.jpeg", "images/b8ed5209-image-asset.jpeg"]
 ---
 # This Week in Native American News (8/3/18): Building Strong Youth Through Cycling, Photography, Science, and Rap
 
@@ -13,7 +13,7 @@ Aug 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775704079-FYTV6T7O0SOV949JCHBE/image-asset.jpeg)
+![](images/11fc35f6-image-asset.jpeg)
 
 # August 3, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## THE EXTREME CYCLISTS OF THE NAVAJO NATION
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775705462-EKF0QOHBJ7AE7QOJM1C5/image-asset.jpeg)
+![](images/a200cb6c-image-asset.jpeg)
 
 Although they are America’s original inhabitants, when it comes to US policy, American Indians often suffer from invisibility. U.S. Air Force photo by Airman 1st Class Gwendalyn Smith.
 
@@ -35,7 +35,7 @@ The summer before, Nigel joined a long bike ride on the reservation called the T
 
 ## In Other "Building Strong Youth" News...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775706439-ASOGQQT101O2JW03UQYV/image-asset.jpeg)
+![](images/7154e664-image-asset.jpeg)
 
 ### ['Everyday Native' Uses Stories, Photos To Overcome Bullying](http://www.mtpr.org/post/everyday-native-uses-stories-photos-overcome-bullying)
 
@@ -43,7 +43,7 @@ More Native American students in Montana say bullying is an issue at their schoo
 
 She and a team of Native American and non-Native collaborators are releasing a new online teaching resource this week that aims to foster understanding and respect through stories, Reynolds’ photography and poetry by celebrated Salish author Victor Charlo. [Everyday Native](https://everydaynative.com//) goes live this week.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775707527-90W6D94PV4H3MZZZI06P/image-asset.jpeg)
+![](images/66c09954-image-asset.jpeg)
 
 ### [Science program tries to make amends after sending mixed signals to Alaska native youth](https://www.ktoo.org/2018/07/31/science-program-tries-to-make-amends-after-sending-mixed-signals-to-native-youth-in-y-k-delta/)
 
@@ -55,7 +55,7 @@ But last year, Jasmine Gil, a young scientist from Bethel who participated, said
 
 ## CALEXIT SUPPORTERS RELAUNCH CALIFORNIA SECESSION CAMPAIGN, AIM TO CREATE 'NATIVE AMERICAN NATION'
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775708480-CCN94CT5M5QM6BWBHDMX/image-asset.jpeg)
+![](images/b4c7213a-image-asset.jpeg)
 
 The Yes California Independence Campaign is an American political action committee, founded by Louis J. Marinelli, that promotes the secession of the state of California from the United States.
 
@@ -73,7 +73,7 @@ The strip of land consists mainly of rural areas, as well as the Sierra Nevada a
 
 ## National chain forces native Hawaiian to drop “Aloha Poke” from restaurant name
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775709275-Z8TPZ34B7D0GVWM3XDIE/image-asset.jpeg)
+![](images/53537643-image-asset.jpeg)
 
 Tasha Kahele had to replace signs, menus, and advertisements after being forced to re-brand her poke shop. (Emily Russell/Alaska Public Media)
 
@@ -93,7 +93,7 @@ But just weeks after opening, Kahele got a letter. It was from a lawyer represen
 
 ## Riding with Native Americans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775710268-SSYYR1RVRQR3KT8JWCUM/image-asset.jpeg)
+![](images/b8ed5209-image-asset.jpeg)
 
 Roderick Dupris of the Cheyenne River reservation and other Fort Laramie treaty riders in Torrington, Wyoming Credit: Stephanie Keith/Reuters
 

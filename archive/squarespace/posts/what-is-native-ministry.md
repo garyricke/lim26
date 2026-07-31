@@ -5,7 +5,7 @@ date: 2016-07-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/what-is-native-ministry
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c840bd38f3604e14ce43/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779778376-T5VXPU9LT7FZM66X03F3/image-asset.jpeg"]
+images: ["images/d66d9bb4-1748628700852", "images/2f4134e3-image-asset.jpeg"]
 ---
 # What is Native Ministry?
 
@@ -15,7 +15,7 @@ Jul 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779778376-T5VXPU9LT7FZM66X03F3/image-asset.jpeg)
+![](images/2f4134e3-image-asset.jpeg)
 
 Native Ministry, with Lutheran Indian Ministries specifically, is a beautiful mix of Lutheran outreach.
 

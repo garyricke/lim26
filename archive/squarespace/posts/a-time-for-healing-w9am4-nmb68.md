@@ -5,7 +5,7 @@ date: 2019-08-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-time-for-healing-w9am4-nmb68
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b27ac6472d27aaafde4a/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774206184-1ZZ1DPU2MD0LKFSY09YG/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/7e9e2bca-1748628700852", "images/2e39ce5b-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Train up a Child - VBS in Neah Bay
 
@@ -15,7 +15,7 @@ Aug 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774206184-1ZZ1DPU2MD0LKFSY09YG/image-asset.png)
+![](images/2e39ce5b-image-asset.png)
 
 ### Greetings! I hope you are having an awesome and blessed summer.
 
@@ -62,7 +62,7 @@ Executive Director
 
 **Your gift today affirms that Jesus was born for all, including our Native American brothers and sisters.  Thank you!**
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

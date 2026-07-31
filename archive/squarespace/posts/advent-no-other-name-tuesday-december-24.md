@@ -5,7 +5,7 @@ date: 2019-12-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-no-other-name-tuesday-december-24
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1617cbdef6eaa53a02f/1748628700852/gn20161121125910jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773922358-R66BOL8HDQ00R8J7VKFN/image-asset.png"]
+images: ["images/bcedb24d-gn20161121125910jpeg", "images/ec195318-image-asset.png"]
 ---
 # Advent: No Other Name - Tuesday, December 24
 
@@ -15,7 +15,7 @@ Dec 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773922358-R66BOL8HDQ00R8J7VKFN/image-asset.png)
+![](images/ec195318-image-asset.png)
 
 ### An angel of the Lord appeared to [Joseph] in a dream and said, “Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit. She will give birth to a son, and you are to give him the name Jesus because he will save his people from their sins.”
 

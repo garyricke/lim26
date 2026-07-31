@@ -5,7 +5,7 @@ date: 2019-04-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/they-need-to-know-april
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3b70eda784f703aa3aa/1748628700852/they+need+to+hear+the+truth.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774521594-XXBC8ZSV37DA55URKU0D/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/f9f98c65-they_need_to_hear_the_truth.png", "images/52834901-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # They Need to Know - Jesus Died for All
 
@@ -13,7 +13,7 @@ Apr 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774521594-XXBC8ZSV37DA55URKU0D/image-asset.png)
+![](images/52834901-image-asset.png)
 
 The meme on the page burned my eyes as if someone had poured acid into them. The picture was of Native American children dressed in military-like uniforms. They were posed in front of a classroom building at one of the 60 boarding schools established in the 1880s to force the assimilation Indian children. The mission of these schools: “Kill the Indian – Save the Man.”
 
@@ -69,7 +69,7 @@ As you remember his death, celebrate his resurrection, and rejoice in the joy of
 
 **Your gift today affirms that Jesus was born for all, including our Native American brothers and sisters.  Thank you!**
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

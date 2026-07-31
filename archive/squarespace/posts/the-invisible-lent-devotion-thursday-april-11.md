@@ -5,7 +5,7 @@ date: 2019-04-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-invisible-lent-devotion-thursday-april-11
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3e21186e246c3b82e50/1748628700852/download.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774563936-V1ZEHCICVWTRSA9IYMBB/image-asset.jpeg"]
+images: ["images/dd485def-download.png", "images/8a9f70b1-image-asset.jpeg"]
 ---
 # The Invisible (Lent Devotion) - Thursday, April 11
 
@@ -13,7 +13,7 @@ Apr 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774563936-V1ZEHCICVWTRSA9IYMBB/image-asset.jpeg)
+![](images/8a9f70b1-image-asset.jpeg)
 
 # The Invisible
 

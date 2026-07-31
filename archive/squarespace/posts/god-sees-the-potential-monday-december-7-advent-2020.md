@@ -5,7 +5,7 @@ date: 2020-12-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/god-sees-the-potential-monday-december-7-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aee08b68752f87b3173e/1748628700852/ST-Phil1-6_iPhone.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773283362-0K88BFAZL3WP0U7AM51U/image-asset.png"]
+images: ["images/a24e0f63-ST-Phil1-6_iPhone.jpg", "images/600e1e51-image-asset.png"]
 ---
 # God sees the potential - Monday, December 7 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773283362-0K88BFAZL3WP0U7AM51U/image-asset.png)
+![](images/600e1e51-image-asset.png)
 
 ## Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus. [Philippians 1:6](https://my.bible.com/bible/111/PHP.1.6)
 

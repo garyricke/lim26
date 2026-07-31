@@ -5,7 +5,7 @@ date: 2017-12-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/lets-refocus-advent-saturday-december-16
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bdf88ebef2005684cd66/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777145550-SKVX3W4GTE1Q671I2H39/image-asset.png"]
+images: ["images/4d4c9cc8-Advent__1_.png", "images/977005d9-image-asset.png"]
 ---
 # Let's Refocus (Advent) - Saturday, December 16
 
@@ -15,7 +15,7 @@ Dec 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777145550-SKVX3W4GTE1Q671I2H39/image-asset.png)
+![](images/977005d9-image-asset.png)
 
 ### **Let's Refocus - Saturday, December 16**
 

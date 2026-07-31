@@ -5,7 +5,7 @@ date: 2019-03-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/into-the-desert-lent-devotion-thursday-march-7
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b645fc45ad1a48d5f63c/1748628700852/Luke%2B4_1-4%2Bfnv%2Bthe%2Bsnake%2Btempted%2Bturn%2Bthese%2Brocks%2Bto%2Bbread.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775174938-CLOR8G2PV44WY87Z26L5/image-asset.jpeg"]
+images: ["images/7ff67d40-Luke_4_1-4_fnv_the_snake_tempted_turn_these_rocks_to_bread.png", "images/a0cd36fa-image-asset.jpeg"]
 ---
 # Into the Desert (Lent Devotion) - Thursday, March 7
 
@@ -13,7 +13,7 @@ Mar 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775174938-CLOR8G2PV44WY87Z26L5/image-asset.jpeg)
+![](images/a0cd36fa-image-asset.jpeg)
 
 # Into the Desert
 

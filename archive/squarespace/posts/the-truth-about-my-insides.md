@@ -5,7 +5,7 @@ date: 2016-03-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-truth-about-my-insides
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf66fccd91749b7d9717/1748628700852/prue+christmas+tree.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781608030-FUVWUOYYONBSZ2516NTD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781611069-QILQR6JLHEYRHL7ZZI3P/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781613367-RMRT17UD0WASZBSVKYLQ/image-asset.jpeg"]
+images: ["images/93e46175-prue_christmas_tree.jpg", "images/67ba4dbb-image-asset.jpeg", "images/515f98ae-image-asset.jpeg", "images/d6dfbf8f-image-asset.jpeg"]
 ---
 # The Truth About My Insides
 
@@ -21,7 +21,7 @@ That is what we do as women. We’ve always done it. The women that came before 
 
 We compare ourselves to other women and always seem to come up short.  I find myself wishing that my family was like those I see on Facebook.  So, on Facebook, we only post the best pictures of ourselves, kids, husband, and family.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781608030-FUVWUOYYONBSZ2516NTD/image-asset.jpeg)
+![](images/67ba4dbb-image-asset.jpeg)
 
 Guilty! Looking at this I imagine a calm, wintry night sipping hot cocoa by the fire, instead of the chaos that was probably going on around me while I snapped this instagram photo!
 
@@ -45,7 +45,7 @@ I have two small children with the full-time task of raising them to be godly me
 
 My new ministry was to tell people the truth about my insides.  No more mask, no more hiding, and no more pretending.  I shed all of my false perceptions of what I thought I should be, and I embraced the way that God sees me.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781611069-QILQR6JLHEYRHL7ZZI3P/image-asset.jpeg)
+![](images/515f98ae-image-asset.jpeg)
 
 I was under the impression that since my husband and I were in ministry, we would become like the people we had witnessed in ministry: selfless. I would be the calm preacher’s wife: gentle and soft-spoken, children sitting nicely in a pew with their heads bowed quietly in prayer.  I was determined to become June Cleaver from Leave it to Beaver.  
 
@@ -67,7 +67,7 @@ And, we as broken women only can raise godly children once we admit to our own b
 
 Now, I finally understand where I fit into Lutheran Indian Ministries.  I play an important role in raising godly Native American children, who will one day grow into leaders that will minister to their people. I have the opportunity to walk alongside other mothers, sharing Jesus, the One who can make the greatest impact on their lives, with them, their young children, and the next generation.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781613367-RMRT17UD0WASZBSVKYLQ/image-asset.jpeg)
+![](images/d6dfbf8f-image-asset.jpeg)
 
 Godly Christian women will raise the next generation, and I’m excited to be a part of that crowd.
 

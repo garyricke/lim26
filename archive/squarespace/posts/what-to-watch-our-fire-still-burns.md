@@ -5,7 +5,7 @@ date: 2017-08-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-to-watch-our-fire-still-burns
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf5ee6ff8f069728c313/1748628700852/ourfiresstillburn-screenshot.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777503418-6K7VAA08PBSCBCAICHQ4/image-asset.jpeg"]
+images: ["images/4ccc3440-ourfiresstillburn-screenshot.jpg", "images/1a3a56de-image-asset.jpeg"]
 ---
 # What to Watch: Our Fire Still Burns
 
@@ -15,7 +15,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 This week's featured film is: [Our Fire Still Burns](http://www.ourfiresstillburn.com/)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777503418-6K7VAA08PBSCBCAICHQ4/image-asset.jpeg)](http://www.ourfiresstillburn.com/)
+[![](images/1a3a56de-image-asset.jpeg)](http://www.ourfiresstillburn.com/)
 
 The stories shared in Our Fires Still Burn: The Native American Experience are powerful, startling, despairing and inspiring. They reflect an American history fraught with the systematic destruction of a people.
 

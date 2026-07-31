@@ -5,7 +5,7 @@ date: 2016-12-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/he-has-been-there-december-22
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c43635c9066700e26d62/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778743920-HX0KZS9TULH2JY6SWV93/image-asset.png"]
+images: ["images/894f4f0f-2016_Advent_Devotions.png", "images/abed06e9-image-asset.png"]
 ---
 # He Has Been There: December 22
 
@@ -15,7 +15,7 @@ Dec 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778743920-HX0KZS9TULH2JY6SWV93/image-asset.png)
+![](images/abed06e9-image-asset.png)
 
 ## Since the children are made of flesh and blood, it’s logical that the Savior took on flesh and blood in order to rescue them by his death. By embracing death, taking it into himself, he destroyed the Devil’s hold on death and freed all who cower through life, scared to death of death.
 

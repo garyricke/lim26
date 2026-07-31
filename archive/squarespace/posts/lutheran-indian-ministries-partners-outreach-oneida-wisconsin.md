@@ -5,7 +5,7 @@ date: 2014-02-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/alaskainterior/lutheran-indian-ministries-partners-outreach-oneida-wisconsin
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ddbd6fe4d84a45056e42/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785279731-0NDAJGIZRBACHHHSLM99/image-asset.jpeg"]
+images: ["images/35241942-1748628700852", "images/e9bef154-image-asset.jpeg"]
 ---
 # Lutheran Indian Ministries Partners with Outreach to the Oneida in Wisconsin
 
@@ -19,7 +19,7 @@ Lutheran Indian Ministries is pleased to announce its partnership with Rev. Mark
 
 Rev. David *(Nuu-chah-nulth)* and Rosemary Sternbeck recently spent a weekend with the [new partner ministry](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/5684020904acd3cdb4a448a8/1451491849968/?format=original).
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785279731-0NDAJGIZRBACHHHSLM99/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44490/1451491777749/web-David-Sternbeck-and-Mark-Schumm-at-Zion-in-Oneida-WI-Jan-2014-cropped.jpg?format=original)
+[![](images/e9bef154-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44490/1451491777749/web-David-Sternbeck-and-Mark-Schumm-at-Zion-in-Oneida-WI-Jan-2014-cropped.jpg?format=original)
 
 web David Sternbeck and Mark Schumm at Zion in Oneida WI Jan 2014 cropped
 

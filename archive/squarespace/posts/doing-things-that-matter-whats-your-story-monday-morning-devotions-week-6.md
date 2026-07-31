@@ -5,7 +5,7 @@ date: 2019-10-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/doing-things-that-matter-whats-your-story-monday-morning-devotions-week-6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b21fd2c1581771e8371f/1748628700852/07312017.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774113860-8M26QCN3DGK9BP4ZNUCG/image-asset.jpeg"]
+images: ["images/43f683e4-07312017.jpg", "images/e58ab8c0-image-asset.jpeg"]
 ---
 # Doing Things that Matter: What's Your Story - Monday Morning Devotions (Week 6)
 
@@ -13,7 +13,7 @@ Oct 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774113860-8M26QCN3DGK9BP4ZNUCG/image-asset.jpeg)
+![](images/e58ab8c0-image-asset.jpeg)
 
 (c) http://doingthingsthatmatter.com/
 

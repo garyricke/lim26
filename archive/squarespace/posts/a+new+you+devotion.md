@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/a+new+you+devotion
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776824706-5SRUZINES11G4SOV8GF8/discovering.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776849421-8ZKOWQK6FGB8436OQANA/discovering.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776870095-J3N0S8G73PRIOD2F32VB/discovering.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776906376-67U720V3FKSEXDVLU031/discovering.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776952064-0MF7FKZI68BDJN80T8WR/discovering.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776979128-YZTPZ7JNKL3TJ9FXEZWN/discovering.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777025283-OULI47CD6WKTRWPGKZL5/discovering.png"]
+images: ["images/37cf6918-discovering.png", "images/0bd241e5-discovering.png", "images/5e6f0e94-discovering.png", "images/2addba4d-discovering.png", "images/1c1d176f-discovering.png", "images/accbe0e8-discovering.png", "images/22e8c901-discovering.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Silence & Confusion (A New You #7) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776824706-5SRUZINES11G4SOV8GF8/discovering.png)](/news-notes/silence-confusion-a-new-you-7-monday-morning-devotion)
+[![Silence & Confusion (A New You #7) - Monday Morning Devotion](images/37cf6918-discovering.png)](/news-notes/silence-confusion-a-new-you-7-monday-morning-devotion)
 
 Guest User
 2/12/18
@@ -79,7 +79,7 @@ Will you believe him? Will you trust him? Will you allow yourself to step out of
 
 [Read More](/news-notes/silence-confusion-a-new-you-7-monday-morning-devotion)
 
-[![God's Courageous Soldier (A New You #6) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776849421-8ZKOWQK6FGB8436OQANA/discovering.png)](/news-notes/gods-courageous-soldier-a-new-you-6-monday-morning-devotion)
+[![God's Courageous Soldier (A New You #6) - Monday Morning Devotion](images/0bd241e5-discovering.png)](/news-notes/gods-courageous-soldier-a-new-you-6-monday-morning-devotion)
 
 Guest User
 2/5/18
@@ -97,7 +97,7 @@ You are called to be part of God's courageous army, carrying on His Word without
 
 [Read More](/news-notes/gods-courageous-soldier-a-new-you-6-monday-morning-devotion)
 
-[![The Long, Painful Walk (A New You #5) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776870095-J3N0S8G73PRIOD2F32VB/discovering.png)](/news-notes/the-long-painful-walk-a-new-you-5-monday-morning-devotion)
+[![The Long, Painful Walk (A New You #5) - Monday Morning Devotion](images/5e6f0e94-discovering.png)](/news-notes/the-long-painful-walk-a-new-you-5-monday-morning-devotion)
 
 Guest User
 1/29/18
@@ -113,7 +113,7 @@ We are all unfinished masterpieces on a long, painful walk home. Like the Israel
 
 [Read More](/news-notes/the-long-painful-walk-a-new-you-5-monday-morning-devotion)
 
-[![Take Action (A New You #4) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776906376-67U720V3FKSEXDVLU031/discovering.png)](/news-notes/take-action-a-new-you-4-monday-morning-devotion)
+[![Take Action (A New You #4) - Monday Morning Devotion](images/2addba4d-discovering.png)](/news-notes/take-action-a-new-you-4-monday-morning-devotion)
 
 Guest User
 1/22/18
@@ -127,7 +127,7 @@ The blood of the lamb on the doorways of each Israelite house is a vivid image o
 
 [Read More](/news-notes/take-action-a-new-you-4-monday-morning-devotion)
 
-[![Trust Wholeheartedly (A New You #3) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776952064-0MF7FKZI68BDJN80T8WR/discovering.png)](/news-notes/trust-wholeheartedly-a-new-you-3-monday-morning-devotion)
+[![Trust Wholeheartedly (A New You #3) - Monday Morning Devotion](images/1c1d176f-discovering.png)](/news-notes/trust-wholeheartedly-a-new-you-3-monday-morning-devotion)
 
 Guest User
 1/15/18
@@ -141,7 +141,7 @@ The devil wants to steal your hope. He wants to kill your dream, and he wants to
 
 [Read More](/news-notes/trust-wholeheartedly-a-new-you-3-monday-morning-devotion)
 
-[![The First Glimpse (A New You #2) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776979128-YZTPZ7JNKL3TJ9FXEZWN/discovering.png)](/news-notes/the-first-glimpse-a-new-you-2-monday-morning-devotion)
+[![The First Glimpse (A New You #2) - Monday Morning Devotion](images/accbe0e8-discovering.png)](/news-notes/the-first-glimpse-a-new-you-2-monday-morning-devotion)
 
 Guest User
 1/8/18
@@ -155,7 +155,7 @@ As you ready your heart for Easter, thank God for His love. Even at the beginnin
 
 [Read More](/news-notes/the-first-glimpse-a-new-you-2-monday-morning-devotion)
 
-[![Discovering a New You by Discovering Jesus](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777025283-OULI47CD6WKTRWPGKZL5/discovering.png)](/news-notes/discovering-a-new-you-by-discovering-jesus)
+[![Discovering a New You by Discovering Jesus](images/22e8c901-discovering.png)](/news-notes/discovering-a-new-you-by-discovering-jesus)
 
 Guest User
 1/1/18

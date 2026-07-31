@@ -5,7 +5,7 @@ date: 2018-01-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/trust-wholeheartedly-a-new-you-3-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd32ac64b42097617db8/1748628700852/discovering.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776947865-WL3UY2HZG1A9106YJ4EX/image-asset.png"]
+images: ["images/08c5a8f8-discovering.png", "images/c1705c47-image-asset.png"]
 ---
 # Trust Wholeheartedly (A New You #3) - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jan 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776947865-WL3UY2HZG1A9106YJ4EX/image-asset.png)
+![](images/c1705c47-image-asset.png)
 
 In this season of resolutions and "becoming a new person," we invite you to join us on a journey in the seven weeks leading to Lent. Come and discover more about the baby we celebrated in the manger.
 

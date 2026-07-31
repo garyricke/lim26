@@ -5,7 +5,7 @@ date: 2017-11-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/on-a-mission-from-god
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be4c570b9a143229c1a1/1748628700852/MISSION+POSSIBLE.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777229343-B7LKOFBEGD25BKD0A8AI/image-asset.jpeg"]
+images: ["images/c0fc9916-MISSION_POSSIBLE.jpg", "images/7a5ce3a9-image-asset.jpeg"]
 ---
 # On a Mission from God
 
@@ -31,7 +31,7 @@ It is no small task, but **when you join us to follow God's mission, we know all
 
 ## Your mission, should you choose to accept it, is to step out in faith and compassion with a gift that will help reach our Native brothers and sisters with the hope of Christ and bring God's mission one step closer to completion.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777229343-B7LKOFBEGD25BKD0A8AI/image-asset.jpeg)
+![](images/7a5ce3a9-image-asset.jpeg)
 
 ## \*\*ALL GIFTS MADE ON GIVING TUESDAY WILL BE **DOUBLED**, THANKS TO A GENEROUS GIFT FROM OUR BOARD OF DIRECTORS AND STAFF. NOW YOU CAN MAKE **TWICE THE IMPACT!**\*\*
 

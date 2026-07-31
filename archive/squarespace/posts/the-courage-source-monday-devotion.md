@@ -5,7 +5,7 @@ date: 2016-06-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-courage-source-monday-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c8d7810d93171555bf13/1748628700852/Be+strong+and+courageous.+Do+not+be+terrified%3B+do+not+be+discouraged%2C+for+the+Lord+your+God+will+be+with+you+wherever+you+go.+Joshua+1-9.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779928981-6SDQXH5Q8IRUQ8B67W4Y/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779931815-I5XVDKNP5B9H90UF5270/image-asset.png"]
+images: ["images/53632032-Be_strong_and_courageous._Do_not_be_terrified__do_not_be_discouraged__for_the_Lord_your_God_will_be_with_you_wherever_yo", "images/301c66a5-image-asset.png", "images/18d8b223-image-asset.png"]
 ---
 # The Courage Source-Monday Devotion
 
@@ -15,11 +15,11 @@ Jun 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779928981-6SDQXH5Q8IRUQ8B67W4Y/image-asset.png)
+![](images/301c66a5-image-asset.png)
 
 # The Courage Source
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779931815-I5XVDKNP5B9H90UF5270/image-asset.png)
+![](images/18d8b223-image-asset.png)
 
 We are so privileged to be serving the Native people on the Olympic Peninsula.  For over 12 years, we have formed relationships and served some of the most amazing and loving people we have ever met.
 

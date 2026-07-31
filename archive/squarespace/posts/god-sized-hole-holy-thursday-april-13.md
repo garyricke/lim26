@@ -5,7 +5,7 @@ date: 2017-04-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/god-sized-hole-holy-thursday-april-13
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c11e9aa0180a63d2f482/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777951383-XA1D60Z1BCC6HCJ9FYXD/image-asset.jpeg"]
+images: ["images/8ca4c02d-2017_lent_cover.jpg", "images/861d5bc8-image-asset.jpeg"]
 ---
 # God-Sized Hole: Holy Thursday, April 13
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Jesus answered, “Everyone who drinks this water will be thirsty again,  but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life.” John 4:13 (NIV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777951383-XA1D60Z1BCC6HCJ9FYXD/image-asset.jpeg)
+![](images/861d5bc8-image-asset.jpeg)
 
 Have you heard the term “God-sized hole”?  Several people talk about it, but I believe the first person to come up with the idea of this unquenchable thirst, our “God-sized hole,” was St. Augustine.  As Christians, we believe that God put us on this earth yearning for what only He can supply.
 

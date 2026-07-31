@@ -5,7 +5,7 @@ date: 2016-03-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cfa74da50253557dd77c/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781673338-QOX42A2U4OL333CLMXJF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781674701-I4UPUNNY5HGV102R38Y9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781675713-PUN27LI9Y0I7R53NAP14/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781677075-TBSK3NN0X5QMSUTB5F8O/image-asset.jpeg"]
+images: ["images/b973b9ec-1748628700852", "images/8f36629d-image-asset.jpeg", "images/9df54072-image-asset.jpeg", "images/e9870354-image-asset.jpeg", "images/04f1cbb3-image-asset.jpeg"]
 ---
 # This week in Native American News
 
@@ -15,13 +15,13 @@ Mar 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781673338-QOX42A2U4OL333CLMXJF/image-asset.jpeg)
+![](images/8f36629d-image-asset.jpeg)
 
 ---
 
 ### 17 Year-Old Dahkota Kicking Bear Brown (Wilton-Miwok) Youngest White House Advisor
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781674701-I4UPUNNY5HGV102R38Y9/image-asset.jpeg)
+![](images/9df54072-image-asset.jpeg)
 
 [Credit: Vincent Schilling, Indian Country Today](http://indiancountrytodaymedianetwork.com/2016/02/24/dahkota-kicking-bear-brown-17-youngest-white-house-indian-education-advisor-ever-163534)
 
@@ -59,7 +59,7 @@ While there has been mixed reviews from native movie goers - some [for](http://i
 
 # To add to the excitement...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781675713-PUN27LI9Y0I7R53NAP14/image-asset.jpeg)
+![](images/e9870354-image-asset.jpeg)
 
 *The Revenant's*  costume designer, Jacqueline West, along with the Fashion Institute of Design & Merchandising, has set up a scholarship for Native Americans interested in fashion design. Know someone who might be interested? [Get more details here.](http://blogs.indiewire.com/thompsononhollywood/the-revenant-oscar-contender-jacqueline-west-creates-scholarship-for-native-american-youth-exclusive-20160217?__scoop_post=3c116e00-d5aa-11e5-927b-00221934899c&__scoop_topic=5253922#__scoop_post=3c116e00-d5aa-11e5-927b-00221934899c&__scoop_topic=5253922)
 
@@ -67,7 +67,7 @@ While there has been mixed reviews from native movie goers - some [for](http://i
 
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781677075-TBSK3NN0X5QMSUTB5F8O/image-asset.jpeg)
+![](images/04f1cbb3-image-asset.jpeg)
 
 [This Week in the News](/news-notes/tag/This+Week+in+the+News)
 

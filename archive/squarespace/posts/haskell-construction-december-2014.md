@@ -5,7 +5,7 @@ date: 2014-12-16
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/kansaslhaskell-light-campus-ministry/haskell-construction-december-2014
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd3ca4e47568d466fca9/1665785159786/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785149593-NBQ35GR3OTQ1MGDF2V9J/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785150852-Q9NAKNF7I9M2UHC9FHY4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785153323-3VD6IT9Q7CWJV3GTCL9Y/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785154942-OE4900U07G5W2RIMLKD2/image-asset.jpeg"]
+images: ["images/4396ca74-1665785159786", "images/c06e046e-image-asset.jpeg", "images/69099c23-image-asset.jpeg", "images/83bb37b7-image-asset.jpeg", "images/2d01186c-image-asset.jpeg"]
 ---
 # Haskell Construction Update
 
@@ -15,7 +15,7 @@ Dec 16
 
 Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785149593-NBQ35GR3OTQ1MGDF2V9J/image-asset.jpeg)
+![](images/c06e046e-image-asset.jpeg)
 
 We want to give you an update – both financially and on the building progress of [the new Haskell LIGHT Campus Ministry Center in Lawrence, Kansas](https://lutheranindianministries.squarespace.com/blog/kansaslhaskell-light-campus-ministry/blessed-blessing). Thank you so much for your partnership – for your gifts and prayers – as we have been moving forward on the new building.
 
@@ -25,11 +25,11 @@ Initial delays were related to getting the permits. The parking agreement requir
 
 The risers for the multi-level worship area have been poured. The underground plumbing lines will be in place soon so that the balance of the concrete slab can be poured. Erection of walls can begin after the steel beams are delivered.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785150852-Q9NAKNF7I9M2UHC9FHY4/image-asset.jpeg)
+![](images/69099c23-image-asset.jpeg)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785153323-3VD6IT9Q7CWJV3GTCL9Y/image-asset.jpeg)
+![](images/83bb37b7-image-asset.jpeg)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785154942-OE4900U07G5W2RIMLKD2/image-asset.jpeg)
+![](images/2d01186c-image-asset.jpeg)
 
 All that being said, we are concerned about proceeding into the winter months. Completing the next steps may be difficult to accomplish under our given time table. We are focusing on safety and security as the project continues. In the meantime, there is still plenty that can be done.
 

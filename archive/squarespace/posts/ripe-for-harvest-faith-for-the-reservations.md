@@ -5,7 +5,7 @@ date: 2017-07-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/ripe-for-harvest-faith-for-the-reservations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfa260d4ef62defa1122/1748628700852/45862418991fad081fd37a75e7d93ccf.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777571193-Z0L9P49U803OI3J3N39Y/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777572649-5TNX2I08STG3AQHU7ZI4/image-asset.jpeg"]
+images: ["images/20dde178-45862418991fad081fd37a75e7d93ccf.jpg", "images/2bce71c8-image-asset.jpeg", "images/fd1205bc-image-asset.jpeg"]
 ---
 # Ripe for Harvest: Faith for the Reservations, Devo 7 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jul 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777571193-Z0L9P49U803OI3J3N39Y/image-asset.jpeg)
+![](images/2bce71c8-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -39,7 +39,7 @@ It takes one step.
 
 The crowds came to see Jesus and were captivated by His teaching. They were amazed at the ways He lived what He taught.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777572649-5TNX2I08STG3AQHU7ZI4/image-asset.jpeg)
+![](images/fd1205bc-image-asset.jpeg)
 
 What they experienced in his presence was powerful and life changing, and word about Him traveled quickly from village to village. They flocked to Him. Jesus demonstrated God's love with one purpose so that they would see God's goodness and trust Him.
 

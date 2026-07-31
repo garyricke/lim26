@@ -5,7 +5,7 @@ date: 2016-07-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/luke-1-6-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c8974be6b35b376ae860/1748628700852/They+were+in+good+standing+in+the+eyes+of+the+Great+Spirit%2C+and+with+good+and+pure+hearts+they+walked+a+straight+path.+Luke+1-6+FNV.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779865520-500OL699XQ000U6SIDE2/image-asset.png"]
+images: ["images/0583d112-They_were_in_good_standing_in_the_eyes_of_the_Great_Spirit__and_with_good_and_pure_hearts_they_walked_a_straight_path._L", "images/25e767fa-image-asset.png"]
 ---
 # Luke 1:6 FNV
 
@@ -13,7 +13,7 @@ Jul 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779865520-500OL699XQ000U6SIDE2/image-asset.png)
+![](images/25e767fa-image-asset.png)
 
 Zacharias and Elizabeth, mentioned in Luke 1, are a model for anyone who is facing **physical or spiritual barrenness**. The aged couple had an impeccable reputation, having faithfully and obediently served the Lord for many years (v.6).
 

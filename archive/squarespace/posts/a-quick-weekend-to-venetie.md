@@ -5,7 +5,7 @@ date: 2017-12-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-quick-weekend-to-venetie
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be105e47eb614f77938c/1748628700852/A9Rycp2qn_14qowi7_12wc.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777169700-AMJ6K1JBO05J4V51W31M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777171441-TK14O7NATFQWB17OSV7Z/image-asset.jpeg"]
+images: ["images/5870659e-A9Rycp2qn_14qowi7_12wc.jpg", "images/c00e6b5a-image-asset.jpeg", "images/f9fe801c-image-asset.jpeg"]
 ---
 # A Quick Weekend to Venetie
 
@@ -19,13 +19,13 @@ Most people have definite favorites when it comes to holidays. My mother’s fav
 
 So with that last thought in mind, Elijah and Lisa Nelles, Carissa Wittig, and I flew to the village of Venetie and stayed from November 3rd-5th. Elijah is originally from Venetie. This summer, he and Lisa were working on a building project while the other members of their Vacation Bible School team, worked with the children. Our idea was to have a mini Vacation Bible School gathering with the younger ones and afterward share food with the community. Margo Simple, the Episcopalian priest in the village, negotiated very comfortable accommodations for us at the Early Childhood building. It was close to the newly renovated Youth Center where we taught the children and shared meals.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777169700-AMJ6K1JBO05J4V51W31M/image-asset.jpeg)
+![](images/c00e6b5a-image-asset.jpeg)
 
 The children who had attended Vacation Bible School this summer were glad to see us. Our lesson was on the life of Moses; starting with his genealogy of God's people and how God used him to accomplish His plan of building a nation through whom the savior of the world would come. We shared songs, crafts, and games making for a long, fun-filled evening.
 
 Because we gave the lesson in the youth center, many teens were coming and going watching what we were doing. Afterwards, as we were able to spend time talking to them, several shared with Elijah, especially, how they were struggling with making good decisions and asked if there was a program or activity we could bring for them when we returned. We are hoping to have many of the Venetie teens join us at Camp Bingle in 2018 for Teen Camp.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777171441-TK14O7NATFQWB17OSV7Z/image-asset.jpeg)
+![](images/f9fe801c-image-asset.jpeg)
 
 Lisa and Elijah Nelles visiting Elijah's grandmother in Venetie
 

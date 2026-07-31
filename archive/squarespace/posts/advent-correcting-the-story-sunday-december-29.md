@@ -5,7 +5,7 @@ date: 2019-12-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-correcting-the-story-sunday-december-29
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b152ac64b420975f16f0/1748628700852/Luke_2_13_Alt-1920x1080_watermarked.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773908186-QWVI5CT0QCGZLSYJNH5R/image-asset.png"]
+images: ["images/61820325-Luke_2_13_Alt-1920x1080_watermarked.jpg", "images/2a45ea6d-image-asset.png"]
 ---
 # Advent: Correcting the Story - Sunday, December 29
 
@@ -13,7 +13,7 @@ Dec 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773908186-QWVI5CT0QCGZLSYJNH5R/image-asset.png)
+![](images/2a45ea6d-image-asset.png)
 
 ### Suddenly a great company of the heavenly host appeared with the angel, praising God and saying, “Glory to God in the highest heaven, and on earth peace to those on whom his favor rests.”
 

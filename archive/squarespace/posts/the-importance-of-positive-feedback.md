@@ -5,7 +5,7 @@ date: 2018-06-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-importance-of-positive-feedback
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8b9a0971d66a914d1fb/1748628700852/Truth-900x450.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775803017-D9FX47UWSKX9W0BDCI9C/image-asset.jpeg", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/bbc66cfe-Truth-900x450.jpg", "images/90cc7c80-image-asset.jpeg", "images/6ac51f52-pixel.gif"]
 ---
 # The Importance of Positive Feedback
 
@@ -13,7 +13,7 @@ Jun 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775803017-D9FX47UWSKX9W0BDCI9C/image-asset.jpeg)
+![](images/90cc7c80-image-asset.jpeg)
 
 Whether it’s good or bad, feedback is important.
 
@@ -73,7 +73,7 @@ Lutheran Indian Ministries
 
 ### P.S. Rick recently wrote, “ It is this life of freedom (from sin) I am reminded of every morning and the life I want to help my Native brothers and sisters find.”  Thank you for your gift today to help our missionaries, like Rick, bring freedom through the Gospel’s healing message.
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

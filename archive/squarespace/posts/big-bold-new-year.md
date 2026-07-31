@@ -5,7 +5,7 @@ date: 2019-01-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/big-bold-new-year
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b699dd7dfe2ee01e7cd0/1748628700852/here%27s+to+a+big+%26+bold+year+in+Native+ministry%21.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775259283-G3VUHAUNMK6F0DGLWZG7/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/52a5ccf1-here_s_to_a_big___bold_year_in_Native_ministry_.png", "images/61888405-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Big & Bold New Year
 
@@ -13,7 +13,7 @@ Jan 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775259283-G3VUHAUNMK6F0DGLWZG7/image-asset.png)
+![](images/61888405-image-asset.png)
 
 Happy New Year!
 
@@ -68,7 +68,7 @@ Are you ready to be a part of this adventure?
 
 Your yes to God’s vision for Native ministry will help make it happen and bring the light of Jesus birth, life, death, and resurrection to Native peoples across the country.
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 **Prefer PayPal? Click Here**
 

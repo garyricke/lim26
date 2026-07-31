@@ -5,7 +5,7 @@ date: 2020-01-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/weareambassadors
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b137caefb623c84f562c/1748628700852/mocs.jpg", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/1474fd12-mocs.jpg", "images/6ac51f52-pixel.gif"]
 ---
 # We are ambassadors
 
@@ -48,7 +48,7 @@ Executive Director
 
 ### P.S. Please use the enclosed cross as a reminder to pray for all Native people. May they discover hope and healing through the truth of the Gospel message – that Jesus was born, suffered, died, and was raised for all people, red, yellow, black, and white.
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

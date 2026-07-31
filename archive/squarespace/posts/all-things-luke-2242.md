@@ -5,7 +5,7 @@ date: 2016-02-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/all-things-luke-2242
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349d00a2fb90d032775f897/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781772146-G251NX21746KGELF1B0W/image-asset.jpeg"]
+images: ["images/101d6a6b-1748628700852", "images/4c4580f9-image-asset.jpeg"]
 ---
 # All Things - Luke 22:42
 
@@ -15,7 +15,7 @@ Feb 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781772146-G251NX21746KGELF1B0W/image-asset.jpeg)
+![](images/4c4580f9-image-asset.jpeg)
 
 # **Friday February 12**
 

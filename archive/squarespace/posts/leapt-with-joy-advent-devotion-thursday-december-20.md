@@ -5,7 +5,7 @@ date: 2018-12-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/leapt-with-joy-advent-devotion-thursday-december-20
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7029af4ad0956c75bb2/1748628700852/Lk1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775364463-I8GIZBCVAH96CGVAGJGS/image-asset.png"]
+images: ["images/b8253bfb-Lk1.jpg", "images/cfabd22b-image-asset.png"]
 ---
 # Leapt with Joy (Advent Devotion) - Thursday, December 20
 
@@ -15,7 +15,7 @@ Dec 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775364463-I8GIZBCVAH96CGVAGJGS/image-asset.png)
+![](images/cfabd22b-image-asset.png)
 
 ## Now Mary arose in those days and went into the hill country with haste, to a city of Judah, and entered the house of Zacharias and greeted Elizabeth. And it happened, when Elizabeth heard the greeting of Mary, that the babe leaped in her womb; and Elizabeth was filled with the Holy Spirit. Then she spoke out with a loud voice and said, "Blessed *are* you among women, and blessed *is* the fruit of your womb! But why *is* this *granted* to me, that the mother of my Lord should come to me? For indeed, as soon as the voice of your greeting sounded in my ears, the babe leaped in my womb for joy. Blessed *is* she who believed, for there will be a fulfillment of those things which were told her from the Lord." (Luke 1:39-45 NIV)
 

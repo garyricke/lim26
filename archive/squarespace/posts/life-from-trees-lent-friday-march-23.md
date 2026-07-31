@@ -5,7 +5,7 @@ date: 2018-03-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/life-from-trees-lent-friday-march-23
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbcac9a5633813c3269f/1748628700852/Ga3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776587346-94KCYSCU6FVJ0HEK8GK5/image-asset.png"]
+images: ["images/ba30b308-Ga3.jpg", "images/586c69b2-image-asset.png"]
 ---
 # Life From Trees (Lent) - Friday, March 23
 
@@ -13,7 +13,7 @@ Mar 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776587346-94KCYSCU6FVJ0HEK8GK5/image-asset.png)
+![](images/586c69b2-image-asset.png)
 
 ### "Christ redeemed us from the curse of the law by becoming a curse for us, for it is written, 'Cursed is everyone who is hanged on a tree.'"   [Galatians 3:13 (ESV)](https://www.bible.com/bible/59/GAL.3.13)
 

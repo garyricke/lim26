@@ -5,7 +5,7 @@ date: 2019-06-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-next-step-in-fairbanks
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b342e0445c470a212773/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774404245-8OKU5MKMDP7M7U0V5LQ9/image-asset.jpeg"]
+images: ["images/03f2cf6b-1748628700852", "images/18cb2326-image-asset.jpeg"]
 ---
 # The Next Step in Fairbanks
 
@@ -15,7 +15,7 @@ Jun 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774404245-8OKU5MKMDP7M7U0V5LQ9/image-asset.jpeg)
+![](images/18cb2326-image-asset.jpeg)
 
 We are pleased to announce the newest members of the LIM team: Nathan and Sarah Milan, who recently made their way north to take over and restructure our Alaska Native mission work in Fairbanks.
 

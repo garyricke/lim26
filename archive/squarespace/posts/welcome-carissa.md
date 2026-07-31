@@ -5,7 +5,7 @@ date: 2017-06-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/welcome-carissa
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c01c42bb011151072056/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777693624-JYIZH6BXZ6RSI6VGWEE2/image-asset.jpeg"]
+images: ["images/f8ae22de-1748628700852", "images/07e533b8-image-asset.jpeg"]
 ---
 # Welcome, Carissa!
 
@@ -15,7 +15,7 @@ Jun 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777693624-JYIZH6BXZ6RSI6VGWEE2/image-asset.jpeg)
+![](images/07e533b8-image-asset.jpeg)
 
 ### Lutheran Indian Ministries is excited to announce the newest member of our ministry staff, Carissa Wittig!
 

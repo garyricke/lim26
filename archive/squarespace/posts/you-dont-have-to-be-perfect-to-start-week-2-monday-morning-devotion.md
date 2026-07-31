@@ -5,7 +5,7 @@ date: 2019-06-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/you-dont-have-to-be-perfect-to-start-week-2-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b327ab562073a4f96d96/1748628700852/28584736_10107003188805530_1065246582_o.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774378086-5EZ77GRMQMOR38QEG74U/image-asset.jpeg"]
+images: ["images/37fbf3da-28584736_10107003188805530_1065246582_o.jpg", "images/9c7dbdb4-image-asset.jpeg"]
 ---
 # You Don't Have to be Perfect to Start - Week 2 (Monday Morning Devotion)
 
@@ -13,7 +13,7 @@ Jun 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774378086-5EZ77GRMQMOR38QEG74U/image-asset.jpeg)
+![](images/9c7dbdb4-image-asset.jpeg)
 
 We just spent six weeks discovering [“What is Hope?”](https://www.lutheranindianministries.org/news/what-is-hope-hope-is-given-as-a-gift-and-found-in-jesus-monday-morning-devotion-week-1) and now it’s time to share that hope.
 

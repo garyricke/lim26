@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/advent+devotion+2016
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778724661-N2QMQFXD4AT3F5NEWDLK/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778728502-RQHMKDVIQV227GTMBEP2/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778731352-TMKLS5IMVOPRKQJB63NQ/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778741238-XCVCCGS37HR90278TNRN/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778745382-QYEZHNXWYAQXS7HOTLGE/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778749452-5ZAXGHPZLI5V4BV0RY89/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778752316-1MHJYXPF7KGT7O8P7LY4/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778755296-INH2QVE5OAWQU1NQ1OHK/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778758275-G38J4YWBS0ICOBNGQFJC/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778761299-4IGWUWOKER5DHVHH284N/2016+Advent+Devotions.png"]
+images: ["images/b18effec-2016_Advent_Devotions.png", "images/54f9be76-2016_Advent_Devotions.png", "images/3eba76f0-2016_Advent_Devotions.png", "images/589498f9-2016_Advent_Devotions.png", "images/7a81cd4e-2016_Advent_Devotions.png", "images/3de15d40-2016_Advent_Devotions.png", "images/b3264765-2016_Advent_Devotions.png", "images/6f8771a7-2016_Advent_Devotions.png", "images/e2f5ece5-2016_Advent_Devotions.png", "images/91fa2b34-2016_Advent_Devotions.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![THANK YOU!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778724661-N2QMQFXD4AT3F5NEWDLK/2016+Advent+Devotions.png)](/news-notes/thank-you)
+[![THANK YOU!](images/b18effec-2016_Advent_Devotions.png)](/news-notes/thank-you)
 
 Guest User
 12/26/16
@@ -73,7 +73,7 @@ Thank you for spending Advent with us! Thank you for keeping us in your prayers!
 
 [Read More](/news-notes/thank-you)
 
-[![Bursting with Joy: December 25 - MERRY CHRISTMAS!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778728502-RQHMKDVIQV227GTMBEP2/2016+Advent+Devotions.png)](/news-notes/bursting-with-joy-december-25-merry-christmas)
+[![Bursting with Joy: December 25 - MERRY CHRISTMAS!](images/54f9be76-2016_Advent_Devotions.png)](/news-notes/bursting-with-joy-december-25-merry-christmas)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -89,7 +89,7 @@ Guest User
 
 [Read More](/news-notes/bursting-with-joy-december-25-merry-christmas)
 
-[![If Jesus Had Been Born Cree: December 24](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778731352-TMKLS5IMVOPRKQJB63NQ/2016+Advent+Devotions.png)](/news-notes/if-jesus-had-been-born-cree-december-24)
+[![If Jesus Had Been Born Cree: December 24](images/3eba76f0-2016_Advent_Devotions.png)](/news-notes/if-jesus-had-been-born-cree-december-24)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -105,7 +105,7 @@ Guest User
 
 [Read More](/news-notes/if-jesus-had-been-born-cree-december-24)
 
-[![He Speaks Our Language: December 23](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778741238-XCVCCGS37HR90278TNRN/2016+Advent+Devotions.png)](/news-notes/he-speaks-our-language-december-23)
+[![He Speaks Our Language: December 23](images/589498f9-2016_Advent_Devotions.png)](/news-notes/he-speaks-our-language-december-23)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -121,7 +121,7 @@ Guest User
 
 [Read More](/news-notes/he-speaks-our-language-december-23)
 
-[![He Has Been There: December 22](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778745382-QYEZHNXWYAQXS7HOTLGE/2016+Advent+Devotions.png)](/news-notes/he-has-been-there-december-22)
+[![He Has Been There: December 22](images/7a81cd4e-2016_Advent_Devotions.png)](/news-notes/he-has-been-there-december-22)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -137,7 +137,7 @@ Guest User
 
 [Read More](/news-notes/he-has-been-there-december-22)
 
-[![Render Unto God: December 21](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778749452-5ZAXGHPZLI5V4BV0RY89/2016+Advent+Devotions.png)](/news-notes/render-unto-god-december-21)
+[![Render Unto God: December 21](images/3de15d40-2016_Advent_Devotions.png)](/news-notes/render-unto-god-december-21)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -153,7 +153,7 @@ Guest User
 
 [Read More](/news-notes/render-unto-god-december-21)
 
-[![The Greatest Rescue Ever: December 20](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778752316-1MHJYXPF7KGT7O8P7LY4/2016+Advent+Devotions.png)](/news-notes/the-greatest-rescue-ever-december-20)
+[![The Greatest Rescue Ever: December 20](images/b3264765-2016_Advent_Devotions.png)](/news-notes/the-greatest-rescue-ever-december-20)
 
 Guest User
 12/20/16
@@ -167,7 +167,7 @@ Guest User
 
 [Read More](/news-notes/the-greatest-rescue-ever-december-20)
 
-[![God's Magicians: December 19](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778755296-INH2QVE5OAWQU1NQ1OHK/2016+Advent+Devotions.png)](/news-notes/gods-magicians-december-19-1)
+[![God's Magicians: December 19](images/6f8771a7-2016_Advent_Devotions.png)](/news-notes/gods-magicians-december-19-1)
 
 Guest User
 12/19/16
@@ -181,7 +181,7 @@ Guest User
 
 [Read More](/news-notes/gods-magicians-december-19-1)
 
-[![Tinsel or Truth?: December 18](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778758275-G38J4YWBS0ICOBNGQFJC/2016+Advent+Devotions.png)](/news-notes/tinsel-or-truth-december-18-1)
+[![Tinsel or Truth?: December 18](images/e2f5ece5-2016_Advent_Devotions.png)](/news-notes/tinsel-or-truth-december-18-1)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -197,7 +197,7 @@ Guest User
 
 [Read More](/news-notes/tinsel-or-truth-december-18-1)
 
-[![The Gift of Light: December 17](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778761299-4IGWUWOKER5DHVHH284N/2016+Advent+Devotions.png)](/news-notes/the-gift-of-light-december-17)
+[![The Gift of Light: December 17](images/91fa2b34-2016_Advent_Devotions.png)](/news-notes/the-gift-of-light-december-17)
 
 Guest User
 12/17/16

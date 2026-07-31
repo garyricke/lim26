@@ -5,7 +5,7 @@ date: 2016-10-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/go-teach-baptize-ministry-in-motion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c52d4505c216efac27ff/1748628700852/Go.+Teach.+Baptize.A+Ministry+in+Motion..png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778991747-M46H0U4K9FV9HYSMXC8N/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778992769-VJ2L71W7VH6WGCH7FHMD/image-asset.jpeg"]
+images: ["images/4e2b1f7c-Go._Teach._Baptize.A_Ministry_in_Motion..png", "images/ddf06437-image-asset.png", "images/2cee2ff8-image-asset.jpeg"]
 ---
 # Go. Teach. Baptize. Ministry in Motion.
 
@@ -13,7 +13,7 @@ Oct 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778991747-M46H0U4K9FV9HYSMXC8N/image-asset.png)
+![](images/ddf06437-image-asset.png)
 
 **The essence of the Great Commission is action. This is what God expects of us as His disciples.**
 
@@ -29,7 +29,7 @@ Lutheran Indian Ministries is a ministry in motion! The summer months were busy 
 
 ### GO!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778992769-VJ2L71W7VH6WGCH7FHMD/image-asset.jpeg)
+![](images/2cee2ff8-image-asset.jpeg)
 
 VBS at Navajo. The children learned about Baby Moses and his trip down the river.
 

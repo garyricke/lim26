@@ -5,7 +5,7 @@ date: 2021-03-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/comfort-zone-or-complacent
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae3afdd561202b5dd886/1748628700852/21+Comfort+Zone+or+Complacent.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773115301-HMNYOCU9IJEV0ZD5RCFY/image-asset.jpeg"]
+images: ["images/9ad48e17-21_Comfort_Zone_or_Complacent.jpg", "images/b05457ad-image-asset.jpeg"]
 ---
 # Comfort Zone or Complacent? (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773115301-HMNYOCU9IJEV0ZD5RCFY/image-asset.jpeg)
+![](images/b05457ad-image-asset.jpeg)
 
 Perhaps, just perhaps, God is using this pandemic to get us out of our comfort zone! Or, from being complacent!
 

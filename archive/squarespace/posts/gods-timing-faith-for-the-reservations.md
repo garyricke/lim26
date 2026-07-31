@@ -5,7 +5,7 @@ date: 2017-08-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/gods-timing-faith-for-the-reservations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf70cdfe3c472dde858b/1748628700852/a5ebc2d5f5c4675e90a152773f23821c--faith-in-god-have-faith.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777521046-2O34FGZN7FOKP2X2VMSS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777522013-1UPH78K4WMK9X6C5Z33G/image-asset.jpeg"]
+images: ["images/2346d0af-a5ebc2d5f5c4675e90a152773f23821c--faith-in-god-have-faith.jpg", "images/c41a923e-image-asset.jpeg", "images/c1dd935e-image-asset.jpeg"]
 ---
 # God's Timing: Faith for the Reservations, Devo 9 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Aug 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777521046-2O34FGZN7FOKP2X2VMSS/image-asset.jpeg)
+![](images/c41a923e-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -47,7 +47,7 @@ When he first arrived, he spent three months in the synagogue, speaking with the
 
 Eventually, the Jewish leaders kicked him out. He "left them and took the believers with him, and every day he held discussions in the lecture hall of Tyrannus. This went on for two years..." (Acts 19:9-10)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777522013-1UPH78K4WMK9X6C5Z33G/image-asset.jpeg)
+![](images/c1dd935e-image-asset.jpeg)
 
 Two years!
 

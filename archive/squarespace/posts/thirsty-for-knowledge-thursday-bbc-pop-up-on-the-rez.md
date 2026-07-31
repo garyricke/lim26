@@ -5,7 +5,7 @@ date: 2017-04-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thirsty-for-knowledge-thursday-bbc-pop-up-on-the-rez
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c10b60d4ef62defa4f1e/1748628700852/maxresdefault+%281%29.jpg"]
+images: ["images/3acfb057-maxresdefault__1_.jpg"]
 ---
 # Thirsty (for Knowledge) Thursday - BBC Pop-Up on the Rez
 

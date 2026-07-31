@@ -5,7 +5,7 @@ date: 2019-10-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-10112019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b223046d523415cdbe3f/1748628700852/GP2-912x608%402x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774115609-GE9IS3WCMZ9WRMJMZKD7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774116990-EJ7JM47QYX6LCB8B6KO2/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774118110-EOGDM0MWMB5TQBUXXCA4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774120311-QBWQNMD48WO45AG957J6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774121211-NCFEDM5CZIREPKC9FDMK/image-asset.jpeg"]
+images: ["images/7b3febae-GP2-912x608_2x.jpg", "images/50531a97-image-asset.jpeg", "images/048a83c3-image-asset.png", "images/cfe67f06-image-asset.jpeg", "images/9c860219-image-asset.jpeg", "images/5f216569-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/11/19): Indigenous peoples day, national parks, and money, money, money
 
@@ -13,7 +13,7 @@ Oct 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774115609-GE9IS3WCMZ9WRMJMZKD7/image-asset.jpeg)
+![](images/50531a97-image-asset.jpeg)
 
 # October 11, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Why more places are abandoning Columbus Day in favor of Indigenous Peoples’ Day
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774116990-EJ7JM47QYX6LCB8B6KO2/image-asset.png)
+![](images/048a83c3-image-asset.png)
 
 Increasingly, Columbus Day is giving people pause.
 
@@ -45,7 +45,7 @@ The growing recognition and celebration of Indigenous Peoples’ Day actually re
 
 ## Making National Parks Accessible to Native People Again
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774118110-EOGDM0MWMB5TQBUXXCA4/image-asset.jpeg)
+![](images/cfe67f06-image-asset.jpeg)
 
 Only 22% of National Park visitors are people of color. The statistics are not surprising given the history of back country lynching and Native American removal campaigns. Photo by Andrei Stoica/EyeEm/Getty Images
 
@@ -61,7 +61,7 @@ Only 22% of National Park visitors are people of color. The statistics are not s
 
 ## An artist addresses Native American genocide through comic books
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774120311-QBWQNMD48WO45AG957J6/image-asset.jpeg)
+![](images/9c860219-image-asset.jpeg)
 
 **Ben Turnbull’s collage portraits of Native Americans chiefs, created from thousands of chopped-up vintage comics, confront the pop-culture myths surrounding the American frontier**
 
@@ -75,7 +75,7 @@ In cannibalising comic books, Turnbull found himself going down paths that he ne
 
 ## US Coin to Honor Tlingit Woman Who Shepherded 1945 Alaskan Civil Rights Bill
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774121211-NCFEDM5CZIREPKC9FDMK/image-asset.jpeg)
+![](images/5f216569-image-asset.jpeg)
 
 *“*The US Mint announced last week that it will honor Elizabeth Peratrovich, Tlingit, on the 2020 dollar coin,” writes Joaqlin Estus in *Indian Country Today.*The coin design was unveiled this past Saturday at Alaska Pacific University in Anchorage by US Mint Chief Administrative Officer and Acting Deputy Director Patrick Hernandez.
 

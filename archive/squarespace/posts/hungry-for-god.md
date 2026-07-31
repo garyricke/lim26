@@ -5,7 +5,7 @@ date: 2018-09-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/hungry-for-god
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b81689548629034e79e0/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775639868-PHOTZ0MVHZOVFZYGSL3E/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775641011-L3PQSOV57RVJEOQABZOV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775642283-YOSSP629Y5LVV1TL061X/image-asset.jpeg"]
+images: ["images/8e37ceab-1748628700852", "images/6d188411-image-asset.jpeg", "images/0dd140c9-image-asset.jpeg", "images/61a1773e-image-asset.jpeg"]
 ---
 # Hungry for God
 
@@ -27,7 +27,7 @@ Vicar Rick McCafferty (Inupiaq/Cherokee) is a leading force in our healing minis
 
 He began his adventure in Navajo, New Mexico, where he and Pastor Tim Norton went on their Annual Men’s Retreat which is based on the Beauty for Ashes practice of creating a safe space to share stories and support each other.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775639868-PHOTZ0MVHZOVFZYGSL3E/image-asset.jpeg)
+![](images/6d188411-image-asset.jpeg)
 
 “These meetings we do can’t be a one time event,” Rick explains. “This is our third year doing it, and we are now really seeing the fruit of our labor. Between the retreats and the daily relationships Tim has with the individuals, we can see the change happening in the hearts of these few Navajo men. It is a long, building process, and it is only by showing up, time after time, that we can build the trust and help the healing process. This was our best retreat yet, and I expect it to keep getting better!”
 
@@ -43,7 +43,7 @@ A nurse stated, in one year, she had experienced 17 hangings, seven deaths by gu
 
 Another man told how he and his wife left their home because they couldn’t handle the environment in their village. “We made the excuse that we were leaving to find jobs, but really we wanted to start over without the violence. There was no hope for us there. Our villages really need this!”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775641011-L3PQSOV57RVJEOQABZOV/image-asset.jpeg)
+![](images/0dd140c9-image-asset.jpeg)
 
 Rick has scheduled multiple churches to attend the Beauty for Ashes training to help Native villages begin the healing process in a Christian setting.
 
@@ -59,7 +59,7 @@ Meanwhile, in Phoenix, Arizona, Kevin Maulson (Lac du Flambeau) had break throug
 
 On this particular Sunday, Kevin brought together 18 people who have recently entered his life through the work of the Gichi Manidoo Akewe Ministry of Lutheran Indian Ministries. The phrase, Gichi Manidoo Akewe, is Ojibwe for "Putting God First" which is precisely how Kevin does ministry. Together, this group spent the morning praising God and digging deeply into His Word in a room at the NAFFA headquarters (Native American Fatherhood and Families Association).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775642283-YOSSP629Y5LVV1TL061X/image-asset.jpeg)
+![](images/61a1773e-image-asset.jpeg)
 
 The group consists of 13 women from the Transitional Living Facility for Sober Living and two Native families, all of whom are working with Kevin to overcome the obstacle that plagues many Native men and women in urban areas, homelessness. But homeless isn’t a problem living in a vacuum. The reasons an individual becomes homeless, generally,  come from past abuses, drug use, trauma.
 

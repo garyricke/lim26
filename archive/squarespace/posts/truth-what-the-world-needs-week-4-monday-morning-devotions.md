@@ -5,7 +5,7 @@ date: 2021-01-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/truth-what-the-world-needs-week-4-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae5af20dc33f33711841/1748628700852/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773148013-FKQQ61S01PL96LCA84ZR/image-asset.png"]
+images: ["images/d342a3cd-Copy_of_Give_us_this_day__2_.png", "images/1db54b26-image-asset.png"]
 ---
 # TRUTH: what the world needs - Week 4 (Monday Morning Devotions)
 
@@ -13,7 +13,7 @@ Jan 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773148013-FKQQ61S01PL96LCA84ZR/image-asset.png)
+![](images/1db54b26-image-asset.png)
 
 As we welcome in a new year, let us focus on God’s Word and HIS TRUTH, dedicating this year to the Lord.
 

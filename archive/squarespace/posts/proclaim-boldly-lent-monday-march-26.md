@@ -5,7 +5,7 @@ date: 2018-03-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/proclaim-boldly-lent-monday-march-26
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbbecaefb623c851368c/1748628700852/Luke-9.56.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776575434-DE15TBGOL41EUQFD48J1/image-asset.png"]
+images: ["images/8310e69f-Luke-9.56.jpg", "images/28436e49-image-asset.png"]
 ---
 # Proclaim Boldly (Lent) - Monday, March 26
 
@@ -13,7 +13,7 @@ Mar 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776575434-DE15TBGOL41EUQFD48J1/image-asset.png)
+![](images/28436e49-image-asset.png)
 
 ### "As the time approached for him to be taken up to heaven, Jesus resolutely set out for Jerusalem. And he sent messengers on ahead, who went into a Samaritan village to get things ready for him; but the people there did not welcome him, because he was heading for Jerusalem. When the disciples James and John saw this, they asked, “Lord, do you want us to call fire down from heaven to destroy them?” But Jesus turned and rebuked them. Then he and his disciples went to another village." [Luke 9:51-56 (NIV)](https://www.bible.com/bible/111/LUK.9.51-56)
 

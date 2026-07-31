@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/live+like+job
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775774293-DPIL6HESU584SO0RBFYX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775793353-JWYNE4RYNXWGTR63YARE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775807594-AJWJFQCXNA039T7H9PJ5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775820825-59HL21XC512468EEG9PQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775840484-0IJO8OIF2P6RZL1B00S1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775857075-5V2561OCUIRJBEF3UKLA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775876713-R1VLA32TGULLHA1QVTZ7/image-asset.jpeg"]
+images: ["images/5a6e120e-image-asset.jpeg", "images/3926c330-image-asset.jpeg", "images/c55c304c-image-asset.jpeg", "images/742c69c4-image-asset.jpeg", "images/ae4cbbe5-image-asset.jpeg", "images/9960e196-image-asset.jpeg", "images/a9e4a071-image-asset.jpeg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Live Like Job - Week 7 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775774293-DPIL6HESU584SO0RBFYX/image-asset.jpeg)](/news-notes/live-like-job-week-7)
+[![Live Like Job - Week 7 (Monday Morning Devotion)](images/5a6e120e-image-asset.jpeg)](/news-notes/live-like-job-week-7)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -73,7 +73,7 @@ Guest User
 
 [Read More](/news-notes/live-like-job-week-7)
 
-[![Live Like Job - Week 6 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775793353-JWYNE4RYNXWGTR63YARE/image-asset.jpeg)](/news-notes/live-like-job-week-6)
+[![Live Like Job - Week 6 (Monday Morning Devotion)](images/3926c330-image-asset.jpeg)](/news-notes/live-like-job-week-6)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -87,7 +87,7 @@ Guest User
 
 [Read More](/news-notes/live-like-job-week-6)
 
-[![Live Like Job - Week 5 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775807594-AJWJFQCXNA039T7H9PJ5/image-asset.jpeg)](/news-notes/live-like-job-week-5)
+[![Live Like Job - Week 5 (Monday Morning Devotion)](images/c55c304c-image-asset.jpeg)](/news-notes/live-like-job-week-5)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -101,7 +101,7 @@ Guest User
 
 [Read More](/news-notes/live-like-job-week-5)
 
-[![Live Like Job - Week 4 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775820825-59HL21XC512468EEG9PQ/image-asset.jpeg)](/news-notes/live-like-job-week-4)
+[![Live Like Job - Week 4 (Monday Morning Devotion)](images/742c69c4-image-asset.jpeg)](/news-notes/live-like-job-week-4)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -115,7 +115,7 @@ Guest User
 
 [Read More](/news-notes/live-like-job-week-4)
 
-[![Live Like Job - Week 3 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775840484-0IJO8OIF2P6RZL1B00S1/image-asset.jpeg)](/news-notes/live-like-job-week-3)
+[![Live Like Job - Week 3 (Monday Morning Devotion)](images/ae4cbbe5-image-asset.jpeg)](/news-notes/live-like-job-week-3)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -129,7 +129,7 @@ Guest User
 
 [Read More](/news-notes/live-like-job-week-3)
 
-[![Live Like Job - Week 2 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775857075-5V2561OCUIRJBEF3UKLA/image-asset.jpeg)](/news-notes/live-like-job-week-2)
+[![Live Like Job - Week 2 (Monday Morning Devotion)](images/9960e196-image-asset.jpeg)](/news-notes/live-like-job-week-2)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -143,7 +143,7 @@ Guest User
 
 [Read More](/news-notes/live-like-job-week-2)
 
-[![Live Like Job - Week 1 (Monday Morning Devotion)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775876713-R1VLA32TGULLHA1QVTZ7/image-asset.jpeg)](/news-notes/live-like-job-week-1)
+[![Live Like Job - Week 1 (Monday Morning Devotion)](images/a9e4a071-image-asset.jpeg)](/news-notes/live-like-job-week-1)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

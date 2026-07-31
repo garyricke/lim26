@@ -5,7 +5,7 @@ date: 2020-03-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/share-the-truth
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b066d2c1581771e7eab0/1748628700852/8x10%2BHandmade%2BI%2BAM%2Bstatements-06.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773673196-ZRMTFIE4CKU1LLTDTZEB/image-asset.png"]
+images: ["images/d68c0272-8x10_Handmade_I_AM_statements-06.jpg", "images/81dba08c-image-asset.png"]
 ---
 # Share the Truth - Lent 2020
 
@@ -13,7 +13,7 @@ Mar 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773673196-ZRMTFIE4CKU1LLTDTZEB/image-asset.png)
+![](images/81dba08c-image-asset.png)
 
 ### I am the way and the truth and the life. No one comes to the Father except through me. [John 14:6](https://www.bible.com/bible/111/jhn.14.6)
 

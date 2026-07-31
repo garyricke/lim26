@@ -5,9 +5,9 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/tree-of-life
 section: 
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/61b8d344-9f9f-4a0b-b464-72766a124299/ChatGPT+Image+Apr+14%2C+2025%2C+11_47_57+AM.jpg"]
+images: ["images/b3b5a130-ChatGPT_Image_Apr_14__2025__11_47_57_AM.jpg"]
 ---
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/61b8d344-9f9f-4a0b-b464-72766a124299/ChatGPT+Image+Apr+14%2C+2025%2C+11_47_57+AM.jpg)
+![](images/b3b5a130-ChatGPT_Image_Apr_14__2025__11_47_57_AM.jpg)
 
 # Tree of Life Gathering
 

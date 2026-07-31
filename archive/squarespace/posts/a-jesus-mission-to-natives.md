@@ -5,7 +5,7 @@ date: 2017-12-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-jesus-mission-to-natives
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bdcdc653350bcef83e22/1748628700852/MISSION+POSSIBLE.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777105446-SUDD44L2CHHZ77XUGLDP/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/65245ab2-MISSION_POSSIBLE.jpg", "images/68a2901c-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # A Mission to Natives.
 
@@ -13,7 +13,7 @@ Dec 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777105446-SUDD44L2CHHZ77XUGLDP/image-asset.png)
+![](images/68a2901c-image-asset.png)
 
 Your mission, should you choose to join us... Proclaim. Disciple. Heal.
 
@@ -67,7 +67,7 @@ We couldn't be more thrilled to share with you how your gifts have helped Native
 
 # Join us on this mission
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 If you prefer to use PayPal, click here
 

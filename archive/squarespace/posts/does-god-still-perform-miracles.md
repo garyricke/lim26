@@ -5,7 +5,7 @@ date: 2016-07-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/does-god-still-perform-miracles
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c84514c45a2de06d2f33/1748628700852/Now+to+Him+who+is+able+to+do+immeasurably+more+than+all+we+ask+or+imagine%2C+according+to+his+power+that+is+at+work+within+us%2C+to+him+be+glory+in+the+church+and+in+Jesus+Christ+throughout+all+generations%2C+for+ev.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779783026-UU6VMY7A11XYPY0I8JZ6/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779787098-KJLN93SFCF5NYKZD0TAV/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779790046-A6DFM48JCYCP5YMDQNZY/image-asset.jpeg"]
+images: ["images/d4d2a0f2-Now_to_Him_who_is_able_to_do_immeasurably_more_than_all_we_ask_or_imagine__according_to_his_power_that_is_at_work_within", "images/4d92a2c6-image-asset.png", "images/b241f0a4-image-asset.png", "images/61be28ca-image-asset.jpeg"]
 ---
 # Does God Still Perform Miracles?
 
@@ -15,13 +15,13 @@ Jul 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779783026-UU6VMY7A11XYPY0I8JZ6/image-asset.png)
+![](images/4d92a2c6-image-asset.png)
 
 ---
 
 # Does God Still Perform Miracles?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779787098-KJLN93SFCF5NYKZD0TAV/image-asset.png)
+![](images/b241f0a4-image-asset.png)
 
 There are days you might ask: does God still perform miracles?
 
@@ -39,7 +39,7 @@ There are currently 5.4 million American Indian and Alaska Natives in the United
 
 Need a visual:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779790046-A6DFM48JCYCP5YMDQNZY/image-asset.jpeg)
+![](images/61be28ca-image-asset.jpeg)
 
 At the LCMS Convention in Milwaukee
 

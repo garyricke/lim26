@@ -5,7 +5,7 @@ date: 2020-12-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/why-are-you-here-tuesday-december-15-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aeba5a838c478cd227fc/1748628700852/tumblr_oxek4t1ZTX1uh8gz5o1_1280.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773245270-A2HUJ1E8FYOYJZBFYWGB/image-asset.png"]
+images: ["images/4c2f6a93-tumblr_oxek4t1ZTX1uh8gz5o1_1280.png", "images/e97e0271-image-asset.png"]
 ---
 # Why are you here? - Tuesday, December 15 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773245270-A2HUJ1E8FYOYJZBFYWGB/image-asset.png)
+![](images/e97e0271-image-asset.png)
 
 ## For what is our hope, our joy, or the crown in which we will glory in the presence of our Lord Jesus Christ when he comes? Is it not you? Indeed, you are our glory and joy! [1 Thessalonians 2:19-20](https://my.bible.com/bible/111/1TH.2.19-20)
 

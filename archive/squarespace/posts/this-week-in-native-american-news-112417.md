@@ -5,7 +5,7 @@ date: 2017-11-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-112417
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be54d2ce18469942788d/1748628700852/a46005d91db1760e1e5528f6e9ff6862.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777237394-4AE10S9RL76SDEHG12TE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777238611-T0B63VXQY7JIJDTT319L/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777239793-53ZRU9D9LOFPLED5V29F/image-asset.jpeg"]
+images: ["images/fe61945e-a46005d91db1760e1e5528f6e9ff6862.jpg", "images/752543a7-image-asset.jpeg", "images/953e7b81-image-asset.jpeg", "images/a2fed854-image-asset.jpeg"]
 ---
 # This Week in Native American News (11/24/17): Suicide Conference, Entrepreneur Program, and a Christmas List
 
@@ -13,7 +13,7 @@ Nov 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777237394-4AE10S9RL76SDEHG12TE/image-asset.jpeg)
+![](images/752543a7-image-asset.jpeg)
 
 # November 24, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Zero Suicide Academy
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777238611-T0B63VXQY7JIJDTT319L/image-asset.jpeg)
+![](images/953e7b81-image-asset.jpeg)
 
 Governor Steve Bullock said he often feels like the ‘consoler in chief' when he addressed the [Zero Suicide Academy conference](http://zerosuicide.sprc.org/zero-suicide-academy) in Helena this fall because he’s attended so many funerals of people who've chosen to end their own lives.
 
@@ -39,7 +39,7 @@ The goal is to share ideas people can take back and put to use in their own comm
 
 ## Native American Entrepreneur Program Expanded
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777239793-53ZRU9D9LOFPLED5V29F/image-asset.jpeg)
+![](images/a2fed854-image-asset.jpeg)
 
 Photo from article
 

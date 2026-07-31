@@ -5,7 +5,7 @@ date: 2016-11-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/who-do-we-obey
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4e5cfaa51222aa2c28f/1748628700852/109803-Oswald-Chambers-Quote-If-we-obey-God-it-is-going-to-cost-other.jpg"]
+images: ["images/5df011c4-109803-Oswald-Chambers-Quote-If-we-obey-God-it-is-going-to-cost-other.jpg"]
 ---
 # Who Do We Obey?
 

@@ -5,7 +5,7 @@ date: 2017-12-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/birth-cry-advent-sunday-december-10
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be2135c9066700e17115/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777186245-2ENDP5SJKVKZCDTC1QTH/image-asset.png"]
+images: ["images/23bc05a4-Advent__1_.png", "images/d3f10898-image-asset.png"]
 ---
 # Birthing Cry (Advent) - Sunday, December 10
 
@@ -15,7 +15,7 @@ Dec 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777186245-2ENDP5SJKVKZCDTC1QTH/image-asset.png)
+![](images/d3f10898-image-asset.png)
 
 ### **Birthing Cry - Sunday, December 10**
 

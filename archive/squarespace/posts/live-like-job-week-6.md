@@ -5,7 +5,7 @@ date: 2018-06-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/live-like-job-week-6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8af046d523415ced12f/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775792044-10P2SD3ER5RIBRJN93YD/image-asset.jpeg"]
+images: ["images/1e3e1c65-1748628700852", "images/21d10edb-image-asset.jpeg"]
 ---
 # Live Like Job - Week 6 (Monday Morning Devotion)
 
@@ -15,7 +15,7 @@ Jun 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775792044-10P2SD3ER5RIBRJN93YD/image-asset.jpeg)
+![](images/21d10edb-image-asset.jpeg)
 
 This series, written by Pastor Ricky Jacob, who is serving the Winnebago people of Nebraska, looks at the story of Job and helps us discover how to live a life of faith like him.
 

@@ -5,7 +5,7 @@ date: 2014-08-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/kansaslhaskell-light-campus-ministry/milestone-reached
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd7649d16f542ef948cf/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785208194-IRFLDEASNV9RIE8TFFGA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785210697-NNBG805QFVRAO7G6Q0U0/image-asset.jpeg"]
+images: ["images/6796b697-1748628700852", "images/8f607466-image-asset.jpeg", "images/6b2bcd0a-image-asset.jpeg"]
 ---
 # A Milestone is Reached
 
@@ -15,7 +15,7 @@ Aug 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785208194-IRFLDEASNV9RIE8TFFGA/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4436a/1451491776563/WillPatricia_and_studentswApachetriballeaders-for-web.jpg?format=original)
+[![](images/8f607466-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4436a/1451491776563/WillPatricia_and_studentswApachetriballeaders-for-web.jpg?format=original)
 
 WillPatricia\_and\_studentswApachetriballeaders-for-web
 
@@ -39,7 +39,7 @@ My most favorite part of the trip was helping an elderly couple with yard work. 
 **Tsanavi Spoonhunter *(Arapaho/Paiute)***
 I want to begin by thanking God, my Creator, and Jesus, for the opportunity to visit the Native people on the White Mountain Apache Reservation.
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785210697-NNBG805QFVRAO7G6Q0U0/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4436c/1451491776566/Tsanavi-w-Apache-students-March-2014.jpg?format=original)
+[![](images/6b2bcd0a-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4436c/1451491776566/Tsanavi-w-Apache-students-March-2014.jpg?format=original)
 
 Tsanavi w Apache students March 2014
 

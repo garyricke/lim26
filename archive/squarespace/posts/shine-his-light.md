@@ -5,7 +5,7 @@ date: 2020-12-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/shine-his-light
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aeb309a0b66f51eef7df/1748628700852/Copy+of+SHINE+THE+LIGHT.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773236888-ZW7B848HPPEO4W73R0W6/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/9b53a856-Copy_of_SHINE_THE_LIGHT.png", "images/014bfe62-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Shine His Light
 
@@ -13,7 +13,7 @@ Dec 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773236888-ZW7B848HPPEO4W73R0W6/image-asset.png)
+![](images/014bfe62-image-asset.png)
 
 Some 2,000 years ago, God sent his Son. He became man to shine His light into a dark and hurting world.
 
@@ -45,7 +45,7 @@ Interim Executive Director
 
 ### P. S. There is an excitement that comes with a baby’s birth. Similarly, there is an enthusiasm in each of us as we begin a new year. Please give generously this Christmas season, as you are able, to help reach more Native peoples with the Good News of God’s unfailing love in 2021. Thank you!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

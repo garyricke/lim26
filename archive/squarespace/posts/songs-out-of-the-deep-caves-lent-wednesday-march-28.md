@@ -5,7 +5,7 @@ date: 2018-03-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/songs-out-of-the-deep-caves-lent-wednesday-march-28
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbbbe0445c470a22a406/1748628700852/ab89b4efa1002d1f2b4f35d560cf65e0.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776572292-0XS1WKVDZ4FHFG72GE3M/image-asset.png"]
+images: ["images/1690daaa-ab89b4efa1002d1f2b4f35d560cf65e0.jpg", "images/42f17d5a-image-asset.png"]
 ---
 # Songs Out of the Deep Caves (Lent) - Wednesday, March 28
 
@@ -15,7 +15,7 @@ Mar 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776572292-0XS1WKVDZ4FHFG72GE3M/image-asset.png)
+![](images/42f17d5a-image-asset.png)
 
 ### "When my spirit grows faint within me, it is you who know my way…  You are my refuge, my portion in the land of the living…  Listen to my cry for I am in desperate need." [Psalm 142:3, 5-6 (NIV)](https://www.bible.com/bible/111/PSA.142.5-6)
 

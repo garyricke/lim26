@@ -5,7 +5,7 @@ date: 2016-03-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-good-news-of-freedom-matthew-287
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf1db509130ab9e5baa1/1748628700852/tipis+with+logo.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781537265-3HZ9EOFK3X5VXYPU64TU/image-asset.jpeg"]
+images: ["images/29118ee4-tipis_with_logo.jpg", "images/64174bcd-image-asset.jpeg"]
 ---
 # The Good News of Freedom! - Matthew 28:7
 
@@ -15,7 +15,7 @@ Mar 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781537265-3HZ9EOFK3X5VXYPU64TU/image-asset.jpeg)
+![](images/64174bcd-image-asset.jpeg)
 
 **Easter** **Sunday** **March 27**
 

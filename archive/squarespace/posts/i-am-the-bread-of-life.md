@@ -5,7 +5,7 @@ date: 2022-04-07
 author: "Robert Heffle · Lutheran Indian Ministries"
 original_url: https://www.lutheranindianministries.org/reflections/i-am-the-bread-of-life
 section: reflections
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/625d6203836bd263cfcd538e/1654896578237/stock-bread-loaf-cross.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1648477397616-0H7R9C4Z7E37ZBDPR11U/newsletter-image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649674522260-BQ3S8N93K7LJR4HE68EQ/stock-prayer-hands-touching.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649678089238-TNFFYM3II0T8ASWZFRXJ/stock-fireman-carrying-girl.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649678984980-11QDUE1658D7D71GAUDA/auth-cree-fancy-dancer.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649686587330-O3L82OPIDQH3PWQWW9UG/stock-people-native-american-prayer.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649687512987-GAMLJQ0WHLJI5WQ6ZK50/stock-cross-carved-faces-blue-sky.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649689186147-7YJPQ2L6YLQ7G189Q3RL/stock-hand-heart-reverse.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649692947024-9VR5TCUOTPV6DOAQ5W5A/auth-people-miss-navajo-reversed.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649694901691-WZ8QRGIDAN1OVNPJ71IF/me-myself-and-i.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650282931111-TZG3SSHUW5N9ZKMHFBUQ/auth-girls-holding-hands.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650287209449-HGQ1N6TRZ9NZ1ZS8GG0M/stock-bread-loaf-cross.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650287643945-ZZ9TUE7CLGKSYSLCZ821/stock-bread-loaf-cross.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650288575624-48EAXX39Y4A9JNR5H71H/thing-bucket-water.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650289369893-WW23OKU3GFT4J3T0FESD/thing-fruit-kiwi-heart.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650290437177-G675A2FG0SZNOZ914JGU/thing-hands-dirt-prayer.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650893373230-N7CG2WURWPSKLI09RMZB/place-tipi-sunrise.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650896125821-8G59MKR2JHEELP92V8M6/stock-prayer-woman.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650901392789-DEMATZW6I59J9D10O3PH/stock-sunset-cross.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650905272112-N01YSTJLOTGWAIYMH1NU/auth-woman-river-2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1654898675054-I0R9YDB5H20X0LC0RQ2G/auth-girl-on-tree-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665421220222-HZYUI6ROLZJ91YSSA7DB/thumb-bev-intro.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1685464946942-7EBHYTZ6D99E3LXHJZ1X/sherri-1-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688737787630-9N1LRIRPTXOJQFP0H2SG/bev-2-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743142041-XO071JLZ2FN5XCKNF8G2/bev-3-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743701783-RBUDWPGAMIB0EZT7JUWV/bev-4-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743908990-OXA5AVJHRTBJFPP0J6V9/bev-5-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1693947483628-84Z5SDVPUSCC6PBI2EXI/katherine-gottlieb-his-hands-upon-me-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1711399385400-CDYL1Y4MC4034M0U0ZC4/blog-copper-center-blog-image-0.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1768347064201-48KIH6XTDVWXE4JNKDHE/pastor-tony-hero-wide-trees.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1770071883558-S0QS8CUQM3W22CDZMNQ0/ChatGPT+Image+Feb+2%2C+2026%2C+04_36_46+PM.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1771261250836-YMNEUOXY69GIU9JC0WMJ/pastor-tony-5th-graders-question-hero-wide.jpg"]
+images: ["images/715d28dc-stock-bread-loaf-cross.jpg", "images/15c0067c-newsletter-image.jpg", "images/145e7fa5-stock-prayer-hands-touching.jpg", "images/95b7e455-stock-fireman-carrying-girl.jpg", "images/c5411f39-auth-cree-fancy-dancer.jpg", "images/1fa4778f-stock-people-native-american-prayer.jpg", "images/b837061d-stock-cross-carved-faces-blue-sky.jpg", "images/760a3e66-stock-hand-heart-reverse.jpg", "images/58ed491a-auth-people-miss-navajo-reversed.jpg", "images/c6ccf032-me-myself-and-i.jpg", "images/baa75669-auth-girls-holding-hands.jpg", "images/12e35b48-stock-bread-loaf-cross.jpg", "images/127c33f9-stock-bread-loaf-cross.jpg", "images/56bddd8b-thing-bucket-water.jpg", "images/21fa650c-thing-fruit-kiwi-heart.jpg", "images/8a33f286-thing-hands-dirt-prayer.jpg", "images/45258466-place-tipi-sunrise.jpg", "images/94dc3ec3-stock-prayer-woman.jpg", "images/472a5b7b-stock-sunset-cross.jpg", "images/e5e9a097-auth-woman-river-2.jpg", "images/f505fa90-auth-girl-on-tree-3.jpg", "images/cf38e668-thumb-bev-intro.jpg", "images/c746cea0-sherri-1-thumb.jpg", "images/a1c9bf22-bev-2-thumb.jpg", "images/5cfead28-bev-3-thumb.jpg", "images/6a2c2615-bev-4-thumb.jpg", "images/04817a70-bev-5-thumb.jpg", "images/32c9499f-katherine-gottlieb-his-hands-upon-me-thumb.jpg", "images/f9b0be46-blog-copper-center-blog-image-0.jpeg", "images/24167cf0-pastor-tony-hero-wide-trees.jpg", "images/8a1ae50b-ChatGPT_Image_Feb_2__2026__04_36_46_PM.jpg", "images/5b9644f3-pastor-tony-5th-graders-question-hero-wide.jpg"]
 ---
 # I am the bread of life
 
@@ -39,7 +39,7 @@ That is what Jesus is offering you today.
 
 You see, Jesus referred to himself as bread. Jesus had just fed 5,000 men, plus women and children. Then He gave this “I am” statement:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650287643945-ZZ9TUE7CLGKSYSLCZ821/stock-bread-loaf-cross.jpg)
+![](images/127c33f9-stock-bread-loaf-cross.jpg)
 
 > I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty. But as I told you, you have seen me and still you do not believe. All those the Father gives me will come to me, and whoever comes to me I will never drive away.
 
@@ -71,123 +71,123 @@ Thank you!
 
 See Also
 
-[![A 5th Grader's Big Question](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1771261250836-YMNEUOXY69GIU9JC0WMJ/pastor-tony-5th-graders-question-hero-wide.jpg)](/reflections/gods-kindness-re65y)
+[![A 5th Grader's Big Question](images/5b9644f3-pastor-tony-5th-graders-question-hero-wide.jpg)](/reflections/gods-kindness-re65y)
 
 [A 5th Grader's Big Question](/reflections/gods-kindness-re65y)
 
-[![God’s Kindness in the Dead-Still Season](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1770071883558-S0QS8CUQM3W22CDZMNQ0/ChatGPT+Image+Feb+2%2C+2026%2C+04_36_46+PM.jpg)](/reflections/gods-kindness)
+[![God’s Kindness in the Dead-Still Season](images/8a1ae50b-ChatGPT_Image_Feb_2__2026__04_36_46_PM.jpg)](/reflections/gods-kindness)
 
 [God’s Kindness in the Dead-Still Season](/reflections/gods-kindness)
 
-[![Living in God's Perfect Plan: A Message from the Trees](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1768347064201-48KIH6XTDVWXE4JNKDHE/pastor-tony-hero-wide-trees.jpg)](/reflections/a-message-from-the-trees)
+[![Living in God's Perfect Plan: A Message from the Trees](images/24167cf0-pastor-tony-hero-wide-trees.jpg)](/reflections/a-message-from-the-trees)
 
 [Living in God's Perfect Plan: A Message from the Trees](/reflections/a-message-from-the-trees)
 
-[![Community Healing Through Scripture: A Journey in Copper Center, Alaska](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1711399385400-CDYL1Y4MC4034M0U0ZC4/blog-copper-center-blog-image-0.jpeg)](/reflections/community-healing-through-scripture-a-journey-in-copper-center)
+[![Community Healing Through Scripture: A Journey in Copper Center, Alaska](images/f9b0be46-blog-copper-center-blog-image-0.jpeg)](/reflections/community-healing-through-scripture-a-journey-in-copper-center)
 
 [Community Healing Through Scripture: A Journey in Copper Center, Alaska](/reflections/community-healing-through-scripture-a-journey-in-copper-center)
 
-[![Event: Katherine Gottlieb: “His Hands Upon Me”](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1693947483628-84Z5SDVPUSCC6PBI2EXI/katherine-gottlieb-his-hands-upon-me-thumb.jpg)](/reflections/katherine-gottlieb-his-hands-upon-me)
+[![Event: Katherine Gottlieb: “His Hands Upon Me”](images/32c9499f-katherine-gottlieb-his-hands-upon-me-thumb.jpg)](/reflections/katherine-gottlieb-his-hands-upon-me)
 
 [Event: Katherine Gottlieb: “His Hands Upon Me”](/reflections/katherine-gottlieb-his-hands-upon-me)
 
-[![Faith as Small as a Mustard Seed: Sheri's Path to Healing and Transformation](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1685464946942-7EBHYTZ6D99E3LXHJZ1X/sherri-1-thumb.jpg)](/reflections/sheri)
+[![Faith as Small as a Mustard Seed: Sheri's Path to Healing and Transformation](images/c746cea0-sherri-1-thumb.jpg)](/reflections/sheri)
 
 [Faith as Small as a Mustard Seed: Sheri's Path to Healing and Transformation](/reflections/sheri)
 
-[![HOW TO START A JOURNEY TOWARDS RECOVERY](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743908990-OXA5AVJHRTBJFPP0J6V9/bev-5-thumb.jpg)](/reflections/bev#part-5:-how-to-start-a-journey-towards-recovery)
+[![HOW TO START A JOURNEY TOWARDS RECOVERY](images/04817a70-bev-5-thumb.jpg)](/reflections/bev#part-5:-how-to-start-a-journey-towards-recovery)
 
 [HOW TO START A JOURNEY TOWARDS RECOVERY](/reflections/bev#part-5:-how-to-start-a-journey-towards-recovery)
 
-[![ALL MY 28 YEARS OF BEING A DRUNK, I NEVER STOPPED PRAYING](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743701783-RBUDWPGAMIB0EZT7JUWV/bev-4-thumb.jpg)](/reflections/bev#part-4:-all-my-28-years-of-being-a-drunk,-i-never-stopped-praying)
+[![ALL MY 28 YEARS OF BEING A DRUNK, I NEVER STOPPED PRAYING](images/6a2c2615-bev-4-thumb.jpg)](/reflections/bev#part-4:-all-my-28-years-of-being-a-drunk,-i-never-stopped-praying)
 
 [ALL MY 28 YEARS OF BEING A DRUNK, I NEVER STOPPED PRAYING](/reflections/bev#part-4:-all-my-28-years-of-being-a-drunk,-i-never-stopped-praying)
 
-[![HOW GOD, MORE THAN TREATMENT HELPED ME AS AN ALCOHOLIC](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688743142041-XO071JLZ2FN5XCKNF8G2/bev-3-thumb.jpg)](/reflections/bev#part-3:-how-god,-more-than-treatment-helped-me-as-an-alcoholic)
+[![HOW GOD, MORE THAN TREATMENT HELPED ME AS AN ALCOHOLIC](images/5cfead28-bev-3-thumb.jpg)](/reflections/bev#part-3:-how-god,-more-than-treatment-helped-me-as-an-alcoholic)
 
 [HOW GOD, MORE THAN TREATMENT HELPED ME AS AN ALCOHOLIC](/reflections/bev#part-3:-how-god,-more-than-treatment-helped-me-as-an-alcoholic)
 
-[![What You Can Do if You Feel You Don’t Have Value](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1688737787630-9N1LRIRPTXOJQFP0H2SG/bev-2-thumb.jpg)](/reflections/bev#part-2:-what-you-can-do-if-you-feel-you-don’t-have-value.)
+[![What You Can Do if You Feel You Don’t Have Value](images/a1c9bf22-bev-2-thumb.jpg)](/reflections/bev#part-2:-what-you-can-do-if-you-feel-you-don’t-have-value.)
 
 [What You Can Do if You Feel You Don’t Have Value](/reflections/bev#part-2:-what-you-can-do-if-you-feel-you-don’t-have-value.)
 
-[![Discovering My True Identity in Christ: A Journey of Recovery and Personal Growth](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665421220222-HZYUI6ROLZJ91YSSA7DB/thumb-bev-intro.jpg)](/reflections/bev)
+[![Discovering My True Identity in Christ: A Journey of Recovery and Personal Growth](images/cf38e668-thumb-bev-intro.jpg)](/reflections/bev)
 
 [Discovering My True Identity in Christ: A Journey of Recovery and Personal Growth](/reflections/bev)
 
-[![Baptism: Special Delivery](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650905272112-N01YSTJLOTGWAIYMH1NU/auth-woman-river-2.jpg)](/reflections/baptism-special-delivery)
+[![Baptism: Special Delivery](images/e5e9a097-auth-woman-river-2.jpg)](/reflections/baptism-special-delivery)
 
 [Baptism: Special Delivery](/reflections/baptism-special-delivery)
 
-[![I Know My Redeemer Lives](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650901392789-DEMATZW6I59J9D10O3PH/stock-sunset-cross.jpg)](/reflections/redeemer)
+[![I Know My Redeemer Lives](images/472a5b7b-stock-sunset-cross.jpg)](/reflections/redeemer)
 
 [I Know My Redeemer Lives](/reflections/redeemer)
 
-[![The Power of Prayer](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650896125821-8G59MKR2JHEELP92V8M6/stock-prayer-woman.jpg)](/reflections/the-power-of-prayer)
+[![The Power of Prayer](images/94dc3ec3-stock-prayer-woman.jpg)](/reflections/the-power-of-prayer)
 
 [The Power of Prayer](/reflections/the-power-of-prayer)
 
-[![Spiritual Guidelines](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650893373230-N7CG2WURWPSKLI09RMZB/place-tipi-sunrise.jpg)](/reflections/spiritual-guidelines)
+[![Spiritual Guidelines](images/45258466-place-tipi-sunrise.jpg)](/reflections/spiritual-guidelines)
 
 [Spiritual Guidelines](/reflections/spiritual-guidelines)
 
-[![Oh God, Our Hope](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650282931111-TZG3SSHUW5N9ZKMHFBUQ/auth-girls-holding-hands.jpg)](/reflections/our-god-our-hope)
+[![Oh God, Our Hope](images/baa75669-auth-girls-holding-hands.jpg)](/reflections/our-god-our-hope)
 
 [Oh God, Our Hope](/reflections/our-god-our-hope)
 
-[![It's Time for Dangerous Prayers](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649674522260-BQ3S8N93K7LJR4HE68EQ/stock-prayer-hands-touching.jpg)](/reflections/its-time-for-dangerous-prayers)
+[![It's Time for Dangerous Prayers](images/145e7fa5-stock-prayer-hands-touching.jpg)](/reflections/its-time-for-dangerous-prayers)
 
 [It's Time for Dangerous Prayers](/reflections/its-time-for-dangerous-prayers)
 
-[![Living By Faith: Heroes](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649678089238-TNFFYM3II0T8ASWZFRXJ/stock-fireman-carrying-girl.jpg)](/reflections/living-by-faith-heros)
+[![Living By Faith: Heroes](images/95b7e455-stock-fireman-carrying-girl.jpg)](/reflections/living-by-faith-heros)
 
 [Living By Faith: Heroes](/reflections/living-by-faith-heros)
 
-[![The Making of Spiritual Warrior](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649678984980-11QDUE1658D7D71GAUDA/auth-cree-fancy-dancer.jpg)](/reflections/making-of-a-spiritual-warrior)
+[![The Making of Spiritual Warrior](images/c5411f39-auth-cree-fancy-dancer.jpg)](/reflections/making-of-a-spiritual-warrior)
 
 [The Making of Spiritual Warrior](/reflections/making-of-a-spiritual-warrior)
 
-[![What is hope?](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1654898675054-I0R9YDB5H20X0LC0RQ2G/auth-girl-on-tree-3.jpg)](/reflections/what-is-hope)
+[![What is hope?](images/f505fa90-auth-girl-on-tree-3.jpg)](/reflections/what-is-hope)
 
 [What is hope?](/reflections/what-is-hope)
 
-[![A Heart for Natives: Faith for the Reservations](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649686587330-O3L82OPIDQH3PWQWW9UG/stock-people-native-american-prayer.jpg)](/reflections/a-heart-for-natives)
+[![A Heart for Natives: Faith for the Reservations](images/1fa4778f-stock-people-native-american-prayer.jpg)](/reflections/a-heart-for-natives)
 
 [A Heart for Natives: Faith for the Reservations](/reflections/a-heart-for-natives)
 
-[![Discovering a New You by Discovering Jesus](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649687512987-GAMLJQ0WHLJI5WQ6ZK50/stock-cross-carved-faces-blue-sky.jpg)](/reflections/discovering-a-new-you-through-jesus)
+[![Discovering a New You by Discovering Jesus](images/b837061d-stock-cross-carved-faces-blue-sky.jpg)](/reflections/discovering-a-new-you-through-jesus)
 
 [Discovering a New You by Discovering Jesus](/reflections/discovering-a-new-you-through-jesus)
 
-[![Hallowed Be Thy Name: Spiritual Warriors Prayer](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649692947024-9VR5TCUOTPV6DOAQ5W5A/auth-people-miss-navajo-reversed.jpg)](/reflections/hallowed-be-thy-name)
+[![Hallowed Be Thy Name: Spiritual Warriors Prayer](images/58ed491a-auth-people-miss-navajo-reversed.jpg)](/reflections/hallowed-be-thy-name)
 
 [Hallowed Be Thy Name: Spiritual Warriors Prayer](/reflections/hallowed-be-thy-name)
 
-[![Sacred Mysteries](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1648477397616-0H7R9C4Z7E37ZBDPR11U/newsletter-image.jpg)](/reflections/sacred-mysteries)
+[![Sacred Mysteries](images/15c0067c-newsletter-image.jpg)](/reflections/sacred-mysteries)
 
 [Sacred Mysteries](/reflections/sacred-mysteries)
 
-[![We give because He gave](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649689186147-7YJPQ2L6YLQ7G189Q3RL/stock-hand-heart-reverse.jpg)](/reflections/we-give-because-he-gave)
+[![We give because He gave](images/760a3e66-stock-hand-heart-reverse.jpg)](/reflections/we-give-because-he-gave)
 
 [We give because He gave](/reflections/we-give-because-he-gave)
 
-[![Me, Myself, &amp; I. The Unholy trinity](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649694901691-WZ8QRGIDAN1OVNPJ71IF/me-myself-and-i.jpg)](/reflections/me-myself-and-i)
+[![Me, Myself, &amp; I. The Unholy trinity](images/c6ccf032-me-myself-and-i.jpg)](/reflections/me-myself-and-i)
 
 [Me, Myself, & I. The Unholy trinity](/reflections/me-myself-and-i)
 
-[![I am the bread of life](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650287209449-HGQ1N6TRZ9NZ1ZS8GG0M/stock-bread-loaf-cross.jpg)](/reflections/i-am-the-bread-of-life)
+[![I am the bread of life](images/12e35b48-stock-bread-loaf-cross.jpg)](/reflections/i-am-the-bread-of-life)
 
 [I am the bread of life](/reflections/i-am-the-bread-of-life)
 
-[![Encountering Jesus' Heart](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650288575624-48EAXX39Y4A9JNR5H71H/thing-bucket-water.jpg)](/reflections/encountering-jesus-heart)
+[![Encountering Jesus' Heart](images/56bddd8b-thing-bucket-water.jpg)](/reflections/encountering-jesus-heart)
 
 [Encountering Jesus' Heart](/reflections/encountering-jesus-heart)
 
-[![Love: A study on the fruit of the spirit](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650289369893-WW23OKU3GFT4J3T0FESD/thing-fruit-kiwi-heart.jpg)](/reflections/love-a-study-on-the-fruit-of-the-spirit)
+[![Love: A study on the fruit of the spirit](images/21fa650c-thing-fruit-kiwi-heart.jpg)](/reflections/love-a-study-on-the-fruit-of-the-spirit)
 
 [Love: A study on the fruit of the spirit](/reflections/love-a-study-on-the-fruit-of-the-spirit)
 
-[![Live like Job](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650290437177-G675A2FG0SZNOZ914JGU/thing-hands-dirt-prayer.jpg)](/reflections/live-like-job)
+[![Live like Job](images/8a33f286-thing-hands-dirt-prayer.jpg)](/reflections/live-like-job)
 
 [Live like Job](/reflections/live-like-job)
 

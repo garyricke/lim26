@@ -5,7 +5,7 @@ date: 2016-08-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/i-am-not-god-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5fc43af6e48c31b1d15/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779197741-EHRKGKX9SJERAROYR6TG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779199559-KYF59V2JG43HMZSTNUI7/image-asset.jpeg"]
+images: ["images/74755ae7-1748628700852", "images/eb7223ff-image-asset.jpeg", "images/1926a86f-image-asset.jpeg"]
 ---
 # I am not God - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Aug 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779197741-EHRKGKX9SJERAROYR6TG/image-asset.jpeg)
+![](images/eb7223ff-image-asset.jpeg)
 
 # I am not God
 
@@ -51,7 +51,7 @@ P.S. The song that prompted this epiphany: [Laura Story's "So I Can Just Be Me"]
 
 [Get Devotions in your inbox](http://eepurl.com/urL8f)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779199559-KYF59V2JG43HMZSTNUI7/image-asset.jpeg)](/tribe)
+[![](images/1926a86f-image-asset.jpeg)](/tribe)
 
 [devotion](/news-notes/tag/devotion)
 

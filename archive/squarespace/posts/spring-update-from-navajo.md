@@ -5,7 +5,7 @@ date: 2018-05-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/spring-update-from-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8d909a0b66f51f0e242/1748628700852/confirm.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775835068-ZTQRWSINDX6HJKE1FB1J/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775837074-2DARVYQJFR0FS93AWDGB/image-asset.jpeg"]
+images: ["images/30588c02-confirm.jpg", "images/e441adb8-image-asset.jpeg", "images/cf2ee2f8-image-asset.jpeg"]
 ---
 # Spring Update from Navajo
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 Although the month of May is still spring, it starts to feel like summer on the Navajo Nation because of high school graduations, and end of school. While confirmation is not graduation, it has often taken place in the spring.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775835068-ZTQRWSINDX6HJKE1FB1J/image-asset.jpeg)
+![](images/e441adb8-image-asset.jpeg)
 
 This year we baptized and confirmed three students the first Sunday of May. There really is nothing better in the work of the Kingdom than to see God claim a child as His own through the waters of Holy Baptism. It was also wonderful to hear the students give witness to their faith, in a public confession and a speech.
 
@@ -25,7 +25,7 @@ Besides our main focus of proclaiming and discipling, we have also been blessed 
 
 Vernon Abbot from Tulsa, OK, who volunteered last year returned this year and refurbished the bathroom in our guesthouse.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775837074-2DARVYQJFR0FS93AWDGB/image-asset.jpeg)
+![](images/cf2ee2f8-image-asset.jpeg)
 
 Sam Kim and his family (wife Sejung, and children, Song & Caleb) came for a long weekend in March and went on a hike with the children from our church, including some visitors. Sam has visited twice previously with a group from Our Savior’s Lutheran Church from Topsfield, Massachusetts.
 

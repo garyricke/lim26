@@ -5,7 +5,7 @@ date: 2017-06-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-63017
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfe98eead250d7bc2699/1748628700852/alexander-angnaluak.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777641703-FDXPAWS71NVOCU27AYVR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777642895-FDFNSQPSBNKEXU9L1SY7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777643977-4Q4P3WY0BB1B1IICJS4F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777645085-7M5VQPHIN96GMOXJSHAP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777646333-O5C1IIJ51XND7GB1MNOG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777647012-2R924NJAK9KTT8DX8AP6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777648109-BR4MYIDV208YYNVOPGSH/image-asset.jpeg"]
+images: ["images/4a7709c0-alexander-angnaluak.jpg", "images/376b6f68-image-asset.jpeg", "images/14abe555-image-asset.jpeg", "images/0609619d-image-asset.jpeg", "images/a81f138f-image-asset.jpeg", "images/25da2a1f-image-asset.jpeg", "images/2c155382-image-asset.jpeg", "images/0222460e-image-asset.jpeg"]
 ---
 # This Week in Native American News (6/30/17): tattooed skateboards, barrel trains, and interactive maps
 
@@ -13,7 +13,7 @@ Jun 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777641703-FDXPAWS71NVOCU27AYVR/image-asset.jpeg)
+![](images/376b6f68-image-asset.jpeg)
 
 # June 30, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Returning to Land
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777642895-FDFNSQPSBNKEXU9L1SY7/image-asset.jpeg)
+![](images/14abe555-image-asset.jpeg)
 
 For some Kalihi residents, the two-acre stretch of land tucked down a small road off School Street is an ideal place to crack open a Heineken and unwind after work.  But most people on Oahu have likely never heard of Loi Kalo Mini Park.
 
@@ -43,7 +43,7 @@ For many Hawaiians, growing taro is still a part of life.
 
 ## A New Take on Traditional Art
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777643977-4Q4P3WY0BB1B1IICJS4F/image-asset.jpeg)
+![](images/0609619d-image-asset.jpeg)
 
 Art isn’t just portrayed on a canvas or through sculpture. It is music, dance, poetry. All too often we think of art as something that belongs in a museum. But for Landis Bahe and Duane Koyawena, it is so much more than that. Art is a way to bring together the past and the present while also bridging gaps between cultures.
 
@@ -53,7 +53,7 @@ Keeping this in mind, Bahe and Koyawena came up with a new idea for an art show,
 
 ### [Read the full story here](http://azdailysun.com/flaglive/cover_story/what-s-old-is-new-native-artists-shed-a-new/article_0dbbbe1d-be48-55ee-9f50-5a91a53e68fe.html)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777645085-7M5VQPHIN96GMOXJSHAP/image-asset.jpeg)
+![](images/a81f138f-image-asset.jpeg)
 
 Also on the art scene, Nunavut man wins national contest with his "How the Narwhal Came to Be" drawing.
 
@@ -63,7 +63,7 @@ Also on the art scene, Nunavut man wins national contest with his "How the Narwh
 
 ## Native Students Learn STEM Through Traditional Crafts
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777646333-O5C1IIJ51XND7GB1MNOG/image-asset.jpeg)
+![](images/25da2a1f-image-asset.jpeg)
 
 Northern Michigan University hosted a "Reimagine STEM Summer Youth Academy."
 
@@ -77,13 +77,13 @@ The goal of this two week academy is to help address the lack of Native American
 
 ## In other education News:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777647012-2R924NJAK9KTT8DX8AP6/image-asset.jpeg)
+![](images/2c155382-image-asset.jpeg)
 
 Australian Aboriginal children ride the barrel train to school, in an effort to encourage attendance and get kids excited about going to school each morning.
 
 ### [Read More](http://www.abc.net.au/news/2017-06-28/punmu-students-use-barrel-train-to-travel-to-school/8660878)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777648109-BR4MYIDV208YYNVOPGSH/image-asset.jpeg)
+![](images/0222460e-image-asset.jpeg)
 
 The Fort Peck tribes filed a complaint Wednesday against a Montana school district. The complaint against Wolf Point School District in northeastern Montana claims tribal students do not have equal access to education and extra-curricular activities.
 

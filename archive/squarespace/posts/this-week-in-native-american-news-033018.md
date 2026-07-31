@@ -5,7 +5,7 @@ date: 2018-03-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-033018
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbab981ba40c2a9bbaad/1748628700852/C0CB6A57-5557-41A1-9C0BB8FDA57551B6.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776556344-7HXKAXFLRWVK1HC2BQ86/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776557990-DHL279U5BQ95YNXPQE30/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776559970-7FBHYEDO7LL9GH1XBF4H/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776561202-3ZOIDR4GTQVY0DARX6LL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776562685-XAHIB7RMDI0485A1UL39/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776563638-T1P7VYWYLTIQ7ISNWONI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776564498-ORJQ1EM0XKIRHRQHF4E8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776565475-4J0JG4TFEBSM77Q0TX5Q/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776566500-EDHEX4OG6JYCC534N1N2/image-asset.jpeg"]
+images: ["images/5f7e457a-C0CB6A57-5557-41A1-9C0BB8FDA57551B6.png", "images/11ca5e7f-image-asset.jpeg", "images/35e22e4e-image-asset.png", "images/d7469cb9-image-asset.jpeg", "images/4332ec5d-image-asset.jpeg", "images/a6cf7f9c-image-asset.jpeg", "images/bff4dfde-image-asset.jpeg", "images/bb170b82-image-asset.jpeg", "images/33920bd4-image-asset.jpeg", "images/03cd4ef2-image-asset.jpeg"]
 ---
 # This Week in Native American News (3/30/18): protecting tobacco, sweat lodges for PTSD, and #NativeVote18
 
@@ -13,7 +13,7 @@ Mar 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776556344-7HXKAXFLRWVK1HC2BQ86/image-asset.jpeg)
+![](images/11ca5e7f-image-asset.jpeg)
 
 # March 30, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Keeping Tobacco Sacred
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776557990-DHL279U5BQ95YNXPQE30/image-asset.png)
+![](images/35e22e4e-image-asset.png)
 
 Gina Boudreau helps harvest locally-grown tobacco. *Credit: Jean Dakota*
 
@@ -37,7 +37,7 @@ Boudreau hopes to change that. She is helping lead a movement within her tribe, 
 
 ## A Record-Breaking Year Ahead For #NativeVote18 Candidates
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776559970-7FBHYEDO7LL9GH1XBF4H/image-asset.jpeg)
+![](images/d7469cb9-image-asset.jpeg)
 
 Allison Renville, Hunkpapa Lakota, is running for the South Dakota Senate. “I love my community, I’ve journeyed far and across the country but my spirit is here in District 1, South Dakota.” She says she’s running to build on the legacy of Bernie Sanders’ 2016 presidential candidacy. *Campaign Photo*
 
@@ -59,7 +59,7 @@ Several patterns are emerging from the data about candidates for state legislatu
 
 ## Native America Traditions Helping Veterans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776561202-3ZOIDR4GTQVY0DARX6LL/image-asset.jpeg)
+![](images/4332ec5d-image-asset.jpeg)
 
 Blackfeet military veteran and spiritual advisor Roger Vielle during sweat ceremony for Vietnam veterans on the Blackfeet Reservation, Montana, September 2017. Courtesy: Wingspan Media Productions.
 
@@ -81,7 +81,7 @@ Carroll said this was where he experienced his first sweat lodge. "It blew my mi
 
 ## The 2018 Native Fashion in the City Show- Did you miss it?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776562685-XAHIB7RMDI0485A1UL39/image-asset.jpeg)
+![](images/a6cf7f9c-image-asset.jpeg)
 
 Children of the Menominee Nation in Wisconsin in 2008. *Credit: Steven L. Raymer *Getty Images**
 
@@ -93,7 +93,7 @@ Recently, the Five Points neighborhood, in Denver, welcomed the fifth annual [Na
 
 ## Also in Native Fashion...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776563638-T1P7VYWYLTIQ7ISNWONI/image-asset.jpeg)
+![](images/bff4dfde-image-asset.jpeg)
 
 Norma Baker Flying Horse, owner of Red Berry Woman, a fashion designing business at Mandaree on the Fort Berthold Reservation in western North Dakota, has been named the first contemporary Native American fashion designer to have a gown worn at the Oscars.
 
@@ -105,13 +105,13 @@ Alice Brownotter, an activist from the Standing Rock Nation, wore the gown at th
 
 ## Your Weekly History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776564498-ORJQ1EM0XKIRHRQHF4E8/image-asset.jpeg)
+![](images/bb170b82-image-asset.jpeg)
 
 ### [A generation before the Civil Rights Movement gained national attention, the struggle against Jim Crow was being fought…in Alaska. And women were at the forefront of the struggle.](https://daily.jstor.org/alaskas-unique-civil-rights-struggle/)
 
 Modern Alaskans, writes historian Terrence M. Cole, are “surprised and shocked to learn that racial segregation and Jim Crow policies toward Alaska Natives were standard practice throughout much of Alaska” until the mid-1940s. Stores, bars, and restaurants posted “No Natives Allowed.” Movie theaters had “For Natives Only” seating. (Nome’s theater’s balcony was segregated for natives, commonly called “Eskimos,” and designated “Nigger Heaven” by whites.) And, by law and custom, Alaskans attended segregated schools.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776565475-4J0JG4TFEBSM77Q0TX5Q/image-asset.jpeg)
+![](images/33920bd4-image-asset.jpeg)
 
 ### [Another New Mexico Town Seeks Awareness on Atomic Bomb Harm](https://www.usnews.com/news/best-states/new-mexico/articles/2018-03-29/another-new-mexico-town-seeks-awareness-on-trinity-test-harm)
 
@@ -119,7 +119,7 @@ A small, New Mexico railroad town that received a large part of the residue from
 
 Advocates seeking recognition for the harms caused by the World War II-era test are trying to gather stories from residents of the tiny town of Carrizozo, New Mexico, the Alamogordo Daily News reported Tuesday.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776566500-EDHEX4OG6JYCC534N1N2/image-asset.jpeg)
+![](images/03cd4ef2-image-asset.jpeg)
 
 ### [Teepee Etiquette — The Unwritten Law of the Lodge](https://www.artofmanliness.com/2016/08/23/teepee-etiquette/)
 

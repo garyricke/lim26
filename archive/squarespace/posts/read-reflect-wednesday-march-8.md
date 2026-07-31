@@ -5,7 +5,7 @@ date: 2017-03-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-wednesday-march-8
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1c19fbe2f30bcd0a0bb/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778114332-ZBPOQR99BV7X1JBXL8PB/image-asset.png"]
+images: ["images/cd422d07-1748628700852", "images/c730547e-image-asset.png"]
 ---
 # Read & Reflect: Wednesday, March 8
 
@@ -13,7 +13,7 @@ Mar 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778114332-ZBPOQR99BV7X1JBXL8PB/image-asset.png)
+![](images/c730547e-image-asset.png)
 
 ## Read: [Jeremiah 17:5-8](https://www.bible.com/bible/111/jer.17.5-8), [Psalm 1:1-3](https://www.bible.com/bible/111/psa.1.1-3), [1 Corinthians 13](https://www.bible.com/bible/111/1co.13)
 

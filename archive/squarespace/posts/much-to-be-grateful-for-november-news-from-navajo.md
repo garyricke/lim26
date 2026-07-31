@@ -5,7 +5,7 @@ date: 2015-12-07
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/new-mexiconavajo/much-to-be-grateful-for-november-news-from-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349d710ccfd4171883e33d4/1665783631792/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665783570002-EG18PY8VU3LQF52IW08S/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665783571985-VYM8G185EXUL27LN9CXN/image-asset.png"]
+images: ["images/96834a63-1665783631792", "images/461e4eb2-image-asset.png", "images/00ab911d-image-asset.png"]
 ---
 # Much to Be Grateful For: November News from Navajo
 
@@ -17,13 +17,13 @@ Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 
 Blessed Fall and Thanksgiving to everyone. As I write this snow is falling outside, so it feels more like winter today. **We are very thankful for the effort of a team from Risen Savior Lutheran Church in Wichita, Kansas, that visited our church in September and repaired our roof.** We had been having water damage for the past two years. This was a very expensive and labor-intensive project, but the group worked hard, and because of Christ’s love they shared with us and blessed us this way. The team from Risen Savior also shared in Bible stories with the children and involved the children in worship. This is the [fourth time they have visited](/news/new-mexiconavajo/serving-gods-mission-among-navajo-2) us at Shepherd of the Valley, a relationship for us to be very grateful for.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665783570002-EG18PY8VU3LQF52IW08S/image-asset.png)
+![](images/461e4eb2-image-asset.png)
 
 Navajo\_NortonNewsletter\_Roof
 
 **We enjoyed visits from two other churches in October: Trinity Lutheran Church in Wahiawa, Hawaii, and St. Paul’s Lutheran Church in Durango, Colorado.** The group from Hawaii was like a mini-family reunion as it included my sister, Marcie Norton, and brother-in-law, [Clarence De Lude III](/hawaii) (also Lutheran Indian Ministries staff). The team led art projects and devotions with families and had meals with our church and community members. Even though most of the team fell ill, it didn’t dampen their spirits and they served with joy through it all and kept going until the end.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665783571985-VYM8G185EXUL27LN9CXN/image-asset.png)
+![](images/00ab911d-image-asset.png)
 
 Navajo\_NortonNewsletter\_Hawaii
 

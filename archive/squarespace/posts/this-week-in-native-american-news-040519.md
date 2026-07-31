@@ -5,7 +5,7 @@ date: 2019-04-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-040519
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3f57abee6574227c682/1748628700852/screenshot-2019-03-27-at-12.48.55.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774582837-SUE0I0KIWQAC189H8UL2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774584459-UZTXII62FM2OTGISRO3P/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774586972-YGA42QLZQ8NZMUEDLZPK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774588272-KIT2EVF3AMU2DL5EVTB0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774590222-GNFCFO01GLIZN1G6I4D1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774591121-KGJXCKIDJY2E4T6R39UG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774592287-47QZ1C2T5JXUW96BB3CI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774594344-9Q69GKFQIBX9O7C2V1XU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774596037-NHOY8LM5P8L1RZJATTD0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774597480-RN77I953JK8ZIA5GXSFB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774599455-8W6W1LDCQVOYNM6GI75S/image-asset.jpeg"]
+images: ["images/8bd6eb48-screenshot-2019-03-27-at-12.48.55.jpg", "images/08728799-image-asset.jpeg", "images/8364878e-image-asset.jpeg", "images/e9d43c72-image-asset.jpeg", "images/64e16dbe-image-asset.jpeg", "images/cd987fe8-image-asset.jpeg", "images/e420598a-image-asset.jpeg", "images/046920de-image-asset.jpeg", "images/875ec0f8-image-asset.jpeg", "images/5cc81c70-image-asset.jpeg", "images/b7b0c668-image-asset.jpeg", "images/3ed6e6c1-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/5/19): Rez Roads, Delayed Art Exhibits, and a Repository for Dead Animals
 
@@ -13,7 +13,7 @@ Apr 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774582837-SUE0I0KIWQAC189H8UL2/image-asset.jpeg)
+![](images/08728799-image-asset.jpeg)
 
 # April 5, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## One of the Largest Native American Tribes Has Just Voted to End Their 100-Year Dependency on Coal
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774584459-UZTXII62FM2OTGISRO3P/image-asset.jpeg)
+![](images/8364878e-image-asset.jpeg)
 
 *Navajo area coal plant*
 
@@ -37,7 +37,7 @@ Since the Navajo Nation is the second largest native tribe in America by populac
 
 ## In Other Navajo News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774586972-YGA42QLZQ8NZMUEDLZPK/image-asset.jpeg)
+![](images/e9d43c72-image-asset.jpeg)
 
 ### [Dire streets: muddied roads and broken promises on the Navajo nation](https://www.theguardian.com/us-news/2019/apr/02/new-mexico-navajo-nation-searchlight-native-american)
 
@@ -45,7 +45,7 @@ Nearly everyone in the Sanostee chapter has a story about Indian service route 5
 
 “During winter or early spring, life really revolves around the condition of the road,” the Sanostee chapter president, Frank Smith, said. “People leave early in the morning when the ground is still frozen, and they can’t come home until it’s frozen again. Sometimes, people can’t leave home for a week at a time, or longer.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774588272-KIT2EVF3AMU2DL5EVTB0/image-asset.jpeg)
+![](images/64e16dbe-image-asset.jpeg)
 
 ### [THE #VANLIFE TOOK ME HOME: LIVING IN A VAN ACROSS THE NAVAJO NATION](https://adventurepro.us/the-vanlife-took-me-home/)
 
@@ -57,7 +57,7 @@ Meet Vernan Kee, a Navajo freelance graphic designer who has been living in his 
 
 ## Task Force to Look Into Child Sexual Abuse in Indian Health Service
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774590222-GNFCFO01GLIZN1G6I4D1/image-asset.jpeg)
+![](images/cd987fe8-image-asset.jpeg)
 
 Last September, Stanley Patrick Weber was convicted of sexually assaulting two boys in Montana. He is appealing the verdict.
 
@@ -73,7 +73,7 @@ The announcement of the task force Tuesday is the latest inquiry into the IHS’
 
 ## Chicago museum cancels exhibition launch over concerns from Native American community
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774591121-KGJXCKIDJY2E4T6R39UG/image-asset.jpeg)
+![](images/e420598a-image-asset.jpeg)
 
 Art Institute of Chicago, Chicago, Illinois. Photo: Education Images/UIG via Getty Images
 
@@ -89,7 +89,7 @@ A “scholars day” was organised by the museum in December, for Native America
 
 ## In Other Art News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774592287-47QZ1C2T5JXUW96BB3CI/image-asset.jpeg)
+![](images/046920de-image-asset.jpeg)
 
 ### [Dream Weaver: Haida elder talks learning and becoming a master weaver](https://www.juneauempire.com/news/dream-weaver-haida-artist-talks-about-what-led-to-her-finding-and-making-art-she-loves/)
 
@@ -101,7 +101,7 @@ After a Sunday screening of “Tracing Roots,” a film about the master Haida
 
 ## Indian Country Today to open newsroom at Arizona State; goal is to create national TV news program
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774594344-9Q69GKFQIBX9O7C2V1XU/image-asset.jpeg)
+![](images/875ec0f8-image-asset.jpeg)
 
 *This summer Indian Country Today will open a newsroom in Phoenix at the Walter Cronkite School at Arizona State University.*
 
@@ -117,7 +117,7 @@ This summer Indian Country Today will open a newsroom in Phoenix at the Walter C
 
 ## In Other Arizona News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774596037-NHOY8LM5P8L1RZJATTD0/image-asset.jpeg)
+![](images/5cc81c70-image-asset.jpeg)
 
 ### [Arizona repository houses dead animals for use by tribes](https://www.dcourier.com/news/2019/apr/01/arizona-repository-houses-dead-animals-use-tribes/)
 
@@ -133,7 +133,7 @@ Agency game managers, researchers and other employees then keep an eye out for t
 
 ## How A Cosmic Collision Sparked A Native American Translator's Labor Of Love
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774597480-RN77I953JK8ZIA5GXSFB/image-asset.jpeg)
+![](images/b7b0c668-image-asset.jpeg)
 
 Scientist Corey Gray and his mother, Sharon Yellowfly, are pictured at one of the two massive detectors that make up the Laser Interferometer Gravitational-Wave Observatory. One facility, where Gray works, is in Washington state, and the other is in Louisiana. (*Courtesy of Russell Barber)*
 
@@ -155,7 +155,7 @@ People from around the world were involved in the discovery. So before it was pu
 
 ## Road Trip To These Sites To Support Indigenous American Communities
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774599455-8W6W1LDCQVOYNM6GI75S/image-asset.jpeg)
+![](images/3ed6e6c1-image-asset.jpeg)
 
 My desire to travel through Indigenous America — to see the significant sites and support the local businesses — started with my dad. You see, when we would road trip across America, we didn’t stop at Waffle Houses or roadside McDonald’s, we stopped off on the Rez — *any* Rez — to give our cash to people there. Instead of grabbing Double-Doubles at another In-N-Out in Utah, we drove the extra miles to eat fry bread from a Navajo shack at Four Corners. I’ve lived that ethos my entire life and have gained a deep cultural identity from it.
 

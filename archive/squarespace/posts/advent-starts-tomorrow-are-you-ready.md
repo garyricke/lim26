@@ -5,7 +5,7 @@ date: 2016-11-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-starts-tomorrow-are-you-ready
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4aacfaa51222aa2be16/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778860667-N6FL39Y7BN7MUWY307FQ/image-asset.png"]
+images: ["images/8916b3ed-2016_Advent_Devotions.png", "images/cbf49c34-image-asset.png"]
 ---
 # Advent Starts Tomorrow - Are you ready?
 
@@ -13,7 +13,7 @@ Nov 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778860667-N6FL39Y7BN7MUWY307FQ/image-asset.png)
+![](images/cbf49c34-image-asset.png)
 
 ## Greetings!
 

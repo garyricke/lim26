@@ -5,7 +5,7 @@ date: 2016-12-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/tinsel-or-truth-december-18-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c44373f8a72aef8632bd/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778757029-5VPKTV4IST1FDANW6ETP/image-asset.png"]
+images: ["images/a5898c57-2016_Advent_Devotions.png", "images/898a918f-image-asset.png"]
 ---
 # Tinsel or Truth?: December 18
 
@@ -15,7 +15,7 @@ Dec 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778757029-5VPKTV4IST1FDANW6ETP/image-asset.png)
+![](images/898a918f-image-asset.png)
 
 ## For unto you is born this day in the city of David a Savior, who is Christ the Lord. Luke 2:11 (ESV)
 

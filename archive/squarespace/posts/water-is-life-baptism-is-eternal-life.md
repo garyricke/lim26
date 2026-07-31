@@ -5,7 +5,7 @@ date: 2017-03-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/water-is-life-baptism-is-eternal-life
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1be40ddb009a3a63b81/1748628700852/%23JesusIsLife+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778111866-6LBZTOO4C0H2QWZV2QY6/image-asset.png"]
+images: ["images/e1ab4705-_JesusIsLife__2_.png", "images/64202481-image-asset.png"]
 ---
 # Water is Life - Jesus is Eternal Life
 
@@ -13,7 +13,7 @@ Mar 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778111866-6LBZTOO4C0H2QWZV2QY6/image-asset.png)
+![](images/64202481-image-asset.png)
 
 Mni Wiconi.
 

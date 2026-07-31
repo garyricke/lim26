@@ -5,7 +5,7 @@ date: 2018-12-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/true-stories-advent-devotion-monday-december-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b78da8416125af4f9e2f/1748628700852/slide_2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775502843-JZ1B39UYRDJNELIC0V8J/image-asset.png"]
+images: ["images/bbe83213-slide_2.jpg", "images/7edf3d19-image-asset.png"]
 ---
 # True Stories (Advent Devotion) - Monday, December 3
 
@@ -13,7 +13,7 @@ Dec 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775502843-JZ1B39UYRDJNELIC0V8J/image-asset.png)
+![](images/7edf3d19-image-asset.png)
 
 ## In those days Caesar Augustus issued a decree that a census should be taken of the entire Roman world… And everyone went to his own town to register. So Joseph also went up from the town of Nazareth in Galilee to Judea, to Bethlehem the town of David, because he belonged to the house and line of David. (Luke 2:1,3-4 NIV)
 

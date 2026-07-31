@@ -5,7 +5,7 @@ date: 2017-12-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/one-day-at-a-time-advent-monday-december-11
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be1f62aeae08e1ffa6b4/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777184274-N3RS207YEPCF6C5KZVUO/image-asset.png"]
+images: ["images/b50ba0e2-Advent__1_.png", "images/6c077fa8-image-asset.png"]
 ---
 # One Day at a Time (Advent) - Monday, December 11
 
@@ -15,7 +15,7 @@ Dec 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777184274-N3RS207YEPCF6C5KZVUO/image-asset.png)
+![](images/6c077fa8-image-asset.png)
 
 ### **One Day at a Time - Monday, December 11**
 

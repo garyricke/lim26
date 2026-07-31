@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Washington%2FOlympic+Peninsula
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775739791-R1O95F40CDSWJMPV6GX5/Well+done%2C+good+and+faithful+servant.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775757716-3E1CNBVDYUOSDYH9KE6J/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776641310-CUJDL4G10ANY5G4LS2QB/5adcb29d4133baf15b5576eb1f02b3f8--house-quotes-eagles.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776677520-4ELNUGKLVNROQLAUGOFD/120725_Matthew6_9.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776718579-JTP4I07ZZLNKOQ2G0TC4/Children_DAILY_o.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776728426-3LVTK8NGAEXNNKNOGOXP/9c636e06e267b6e6c6854ec06296e4eb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777101170-UHJ6BNOD9TVND7R2557M/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777134522-CJTE1AIT4CIAT865WZJN/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777149497-D0RSJI5HXCEAKM8INJW5/Advent+%281%29.png"]
+images: ["images/441f8759-Well_done__good_and_faithful_servant.png", "images/fea69f6a-image-asset.jpeg", "images/5934e85b-5adcb29d4133baf15b5576eb1f02b3f8--house-quotes-eagles.jpg", "images/77ca3074-120725_Matthew6_9.jpg", "images/6626ca69-Children_DAILY_o.jpg", "images/4e70a611-9c636e06e267b6e6c6854ec06296e4eb.jpg", "images/9a6c50a5-Advent__1_.png", "images/bebcd31b-Advent__1_.png", "images/fb6e71ea-Advent__1_.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -71,7 +71,7 @@ Guest User
 
 [Read More](/news-notes/please-hold-cathy-and-her-family-in-your-prayers)
 
-[![Well done, good and faithful servant](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775739791-R1O95F40CDSWJMPV6GX5/Well+done%2C+good+and+faithful+servant.png)](/news-notes/well-done-good-and-faithful-servant)
+[![Well done, good and faithful servant](images/441f8759-Well_done__good_and_faithful_servant.png)](/news-notes/well-done-good-and-faithful-servant)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -85,7 +85,7 @@ Guest User
 
 [Read More](/news-notes/well-done-good-and-faithful-servant)
 
-[![We give thanks and praise to God for Tom and Cathy Benzler!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775757716-3E1CNBVDYUOSDYH9KE6J/image-asset.jpeg)](/news-notes/we-give-thanks-and-praise-to-god-for-tom-and-cathy-benzler)
+[![We give thanks and praise to God for Tom and Cathy Benzler!](images/fea69f6a-image-asset.jpeg)](/news-notes/we-give-thanks-and-praise-to-god-for-tom-and-cathy-benzler)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -99,7 +99,7 @@ Guest User
 
 [Read More](/news-notes/we-give-thanks-and-praise-to-god-for-tom-and-cathy-benzler)
 
-[![A Lesson From Eagles (Lent) - Saturday, March 10](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776641310-CUJDL4G10ANY5G4LS2QB/5adcb29d4133baf15b5576eb1f02b3f8--house-quotes-eagles.jpg)](/news-notes/a-lesson-from-eagles-lent-saturday-march-10)
+[![A Lesson From Eagles (Lent) - Saturday, March 10](images/5934e85b-5adcb29d4133baf15b5576eb1f02b3f8--house-quotes-eagles.jpg)](/news-notes/a-lesson-from-eagles-lent-saturday-march-10)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -117,7 +117,7 @@ It all comes down to trust. As the baby eaglet trusted its parents to keep him f
 
 [Read More](/news-notes/a-lesson-from-eagles-lent-saturday-march-10)
 
-[![Our Father (Lent) - Monday, March 5](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776677520-4ELNUGKLVNROQLAUGOFD/120725_Matthew6_9.jpg)](/news-notes/our-father-lent-monday-march-5)
+[![Our Father (Lent) - Monday, March 5](images/77ca3074-120725_Matthew6_9.jpg)](/news-notes/our-father-lent-monday-march-5)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -135,7 +135,7 @@ But today, the child, struggling to find their identity, can experience love fro
 
 [Read More](/news-notes/our-father-lent-monday-march-5)
 
-[![Hope of a Child (Lent) - Thursday, March 1](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776718579-JTP4I07ZZLNKOQ2G0TC4/Children_DAILY_o.jpg)](/news-notes/hope-of-a-child-lent-thursday-march-1)
+[![Hope of a Child (Lent) - Thursday, March 1](images/6626ca69-Children_DAILY_o.jpg)](/news-notes/hope-of-a-child-lent-thursday-march-1)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -151,7 +151,7 @@ Without Jesus in our lives, we wouldn’t experience hope—hope that does not d
 
 [Read More](/news-notes/hope-of-a-child-lent-thursday-march-1)
 
-[![Lord Increase Our Faith (Lent) - Monday, February 26](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776728426-3LVTK8NGAEXNNKNOGOXP/9c636e06e267b6e6c6854ec06296e4eb.jpg)](/news-notes/lord-increase-our-faith-lent-monday-february-26)
+[![Lord Increase Our Faith (Lent) - Monday, February 26](images/4e70a611-9c636e06e267b6e6c6854ec06296e4eb.jpg)](/news-notes/lord-increase-our-faith-lent-monday-february-26)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -167,7 +167,7 @@ How many times is our faith put to the test? Whether it’s because we lack trus
 
 [Read More](/news-notes/lord-increase-our-faith-lent-monday-february-26)
 
-[![Silent Hero (Advent) - Friday, December 22](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777101170-UHJ6BNOD9TVND7R2557M/Advent+%281%29.png)](/news-notes/silent-hero-friday-december-22)
+[![Silent Hero (Advent) - Friday, December 22](images/9a6c50a5-Advent__1_.png)](/news-notes/silent-hero-friday-december-22)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -183,7 +183,7 @@ Guest User
 
 [Read More](/news-notes/silent-hero-friday-december-22)
 
-[![Listen! Or Your Tongue Will Make You Deaf (Advent) - Tuesday, December 19](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777134522-CJTE1AIT4CIAT865WZJN/Advent+%281%29.png)](/news-notes/listen-or-your-tongue-will-make-you-deaf-advent-tuesday-december-19)
+[![Listen! Or Your Tongue Will Make You Deaf (Advent) - Tuesday, December 19](images/bebcd31b-Advent__1_.png)](/news-notes/listen-or-your-tongue-will-make-you-deaf-advent-tuesday-december-19)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -199,7 +199,7 @@ Jesus came into this world to bring hope, healing, and to set the captives free.
 
 [Read More](/news-notes/listen-or-your-tongue-will-make-you-deaf-advent-tuesday-december-19)
 
-[![Let's Refocus (Advent) - Saturday, December 16](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777149497-D0RSJI5HXCEAKM8INJW5/Advent+%281%29.png)](/news-notes/lets-refocus-advent-saturday-december-16)
+[![Let's Refocus (Advent) - Saturday, December 16](images/fb6e71ea-Advent__1_.png)](/news-notes/lets-refocus-advent-saturday-december-16)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User

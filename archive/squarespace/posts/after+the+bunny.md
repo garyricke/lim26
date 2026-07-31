@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/after+the+bunny
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775893550-JNYWH6RCYL9LJ7JEEXYW/THE+BUNNY+IS+GONE%2CSO+WHAT%27S+NEXT_.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775903937-5ZYVC9WBSCVG0QBP0XV2/THE+BUNNY+IS+GONE%2CSO+WHAT%27S+NEXT_.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776521172-Z4Y9TJH2N2AI96MHPIS4/THE+BUNNY+IS+GONE%2CSO+WHAT%27S+NEXT_.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776536941-KSX46CRR4LLNSAXZZ8Y2/THE+BUNNY+IS+GONE%2CSO+WHAT%27S+NEXT_.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776552439-OIJQ8Z0VA3ZANYQQ0VXE/image-asset.png"]
+images: ["images/375015cc-THE_BUNNY_IS_GONE_SO_WHAT_S_NEXT_.png", "images/f6d27e1d-THE_BUNNY_IS_GONE_SO_WHAT_S_NEXT_.png", "images/21854e3a-THE_BUNNY_IS_GONE_SO_WHAT_S_NEXT_.png", "images/00ddcb5d-THE_BUNNY_IS_GONE_SO_WHAT_S_NEXT_.png", "images/011115a8-image-asset.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![The Bunny is Gone, So What's Next? Devotion #5: Look to the Future - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775893550-JNYWH6RCYL9LJ7JEEXYW/THE+BUNNY+IS+GONE%2CSO+WHAT%27S+NEXT_.png)](/news-notes/the-bunny-is-gone-so-whats-next-devotion-5)
+[![The Bunny is Gone, So What's Next? Devotion #5: Look to the Future - Monday Morning Devotion](images/375015cc-THE_BUNNY_IS_GONE_SO_WHAT_S_NEXT_.png)](/news-notes/the-bunny-is-gone-so-whats-next-devotion-5)
 
 Guest User
 4/30/18
@@ -77,7 +77,7 @@ As you find the joy of Easter in each day, **remember that God is still writing 
 
 [Read More](/news-notes/the-bunny-is-gone-so-whats-next-devotion-5)
 
-[![The Bunny is Gone, So What's Next? Devotion #4: Be Prepared - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775903937-5ZYVC9WBSCVG0QBP0XV2/THE+BUNNY+IS+GONE%2CSO+WHAT%27S+NEXT_.png)](/news-notes/the-bunny-is-gone-so-whats-next-devotion-4)
+[![The Bunny is Gone, So What's Next? Devotion #4: Be Prepared - Monday Morning Devotion](images/f6d27e1d-THE_BUNNY_IS_GONE_SO_WHAT_S_NEXT_.png)](/news-notes/the-bunny-is-gone-so-whats-next-devotion-4)
 
 Guest User
 4/23/18
@@ -91,7 +91,7 @@ Just like Jesus and His disciples, we can prepare ourselves each day for whateve
 
 [Read More](/news-notes/the-bunny-is-gone-so-whats-next-devotion-4)
 
-[![The Bunny is Gone, So What's Next? Devotion #3: Living in Faith - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776521172-Z4Y9TJH2N2AI96MHPIS4/THE+BUNNY+IS+GONE%2CSO+WHAT%27S+NEXT_.png)](/news-notes/the-bunny-is-gone-so-whats-next-devotion-3)
+[![The Bunny is Gone, So What's Next? Devotion #3: Living in Faith - Monday Morning Devotion](images/21854e3a-THE_BUNNY_IS_GONE_SO_WHAT_S_NEXT_.png)](/news-notes/the-bunny-is-gone-so-whats-next-devotion-3)
 
 Guest User
 4/16/18
@@ -105,7 +105,7 @@ Their faith allowed the Spirit to do amazing things in and through them, to brin
 
 [Read More](/news-notes/the-bunny-is-gone-so-whats-next-devotion-3)
 
-[![The Bunny is Gone, So What's Next? Devotion #2: Following the Road - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776536941-KSX46CRR4LLNSAXZZ8Y2/THE+BUNNY+IS+GONE%2CSO+WHAT%27S+NEXT_.png)](/news-notes/the-bunny-is-gone-so-whats-next-devotion-2)
+[![The Bunny is Gone, So What's Next? Devotion #2: Following the Road - Monday Morning Devotion](images/00ddcb5d-THE_BUNNY_IS_GONE_SO_WHAT_S_NEXT_.png)](/news-notes/the-bunny-is-gone-so-whats-next-devotion-2)
 
 Guest User
 4/9/18
@@ -119,7 +119,7 @@ Jesus traveled the road we never could and “for the joy that was set before Hi
 
 [Read More](/news-notes/the-bunny-is-gone-so-whats-next-devotion-2)
 
-[![The Bunny is Gone, So What's Next? Devotion #1: Following in the Footsteps of the Apostles - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776552439-OIJQ8Z0VA3ZANYQQ0VXE/image-asset.png)](/news-notes/the-bunny-is-gone-so-whats-next-devotion-1-following-in-the-footsteps-of-the-apostles-monday-morning-devotion)
+[![The Bunny is Gone, So What's Next? Devotion #1: Following in the Footsteps of the Apostles - Monday Morning Devotion](images/011115a8-image-asset.png)](/news-notes/the-bunny-is-gone-so-whats-next-devotion-1-following-in-the-footsteps-of-the-apostles-monday-morning-devotion)
 
 Guest User
 4/2/18

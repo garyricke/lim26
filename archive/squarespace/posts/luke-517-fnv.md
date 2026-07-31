@@ -5,7 +5,7 @@ date: 2017-06-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-517-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c04e39aa220f9164db1b/1748628700852/-On+another+day+he+was+teaching+at+a+house+in+the+Village+of+Comfort+%28Capernaum%29.+The+Separated+Ones+%28Pharisees%29+and+the+scroll+keepers+%28scribes%29+had+come+from+the+surrounding+villages+of+Circle+of+Nations+%28Ga.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777746003-X3N9IDKH3OIEYERPYXYN/image-asset.png"]
+images: ["images/e8622129--On_another_day_he_was_teaching_at_a_house_in_the_Village_of_Comfort__Capernaum_._The_Separated_Ones__Pharisees__and_the", "images/0a3b016e-image-asset.png"]
 ---
 # Luke 5:17 FNV
 
@@ -13,7 +13,7 @@ Jun 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777746003-X3N9IDKH3OIEYERPYXYN/image-asset.png)
+![](images/0a3b016e-image-asset.png)
 
 The fame of the new Teacher had spread rapidly. One day, some time after the events told in the last section, the Master was sitting in the house apparently of some one of consideration in Capernaum, and, as usual, was teaching.
 

@@ -5,7 +5,7 @@ date: 2020-03-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/finding-spiritual-wisdom
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0e02f32730f5f5eebc8/1748628700852/c2e8e281202edad537e16862c4ec47b1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773794604-7CUMOK56TEZCTYOM2KPH/image-asset.png"]
+images: ["images/2fb08de1-c2e8e281202edad537e16862c4ec47b1.jpg", "images/be2b56f2-image-asset.png"]
 ---
 # Finding Spiritual Wisdom - Lent 2020
 
@@ -15,7 +15,7 @@ Mar 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773794604-7CUMOK56TEZCTYOM2KPH/image-asset.png)
+![](images/be2b56f2-image-asset.png)
 
 ### This is what the LORD says: “Cursed is the man who trusts in mankind, who makes the flesh his strength and turns his heart from the LORD." [Jeremiah 17:5](https://www.bible.com/bible/111/jer.17.5)
 

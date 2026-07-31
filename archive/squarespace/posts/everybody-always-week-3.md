@@ -5,7 +5,7 @@ date: 2018-07-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/everybody-always-week-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b87bb70da5601eda5ca4/1748628700852/e7a68e60a0dc4682ae95df0ba959b24b.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775739959-KE2QG13QGXZ6E73L4BF3/image-asset.jpeg"]
+images: ["images/76f50dcd-e7a68e60a0dc4682ae95df0ba959b24b.jpg", "images/8a45c598-image-asset.jpeg"]
 ---
 # Everybody, Always (Week 3) - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jul 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775739959-KE2QG13QGXZ6E73L4BF3/image-asset.jpeg)
+![](images/8a45c598-image-asset.jpeg)
 
 Need to start at the beginning? [Here's Week 1](http://lutheranindianministries.org/news/everybody-always-week-1)
 

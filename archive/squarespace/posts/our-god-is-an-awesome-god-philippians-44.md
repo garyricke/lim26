@@ -5,7 +5,7 @@ date: 2016-03-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/our-god-is-an-awesome-god-philippians-44
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf7ba4059d0994776729/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781629154-0Q9YIV4HBP1B123Z3CYE/image-asset.jpeg"]
+images: ["images/cd840513-1748628700852", "images/10795e7e-image-asset.jpeg"]
 ---
 # Our God is an Awesome God! - Philippians 4:4
 
@@ -13,7 +13,7 @@ Mar 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781629154-0Q9YIV4HBP1B123Z3CYE/image-asset.jpeg)
+![](images/10795e7e-image-asset.jpeg)
 
 **Sunday March 13**
 

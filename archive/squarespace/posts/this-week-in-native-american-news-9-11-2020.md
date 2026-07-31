@@ -5,7 +5,7 @@ date: 2020-09-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-9-11-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afa0a992b149232da036/1748628700852/1WTC-ironworkers.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773473196-XHHTZDFPKNP3W242NZUN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773473928-U3H02F9PUUCF4Q51TADR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773474723-LONCL9IK4IMTDB46HV16/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773475587-1SBNT1V14NANFMBFCS9R/image-asset.jpeg"]
+images: ["images/3cf32b4d-1WTC-ironworkers.jpg", "images/51939a10-image-asset.jpeg", "images/f7bd55cd-image-asset.jpeg", "images/4d6b9f46-image-asset.jpeg", "images/6b377072-image-asset.jpeg"]
 ---
 # This Week in Native American News (9/11/2020): Memorials, Internet, and Pageant Queens
 
@@ -13,7 +13,7 @@ Sep 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773473196-XHHTZDFPKNP3W242NZUN/image-asset.jpeg)
+![](images/51939a10-image-asset.jpeg)
 
 # September 11, 2020 - Never Forget
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### Exhibit at 9/11 Museum features the Mohawk ironworkers who built One World Trade Center
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773473928-U3H02F9PUUCF4Q51TADR/image-asset.jpeg)
+![](images/f7bd55cd-image-asset.jpeg)
 
 *Photographs by Melissa Cacciola, via* [*The 9/11 Memorial and Museum*](https://www.911memorial.org/sites/default/files/styles/560_width/public/blog/images/ironworkers.jpg?itok=8Vof4o86)
 
@@ -39,7 +39,7 @@ Cacciola chose tintype photography to help document that legacy because the art 
 
 ### In remote Alaska, broadband for all remains a dream. So a school district got creative
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773474723-LONCL9IK4IMTDB46HV16/image-asset.jpeg)
+![](images/4d6b9f46-image-asset.jpeg)
 
 The Aleutians East Borough School District has big enough classrooms -- and a small enough number of students -- that it can socially distance. But it's also preparing for the possibility of the school getting shut down during the pandemic.
 
@@ -63,7 +63,7 @@ To get around that, the school district has gotten creative. It's building its o
 
 ### Coronavirus is threatening their people but it hasn't held back these indigenous pageant queens
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773475587-1SBNT1V14NANFMBFCS9R/image-asset.jpeg)
+![](images/6b377072-image-asset.jpeg)
 
 Miss Navajo Nation Shaandiin Parrish helped distribute food and other supplies over the summer.
 

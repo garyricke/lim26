@@ -5,7 +5,7 @@ date: 2018-07-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/everybody-always-week-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b869dd7dfe2ee01eecd1/1748628700852/go-make-disciples.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775722380-KKDNLO0GQW8O8AYEXYY9/image-asset.jpeg"]
+images: ["images/e1d9a0f9-go-make-disciples.jpg", "images/862954e7-image-asset.jpeg"]
 ---
 # Everybody, Always (Week 5) - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jul 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775722380-KKDNLO0GQW8O8AYEXYY9/image-asset.jpeg)
+![](images/862954e7-image-asset.jpeg)
 
 Need to start at the beginning? [Here's Week 1](http://lutheranindianministries.org/news/everybody-always-week-1)
 

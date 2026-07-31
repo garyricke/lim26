@@ -5,7 +5,7 @@ date: 2019-09-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/doing-things-that-matter-dream-wildly-monday-morning-devotions-week-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2584870844ff582d4e0/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774171642-YEC2LFC04LLI1692GKUB/image-asset.jpeg"]
+images: ["images/f6c2da97-1748628700852", "images/8423581f-image-asset.jpeg"]
 ---
 # Doing Things that Matter: Dream Wildly - Monday Morning Devotions (Week 2)
 
@@ -13,7 +13,7 @@ Sep 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774171642-YEC2LFC04LLI1692GKUB/image-asset.jpeg)
+![](images/8423581f-image-asset.jpeg)
 
 (c) http://doingthingsthatmatter.com/
 

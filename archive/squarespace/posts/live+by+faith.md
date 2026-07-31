@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/live+by+faith
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773472854-KW4K83QOVVTVUZF61O5P/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773478665-QLPYTFNEDU09CVT4M3EL/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773480733-LHZVEUFTAX9M3A54KCMF/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773487844-0G8SU6D1UVB9KU55A0U6/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773496517-4GXDJJ4IO1TT5HSKL7GZ/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773502807-K3X8YZHZLT3ZUZXC34CY/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773504684-3MAS64FHKEUUK7CIVMEK/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773508520-AOCINNK86XVLBWWXZ6C8/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png"]
+images: ["images/59ec2822-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/2c14c98f-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/75af581b-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/f38d6a27-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/94a87354-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/c216e4b6-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/5d6b51f0-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/5346ada3-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Living By Faith: A Time for Peace - Monday Morning Summer Devotion Series - Week 8](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773472854-KW4K83QOVVTVUZF61O5P/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-8)
+[![Living By Faith: A Time for Peace - Monday Morning Summer Devotion Series - Week 8](images/59ec2822-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-8)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -75,7 +75,7 @@ Maybe you drifted from God in the past months. It’s not too late. You don’t 
 
 [Read More](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-8)
 
-[![Living By Faith: Shaken - Monday Morning Summer Devotion Series - Week 7](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773478665-QLPYTFNEDU09CVT4M3EL/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-7)
+[![Living By Faith: Shaken - Monday Morning Summer Devotion Series - Week 7](images/2c14c98f-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-7)
 
 Guest User
 9/7/20
@@ -89,7 +89,7 @@ Life can suddenly shake. We can go to bed one night and wake the next morning to
 
 [Read More](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-7)
 
-[![Living By Faith: Just Sheep - Monday Morning Summer Devotion Series - Week 6](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773480733-LHZVEUFTAX9M3A54KCMF/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-6)
+[![Living By Faith: Just Sheep - Monday Morning Summer Devotion Series - Week 6](images/75af581b-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-6)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -105,7 +105,7 @@ While I, too often, act like a sheep, it helps me to remember I am God’s sheep
 
 [Read More](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-6)
 
-[![Living By Faith: Dread - Monday Morning Summer Devotion Series - Week 5](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773487844-0G8SU6D1UVB9KU55A0U6/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-5)
+[![Living By Faith: Dread - Monday Morning Summer Devotion Series - Week 5](images/f38d6a27-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-5)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -121,7 +121,7 @@ For Christians, this Psalm is even more comforting when we realize God has destr
 
 [Read More](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-5)
 
-[![Living By Faith - Monday Morning Summer Devotion Series - Week 4](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773496517-4GXDJJ4IO1TT5HSKL7GZ/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-4)
+[![Living By Faith - Monday Morning Summer Devotion Series - Week 4](images/94a87354-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-4)
 
 [Arizona/Phoenix](/news-notes/category/Arizona%2FPhoenix)
 Guest User
@@ -137,7 +137,7 @@ Life is much like this passage. When we are saved by Christ, we are to cut the u
 
 [Read More](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-4)
 
-[![Living By Faith: Out of the World - Monday Morning Summer Devotion Series - Week 3](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773502807-K3X8YZHZLT3ZUZXC34CY/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-3)
+[![Living By Faith: Out of the World - Monday Morning Summer Devotion Series - Week 3](images/c216e4b6-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-3)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -155,7 +155,7 @@ We should, instead, look to our heavenly kingdom and our heavenly Father. God ha
 
 [Read More](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-3)
 
-[![Living By Faith: Fear or Faith - Monday Morning Summer Devotion Series - Week 2](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773504684-3MAS64FHKEUUK7CIVMEK/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-2)
+[![Living By Faith: Fear or Faith - Monday Morning Summer Devotion Series - Week 2](images/5d6b51f0-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-2)
 
 [Washington/Neah Bay](/news-notes/category/Washington%2FNeah+Bay)
 Guest User
@@ -171,7 +171,7 @@ Science says, you cannot be driven by anxiety and live in joy; our brains just w
 
 [Read More](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-2)
 
-[![Living By Faith: Heroes - Monday Morning Summer Devotion Series - Week 1](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773508520-AOCINNK86XVLBWWXZ6C8/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-1)
+[![Living By Faith: Heroes - Monday Morning Summer Devotion Series - Week 1](images/5346ada3-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-1)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User

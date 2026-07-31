@@ -5,7 +5,7 @@ date: 2017-10-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/living-in-the-mission-field
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bec2b65dbd3949cb6c29/1748628700852/18581944_1885585281724609_2817081200559945575_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777347134-WUAYMZLHS4ZTGJRL1NBX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777348361-SWB43Z5O9Z445XJ5I59A/image-asset.jpeg"]
+images: ["images/5d2cf9a2-18581944_1885585281724609_2817081200559945575_n.jpg", "images/b29f1bf3-image-asset.jpeg", "images/f72c10bd-image-asset.jpeg"]
 ---
 # Living in the Mission Field
 
@@ -15,7 +15,7 @@ Oct 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777347134-WUAYMZLHS4ZTGJRL1NBX/image-asset.jpeg)
+![](images/b29f1bf3-image-asset.jpeg)
 
 Ben Maxson, Vicar at Makah Lutheran Church on the Makah Reservation in Neah Bay, Washington, is not Makah.
 
@@ -35,7 +35,7 @@ His hardwork is paying off and ministry is moving forward.
 
 The church and community recently had a Back-to-School Blessing where 125 students received school supplies, which was followed by an extra blessing to the teachers. The next day, Natalie and two volunteers delivered boxes of supplies to the classrooms, including hand sanitizer, kleenex, and whiteboard markers.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777348361-SWB43Z5O9Z445XJ5I59A/image-asset.jpeg)
+![](images/f72c10bd-image-asset.jpeg)
 
 "It was a great individual event and people really pitched in, plus we got to take care of the school and the teachers!" Ben recalls.
 

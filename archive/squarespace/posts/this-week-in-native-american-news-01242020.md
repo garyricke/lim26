@@ -5,7 +5,7 @@ date: 2020-01-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-01242020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1261186e246c3b7aca5/1748628700852/Alaska-Census.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773863137-VOE1X3QGQVT81M0ZL4JH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773864250-YLFIBGYQFO7MF0OOM0Q9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773865248-8JSUQIBPRPUXFIS5K7DY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773866455-HQBBNMWOP3QGWHGLKBJF/image-asset.jpeg"]
+images: ["images/7c93ce70-Alaska-Census.jpg", "images/4ab2a315-image-asset.jpeg", "images/66dbaef2-image-asset.jpeg", "images/49ea3984-image-asset.jpeg", "images/6ff33b24-image-asset.jpeg"]
 ---
 # This Week in Native American News (1/24/2020): the First Census Interview and the Great American Cowboy
 
@@ -13,7 +13,7 @@ Jan 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773863137-VOE1X3QGQVT81M0ZL4JH/image-asset.jpeg)
+![](images/4ab2a315-image-asset.jpeg)
 
 # January 24, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Alaska Native Elder, 90, Is First American Counted in 2020 Census
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773864250-YLFIBGYQFO7MF0OOM0Q9/image-asset.jpeg)
+![](images/66dbaef2-image-asset.jpeg)
 
 In this Monday, Jan. 20, 2020 image, Lizzie Chimiugak looks on at her home in Toksook Bay, Alaska. Chimiugak, who turned 90 years old on Monday, is scheduled to be the first person counted in the 2020 U.S. Census on Tuesday. Gregory Bull–AP
 
@@ -39,7 +39,7 @@ The decennial U.S. census has started in rural Alaska, out of tradition and nec
 
 ## “Rez Rising” App Connects Users With Native-Owned Businesses
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773865248-8JSUQIBPRPUXFIS5K7DY/image-asset.jpeg)
+![](images/49ea3984-image-asset.jpeg)
 
 *Change Labs intern Jillian TopSky* CREDIT DEIDRA PEACHES, CHANGE LABS
 
@@ -53,7 +53,7 @@ It basically functions like Yelp, where you can search by keyword, by category, 
 
 ## The Other Message in Redbone’s ‘Come and Get Your Love’
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773866455-HQBBNMWOP3QGWHGLKBJF/image-asset.jpeg)
+![](images/6ff33b24-image-asset.jpeg)
 
 Redbone in 1971: left to right, Lolly Vegas, Pat Vegas, Pete DePoe and Tony Bellamy. PHOTO: SHUTTERSTOCK
 

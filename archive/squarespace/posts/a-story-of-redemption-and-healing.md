@@ -5,7 +5,7 @@ date: 2017-02-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-story-of-redemption-and-healing
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c2064505c216efab8bf2/1748628700852/Women+in+Prison.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778182834-8L7Q1M8ZP9GN2WESOHMC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778184051-2XVWX9FNX5LY1KAOXMUG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778185267-LQZ9K5MH5WRHJ1PCZODF/image-asset.jpeg"]
+images: ["images/fb26ccef-Women_in_Prison.jpg", "images/1382a965-image-asset.jpeg", "images/85b6453c-image-asset.jpeg", "images/020c0c09-image-asset.jpeg"]
 ---
 # Finding Lost Daughters: A Story of Redemption and Healing
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 Nestled in the mountains of Eagle River, Alaska, between a campground and high school, hidden behind a forest of evergreens, sits a collection of concrete buildings encircled by barbed wire. Unless you are looking for it, the brown, wooden sign looks just as likely to point you to the next mountain lookout as to the home of over 400 incarcerated women.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778182834-8L7Q1M8ZP9GN2WESOHMC/image-asset.jpeg)
+![](images/1382a965-image-asset.jpeg)
 
 Of the 415 women housed at the Hiland Mountain Correctional Complex, Alaska's only all-women prison, over 30% of those are Alaska Natives. Of those 126 Alaska Native women, there are women like Ruth.
 
@@ -31,7 +31,7 @@ The baby's father was not around, and Ruth's grandmother was now too old to care
 
 On one of these nights, after a visit with her daughter, Ruth began drinking at a friend's house. Late into the night, a fight broke out. In the end, the other woman ended up in the hospital and Ruth ended up in prison for assault in the third degree.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778184051-2XVWX9FNX5LY1KAOXMUG/image-asset.jpeg)
+![](images/85b6453c-image-asset.jpeg)
 
 At Hiland Mountain Correction Complex, LIM staff member, Rick McCafferty, meets women just like Ruth.
 
@@ -45,7 +45,7 @@ Rick uses his training in [Beauty for Ashes](http://www.fwwi.org/bfa.cfm), (a pr
 
 Rick's most recent focus has been on separating the lies we believed as children from the truth we receive from Jesus. He explains, "many of these women have a hard time understanding the full, unconditional love of Christ because they never experienced it from their parents or others in their lives. Likewise, they struggle with trust and the idea that God will never leave them. The concept of a consistent and reliable love and protection is foreign to them, particularly since so many of them were hurt by those who were supposed to protect them, but by surrounding themselves with supportive women and trained counselors, they learn to trust each other and, therefore, Christ."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778185267-LQZ9K5MH5WRHJ1PCZODF/image-asset.jpeg)
+![](images/020c0c09-image-asset.jpeg)
 
 At a recent meeting, Ruth told her group, "I'm freer right now in jail than I ever was on the outside. Just like Psalm 103, I want to only proclaim God. He has forgiven my sins; He has redeemed me and pulled me out of the pit; He has crowned me with love and compassion."
 

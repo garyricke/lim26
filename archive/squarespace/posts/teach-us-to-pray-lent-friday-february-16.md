@@ -5,7 +5,7 @@ date: 2018-02-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/teach-us-to-pray-lent-friday-february-16
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc9709a0b66f51f18556/1748628700852/Lk22.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776793083-GF5LTJJB1NDN3WN9NVBL/image-asset.png"]
+images: ["images/02bb392e-Lk22.jpg", "images/b6b1465f-image-asset.png"]
 ---
 # Teach Us to Pray (Lent) - Friday, February 16
 
@@ -13,7 +13,7 @@ Feb 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776793083-GF5LTJJB1NDN3WN9NVBL/image-asset.png)
+![](images/b6b1465f-image-asset.png)
 
 ### "Satan demanded to have you... but I have prayed for you that your faith may not fail." [Luke 22:31-32 (ESV)](https://www.bible.com/bible/59/LUK.22.31-32)
 

@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/advent+devotion+2017
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777029354-9SBYS9BWHT4JYS7OVRSE/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777032176-BKWZZ2KSJVZTYY0B1RQ7/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777049623-WNVDLVJSY24O2ZBJ5YIY/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777056383-128H5Q3JORVI4D1MFDNT/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777059232-7W5FXYG1FHZGAZRJUU3B/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777067199-SNUEQZ1OGPN2O0F81D05/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777070788-QUIB89NTORKRVCJ2PPZE/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777076803-EFFMPJ0LLUDRJED5H2CE/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777081316-L4LCK0D6X23D4O2JC3L4/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777101170-UHJ6BNOD9TVND7R2557M/Advent+%281%29.png"]
+images: ["images/58fc2695-Advent__1_.png", "images/f6787301-Advent__1_.png", "images/56ee96b1-Advent__1_.png", "images/d37182e9-Advent__1_.png", "images/c7963bde-Advent__1_.png", "images/94df6120-Advent__1_.png", "images/a86c628d-Advent__1_.png", "images/e2985eeb-Advent__1_.png", "images/99ee74a5-Advent__1_.png", "images/9a6c50a5-Advent__1_.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![NU OLI — Glad Tidings (Advent) - Sunday, December 31](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777029354-9SBYS9BWHT4JYS7OVRSE/Advent+%281%29.png)](/news-notes/nu-oli-glad-tidings-advent-sunday-december-31)
+[![NU OLI — Glad Tidings (Advent) - Sunday, December 31](images/58fc2695-Advent__1_.png)](/news-notes/nu-oli-glad-tidings-advent-sunday-december-31)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User
@@ -75,7 +75,7 @@ Lord, remind me often that You have been exceedingly generous to me. Help me to 
 
 [Read More](/news-notes/nu-oli-glad-tidings-advent-sunday-december-31)
 
-[![Hope When it Seems Hope is Lost (Advent) - Saturday, December 30](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777032176-BKWZZ2KSJVZTYY0B1RQ7/Advent+%281%29.png)](/news-notes/hope-when-it-seems-hope-is-lost-advent-saturday-december-30)
+[![Hope When it Seems Hope is Lost (Advent) - Saturday, December 30](images/f6787301-Advent__1_.png)](/news-notes/hope-when-it-seems-hope-is-lost-advent-saturday-december-30)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -91,7 +91,7 @@ It is not unusual for people of faith to have very serious trials in their earth
 
 [Read More](/news-notes/hope-when-it-seems-hope-is-lost-advent-saturday-december-30)
 
-[![How Jesus Enters My Life (Advent) - Friday, December 29](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777049623-WNVDLVJSY24O2ZBJ5YIY/Advent+%281%29.png)](/news-notes/how-jesus-enters-my-life-advent-friday-december-29)
+[![How Jesus Enters My Life (Advent) - Friday, December 29](images/56ee96b1-Advent__1_.png)](/news-notes/how-jesus-enters-my-life-advent-friday-december-29)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -107,7 +107,7 @@ Oh, how thankful I am that He became incarnate of the Holy Spirit, born of the V
 
 [Read More](/news-notes/how-jesus-enters-my-life-advent-friday-december-29)
 
-[![The End of the World is Here! (Advent) - Thursday, December 28](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777056383-128H5Q3JORVI4D1MFDNT/Advent+%281%29.png)](/news-notes/the-end-of-the-world-is-here-advent-thursday-december-28)
+[![The End of the World is Here! (Advent) - Thursday, December 28](images/d37182e9-Advent__1_.png)](/news-notes/the-end-of-the-world-is-here-advent-thursday-december-28)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -123,7 +123,7 @@ We often get stuck between yesterday and tomorrow, either looking back or lookin
 
 [Read More](/news-notes/the-end-of-the-world-is-here-advent-thursday-december-28)
 
-[![Fatherhood (Advent) - Wednesday, December 27](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777059232-7W5FXYG1FHZGAZRJUU3B/Advent+%281%29.png)](/news-notes/fatherhood-advent-wednesday-december-27)
+[![Fatherhood (Advent) - Wednesday, December 27](images/c7963bde-Advent__1_.png)](/news-notes/fatherhood-advent-wednesday-december-27)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -139,7 +139,7 @@ As Jesus came into the world not to be served but to serve and lay down his life
 
 [Read More](/news-notes/fatherhood-advent-wednesday-december-27)
 
-[![God’s Protection: In Teepee, Stable, or House (Advent) - Tuesday, December 26](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777067199-SNUEQZ1OGPN2O0F81D05/Advent+%281%29.png)](/news-notes/gods-protection-in-teepee-stable-or-house-advent-tuesday-december-26)
+[![God’s Protection: In Teepee, Stable, or House (Advent) - Tuesday, December 26](images/94df6120-Advent__1_.png)](/news-notes/gods-protection-in-teepee-stable-or-house-advent-tuesday-december-26)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -155,7 +155,7 @@ Whatever your house may look like, be reminded in the coming year that true prot
 
 [Read More](/news-notes/gods-protection-in-teepee-stable-or-house-advent-tuesday-december-26)
 
-[![For You, A Savior is Born (Advent) - Monday, December 25](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777070788-QUIB89NTORKRVCJ2PPZE/Advent+%281%29.png)](/news-notes/for-you-a-savior-is-born-monday-december-25)
+[![For You, A Savior is Born (Advent) - Monday, December 25](images/a86c628d-Advent__1_.png)](/news-notes/for-you-a-savior-is-born-monday-december-25)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -173,7 +173,7 @@ This is the message we point to on Christmas Day—the message that a Savior has
 
 [Read More](/news-notes/for-you-a-savior-is-born-monday-december-25)
 
-[![No Room in the Inn (Advent) - Sunday, December 24](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777076803-EFFMPJ0LLUDRJED5H2CE/Advent+%281%29.png)](/news-notes/no-room-in-the-inn-advent-sunday-december-24)
+[![No Room in the Inn (Advent) - Sunday, December 24](images/e2985eeb-Advent__1_.png)](/news-notes/no-room-in-the-inn-advent-sunday-december-24)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks)
 Guest User
@@ -189,7 +189,7 @@ Guest User
 
 [Read More](/news-notes/no-room-in-the-inn-advent-sunday-december-24)
 
-[![Getting Down Low (Advent) - Saturday, December 23](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777081316-L4LCK0D6X23D4O2JC3L4/Advent+%281%29.png)](/news-notes/getting-down-low-advent-saturday-december-23)
+[![Getting Down Low (Advent) - Saturday, December 23](images/99ee74a5-Advent__1_.png)](/news-notes/getting-down-low-advent-saturday-december-23)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -205,7 +205,7 @@ Remember, it is often the simple and humble things that we do that make us the g
 
 [Read More](/news-notes/getting-down-low-advent-saturday-december-23)
 
-[![Silent Hero (Advent) - Friday, December 22](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777101170-UHJ6BNOD9TVND7R2557M/Advent+%281%29.png)](/news-notes/silent-hero-friday-december-22)
+[![Silent Hero (Advent) - Friday, December 22](images/9a6c50a5-Advent__1_.png)](/news-notes/silent-hero-friday-december-22)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User

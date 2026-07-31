@@ -5,7 +5,7 @@ date: 2018-08-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/from-ohio-to-kansas-to-alaska-and-back
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b83187fb27609f6e18a3/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775667744-T0HMM90807TE8623JT8G/image-asset.jpeg"]
+images: ["images/34cc2b5b-1748628700852", "images/56073da1-image-asset.jpeg"]
 ---
 # From Ohio to Kansas to Alaska and Back
 
@@ -21,7 +21,7 @@ Around the time things start to slow down on the Haskell Indian Nati
 
 While his main job was to help at the Mission Training Center, which sees volunteer teams coming and going all summer, he was also able to enjoy the Alaskan experience.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775667744-T0HMM90807TE8623JT8G/image-asset.jpeg)
+![](images/56073da1-image-asset.jpeg)
 
 "I was able to accompany two different volunteer groups on their trips to the villages," Bill explained. "The first trip was to Kiana, near the Bering Sea. Some of the time, I was "Papa Bill", an Elder story teller (so I felt I had to grow out my beard to look the part!). I talked about the lessons I have learned from Path Maker (Jesus, the One who made and walked perfectly on the path we are on in our lives)."
 

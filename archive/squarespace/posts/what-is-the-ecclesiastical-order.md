@@ -5,7 +5,7 @@ date: 2017-10-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-is-the-ecclesiastical-order
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349beb14e34042f8b58629e/1748628700852/SRT-John_instagram12.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777330599-B3IC20AWR5KQL05LM8ZW/image-asset.jpeg"]
+images: ["images/b1b3499c-SRT-John_instagram12.jpg", "images/74a13f0c-image-asset.jpeg"]
 ---
 # What is Ecclesiastical Order? (What do Lutherans Believe?: Part 7)
 
@@ -15,7 +15,7 @@ Oct 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777330599-B3IC20AWR5KQL05LM8ZW/image-asset.jpeg)
+![](images/74a13f0c-image-asset.jpeg)
 
 This is a seven-week devotion by Pastor Ricky Jacob, of Winnebago, Nebraska.  
 (Read the full series here)

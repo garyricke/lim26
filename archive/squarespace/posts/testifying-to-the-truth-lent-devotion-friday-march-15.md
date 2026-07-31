@@ -5,7 +5,7 @@ date: 2019-03-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/testifying-to-the-truth-lent-devotion-friday-march-15
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b61c89548629034e2f6e/1748628700852/Jn18.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775133945-FHNOTJVRUFVGDDM2211T/image-asset.jpeg"]
+images: ["images/777781eb-Jn18.jpg", "images/dc1f806f-image-asset.jpeg"]
 ---
 # Testifying to the Truth (Lent Devotion) - Friday, March 15
 
@@ -13,7 +13,7 @@ Mar 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775133945-FHNOTJVRUFVGDDM2211T/image-asset.jpeg)
+![](images/dc1f806f-image-asset.jpeg)
 
 # Testifying to the Truth
 

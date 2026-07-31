@@ -5,7 +5,7 @@ date: 2019-02-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-power-of-prayer-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6537c9bc16a0fbd6e18/1748628700852/devotion+title.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775188888-OY3LBYRDEEGP6LXH8TGD/image-asset.jpeg"]
+images: ["images/9f52aab6-devotion_title.jpg", "images/82983c3b-image-asset.jpeg"]
 ---
 # The Power of Prayer - Monday Morning Devotions
 
@@ -15,7 +15,7 @@ Feb 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775188888-OY3LBYRDEEGP6LXH8TGD/image-asset.jpeg)
+![](images/82983c3b-image-asset.jpeg)
 
 As we begin to look forward to the start of Lent, let’s focus for the day on the power of prayer.
 

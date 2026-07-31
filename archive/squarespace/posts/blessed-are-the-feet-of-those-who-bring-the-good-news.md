@@ -5,7 +5,7 @@ date: 2019-10-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/blessed-are-the-feet-of-those-who-bring-the-good-news
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b21b7cbdef6eaa53b720/1748628700852/mocs.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774109504-1IHUP8MPM73PQZB01Z9J/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/861fd440-mocs.jpg", "images/7b4636d4-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Blessed are the feet of those who bring the good news!
 
@@ -15,7 +15,7 @@ Oct 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774109504-1IHUP8MPM73PQZB01Z9J/image-asset.png)
+![](images/7b4636d4-image-asset.png)
 
 I watched as a Native man walked to the front of the large room. Staring back at him were the faces of more than 50 Native men and women who, until recently, were homeless and broken. The man at the front is one of them, currently receiving help and encouragement from Lutheran Indian Ministries. The room grew quiet as he began to speak. He had their undivided attention.
 
@@ -60,7 +60,7 @@ Executive Director
 
 ### P.S. As you are reading this, our brother and sister, Friend of Horses, and, She Comes from Heaven, are receiving training so they, too, can tell the story of God’s love and Jesus sacrifice to others like them. Because of you, God is making an impact in Indian Country and will continue to do so.
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

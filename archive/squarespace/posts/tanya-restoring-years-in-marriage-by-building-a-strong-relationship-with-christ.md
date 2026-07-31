@@ -5,7 +5,7 @@ date: 2024-04-19
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/sacred-connections-podcast/tanya-restoring-years-in-marriage-by-building-a-strong-relationship-with-christ
 section: sacred-connections-podcast
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/660c235960ba3320f57b3607/66228967fbea4c6d3b795f94/1750081757326/podcast-tanya-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312134165-O4ON1A6AON0DMQ6BZW17/podcast-healing-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312170456-RHLM9UNKIQOTY8GYOR9W/podcast-tanya-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312185244-OVJCWOSAIFVR3IOB8IFO/podcast-max-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1733749508126-E3WJUQ9TL8LDIDDCAZ3X/LIM+Wendy+Thumb+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/19cb2447-0dbf-4754-9bc0-8fde0f8e064d/tanya-d-part-3-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1d2509e0-c9fc-4928-9c5d-befcfbe7e8a5/tanya-d-part-1-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/7090e201-4260-4e73-ac23-7c09ec0f8a0a/tanya-d-part-4-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/9bccfc9d-959d-4ae2-a220-8566915c27ff/tanya-d-part-2-thumb.jpg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/ed11238d-podcast-tanya-thumb-2-3.jpg", "images/b3add22d-podcast-healing-thumb-2-3.jpg", "images/2051b2e9-podcast-tanya-thumb-2-3.jpg", "images/c9555126-podcast-max-thumb-2-3.jpg", "images/ddbb8e31-LIM_Wendy_Thumb__1_.jpg", "images/afb596de-tanya-d-part-3-thumb.jpg", "images/b6713e3e-tanya-d-part-1-thumb.jpg", "images/037238ef-tanya-d-part-4-thumb.jpg", "images/b919088c-tanya-d-part-2-thumb.jpg", "images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # Restoring Years in Marriage by Building a Strong Relationship with Christ
 
@@ -23,7 +23,7 @@ Written By [Gary Ricke](/sacred-connections-podcast?author=55f2f1aee4b0a206f577f
 
 — Joel 2:25
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1d2509e0-c9fc-4928-9c5d-befcfbe7e8a5/tanya-d-part-1-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/950889488/rendition/1080p/file.mp4?loc=external&log_user=0&signature=2180334f6d9e78a1bd05863038061ff1a0315336dc9368db6a713e15c7ec44be)
+[![](images/b6713e3e-tanya-d-part-1-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/950889488/rendition/1080p/file.mp4?loc=external&log_user=0&signature=2180334f6d9e78a1bd05863038061ff1a0315336dc9368db6a713e15c7ec44be)
 
 > My name is Tanya Dolchok. I was born Tanya Lynn Amidon. My mother is Elva Ahmasuk, originally from Wales, but raised in Nome. And my Inupiaq name is Ahlvanna, but we are the Kingikmiut people from Wales, Alaska.
 
@@ -43,7 +43,7 @@ Tanya, many times in our life, God will give us a scripture that has a lot of me
 
 — Romans 8:28
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/9bccfc9d-959d-4ae2-a220-8566915c27ff/tanya-d-part-2-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/950889769/rendition/1080p/file.mp4?loc=external&log_user=0&signature=30eaf2427a56061dcf66462e27528452d8540e9fdb29146cd0e19542b42f7c03)
+[![](images/b919088c-tanya-d-part-2-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/950889769/rendition/1080p/file.mp4?loc=external&log_user=0&signature=30eaf2427a56061dcf66462e27528452d8540e9fdb29146cd0e19542b42f7c03)
 
 Tanya, if you were to share with someone what a relationship with Christ means to you, including you mentioned having some hard times and some good times, what is your walk with Christ like?
 
@@ -57,7 +57,7 @@ Tanya, if you were to share with someone what a relationship with Christ means t
 
 — Matthew 7: 7-8
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/19cb2447-0dbf-4754-9bc0-8fde0f8e064d/tanya-d-part-3-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/950889997/rendition/1080p/file.mp4?loc=external&log_user=0&signature=b66b5b2fcbc40c2fa8a3b3ca7d8a30c5f67c16ef1c521815045b7f289d49ff0f)
+[![](images/afb596de-tanya-d-part-3-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/950889997/rendition/1080p/file.mp4?loc=external&log_user=0&signature=b66b5b2fcbc40c2fa8a3b3ca7d8a30c5f67c16ef1c521815045b7f289d49ff0f)
 
 You mentioned that God speaks to you. How does he speak to you? I mean, how do you know what God is communicating? What's that like?
 
@@ -71,7 +71,7 @@ You mentioned that God speaks to you. How does he speak to you? I mean, how do y
 
 — Ecclesiastes 3:1
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/7090e201-4260-4e73-ac23-7c09ec0f8a0a/tanya-d-part-4-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/950890225/rendition/1080p/file.mp4?loc=external&log_user=0&signature=f97ee782863b56474247160982ba175f107c2074c89e594c440baeae9a373b7e)
+[![](images/037238ef-tanya-d-part-4-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/950890225/rendition/1080p/file.mp4?loc=external&log_user=0&signature=f97ee782863b56474247160982ba175f107c2074c89e594c440baeae9a373b7e)
 
 Tanya if you had a word to share with someone going through a difficult time, what would you like to share with them?
 
@@ -101,7 +101,7 @@ Tanya offers encouragement to those enduring challenges, reminding them to hold 
 
 See Also
 
-[![From Brokenness to Hope: Wendy's Journey of Healing and Faith](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1733749508126-E3WJUQ9TL8LDIDDCAZ3X/LIM+Wendy+Thumb+%281%29.jpg)](/sacred-connections-podcast/from-brokenness-to-hope-wendys-journey-of-healing-and-faith)
+[![From Brokenness to Hope: Wendy's Journey of Healing and Faith](images/ddbb8e31-LIM_Wendy_Thumb__1_.jpg)](/sacred-connections-podcast/from-brokenness-to-hope-wendys-journey-of-healing-and-faith)
 
 October 21, 2024
 
@@ -113,7 +113,7 @@ In this episode, Wendy, a participant in the "Healing the Wounds of Trauma" trai
 
 October 21, 2024
 
-[![Healing The Wounds of Trauma: Stories of Faith and Resilience](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312134165-O4ON1A6AON0DMQ6BZW17/podcast-healing-thumb-2-3.jpg)](/sacred-connections-podcast/healing-the-wounds-of-trauma-stories-of-faith-and-resilience)
+[![Healing The Wounds of Trauma: Stories of Faith and Resilience](images/b3add22d-podcast-healing-thumb-2-3.jpg)](/sacred-connections-podcast/healing-the-wounds-of-trauma-stories-of-faith-and-resilience)
 
 July 8, 2024
 
@@ -125,7 +125,7 @@ In this podcast episode, attendees of LIM's Healing the Wounds of Trauma share h
 
 July 8, 2024
 
-[![Restoring Years in Marriage by Building a Strong Relationship with Christ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312170456-RHLM9UNKIQOTY8GYOR9W/podcast-tanya-thumb-2-3.jpg)](/sacred-connections-podcast/tanya-restoring-years-in-marriage-by-building-a-strong-relationship-with-christ)
+[![Restoring Years in Marriage by Building a Strong Relationship with Christ](images/2051b2e9-podcast-tanya-thumb-2-3.jpg)](/sacred-connections-podcast/tanya-restoring-years-in-marriage-by-building-a-strong-relationship-with-christ)
 
 April 19, 2024
 
@@ -137,7 +137,7 @@ In this episode, Tanya Dolchok discusses her deeply personal and transformative 
 
 April 19, 2024
 
-[![Embracing the Armor of God: A Tale of Redemption and Love](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312185244-OVJCWOSAIFVR3IOB8IFO/podcast-max-thumb-2-3.jpg)](/sacred-connections-podcast/max-embracing-the-armor-of-god)
+[![Embracing the Armor of God: A Tale of Redemption and Love](images/c9555126-podcast-max-thumb-2-3.jpg)](/sacred-connections-podcast/max-embracing-the-armor-of-god)
 
 March 11, 2019
 
@@ -151,6 +151,6 @@ March 11, 2019
 
 ~subheadIndex-h2
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/sacred-connections-podcast?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

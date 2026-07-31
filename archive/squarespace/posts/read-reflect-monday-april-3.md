@@ -5,7 +5,7 @@ date: 2017-04-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-monday-april-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1454d725316ea64c030/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777991037-BCHX7NJTRZHV1UIKQSGC/image-asset.png"]
+images: ["images/db61cfe3-2017_lent_cover.jpg", "images/3155c7bb-image-asset.png"]
 ---
 # Read & Reflect: Monday, April 3
 
@@ -13,7 +13,7 @@ Apr 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777991037-BCHX7NJTRZHV1UIKQSGC/image-asset.png)
+![](images/3155c7bb-image-asset.png)
 
 ## Read: [Matthew 5:14-16](https://www.bible.com/bible/111/mat.5.14-16), [2 Timothy 2:15](https://www.bible.com/bible/111/2ti.2.15), [1 Peter 3:13-17](https://www.bible.com/bible/111/1pe.3.13-17)
 

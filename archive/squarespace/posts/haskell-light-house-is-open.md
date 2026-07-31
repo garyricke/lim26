@@ -5,7 +5,7 @@ date: 2016-09-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/haskell-light-house-is-open
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c57ecfaa51222aa2dcb8/1748628700852/Unless+the+Lord+builds+the+house%2Cthe+builders+labor+in+vain.+Psalms+127-1.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779073015-DUKZNX69YE54NNRVACSY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779074862-0K42BZA85Q0QMD61H1FD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779078396-JRL30IUFNNIXU1A3TS1U/image-asset.png"]
+images: ["images/334555a2-Unless_the_Lord_builds_the_house_the_builders_labor_in_vain._Psalms_127-1.png", "images/99f56d85-image-asset.jpeg", "images/58778964-image-asset.jpeg", "images/5a037dac-image-asset.png"]
 ---
 # Haskell LIGHT House is open!
 
@@ -15,7 +15,7 @@ Sep 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779073015-DUKZNX69YE54NNRVACSY/image-asset.jpeg)
+![](images/99f56d85-image-asset.jpeg)
 
 The doors are open, the classes have started, and the Holy Spirit is working.
 
@@ -35,7 +35,7 @@ Between HINU events, like this weekend’s Welcome Back Powwow and cheering on t
 
 Like with most things in life, the new building project did not always go as planned. There were delays and missed deadlines. There were extra expenses and unfortunate surprises. But, “we know that in all things God works for the good of those who love him,” (Romans 8:28).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779074862-0K42BZA85Q0QMD61H1FD/image-asset.jpeg)
+![](images/58778964-image-asset.jpeg)
 
 “We are always talking to the Haskell students about overcoming obstacles,” explains Rev. Will Main (Dakota Sioux), LIM ordained pastor and LIGHT House staff. “The students we work with have had so many problems in the past, most of which they didn’t ask for but were born into, and we teach them that we are all Warriors for Christ. We want them to press into what God has called them to do, to push forward despite what is going wrong, and to rely on God as our strength. ‘I can do all things through Him who gives me strength,’ (Phil 4:13).  So, when we would run into each hurdle in the building construction, it was a great opportunity to practice what we preach!”
 
@@ -45,7 +45,7 @@ And despite those obstacles, the LIGHT House, and its staff, continued to grow a
 
 Robin Santos (Tohono O'odham), Haskell student and LIGHT House volunteer, once shared, "These stories, these are the victory stories, but the process is really hard, and we aren’t quick to share our failures. What I have to always remember is that Haskell LIGHT is all about love, because Jesus is all about love.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779078396-JRL30IUFNNIXU1A3TS1U/image-asset.png)
+![](images/5a037dac-image-asset.png)
 
 And a new building will not change that.
 

@@ -5,7 +5,7 @@ date: 2016-09-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/monday-morning-devotion-door-of-the-sheep
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5ab4505c216efac3802/1748628700852/John+109+%5Bwidescreen%5D.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779118552-XK1AQCAZQB6HA52R7KZI/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779120085-INWHIORKQQEV2O7TM3HN/image-asset.jpeg"]
+images: ["images/5c0caa46-John_109__widescreen_.jpg", "images/e5d2898b-image-asset.png", "images/bb255c47-image-asset.jpeg"]
 ---
 # Monday Morning Devotion - Door of the Sheep
 
@@ -15,7 +15,7 @@ Sep 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779118552-XK1AQCAZQB6HA52R7KZI/image-asset.png)
+![](images/e5d2898b-image-asset.png)
 
 This is week THREE in our seven-part devotion series, brought to you by Pastor Ricky Jacob, our Lutheran Indian Ministries Associate Pastor serving the Winnebago people of Nebraska.
 
@@ -37,7 +37,7 @@ Skip to a specific week:
 
 This week's "I am" statement is: I am the Door of the Sheep
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779120085-INWHIORKQQEV2O7TM3HN/image-asset.jpeg)
+![](images/bb255c47-image-asset.jpeg)
 
 There are usually two doors in a house. I grew up using the back door, which was unlocked during the day so we could come and go. If our family went to visit someone, we were taught to go to the front door. Living on the reservation, most people go to the back door to gain entry.
 

@@ -5,7 +5,7 @@ date: 2018-08-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-081718
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b846a8416125af4fba1c/1748628700852/a09_jd_12aug_feral-2-900x675.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775686876-TD7CPB7GVX40TQUTF13N/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775687611-76YYJYGD68W4Z85KBXCF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775689441-JNZW91GPL9EFZVJ5AGL4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775690506-ARZ4HO6WWPU6OCG09H8R/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775691694-RJM61Y2JYP04J39GWK02/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775693622-V5REPQ3SVFRXEJS82P6E/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775694854-Y4VT64PLFMHOR84YMTAJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775695477-306Z0WTQGVGQX97VJQ3M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775696514-4ZFBWAKA0G4SRHF12E4A/image-asset.jpeg"]
+images: ["images/7ca15dac-a09_jd_12aug_feral-2-900x675.jpg", "images/a0f8c183-image-asset.jpeg", "images/3b267ded-image-asset.jpeg", "images/85658f0b-image-asset.jpeg", "images/1c82ec67-image-asset.jpeg", "images/4a7144ad-image-asset.jpeg", "images/b65b6f48-image-asset.png", "images/9ae0c431-image-asset.jpeg", "images/f45b54ef-image-asset.jpeg", "images/4e1ca4dc-image-asset.jpeg"]
 ---
 # This Week in Native American News (8/17/18): vulnerable mothers, feral horses, and space engineers
 
@@ -13,7 +13,7 @@ Aug 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775686876-TD7CPB7GVX40TQUTF13N/image-asset.jpeg)
+![](images/a0f8c183-image-asset.jpeg)
 
 # August 17, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## 'Native Business' Wants to Empower Native Entrepreneurship
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775687611-76YYJYGD68W4Z85KBXCF/image-asset.jpeg)
+![](images/3b267ded-image-asset.jpeg)
 
 Gary and Carmen Davis are a husband-wife entrepreneurial team. Photo credit: Whitney Patterson Photography
 
@@ -37,7 +37,7 @@ Further, the Davises are using their high profile in the Native community to get
 
 ## How Native American Children Benefit From Trauma-Informed Schools
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775689441-JNZW91GPL9EFZVJ5AGL4/image-asset.jpeg)
+![](images/85658f0b-image-asset.jpeg)
 
 According to the National Association of School Psychologists, trauma-sensitive schools create safety—physical, social, and emotional—for students who may have experienced trauma. Photo by FatCamera/Getty Images
 
@@ -53,7 +53,7 @@ According to the [National Association of School Psychologists](http://www.naspo
 
 ## In Other Mental Health News...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775690506-ARZ4HO6WWPU6OCG09H8R/image-asset.jpeg)
+![](images/1c82ec67-image-asset.jpeg)
 
 ### [Indigenous mothers seven times more susceptible to post-partum depression](https://ipolitics.ca/2018/08/15/indigenous-mothers-seven-times-more-susceptible-to-post-partum-depression-study-finds/)
 
@@ -65,7 +65,7 @@ Responses of more than 55,000 non-Indigenous women who participated in a nationa
 
 ## Navajo agency rolls out feral horse program
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775691694-RJM61Y2JYP04J39GWK02/image-asset.jpeg)
+![](images/4a7144ad-image-asset.jpeg)
 
 Larry Tsosie, right, a district grazing chairman with the Navajo Nation Department of Agriculture, quickly shuts a gate as he helps process surrendered horses Friday at the auction yard in Naschitti. (The Farmington Daily Times)
 
@@ -85,7 +85,7 @@ Those methods and other proposals by tribal departments for feral horse removal 
 
 ## Chicago Park Could Become Home To Mound Celebrating Area’s Native American History
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775693622-V5REPQ3SVFRXEJS82P6E/image-asset.png)
+![](images/b65b6f48-image-asset.png)
 
 A rendering of the proposed art installation at Horner Park.IMAGE COURTESY CHICAGO PUBLIC ART GROUP
 
@@ -101,19 +101,19 @@ Indigenous communities in Chicago are invited to contribute earth from their res
 
 ## This Week's History Lesson...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775694854-Y4VT64PLFMHOR84YMTAJ/image-asset.jpeg)
+![](images/9ae0c431-image-asset.jpeg)
 
 ### [Cherokee code talkers also helped win World War I](https://www.hickoryrecord.com/news/cherokee-code-talkers-also-helped-win-world-war-i/article_3ba6a564-a0bb-11e8-ad6c-2fe0af7ee9e6.html)
 
 Most Americans have heard about the Navajo code talker soldiers that served during World War II in the Pacific arena of the war, but many people are unfamiliar with code talkers from numerous other Native American tribes that served in World War I and greatly aided Allied military efforts in the area of military communications.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775695477-306Z0WTQGVGQX97VJQ3M/image-asset.jpeg)
+![](images/f45b54ef-image-asset.jpeg)
 
 ### [Women Surfers Have Been Riding Waves Since the 1600s](http://amp.history.com/news/women-surfers-1600s-hawaii-princess-gidget)
 
 Women (and men) began surfing in Hawaii and other Polynesian islands at least as far back as the 17th century. And while Christian missionaries tried to suppress surfing in the 1800s, a Hawaiian princess helped bring it back.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775696514-4ZFBWAKA0G4SRHF12E4A/image-asset.jpeg)
+![](images/4e1ca4dc-image-asset.jpeg)
 
 ### [Google Doodle honors first Native American woman engineer who helped put man on the moon](https://www.usatoday.com/story/news/nation-now/2018/08/09/who-mary-ross-native-american-engineer-google-doodle/944660002/)
 

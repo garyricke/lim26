@@ -5,7 +5,7 @@ date: 2016-04-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-4
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ced80bd5b10e95f4147e/1748628700852/3500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781466389-BF6K104T9DH2MNAY0HH6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781469258-I6GUO9PKKM7IWBFAWE8C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781471531-JCKGT1U6CTK2IC4EHY1I/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781473766-TAAVTDKNGVYYF5E84D9M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781476341-EX65KB4AB7FAFQITYXID/image-asset.png"]
+images: ["images/a32d43fb-3500.jpg", "images/9be664ee-image-asset.jpeg", "images/b2705a76-image-asset.jpeg", "images/dde60be1-image-asset.jpeg", "images/16b105e8-image-asset.jpeg", "images/dff8d445-image-asset.png"]
 ---
 # This Week in Native American News
 
@@ -15,13 +15,13 @@ Apr 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781466389-BF6K104T9DH2MNAY0HH6/image-asset.jpeg)
+![](images/9be664ee-image-asset.jpeg)
 
 ---
 
 ### What is going on with all these suicide emergencies?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781469258-I6GUO9PKKM7IWBFAWE8C/image-asset.jpeg)
+![](images/b2705a76-image-asset.jpeg)
 
 People take part in a candlelight vigil Attawapiskat. Photograph: Chris Wattie/Reuters
 
@@ -43,7 +43,7 @@ Want to do something yourself? [4 Things You Can Do to Help](http://www.lutheran
 
 ### The Native World Mourns Joseph Medicine Crow
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781471531-JCKGT1U6CTK2IC4EHY1I/image-asset.jpeg)
+![](images/dde60be1-image-asset.jpeg)
 
 *Native American Crow historian Joe Medicine Crow, in 2008, addresses then-presidential-candidate Barack Obama. [Photo credit: James Woodcock / Billings Gazette](#)*
 
@@ -57,7 +57,7 @@ Mr. Medicine Crow was also a prolific author. [Check out his books here.\*](http
 
 ### Federal Government Trying to Supply Traditional Foods but Missing Mark
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781473766-TAAVTDKNGVYYF5E84D9M/image-asset.jpeg)
+![](images/16b105e8-image-asset.jpeg)
 
 *A bison (left) and blue cornmeal. (Photos: Anna Ferensowicz/Getty Images; Ellen Freytag/Flickr)*
 
@@ -71,7 +71,7 @@ This confusion confirms the misunderstanding outsiders have about native culture
 
 ### Indigenous Comic Con to hit Albuquerque in November
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781476341-EX65KB4AB7FAFQITYXID/image-asset.png)
+![](images/dff8d445-image-asset.png)
 
 Enjoyed learning about native gaming last week? Well, now you can indulge in the first ever Comic Con dedicated to native creators.
 

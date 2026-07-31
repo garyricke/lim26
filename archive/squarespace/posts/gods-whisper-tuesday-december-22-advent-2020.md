@@ -5,7 +5,7 @@ date: 2020-12-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/gods-whisper-tuesday-december-22-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae8dece48e41528588ac/1748628700852/maxresdefault.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773201773-YFUANQ7Z45JX805NS2QA/image-asset.png"]
+images: ["images/1fbcaa7b-maxresdefault.jpg", "images/bb9aad69-image-asset.png"]
 ---
 # God's Whisper - Tuesday, December 22 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773201773-YFUANQ7Z45JX805NS2QA/image-asset.png)
+![](images/bb9aad69-image-asset.png)
 
 ## God, who has called you into fellowship with his Son Jesus Christ our Lord, is faithful. [1 Corinthians 1:9](https://my.bible.com/bible/111/1CO.1.9)
 

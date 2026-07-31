@@ -5,7 +5,7 @@ date: 2017-11-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-635-36-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be51c383b522978dcfb9/1748628700852/-Here+is+another+way+to+see+what+I+am+saying-+Help+others+in+the+same+way+you+would+want+them+to+help+you.-Luke+6-31+FNV+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777235069-D7QI927CYY4O81GH0OO5/image-asset.png"]
+images: ["images/b6027b3d--Here_is_another_way_to_see_what_I_am_saying-_Help_others_in_the_same_way_you_would_want_them_to_help_you.-Luke_6-31_FNV", "images/54f071e9-image-asset.png"]
 ---
 # Luke 6:35-36 FNV
 
@@ -13,7 +13,7 @@ Nov 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777235069-D7QI927CYY4O81GH0OO5/image-asset.png)
+![](images/54f071e9-image-asset.png)
 
 "Mercy" is the one great cry of human nature. We dare not ask for justice, we can only plead for mercy. We, who want so much mercy from God, must learn to show mercy to our fellow-men. How can we look to Him for mercy if we never show mercy, how can we ask forgiveness unless we forgive?
 

@@ -5,7 +5,7 @@ date: 2021-03-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/he-pulls-me-out-he-sees-me-through-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae408b68752f87b2e9dc/1748628700852/21+He+Pulls+Me+Out+He+Sees+Me+Through.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773121814-G8N5AHGAKCM734XMM7VL/image-asset.jpeg"]
+images: ["images/6fcba95b-21_He_Pulls_Me_Out_He_Sees_Me_Through.jpg", "images/28cec138-image-asset.jpeg"]
 ---
 # He Pulls Me Out, He Sees Me Through (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773121814-G8N5AHGAKCM734XMM7VL/image-asset.jpeg)
+![](images/28cec138-image-asset.jpeg)
 
 # “ . . . I WILL TAKE REFUGE IN THE SHADOW OF YOUR WINGS UNTIL THE DISASTER HAS PASSED. I CRY OUT TO GOD MOST HIGH, TO GOD, WHO FULFILLS HIS PURPOSE FOR ME. HE SENDS FROM HEAVEN AND SAVES ME . . .” (PSALM 57:1- 3)
 

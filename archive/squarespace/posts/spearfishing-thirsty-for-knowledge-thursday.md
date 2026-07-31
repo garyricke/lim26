@@ -5,7 +5,7 @@ date: 2017-07-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/spearfishing-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfdd1c139f039c3197f3/1748628700852/maxresdefault+%281%29.jpg"]
+images: ["images/de3ea722-maxresdefault__1_.jpg"]
 ---
 # Spearfishing - Thirsty (for Knowledge) Thursday
 

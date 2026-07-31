@@ -5,7 +5,7 @@ date: 2016-05-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-may-13-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ca2c5de20241aecec054/1748628700852/repatriation+of+students+remains.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780270267-DCD8O387ZD43BCSDPDYK/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780271987-ZM0ELXWP078R4BRNBQB3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780272961-ZSUOBP2Z4JULN2594K83/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780329147-81UUA8GQNA6535ZO9JCC/image-asset.png"]
+images: ["images/ad10cbbe-repatriation_of_students_remains.jpg", "images/c28095ec-image-asset.png", "images/b090732c-image-asset.jpeg", "images/a25a47a4-image-asset.jpeg", "images/c2da4a84-image-asset.png"]
 ---
 # This Week in Native American News - May 13, 2016
 
@@ -15,13 +15,13 @@ May 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780270267-DCD8O387ZD43BCSDPDYK/image-asset.png)
+![](images/c28095ec-image-asset.png)
 
 ---
 
 ### Two Native American Media Companies Join Forces
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780271987-ZM0ELXWP078R4BRNBQB3/image-asset.jpeg)
+![](images/b090732c-image-asset.jpeg)
 
 Irene Bedard meets with Red Heritage Media. Photo courtesy of: [The Herald](#)
 
@@ -39,7 +39,7 @@ Sidenote: the actual native people famous for Pocahontas, the Pamunkey of Virgin
 
 ### US Army to Pay for Repatriation of Students' Bodies from Carlisle
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780272961-ZSUOBP2Z4JULN2594K83/image-asset.jpeg)
+![](images/a25a47a4-image-asset.jpeg)
 
 Justin Buller, left, Associate Deputy General Council, Dept. of Army, Office of General Counsel, answers questions about the repatriation process. Courtesy of [AP](#)
 
@@ -61,7 +61,7 @@ The tribes will work with the University of Kansas’ Monarch Watch program and 
 
 Linguist Discovers Five Lost Languages in Massachusetts
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780329147-81UUA8GQNA6535ZO9JCC/image-asset.png)
+![](images/c2da4a84-image-asset.png)
 
 While it was once thought that the Native Americans of Massachusetts spoke one common language, Loup (pronounced lou), Ives Goddard of the Smithsonian Natural Museum of Natural History is part of a discovery that suggests there may have been more than five languages commonly spoken in the Connecticut Valley area.
 

@@ -5,7 +5,7 @@ date: 2016-09-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/monday-morning-devotion-good-shepherd
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5898ebef20056863a0d/1748628700852/tumblr_nh7w8rfSh11s91yx0o1_500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779083757-SNAWBO8HGJ1CV4OJKO5F/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779085579-Y6CLA6IE2Y71DOF8A6AG/image-asset.jpeg"]
+images: ["images/df90f876-tumblr_nh7w8rfSh11s91yx0o1_500.jpg", "images/7683b1f1-image-asset.png", "images/bce4ac0e-image-asset.jpeg"]
 ---
 # Monday Morning Devotion - Good Shepherd
 
@@ -15,7 +15,7 @@ Sep 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779083757-SNAWBO8HGJ1CV4OJKO5F/image-asset.png)
+![](images/7683b1f1-image-asset.png)
 
 This is week FOUR in our seven-part devotion series, brought to you by Pastor Ricky Jacob, our Lutheran Indian Ministries Associate Pastor serving the Winnebago people of Nebraska.
 
@@ -37,7 +37,7 @@ Skip to a specific week:
 
 This week's "I am" statement is: I am the Good Shepherd
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779085579-Y6CLA6IE2Y71DOF8A6AG/image-asset.jpeg)
+![](images/bce4ac0e-image-asset.jpeg)
 
 Do you know the Latin word for “shepherd”? I’m sure you’ve heard it. The Latin word for “shepherd” is "pastor". Jesus is declaring that He is the Good Pastor, the one and only good pastor. All other pastors are under-shepherds, called by God to point their flock to Jesus, the Good Shepherd.
 

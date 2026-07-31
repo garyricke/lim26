@@ -5,7 +5,7 @@ date: 2017-10-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-624-fnv1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bedda567bc0fe71bd913/1748628700852/luke+6-24.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777374559-54I6TVVXLCXI81QSHCOY/image-asset.png"]
+images: ["images/49f605a4-luke_6-24.png", "images/903dc6be-image-asset.png"]
 ---
 # Luke 6:24 FNV
 
@@ -13,7 +13,7 @@ Oct 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777374559-54I6TVVXLCXI81QSHCOY/image-asset.png)
+![](images/903dc6be-image-asset.png)
 
 The Pharisees, who were laden with the spoils of the people which they received in gifts, etc. These three verses are not found in the sermon, as recorded by Matthew. They seem to be spoken chiefly to the scribes and Pharisees, who, in order to be pleasing to all, spoke to every one what he liked best; and by finesse, flattery, and lies, found out the method of gaining and keeping the good opinion of the multitude.
 

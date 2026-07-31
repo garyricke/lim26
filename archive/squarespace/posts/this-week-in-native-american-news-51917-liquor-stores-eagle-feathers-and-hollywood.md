@@ -5,7 +5,7 @@ date: 2017-05-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-51917-liquor-stores-eagle-feathers-and-hollywood
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0871c139f039c31b060/1748628700852/636300160849757804-AP-PINE-RIDGE-RESERVATION-ALCOHOL-57679916.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777799741-22E9RSPXJAY6FC3G0BA7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777800970-UALBI9KNSWFTFXGDSWMX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777802047-GBSBD4AVMUM35HP707A5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777803809-VQ42Y9WJOUI7G2R6ARPV/image-asset.jpeg"]
+images: ["images/7b194ca2-636300160849757804-AP-PINE-RIDGE-RESERVATION-ALCOHOL-57679916.JPG", "images/982f0ec8-image-asset.jpeg", "images/8c9e0625-image-asset.jpeg", "images/2077daa9-image-asset.jpeg", "images/52b5de4e-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/19/17): liquor stores, running water, and Hollywood
 
@@ -13,7 +13,7 @@ May 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777799741-22E9RSPXJAY6FC3G0BA7/image-asset.jpeg)
+![](images/982f0ec8-image-asset.jpeg)
 
 # May 19, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: A Life Devoted to Indigenous Youth
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777800970-UALBI9KNSWFTFXGDSWMX/image-asset.jpeg)
+![](images/8c9e0625-image-asset.jpeg)
 
 In November of 2000, Mike Stevens was on top of his game. His time was spent recording, touring and performing in renowned concert venues like the Grand Ole Opry.
 
@@ -41,7 +41,7 @@ But then the unexpected happened.
 
 ## Solving Alcoholism Needs to Start Within
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777802047-GBSBD4AVMUM35HP707A5/image-asset.jpeg)
+![](images/2077daa9-image-asset.jpeg)
 
 Last month, Nebraska officials voted to revoke the licenses of four liquor stores near the border of the Pine Ridge Reservation in South Dakota. Pine Ridge is supposed to be a dry reservation but its residents regularly procure alcohol from these stores. Tribal officials argue that if these stores were closed, residents would have limited access to liquor and the high rates of alcohol abuse on the reservation would diminish.
 
@@ -55,7 +55,7 @@ So what can be done?
 
 ## No Running Water... We're Not Talking About a Third World Country
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777803809-VQ42Y9WJOUI7G2R6ARPV/image-asset.jpeg)
+![](images/52b5de4e-image-asset.jpeg)
 
 On the outskirts of Monument Valley, touching the Arizona-Utah border, a water well is encased in a brick building behind a barb-wired fence. A few cattle graze nearby, mooing to occasionally pierce the quiet.
 

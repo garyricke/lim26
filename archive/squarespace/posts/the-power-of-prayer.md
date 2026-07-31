@@ -5,7 +5,7 @@ date: 2022-04-25
 author: "Pastor Ricky Jacob"
 original_url: https://www.lutheranindianministries.org/reflections/the-power-of-prayer
 section: reflections
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/6266ab2f91e9a04aac28865d/1654896578212/stock-prayer-woman.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1768347064201-48KIH6XTDVWXE4JNKDHE/pastor-tony-hero-wide-trees.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1770071883558-S0QS8CUQM3W22CDZMNQ0/ChatGPT+Image+Feb+2%2C+2026%2C+04_36_46+PM.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1771261250836-YMNEUOXY69GIU9JC0WMJ/pastor-tony-5th-graders-question-hero-wide.jpg"]
+images: ["images/40d0411c-stock-prayer-woman.jpg", "images/24167cf0-pastor-tony-hero-wide-trees.jpg", "images/8a1ae50b-ChatGPT_Image_Feb_2__2026__04_36_46_PM.jpg", "images/5b9644f3-pastor-tony-5th-graders-question-hero-wide.jpg"]
 ---
 # The Power of Prayer
 
@@ -63,15 +63,15 @@ Thank you!
 
 See Also
 
-[![A 5th Grader's Big Question](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1771261250836-YMNEUOXY69GIU9JC0WMJ/pastor-tony-5th-graders-question-hero-wide.jpg)](/reflections/gods-kindness-re65y)
+[![A 5th Grader's Big Question](images/5b9644f3-pastor-tony-5th-graders-question-hero-wide.jpg)](/reflections/gods-kindness-re65y)
 
 [A 5th Grader's Big Question](/reflections/gods-kindness-re65y)
 
-[![God’s Kindness in the Dead-Still Season](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1770071883558-S0QS8CUQM3W22CDZMNQ0/ChatGPT+Image+Feb+2%2C+2026%2C+04_36_46+PM.jpg)](/reflections/gods-kindness)
+[![God’s Kindness in the Dead-Still Season](images/8a1ae50b-ChatGPT_Image_Feb_2__2026__04_36_46_PM.jpg)](/reflections/gods-kindness)
 
 [God’s Kindness in the Dead-Still Season](/reflections/gods-kindness)
 
-[![Living in God's Perfect Plan: A Message from the Trees](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1768347064201-48KIH6XTDVWXE4JNKDHE/pastor-tony-hero-wide-trees.jpg)](/reflections/a-message-from-the-trees)
+[![Living in God's Perfect Plan: A Message from the Trees](images/24167cf0-pastor-tony-hero-wide-trees.jpg)](/reflections/a-message-from-the-trees)
 
 [Living in God's Perfect Plan: A Message from the Trees](/reflections/a-message-from-the-trees)
 

@@ -5,7 +5,7 @@ date: 2017-11-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-111017
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be6faca4b13cd388ed00/1748628700852/160907143620-navajo-code-talkers-3-exlarge-169.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777264614-WUERZ6D69NVTH0F9MW7U/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777265868-OP3VW4ILOGXKJ4W7DNIU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777266635-MEG2375OT5PERDGXED14/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777267896-4N9CLXIP125G9PZXPX5J/image-asset.jpeg"]
+images: ["images/a9feedb7-160907143620-navajo-code-talkers-3-exlarge-169.jpg", "images/b75f1f8e-image-asset.jpeg", "images/5424eeee-image-asset.jpeg", "images/e9e7919d-image-asset.jpeg", "images/a552650d-image-asset.jpeg"]
 ---
 # This Week in Native American News (11/10/17): Native Veterans, Trauma Training, and Indigenous Maps
 
@@ -13,7 +13,7 @@ Nov 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777264614-WUERZ6D69NVTH0F9MW7U/image-asset.jpeg)
+![](images/b75f1f8e-image-asset.jpeg)
 
 # November 10, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Celebrating Veterans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777265868-OP3VW4ILOGXKJ4W7DNIU/image-asset.jpeg)
+![](images/5424eeee-image-asset.jpeg)
 
 Photo credit: CNN.com
 
@@ -39,7 +39,7 @@ Tomorrow is Veteran's Day, the day we celebrate those who have served in our arm
 
 ## Trauma Training Needed in Native Communities
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777266635-MEG2375OT5PERDGXED14/image-asset.jpeg)
+![](images/e9e7919d-image-asset.jpeg)
 
 Colton Willier, 8, is a writer, director and animator with two stop-motion films to his credit. (Yamuna Flaherty)
 
@@ -57,7 +57,7 @@ Del Graff's investigative review into their deaths contains two recommendations 
 
 ## Cherokee Man Creates Indigenous U.S. Map
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777267896-4N9CLXIP125G9PZXPX5J/image-asset.jpeg)
+![](images/a552650d-image-asset.jpeg)
 
 Photo credit: Aaron Carapella
 

@@ -5,7 +5,7 @@ date: 2016-02-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/more-than-good-luck-psalm-461-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cfd791b66421eb101885/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781721049-L57MUWRCUMDVF5VA5297/image-asset.jpeg"]
+images: ["images/cf9059e5-1748628700852", "images/fe7e129d-image-asset.jpeg"]
 ---
 # More than Good Luck - Psalm 46:1-2
 
@@ -15,7 +15,7 @@ Feb 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781721049-L57MUWRCUMDVF5VA5297/image-asset.jpeg)
+![](images/fe7e129d-image-asset.jpeg)
 
 **Tuesday February 23**
 

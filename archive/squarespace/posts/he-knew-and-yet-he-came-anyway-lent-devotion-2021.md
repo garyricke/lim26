@@ -5,7 +5,7 @@ date: 2021-03-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/he-knew-and-yet-he-came-anyway-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae306ad1b35e1911f9f9/1748628700852/21+He+Knew+and+Yet+He+Came+Anyway.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773105256-ZVARXX8HYMHARYFUL25Q/image-asset.jpeg"]
+images: ["images/0ccb394c-21_He_Knew_and_Yet_He_Came_Anyway.jpg", "images/c05db643-image-asset.jpeg"]
 ---
 # He Knew and Yet He Came Anyway (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773105256-ZVARXX8HYMHARYFUL25Q/image-asset.jpeg)
+![](images/c05db643-image-asset.jpeg)
 
 # "HAVE THIS MIND AMONG YOURSELVES, WHICH IS YOURS IN CHRIST JESUS, WHO, THOUGH HE WAS IN THE FORM OF GOD, DID NOT COUNT EQUALITY WITH GOD A THING TO BE GRASPED, BUT EMPTIED HIMSELF, BY TAKING THE FORM OF A SERVANT, BEING BORN IN THE LIKENESS OF MEN. AND BEING FOUND IN HUMAN FORM, HE HUMBLED HIMSELF BY BECOMING OBEDIENT TO THE POINT OF DEATH, EVEN DEATH ON A CROSS." (PHILIPPIANS 2:5-8 ESV)
 

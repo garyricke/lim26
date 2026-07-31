@@ -5,7 +5,7 @@ date: 2024-07-08
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/sacred-connections-podcast/healing-the-wounds-of-trauma-stories-of-faith-and-resilience
 section: sacred-connections-podcast
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/660c235960ba3320f57b3607/668c1780f43db4419d283b60/1750081741205/podcast-healing-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/016f15be-a04b-4a6a-b672-35674fef0153/sacred3-verta-1-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/0b12f4f5-a84e-4e03-a211-d099dab36974/sacred-3-andrea-thumb-2of2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/36ee1031-b202-43fb-b50c-2f50157699ea/sacred3-tommy-1-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/601fee8d-c529-4ed8-a8e8-f049fc407328/sacred-3-andrea-thumb-1of2-b.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/6b0645a0-1977-4e62-b3c6-fe0f1e6203af/sacred3-suzette-2-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a88f8b5e-6675-4526-a001-4c29f549ac0a/sacred3-suzette-1-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/e2f942d5-2133-4244-b39e-9e0a55e90df3/sacred3-suzette-3-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/e4162a49-6b12-435f-bd5a-6d6b3dfa9f52/sacred3-verta-2-thumb.jpg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/04d63851-podcast-healing-thumb-2-3.jpg", "images/1532b0c7-sacred3-verta-1-thumb.jpg", "images/fec4bbfa-sacred-3-andrea-thumb-2of2.jpg", "images/ed5c7fe2-sacred3-tommy-1-thumb.jpg", "images/ac6589c3-sacred-3-andrea-thumb-1of2-b.jpg", "images/b8552988-sacred3-suzette-2-thumb.jpg", "images/9f024b6d-sacred3-suzette-1-thumb.jpg", "images/83054aeb-sacred3-suzette-3-thumb.jpg", "images/6b638083-sacred3-verta-2-thumb.jpg", "images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # Healing The Wounds of Trauma: Stories of Faith and Resilience
 
@@ -19,7 +19,7 @@ Written By [Gary Ricke](/sacred-connections-podcast?author=55f2f1aee4b0a206f577f
 
 ## Trust in the Lord with all your heart
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/016f15be-a04b-4a6a-b672-35674fef0153/sacred3-verta-1-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479283/rendition/1080p/file.mp4?loc=external&log_user=0&signature=e29607735c18dc70129919401b53fbd95a494fc8e2cf2de4290a54b8b219f3ae)
+[![](images/1532b0c7-sacred3-verta-1-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479283/rendition/1080p/file.mp4?loc=external&log_user=0&signature=e29607735c18dc70129919401b53fbd95a494fc8e2cf2de4290a54b8b219f3ae)
 
 > My name is Verda. I live in Busby, Montana. My Indian name is Ma’óhkééná’e, and that means red feather woman.
 >
@@ -39,7 +39,7 @@ And why is it your faith?
 
 What was this like for you?
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/e4162a49-6b12-435f-bd5a-6d6b3dfa9f52/sacred3-verta-2-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479327/rendition/1080p/file.mp4?loc=external&log_user=0&signature=655cd5e709efa3d4a0ab76bdced01ff46a12171131acb649b4b0ed8efd055273)
+[![](images/6b638083-sacred3-verta-2-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479327/rendition/1080p/file.mp4?loc=external&log_user=0&signature=655cd5e709efa3d4a0ab76bdced01ff46a12171131acb649b4b0ed8efd055273)
 
 > To be honest, I didn't know what to expect. I didn't really understand. But I came because I know that we have a need in our community, and I felt like I was struggling to come, but I'm glad that I did.
 >
@@ -65,7 +65,7 @@ We love you too, Verda.
 
 — Isaiah 53
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a88f8b5e-6675-4526-a001-4c29f549ac0a/sacred3-suzette-1-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479175/rendition/1080p/file.mp4?loc=external&log_user=0&signature=e79e9e8c31998893bb2492efd63d7705e1fa309bbf46f5e73f558c8386da9d6e)
+[![](images/9f024b6d-sacred3-suzette-1-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479175/rendition/1080p/file.mp4?loc=external&log_user=0&signature=e79e9e8c31998893bb2492efd63d7705e1fa309bbf46f5e73f558c8386da9d6e)
 
 > My name is Suzette. I am the pastor in Busby, Montana, on the Northern Cheyenne Indian Reservation.
 
@@ -81,7 +81,7 @@ And do you have a favorite verse?
 
 ## Christ's Gentle Love
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/6b0645a0-1977-4e62-b3c6-fe0f1e6203af/sacred3-suzette-2-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479202/rendition/1080p/file.mp4?loc=external&log_user=0&signature=4a9cce3c325f6f04a242bf0faef0b0df006a469b17b8adc17e6eb5e00d75cd6c)
+[![](images/b8552988-sacred3-suzette-2-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479202/rendition/1080p/file.mp4?loc=external&log_user=0&signature=4a9cce3c325f6f04a242bf0faef0b0df006a469b17b8adc17e6eb5e00d75cd6c)
 
 Suzette what was this like for you?
 
@@ -97,7 +97,7 @@ Suzette what was this like for you?
 
 So what's different now?
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/e2f942d5-2133-4244-b39e-9e0a55e90df3/sacred3-suzette-3-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479237/rendition/1080p/file.mp4?loc=external&log_user=0&signature=effb415c923d1fcc89750715f720859ba2937f4e6a02e2ec48a0d07a4bd6d389)
+[![](images/83054aeb-sacred3-suzette-3-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479237/rendition/1080p/file.mp4?loc=external&log_user=0&signature=effb415c923d1fcc89750715f720859ba2937f4e6a02e2ec48a0d07a4bd6d389)
 
 > As I shared earlier, I've always had a longing in my heart to help our Cheyenne people since I was 19 years old.
 >
@@ -121,7 +121,7 @@ Thank you, Suzette.
 
 — Mark 10:27
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/36ee1031-b202-43fb-b50c-2f50157699ea/sacred3-tommy-1-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479260/rendition/1080p/file.mp4?loc=external&log_user=0&signature=02f701c4d001ead048cb6bd92954d7ca34753c0f0996ed42472870b8799c1b6b)
+[![](images/ed5c7fe2-sacred3-tommy-1-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/988479260/rendition/1080p/file.mp4?loc=external&log_user=0&signature=02f701c4d001ead048cb6bd92954d7ca34753c0f0996ed42472870b8799c1b6b)
 
 > My name is Tommy. I live on the Cheyenne reservation. I'm a member of the Northern Cheyenne Nation, the Crow Nation, the Oglala Sioux, and my Indian name is Ho'évááno, which means swift talk.
 
@@ -159,7 +159,7 @@ Thank you, Tommy.
 
 — Romans 8:14-17
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/601fee8d-c529-4ed8-a8e8-f049fc407328/sacred-3-andrea-thumb-1of2-b.jpg)](https://player.vimeo.com/progressive_redirect/playback/995096597/rendition/720p/file.mp4?loc=external&log_user=0&signature=630b1f95e2a355bcc7400ffa4a9e807082f71934184aa6f7c5da08017302ac7b)
+[![](images/ac6589c3-sacred-3-andrea-thumb-1of2-b.jpg)](https://player.vimeo.com/progressive_redirect/playback/995096597/rendition/720p/file.mp4?loc=external&log_user=0&signature=630b1f95e2a355bcc7400ffa4a9e807082f71934184aa6f7c5da08017302ac7b)
 
 > My name's Andrea Means. It's "Maget" in Cheyenne, which means "little woman". And I’m from Lame Deer, Montana.
 
@@ -191,7 +191,7 @@ And so what's different now?
 
 Thank you, Andrea.
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/0b12f4f5-a84e-4e03-a211-d099dab36974/sacred-3-andrea-thumb-2of2.jpg)](https://player.vimeo.com/progressive_redirect/playback/995099994/rendition/1080p/file.mp4?loc=external&log_user=0&signature=65193b39c5d40592dd64a9a76f9f81b5a90a04d8886a6046aa03d44b14830214)
+[![](images/fec4bbfa-sacred-3-andrea-thumb-2of2.jpg)](https://player.vimeo.com/progressive_redirect/playback/995099994/rendition/1080p/file.mp4?loc=external&log_user=0&signature=65193b39c5d40592dd64a9a76f9f81b5a90a04d8886a6046aa03d44b14830214)
 
 ---
 
@@ -205,6 +205,6 @@ Last Update 22 July 2024
 
 ~subheadIndex-h2
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/sacred-connections-podcast?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

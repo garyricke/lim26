@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/what+to+watch
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777504862-0K3NSHVV4X9APB15Q96U/ourfiresstillburn-screenshot.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777528821-PH5UO2JLOEFMBK2RNV85/8568c027588ce3981ff6c4c92a40a5f7.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777557087-0RJ8LF4MQQTAEC4PPYQN/ST05.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777579577-TF5YZVA0GV2Q0NEID6P7/monique-bg.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777594456-B19D3X166LWD05CZ0751/Mezzanine_953.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777619423-0N793R61EJSTCIAPDHB2/sn-kennewickman.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777641038-I2H1VKCP89FW16V6H1B0/sn-kennewickman.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777671973-DGBFURPQCISB8YIHIKAR/wpt_1318861661.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777703366-95Z2CN6FFKMUGP8N0TEZ/hqdefault.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777723038-1VD6GY9RL1VTFENGJUVV/hqdefault.jpg"]
+images: ["images/116e288b-ourfiresstillburn-screenshot.jpg", "images/0c6c94c0-8568c027588ce3981ff6c4c92a40a5f7.jpg", "images/2b4fc338-ST05.jpg", "images/05841d3f-monique-bg.jpg", "images/049787d3-Mezzanine_953.jpg", "images/5a2a48a6-sn-kennewickman.jpg", "images/05a838b7-sn-kennewickman.jpg", "images/6e54db46-wpt_1318861661.jpg", "images/4695fa9f-hqdefault.jpg", "images/bf883cd4-hqdefault.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![What to Watch: Our Fire Still Burns](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777504862-0K3NSHVV4X9APB15Q96U/ourfiresstillburn-screenshot.jpg)](/news-notes/what-to-watch-our-fire-still-burns)
+[![What to Watch: Our Fire Still Burns](images/116e288b-ourfiresstillburn-screenshot.jpg)](/news-notes/what-to-watch-our-fire-still-burns)
 
 Guest User
 8/11/17
@@ -75,7 +75,7 @@ Yet, amidst the debris of suffering and trauma, there is resilience and a profou
 
 [Read More](/news-notes/what-to-watch-our-fire-still-burns)
 
-[![What to Watch: The Medicine Game](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777528821-PH5UO2JLOEFMBK2RNV85/8568c027588ce3981ff6c4c92a40a5f7.jpg)](/news-notes/what-to-watch-the-medicine-game)
+[![What to Watch: The Medicine Game](images/0c6c94c0-8568c027588ce3981ff6c4c92a40a5f7.jpg)](/news-notes/what-to-watch-the-medicine-game)
 
 Guest User
 8/4/17
@@ -89,7 +89,7 @@ Guest User
 
 [Read More](/news-notes/what-to-watch-the-medicine-game)
 
-[![What to Watch: Silent Thunder](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777557087-0RJ8LF4MQQTAEC4PPYQN/ST05.jpg)](/news-notes/what-to-watch-silent-thunder)
+[![What to Watch: Silent Thunder](images/2b4fc338-ST05.jpg)](/news-notes/what-to-watch-silent-thunder)
 
 Guest User
 7/28/17
@@ -103,7 +103,7 @@ A heartwarming story of Stanford Addison: a Native American Elder, Spiritual Lea
 
 [Read More](/news-notes/what-to-watch-silent-thunder)
 
-[![What to Watch: My Louisiana Love](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777579577-TF5YZVA0GV2Q0NEID6P7/monique-bg.jpg)](/news-notes/what-to-watch-my-louisiana-love)
+[![What to Watch: My Louisiana Love](images/05841d3f-monique-bg.jpg)](/news-notes/what-to-watch-my-louisiana-love)
 
 Guest User
 7/21/17
@@ -117,7 +117,7 @@ In this intimate documentary portrait, Monique must overcome the loss of her hou
 
 [Read More](/news-notes/what-to-watch-my-louisiana-love)
 
-[![What to Watch: Smokin' Fish](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777594456-B19D3X166LWD05CZ0751/Mezzanine_953.jpg)](/news-notes/what-to-watch-smokin-fish)
+[![What to Watch: Smokin' Fish](images/049787d3-Mezzanine_953.jpg)](/news-notes/what-to-watch-smokin-fish)
 
 Guest User
 7/14/17
@@ -131,7 +131,7 @@ Guest User
 
 [Read More](/news-notes/what-to-watch-smokin-fish)
 
-[![What to Watch: Sousa on the Rez](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777619423-0N793R61EJSTCIAPDHB2/sn-kennewickman.jpg)](/news-notes/what-to-watch-sousa-on-the-rez)
+[![What to Watch: Sousa on the Rez](images/5a2a48a6-sn-kennewickman.jpg)](/news-notes/what-to-watch-sousa-on-the-rez)
 
 Guest User
 7/7/17
@@ -145,7 +145,7 @@ Quick but captivating, this 30-minute documentary about Native American musical 
 
 [Read More](/news-notes/what-to-watch-sousa-on-the-rez)
 
-[![What to Watch: Who Owns the Past](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777641038-I2H1VKCP89FW16V6H1B0/sn-kennewickman.jpg)](/news-notes/what-to-watch-who-owns-the-past)
+[![What to Watch: Who Owns the Past](images/05a838b7-sn-kennewickman.jpg)](/news-notes/what-to-watch-who-owns-the-past)
 
 Guest User
 6/30/17
@@ -159,7 +159,7 @@ Studying the controversy around Native American Graves Repatriation and Protecti
 
 [Read More](/news-notes/what-to-watch-who-owns-the-past)
 
-[![What to Watch: The Oneida Speak](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777671973-DGBFURPQCISB8YIHIKAR/wpt_1318861661.jpg)](/news-notes/what-to-watch-the-oneida-speak)
+[![What to Watch: The Oneida Speak](images/6e54db46-wpt_1318861661.jpg)](/news-notes/what-to-watch-the-oneida-speak)
 
 Guest User
 6/23/17
@@ -175,7 +175,7 @@ This week's featured film is: [The Oneida Speak](http://americanarchive.org/cata
 
 [Read More](/news-notes/what-to-watch-the-oneida-speak)
 
-[![What to Watch: Injunuity](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777703366-95Z2CN6FFKMUGP8N0TEZ/hqdefault.jpg)](/news-notes/what-to-watch-injunuity)
+[![What to Watch: Injunuity](images/4695fa9f-hqdefault.jpg)](/news-notes/what-to-watch-injunuity)
 
 Guest User
 6/16/17
@@ -189,7 +189,7 @@ A documentary film using interviews and archival footage to show the vital role 
 
 [Read More](/news-notes/what-to-watch-injunuity)
 
-[![What to Watch: Navajo Code Talkers](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777723038-1VD6GY9RL1VTFENGJUVV/hqdefault.jpg)](/news-notes/what-to-watch-choctaw-code-talkers-rdxtm)
+[![What to Watch: Navajo Code Talkers](images/bf883cd4-hqdefault.jpg)](/news-notes/what-to-watch-choctaw-code-talkers-rdxtm)
 
 Guest User
 6/9/17

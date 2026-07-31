@@ -5,7 +5,7 @@ date: 2017-12-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-120817
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be2542bb01115106c0ac/1748628700852/5a134ba594540.image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777190415-N72UISYF7PS4FDE4HFQF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777191464-J5PL3MH3GZISVDD3E9IN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777192935-YM9LWMOO4TKO1PRP8WUZ/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777193937-11MP7FUVSX148UZIKCPC/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777194622-PMMPZT0X4RWXRWHOGAXG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777195593-NMEGCH8YEZX601ESTGEV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777196968-R9ZM0Z1AUNYJYLMRJ1US/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777199410-MFUHVRH6VKR5TIMVDLTB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777200455-2FAZOBHJ3LN6T8KCQO1G/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777202113-9Y10FQCZ38B42CQY4X5I/image-asset.png"]
+images: ["images/79777a8a-5a134ba594540.image.jpg", "images/e1bfca22-image-asset.jpeg", "images/b72a8fce-image-asset.jpeg", "images/b137d9fb-image-asset.png", "images/49e92f77-image-asset.png", "images/ccf8db4d-image-asset.jpeg", "images/18e107cc-image-asset.jpeg", "images/d44d7a60-image-asset.jpeg", "images/a12c3ebb-image-asset.jpeg", "images/910a35ef-image-asset.jpeg", "images/555f4441-image-asset.png"]
 ---
 # This Week in Native American News (12/8/17): La crosse, heart surgeons, and indigenous apps for mental health, child abductions, and language revitalization
 
@@ -13,7 +13,7 @@ Dec 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777190415-N72UISYF7PS4FDE4HFQF/image-asset.jpeg)
+![](images/e1bfca22-image-asset.jpeg)
 
 # December 8, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: First Inuk Heart Surgeon Hopes to be Inspiration
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777191464-J5PL3MH3GZISVDD3E9IN/image-asset.jpeg)
+![](images/b72a8fce-image-asset.jpeg)
 
 DONNA MAY KIMMALIARDJUK  Credit: Huffington Post CA
 
@@ -47,7 +47,7 @@ Kimmaliardjuk says she's happy to share her story if it will inspire other Inuit
 
 ## Senate Approves Expanding AMBER Alerts to Reservations
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777192935-YM9LWMOO4TKO1PRP8WUZ/image-asset.png)
+![](images/b137d9fb-image-asset.png)
 
 The Montana Department of Justice conducted a state-wide test of its AMBER Alert System on Friday. Credit: KBZK
 
@@ -69,7 +69,7 @@ The FBI reports that more than 7,500 Native American Children are listed as miss
 
 ## Also in Native youth news:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777193937-11MP7FUVSX148UZIKCPC/image-asset.png)
+![](images/49e92f77-image-asset.png)
 
 ### [Snapclarity mental health app connects youth to the right service at the right time](http://ottawasun.com/opinion/columnists/walker-snapclarity-mental-health-app-connects-youth-to-the-right-service-at-the-right-time)
 
@@ -77,7 +77,7 @@ The FBI reports that more than 7,500 Native American Children are listed as miss
 
 ## New England Black Wolves Celebrates Native Heritage as the only Professional Native-owned La Crosse Team
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777194622-PMMPZT0X4RWXRWHOGAXG/image-asset.jpeg)
+![](images/ccf8db4d-image-asset.jpeg)
 
 Dr. Lynn Malerba, Chief Many Hearts of the Mohegan tribe, right, during a pregame ceremony. Credit: New England Black Wolves
 
@@ -95,31 +95,31 @@ Kevin Brown, the chairman of the Mohegan tribe, describes the 2014 decision to p
 
 ## Things to Check Out this Week:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777195593-NMEGCH8YEZX601ESTGEV/image-asset.jpeg)
+![](images/18e107cc-image-asset.jpeg)
 
 ### [Modernizing ‘A Christmas Carol’ with Indigenous themes](http://www.westender.com/arts-culture/modernizing-a-christmas-carol-with-indigenous-themes-1.23114885?platform=hootsuite)
 
 By intertwining today’s issues of homelessness, missing and murdered Indigenous women and the overdose crisis, *Bah Humbug!* – a spin on Charles Dickens’ iconic *A Christmas Carol* – takes the western European classic and makes it relevant to Indigenous peoples.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777196968-R9ZM0Z1AUNYJYLMRJ1US/image-asset.jpeg)
+![](images/d44d7a60-image-asset.jpeg)
 
 ### [‘Their Spirits Were Trapped in Those Masks’](https://www.topic.com/their-spirits-were-trapped-in-those-masks)
 
 The heads on the shelves belong to 72 individuals from the Kiowa, Comanche, Cheyenne, Arapaho, and Caddo Nations who were detained by the U.S. military at Fort Marion, Florida in the mid-1870s as prisoners of war. They are not real heads but three-dimensional plaster casts, or “life-masks”—masks made from living subjects (as opposed to “death-masks,” which are cast from the faces of corpses).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777199410-MFUHVRH6VKR5TIMVDLTB/image-asset.jpeg)
+![](images/a12c3ebb-image-asset.jpeg)
 
 ### [Walking Eagle News: Satirical news with an Indigenous twist](http://www.cbc.ca/radio/unreserved/reclaiming-space-through-cooking-tattoos-and-satire-1.4435388/walking-eagle-news-satirical-news-with-an-indigenous-twist-1.4437564)
 
 Four months ago, Tim Fontaine was what he calls a "serious journalist" — he was the lead reporter for CBC Indigenous, but he decided to walk away from that to start something new. That's how **Walking Eagle News** was born. It's a satire news page, similar to The Beaverton or The Onion, but with an Indigenous twist.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777200455-2FAZOBHJ3LN6T8KCQO1G/image-asset.jpeg)
+![](images/910a35ef-image-asset.jpeg)
 
 ### [BLOOM is creating global Indigenous language courses](https://www.patreon.com/letsbloom)
 
 BLOOM is a language learning web tool that (in conjunction with Nations/programs) offers language courses in a host of global Indigenous and minoritized languages.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777202113-9Y10FQCZ38B42CQY4X5I/image-asset.png)
+![](images/555f4441-image-asset.png)
 
 ### [How three academics created a game about indigenous culture and philosophy](https://geekandsundry.com/how-three-academics-created-a-game-about-indigenous-culture-and-philosophy/)
 

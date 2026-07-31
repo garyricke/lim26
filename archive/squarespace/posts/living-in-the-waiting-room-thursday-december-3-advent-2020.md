@@ -5,7 +5,7 @@ date: 2020-12-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/living-in-the-waiting-room-thursday-december-3-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aef6cb88a56680ae7470/1748628700852/psalm-2714-tara-moss.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773306467-UZ0RQKTH27M4BJTNL233/image-asset.png"]
+images: ["images/28e8e4a7-psalm-2714-tara-moss.jpg", "images/bfca2b31-image-asset.png"]
 ---
 # Living in the Waiting Room - Thursday, December 3 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773306467-UZ0RQKTH27M4BJTNL233/image-asset.png)
+![](images/bfca2b31-image-asset.png)
 
 ## Wait for the LORD; be strong, and let your heart take courage; wait for the LORD! [Psalm 27:14](https://my.bible.com/bible/111/PSA.27.14)
 

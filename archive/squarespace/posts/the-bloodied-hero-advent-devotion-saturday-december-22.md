@@ -5,7 +5,7 @@ date: 2018-12-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-bloodied-hero-advent-devotion-saturday-december-22
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6fba0971d66a9148ab6/1748628700852/51bNezNqZZL._SX331_BO1%2C204%2C203%2C200_.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775357011-PXF2GDD1P68BI91Q7TZ4/image-asset.png"]
+images: ["images/5e876030-51bNezNqZZL._SX331_BO1_204_203_200_.jpg", "images/ed85ce32-image-asset.png"]
 ---
 # The Bloodied Hero (Advent Devotion) - Saturday, December 22
 
@@ -13,7 +13,7 @@ Dec 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775357011-PXF2GDD1P68BI91Q7TZ4/image-asset.png)
+![](images/ed85ce32-image-asset.png)
 
 ## Who is this who comes from Edom, in crimsoned garments from Bozrah, he who is splendid in his apparel, marching in the greatness of his strength? "It is I, speaking in righteousness, mighty to save." (Isaiah 63:1 ESV)
 

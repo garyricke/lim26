@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Kansas%2FHaskell+LIGHT
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773268904-6BR66PI6I2RVVIUCW4OO/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773480733-LHZVEUFTAX9M3A54KCMF/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773502807-K3X8YZHZLT3ZUZXC34CY/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773665507-2MWK5NI1CGX2E09EY38Y/Re7.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773670578-26IRKI1IRDXZWVYPQS34/03142018social_2000x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773680742-LGTCUSPPYLT10TT4ZDSF/col-2-13-a.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773712222-VAT5CEGYJVFARLZKVPEF/87669279_3173358989360288_1316742505147924480_o.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773738692-J9KH18ZDRSS7IP1ALT67/51490-acts-2-32-33.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773740778-2YW89KOB84WY2NMNZZE5/DzRZnQ9WkAA9V1z.jpg"]
+images: ["images/f8aabe41-image-asset.png", "images/75af581b-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/c216e4b6-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/38e18edd-Re7.jpg", "images/829bb325-03142018social_2000x.jpg", "images/4896ea52-col-2-13-a.jpg", "images/2a1c32ec-87669279_3173358989360288_1316742505147924480_o.jpg", "images/e9cbd4d0-51490-acts-2-32-33.jpg", "images/518dcf73-DzRZnQ9WkAA9V1z.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![December Update from Sacred Ground - Haskell](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773268904-6BR66PI6I2RVVIUCW4OO/image-asset.png)](/news-notes/update-from-sacred-ground-haskell)
+[![December Update from Sacred Ground - Haskell](images/f8aabe41-image-asset.png)](/news-notes/update-from-sacred-ground-haskell)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -73,7 +73,7 @@ Guest User
 
 [Read More](/news-notes/update-from-sacred-ground-haskell)
 
-[![Living By Faith: Just Sheep - Monday Morning Summer Devotion Series - Week 6](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773480733-LHZVEUFTAX9M3A54KCMF/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-6)
+[![Living By Faith: Just Sheep - Monday Morning Summer Devotion Series - Week 6](images/75af581b-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-6)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -89,7 +89,7 @@ While I, too often, act like a sheep, it helps me to remember I am God’s sheep
 
 [Read More](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-6)
 
-[![Living By Faith: Out of the World - Monday Morning Summer Devotion Series - Week 3](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773502807-K3X8YZHZLT3ZUZXC34CY/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-3)
+[![Living By Faith: Out of the World - Monday Morning Summer Devotion Series - Week 3](images/c216e4b6-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-3)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -131,7 +131,7 @@ We heard the warnings and followed the rules: Stay home, social distance, self-q
 
 [Read More](/news-notes/a-new-trauma)
 
-[![Waving in Celebration - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773665507-2MWK5NI1CGX2E09EY38Y/Re7.jpg)](/news-notes/waving-in-celebration)
+[![Waving in Celebration - Lent 2020](images/38e18edd-Re7.jpg)](/news-notes/waving-in-celebration)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -147,7 +147,7 @@ Let’s practice. Put on some music, sing a song, and wave your arms. Wave a bra
 
 [Read More](/news-notes/waving-in-celebration)
 
-[![Love Each Other - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773670578-26IRKI1IRDXZWVYPQS34/03142018social_2000x.jpg)](/news-notes/love-each-other)
+[![Love Each Other - Lent 2020](images/829bb325-03142018social_2000x.jpg)](/news-notes/love-each-other)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -163,7 +163,7 @@ Guest User
 
 [Read More](/news-notes/love-each-other)
 
-[![Sacred Ground - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773680742-LGTCUSPPYLT10TT4ZDSF/col-2-13-a.jpg)](/news-notes/sacred-ground)
+[![Sacred Ground - Lent 2020](images/4896ea52-col-2-13-a.jpg)](/news-notes/sacred-ground)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -179,7 +179,7 @@ People still go to the cross of Jesus to “hunt” for the truth about salvatio
 
 [Read More](/news-notes/sacred-ground)
 
-[![Sacred Story Success at Haskell](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773712222-VAT5CEGYJVFARLZKVPEF/87669279_3173358989360288_1316742505147924480_o.jpg)](/news-notes/sacred-story-success-at-haskell)
+[![Sacred Story Success at Haskell](images/2a1c32ec-87669279_3173358989360288_1316742505147924480_o.jpg)](/news-notes/sacred-story-success-at-haskell)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -197,7 +197,7 @@ Our Sacred Story team converged on the Haskell Indian Nations University to touc
 
 [Read More](/news-notes/sacred-story-success-at-haskell)
 
-[![There is No Tomb - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773738692-J9KH18ZDRSS7IP1ALT67/51490-acts-2-32-33.jpg)](/news-notes/there-is-no-tomb)
+[![There is No Tomb - Lent 2020](images/e9cbd4d0-51490-acts-2-32-33.jpg)](/news-notes/there-is-no-tomb)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -215,7 +215,7 @@ My tribe had great chiefs like Crazy Horse, Red Cloud, Sitting Bull, and Spotted
 
 [Read More](/news-notes/there-is-no-tomb)
 
-[![Restoring Communication - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773740778-2YW89KOB84WY2NMNZZE5/DzRZnQ9WkAA9V1z.jpg)](/news-notes/restoring-communication)
+[![Restoring Communication - Lent 2020](images/518dcf73-DzRZnQ9WkAA9V1z.jpg)](/news-notes/restoring-communication)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User

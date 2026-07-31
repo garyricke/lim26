@@ -5,7 +5,7 @@ date: 2018-02-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/love-your-brother
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc9ece4bec6e8d1fdace/1748628700852/Love+Your+Brother.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776799929-OHI3BDKGFZK348Z72R46/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/38b64767-Love_Your_Brother.png", "images/ad30a6cd-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Love Your Brother
 
@@ -15,7 +15,7 @@ Feb 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776799929-OHI3BDKGFZK348Z72R46/image-asset.png)
+![](images/ad30a6cd-image-asset.png)
 
 ### “Beloved, let us love one another, for love is from God and whoever loves has been born of God and knows God.” 1 John 4:7
 
@@ -59,7 +59,7 @@ Lutheran Indian Ministries
 
 P.S. Your gift to Lutheran Indian Ministries today emboldens our efforts to proclaim, disciple, and heal more people in more places.  I pray our enclosed Lent devotion booklet will enhance your Lenten journey as you pray for all who have yet to know the unconditional love of God, through His Son, Jesus Christ. Thank you for your generous gift today!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

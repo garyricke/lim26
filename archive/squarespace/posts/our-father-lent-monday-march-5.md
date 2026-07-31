@@ -5,7 +5,7 @@ date: 2018-03-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/our-father-lent-monday-march-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc22cb88a56680b0da3e/1748628700852/120725_Matthew6_9.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776675779-UP7HP284X02OVKOJ0ZIW/image-asset.png"]
+images: ["images/64931612-120725_Matthew6_9.jpg", "images/cd52e819-image-asset.png"]
 ---
 # Our Father (Lent) - Monday, March 5
 
@@ -15,7 +15,7 @@ Mar 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776675779-UP7HP284X02OVKOJ0ZIW/image-asset.png)
+![](images/cd52e819-image-asset.png)
 
 ### "Our Father in heaven, hallowed be your name."   [Matthew 6:9 (ESV)](https://www.bible.com/bible/59/MAT.6.9)
 

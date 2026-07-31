@@ -5,7 +5,7 @@ date: 2019-05-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/hope-is-expecting-the-best-perservering-until-you-get-there-monday-morning-devotion-week-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3707c9bc16a0fbcef08/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774449916-ML04QU12OGC8OCGEQUFP/image-asset.jpeg"]
+images: ["images/a7d1f888-1748628700852", "images/540e4210-image-asset.jpeg"]
 ---
 # Hope is Expecting the Best & Perservering Until You Get There (Monday Morning Devotion - Week 3)
 
@@ -13,7 +13,7 @@ May 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774449916-ML04QU12OGC8OCGEQUFP/image-asset.jpeg)
+![](images/540e4210-image-asset.jpeg)
 
 Many of our Native brothers and sisters live without the hope. This lack of hope covers them with a darkness that infiltrates their whole life. ([You can read more about it here.](https://www.lutheranindianministries.org/news/they-need-to-know-april))
 

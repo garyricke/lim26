@@ -5,7 +5,7 @@ date: 2017-09-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-09292017
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bedfe6ff8f0697289f51/1748628700852/35481_solarschoolbus609x320px_1f.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777376562-6I9C5VP5HWEKPRQAGOOX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777377456-2TGKVNZAXV0OJSSPL76A/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777378741-ZM17MYEJZUQ25ZEWRCU6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777379918-74VZGF6LR0RZDMRRQ5K2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777381707-TUM5RR6EI8GXALT435M3/image-asset.jpeg"]
+images: ["images/2e5a94d0-35481_solarschoolbus609x320px_1f.jpg", "images/0fc3cb51-image-asset.jpeg", "images/91e490ad-image-asset.jpeg", "images/5d6cc046-image-asset.jpeg", "images/5149d08a-image-asset.jpeg", "images/f0aa8300-image-asset.jpeg"]
 ---
 # This Week in Native American News (9/29/17): What will you be celebrating on Monday? (plus desalination buses and big telescopes)
 
@@ -13,7 +13,7 @@ Sep 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777376562-6I9C5VP5HWEKPRQAGOOX/image-asset.jpeg)
+![](images/0fc3cb51-image-asset.jpeg)
 
 # September 29, 2017: [What will you be celebrating on Monday?](https://www.voanews.com/a/native-americans-columbus-day-/4046601.html)
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Engineers Design Desalination Bus to Help the Navajo Nation
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777377456-2TGKVNZAXV0OJSSPL76A/image-asset.jpeg)
+![](images/91e490ad-image-asset.jpeg)
 
 The Navajo Nation resides within a very dry region. It gets less than 12 inches of rain a year and the groundwater is too deep and salty to drink, in addition to containing harmful chemicals like uranium.
 
@@ -31,7 +31,7 @@ Thus far, UA engineers, Apex Applied Technologies and the Service To All Relatio
 
 ### [Read the Full Story Here](http://www.wildcat.arizona.edu/article/2017/09/ua-engineers-design-salination-bus-to-assist-navajo-nation)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777378741-ZM17MYEJZUQ25ZEWRCU6/image-asset.jpeg)
+![](images/5d6cc046-image-asset.jpeg)
 
 ## Also happening on Navajo...
 
@@ -43,7 +43,7 @@ Navajo Man spreads jazz across the nation. The band has played clubs, state fai
 
 ## Indigenous Teacher Leads Reconciliation
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777379918-74VZGF6LR0RZDMRRQ5K2/image-asset.jpeg)
+![](images/5149d08a-image-asset.jpeg)
 
 This Parry Sound group of elementary and high-school students and teachers worked on a 22-page, illustrated children’s book about Indigenous culture. “It’s a piece to further the understanding for future generations,” says Grade 12 student Mackenzie Elwes.
 
@@ -65,7 +65,7 @@ And thus began Ms. Hupfield's journey to personally make a difference for Indige
 
 ## Artists Create Communal Creative Space in Alaska
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777381707-TUM5RR6EI8GXALT435M3/image-asset.jpeg)
+![](images/f0aa8300-image-asset.jpeg)
 
 More than 20 artists gathered at the JACC for Artists of All Nations, a monthly creative space open to all artists and mediums. Juneau artists Crystal Cudworth and Pua Maunu of the Plein Rain Painters works on projects Sep. 24, 2017. (Photo by Annie Bartholomew/KTOO)
 

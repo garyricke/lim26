@@ -5,7 +5,7 @@ date: 2020-12-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thy-kingdom-come-thursday-december-24-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae857f957f7853d6a2c8/1748628700852/thy-kingdom-come-artworks-000506988810-jrbim1-t500x500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773190776-SUEC6QEHVO6X77BB5OH5/image-asset.png"]
+images: ["images/bf3c1c1f-thy-kingdom-come-artworks-000506988810-jrbim1-t500x500.jpg", "images/0649ca80-image-asset.png"]
 ---
 # Thy Kingdom Come - Thursday, December 24 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773190776-SUEC6QEHVO6X77BB5OH5/image-asset.png)
+![](images/0649ca80-image-asset.png)
 
 ## Elisha sent a messenger to say to him, “Go, wash yourself seven times in the Jordan, and your flesh will be restored and you will be cleansed.” [2 Kings 5:10](https://my.bible.com/bible/111/2KI.5.10)
 

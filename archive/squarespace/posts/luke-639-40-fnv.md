@@ -5,7 +5,7 @@ date: 2018-01-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-639-40-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd0abeeec467d9c1506f/1748628700852/He+gave+them+a+wise+saying%2C+_How+can+a+blind+person+guide+another+who+is+blind_+Will+they+not+both+stumble+and+fall_+The+one+guided+cannot+rise+above+his+guide%2C+but+will+be+just+like+him+-+blind._+Luke+6_39-40.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776908162-4G7DJSE1S6V4B2K16FYR/image-asset.png"]
+images: ["images/0064dc90-He_gave_them_a_wise_saying___How_can_a_blind_person_guide_another_who_is_blind__Will_they_not_both_stumble_and_fall__The", "images/54c524ba-image-asset.png"]
 ---
 # Luke 6:39-40 FNV
 
@@ -13,7 +13,7 @@ Jan 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776908162-4G7DJSE1S6V4B2K16FYR/image-asset.png)
+![](images/54c524ba-image-asset.png)
 
 The figure of the blind man setting himself up as a guide was evidently in the Lord's mind as a fair representation of the present thought-leaders of the people (the Pharisees). This is evident from the imagery of the beam and mote which follows (vers. 41, 42). Can these blind guides lead others more ignorant and blind too? What is the natural result? he asks; will not destruction naturally overtake the blind leader and the blind led? Both will, of course, end by falling into the ditch.
 

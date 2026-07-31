@@ -5,7 +5,7 @@ date: 2017-06-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/deliver-us-from-evil-spiritual-warriors-prayer-part-7
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c047b65dbd3949cbb4b2/1748628700852/c6888b471bb071f92a5479696f72f845.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777738318-0LFEZC8A4D1FMVMQRAT4/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777741729-DJTOKKQFOCLJX9WLN3AT/image-asset.jpeg"]
+images: ["images/089a89f6-c6888b471bb071f92a5479696f72f845.jpg", "images/55842758-image-asset.png", "images/e381fe3e-image-asset.jpeg"]
 ---
 # Deliver Us From Evil: Spiritual Warriors Prayer, Part 7
 
@@ -15,7 +15,7 @@ Jun 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777738318-0LFEZC8A4D1FMVMQRAT4/image-asset.png)
+![](images/55842758-image-asset.png)
 
 This is the final week in a seven-week study on the Lord's Prayer, or as Pastor Ricky Jacob likes to call it: the Spiritual Warriors Prayer. Need to start at the beginning? [Read Part 1 here.](https://www.lutheranindianministries.org/news/hallowed-be-thy-name-spiritual-warriors-prayer-part-1)
 
@@ -35,7 +35,7 @@ Gehazi attempted to hide these items from Elisha but he failed. This deception a
 
 Jesus instructed His disciples in praying the Spiritual Warriors prayer. It closes with this final petition: **But deliver us from evil.**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777741729-DJTOKKQFOCLJX9WLN3AT/image-asset.jpeg)
+![](images/e381fe3e-image-asset.jpeg)
 
 **We pray in this petition, in summary, that our Father in heaven would rescue us from every evil of body and soul, possessions and reputation, and finally, when our last hour comes, give us a blessed end, and graciously take us from this valley of sorrow to Himself in heaven.**
 

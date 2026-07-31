@@ -5,7 +5,7 @@ date: 2019-06-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/creating-change-week-3-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3135c155d7631588927/1748628700852/Eph3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774357015-2IR8LIUXASBOXCMJ0BO3/image-asset.jpeg"]
+images: ["images/cf23a9e2-Eph3.jpg", "images/fe0dca1d-image-asset.jpeg"]
 ---
 # Creating Change - Week 3 (Monday Morning Devotion)
 
@@ -13,7 +13,7 @@ Jun 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774357015-2IR8LIUXASBOXCMJ0BO3/image-asset.jpeg)
+![](images/fe0dca1d-image-asset.jpeg)
 
 We just spent six weeks discovering [“What is Hope?”](https://www.lutheranindianministries.org/news/what-is-hope-hope-is-given-as-a-gift-and-found-in-jesus-monday-morning-devotion-week-1) and now it’s time to share that hope.
 

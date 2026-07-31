@@ -5,7 +5,7 @@ date: 2018-03-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-030918
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc015e620c411ea0095c/1748628700852/merlin_134766270_6a326865-54e4-4023-825f-bda20c9d9d8f-superJumbo.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776642747-2WM49KG6SNBFXZR3M9OE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776644352-FW8ZOSYCDOA66XSWA2I5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776646177-L8XICQLFIUHXDZ9ECLA8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776648227-8CS5B0F4KEEFDUX3Y0LA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776650073-XO8GF7T15KM167LO9AVD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776651976-FXGRITGEVUCAXQUQD7VM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776653193-VCMHAR9J6ICDQK6EHYXG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776655237-RFC4YG87VI4TJLWBGKLZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776656986-IWVZX3GV2FNXFHGJJZ2T/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776658769-K3JNYGJ0VBOCYIJKNYFV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776659989-RTH66EQBK2ZGCAI6PO6G/image-asset.jpeg"]
+images: ["images/da5577a8-merlin_134766270_6a326865-54e4-4023-825f-bda20c9d9d8f-superJumbo.jpg", "images/c2316d00-image-asset.jpeg", "images/24f33ee4-image-asset.jpeg", "images/fe3d501a-image-asset.jpeg", "images/ace9dc34-image-asset.jpeg", "images/9673c9a6-image-asset.jpeg", "images/bb8bf842-image-asset.jpeg", "images/a699d588-image-asset.jpeg", "images/b04e2f1c-image-asset.jpeg", "images/89ef53c6-image-asset.jpeg", "images/937f5f1f-image-asset.jpeg", "images/651e8062-image-asset.jpeg"]
 ---
 # This Week in Native American News (3/9/18): Roller Derby, Wolf Packs, and a Gathering in Las Vegas
 
@@ -13,7 +13,7 @@ Mar 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776642747-2WM49KG6SNBFXZR3M9OE/image-asset.jpeg)
+![](images/c2316d00-image-asset.jpeg)
 
 # March 9, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Yesterday was International Women's Day: Check out these Awesome Ladies!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776644352-FW8ZOSYCDOA66XSWA2I5/image-asset.jpeg)
+![](images/24f33ee4-image-asset.jpeg)
 
 From left, Ms. Ghosen; Amil Dupuis-Rossi, a.k.a. “The Fighting Mongoose”; Michelle Cross, a.k.a. “Squarrior”; and Ms. Bontkes of Team Indigenous hugged before their last World Cup roller derby game. Photo Credit: Rachel Clara Reed for The New York Times
 
@@ -39,7 +39,7 @@ Team Indigenous, which includes 20 athletes from indigenous communities in Canad
 
 ## Great People Doing Great Things: Mission refurbishes used bikes for Native American youth
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776646177-L8XICQLFIUHXDZ9ECLA8/image-asset.jpeg)
+![](images/fe3d501a-image-asset.jpeg)
 
 Glen Sanders scrubs rust off of a donated used bike which will be given to a child at Pine Ridge Reservation in South Dakota this summer. Sanders spearheaded the project after traveling to the reservation 10 years ago and observed the poverty of its residents. Owners of Sweet Jeanie’s in Grove City donated the store’s basement to store and repair the bikes. Photo credit: MICHAEL ROKNICK, Herald
 
@@ -61,7 +61,7 @@ Even worse, alcoholism is rampant on the reservation with at least 85 percent of
 
 ## In Other Places...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776648227-8CS5B0F4KEEFDUX3Y0LA/image-asset.jpeg)
+![](images/ace9dc34-image-asset.jpeg)
 
 ### [His 'Wolf Pack' keeps homeless safe at night](http://montrealgazette.com/news/local-news/the-people-project-wolf-pack-keeps-homeless-safe-at-night)
 
@@ -71,7 +71,7 @@ Three nights a week, Harrington gathers a group of volunteers and patrols the a
 
 They call themselves the Wolf Pack Street Patrol.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776650073-XO8GF7T15KM167LO9AVD/image-asset.jpeg)
+![](images/9673c9a6-image-asset.jpeg)
 
 ### [Montana basketball team fights for suicide prevention with viral video](http://usatodayhss.com/2018/montana-basketball-team-fights-for-suicide-prevention-with-viral-video)
 
@@ -83,7 +83,7 @@ The Flathead Reservation community was stunned with a teen suicide recently. Sad
 
 ## Indian Country Means Business as RES 2018 Kicks Off In Las Vegas
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776651976-FXGRITGEVUCAXQUQD7VM/image-asset.jpeg)
+![](images/bb8bf842-image-asset.jpeg)
 
 The Reservation Economic Summit aka ‘RES,’ brings together thousands to advance economic development for tribes and Native entrepreneurs. Photo credit: The National Center
 
@@ -99,7 +99,7 @@ RES brings together tribal leaders, entrepreneurs, government officials, supplie
 
 ## The Problem With Cultural Heritage Tourism
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776653193-VCMHAR9J6ICDQK6EHYXG/image-asset.jpeg)
+![](images/a699d588-image-asset.jpeg)
 
 Alaska Native Cultural Heritage. Photo credit: Alaskan Dream Cruises
 
@@ -119,7 +119,7 @@ And now it’s much worse. The whole phrase “Explore America” supposes that 
 
 ## Also in Hawaii:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776655237-RFC4YG87VI4TJLWBGKLZ/image-asset.jpeg)
+![](images/b04e2f1c-image-asset.jpeg)
 
 ### [Proposal seeks harsher penalties for damage to items of cultural significance](http://www.khon2.com/news/local-news/proposal-seeks-harsher-penalties-for-damage-to-items-of-cultural-significance_20180306071733731/1012647108)
 
@@ -131,7 +131,7 @@ These crimes are all heartbreaking to see. Now, some state lawmakers want to in
 
 ## Your weekly dose of history:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776656986-IWVZX3GV2FNXFHGJJZ2T/image-asset.jpeg)
+![](images/89ef53c6-image-asset.jpeg)
 
 ### [How Native American Slaveholders Complicate the Trail of Tears Narrative](https://www.smithsonianmag.com/smithsonian-institution/how-native-american-slaveholders-complicate-trail-tears-narrative-180968339/)
 
@@ -139,7 +139,7 @@ When you think of the Trail of Tears, you likely imagine a long procession of su
 
 What you probably don’t picture are Cherokee slaveholders, foremost among them Cherokee chief John Ross. What you probably don’t picture are the numerous African-American slaves, Cherokee-owned, who made the brutal march themselves, or else were shipped en masse to what is now Oklahoma aboard cramped boats by their wealthy Indian masters. And what you may not know is that the federal policy of Indian removal, which ranged far beyond the Trail of Tears and the Cherokee, was not simply the vindictive scheme of Andrew Jackson, but rather a popularly endorsed, congressionally sanctioned campaign spanning the administrations of nine separate presidents.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776658769-K3JNYGJ0VBOCYIJKNYFV/image-asset.jpeg)
+![](images/937f5f1f-image-asset.jpeg)
 
 ### [When Native Americans Were Slaughtered in the Name of ‘Civilization’](https://www.history.com/news/native-americans-genocide-united-states)
 
@@ -147,7 +147,7 @@ The reasons for this racial genocide were multi-layered. Settlers, most of whom 
 
 Even more fundamentally, indigenous people were just too different: Their skin was dark. Their languages were foreign. And their world views and spiritual beliefs were beyond most white men’s comprehension. To settlers fearful that a loved one might become the next Mary Campbell, all this stoked racial hatred and paranoia, making it easy to paint indigenous peoples as pagan savages who must be killed in the name of civilization and Christianity.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776659989-RTH66EQBK2ZGCAI6PO6G/image-asset.jpeg)
+![](images/651e8062-image-asset.jpeg)
 
 ### [the theory about native americans and the jews](http://www.aish.com/jw/s/Native-Americans-and-the-Jews.html)
 

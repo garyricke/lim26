@@ -5,7 +5,7 @@ date: 2017-03-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-friday-march-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1d98c443c06cac01cac/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778138426-3WCN2JLEX3IYI71PFUV2/image-asset.png"]
+images: ["images/42d43289-1748628700852", "images/f194de61-image-asset.png"]
 ---
 # Read & Reflect: Friday, March 3
 
@@ -13,7 +13,7 @@ Mar 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778138426-3WCN2JLEX3IYI71PFUV2/image-asset.png)
+![](images/f194de61-image-asset.png)
 
 ## Read: [Psalm 91:1-6](https://www.bible.com/bible/111/psa.91.1-6), [Ecclesiastes 4:9-12](https://www.bible.com/bible/111/ecc.4.9-12), [Hebrews 4:16](https://www.bible.com/bible/111/heb.4.16)
 

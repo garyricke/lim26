@@ -5,7 +5,7 @@ date: 2020-03-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/return-to-the-lord
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0e3b70da5601ed8ef94/1748628700852/joel2-13.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773797358-X23R2JC9YY4FZM5OWD2P/image-asset.png"]
+images: ["images/cf83dbce-joel2-13.jpg", "images/9929fb47-image-asset.png"]
 ---
 # Return to the Lord - Lent 2020
 
@@ -15,7 +15,7 @@ Mar 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773797358-X23R2JC9YY4FZM5OWD2P/image-asset.png)
+![](images/9929fb47-image-asset.png)
 
 ### Return to the Lord your God, for he is gracious and merciful, slow to anger, and abounding in steadfast love. [Joel 2:13](https://www.bible.com/bible/111/jol.2.13)
 

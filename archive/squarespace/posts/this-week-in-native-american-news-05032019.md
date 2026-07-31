@@ -5,7 +5,7 @@ date: 2019-05-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-05032019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b37609335b1eefae6574/1748628700852/5237.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774455944-L53SW1MENONG0EM3KOHM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774456961-CH9P7YST07X6EGZMWA5F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774459206-DGV9FWFB23MVUV3GCO7H/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774462169-93D1JSZVCYC6I60UNNNU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774463645-XK7OFE8JQIN0ZQJWJMGO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774465642-U3Z25O18J6D44MCK0TMR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774467566-Y8FIG1OGEM64TK9UX80Z/image-asset.jpeg"]
+images: ["images/fbb83cae-5237.jpg", "images/b3e3c111-image-asset.jpeg", "images/d90f4cbe-image-asset.jpeg", "images/0db2e47a-image-asset.jpeg", "images/3afe474d-image-asset.jpeg", "images/efba745b-image-asset.jpeg", "images/3413f577-image-asset.jpeg", "images/9234d3ef-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/3/19): Cancer "Angels," the Savannah Act, Alaska Native Poets, and an Amazing Version of the Beatles' "Blackbird"
 
@@ -13,7 +13,7 @@ May 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774455944-L53SW1MENONG0EM3KOHM/image-asset.jpeg)
+![](images/b3e3c111-image-asset.jpeg)
 
 # May 3, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Native American ‘Angels’ Help Ease Burden of Cancer
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774456961-CH9P7YST07X6EGZMWA5F/image-asset.jpeg)
+![](images/d90f4cbe-image-asset.jpeg)
 
 Photo shows a patient at the Phoenix Indian Medical Center (PIMC) preparing for a mammogram. Facebook/Indian Health Service/PIMC
 
@@ -49,7 +49,7 @@ She said Ute’s story isn’t surprising.
 
 ## A Native American woman's brutal murder could lead to a life-saving law
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774459206-DGV9FWFB23MVUV3GCO7H/image-asset.jpeg)
+![](images/0db2e47a-image-asset.jpeg)
 
 Savanna LaFontaine-Greywind’s boyfriend Ashston Matheny holds their daughter, as victim impact statements are read during the sentencing of Brooke Crews. Photograph: David Samson/AP
 
@@ -75,7 +75,7 @@ Heidi Heitkamp, the former senator of North Dakota, wasted little time respondin
 
 ## Why Aren’t We Talking About Indigenous Food?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774462169-93D1JSZVCYC6I60UNNNU/image-asset.jpeg)
+![](images/3afe474d-image-asset.jpeg)
 
 PHOTO BY MARK WEINBERG
 
@@ -93,7 +93,7 @@ Because Rico’s elders were forcibly removed from their lands again and again, 
 
 ## 3 ALASKA NATIVE POETS FOR YOU TO READ ASAP
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774463645-XK7OFE8JQIN0ZQJWJMGO/image-asset.jpeg)
+![](images/efba745b-image-asset.jpeg)
 
 Athabascan girl in Fairbanks, Alaska
 
@@ -109,11 +109,11 @@ In the last month I read three different volumes of poetry by Alaska Native au
 
 ### [Read the Full Story Here](https://bookriot.com/2019/04/17/alaska-native-poets/) - THEN - Buy the Books:
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774465642-U3Z25O18J6D44MCK0TMR/image-asset.jpeg)](https://amzn.to/2GZezAK)
+[![](images/3413f577-image-asset.jpeg)](https://amzn.to/2GZezAK)
 
 [Milk Black Carbon by Joan Naviyuk Kane](https://amzn.to/2GZezAK)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774467566-Y8FIG1OGEM64TK9UX80Z/image-asset.jpeg)](https://amzn.to/2PGZmXy)
+[![](images/9234d3ef-image-asset.jpeg)](https://amzn.to/2PGZmXy)
 
 [Roughly for the North by Carrie Ayagaduk Ojanen](https://amzn.to/2PGZmXy)
 

@@ -5,7 +5,7 @@ date: 2020-01-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-01032020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b13d1770ed03474a83bf/1748628700852/191218130512-little-shell-chippewa-tribe-flag-super-tease.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773886154-KCF3JJOEF57QRMVGFQSL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773887111-PPRRMR0YIHWXVGXC97IT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773888157-6K45KBH48E65NU2NMJ9X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773889445-LYGVJSEUNOVQXSBLK7Q9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773890262-I8A3O6FKRL0T0NYBRHM1/image-asset.jpeg"]
+images: ["images/c7d8c125-191218130512-little-shell-chippewa-tribe-flag-super-tease.jpg", "images/fa08061c-image-asset.jpeg", "images/641d2125-image-asset.jpeg", "images/c40a399d-image-asset.jpeg", "images/54d4859f-image-asset.jpeg", "images/fa736bef-image-asset.jpeg"]
 ---
 # This Week in Native American News (1/3/2020): A new federally recognized tribe, what to do after the women are found, the Native Vice-President, and baby Yoda
 
@@ -13,7 +13,7 @@ Jan 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773886154-KCF3JJOEF57QRMVGFQSL/image-asset.jpeg)
+![](images/fa08061c-image-asset.jpeg)
 
 # January 3, 2020 - Happy New Year!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## The Little Shell Tribe of Montana Just Got Federal Recognition.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773887111-PPRRMR0YIHWXVGXC97IT/image-asset.jpeg)
+![](images/641d2125-image-asset.jpeg)
 
 Five generations of Little Shell people lived and died as members of an American Indian tribe that, according to the federal government, didn’t exist.
 
@@ -37,7 +37,7 @@ Now, after more than a century of struggle that began with a controversial treat
 
 ## “We used to be there”: The lost history and legacy of America’s Indian School
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773888157-6K45KBH48E65NU2NMJ9X/image-asset.jpeg)
+![](images/c40a399d-image-asset.jpeg)
 
 Buck Woodward, left, American University professor and graduate Ph.D. Historical Anthropology from College of William & Mary and Danielle Moretti-Langholtz, research assistant professor of anthropology and Director of the American Indian Resource Center, stand in front of the Brafferton Building on the campus of William & Mary Friday December 20, 2019. Woodward and Moretti-Langholtz co-wrote the book "Building the Brafferton: The Founding, Funding, and Legacy of America’s Indian School" based on their research. (Jonathon Gruenke / Daily Press)
 
@@ -63,7 +63,7 @@ So Moretti-Langholtz and Buck Woodard, then director of the American Indian Init
 
 ## In Indian Country, a Crisis of Missing Women. And a New One When They’re Found.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773889445-LYGVJSEUNOVQXSBLK7Q9/image-asset.jpeg)
+![](images/54d4859f-image-asset.jpeg)
 
 Ashley, right, trying to wake up her sister Dani in the motel room where their family is living in Gallup, N.M. Dani had previously been missing for two years, one of many Native American women to disappear in what activists call a long-ignored crisis.
 
@@ -83,7 +83,7 @@ But as Ms. Jones visited Dani in jail, saw the fresh scars on her body and tried
 
 ## Today’s History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773890262-I8A3O6FKRL0T0NYBRHM1/image-asset.jpeg)
+![](images/fa736bef-image-asset.jpeg)
 
 ### [This Man was the United States’ First and Only Native American Vice President](https://historycollection.co/this-man-was-the-united-states-first-and-only-native-american-vice-president/)
 

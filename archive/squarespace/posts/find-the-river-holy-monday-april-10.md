@@ -5,7 +5,7 @@ date: 2017-04-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/find-the-river-holy-monday-april-10
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c12b39aa220f9165007d/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777964406-S0CZITGHYO3B8WMCT4HZ/image-asset.jpeg"]
+images: ["images/6e23135e-2017_lent_cover.jpg", "images/57a631ee-image-asset.jpeg"]
 ---
 # Find the River: Holy Monday, April 10
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## We are writing these things so that our joy will be complete... [As] he is faithful and just to forgive us and to cleanse us from every wrong.  1 John 1:4, 9 (NLT)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777964406-S0CZITGHYO3B8WMCT4HZ/image-asset.jpeg)
+![](images/57a631ee-image-asset.jpeg)
 
 As we gazed over the beautiful, vast, ranging mountains, the powerful, rushing river worked its way around the banks far below.  Although the mountains were amazing, it was the mighty Yukon River I got to thinking about.  My wife, Linda, and I were able to see the river while helping facilitate a workshop in the Yukon, Canada.
 

@@ -5,7 +5,7 @@ date: 2019-11-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-11082019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1ba08aace6ebba5abf3/1748628700852/willen_rezball2--1664x0-c-default.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774011991-XZMR91JDG6U5LV05Z4J8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774013711-LZ5COSKMVGQPP0XXSFK6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774015281-49Q5QP21BXJM7PQDB992/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774017112-YT2CEZM8TIGX4S2MRZSV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774018234-HF7JEY1B3RTL141WF37A/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774020518-BA0UZ2KGXL1OSYEMMA8H/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774022834-NB9Y65J9ZSWSRJREL9EC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774024461-5IIIS5YWVUTMTM3F5A9K/image-asset.jpeg"]
+images: ["images/801f5aa8-willen_rezball2--1664x0-c-default.jpg", "images/844d76c5-image-asset.jpeg", "images/62b0294a-image-asset.jpeg", "images/2be9947f-image-asset.png", "images/1cb109fc-image-asset.jpeg", "images/ba58d3bf-image-asset.jpeg", "images/de76a0b7-image-asset.jpeg", "images/c956ab71-image-asset.jpeg", "images/db07993f-image-asset.jpeg"]
 ---
 # This Week in Native American News (11/8/19): Encouraging Education and Learning History
 
@@ -13,7 +13,7 @@ Nov 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774011991-XZMR91JDG6U5LV05Z4J8/image-asset.jpeg)
+![](images/844d76c5-image-asset.jpeg)
 
 # November 8, 2019 - November is Native Heritage Month!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## How one Navajo Nation high school is trying to help students see a future that includes college
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774013711-LZ5COSKMVGQPP0XXSFK6/image-asset.jpeg)
+![](images/62b0294a-image-asset.jpeg)
 
 **Chinle High senior Cooper Burbank shooting hoops with his younger brother. Burbank hopes to get bachelor’s and master’s degrees in engineering.** Photo courtesy of Caitlin O’Hara
 
@@ -39,7 +39,7 @@ The push and pull of reservation life with its ancestral force, spiritual tradit
 
 ## In Similar News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774015281-49Q5QP21BXJM7PQDB992/image-asset.png)
+![](images/2be9947f-image-asset.png)
 
 Chief Ivan Blunka School in New Stuyahok, AK. Photo Credit: Emily Hendricks
 
@@ -55,19 +55,19 @@ The biggest challenge our students face is gaining exposure to all of the colleg
 
 ## An Extensive History Lesson in Honor of Native Heritage Month
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774017112-YT2CEZM8TIGX4S2MRZSV/image-asset.jpeg)
+![](images/1cb109fc-image-asset.jpeg)
 
 ### [12 Untold Stories of Native American Heroes](https://www.rd.com/culture/untold-stories-of-native-american-heroes/)
 
 These 12 Native American heroes achieved epic greatness as warriors, writers, artists, and scientists. Here are little-known stories of vast achievements and epic courage across American history.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774018234-HF7JEY1B3RTL141WF37A/image-asset.jpeg)
+![](images/ba58d3bf-image-asset.jpeg)
 
 ### [How Native Americans Came to Fight Southwestern Fires](https://daily.jstor.org/why-native-americans-fight-southwestern-fires/)
 
 The recent rash of wildfires across California has reminded us how vulnerable the driest parts of the country are in the face of climate change. As growing fire disasters strike the west, many of those coming to the rescue are members of the Apache, Hopi, Zuni, and other Native nations. In a 2000 paper, the historian Andrew H. Fisher explained the longstanding involvement of Native Americans in southwestern firefighting.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774020518-BA0UZ2KGXL1OSYEMMA8H/image-asset.jpeg)
+![](images/de76a0b7-image-asset.jpeg)
 
 ### [When Native Americans Briefly Won Back Their Land](https://www.history.com/news/native-american-land-british-colonies)
 
@@ -75,7 +75,7 @@ They came from near and far: Native American chiefs and representatives of vario
 
 Months earlier, in 1763, George III had announced that the colonies would no longer seize Native lands or purchase it without treaties. For the first time, Native Americans’ rights to their own tribal lands had been recognized in the laws of one of North America’s colonial conquerors.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774022834-NB9Y65J9ZSWSRJREL9EC/image-asset.jpeg)
+![](images/c956ab71-image-asset.jpeg)
 
 ### [The 1950's plan to erase Indian Country](https://www.mprnews.org/story/2019/11/04/uprooted-the-1950s-plan-to-erase-indian-country?utm_campaign=Updated_PM%20Update_Newsletter&utm_content=&utm_medium=email&utm_source=sfmc_)
 
@@ -85,7 +85,7 @@ They wore their nicest clothes, and carried everything they owned in a few suit
 
 The Days were among around 100,000 Native Americans to experience one of the most recent and little-known traumas inflicted on Native peoples by the U.S. government, what the BIA called the Voluntary Relocation Program. Between 1952 and 1972, it provided one-way transportation and a couple hundred dollars to Native Americans willing to move to a city.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774024461-5IIIS5YWVUTMTM3F5A9K/image-asset.jpeg)
+![](images/db07993f-image-asset.jpeg)
 
 ### [Mormons Tried to Stop Native Child Slavery in Utah. They Ended Up Encouraging It](https://www.history.com/news/native-american-slavery-mormon-utah)
 

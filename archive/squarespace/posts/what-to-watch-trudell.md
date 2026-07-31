@@ -5,7 +5,7 @@ date: 2016-12-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-to-watch-trudell
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c463b65dbd3949cc782f/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778788909-6VI8LOG4S3C3EUT6I6QV/image-asset.jpeg"]
+images: ["images/93983ca5-1748628700852", "images/452d9ded-image-asset.jpeg"]
 ---
 # What to Watch: Trudell
 
@@ -17,7 +17,7 @@ As part of Vision Maker Media's "40 years, 40 films, 40 weeks" program, one arch
 
 This week's featured film is: [Trudell](http://americanarchive.org/catalog/cpb-aacip_508-qn5z60ct6k)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778788909-6VI8LOG4S3C3EUT6I6QV/image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-qn5z60ct6k)
+[![](images/452d9ded-image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-qn5z60ct6k)
 
 The engaging life story of Native American poet/prophet/activist John Trudell and his heartfelt message of active, personal responsibility to the earth, all of its inhabitants and our descendants. Trudell fuses his radical politics with music, writing and art. Combining images and archival footage with interviews and performances, this biography reveals the philosophy and motivations behind Trudell's work and his relationship to contemporary Indian history. Trudell died last year, December 8, 2015.
 

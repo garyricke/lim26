@@ -5,7 +5,7 @@ date: 2020-03-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/faith-in-the-unknown
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b093beeec467d9bf0b14/1748628700852/47742-proverbs-3-5-6.500w.tn.jpg"]
+images: ["images/e05f0eba-47742-proverbs-3-5-6.500w.tn.jpg"]
 ---
 # Faith in the Unknown - Lent 2020
 

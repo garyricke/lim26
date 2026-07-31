@@ -5,7 +5,7 @@ date: 2019-12-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-whiter-than-snow-wednesday-december-4
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b19209a0b66f51ef9d11/1748628700852/psalm-51-7.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773972036-FEZXBCLQ01ZIG8KVGH1G/image-asset.png"]
+images: ["images/a8d5dbe4-psalm-51-7.jpg", "images/13fc5056-image-asset.png"]
 ---
 # Advent: Whiter Than Snow - Wednesday, December 4
 
@@ -15,7 +15,7 @@ Dec 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773972036-FEZXBCLQ01ZIG8KVGH1G/image-asset.png)
+![](images/13fc5056-image-asset.png)
 
 ### Cleanse me with hyssop and I will be clean; wash me, and I will be whiter than snow.
 

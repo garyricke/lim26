@@ -5,7 +5,7 @@ date: 2015-02-24
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/kansaslhaskell-light-campus-ministry/building-progress-for-haskell-light-campus-ministry-february-2015-update
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd23e322920e7968853c/1665785131619/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785124570-O6NSI3PVBIR24FBUE41T/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785125624-M7T03ODDRSY7OH3O233X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785126608-VRJ43OLKVY9CGJF63A9W/image-asset.jpeg"]
+images: ["images/b464de2b-1665785131619", "images/20c3e525-image-asset.jpeg", "images/634735de-image-asset.jpeg", "images/1a1b2e9a-image-asset.jpeg"]
 ---
 # Building Progress for Haskell LIGHT Campus Ministry - February 2015 Update
 
@@ -18,17 +18,17 @@ Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 Although winter weather conditions in Lawrence, Kansas, have slowed construction work on the new facility for Haskell LIGHT Campus Ministry, Lutheran Indian Ministries is nonetheless pleased by the progress.
 Concrete work was completed in late January, which includes the multi-tiered area for worship.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785124570-O6NSI3PVBIR24FBUE41T/image-asset.jpeg)
+![](images/20c3e525-image-asset.jpeg)
 
 HLCM Construction Mulit\_tiered slab 0115
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785125624-M7T03ODDRSY7OH3O233X/image-asset.jpeg)
+![](images/634735de-image-asset.jpeg)
 
 HLCM Construction Multi-tier slab 2 0115
 
 Steel beams are now onsite. Wall panels are built and stacked and ready to be erected just as soon as weather permits.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785126608-VRJ43OLKVY9CGJF63A9W/image-asset.jpeg)
+![](images/1a1b2e9a-image-asset.jpeg)
 
 HLCM Construction steel beams and wall panels on location 0115
 

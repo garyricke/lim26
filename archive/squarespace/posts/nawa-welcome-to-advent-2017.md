@@ -5,7 +5,7 @@ date: 2017-12-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/nawa-welcome-to-advent-2017
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be43d102823ae1a7cce6/1748628700852/tree-sprout-stump-1500x1000.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777220255-Z525L1E3IPUGXWR2BYI1/image-asset.png"]
+images: ["images/c1893581-tree-sprout-stump-1500x1000.jpg", "images/10e4bf7d-image-asset.png"]
 ---
 # Nawa! Welcome to Advent 2017!
 
@@ -13,7 +13,7 @@ Dec 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777220255-Z525L1E3IPUGXWR2BYI1/image-asset.png)
+![](images/10e4bf7d-image-asset.png)
 
 Nawa!
 

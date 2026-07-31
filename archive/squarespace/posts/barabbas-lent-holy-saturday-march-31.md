@@ -5,7 +5,7 @@ date: 2018-03-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/barabbas-lent-holy-saturday-march-31
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbaa7abee657422941d2/1748628700852/John-15-13-1024x672.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776554501-15GI8XK1C48BUTB5I8HE/image-asset.png"]
+images: ["images/82e9ca20-John-15-13-1024x672.jpg", "images/975e4cf0-image-asset.png"]
 ---
 # Barabbas (Lent) - Holy Saturday, March 31
 
@@ -13,7 +13,7 @@ Mar 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776554501-15GI8XK1C48BUTB5I8HE/image-asset.png)
+![](images/975e4cf0-image-asset.png)
 
 ### "Wanting to satisfy the crowd, Pilate released Barabbas to them.  He had Jesus flogged, and handed him over to be crucified."   [Mark 15:15 (NIV)](https://www.bible.com/bible/111/MRK.15.15)
 

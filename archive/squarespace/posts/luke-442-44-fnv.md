@@ -5,7 +5,7 @@ date: 2017-02-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-442-44-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1ee4e34042f8b58f3bc/1748628700852/The+next+day%2C+before+the+sunrise%2C+he+found+a+quiet%2C+out-of-the-way+place+to+be+alone+and+pray.+But+the+crowds+found+him+again+and+would+not+let+him+go.+He+said+to+them%2C+-I+was+sent+to+tell+you+the+Good+Story+a.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778160197-96LBDX1W1IUJNE2IRZOA/image-asset.png"]
+images: ["images/be3b0a70-The_next_day__before_the_sunrise__he_found_a_quiet__out-of-the-way_place_to_be_alone_and_pray._But_the_crowds_found_him_", "images/82837875-image-asset.png"]
 ---
 # Luke 4:42-44 FNV
 
@@ -13,7 +13,7 @@ Feb 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778160197-96LBDX1W1IUJNE2IRZOA/image-asset.png)
+![](images/82837875-image-asset.png)
 
 Observe here:
 

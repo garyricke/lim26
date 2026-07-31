@@ -5,7 +5,7 @@ date: 2021-02-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/no-hiding-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae48664671654c3f5d10/1748628700852/21+No+Hiding.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773129966-TBHNMVZCCI2657OVZNUF/image-asset.jpeg"]
+images: ["images/dbcdbcf5-21_No_Hiding.jpg", "images/bb8cfb90-image-asset.jpeg"]
 ---
 # No Hiding (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Feb 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773129966-TBHNMVZCCI2657OVZNUF/image-asset.jpeg)
+![](images/bb8cfb90-image-asset.jpeg)
 
 # “THERE IS NOTHING CONCEALED THAT WILL NOT BE DISCLOSED OR HIDDEN THAT WILL NOT BE KNOWN. WHAT YOU HAVE SAID IN THE DARK WILL BE HEARD IN THE DAYLIGHT, AND WHAT YOU HAVE WHISPERED IN THE EAR IN THE INNER ROOMS WILL BE PROCLAIMED FROM THE ROOFS. I TELL YOU MY FRIENDS, DO NOT BE AFRAID OF THOSE WHO KILL THE BODY AND AFTER CAN DO NO MORE. BUT I WILL SHOW YOU WHOM YOU SHOULD FEAR; FEAR HIM WHO AFTER KILLING THE BODY, HAS POWER TO THROW YOU INTO HELL. YES, I TELL YOU, FEAR HIM.” (LUKE 12:2-5)
 

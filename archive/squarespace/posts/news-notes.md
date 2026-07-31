@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes
 section: 
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773106582-PK16YQ6OV7POA9QSR8SZ/21+He+Knew+and+Yet+He+Came+Anyway.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773108954-KK6WCQ57G21WIV7ZCYFP/21+Faith+in+Jesus.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773110547-R5DIFBO9SLLN1TZH26DW/21+What+Will+Your+Legacy+Be.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773113206-FJ2KQE1Y6ATIXZRC1BC5/21+Fight+for+your+Family.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773114803-CXUMGPHS2QVQ4H3U59LI/21+We+are+Not+Orphans.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773116902-FW27W50EYCA6LFP79S3N/21+Comfort+Zone+or+Complacent.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773119059-FQV5DYO9HNZTJMFBIHK6/21+We+Are+All+Human.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773121099-IXNB8AH3WZ9G1RCQ22N7/21+Victory.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773123436-1Q6LZ8A0917KFOSNO7NV/21+He+Pulls+Me+Out+He+Sees+Me+Through.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773125491-YEI7Q6NN50E5WVECGESZ/21+Father+Forgive+Them.jpg"]
+images: ["images/9f584bd8-21_He_Knew_and_Yet_He_Came_Anyway.jpg", "images/4e64bfcc-21_Faith_in_Jesus.jpg", "images/ee4983f5-21_What_Will_Your_Legacy_Be.jpg", "images/ddce8f9e-21_Fight_for_your_Family.jpg", "images/a593a180-21_We_are_Not_Orphans.jpg", "images/75ef00b6-21_Comfort_Zone_or_Complacent.jpg", "images/f0aae11a-21_We_Are_All_Human.jpg", "images/5691d33d-21_Victory.jpg", "images/275fe68d-21_He_Pulls_Me_Out_He_Sees_Me_Through.jpg", "images/318537a7-21_Father_Forgive_Them.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![He Knew and Yet He Came Anyway (Lent Devotion 2021)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773106582-PK16YQ6OV7POA9QSR8SZ/21+He+Knew+and+Yet+He+Came+Anyway.jpg)](/news-notes/he-knew-and-yet-he-came-anyway-lent-devotion-2021)
+[![He Knew and Yet He Came Anyway (Lent Devotion 2021)](images/9f584bd8-21_He_Knew_and_Yet_He_Came_Anyway.jpg)](/news-notes/he-knew-and-yet-he-came-anyway-lent-devotion-2021)
 
 Guest User
 3/31/21
@@ -71,7 +71,7 @@ Guest User
 
 [Read More](/news-notes/he-knew-and-yet-he-came-anyway-lent-devotion-2021)
 
-[![Faith in Jesus (Lent Devotion 2021)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773108954-KK6WCQ57G21WIV7ZCYFP/21+Faith+in+Jesus.jpg)](/news-notes/faith-in-jesus-lent-devotion-2021)
+[![Faith in Jesus (Lent Devotion 2021)](images/4e64bfcc-21_Faith_in_Jesus.jpg)](/news-notes/faith-in-jesus-lent-devotion-2021)
 
 Guest User
 3/30/21
@@ -83,7 +83,7 @@ Guest User
 
 [Read More](/news-notes/faith-in-jesus-lent-devotion-2021)
 
-[![What Will Your Legacy Be? (Lent Devotion 2021)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773110547-R5DIFBO9SLLN1TZH26DW/21+What+Will+Your+Legacy+Be.jpg)](/news-notes/what-will-your-legacy-be-lent-devotion-2021)
+[![What Will Your Legacy Be? (Lent Devotion 2021)](images/ee4983f5-21_What_Will_Your_Legacy_Be.jpg)](/news-notes/what-will-your-legacy-be-lent-devotion-2021)
 
 Guest User
 3/29/21
@@ -95,7 +95,7 @@ Guest User
 
 [Read More](/news-notes/what-will-your-legacy-be-lent-devotion-2021)
 
-[![Fight for Your Family (Lent Devotion 2021)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773113206-FJ2KQE1Y6ATIXZRC1BC5/21+Fight+for+your+Family.jpg)](/news-notes/fight-for-your-family-lent-devotion-2021)
+[![Fight for Your Family (Lent Devotion 2021)](images/ddce8f9e-21_Fight_for_your_Family.jpg)](/news-notes/fight-for-your-family-lent-devotion-2021)
 
 Guest User
 3/25/21
@@ -107,7 +107,7 @@ Guest User
 
 [Read More](/news-notes/fight-for-your-family-lent-devotion-2021)
 
-[![We are Not Orphans (Lent Devotion 2021)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773114803-CXUMGPHS2QVQ4H3U59LI/21+We+are+Not+Orphans.jpg)](/news-notes/we-are-not-orphans)
+[![We are Not Orphans (Lent Devotion 2021)](images/a593a180-21_We_are_Not_Orphans.jpg)](/news-notes/we-are-not-orphans)
 
 Guest User
 3/23/21
@@ -119,7 +119,7 @@ Guest User
 
 [Read More](/news-notes/we-are-not-orphans)
 
-[![Comfort Zone or Complacent? (Lent Devotion 2021)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773116902-FW27W50EYCA6LFP79S3N/21+Comfort+Zone+or+Complacent.jpg)](/news-notes/comfort-zone-or-complacent)
+[![Comfort Zone or Complacent? (Lent Devotion 2021)](images/75ef00b6-21_Comfort_Zone_or_Complacent.jpg)](/news-notes/comfort-zone-or-complacent)
 
 Guest User
 3/18/21
@@ -131,7 +131,7 @@ Guest User
 
 [Read More](/news-notes/comfort-zone-or-complacent)
 
-[![We Are All Human (Lent Devotion 2021)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773119059-FQV5DYO9HNZTJMFBIHK6/21+We+Are+All+Human.jpg)](/news-notes/we-are-all-human-lent-devotion-2021)
+[![We Are All Human (Lent Devotion 2021)](images/f0aae11a-21_We_Are_All_Human.jpg)](/news-notes/we-are-all-human-lent-devotion-2021)
 
 Guest User
 3/16/21
@@ -143,7 +143,7 @@ Guest User
 
 [Read More](/news-notes/we-are-all-human-lent-devotion-2021)
 
-[![Victory (Lent Devotion 2021)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773121099-IXNB8AH3WZ9G1RCQ22N7/21+Victory.jpg)](/news-notes/victory-lent-devotion-2021)
+[![Victory (Lent Devotion 2021)](images/5691d33d-21_Victory.jpg)](/news-notes/victory-lent-devotion-2021)
 
 Guest User
 3/11/21
@@ -155,7 +155,7 @@ Guest User
 
 [Read More](/news-notes/victory-lent-devotion-2021)
 
-[![He Pulls Me Out, He Sees Me Through (Lent Devotion 2021)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773123436-1Q6LZ8A0917KFOSNO7NV/21+He+Pulls+Me+Out+He+Sees+Me+Through.jpg)](/news-notes/he-pulls-me-out-he-sees-me-through-lent-devotion-2021)
+[![He Pulls Me Out, He Sees Me Through (Lent Devotion 2021)](images/275fe68d-21_He_Pulls_Me_Out_He_Sees_Me_Through.jpg)](/news-notes/he-pulls-me-out-he-sees-me-through-lent-devotion-2021)
 
 Guest User
 3/9/21
@@ -167,7 +167,7 @@ Guest User
 
 [Read More](/news-notes/he-pulls-me-out-he-sees-me-through-lent-devotion-2021)
 
-[![Father, Forgive Them (Lent Devotion 2021)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773125491-YEI7Q6NN50E5WVECGESZ/21+Father+Forgive+Them.jpg)](/news-notes/father-forgive-them-lent-devotion-2021)
+[![Father, Forgive Them (Lent Devotion 2021)](images/318537a7-21_Father_Forgive_Them.jpg)](/news-notes/father-forgive-them-lent-devotion-2021)
 
 Guest User
 3/4/21

@@ -5,7 +5,7 @@ date: 2020-12-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/wonderful-counselor-saturday-december-12-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aec3a9daa70a3548e341/1748628700852/Isaiah-9-6b.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773254147-JAYD75JM8LBJ6TF2PFAL/image-asset.png"]
+images: ["images/3e143628-Isaiah-9-6b.jpg", "images/af9ffa86-image-asset.png"]
 ---
 # Wonderful Counselor - Saturday, December 12 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773254147-JAYD75JM8LBJ6TF2PFAL/image-asset.png)
+![](images/af9ffa86-image-asset.png)
 
 ## For to us a child is born, to us a son is given… And he will be called Wonderful Counselor… [Isaiah 9:6](https://my.bible.com/bible/111/ISA.9.6)
 

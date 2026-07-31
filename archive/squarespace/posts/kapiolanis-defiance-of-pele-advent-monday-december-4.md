@@ -5,7 +5,7 @@ date: 2017-12-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/kapiolanis-defiance-of-pele-advent-monday-december-4
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be3eb382b13bb7691f83/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777215464-XV55DFKYKQXBAS134UGE/image-asset.png"]
+images: ["images/9c1ef25d-Advent__1_.png", "images/a2c26ce1-image-asset.png"]
 ---
 # Kapiolani's Defiance of Pele (Advent) - Monday, December 4
 
@@ -15,7 +15,7 @@ Dec 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777215464-XV55DFKYKQXBAS134UGE/image-asset.png)
+![](images/a2c26ce1-image-asset.png)
 
 ### **Kapiolani’s Defiance of Pele - Monday, December 4**
 

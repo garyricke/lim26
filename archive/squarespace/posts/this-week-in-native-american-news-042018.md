@@ -5,7 +5,7 @@ date: 2018-04-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-042018
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b922981ba40c2a9b507a/1748628700852/0607b8c4e63a4746b9d76f980748c6ee.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775907494-S6OH4N74Z7ZLGCVVF732/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775908688-DLD6T6Q3730S9NZR2GS1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775909485-3AQXS267FWYZ9FMHLVQ0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775910683-5072EDVD9HW9EKVB2VOI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775911636-8L1H5KEQ6T8GKP7JQR4I/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775912614-KH5P9OUH31VLLH1TIDIN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775913467-A32P9YXDHERVDALCA197/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775914414-854HHT1HIBWINHJ21BYI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775915607-JULKEXCD032CI6E489VQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775917096-635IOC65706ABXCRQHPM/image-asset.jpeg"]
+images: ["images/fd1f88ad-0607b8c4e63a4746b9d76f980748c6ee.jpg", "images/57e91c91-image-asset.jpeg", "images/ea74139f-image-asset.jpeg", "images/0d8c2621-image-asset.jpeg", "images/18b6f7c5-image-asset.jpeg", "images/451046f7-image-asset.jpeg", "images/7df6e445-image-asset.jpeg", "images/52e61aeb-image-asset.jpeg", "images/7dddf94d-image-asset.jpeg", "images/ae4b9b15-image-asset.jpeg", "images/76cd3ed4-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/20/18): Leaders discuss trauma-informed care in schools, the cultural effects of opiods, and the future of the arctic
 
@@ -13,7 +13,7 @@ Apr 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775907494-S6OH4N74Z7ZLGCVVF732/image-asset.jpeg)
+![](images/57e91c91-image-asset.jpeg)
 
 # April 20, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: One School's Effort to Help Their Students May Benefit Kids Across the Country
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775908688-DLD6T6Q3730S9NZR2GS1/image-asset.jpeg)
+![](images/ea74139f-image-asset.jpeg)
 
 The elementary school located within the Havasupai Indian Reservation in the Grand Canyon. A federal lawsuit is demanding that students at the school receive services due to the trauma and adversity they experience in their community. Photo credit: Denten Robinson/Havasupai Tribe via AP
 
@@ -39,7 +39,7 @@ The case is important, say experts in civil rights and disability law, because 
 
 ## Indian tribes fear being killed off by opioid epidemic
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775909485-3AQXS267FWYZ9FMHLVQ0/image-asset.jpeg)
+![](images/0d8c2621-image-asset.jpeg)
 
 Members of the Tohachi Boys and Girls Club leave the Youth Center in Tohachi, Ariz. Often disconnected from their traditional culture and Western society, American Indian teenagers have grown increasingly violent, drug dependent and depressed. (AP Photo file/Matt York
 
@@ -59,7 +59,7 @@ It is so bad in Oklahoma that when Rep. Markwayne Mullin holds town halls, he en
 
 ## Alaska Native leaders imagine divergent ‘Arctic futures’
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775910683-5072EDVD9HW9EKVB2VOI/image-asset.jpeg)
+![](images/18b6f7c5-image-asset.jpeg)
 
 Leaders of Arctic communities discuss possible scenarios for the future of the region at the Arctic Futures conference (Photo courtesy Kenton Media)
 
@@ -79,7 +79,7 @@ Leaders of Alaska Native communities have very different ideas about where the A
 
 ## In the Art World...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775911636-8L1H5KEQ6T8GKP7JQR4I/image-asset.jpeg)
+![](images/451046f7-image-asset.jpeg)
 
 ### [On Exhibit: Native American stereotypes stirred up](https://dailygazette.com/article/2018/04/19/on-exhibit-native-american-stereotypes-stirred-up)
 
@@ -89,7 +89,7 @@ It’s been said that art is meant to comfort and disturb.
 
 From the cheeky painting of Furbies waiting to be picked up by a crane and aptly named “Fur Trade,” to the subtle statue of a figure with blonde hair and blue-eyes wearing traditional garments from a mismatch of Native American cultures (this one called “We Stereotype Ourselves”) there’s a lot to unpack.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775912614-KH5P9OUH31VLLH1TIDIN/image-asset.jpeg)
+![](images/7df6e445-image-asset.jpeg)
 
 ### [Photographer reveals complexities of Native American history, contemporary lives](http://news.berkeley.edu/2018/04/13/matika-wilbur-native-american-photographer-event-april-17/)
 
@@ -97,7 +97,7 @@ As a kid growing up on a Swinomish reservation in Washington state, Matika Wilbu
 
 But when she was 21, her mother asked her to photograph a group of elders in her community and it started Wilbur on a journey to understand how Native Americans’ history is intertwined with their contemporary reality.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775913467-A32P9YXDHERVDALCA197/image-asset.jpeg)
+![](images/52e61aeb-image-asset.jpeg)
 
 ### [Ricardo Caté Offers Political Cartoons Without Reservations](https://www.forbes.com/sites/loisaltermark/2018/04/18/ricardo-cate-offers-political-cartoons-without-reservations-at-the-indian-pueblo-cultural-center/#7a38f10e47fa)
 
@@ -107,7 +107,7 @@ Cartoonist Ricardo Caté’s work is on display until January 2019, and his brig
 
 Caté himself is beloved for [“Without Reservations,”](https://www.facebook.com/WithoutReservations/) the only Native American cartoon featured in a mainstream daily newspaper. He’s been writing six cartoons a week for the *Santa Fe New Mexican* for more than a decade, teaching, revealing and explaining the Native American experience to people one panel at a time.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775914414-854HHT1HIBWINHJ21BYI/image-asset.jpeg)
+![](images/7dddf94d-image-asset.jpeg)
 
 ### [“A Tale of Two Tricksters” pairs Alaska Native and Puerto Rican traditions](https://www.alaskapublic.org/2018/04/12/a-tale-of-two-tricksters-pairs-alaska-native-and-puerto-rican-traditions/)
 
@@ -121,7 +121,7 @@ The Raven is a central character in many Alaska Native stories — a creative tr
 
 ## Your Weekly History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775915607-JULKEXCD032CI6E489VQ/image-asset.jpeg)
+![](images/ae4b9b15-image-asset.jpeg)
 
 ### [How New York's suffragists drew inspiration from indigenous peoples](http://www.nydailynews.com/opinion/n-y-s-suffragists-drew-inspiration-indigenous-peoples-article-1.3939052)
 
@@ -133,7 +133,7 @@ Central New York was home to Elizabeth Cady Stanton, who lived in Seneca Falls, 
 
 ## Start your Christmas Shopping Early!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775917096-635IOC65706ABXCRQHPM/image-asset.jpeg)
+![](images/76cd3ed4-image-asset.jpeg)
 
 These “Home” Bracelets incorporate a traditional Native American basket design and are stamped with the Lushootseed word for “home.” Image Credit: Rob Bibelhauser
 

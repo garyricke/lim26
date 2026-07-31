@@ -5,7 +5,7 @@ date: 2024-08-19
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/partners/anchorage-lutheran-church
 section: partners
-images: ["https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # Anchorage Lutheran Church
 
@@ -19,6 +19,6 @@ Introduction
 
 asdf
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/partners?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

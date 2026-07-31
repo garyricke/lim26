@@ -5,7 +5,7 @@ date: 2018-02-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/lent-reflections-2-sunday-february-25
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc58cacaf50ec8976309/1748628700852/lent.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776729763-T3EWCL23VKGUO9HR6QVP/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776732007-ZLMG4EU7RX22DZOKGHPT/image-asset.jpeg"]
+images: ["images/a49dc5a9-lent.png", "images/6ccef163-image-asset.png", "images/06dc5d83-image-asset.jpeg"]
 ---
 # Lent Reflections #2 - Sunday, February 25
 
@@ -13,7 +13,7 @@ Feb 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776729763-T3EWCL23VKGUO9HR6QVP/image-asset.png)
+![](images/6ccef163-image-asset.png)
 
 ## **Am I praying with faith and believing with confidence?**
 
@@ -27,7 +27,7 @@ When I struggle with a powerful temptation, with a habit that is difficult to ov
 
 (From [Unlocking the Bible](http://unlockingthebible.org/2012/04/christian-self-examination-questions-bible/))
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776732007-ZLMG4EU7RX22DZOKGHPT/image-asset.jpeg)
+![](images/06dc5d83-image-asset.jpeg)
 
 ## We'd love to hear from you: How has God moved in your life this week? (Leave a comment below)
 

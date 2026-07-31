@@ -5,7 +5,7 @@ date: 2017-10-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/one-month-in-heres-whats-going-on-at-the-light-house
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bed4b5450373d86e4bd7/1748628700852/20992581_1734899819872886_4273336023228551377_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777365755-GGPIDCHICL4WFZHVYNKQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777366814-0CHEUUZNKHT8KJBHO56I/20914690_1734900783206123_7259505105771022383_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777367890-0GWJETHHLKYQGMYOAWGD/20915163_1734900719872796_6107686309149103769_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777368630-13T11J066S1F26E21NAG/20914540_1734899769872891_8390795541639209607_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777369556-VAKJDQRKJTJTSHXXALEH/20992581_1734899819872886_4273336023228551377_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777370384-GJAJDUOFTRVV1BW4QHTE/20994177_1734900323206169_3291820072297952708_n.jpg"]
+images: ["images/c73d3f07-20992581_1734899819872886_4273336023228551377_n.jpg", "images/a7aa07dc-image-asset.jpeg", "images/b290b352-20914690_1734900783206123_7259505105771022383_n.jpg", "images/73cad629-20915163_1734900719872796_6107686309149103769_n.jpg", "images/73f70a5a-20914540_1734899769872891_8390795541639209607_n.jpg", "images/06e4fddf-20992581_1734899819872886_4273336023228551377_n.jpg", "images/686f525c-20994177_1734900323206169_3291820072297952708_n.jpg"]
 ---
 # One month in. Here's what's going on at the LIGHT House
 
@@ -23,11 +23,11 @@ The year started off with a Welcome Back Bash on the LIGHT House lawn, complete 
 
 "We handed out a lot of flyers and talked up the event as much as we could, but I never expected so many people to show up. It was awesome!" Bob exclaimed. "We met so many new students, and the casual atmosphere was great for making connections and starting relationships without being intimidating. It was a really exciting afternoon for us, because we saw how big the opportunity is here at Haskell to change Native people's lives through the power of the Holy Spirit!"
 
-![20914690_1734900783206123_7259505105771022383_n.jpg](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777366814-0CHEUUZNKHT8KJBHO56I/20914690_1734900783206123_7259505105771022383_n.jpg)
-![20915163_1734900719872796_6107686309149103769_n.jpg](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777367890-0GWJETHHLKYQGMYOAWGD/20915163_1734900719872796_6107686309149103769_n.jpg)
-![20914540_1734899769872891_8390795541639209607_n.jpg](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777368630-13T11J066S1F26E21NAG/20914540_1734899769872891_8390795541639209607_n.jpg)
-![20992581_1734899819872886_4273336023228551377_n.jpg](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777369556-VAKJDQRKJTJTSHXXALEH/20992581_1734899819872886_4273336023228551377_n.jpg)
-![20994177_1734900323206169_3291820072297952708_n.jpg](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777370384-GJAJDUOFTRVV1BW4QHTE/20994177_1734900323206169_3291820072297952708_n.jpg)
+![20914690_1734900783206123_7259505105771022383_n.jpg](images/b290b352-20914690_1734900783206123_7259505105771022383_n.jpg)
+![20915163_1734900719872796_6107686309149103769_n.jpg](images/73cad629-20915163_1734900719872796_6107686309149103769_n.jpg)
+![20914540_1734899769872891_8390795541639209607_n.jpg](images/73f70a5a-20914540_1734899769872891_8390795541639209607_n.jpg)
+![20992581_1734899819872886_4273336023228551377_n.jpg](images/06e4fddf-20992581_1734899819872886_4273336023228551377_n.jpg)
+![20994177_1734900323206169_3291820072297952708_n.jpg](images/686f525c-20994177_1734900323206169_3291820072297952708_n.jpg)
 
 The Welcome Back Bash was followed by the Haskell Highlight Night, a campus and activities fair held on the Powow grounds, providing yet another opportunity for Bob, and his wife, Deon, to let students know the LIGHT House is open and the staff is available.
 
@@ -39,7 +39,7 @@ And Highlight Night was quickly followed by the LIGHT House's first dinner event
 
 Shortly after this discouraging week, Bob joined the rest of the Lutheran Indian Ministries staff in Green Lake, Wisconsin for our annual staff retreat, during which time we had the pleasure and blessing of working with Greg Finke of [Dwelling 1:14](https://dwelling114.org/). It was during this week away that Bob began to understand that this first year as the Ministry Leader will be one of trial and error and of learning, and where he began to see a clear direction for the future of the LIGHT House.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777365755-GGPIDCHICL4WFZHVYNKQ/image-asset.jpeg)
+![](images/a7aa07dc-image-asset.jpeg)
 
 "Greg spoke to us about joining Jesus on His mission and the importance of discipling," Bob recalled. "He talked about how God is already doing the mission work, and we can go with Him. The timing could not have been more perfect. It was a huge wake-up call to me and the work of the LIGHT House. It made me realize that my job as the Ministry Leader is all about building relationships and meeting people where they are.
 

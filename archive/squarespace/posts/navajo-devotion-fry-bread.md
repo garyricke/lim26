@@ -5,7 +5,7 @@ date: 2015-09-28
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/new-mexiconavajo/navajo-devotion-fry-bread
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a445e4/1451491778720/Navajo-Devotion_Fry-Bread.png"]
+images: ["images/73bbea69-Navajo-Devotion_Fry-Bread.png"]
 ---
 # Navajo Devotion: Fry Bread
 
@@ -23,7 +23,7 @@ Terri was on the Utah-Idaho LWML Mission Trip in 2014, which inspired her to wri
 
 One of the delicious specialties of the Navajo is their Fry Bread. The women patty out the dough into skillet-size flat bread and place it over an open fire to cook. Once it’s done, seasoned ground meat and other toppings (like cheese and onions) are wrapped inside. Sometimes these are called Navajo Tacos. Both the Navajo and visitors look forward to these scrumptious meals.
 
-![Navajo women making fry bread at Shepherd of the Valley Lutheran Church in Navajo, New Mexico](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a445e4/1451491778720/Navajo-Devotion_Fry-Bread.png)
+![Navajo women making fry bread at Shepherd of the Valley Lutheran Church in Navajo, New Mexico](images/73bbea69-Navajo-Devotion_Fry-Bread.png)
 
 In biblical times, God provided the Israelites with life-sustaining bread, too. As Moses led God’s people through the wilderness in search of the promise land, they worried they would not have enough to eat in the desert (See Exodus 16:4a). The people needed faith that God would provide a new portion each day because the bread would not keep for a second day. Since God’s people were to rest on the Sabbath, they gathered twice what they needed on the sixth day and only then did it last them two days.
 

@@ -5,7 +5,7 @@ date: 2017-06-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/must-see-theatre-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c045cdfe3c472ddea6f8/1748628700852/Children_0053.jpg"]
+images: ["images/ac3137d4-Children_0053.jpg"]
 ---
 # Must See Theater - Thirsty (for Knowledge) Thursday
 

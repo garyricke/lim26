@@ -5,7 +5,7 @@ date: 2020-06-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-06192020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afe1cb88a56680ae98d8/1748628700852/21874297_web1_Bear-examines-the-spruce-tree-1024x683%402x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773538662-MIEPYRG6M9B7EO7SXE56/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773540013-ZYMM0M39L2V3Y9NW2M22/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773541049-Z74Q2SDN6T1IBZ1VLIOY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773541778-AUQBPYQSLD30JC041QZ2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773542934-0AR7Y7OS7PJE0BHCYLP4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773544002-9LMAG8B1MBZB1PSIQTLO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773545543-FO1ADX4I183AT9KXK0BP/image-asset.jpeg"]
+images: ["images/af0db2c4-21874297_web1_Bear-examines-the-spruce-tree-1024x683_2x.jpg", "images/8531705e-image-asset.jpeg", "images/0b2c6e53-image-asset.jpeg", "images/115e0ba0-image-asset.jpeg", "images/e011df91-image-asset.jpeg", "images/eb5504d7-image-asset.jpeg", "images/e81b3477-image-asset.jpeg", "images/91f5fc64-image-asset.jpeg"]
 ---
 # This Week in Native American News (6/19/2020): Traditions, Food, and History
 
@@ -13,7 +13,7 @@ Jun 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773538662-MIEPYRG6M9B7EO7SXE56/image-asset.jpeg)
+![](images/8531705e-image-asset.jpeg)
 
 # June 19, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### Carrying on our traditions
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773540013-ZYMM0M39L2V3Y9NW2M22/image-asset.jpeg)
+![](images/0b2c6e53-image-asset.jpeg)
 
 Jonah Hurst shows his little brother, Bear, how to pick spruce tips in Wrangell. (Courtesy Photo | Nikka Mork)
 
@@ -33,7 +33,7 @@ Adjusting to harvesting in a pandemic means there’s less help from extended fa
 
 ## [Read the Full Story Here](https://www.juneauempire.com/news/planet-alaska-carrying-on-our-traditions/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773541049-Z74Q2SDN6T1IBZ1VLIOY/image-asset.jpeg)
+![](images/115e0ba0-image-asset.jpeg)
 
 ## In similar news… [Gambell Seamstress Keeps Knowledge of Traditional Siberian Yupik Sewing Alive](https://www.knom.org/wp/blog/2020/06/04/gambell-seamstress-keeps-knowledge-of-traditional-siberian-yupik-sewing-alive/)
 
@@ -43,7 +43,7 @@ A St. Lawrence Island artist and educator seeks to reintroduce the art of dried 
 
 ### These Arizona Native food experts appear in Hulu's new series starring chef Padma Lakshmi
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773541778-AUQBPYQSLD30JC041QZ2/image-asset.jpeg)
+![](images/e011df91-image-asset.jpeg)
 
 Phoenix healer Felicia Cocotzin Ruiz sits on her back patio with a bowl of black eyed peas cooked with onion, carrots and herbs and featuring fresh lemon juice. (Photo: Courtesy of Felicia Cocotzin Ruiz)
 
@@ -55,7 +55,7 @@ In an episode shot in Arizona, Lakshmi visits two women at their homes to learn 
 
 ## [Read the Full Story Here](https://www.azcentral.com/story/entertainment/dining/2020/06/17/arizona-native-food-hulu-taste-nation-padma-lakshmi/5339161002/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773542934-0AR7Y7OS7PJE0BHCYLP4/image-asset.jpeg)
+![](images/eb5504d7-image-asset.jpeg)
 
 ## In similar news… [Navajo ranchers are raising premium beef](https://www.hcn.org/articles/indigenous-affairs-food-navajo-ranchers-are-raising-premium-beef-is-their-success-sustainable)
 
@@ -71,13 +71,13 @@ Inman and Yazzie are trying to grow a beef brand – *Navajo Beef* – with a 
 
 ## To fully understand the mission of Lutheran Indian Ministries, we must know the history and the story of the Native peoples. By understanding the past, we can better serve today and in the future.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773544002-9LMAG8B1MBZB1PSIQTLO/image-asset.jpeg)
+![](images/e81b3477-image-asset.jpeg)
 
 ## [Disease Has Never Been Just Disease for Native Americans](https://www.theatlantic.com/ideas/archive/2020/04/disease-has-never-been-just-disease-native-americans/610852/)
 
 The spread of COVID-19 is reminiscent of previous disease outbreaks that have ravaged Native American communities. Many of those outbreaks resulted in catastrophic loss of life, far greater than even the worst-case scenarios for COVID-19. Even the 1918–19 flu pandemic, in which an estimated 650,000 Americans died (0.6 percent of the 1920 population of 106 million), pales in comparison to the losses Native Americans have suffered from disease.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773545543-FO1ADX4I183AT9KXK0BP/image-asset.jpeg)
+![](images/91f5fc64-image-asset.jpeg)
 
 ## [100 years ago, Spanish flu devastated Alaska Native villages](https://www.peninsulaclarion.com/news/100-years-ago-spanish-flu-devastated-alaska-native-villages/)
 

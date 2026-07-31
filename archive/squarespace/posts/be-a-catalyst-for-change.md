@@ -5,7 +5,7 @@ date: 2018-08-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/be-a-catalyst-for-change
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b85399aed3385f6e52e7/1748628700852/Be+a+Catalyst+for+Change.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775701439-OHS7XS1QZDKAL8RLJRIS/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/ae9d7315-Be_a_Catalyst_for_Change.png", "images/d74a2a37-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Be a Catalyst for Change
 
@@ -13,7 +13,7 @@ Aug 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775701439-OHS7XS1QZDKAL8RLJRIS/image-asset.png)
+![](images/d74a2a37-image-asset.png)
 
 ### Abide with me; fast falls the eventide; The darkness deepens; Lord, with me abide; When other helpers fail and comforts flee, Help of the helpless, oh, abide with me.  Henry Lyte
 
@@ -66,7 +66,7 @@ Lutheran Indian Ministries
 
 ### P.S. Please pray for our friend in Albuquerque as she strives to make a difference in God’s Kingdom. It is not an easy road, but we know the end is worth the trouble.  May God use us all to build up the body of Christ.  Thank you for giving generously so others may come to know Jesus as Savior and Lord and join us in our eternal life.
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

@@ -5,7 +5,7 @@ date: 2020-02-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-02142020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1087abee6574227361f/1748628700852/soin2020.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773832503-2JRCYQ9L680R0L086JIX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773833431-BHMMDZ1CU654RIJLA4JR/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773834402-GFMU2712AEPYKYVTXO63/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773835428-L55JET0FLXNCGVIMNHRY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773836470-QRCW1SAGVKRCYJO8FKMY/image-asset.jpeg"]
+images: ["images/c8a3b1d9-soin2020.png", "images/69a3a8ca-image-asset.jpeg", "images/4b0aa955-image-asset.png", "images/40dde844-image-asset.png", "images/f971790f-image-asset.jpeg", "images/9884ac6f-image-asset.jpeg"]
 ---
 # This Week in Native American News (2/14/2020): 2020 State of the Indian Nation, Education, and Doomsday Seeds
 
@@ -13,7 +13,7 @@ Feb 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773832503-2JRCYQ9L680R0L086JIX/image-asset.jpeg)
+![](images/69a3a8ca-image-asset.jpeg)
 
 # February 14, 2020 - Happy Valentine’s Day!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## 2020 State of the Indian Nations Outlines Priorities to Advance Tribes' Nation-to-Nation Relationship with the United States
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773833431-BHMMDZ1CU654RIJLA4JR/image-asset.png)
+![](images/4b0aa955-image-asset.png)
 
 Each year following the State of the Union Address, the president of the National Congress of the American Indians (NCAI) gives the State of the Indian Nations. Delivered before members of Congress, tribal leaders, and the press, the State of the Indian Nations presents Native American nations’ view of their relationship with the United States and their aspirations going forward. A member of Congress offers a response. The two speeches are intended to ensure direct engagement between Congress and Native America.
 
@@ -35,7 +35,7 @@ Former NCAI President Joe Garcia (Ohkay Owingeh Pueblo) opened [this year’s a
 
 ## A Cultural Lens Leads to More Effective Teaching
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773834402-GFMU2712AEPYKYVTXO63/image-asset.png)
+![](images/40dde844-image-asset.png)
 
 United Tribes Technical College International Powwow. Bismarck, North Dakota. SOURCE: GETTY IMAGES
 
@@ -49,7 +49,7 @@ When considering what "culture" means, people most often examine its surface: th
 
 ## For the first time, an indigenous American tribe donates seeds to the doomsday vault
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773835428-L55JET0FLXNCGVIMNHRY/image-asset.jpeg)
+![](images/f971790f-image-asset.jpeg)
 
 The Cherokee Nation is the first indigenous American tribe in the U.S. to be invited to contribute its heirloom seeds to the "doomsday" Svalbard Global Seed Vault, nestled deep inside a mountain on a remote island situated between mainland Norway and the North Pole. IMAGE: JUNGE, HEIKO / AFP / GETTY IMAGES
 
@@ -63,7 +63,7 @@ The Cherokee Nation is the first indigenous American tribe in the U.S. to be inv
 
 ## Drawing an ovoid a day
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773836470-QRCW1SAGVKRCYJO8FKMY/image-asset.jpeg)
+![](images/9884ac6f-image-asset.jpeg)
 
 photos by Vivian Mork Yéilk’ | For the Capital City Weekly Salmon trout head design.
 

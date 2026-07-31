@@ -5,7 +5,7 @@ date: 2018-04-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-042718
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b91719ed594d3b12ede4/1748628700852/enotes-titles-mar14-montoya_0_2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775896109-2WTCVEFPBUZ5KA86CU05/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775897158-LGCUIZEH7D4GA1WV8NK2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775897857-PXUMNRW3ALUJDDCJ8MNO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775898644-0ZTTEGZCGDHSZL5GY5ZK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775899459-FBBAP72J9INT0GYJAIGI/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775900331-ZHF5DXAI9HMPF77KILVY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775901090-9AUPJBSTDNSXG7GQR8DK/image-asset.jpeg"]
+images: ["images/9715ef88-enotes-titles-mar14-montoya_0_2.jpg", "images/4a591aa9-image-asset.jpeg", "images/9a6f9ae5-image-asset.jpeg", "images/a598f392-image-asset.jpeg", "images/ce67d279-image-asset.jpeg", "images/da2b3857-image-asset.png", "images/1fb31031-image-asset.jpeg", "images/a6a4b4e9-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/27/18): Cleaning Indoor Air, Reaching 20-Somethings, and Being Nice (Because It's the Law)
 
@@ -13,7 +13,7 @@ Apr 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775896109-2WTCVEFPBUZ5KA86CU05/image-asset.jpeg)
+![](images/4a591aa9-image-asset.jpeg)
 
 # April 27, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Professor Works with Navajo Nation to Reduce Indoor Air Pollution
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775897158-LGCUIZEH7D4GA1WV8NK2/image-asset.jpeg)
+![](images/9a6f9ae5-image-asset.jpeg)
 
 Prof. Lupita Montoya has been working on the Navajo Project, which aims to replace home heating stoves that potentially cause harmful indoor air pollution in Navajo Nation houses. The Navajo Nation is the largest sovereign Native American nation in the United States.
 
@@ -41,7 +41,7 @@ Wood fire is the traditional Navajo method of home heating and is widely accepte
 
 ## In Hawaii, Being Nice is the Law
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775897857-PXUMNRW3ALUJDDCJ8MNO/image-asset.jpeg)
+![](images/a598f392-image-asset.jpeg)
 
 There may be many words to explain the encounters of kindness you experience in Hawaii, but at least one of them is ‘Aloha’. And as it turns out, ‘Aloha’ is actually the law here.
 
@@ -55,7 +55,7 @@ Hawaii now hosts almost nine million visitors a year, and ‘Aloha’ is a word 
 
 ## Training Aims To Ease Pain Of Native American Historical Trauma
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775898644-0ZTTEGZCGDHSZL5GY5ZK/image-asset.jpeg)
+![](images/ce67d279-image-asset.jpeg)
 
 Native American students, faculty, and staff at the University of Wyoming in Laramie recently participated in a wellness training. The idea was to explore how to process trauma left behind by a dark history.
 
@@ -73,7 +73,7 @@ Program Coordinator Jordan Cocker is a member of the Kiowa Tribe and a founding 
 
 ## Your Weekly History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775899459-FBBAP72J9INT0GYJAIGI/image-asset.png)
+![](images/da2b3857-image-asset.png)
 
 ### [The discovery of a map made by a Native American is reshaping thinking about the Lewis & Clark expedition](https://historynewsnetwork.org/article/168865)
 
@@ -81,7 +81,7 @@ An important historical map drawn by a Native American leader for renowned Ameri
 
 “Monumental doesn’t fully cover the importance of this discovery,” says historian Clay Jenkinson. “This is easily the best-preserved of the Native American maps drawn for Lewis and Clark, and represents the most important discovery in the Lewis and Clark world since 55 letters by William Clark were discovered in a Louisville attic in the 1980s.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775900331-ZHF5DXAI9HMPF77KILVY/image-asset.jpeg)
+![](images/1fb31031-image-asset.jpeg)
 
 ### [The Catawba Indian Nation carries on](https://www.charlestoncitypaper.com/charleston/the-catawba-indian-nation-carries-on-4000-year-old-traditions-in-sc/Content?oid=17882357) [4,000 year old](https://www.charlestoncitypaper.com/charleston/the-catawba-indian-nation-carries-on-4000-year-old-traditions-in-sc/Content?oid=17882357) [traditions in S.C.](https://www.charlestoncitypaper.com/charleston/the-catawba-indian-nation-carries-on-4000-year-old-traditions-in-sc/Content?oid=17882357)
 
@@ -91,7 +91,7 @@ Before the United States, before the Carolinas, before the Americas, thousands o
 
 "I am putting my hands in clay and having that experience knowing I have over 4,000 years of clay making [behind me] and there hasn't been a generational stop in that period ... we are digging clay out of the same clayholes," says Harris.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775901090-9AUPJBSTDNSXG7GQR8DK/image-asset.jpeg)
+![](images/a6a4b4e9-image-asset.jpeg)
 
 ### [Remembering Native Lynching Victims](http://va.newsrepublic.net/article/i6548446940424569354?app_id=1239&c=sys&gid=6548446940424569354&impr_id=6548556088201971977&language=en&language=en&region=us&user_id=6498260161960870921)
 

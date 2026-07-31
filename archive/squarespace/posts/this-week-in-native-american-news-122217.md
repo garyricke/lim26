@@ -5,7 +5,7 @@ date: 2017-12-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-122217
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bdb9cb88a56680b12218/1748628700852/santa+in+st+michaels.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777083424-3LCQ8DPAYN4XNMHNP6CR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777087715-HFH1ORPZTNZWOIXH5C6G/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777089165-5IPX877P4UEO0YYY6NZ3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777090399-0ZRXPOUI8ZZ105IVF8CF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777091659-UJOHQC5F1QD47F4085GF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777094226-2Y3POJWDN24PIY53MLVG/image-asset.png"]
+images: ["images/e137e9ef-santa_in_st_michaels.jpg", "images/c28f280d-image-asset.jpeg", "images/92957bde-image-asset.jpeg", "images/ccc2adee-image-asset.jpeg", "images/22bb681e-image-asset.jpeg", "images/8c158735-image-asset.jpeg", "images/90f269df-image-asset.png"]
 ---
 # This Week in Native American News (12/22/17): Merry Christmas! Santa, Yosemite, and the Winter Solstice
 
@@ -13,7 +13,7 @@ Dec 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777083424-3LCQ8DPAYN4XNMHNP6CR/image-asset.jpeg)
+![](images/c28f280d-image-asset.jpeg)
 
 # December 22, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Even Santa needs help getting to remote Alaskan Villages
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777087715-HFH1ORPZTNZWOIXH5C6G/image-asset.jpeg)
+![](images/92957bde-image-asset.jpeg)
 
 Santa Claus and Mrs. Claus arriving at Saint Michael, Alaska, a remote island community off Alaska's western coast, on Dec. 5, 2017. AP Photo/Mark Thiessen
 
@@ -45,7 +45,7 @@ The visit marked the 61st year of the Alaska National Guard’s Operation Santa 
 
 ## seminole tribe member seeks bigger voice for native people
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777089165-5IPX877P4UEO0YYY6NZ3/image-asset.jpeg)
+![](images/ccc2adee-image-asset.jpeg)
 
 D'Anna Osceola in her office Nov. 15. The FSU alumna and former Miss Seminole is executive assistant at the Florida Governor's Council on Indian Affairs. (Photo: Hali Tauxe/Democrat)
 
@@ -65,7 +65,7 @@ Though the focus of its mission is to serve and give voice to Indian youth, the 
 
 ## Yosemite's native american village returns
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777090399-0ZRXPOUI8ZZ105IVF8CF/image-asset.jpeg)
+![](images/22bb681e-image-asset.jpeg)
 
 Tribal elder Bill Tucker walks past a reconstructed umacha, a Native American dwelling made of cedar bark, at the Wahhoga village under construction in Yosemite Valley, Nov. 30, 2017. Photo credit: JOHN WALKER
 
@@ -93,11 +93,11 @@ The aim of the village, native elder Les James says: “To continue our culture 
 
 ## planning on seeing a movie this christmas?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777091659-UJOHQC5F1QD47F4085GF/image-asset.jpeg)
+![](images/8c158735-image-asset.jpeg)
 
 ### Wes Studi, star in the new "Hostiles," has been shattering Native American stereotypes for years. It's time for Hollywood to catch up. [Read his interview here.](http://www.latimes.com/entertainment/movies/la-et-mn-wes-studi-hostiles-20171221-htmlstory.html)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777094226-2Y3POJWDN24PIY53MLVG/image-asset.png)
+![](images/90f269df-image-asset.png)
 
 ### Addison-based Partnership With Native Americans has collaborated with Front Page Productions to create a documentary about dietary and health issues faced by Native American communities. [Read more and discover where you can see it.](https://dallasinnovates.com/addison-nonprofit-behind-pbs-film-highlighting-dietary-health-issues-of-native-americans/)
 

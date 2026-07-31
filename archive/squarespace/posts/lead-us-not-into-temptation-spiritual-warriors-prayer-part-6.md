@@ -5,7 +5,7 @@ date: 2017-05-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/lead-us-not-into-temptation-spiritual-warriors-prayer-part-6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c06535c9066700e1e38a/1748628700852/NotIntoTemptationWeb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777766977-45GP23K5ZCR9TAXZEJ2D/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777770538-G1LK1MYACLVC0KB4LGTI/image-asset.jpeg"]
+images: ["images/0aa7418f-NotIntoTemptationWeb.jpg", "images/c9db4e2a-image-asset.png", "images/681e2eb2-image-asset.jpeg"]
 ---
 # Lead Us Not Into Temptation: Spiritual Warriors Prayer, Part 6
 
@@ -15,7 +15,7 @@ May 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777766977-45GP23K5ZCR9TAXZEJ2D/image-asset.png)
+![](images/c9db4e2a-image-asset.png)
 
 This is week six in a seven-week study on the Lord's Prayer, or as Pastor Ricky Jacob likes to call it: the Spiritual Warriors Prayer. Need to start at the beginning? [Read Part 1 here.](https://www.lutheranindianministries.org/news/hallowed-be-thy-name-spiritual-warriors-prayer-part-1)
 
@@ -37,7 +37,7 @@ Naaman was tempted to have things done his way. He would get his way or else... 
 
 In what I refer to as the Spiritual Warrior’s prayer, Jesus taught: **And lead us not into temptation.**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777770538-G1LK1MYACLVC0KB4LGTI/image-asset.jpeg)
+![](images/681e2eb2-image-asset.jpeg)
 
 **God tempts no one. We pray in this petition that God would guard and keep us so that the devil, the world, and our sinful nature may not deceive us or mislead us into false belief, despair, and other great shame and vice.** Although we are attacked by these things, we pray that we may finally overcome them and win the victory.
 

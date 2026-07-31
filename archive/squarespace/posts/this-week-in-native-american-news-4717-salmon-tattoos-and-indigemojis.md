@@ -5,7 +5,7 @@ date: 2017-04-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-4717-salmon-tattoos-and-indigemojis
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1321c139f039c31c11a/1748628700852/sockeyesuzyandfriends.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777971457-GAQY7NZL0EL3FPPRVGCW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777973174-TA128HJ2T356F8CLMYXL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777974144-LWNCWLXU3DTLR72BK48Q/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777975527-APAGSC1JRDX03B1RM90D/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777976639-TAGL3R2GVNGVZLMYLBFI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777977842-E4KCSBRYQ18CW3XYN8IY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777978760-5B928LAFME7JHJFJLT0O/image-asset.jpeg"]
+images: ["images/16e298eb-sockeyesuzyandfriends.jpg", "images/0cf410b3-image-asset.jpeg", "images/69721592-image-asset.jpeg", "images/24a57719-image-asset.jpeg", "images/2bcde400-image-asset.jpeg", "images/f52057e4-image-asset.jpeg", "images/cda00ea8-image-asset.jpeg", "images/5dc13aa5-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/7/17): salmon, tattoos, and indigemojis
 
@@ -13,7 +13,7 @@ Apr 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777971457-GAQY7NZL0EL3FPPRVGCW/image-asset.jpeg)
+![](images/0cf410b3-image-asset.jpeg)
 
 # April 7, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great people doing great things: Using Subsistence Skills to Build Communities
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777973174-TA128HJ2T356F8CLMYXL/image-asset.jpeg)
+![](images/69721592-image-asset.jpeg)
 
 “Sockeye” Suzy Lumley runs a small business canning and selling Columbia River sockeye and other species. For decades, Native fishermen got little more from the river’s bounty beyond their own subsistence. Seafood buyers offered meager prices to Natives because the methods commonly used to handle and store catches weren’t up to commercial standards.
 
@@ -35,7 +35,7 @@ Now, people like Lumley are reinvesting the increased revenue from salmon fishin
 
 ## Native Hawaiian Tattoo Artist Helps Build Culture & Heal Sexual Abuse Trauma
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777974144-LWNCWLXU3DTLR72BK48Q/image-asset.jpeg)
+![](images/24a57719-image-asset.jpeg)
 
 Tattoo artist Marlo Lualemana was sexually assaulted at the ages of five and nine while growing up in Hawaii, she said. For many years, she didn't tell her family or friends about the assaults and hesitated to put her story on social media. But since coming forward, many of her clients and social media followers have been inspired to also share their stories and experiences of trauma and healing.
 
@@ -47,7 +47,7 @@ Today, she uses her craft as a tattoo artist to educate others about Native Hawa
 
 ## Hand Talkers Fight to Keep Language Alive
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777975527-APAGSC1JRDX03B1RM90D/image-asset.jpeg)
+![](images/2bcde400-image-asset.jpeg)
 
 In early September 1930, the Blackfeet Nation of Montana hosted a historic Indian Sign Language Grand Council, gathering leaders of a dozen North American Nations and language groups, which was filmed by Hugh L. Scott, a 77-year-old U.S. Army General.
 
@@ -61,7 +61,7 @@ Garritson studied Scott’s films, along with works by other ethnographers and n
 
 ## Native Super Heroes Fly Again
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777976639-TAGL3R2GVNGVZLMYLBFI/image-asset.jpeg)
+![](images/f52057e4-image-asset.jpeg)
 
 Comics creator Jon Proudstar remembers the first time he saw a Native American character in a comic. It was Thunderbird, in the X-Men, and he was quickly killed off. Proudstar was 8 years old and he was not happy. "And for years I just lamented about it and said one day I'll bring him back," he says.
 
@@ -75,7 +75,7 @@ One reason? His main character was a sexual abuse survivor.
 
 ## It's Powwow Season
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777977842-E4KCSBRYQ18CW3XYN8IY/image-asset.jpeg)
+![](images/cda00ea8-image-asset.jpeg)
 
 There's no better way to experience the richness and beauty of Native culture than a Powwow.
 
@@ -85,7 +85,7 @@ There's no better way to experience the richness and beauty of Native culture th
 
 ## Rather Stay In?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777978760-5B928LAFME7JHJFJLT0O/image-asset.jpeg)
+![](images/5dc13aa5-image-asset.jpeg)
 
 ### [Ten Fascinating Documentaries You Can Watch Right Now](https://indiancountrymedianetwork.com/culture/arts-entertainment/10-fascinating-documentaries-about-native-americans-you-can-watch-right-now/)
 

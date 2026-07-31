@@ -5,7 +5,7 @@ date: 2018-05-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-052518
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8ceff37c72839434640/1748628700852/image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775823425-8MCZZHCWVZPWU9LJDHTB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775824316-UMBZUHQGGSHGEHT6PB8P/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775825292-EQ54OWDL48LB9YMJAXT8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775826036-8QXFI5VOD9RMEHB7R79M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775827221-TWQL057J9OZFPF650JSE/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775828408-W6RE7ZX4FEHQ8PENBAXA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775829164-BN19EOF7JSW7MKKH7ENM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775830765-V632ZGDYZSTG6114VFBP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775831726-MDTUMT9B1P0G6G6536OM/image-asset.jpeg"]
+images: ["images/aec45755-image.jpg", "images/b4b4194e-image-asset.jpeg", "images/ca527af1-image-asset.jpeg", "images/43d7748a-image-asset.jpeg", "images/5242108b-image-asset.jpeg", "images/cffe7b3f-image-asset.png", "images/e1402d79-image-asset.jpeg", "images/887ee39d-image-asset.jpeg", "images/5b36a9c3-image-asset.jpeg", "images/525b1e5f-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/25/18): Biking the Trail of Tears, Training Youth, and Learning from Treaties
 
@@ -13,7 +13,7 @@ May 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775823425-8MCZZHCWVZPWU9LJDHTB/image-asset.jpeg)
+![](images/b4b4194e-image-asset.jpeg)
 
 # May 25, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Bike Sharing Comes to the Rez
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775824316-UMBZUHQGGSHGEHT6PB8P/image-asset.jpeg)
+![](images/ca527af1-image-asset.jpeg)
 
 Photo: courtesy of Lime Bikes
 
@@ -33,7 +33,7 @@ Today, Lime (formerly known as LimeBike) took the first step toward providing ac
 
 ## In other cycling news...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775825292-EQ54OWDL48LB9YMJAXT8/image-asset.jpeg)
+![](images/43d7748a-image-asset.jpeg)
 
 ### [Cyclists of the Cherokee Nation Ride the Trail of Tears](https://www.bicycling.com/news/a20883673/remember-removal-trail-tears-bike-ride/)
 
@@ -43,7 +43,7 @@ On June 1, Wildcat will join nine fellow members of her Cherokee Nation tribe an
 
 ## Across the Country (and in Canada), Organizations are Helping Youth Excel
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775826036-8QXFI5VOD9RMEHB7R79M/image-asset.jpeg)
+![](images/5242108b-image-asset.jpeg)
 
 ### [New Six Nations program trains women to become welders](http://www.cbc.ca/news/canada/hamilton/women-welders-1.4672331)
 
@@ -51,7 +51,7 @@ A Six Nations school has launched a new program to train low-income women to be 
 
 Six Nations Polytechnic (SNP) will teach the trade tuition-free to women, Indigenous or not, to fill what it says is a dramatic local need for more welders. Over 28 weeks, the women will also learn resume building, confidence building, life skills and trades math. They'll finish with an eight-week on-the-job placement.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775827221-TWQL057J9OZFPF650JSE/image-asset.png)
+![](images/cffe7b3f-image-asset.png)
 
 ### [La Loche modular farm to grow fresh produce for school](http://www.cbc.ca/news/canada/saskatchewan/la-loche-school-produce-modular-farm-1.4674000)
 
@@ -59,7 +59,7 @@ By fall there will be fresh, locally-grown produce in La Loche for the high scho
 
 Students from Dene High School are training to grow and harvest their own produce using a $220,000 modular farm they'll receive through a grant from President's Choice Children's Charity.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775828408-W6RE7ZX4FEHQ8PENBAXA/image-asset.jpeg)
+![](images/e1402d79-image-asset.jpeg)
 
 ### [Denver doesn’t graduate half of its Native American students. This charter school wants to change that](https://chalkbeat.org/posts/co/2018/05/21/denver-doesnt-graduate-half-of-its-native-american-students-this-charter-school-wants-to-change-that/)
 
@@ -71,7 +71,7 @@ Bissonette aims to change that by opening a charter school called the [American 
 
 ## Why the Very First Treaty Between the United States and a Native People Still Resonates Today Read more: https://www.smithsonianmag.com/smithsonian-institution/why-very-first-treaty-between-us-and-native-people-still-resonates-today-180969157/#yEDdK3xJqDaijsYK.99 Give the gift of Smithsonian magazine for only $12! http://bit.ly/1cGUiGv Follow us: @SmithsonianMag on Twitter
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775829164-BN19EOF7JSW7MKKH7ENM/image-asset.jpeg)
+![](images/887ee39d-image-asset.jpeg)
 
 Agreements like the Treaty With the Delawares (1778) are powerful reminders of American Indian nations’ legal right to territorial sovereignty. (Paul Morigi)  
 Read more: https://www.smithsonianmag.com/smithsonian-institution/why-very-first-treaty-between-us-and-native-people-still-resonates-today-180969157/#yEDdK3xJqDaijsYK.99  
@@ -90,7 +90,7 @@ To this day, 18th and 19th-century treaties are invoked in courts of law in case
 
 ## In Other Treaty News...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775830765-V632ZGDYZSTG6114VFBP/image-asset.jpeg)
+![](images/5b36a9c3-image-asset.jpeg)
 
 ### [How a rare copy of the U.S.-Navajo Treaty, once thought lost, was found.](https://www.washingtonpost.com/news/made-by-history/wp/2018/05/22/one-of-the-19th-centurys-most-important-documents-was-recently-discovered-in-a-new-england-attic-heres-what-it-tells-us/?noredirect=on&utm_term=.6f3dd5fa678d)
 
@@ -100,7 +100,7 @@ When C.P. “Kitty” Weaver sat down to write a biography of her great-uncle Sa
 
 It made sense to Weaver that Tappan would have a copy of the treaty. But only recently did she learn that archivists, Navajo historians and journalists had been searching for this document, one of three original copies, for quite some time. Called by the Navajos Naal Tsoos Saní (the Old Paper), it is one of the most important documents produced in the 19th century, both for what it reveals about the Navajos and about the role of the West — and the subjugation of its indigenous people — in the Civil War.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775831726-MDTUMT9B1P0G6G6536OM/image-asset.jpeg)
+![](images/525b1e5f-image-asset.jpeg)
 
 ### ['The Treaty Oak' is Still Thriving 20 Years After Vandalism](http://ireport.cnn.com/docs/DOC-629670)
 

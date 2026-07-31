@@ -5,7 +5,7 @@ date: 2021-02-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/leading-is-serving-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae4687572b4edc640c58/1748628700852/21+Leading+is+Serving.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773127909-QNRZX97DL0ZM7G4LFP6S/image-asset.jpeg"]
+images: ["images/b396fe67-21_Leading_is_Serving.jpg", "images/146bb10d-image-asset.jpeg"]
 ---
 # Leading is Serving (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Feb 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773127909-QNRZX97DL0ZM7G4LFP6S/image-asset.jpeg)
+![](images/146bb10d-image-asset.jpeg)
 
 # WHEN JESUS HAD WASHED THEIR FEET AND PUT ON HIS OUTER GARMENTS, HE RECLINED WITH THEM AGAIN AND ASKED, “DO YOU KNOW WHAT I HAVE DONE FOR YOU? YOU CALL ME TEACHER AND LORD, AND RIGHTLY SO, BECAUSE I AM. SO IF I, YOUR LORD AND TEACHER, HAVE WASHED YOUR FEET, YOU ALSO SHOULD WASH ONE ANOTHER’S FEET. I HAVE SET YOU AN EXAMPLE SO THAT YOU SHOULD DO AS I HAVE DONE FOR YOU. TRULY, TRULY, I TELL YOU, NO SERVANT IS GREATER THAN HIS MASTER, NOR IS A MESSENGER GREATER THAN THE ONE WHO SENT HIM. IF YOU KNOW THESE THINGS, YOU WILL BE BLESSED IF YOU DO THEM." (JOHN 13: 12-16)
 

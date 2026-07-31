@@ -5,7 +5,7 @@ date: 2019-11-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-11012019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1f909335b1eefae06ab/1748628700852/native+american+heritage+month_1.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774075148-5XN6BQ4TLSM89RCFHL6R/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774077030-KYNBLD60P9U0K0VREQWL/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774078266-9RIY0CMSIJ7MTH87FT0E/image-asset.jpeg"]
+images: ["images/8e8b83ab-native_american_heritage_month_1.png", "images/c439363e-image-asset.jpeg", "images/9198358f-image-asset.png", "images/557cc757-image-asset.jpeg"]
 ---
 # This Week in Native American News (11/1/19): Native Heritage Month, fighting crime, and Cherokee trails
 
@@ -13,7 +13,7 @@ Nov 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774075148-5XN6BQ4TLSM89RCFHL6R/image-asset.jpeg)
+![](images/c439363e-image-asset.jpeg)
 
 # November 1, 2019 - November is Native Heritage Month!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Celebrate Native Heritage Month!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774077030-KYNBLD60P9U0K0VREQWL/image-asset.png)
+![](images/9198358f-image-asset.png)
 
 **November is National American Indian Heritage Month** The Library of Congress, National Archives and Records Administration, National Endowment for the Humanities, National Gallery of Art, National Park Service, Smithsonian Institution and United States Holocaust Memorial Museum join in paying tribute to the rich ancestry and traditions of Native Americans.
 
@@ -43,7 +43,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## U.S. Attorney General announces additional $42 million for rural Alaska public safety
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774078266-9RIY0CMSIJ7MTH87FT0E/image-asset.jpeg)
+![](images/557cc757-image-asset.jpeg)
 
 *Delegates applaud a public safety session Thursday, Oct. 17, 2019 during the Alaska Federation of Natives convention at the Carlson Center in Fairbanks. (Loren Holmes / ADN)*
 

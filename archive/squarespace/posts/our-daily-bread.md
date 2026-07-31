@@ -5,7 +5,7 @@ date: 2020-12-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/our-daily-bread
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aed419ed594d3b111434/1748628700852/Copy+of+Give+us+this+day.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773270476-DXQJY40M5MAXR0ZPVWYI/image-asset.png"]
+images: ["images/96594372-Copy_of_Give_us_this_day.png", "images/c51b9623-image-asset.png"]
 ---
 # Our Daily Bread
 
@@ -13,7 +13,7 @@ Dec 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773270476-DXQJY40M5MAXR0ZPVWYI/image-asset.png)
+![](images/c51b9623-image-asset.png)
 
 ## Give us this day our daily bread
 

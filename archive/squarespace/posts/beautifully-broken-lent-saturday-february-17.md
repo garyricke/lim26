@@ -5,7 +5,7 @@ date: 2018-02-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/beautifully-broken-lent-saturday-february-17
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc8b4870844ff584b5a7/1748628700852/download.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776780763-Y7V2Y86FANGI42EDFBQO/image-asset.png"]
+images: ["images/d7de5746-download.jpg", "images/22f18210-image-asset.png"]
 ---
 # Beautifully Broken (Lent) - Saturday, February 17
 
@@ -15,7 +15,7 @@ Feb 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776780763-Y7V2Y86FANGI42EDFBQO/image-asset.png)
+![](images/22f18210-image-asset.png)
 
 ### "And then Lord God commanded the man, saying, 'You may surely eat of every tree of the garden, but of the tree of knowledge of good and evil you shall not eat, for in the day you eat of it you shall surely die.'" [Genesis 2:16-17 (ESV)](https://www.bible.com/bible/59/gen.2.16-17)
 

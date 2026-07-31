@@ -5,7 +5,7 @@ date: 2016-09-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-the-news-september-16-2016
 section: news-notes
-images: ["http://cdn-images.mailchimp.com/fb/like.gif", "http://cdn-images.mailchimp.com/google-plusone.png", "http://cdn-images.mailchimp.com/social_connect_tweet.png", "https://cdn-images.mailchimp.com/icons/social-block-v2/color-facebook-48.png", "https://cdn-images.mailchimp.com/icons/social-block-v2/color-link-48.png", "https://cdn-images.mailchimp.com/icons/social-block-v2/color-twitter-48.png", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/382c173c-7405-473f-ae5b-219eb1cbfbbc.jpg"]
+images: ["images/51d178bc-like.gif", "images/37f6badb-google-plusone.png", "images/f203ea33-social_connect_tweet.png", "images/3f29dd6e-color-facebook-48.png", "images/bef17570-color-link-48.png", "images/fa7346d2-color-twitter-48.png", "images/bcf2c627-382c173c-7405-473f-ae5b-219eb1cbfbbc.jpg"]
 ---
 # This Week in the News - September 16, 2016
 

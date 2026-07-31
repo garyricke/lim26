@@ -5,7 +5,7 @@ date: 2020-04-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/our-sacred-service
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b045d2c1581771e7e6cc/1748628700852/GoZbOg.jpg"]
+images: ["images/49af625b-GoZbOg.jpg"]
 ---
 # Our Sacred Work - Lent 2020
 

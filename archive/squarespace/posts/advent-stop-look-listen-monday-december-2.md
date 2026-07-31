@@ -5,7 +5,7 @@ date: 2019-12-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-stop-look-listen-monday-december-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b197beeec467d9bf44a0/1748628700852/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773976365-TP8DE1027BGGRDN4DNDU/image-asset.png"]
+images: ["images/2c09c9f2-1280x1280.jpg", "images/7db994c9-image-asset.png"]
 ---
 # Advent: Stop, Look, & Listen - Monday, December 2
 
@@ -13,7 +13,7 @@ Dec 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773976365-TP8DE1027BGGRDN4DNDU/image-asset.png)
+![](images/7db994c9-image-asset.png)
 
 ### The next day he saw Jesus coming toward him, and said, "Behold, the Lamb of God, who takes away the sin of the world!"
 

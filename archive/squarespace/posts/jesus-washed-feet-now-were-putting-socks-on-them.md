@@ -5,7 +5,7 @@ date: 2016-06-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/jesus-washed-feet-now-were-putting-socks-on-them
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c8b877098108496793f1/1748628700852/20140214_1480.xml-2014%2B%2B0212%2B%2Bsocks.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779899721-83085HK0W4HNFEULHEYX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779902058-WY1DO5XVNAH2ZX9WC12Y/image-asset.jpeg"]
+images: ["images/ede82c99-20140214_1480.xml-2014__0212__socks.jpg", "images/f9bb20ff-image-asset.jpeg", "images/7b33c26c-image-asset.jpeg"]
 ---
 # Jesus Washed Feet, Now We're Putting Socks on Them
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 [After the enormous success of Hope House's Backpack Drive last year](http://www.lutheranindianministries.org/news/washingtonolympic-peninsula/hope-house-exceeds-backpack-goal?rq=backpack), Tom and Cathy Benzler have now set their sights on feet. Not only do the children of the Olympic Peninsula's tribes need shoes for the upcoming winter, but a pair of new socks shoes encourages excitement for a new school year.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779899721-83085HK0W4HNFEULHEYX/image-asset.jpeg)
+![](images/f9bb20ff-image-asset.jpeg)
 
 Across the tribes of Washington State, ([the Benzler's work primarily with the Lower Elwha, LaPush, and the Hoh](/washington-olympicpeninsula)), the high school graduation rate is only 53%. **Only half of the Native American students in Washington graduate from high school.** Unfortunately, this is the norm among American Indians and Alaska Natives across the nation.
 
@@ -43,7 +43,7 @@ After the impact of last year's backpack giveaway, a local tribal-owned casino o
 
 Socks seem like a small thing, but for a child with little to call their own - they can mean a future!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779902058-WY1DO5XVNAH2ZX9WC12Y/image-asset.jpeg)
+![](images/7b33c26c-image-asset.jpeg)
 
 As of this story, the Benzler have 92 pairs of shoes and about three dozen pairs of socks to distribute to the Native communities with whom they have relationships. But, more goods means more children reached and facilitates relationships with new communities. (Last year's backpacks opened a door for the Benzlers to start working on the Hoh Reservation!)
 

@@ -5,7 +5,7 @@ date: 2017-06-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/warrior-boxing-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bff14505c216efab4754/1748628700852/boxing_homeAS_600_315_c1_left_bottom.jpg"]
+images: ["images/f048b8c3-boxing_homeAS_600_315_c1_left_bottom.jpg"]
 ---
 # Warrior Boxing - Thirsty (for Knowledge) Thursday
 

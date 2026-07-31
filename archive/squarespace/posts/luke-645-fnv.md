@@ -5,7 +5,7 @@ date: 2018-02-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-645-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bcb8b70da5601edb0fdc/1748628700852/_The+human+heart+is+like+a+medicine+pouch.+Good+hearted+people+speak+from+the+good+medicine+stored+in+their+hearts.+Bad-hearted+people+speak+from+the+bad+medicine+stored+in+their+hearts.+gOR+the+mouth+will+spe.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776826425-3WFLXKCOH6N1HNS7OF9X/image-asset.png"]
+images: ["images/2809551c-_The_human_heart_is_like_a_medicine_pouch._Good_hearted_people_speak_from_the_good_medicine_stored_in_their_hearts._Bad-", "images/48319b87-image-asset.png"]
 ---
 # Luke 6:45 FNV
 
@@ -13,7 +13,7 @@ Feb 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776826425-3WFLXKCOH6N1HNS7OF9X/image-asset.png)
+![](images/48319b87-image-asset.png)
 
 Faith in Jesus is the invisible root of religion concealed within the soul; but deeds of holy duty are the glorious outgrowth of stalwart trunk, and branches broad, and luxurious masses of foliage lifted into the airs of heaven. And amid these goodly boughs are found the fruits of godliness, shining — as quaint Andrew Marvell said of the Bermuda oranges — Like golden lamps in a deep green night.
 

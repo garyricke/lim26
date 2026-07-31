@@ -5,7 +5,7 @@ date: 2018-03-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-031618
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbd8046d523415cf3f75/1748628700852/HoopDancing-9-1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776601341-T5APL79AKDIQU07QJB1F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776602349-HJQRBHKKKN5A5YJBDCTM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776603316-D14Z3KANZ6XOE965EONT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776604410-EL303P6VFBA1MJYY2WP4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776605379-4ZX993LQ5KJD67QG6LWG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776606643-CVXADIUIW75U6RKFUDFH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776608091-TKEDI5I3ZN37W6OMCZCH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776608984-UUJEXM00ATWFQW6A5P4C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776610182-L0KS7YPBNCC4BZ25ECGF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776612377-4975QY0E03FFY51BL44D/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776613734-DR1DDTNRXO26COEQ4N4O/image-asset.jpeg"]
+images: ["images/fe613271-HoopDancing-9-1280.jpg", "images/75fca5f3-image-asset.jpeg", "images/fb74ab98-image-asset.jpeg", "images/f02c3402-image-asset.jpeg", "images/320fc6aa-image-asset.jpeg", "images/e79423a5-image-asset.jpeg", "images/ecef984f-image-asset.jpeg", "images/2465d5ed-image-asset.jpeg", "images/39496723-image-asset.jpeg", "images/5cc04648-image-asset.jpeg", "images/66bf751c-image-asset.jpeg", "images/ac3ae17e-image-asset.jpeg"]
 ---
 # This Week in Native American News (3/16/18): karaoke, hoop dancing, and the iditarod
 
@@ -13,7 +13,7 @@ Mar 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776601341-T5APL79AKDIQU07QJB1F/image-asset.jpeg)
+![](images/75fca5f3-image-asset.jpeg)
 
 # March 16, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Keeping Languages Alive Through Karaoke
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776602349-HJQRBHKKKN5A5YJBDCTM/image-asset.jpeg)
+![](images/fb74ab98-image-asset.jpeg)
 
 JR Bluff donned a wig and a white leisure suit and performed "Hound Dog" by Elvis Presley. He translated the song into his native Salish language for the contest. (Emily Schwing/Northwest News Network)
 
@@ -41,19 +41,19 @@ By the end of his karaoke routine, Heron was confidently dancing his way across 
 
 ## In Other Places...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776603316-D14Z3KANZ6XOE965EONT/image-asset.jpeg)
+![](images/f02c3402-image-asset.jpeg)
 
 ### [Family Keeps Tradition Alive Through Dance](https://cronkitenews.azpbs.org/2018/03/09/urban-native-american-family-keeps-traditions-alive-dancing/)
 
 They call themselves the [Yellow Bird Indian Dancers](https://www.yellowbirdproductions.com/). More than a dozen members of the Duncan family, spanning three generations, participate in the family’s passion for hoop dancing. From Olympic stages to dirt circles, televised internationally and sometimes performing for an audience of just a handful, they have been spreading awareness of Native American culture and art for more than 25 years.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776604410-EL303P6VFBA1MJYY2WP4/image-asset.jpeg)
+![](images/320fc6aa-image-asset.jpeg)
 
 ### [Village Keeps the Snow Snake Alive](http://www.syracuse.com/living/index.ssf/2018/03/inside_the_native_american_sport_of_snow_snake_video_photos.html)
 
 According to the Iroquois oral tradition, the game of snow snake dates back more than 500 years, to before the arrival of Europeans in North America. Originally a form of communication between villages, the throwing of "snow snakes" in a trough of snow or track developed into a competitive sport during long winters when the long track was not used for communication. The name "snow snake" is said to have come from the serpentine wiggling motion of the poles as they slide down the icy track.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776605379-4ZX993LQ5KJD67QG6LWG/image-asset.jpeg)
+![](images/e79423a5-image-asset.jpeg)
 
 ### [Tribe Uses Traditions to Fight Addiction](https://news.vice.com/en_us/article/59knjz/a-native-american-tribe-is-using-traditional-culture-to-fight-addiction)
 
@@ -63,7 +63,7 @@ A year and half ago, Gabe Stewart stood in tribal court pleading guilty to felon
 
 ## As Iditarod Changes, so Does its connection to Alaska Natives
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776606643-CVXADIUIW75U6RKFUDFH/image-asset.jpeg)
+![](images/ecef984f-image-asset.jpeg)
 
 Alaska Native Cultural Heritage. Photo credit: Alaskan Dream Cruises
 
@@ -85,7 +85,7 @@ Yupik musher and longtime resident of Bethel, Pete Kaiser, figures it’s harder
 
 ## Hawaiian Airlines Brings Culture Onboard
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776608091-TKEDI5I3ZN37W6OMCZCH/image-asset.jpeg)
+![](images/2465d5ed-image-asset.jpeg)
 
 Video footage of He Moku He Wa‘a, He Wa‘a He Moku which will be seen on Hawaiian Airlines flights through June 2018. Footage from Nāʻālehu Anthony | ʻŌiwi TV lutheran indian ministries native news
 
@@ -101,13 +101,13 @@ The new series was produced by Kanaeokana, a network of over 50 local schools an
 
 ## Your weekly dose of history:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776608984-UUJEXM00ATWFQW6A5P4C/image-asset.jpeg)
+![](images/39496723-image-asset.jpeg)
 
 ### [Fact Check: Did Abraham Lincoln Order the Execution of 38 Dakota Fighters?](https://www.snopes.com/fact-check/lincoln-dakota/)
 
 That claim is largely accurate, but it’s also misleading; it omits to mention that although Abraham Lincoln did approve 39 death sentences (one of the condemned men was ultimately spared), he also prevented the hangings of 264 other Native Americans by commuting their death sentences, in the same order. It also fails to make it clear that the death sentences did not originate with Lincoln. Rather, the executions were ordered by a military commission and sent to the president, who had the legal authority to approve or decline to approve any or all of the sentences.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776610182-L0KS7YPBNCC4BZ25ECGF/image-asset.jpeg)
+![](images/5cc04648-image-asset.jpeg)
 
 ### [Fact Check: Did a Couple Adopt a Native American Child for $10 in 1952?](https://www.snopes.com/news/2018/03/13/native-american-child-adoption-letter/)
 
@@ -115,7 +115,7 @@ True - The boy that Malcolm and Suzanne Seely wound up adopting is now 71 years 
 
 Seely pieced together the details of his early life from speaking with relatives and the family friend who was babysitting the night he was kidnapped.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776612377-4975QY0E03FFY51BL44D/image-asset.jpeg)
+![](images/66bf751c-image-asset.jpeg)
 
 ### [How the Trail of Tears Gave Slavery New Life](https://www.history.com/news/westward-expansion-slavery)
 
@@ -123,7 +123,7 @@ Like most people uprooted by the [Cherokee Trail of Tears](https://www.history.c
 
 She and her family were among those slaves. Their removal story differs slightly from traditional “Trail of Tears” narratives because they were of African descent, enslaved and forcibly removed along with their Cherokee owners.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776613734-DR1DDTNRXO26COEQ4N4O/image-asset.jpeg)
+![](images/ac3ae17e-image-asset.jpeg)
 
 ### [WHY DO SO MANY AMERICANS THINK THEY HAVE CHEROKEE BLOOD?](http://nativeamericanc.com/uncategorized/why-do-so-many-americans-think-they-have-cherokee-blood/)
 

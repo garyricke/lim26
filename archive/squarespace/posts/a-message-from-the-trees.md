@@ -5,7 +5,7 @@ date: 2026-01-13
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/reflections/a-message-from-the-trees
 section: reflections
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/6966d4aa62ab1d2baa23c015/1771262464830/pastor-tony-hero-wide-trees.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a6e05cc1-bcb4-4ac4-a603-0acc6361d9a7/pastor-tony-trees-thumb.jpg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/f787eef4-pastor-tony-hero-wide-trees.jpg", "images/e145a9ab-pastor-tony-trees-thumb.jpg", "images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # Living in God's Perfect Plan: A Message from the Trees
 
@@ -15,7 +15,7 @@ Jan 13
 
 Written By [Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a6e05cc1-bcb4-4ac4-a603-0acc6361d9a7/pastor-tony-trees-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/1154138599/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&log_user=0&signature=36c678242b52345c10ec7df30811f3178044bd5a9f297f7c743697d1135eccff)
+[![](images/e145a9ab-pastor-tony-trees-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/1154138599/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&log_user=0&signature=36c678242b52345c10ec7df30811f3178044bd5a9f297f7c743697d1135eccff)
 
 ### The Question That Started It All
 
@@ -55,6 +55,6 @@ You'll grow tall or short, thin or wide, but you'll be His child in relationship
 
 *Pastor Tony Schultz is a retired pastor from Anchorage Lutheran Church, sharing reflections in support of Lutheran Indian Ministries.*
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

@@ -5,7 +5,7 @@ date: 2016-05-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-fishermans-leap-monday-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c943a5d86a252bc7b31e/1748628700852/18226644_ml.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780037000-XZ3J18JY3AM3C1KEYYC6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780039353-0KEI7P5TDYVJ5QHUE11U/image-asset.png"]
+images: ["images/e7184088-18226644_ml.jpg", "images/a04787f6-image-asset.jpeg", "images/165be310-image-asset.png"]
 ---
 # The Fisherman's Leap-Monday Devotion
 
@@ -15,11 +15,11 @@ May 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780037000-XZ3J18JY3AM3C1KEYYC6/image-asset.jpeg)
+![](images/a04787f6-image-asset.jpeg)
 
 # The Fisherman’s Leap
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780039353-0KEI7P5TDYVJ5QHUE11U/image-asset.png)
+![](images/165be310-image-asset.png)
 
 When we are called by God, it is often out of our grasp of understanding, comfort, and everything this world has taught us is normal.
 

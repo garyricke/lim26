@@ -5,7 +5,7 @@ date: 2019-03-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/into-the-darkness-lent-devotion-monday-march-11
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b62a7abee65742282603/1748628700852/25-Matt_17-300x300.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775147949-6OAO5O803KCBFIDMY3RB/image-asset.jpeg"]
+images: ["images/da2af511-25-Matt_17-300x300.png", "images/aae5470c-image-asset.jpeg"]
 ---
 # Into the darkness (Lent Devotion) - Monday, March 11
 
@@ -15,7 +15,7 @@ Mar 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775147949-6OAO5O803KCBFIDMY3RB/image-asset.jpeg)
+![](images/aae5470c-image-asset.jpeg)
 
 # Into the Darkness
 

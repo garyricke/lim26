@@ -5,7 +5,7 @@ date: 2017-09-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/come-and-give-us-hope-ministry-through-music
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bee74d725316ea64599e/1748628700852/636067110320305634591838426_hope-hand-1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777385162-MMWSLB0G9JTW1V849OB0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777386041-XCCR61V7CX1997OK4SQ8/image-asset.jpeg"]
+images: ["images/51ef19cf-636067110320305634591838426_hope-hand-1.jpg", "images/3dcb24ed-image-asset.jpeg", "images/4eb849e6-image-asset.jpeg"]
 ---
 # "Come and Give Us Hope"
 
@@ -15,7 +15,7 @@ Sep 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777385162-MMWSLB0G9JTW1V849OB0/image-asset.jpeg)
+![](images/3dcb24ed-image-asset.jpeg)
 
 **"Come and give us hope."**
 
@@ -31,7 +31,7 @@ Suicide is prevalent in many remote Native communities, particularly in communit
 
 Even those who have not experienced significant trauma, yearn to fill the cross-shaped hole that exists in all of us. Secular therapies can only reach so far into a life, but they stop short of the healing needed in a broken soul. That's where the Martins and Lutheran Indian Ministries come in.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777386041-XCCR61V7CX1997OK4SQ8/image-asset.jpeg)
+![](images/4eb849e6-image-asset.jpeg)
 
 Through a series individual meetings and social issues workshop, the Martins built relationships with hurting individuals. And with strong emotional relationships comes the opportunity to share the love of Christ and introduce people to the True Healer.
 

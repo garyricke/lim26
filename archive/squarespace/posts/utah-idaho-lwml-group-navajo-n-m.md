@@ -5,7 +5,7 @@ date: 2014-08-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/new-mexiconavajo/utah-idaho-lwml-group-navajo-n-m
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd822ba65a2ce46d6e6e/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785219893-91VF5UNXJ2K5SRWZ1012/image-asset.jpeg"]
+images: ["images/7e403574-1748628700852", "images/5b327843-image-asset.jpeg"]
 ---
 # Utah-Idaho LWML Group in Navajo, N.M.
 
@@ -15,7 +15,7 @@ Aug 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785219893-91VF5UNXJ2K5SRWZ1012/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44426/1451491777617/LWML-grp-w-Navajo-staff-July-2014.jpg?format=original)
+[![](images/5b327843-image-asset.jpeg)](images/a859aee6-LWML-grp-w-Navajo-staff-July-2014.jpg)
 
 LWML grp w Navajo staff July 2014
 

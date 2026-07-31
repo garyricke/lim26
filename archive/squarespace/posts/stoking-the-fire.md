@@ -5,7 +5,7 @@ date: 2016-04-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/stoking-the-fire
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cee9f922fd3385f4ead4/1748628700852/A9Rah6sw8_1mivvfo_wk0.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781484559-WVGVLWWEXWIBUR5QHVZS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781487214-Z9AOE1U68LJM81DYQ8B2/image-asset.jpeg"]
+images: ["images/4c088b4b-A9Rah6sw8_1mivvfo_wk0.jpg", "images/7bc8994d-image-asset.jpeg", "images/427569e2-image-asset.jpeg"]
 ---
 # Stoking the Fire: the Presence of Christ in Navajo
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 Native American culture is filled with amazing stories about how things came to be. One such story explains how humans "discovered" fire. In the story, which I have heard attributed to the Navajo, the Karuk, and the Shoshone, coyote feels sorry for the poor humans who suffer through the bitter-cold winters. After hearing a woman crying for the children lost in the cold, he decides to steal some fire from the Fire Beings on Fire Mountain. With the help of the other animals, they steal a small piece of fire and throw it into wood. Coyote then teaches the humans how to rub two pieces of wood together to release the fire. From then on, humans are able warm their families in the winter.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781484559-WVGVLWWEXWIBUR5QHVZS/image-asset.jpeg)
+![](images/7bc8994d-image-asset.jpeg)
 
 [Sandpainting rug, Navajo rug weaving depicting Coyote Stealing Fire](http://www.ancientnations.com/Gallery%20HTML/2008/luana_tso_coyote_steals_fire.html)
 
@@ -31,7 +31,7 @@ But, we also see a flicker of hope.
 
 On Sunday, March 27th, Easter Sunday, Shepherd of the Valley Lutheran Church in Navajo, New Mexico welcomed two new children into their family through baptism.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781487214-Z9AOE1U68LJM81DYQ8B2/image-asset.jpeg)
+![](images/427569e2-image-asset.jpeg)
 
 An Easter baptism
 

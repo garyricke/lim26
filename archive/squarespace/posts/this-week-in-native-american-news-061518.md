@@ -5,7 +5,7 @@ date: 2018-06-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-061518
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b89f19ed594d3b12d180/1748628700852/1_QFvS61Ms-0_ORv9Tnt0yXA.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775776395-DRK7MCZDQSA4K1T87J93/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775777274-CSPPTN82W6WKM0N7Z4XW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775778446-WSQ2XC69SBX7DBDZKXEB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775779752-LN6LXI8983VZP2K4ANLM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775780774-E9UFDNCDS3SE3HMQBE9Z/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775781957-UET5AMPKHKICXZNWCOYG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775783014-FLKKNP32QNYC2U77WE4K/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775783817-APY4ZUEASW6LJKG4XVP7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775785027-KB3TV81JAQOKIKYJJBIG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775786044-8JSK5Y6RT0MVCWYA7276/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775786993-M5I8FPQORCB8Y1AEI76N/image-asset.jpeg"]
+images: ["images/1078d292-1_QFvS61Ms-0_ORv9Tnt0yXA.jpeg", "images/eda9db33-image-asset.jpeg", "images/82029b0a-image-asset.jpeg", "images/e5d5bec3-image-asset.jpeg", "images/62a5f7a8-image-asset.jpeg", "images/a42e970e-image-asset.jpeg", "images/53fc21db-image-asset.jpeg", "images/695751ae-image-asset.jpeg", "images/67bd2228-image-asset.jpeg", "images/e3c79d38-image-asset.jpeg", "images/5f2219c6-image-asset.jpeg", "images/29203c55-image-asset.jpeg"]
 ---
 # This Week in Native American News (6/15/18): Gun Violence, the Great Outdoors, and Historic Discoveries
 
@@ -13,7 +13,7 @@ Jun 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775776395-DRK7MCZDQSA4K1T87J93/image-asset.jpeg)
+![](images/eda9db33-image-asset.jpeg)
 
 # June 15, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Native American siblings stop at nothing to graduate from UCLA and lift their community
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775777274-CSPPTN82W6WKM0N7Z4XW/image-asset.jpeg)
+![](images/82029b0a-image-asset.jpeg)
 
 Daniel, Minda and David Streamer on Hot Springs Mountain, Los Coyotes Indian Reservation. **John Vande Wege/UCLA**
 
@@ -41,7 +41,7 @@ The siblings also look forward to returning home to Los Coyotes once they’ve c
 
 ## Gun Violence Has a Major Impact on Native Communities in the United States
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775778446-WSQ2XC69SBX7DBDZKXEB/image-asset.jpeg)
+![](images/e5d5bec3-image-asset.jpeg)
 
 Gun violence has a dark history for Natives in the United States. The deadliest mass shooting in U.S. history took place in 1890, when representatives of the U.S. government executed as many as 300 Native men, women, and children at Wounded Knee, South Dakota, for practicing Ghost Dancing, a spiritual tradition within our culture.
 
@@ -55,7 +55,7 @@ In this op-ed, writer Allen Salway explains how many different forms of gun viol
 
 ## Jaylyn Gough Asks: Whose Land Are You Exploring?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775779752-LN6LXI8983VZP2K4ANLM/image-asset.jpeg)
+![](images/62a5f7a8-image-asset.jpeg)
 
 *aylyn Gough, a full-blooded Navajo adopted and raised by a white woman on a reservation in New Mexico, founded [Native Women’s Wilderness](https://www.nativewomenswilderness.org/) in 2017. Photo credit:**www.outsideonline.com*
 
@@ -69,7 +69,7 @@ One of my first initiatives is increasing awareness about whose land we’re exp
 
 ## And Since It's Summer, and We're on the Topic...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775780774-E9UFDNCDS3SE3HMQBE9Z/image-asset.jpeg)
+![](images/a42e970e-image-asset.jpeg)
 
 ### [“The healing of a community begins with its women”: An Interview with Jolie Varela of Indigenous Women Hike](https://medium.com/@georgieabel/the-healing-of-a-community-begins-with-its-women-an-interview-with-jolie-varela-of-indigenous-4fa6bd4a636e)
 
@@ -79,7 +79,7 @@ I decided in May of 2017 that I would hike the Nuumu Poyo (people’s road or tr
 
 Want to support their hike? [Buy a shirt](https://www.bonfire.com/indigenouswomenhike/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775781957-UET5AMPKHKICXZNWCOYG/image-asset.jpeg)
+![](images/53fc21db-image-asset.jpeg)
 
 ### [Tribes and Tornadoes: How Native American tribes dealt with wild weather](https://kfor.com/2018/06/03/tribes-and-tornadoes-how-native-american-tribes-dealt-with-wild-weather/amp/)
 
@@ -91,7 +91,7 @@ Fortunately, we have technology to help us forecast particularly dangerous weath
 
 ## Today's History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775783014-FLKKNP32QNYC2U77WE4K/image-asset.jpeg)
+![](images/695751ae-image-asset.jpeg)
 
 ### [History in Comic Form: This Land is Our Land](https://thenib.com/this-land-is-our-land-the-1969-alcatraz-occupation-native-americans)
 
@@ -101,19 +101,19 @@ How a group of Red Power activists seized the abandoned prison island and their 
 
 by Eleri Harris and Mariah-Rose Marie M
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775783817-APY4ZUEASW6LJKG4XVP7/image-asset.jpeg)
+![](images/67bd2228-image-asset.jpeg)
 
 ### [New research unveils true origin of ancient turquoise](https://phys.org/news/2018-06-unveils-true-ancient-turquoise.html)
 
 New research published today in the journal *Science Advances* overturns more than a century of thought about the source of turquoise used by ancient civilizations in Mesoamerica, the vast region that extends from Central Mexico to Central America. For more than 150 years, scholars have argued that the Aztec and Mixtec civilizations, which revered the precious, blue-green mineral, acquired it through import from the American Southwest. However, extensive geochemical analyses reveal that the true geologic source of Aztec and Mixtec turquoise lies within Mesoamerica.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775785027-KB3TV81JAQOKIKYJJBIG/image-asset.jpeg)
+![](images/e3c79d38-image-asset.jpeg)
 
 ### [MEET THE SOCIALITE WHO HELPED PRESERVE — AND DESTROY — NATIVE AMERICAN CULTURE](https://www.ozy.com/flashback/meet-the-socialite-who-helped-preserve-and-destroy-native-american-culture/86969)
 
 The first time Alice Cunningham Fletcher heard Native American music — a cacophony of drumming and screaming — was on an autumn camping trip among the Sioux in 1881. Fletcher’s training as an anthropologist told her to ignore her own preconceptions about what music should be and instead try to understand what it expressed out on the plains. Only one other scholar had studied Native American music, and Fletcher’s experience of roughing it in the Dakota Territory inspired her to go further — she wanted to record and transcribe the music before it was lost forever.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775786044-8JSK5Y6RT0MVCWYA7276/image-asset.jpeg)
+![](images/5f2219c6-image-asset.jpeg)
 
 ### [Ancient Native American King's House Rediscovered in Florida](https://news.nationalgeographic.com/2018/06/ancient-native-american-kings-house-found-florida-archaeology-science/)
 
@@ -121,7 +121,7 @@ Known from Spanish records, the once-lost structure belonged to Caalus, ruler of
 
 Now, archaeologists say they’ve found the first known traces of the long-lost building where this meeting took place. Their reconstructions suggest it was just as impressive as the Spanish missionaries described: a royal house that could fit 2,000 individuals.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775786993-M5I8FPQORCB8Y1AEI76N/image-asset.jpeg)
+![](images/29203c55-image-asset.jpeg)
 
 ### [Kahukini’s](http://www.thegardenisland.com/2018/06/10/lifestyles/kahukinis-koloa-secret-treasure-cave/) [Koloa secret treasure cave](http://www.thegardenisland.com/2018/06/10/lifestyles/kahukinis-koloa-secret-treasure-cave/)
 

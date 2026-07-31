@@ -5,7 +5,7 @@ date: 2016-02-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/psalm-169-hopelessness
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349d006440291458e9f00f5/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781768156-KVMPWNRHOK7W1RSLEQUO/image-asset.jpeg"]
+images: ["images/e116d275-1748628700852", "images/65fe52a4-image-asset.jpeg"]
 ---
 # Hopelessness & Hope - Psalm 16:9
 
@@ -15,7 +15,7 @@ Feb 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781768156-KVMPWNRHOK7W1RSLEQUO/image-asset.jpeg)
+![](images/65fe52a4-image-asset.jpeg)
 
 **February 13**
 

@@ -5,7 +5,7 @@ date: 2016-06-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/more-than-family-monday-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c8c08796a71ce9693c7c/1748628700852/acts+16%2C14-15.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779905903-E3DUFZJ69CA6S05HOY3J/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779908875-I1JQGX2DSPR1NMHJXLKM/image-asset.jpeg"]
+images: ["images/733ef1da-acts_16_14-15.jpg", "images/ba668a6c-image-asset.png", "images/a556fece-image-asset.jpeg"]
 ---
 # More Than Family-Monday Devotion
 
@@ -15,11 +15,11 @@ Jun 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779905903-E3DUFZJ69CA6S05HOY3J/image-asset.png)
+![](images/ba668a6c-image-asset.png)
 
 # More Than Family
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779908875-I1JQGX2DSPR1NMHJXLKM/image-asset.jpeg)
+![](images/a556fece-image-asset.jpeg)
 
 If you've ever seen Disney's "Lilo & Stitch," you know the Hawaiian word for family is '***ohana***. But it means much more than just the parents and siblings you grew up with or even extended blood relatives, it encompasses anyone close to you. The concept of 'ohana really emphasizes that people who are brought together are bound together and should cooperate and be remembered.
 

@@ -5,7 +5,7 @@ date: 2016-05-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/learn-to-sing-their-song-monday-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cc0c6e1ebc16d02d0b43/1748628700852/fire.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780750144-AN2TAZU4IELOTT4UY2NS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780751854-KXMVU35XB6RH1NEWM4PT/image-asset.jpeg"]
+images: ["images/da642c0c-fire.jpg", "images/d8aad6cc-image-asset.jpeg", "images/8b9cfdf3-image-asset.jpeg"]
 ---
 # Learn to Sing Their Song - Monday Devotion
 
@@ -15,13 +15,13 @@ May 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780750144-AN2TAZU4IELOTT4UY2NS/image-asset.jpeg)
+![](images/d8aad6cc-image-asset.jpeg)
 
 ---
 
 # Learn to Sing Their Song
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780751854-KXMVU35XB6RH1NEWM4PT/image-asset.jpeg)
+![](images/8b9cfdf3-image-asset.jpeg)
 
 Jesus spoke in parables, stories that built upon the societal norms and traditional beliefs of his audience, to help his audience understand the point He wanted to make. Occasionally, because we are so far removed from Jesus’ day, we lose the full impact of His stories, but once we understand the source of the story, and the setting in which it was told, its full meaning unfolds before us.  
   

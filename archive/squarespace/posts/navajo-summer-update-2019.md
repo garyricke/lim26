@@ -5,7 +5,7 @@ date: 2019-09-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/navajo-summer-update-2019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b25d09a0b66f51efbfb8/1748628700852/interns.jpg"]
+images: ["images/ba873b5d-interns.jpg"]
 ---
 # Navajo Summer update 2019
 

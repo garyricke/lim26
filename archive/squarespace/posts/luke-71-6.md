@@ -5,7 +5,7 @@ date: 2018-04-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-71-6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b9207c9bc16a0fbdea77/1748628700852/A+head+soldier+of+the+People+of+Iron+had+a+servant+he+cared+deeply+about%2C+who+was+sick+and+near+death.+When+the+head+soldier+heard+about+Creator+Sets+Free%2C+he+asked+some+elders+from+the+tribes+of+Wrestles.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775905602-FKFDCVLVP7ISOFNW012K/image-asset.png"]
+images: ["images/170f8f11-A_head_soldier_of_the_People_of_Iron_had_a_servant_he_cared_deeply_about__who_was_sick_and_near_death._When_the_head_sol", "images/df181d35-image-asset.png"]
 ---
 # Luke 7:1-6a
 
@@ -13,7 +13,7 @@ Apr 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775905602-FKFDCVLVP7ISOFNW012K/image-asset.png)
+![](images/df181d35-image-asset.png)
 
 Here "servant" means, literally, slave. The difference is important, as we shall see in the picture presented to us of the centurion's character.
 

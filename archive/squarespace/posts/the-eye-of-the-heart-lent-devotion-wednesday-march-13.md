@@ -5,7 +5,7 @@ date: 2019-03-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-eye-of-the-heart-lent-devotion-wednesday-march-13
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b622f09029341eb1521f/1748628700852/tumblr_ona3b5knN41qfvq9bo1_1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775139964-M212Y490PC1Y1JNMZ45B/image-asset.jpeg"]
+images: ["images/0abfe8ad-tumblr_ona3b5knN41qfvq9bo1_1280.jpg", "images/7f884e48-image-asset.jpeg"]
 ---
 # The Eye of the Heart (Lent Devotion) - Wednesday, March 13
 
@@ -15,7 +15,7 @@ Mar 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775139964-M212Y490PC1Y1JNMZ45B/image-asset.jpeg)
+![](images/7f884e48-image-asset.jpeg)
 
 # The Eye of the Heart
 

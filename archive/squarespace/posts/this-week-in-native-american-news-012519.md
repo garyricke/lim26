@@ -5,7 +5,7 @@ date: 2019-01-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-012519
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b683d2c1581771e8ddce/1748628700852/ap_100124047752_slide-b4fdf190026577fbe8ab65eb6e820190ffdbcb98-s1500-c85.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775236901-6114SG9SP3U2E980KZD8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775238249-2M3K7S5LMW6AR4BVZI6D/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775240104-YDUO8TVXYTC1DXSRS8G2/image-asset.jpeg"]
+images: ["images/93630090-ap_100124047752_slide-b4fdf190026577fbe8ab65eb6e820190ffdbcb98-s1500-c85.jpg", "images/0fcaf731-image-asset.jpeg", "images/9b699a89-image-asset.jpeg", "images/cdab6234-image-asset.jpeg"]
 ---
 # This Week in Native American News (1/25/19): the 2020 census, a Cree Barbie, and the D.C. Incident
 
@@ -13,7 +13,7 @@ Jan 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775236901-6114SG9SP3U2E980KZD8/image-asset.jpeg)
+![](images/0fcaf731-image-asset.jpeg)
 
 # January 25, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Why The U.S. Census Starts In Alaska's Most Remote, Rural Villages
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775238249-2M3K7S5LMW6AR4BVZI6D/image-asset.jpeg)
+![](images/9b699a89-image-asset.jpeg)
 
 The moon hangs low in the sky over the remote Inupiat Eskimo village of Noorvik, Alaska, the first community in the U.S. counted for the 2010 census. *Carolyn Kaster/AP*
 
@@ -43,7 +43,7 @@ To meet the constitutional requirement of counting every resident, the bureau ha
 
 ## Filmmaker named role model by Mattel challenges toy giant to create Cree Barbie
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775240104-YDUO8TVXYTC1DXSRS8G2/image-asset.jpeg)
+![](images/cdab6234-image-asset.jpeg)
 
 Sonya Ballantyne started a petition asking Mattel to create a Cree Barbie. (Cella Lao Rousseau)
 

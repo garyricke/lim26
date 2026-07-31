@@ -5,7 +5,7 @@ date: 2026-02-02
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/reflections/gods-kindness
 section: reflections
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/6980d1a8eb06c7484611a647/1771262451614/ChatGPT+Image+Feb+2%2C+2026%2C+04_36_46+PM.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/e51a596a-952c-4892-ba31-e5d100588b33/pastor-tony-gods-kindness-thumb.jpg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/48a760f9-ChatGPT_Image_Feb_2__2026__04_36_46_PM.jpg", "images/a56307a8-pastor-tony-gods-kindness-thumb.jpg", "images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # God’s Kindness in the Dead-Still Season
 
@@ -15,7 +15,7 @@ Feb 2
 
 Written By [Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/e51a596a-952c-4892-ba31-e5d100588b33/pastor-tony-gods-kindness-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/1161138361/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=a78590349b958643a22951e99049e19682650b4d10eac1b1949468850a722148)
+[![](images/a56307a8-pastor-tony-gods-kindness-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/1161138361/rendition/720p/file.mp4%20%28720p%29.mp4?loc=external&log_user=0&signature=a78590349b958643a22951e99049e19682650b4d10eac1b1949468850a722148)
 
 ### An Alaska winter as a picture of the soul
 
@@ -121,6 +121,6 @@ The overall tone is not scolding—it’s steady and invitational: when you feel
 
 Tony closes with encouragement that your baptism is not merely a past religious event—it is a continuing reminder that God chose you and continues to call you back through kindness. Even in a season of spiritual cold, he urges listeners to “go to that promise,” to turn around, and to “feel the warmth of the Spirit” in Jesus’ name.
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

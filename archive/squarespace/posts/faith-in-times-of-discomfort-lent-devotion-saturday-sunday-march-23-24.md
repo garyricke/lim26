@@ -5,7 +5,7 @@ date: 2019-03-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/faith-in-times-of-discomfort-lent-devotion-saturday-sunday-march-23-24
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b5effc45ad1a48d5eb53/1748628700852/2Co12.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775088916-H2R5YBT6RGW4ZAZAFKRB/image-asset.jpeg"]
+images: ["images/14796afe-2Co12.jpg", "images/79e0c9ce-image-asset.jpeg"]
 ---
 # Faith in Times of Discomfort (Lent Devotion) - Saturday & Sunday, March 23 & 24
 
@@ -13,7 +13,7 @@ Mar 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775088916-H2R5YBT6RGW4ZAZAFKRB/image-asset.jpeg)
+![](images/79e0c9ce-image-asset.jpeg)
 
 # Faith in Times of Discomfort
 

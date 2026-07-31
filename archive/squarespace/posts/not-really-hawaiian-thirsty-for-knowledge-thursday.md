@@ -5,7 +5,7 @@ date: 2017-06-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/not-really-hawaiian-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c030cdfe3c472ddea399/1748628700852/Lightplate.jpg"]
+images: ["images/75d01056-Lightplate.jpg"]
 ---
 # Not Really Hawaiian... - Thirsty (for Knowledge) Thursday
 

@@ -5,7 +5,7 @@ date: 2017-12-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-bitter-roots-advent-monday-december-18
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bdee739ee60f9ba637aa/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777135186-5B2JVG0WQMP31NVECRGP/image-asset.png"]
+images: ["images/9a019b58-Advent__1_.png", "images/a097efff-image-asset.png"]
 ---
 # The Bitter Roots (Advent) - Monday, December 18
 
@@ -15,7 +15,7 @@ Dec 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777135186-5B2JVG0WQMP31NVECRGP/image-asset.png)
+![](images/a097efff-image-asset.png)
 
 ### **The Bitter Roots -** **Monday, December 18**
 

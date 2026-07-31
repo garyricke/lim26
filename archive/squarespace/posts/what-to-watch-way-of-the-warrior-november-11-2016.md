@@ -5,7 +5,7 @@ date: 2016-11-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-to-watch-way-of-the-warrior-november-11-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4d6739ee60f9ba75691/1748628700852/Mezzanine_805.jpg.fit.344x192.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778903871-USQFD7WIXHGP6MRWRV39/image-asset.jpeg"]
+images: ["images/232488c7-Mezzanine_805.jpg.fit.344x192.jpg", "images/b38843f6-image-asset.jpeg"]
 ---
 # What to Watch: Way of the Warrior - November 11, 2016
 
@@ -19,7 +19,7 @@ As part of Vision Maker Media's "40 years, 40 films, 40 weeks" program, one arch
 
 This week's featured film is: "Way of the Warrior"
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778903871-USQFD7WIXHGP6MRWRV39/image-asset.jpeg)
+![](images/b38843f6-image-asset.jpeg)
 
 Exploring the warrior ethic among Native Americans, this documentary reveals how Native communities have traditionally viewed their warriors and why, during the 20th century, Native men and women have signed up for military service at a rate three times higher than non-Indians. Way of the Warrior also examines the visceral nature of war and the bravery of Native American veterans who served in World War I, World War II, the Korean War and the Vietnam War--and came to grips with the difficult post-war personal and societal conditions.
 

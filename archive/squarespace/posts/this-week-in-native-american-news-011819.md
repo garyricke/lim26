@@ -5,7 +5,7 @@ date: 2019-01-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-011819
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b68cab562073a4f9fea2/1748628700852/0108-DDP-WINGS-lede.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775245955-QFLGNYD5NTQSEPA1WR9F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775248296-US8Z2KTFKW1O640ZZCFP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775250704-G8O634CLE2R0YKC0FWWM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775251869-SGPTJ0PV92YKNCY67GJ2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775253446-H7H06AWSYMKYTO38TBZI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775255117-EMY7ZLNW9TGCDXW1LCB7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775256056-GAXXVY3XKI2X8MUN3EKW/image-asset.jpeg"]
+images: ["images/3b0e2fec-0108-DDP-WINGS-lede.jpg", "images/570870f3-image-asset.jpeg", "images/1313f13f-image-asset.jpeg", "images/ec6fe4b9-image-asset.jpeg", "images/84e6a0ac-image-asset.jpeg", "images/dcb75b5e-image-asset.jpeg", "images/01c29409-image-asset.jpeg", "images/2a126b3e-image-asset.jpeg"]
 ---
 # This Week in Native American News (1/18/19): running, holistic health, changing tourism, and a raven
 
@@ -13,7 +13,7 @@ Jan 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775245955-QFLGNYD5NTQSEPA1WR9F/image-asset.jpeg)
+![](images/570870f3-image-asset.jpeg)
 
 # January 18, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## For young Native Americans, running is a lesson in their own history
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775248296-US8Z2KTFKW1O640ZZCFP/image-asset.jpeg)
+![](images/1313f13f-image-asset.jpeg)
 
 Elementary school students from the Native American Community Academy in Albuquerque, N.M., play running games with Dustin Martin (center) as part of after-school activities. Wings of America is a New Mexico-based group that educates young Native Americans about their cultural and spiritual connection to running. Photo credit: Story Hinckley/The Christian Science Monitor
 
@@ -37,7 +37,7 @@ This past March, Dustin Martin, the executive director of Wings, helped organize
 
 ## In Similar News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775250704-G8O634CLE2R0YKC0FWWM/image-asset.jpeg)
+![](images/ec6fe4b9-image-asset.jpeg)
 
 ## [Chelsey Luger Is Giving Ancestral Native American Practices a 2019 Reboot](https://www.bonappetit.com/story/chelsey-luger)
 
@@ -51,7 +51,7 @@ Ultimately, the goal is to make traditional wellness practices feel accessible t
 
 ## Shutdown puts strain on hundreds of Native American tribes
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775251869-SGPTJ0PV92YKNCY67GJ2/image-asset.jpeg)
+![](images/84e6a0ac-image-asset.jpeg)
 
 Annette Squetimkin-Anquoe, third from right, a member of the Colville Indian tribe and the Chief Traditional Health Officer at the Urban Indian Health Institute in Seattle, leads a talking circle meeting Friday, Jan. 11, 2019, to discuss the practice of traditional Indian medicine, including blessings and smudging, with employees of the Seattle Indian Health Board. Fallout from the federal government shutdown is hurting hundreds of Native American tribes and entities that serve them. The pain is especially deep in tribal communities with high rates of poverty and unemployment, and where one person often supports an extended family. (AP Photo/Ted S. Warren)
 
@@ -71,7 +71,7 @@ Native American tribes rely heavily on funding guaranteed by treaties with the U
 
 ## How Native Hawaiians Are Decolonizing Tourism
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775253446-H7H06AWSYMKYTO38TBZI/image-asset.jpeg)
+![](images/dcb75b5e-image-asset.jpeg)
 
 Native Hawaiians living in the “vacation paradise” are caught between the state’s two major industries, the U.S. military and tourism. Through DeTours, they challenge both by showing tourists Hawaii from their perspective.
 
@@ -85,7 +85,7 @@ When most people think of Hawaii, images of hula dancers, surfers, and honeymoon
 
 ## A bird for all seasons: the case for the raven as an Alaska symbol
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775255117-EMY7ZLNW9TGCDXW1LCB7/image-asset.jpeg)
+![](images/01c29409-image-asset.jpeg)
 
 After enduring uncountable thousands of dark Alaska winters, it’s time for the raven’s day in the sun.
 
@@ -101,7 +101,7 @@ The best argument for the raven as a symbol of our state, however, is the recogn
 
 ## Today’s History Lesson
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775256056-GAXXVY3XKI2X8MUN3EKW/image-asset.jpeg)
+![](images/2a126b3e-image-asset.jpeg)
 
 ### [Native American routes: the ancient trails hidden in Chicago’s grid system](https://www.theguardian.com/cities/2019/jan/17/native-american-routes-the-ancient-trails-hidden-in-chicagos-grid-system?CMP=Share_iOSApp_Other)
 

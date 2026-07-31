@@ -5,7 +5,7 @@ date: 2021-03-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/he-had-to-die-to-rescue-us-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae446ad1b35e19120065/1748628700852/21+He+Had+to+Die+to+Rescue+Us.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773125991-RQA030JXH8B9M0K95S7Q/image-asset.jpeg"]
+images: ["images/bce07a43-21_He_Had_to_Die_to_Rescue_Us.jpg", "images/c8f02ce7-image-asset.jpeg"]
 ---
 # He Had to Die to Rescue Us! (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773125991-RQA030JXH8B9M0K95S7Q/image-asset.jpeg)
+![](images/c8f02ce7-image-asset.jpeg)
 
 # “FOR GOD SO LOVED THE WORLD THAT HE GAVE HIS ONE AND ONLY SON, THAT WHOEVER BELIEVES IN HIM SHALL NOT PERISH BUT HAVE ETERNAL LIFE." (JOHN 3:16)
 

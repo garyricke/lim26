@@ -5,7 +5,7 @@ date: 2018-12-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/miracles-on-the-winter-road-advent-devotion-thursday-december-6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b787ab393413117ef874/1748628700852/Ro8.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775496562-J2RZMGHMG6YNGJAI7OUF/image-asset.png"]
+images: ["images/1c761c09-Ro8.jpg", "images/a798c1f0-image-asset.png"]
 ---
 # Miracles on the Winter Road (Advent Devotion) - Thursday, December 6
 
@@ -15,7 +15,7 @@ Dec 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775496562-J2RZMGHMG6YNGJAI7OUF/image-asset.png)
+![](images/a798c1f0-image-asset.png)
 
 ## And we know that in all things God works for the good of those who love him and are called according to his purpose.  (Romans 8:28 NIV)
 

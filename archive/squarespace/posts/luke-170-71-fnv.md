@@ -5,7 +5,7 @@ date: 2016-07-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/luke-170-71-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c64552eea03e1975818f/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779271378-ST77HHJL4ONBV24U2EVE/image-asset.png"]
+images: ["images/ec0b6bcf-1748628700852", "images/e67dd5c4-image-asset.png"]
 ---
 # Luke 1:70-71 FNV
 
@@ -13,7 +13,7 @@ Jul 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779271378-ST77HHJL4ONBV24U2EVE/image-asset.png)
+![](images/e67dd5c4-image-asset.png)
 
 \*\*The 'coup stick' was a stick with an eagle or hawk claw attached to its tip; used by many tribes of the Plains. A warrior in battle would scratch an enemy with it as an act of courage to show he could have killed him, but chose to spare him instead. (From the FNV notes)
 

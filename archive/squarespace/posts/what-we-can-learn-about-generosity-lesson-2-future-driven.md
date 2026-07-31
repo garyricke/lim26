@@ -5,7 +5,7 @@ date: 2017-10-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-we-can-learn-about-generosity-lesson-2-future-driven
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be90e32d133794781eea/1748628700852/Holy+is+his+name.+His+mercy+extends+to+those+who+fear+him%2C+from+generation+to+generation.+%28Luke+1-46-50%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777296704-SXVEU5AA7JC4EKWNX178/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777298645-C36M1PB9QYV3SPMO5SSK/image-asset.png"]
+images: ["images/c7a96a91-Holy_is_his_name._His_mercy_extends_to_those_who_fear_him__from_generation_to_generation.__Luke_1-46-50_.png", "images/592903c8-image-asset.png", "images/55602775-image-asset.png"]
 ---
 # What We Can Learn About Generosity, Lesson 2: Future Driven - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Oct 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777296704-SXVEU5AA7JC4EKWNX178/image-asset.png)
+![](images/592903c8-image-asset.png)
 
 Missed a devotion in this generosity series? [Read them all here.](http://www.lutheranindianministries.org/news/?tag=generosity)
 
@@ -49,7 +49,7 @@ Read Lesson #3
 
 [BE GENEROUS](/donate)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777298645-C36M1PB9QYV3SPMO5SSK/image-asset.png)
+![](images/55602775-image-asset.png)
 
 [devotion](/news-notes/tag/devotion)
 

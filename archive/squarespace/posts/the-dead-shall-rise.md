@@ -5,7 +5,7 @@ date: 2020-02-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-dead-shall-rise
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0f9dd7dfe2ee01d40bf/1748628700852/b223e41d48022ba61692d3d349718167.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773820715-4KDWRVWY16D9UAJVGYDH/image-asset.png"]
+images: ["images/d99bfbeb-b223e41d48022ba61692d3d349718167.jpg", "images/672f3a5a-image-asset.png"]
 ---
 # The Dead Shall Rise - Lent 2020
 
@@ -15,7 +15,7 @@ Feb 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773820715-4KDWRVWY16D9UAJVGYDH/image-asset.png)
+![](images/672f3a5a-image-asset.png)
 
 ### Your dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy! For your dew is a dew of light, and the earth will give birth to the dead. [Isaiah 26:19](https://www.bible.com/bible/111/isa.26.19)
 

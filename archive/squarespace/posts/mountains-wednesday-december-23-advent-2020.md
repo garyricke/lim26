@@ -5,7 +5,7 @@ date: 2020-12-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/mountains-wednesday-december-23-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae8abfc8783a2894cdde/1748628700852/img_1945.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773196286-B6I1RGX6AO43VWXOIM4P/image-asset.png"]
+images: ["images/b3134789-img_1945.jpg", "images/26c7836f-image-asset.png"]
 ---
 # Mountains - Wednesday, December 23 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773196286-B6I1RGX6AO43VWXOIM4P/image-asset.png)
+![](images/26c7836f-image-asset.png)
 
 ## In the last days the mountain of the LORD’s temple will be established as chief among the mountains; it will be raised above the hills and all nations will stream to it.  Many peoples will come and say, “Come let us go up to the mountain of the LORD, to the house of the God of Jacob.  He will teach us his ways, so that we may walk in his paths. [Isaiah 2:2-3a](https://my.bible.com/bible/111/ISA.2.2-3)
 

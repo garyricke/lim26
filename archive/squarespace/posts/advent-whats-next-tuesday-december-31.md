@@ -5,7 +5,7 @@ date: 2019-12-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-whats-next-tuesday-december-31
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b14d87fb27609f6cc192/1748628700852/CP1829112_l.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773902512-BAOUJV8C1MYIIFEP5RXV/image-asset.png"]
+images: ["images/3bde5d67-CP1829112_l.jpg", "images/f334f7e6-image-asset.png"]
 ---
 # Advent: What's Next? - Tuesday, December 31
 
@@ -15,7 +15,7 @@ Dec 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773902512-BAOUJV8C1MYIIFEP5RXV/image-asset.png)
+![](images/f334f7e6-image-asset.png)
 
 ### **Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.”**
 

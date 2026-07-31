@@ -5,7 +5,7 @@ date: 2018-03-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/teach-gods-way-lent-saturday-march-17
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbd6e0445c470a22a77e/1748628700852/034ebd4176db33eda863610e387d574f--psalm--restoration.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776599423-480G3SG2IQW1FP4XXV21/image-asset.png"]
+images: ["images/e1522311-034ebd4176db33eda863610e387d574f--psalm--restoration.jpg", "images/82de5e8c-image-asset.png"]
 ---
 # Teach God's Way (Lent) - Saturday, March 17
 
@@ -15,7 +15,7 @@ Mar 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776599423-480G3SG2IQW1FP4XXV21/image-asset.png)
+![](images/82de5e8c-image-asset.png)
 
 ### "Restore to me the joy of your salvation and grant me a willing spirit,  to sustain me.  Then I will teach transgressors your ways,  and sinners will turn back to you." [Psalm 51:12-13 (NIV)](https://www.bible.com/bible/111/PSA.51.12-13)
 

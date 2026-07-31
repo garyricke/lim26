@@ -5,7 +5,7 @@ date: 2016-12-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/we-can-obey-december-11
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c45d4171092d1d87e5bf/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778782811-Q6O8ANI6LBMY37K4QVAF/image-asset.png"]
+images: ["images/28d9017e-2016_Advent_Devotions.png", "images/9d2457cb-image-asset.png"]
 ---
 # We Can Obey: December 11
 
@@ -15,7 +15,7 @@ Dec 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778782811-Q6O8ANI6LBMY37K4QVAF/image-asset.png)
+![](images/9d2457cb-image-asset.png)
 
 ## This is love for God: to obey his commands. And his commands are not burdensome, for everyone born of God overcomes the world… 1 John 5:3-4 (NIV)
 

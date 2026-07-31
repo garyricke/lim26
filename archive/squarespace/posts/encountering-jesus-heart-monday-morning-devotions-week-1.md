@@ -5,7 +5,7 @@ date: 2019-10-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/encountering-jesus-heart-monday-morning-devotions-week-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b210ce4bec6e8d1e437f/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774098173-SF2NJ47I1KM3MV7TYYT5/image-asset.jpeg"]
+images: ["images/a8f30b01-1748628700852", "images/dcfd4a4e-image-asset.jpeg"]
 ---
 # Encountering Jesus' Heart - Monday Morning Devotions (Week 1)
 
@@ -13,7 +13,7 @@ Oct 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774098173-SF2NJ47I1KM3MV7TYYT5/image-asset.jpeg)
+![](images/dcfd4a4e-image-asset.jpeg)
 
 For the next five weeks, we will dive into what it means to see people with Jesus’ eyes and love them with a heart like Jesus.
 

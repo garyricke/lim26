@@ -5,7 +5,7 @@ date: 2019-09-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/doing-things-that-matter-love-recklessly-monday-morning-devotions-week-4
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2425c155d7631586f0b/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774150123-IN7P9Z9GRXLO3N5EXG27/image-asset.jpeg"]
+images: ["images/6f18df82-1748628700852", "images/964226c0-image-asset.jpeg"]
 ---
 # Doing Things that Matter: Love Recklessly - Monday Morning Devotions (Week 4)
 
@@ -13,7 +13,7 @@ Sep 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774150123-IN7P9Z9GRXLO3N5EXG27/image-asset.jpeg)
+![](images/964226c0-image-asset.jpeg)
 
 (c) http://doingthingsthatmatter.com/
 

@@ -5,7 +5,7 @@ date: 2020-09-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-8
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af9ece4bec6e8d1df1c9/1748628700852/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773471572-F40G7NRGVUXFWGQES61I/image-asset.png"]
+images: ["images/26230956-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/ca0bab33-image-asset.png"]
 ---
 # Living By Faith: A Time for Peace - Monday Morning Summer Devotion Series - Week 8
 
@@ -15,7 +15,7 @@ Sep 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773471572-F40G7NRGVUXFWGQES61I/image-asset.png)
+![](images/ca0bab33-image-asset.png)
 
 Need to start at week 1? [Start here](https://lutheranindianministries.org/news/living-by-faith-monday-morning-summer-devotion-series-week-1)
 

@@ -5,7 +5,7 @@ date: 2016-11-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-we-can-learn-about-generosity-lesson-5-see-whats-coming-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4ce70f86f2c8d547bc4/1748628700852/85a7a8857f0ba66df6ce2dbfe990793c.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778895727-MIV1PJZHTXS4XT9H6U3A/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778896906-3C0DX3SFJBISCVVCJ8XH/image-asset.jpeg"]
+images: ["images/1c063895-85a7a8857f0ba66df6ce2dbfe990793c.jpg", "images/9e140d23-image-asset.jpeg", "images/cd78d082-image-asset.jpeg"]
 ---
 # What We Can Learn About Generosity, Lesson 5: See what's coming - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Nov 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778895727-MIV1PJZHTXS4XT9H6U3A/image-asset.jpeg)
+![](images/9e140d23-image-asset.jpeg)
 
 This is Week 6 of our Generosity Series. [Need to start at the beginning? Read the Introduction here.](https://www.lutheranindianministries.org/news/we-give-because-he-gave-monday-morning-devotion)
 
@@ -33,7 +33,7 @@ The moral of the story: give and it WILL be given to you, but not necessarily he
 
 Our reward has already been given to us by Jesus' death and resurrection. Our inheritance waits for us in heaven to be given to us in full when we are reunited with our Heavenly Father. And what God asks to give while we are here on earth is a pittance compared to what we will receive.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778896906-3C0DX3SFJBISCVVCJ8XH/image-asset.jpeg)
+![](images/cd78d082-image-asset.jpeg)
 
 Like the families that gave everything to their community, confident of what was waiting for them, ***are we willing to give beyond our comfort, trusting that, because of our faith in Jesus as our Savior, we have the ultimate reward awaiting us?***
 

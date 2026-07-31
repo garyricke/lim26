@@ -5,7 +5,7 @@ date: 2019-01-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/happy-new-year-from-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6b50bda9b53014a811d/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775287402-VFQ2FQDR432ZU3YRM97T/image-asset.jpeg"]
+images: ["images/11fe3977-1748628700852", "images/9bf54b5b-image-asset.jpeg"]
 ---
 # Happy New Year from Navajo
 
@@ -21,7 +21,7 @@ Merry Christmas, or Blessed St. Stephen’s Day.
 
 As a part of Christmas, for the last two years, we have had confirmation students pack and pass out boxes to elders in the community. This year we don’t have a confirmation class, but we do have young people in the church, and they still passed out boxes, sang carols, and prayed with senior citizens and their families.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775287402-VFQ2FQDR432ZU3YRM97T/image-asset.jpeg)
+![](images/9bf54b5b-image-asset.jpeg)
 
 At a time of year when it easy to lose sight of God’s gift to us in Christ, these young people put into practice Jesus’ words that it is more blessed to give than to receive (Acts 19:35).
 

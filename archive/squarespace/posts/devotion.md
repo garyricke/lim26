@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/devotion
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773140478-A2UUEW63MDC32AJLKFD7/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773143587-KJEMDBN8A0TQLQX4BRHX/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773147015-SBH2FRWZJP7B73RT28LI/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773150346-VY2WZN6PX6H4RMYV9RMA/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773154456-9H7ZU3IYWUXIFWF50HAW/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773158131-XWTFLGPP8XATT0BFETZN/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773162030-X7L0KMAZO52ELQ54SYPF/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773165078-BMPI89ZT94LVFMKGF1DZ/download.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773168966-FWHF7LWZKDFDCJSYTG0A/Mt2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773171953-2DUZ69I906E0SBJP7WFI/bda9dfe6f5b03636900d737edb157419.jpg"]
+images: ["images/e5766efb-Copy_of_Give_us_this_day__2_.png", "images/a0643e97-Copy_of_Give_us_this_day__2_.png", "images/9ed677c0-Copy_of_Give_us_this_day__2_.png", "images/009c64df-Copy_of_Give_us_this_day__2_.png", "images/151e7df7-Copy_of_Give_us_this_day__2_.png", "images/0891dd89-Copy_of_Give_us_this_day__2_.png", "images/42cda2b6-Copy_of_Give_us_this_day__2_.png", "images/c854f435-download.png", "images/ba1b3ad4-Mt2.jpg", "images/57f372fb-bda9dfe6f5b03636900d737edb157419.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![TRUTH: what the world needs - Week 7 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773140478-A2UUEW63MDC32AJLKFD7/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-7-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 7 (Monday Morning Devotions)](images/e5766efb-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-7-monday-morning-devotions)
 
 Guest User
 2/15/21
@@ -75,7 +75,7 @@ God's Transcendent Truth has been revealed in the Sacred Word of God, which neve
 
 [Read More](/news-notes/truth-what-the-world-needs-week-7-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 6 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773143587-KJEMDBN8A0TQLQX4BRHX/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-6-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 6 (Monday Morning Devotions)](images/a0643e97-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-6-monday-morning-devotions)
 
 Guest User
 2/8/21
@@ -89,7 +89,7 @@ For those of us who take God at his Word, we must humbly admit that this is the 
 
 [Read More](/news-notes/truth-what-the-world-needs-week-6-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 5 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773147015-SBH2FRWZJP7B73RT28LI/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-5-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 5 (Monday Morning Devotions)](images/9ed677c0-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-5-monday-morning-devotions)
 
 Guest User
 2/1/21
@@ -103,7 +103,7 @@ In our world, many would say truth is relative. In other words, what is true for
 
 [Read More](/news-notes/truth-what-the-world-needs-week-5-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 4 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773150346-VY2WZN6PX6H4RMYV9RMA/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-4-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 4 (Monday Morning Devotions)](images/009c64df-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-4-monday-morning-devotions)
 
 Guest User
 1/25/21
@@ -123,7 +123,7 @@ One turns to God's Sacred Word.
 
 [Read More](/news-notes/truth-what-the-world-needs-week-4-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 3 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773154456-9H7ZU3IYWUXIFWF50HAW/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-3-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 3 (Monday Morning Devotions)](images/151e7df7-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-3-monday-morning-devotions)
 
 Guest User
 1/18/21
@@ -139,7 +139,7 @@ But, I have good news for you today. There is One whom you can trust and who onl
 
 [Read More](/news-notes/truth-what-the-world-needs-week-3-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 2 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773158131-XWTFLGPP8XATT0BFETZN/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-2-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 2 (Monday Morning Devotions)](images/0891dd89-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-2-monday-morning-devotions)
 
 Guest User
 1/11/21
@@ -157,7 +157,7 @@ The virgin birth of baby Jesus, celebrated on Christmas Day, has been brought in
 
 [Read More](/news-notes/truth-what-the-world-needs-week-2-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 1 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773162030-X7L0KMAZO52ELQ54SYPF/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-1-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 1 (Monday Morning Devotions)](images/42cda2b6-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-1-monday-morning-devotions)
 
 Guest User
 1/4/21
@@ -171,7 +171,7 @@ We search for transcendent truth, not transient. Transient truth is what mankind
 
 [Read More](/news-notes/truth-what-the-world-needs-week-1-monday-morning-devotions)
 
-[![Peace in the New Year - Friday, January 1 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773165078-BMPI89ZT94LVFMKGF1DZ/download.png)](/news-notes/everlasting-father-saturday-december-26-advent-2020-nj74g)
+[![Peace in the New Year - Friday, January 1 (Advent 2020)](images/c854f435-download.png)](/news-notes/everlasting-father-saturday-december-26-advent-2020-nj74g)
 
 Guest User
 1/1/21
@@ -185,7 +185,7 @@ As we celebrate the beginning of a new year, we pray the Prince of Peace would b
 
 [Read More](/news-notes/everlasting-father-saturday-december-26-advent-2020-nj74g)
 
-[![The Star - Thursday, December 31 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773168966-FWHF7LWZKDFDCJSYTG0A/Mt2.jpg)](/news-notes/the-star-thursday-december-31-advent-2020)
+[![The Star - Thursday, December 31 (Advent 2020)](images/ba1b3ad4-Mt2.jpg)](/news-notes/the-star-thursday-december-31-advent-2020)
 
 Guest User
 12/31/20
@@ -201,7 +201,7 @@ God can still use the stars in the night sky to direct and lead us to Jesus, to 
 
 [Read More](/news-notes/the-star-thursday-december-31-advent-2020)
 
-[![Time - Wednesday, December 30 (Advent 2020)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773171953-2DUZ69I906E0SBJP7WFI/bda9dfe6f5b03636900d737edb157419.jpg)](/news-notes/time-wednesday-december-30-advent-2020)
+[![Time - Wednesday, December 30 (Advent 2020)](images/57f372fb-bda9dfe6f5b03636900d737edb157419.jpg)](/news-notes/time-wednesday-december-30-advent-2020)
 
 Guest User
 12/30/20

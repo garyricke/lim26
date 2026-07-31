@@ -5,7 +5,7 @@ date: 2022-12-26
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/reflections/bev
 section: reflections
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/633b00c854871d4b7a5dbec2/1676055723337/thumb-bev-intro.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/8011091a-59cd-4b7b-869d-0aaa52c68e2b/bev-5-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/9213ec6a-5b96-4e75-932b-6c84aecaa493/bev-1-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/be4333cd-bb9d-4866-957e-928dfdd94e99/bev-4-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/becd2746-4d74-417e-8dc5-5f92ae794621/bev-2-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/cef12bc0-edb1-4308-9a25-83a584b09fcb/bev-3-thumb.jpg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/178ad290-thumb-bev-intro.jpg", "images/ac423bab-bev-5-thumb.jpg", "images/f477018e-bev-1-thumb.jpg", "images/dbbe254d-bev-4-thumb.jpg", "images/890c24a0-bev-2-thumb.jpg", "images/7a04ee9e-bev-3-thumb.jpg", "images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # Discovering My True Identity in Christ: A Journey of Recovery and Personal Growth
 
@@ -25,7 +25,7 @@ Join our Executive Director, Robert Heffle, in his interview with Bev, who candi
 
 — Proverbs 23:29-35
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/9213ec6a-5b96-4e75-932b-6c84aecaa493/bev-1-thumb.jpg)
+![](images/f477018e-bev-1-thumb.jpg)
 
 Follow Bev’s story on:  
 [TikTok](#link) · [Reels](#link) · [YouTube Shorts](#link)
@@ -56,7 +56,7 @@ Follow Bev’s story on:
 
 — Psalm 139:13-14
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/becd2746-4d74-417e-8dc5-5f92ae794621/bev-2-thumb.jpg)
+![](images/890c24a0-bev-2-thumb.jpg)
 
 If someone was watching this, and maybe they're discouraged by thinking they're not smart, or they don't have value, or they're confused or they're struggling in addiction, what words would you have to say to them?
 
@@ -78,7 +78,7 @@ If someone was watching this, and maybe they're discouraged by thinking they're 
 
 — 1 Peter 5:8
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/cef12bc0-edb1-4308-9a25-83a584b09fcb/bev-3-thumb.jpg)
+![](images/7a04ee9e-bev-3-thumb.jpg)
 
 How has God changed you?
 
@@ -100,7 +100,7 @@ How has God changed you?
 
 — Psalm 145:18
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/be4333cd-bb9d-4866-957e-928dfdd94e99/bev-4-thumb.jpg)
+![](images/dbbe254d-bev-4-thumb.jpg)
 
 What words of encouragement do you have for someone who's maybe hasn't been into church for a while, maybe they're a new Christian? What's the word of wisdom of someone who's walked a journey with Christ for a number of years? What would you like to share?
 
@@ -120,7 +120,7 @@ What words of encouragement do you have for someone who's maybe hasn't been into
 
 — Ecclesiastes 4:9-10
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/8011091a-59cd-4b7b-869d-0aaa52c68e2b/bev-5-thumb.jpg)
+![](images/ac423bab-bev-5-thumb.jpg)
 
 What would you say to a person who knew you during the years that you drank? And now, it sounds like there's a new you. What would you say to them?
 
@@ -142,6 +142,6 @@ You can **help us help Native Americans and Alaska Natives like Bev** — by tra
 
 ~subheadIndex-h2
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

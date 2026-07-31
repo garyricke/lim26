@@ -5,7 +5,7 @@ date: 2020-11-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/ministry-prayer-requests-amp-thanksgiving
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af16e0445c470a205d1f/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773337424-S0P5PM6FETXYEDA85Z3F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773338569-DOB6Z607LTK7BSE9EVV2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773340152-HVWGPEHQ0WW2WYJDR878/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773341658-7UN0IGFZIFTJPHWWWP1R/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773343430-7MGMLOJZZL2450HSFUGT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773344416-2AYFAKSA8Y6S2UHJ9NA9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773345969-ZO3C15Y9H869VZPQPDYY/image-asset.jpeg"]
+images: ["images/d0568ceb-1748628700852", "images/5143b8f1-image-asset.jpeg", "images/2d01d118-image-asset.jpeg", "images/a0163dc3-image-asset.jpeg", "images/3e5ef9d0-image-asset.jpeg", "images/6333726a-image-asset.jpeg", "images/c88e3989-image-asset.jpeg", "images/3c96c915-image-asset.jpeg"]
 ---
 # Ministry Prayer Requests & Thanksgiving
 
@@ -13,7 +13,7 @@ Nov 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773337424-S0P5PM6FETXYEDA85Z3F/image-asset.jpeg)
+![](images/5143b8f1-image-asset.jpeg)
 
 ## Alaska
 
@@ -23,7 +23,7 @@ Please keep Zion Lutheran, Fairbanks, and the Fairbanks Native Bible Church in y
 
 Please, also pray for calm and patient hearts, as Nathan and Sarah, together, work in ministry, take classes for additional training, and parent their five young children. Keep the whole family in good health spiritually, mentally, and physically.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773338569-DOB6Z607LTK7BSE9EVV2/image-asset.jpeg)
+![](images/2d01d118-image-asset.jpeg)
 
 ## Arizona
 
@@ -39,13 +39,13 @@ Joe also asked for prayers for:
 * continued successful relationships with local organizations, like NAFFA and the many residential houses we work alongside.
 * the Gila River Reservation, which recently experienced four Covid deaths, help the community find peace.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773340152-HVWGPEHQ0WW2WYJDR878/image-asset.jpeg)
+![](images/a0163dc3-image-asset.jpeg)
 
 ## Manitoba/Canada
 
 Please pray for the families in the Northeran Canadian communities. They are struggling with the isolation, the distance from loved ones, and the inability to mourn together when tragedy strikes. Pray for guidance and wisdom for Rick and Linda as they continue counseling from a distance, via zoom and the telephone.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773341658-7UN0IGFZIFTJPHWWWP1R/image-asset.jpeg)
+![](images/3e5ef9d0-image-asset.jpeg)
 
 ## Kansas
 
@@ -57,7 +57,7 @@ Deon asked for prayers for:
 * Safety and good health for Haskell students and staff.
 * Thanks for a fun and successful Back-to School Event.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773343430-7MGMLOJZZL2450HSFUGT/image-asset.jpeg)
+![](images/6333726a-image-asset.jpeg)
 
 ## New Mexico
 
@@ -65,7 +65,7 @@ Join us in welcoming Kyonia Chavez as our new ministry leader in Albuquerque, Ne
 
 Please pray for the Navajo people. At the time of this printing, the Navajo Nation is still following daily and full weekend curfews to stop the spread of Covid-19. Pray for health and peace of mind for those affected by both the virus and the isolation.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773344416-2AYFAKSA8Y6S2UHJ9NA9/image-asset.jpeg)
+![](images/c88e3989-image-asset.jpeg)
 
 ## Washington
 
@@ -81,7 +81,7 @@ We ask for strength and guidance for Rick as he steps into a new role to help di
 
 Continue to pray for Cousin's Food Truck as they serve the community and show Christ's love.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773345969-ZO3C15Y9H869VZPQPDYY/image-asset.jpeg)
+![](images/3c96c915-image-asset.jpeg)
 
 ## Wisconsin
 

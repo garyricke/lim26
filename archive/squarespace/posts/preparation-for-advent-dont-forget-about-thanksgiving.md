@@ -5,7 +5,7 @@ date: 2019-11-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/preparation-for-advent-dont-forget-about-thanksgiving
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1a0a0971d66a913bc2c/1748628700852/left-path-red-arrow-814965.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773985313-X6KGHHOSKN51H67ONS7P/image-asset.png"]
+images: ["images/49b7c122-left-path-red-arrow-814965.jpg", "images/7c5ee089-image-asset.png"]
 ---
 # Preparation for Advent - Don't forget about Thanksgiving!
 
@@ -13,7 +13,7 @@ Nov 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773985313-X6KGHHOSKN51H67ONS7P/image-asset.png)
+![](images/7c5ee089-image-asset.png)
 
 Though Advent bears the dawn of a new liturgical season every year, most of us dismiss it as a period of celebrating Christmas before Christmas arrives.  We adorn our homes with Christmas lights, decorated trees, tinsel and holly, festive tunes, and the like.  **All the while, the intent of Advent – a season of waiting, of silent but joyful expectation – falls by the wayside or perhaps into the din of our premature festivities.**
 

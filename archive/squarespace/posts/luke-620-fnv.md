@@ -5,7 +5,7 @@ date: 2017-09-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-620-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf2464d4ff56121b7bbc/1748628700852/-Creator%27s+blessing+rests+on+you+who+are+poor+and+in+need%3B+the+Good+Road+is+yours+to+walk.-Luke+6-20+FNV.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777445768-3LTA6USJ35XXAIPP3143/image-asset.png"]
+images: ["images/4bff99ae--Creator_s_blessing_rests_on_you_who_are_poor_and_in_need__the_Good_Road_is_yours_to_walk.-Luke_6-20_FNV.png", "images/b9b70069-image-asset.png"]
 ---
 # Luke 6:20 FNV
 
@@ -13,7 +13,7 @@ Sep 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777445768-3LTA6USJ35XXAIPP3143/image-asset.png)
+![](images/b9b70069-image-asset.png)
 
 In the Sermon on the Mount the benediction is pronounced upon the "poor in spirit" and those who "hunger and thirst after righteousness" (Mt 5:3, 6). Here it is simply on the "poor" and the "hungry now." In this form of the discourse, then, our Lord seems to have had in view "the poor of this world, rich in faith, and heirs of the kingdom which God hath promised to them that love Him," as these very beatitudes are paraphrased by James (Jas 2:5).
 

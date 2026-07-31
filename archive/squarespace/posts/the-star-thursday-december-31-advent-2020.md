@@ -5,7 +5,7 @@ date: 2020-12-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-star-thursday-december-31-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae6cbcc723580922da8a/1748628700852/Mt2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773166752-SEG3FHRMXMDF3Y7BN0LQ/image-asset.png"]
+images: ["images/54817a0f-Mt2.jpg", "images/705f4f8f-image-asset.png"]
 ---
 # The Star - Thursday, December 31 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773166752-SEG3FHRMXMDF3Y7BN0LQ/image-asset.png)
+![](images/705f4f8f-image-asset.png)
 
 ## The star they had seen in the east went ahead of them until it stopped over the place where the child was… on coming to the house, they saw the child was with his mother Mary, and they bowed down and worshiped him. [Matthew 2:9, 11](https://my.bible.com/bible/111/MAT.2.9,11)
 

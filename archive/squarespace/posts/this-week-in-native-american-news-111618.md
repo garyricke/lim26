@@ -5,7 +5,7 @@ date: 2018-11-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-111618
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7aeab393413117ef995/1748628700852/download.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775535499-RGHMAPRHQ682ZYKEQL5F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775536802-M8KJQCP9V41K3JEIFPPF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775537775-9V0MQJYHCLOIX2F6E751/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775538534-HY6MMT4ITNFMX28GE0SM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775539470-V43GMWNCR4PU9PDPYEZT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775540277-M077DCP69Z9R01S5LJ27/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775540990-XLC6ONES0YVBVCMARLQ0/image-asset.png"]
+images: ["images/e0b43151-download.jpg", "images/fe248bd5-image-asset.jpeg", "images/5f16b29e-image-asset.jpeg", "images/7a109fdb-image-asset.jpeg", "images/9ff94bf0-image-asset.jpeg", "images/c759aa59-image-asset.jpeg", "images/b009027e-image-asset.jpeg", "images/c238ee2c-image-asset.png"]
 ---
 # This Week in Native American News (11/16/18): Finding a place, Healing a Wound, and Feeding a Community (plus watch Crow: the Legend)
 
@@ -13,7 +13,7 @@ Nov 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775535499-RGHMAPRHQ682ZYKEQL5F/image-asset.jpeg)
+![](images/fe248bd5-image-asset.jpeg)
 
 # November 16, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Once oppressed people finding their place in modern US
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775536802-M8KJQCP9V41K3JEIFPPF/image-asset.jpeg)
+![](images/5f16b29e-image-asset.jpeg)
 
 The Ho-Chunk tribe’s ritual gathering is a deeply spiritual event in the heart of ‘America’s Dairyland’ – and definitely not for the benefit of tourists
 
@@ -33,7 +33,7 @@ It looks as though most of them are gathered at the Memorial Pow Wow Grounds, an
 
 ## In Similar News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775537775-9V0MQJYHCLOIX2F6E751/image-asset.jpeg)
+![](images/7a109fdb-image-asset.jpeg)
 
 ### [Telling stories through dance, Army veteran shares Native American culture](https://www.army.mil/article/213692/telling_stories_through_dance_army_veteran_shares_native_american_culture)
 
@@ -45,7 +45,7 @@ He has five minutes to convey a story, using small hoops as his medium to paint 
 
 ## Healing totem in Juneau channels a higher voice to strengthen survivors
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775538534-HY6MMT4ITNFMX28GE0SM/image-asset.jpeg)
+![](images/9ff94bf0-image-asset.jpeg)
 
 *In this photo taken Oct. 31, 2018, Wayne Price, master Tlingit carver and associate professor of Northwest Coast arts and sciences, works on a healing pole at the University of Alaska Southeast in Juneau. (Michael Penn/Juneau Empire via AP)*
 
@@ -63,7 +63,7 @@ Since his vision 15 years ago, Price has made four healing totems and five heali
 
 ## Ancient Meals Made New
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775539470-V43GMWNCR4PU9PDPYEZT/image-asset.jpeg)
+![](images/c759aa59-image-asset.jpeg)
 
 "One meal of traditinal foods a week can make this community healthier," says Valerie Segrest. (DYLAN PRIEST)
 
@@ -77,7 +77,7 @@ In the Muckleshoot creation stories, we are taught that when we stop eating trad
 
 ## For Native Heritage Month, Let’s Learn More
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775540277-M077DCP69Z9R01S5LJ27/image-asset.jpeg)
+![](images/b009027e-image-asset.jpeg)
 
 A panel from Jim Terry's "Edgebright" series.
 
@@ -105,7 +105,7 @@ P.S. Read one or read them all, but be aware of indiscrepencies, history is full
 
 # [Then check out these great streaming opportunities in honor of Native Heritage Month.](https://interactive.wttw.com/playlist/2018/11/14/what-stream-month)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775540990-XLC6ONES0YVBVCMARLQ0/image-asset.png)](https://www.lutheranindianministries.org/news/gathering-to-give-thanks)
+[![](images/c238ee2c-image-asset.png)](https://www.lutheranindianministries.org/news/gathering-to-give-thanks)
 
 ---
 

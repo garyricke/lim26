@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/giving+tuesday
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777230654-JQGI7LIAA5OARVV7OWD0/MISSION+POSSIBLE.jpg"]
+images: ["images/6bd7e098-MISSION_POSSIBLE.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![On a Mission from God](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777230654-JQGI7LIAA5OARVV7OWD0/MISSION+POSSIBLE.jpg)](/news-notes/on-a-mission-from-god)
+[![On a Mission from God](images/6bd7e098-MISSION_POSSIBLE.jpg)](/news-notes/on-a-mission-from-god)
 
 Guest User
 11/28/17

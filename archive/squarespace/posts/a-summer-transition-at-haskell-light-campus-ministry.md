@@ -5,7 +5,7 @@ date: 2017-05-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-summer-transition-at-haskell-light-campus-ministry
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c078fd8ac76e12bcd4e6/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777785782-06JY5ALKDCU06UUH4PYB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777787181-2KZ25FABCNVYNM5OSAM1/image-asset.jpeg"]
+images: ["images/6c58debd-1748628700852", "images/e7a92194-image-asset.jpeg", "images/fa6dc4c9-image-asset.jpeg"]
 ---
 # A Summer Transition at Haskell LIGHT Campus Ministry
 
@@ -21,7 +21,7 @@ Though some students stay in the Lawrence, Kansas, area for summer classes and w
 
 As Will and Patricia Main, co-directors of the LIGHT House for the past ten years, move on to a new phase in their lives, Deacon Bob Prue (Rosebud Sioux), with the help of his wife, Deon, will continue to uphold Lutheran Indian Ministries' mission to proclaim the Gospel of Jesus Christ with Native American peoples, disciple Native leaders to share the Gospel with their brothers and sisters, and provide resources to assist in the healing of social sufferings while valuing Native cultures.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777785782-06JY5ALKDCU06UUH4PYB/image-asset.jpeg)
+![](images/e7a92194-image-asset.jpeg)
 
 Bob and Deon returned home to Lawrence in the summer of 2016. For the past year, they have been working closely with Pastor Leiste and Redeemer Lutheran Church in Lawrence, leading Bible studies for college students and building strong relationships within the community. These activities will be a cornerstone for the future work of the Haskell LIGHT Campus Ministry.
 
@@ -45,7 +45,7 @@ The Native community is prominent in the Lawrence area, and Bob and Deon see a p
 
 Deon added, "It's important to teach the service aspect of Christianity. Jesus came to serve, not to be served, but many of these students come from environments where they were never shown how or given the opportunity to serve others in a meaningful way. In time, we will expand this concept into mission trips to reservations. That way, when they go back home, they are equipped to improve their own communities and teach others. It's one way we will make disciples."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777787181-2KZ25FABCNVYNM5OSAM1/image-asset.jpeg)
+![](images/fa6dc4c9-image-asset.jpeg)
 
 Through all these activities, Bob and Deon are working on creating an inviting environment at the LIGHT House. "We want people to know they are welcome here, and we want them to get involved!" Bob announced. "This is new for us, and we are going where the Lord leads us. We're open to all the help we can get!"
 

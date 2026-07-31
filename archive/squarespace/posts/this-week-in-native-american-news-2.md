@@ -5,7 +5,7 @@ date: 2016-04-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf03f5be4a50a85aa37d/1748628700852/nan+160401.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781509854-0TFI79NFLO8EF7BE482V/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781512799-QR6JWLDSZCJDJE5431OS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781518060-7PBW2H1I71DQ6KUAWYH6/image-asset.jpeg"]
+images: ["images/21f9adf9-nan_160401.jpg", "images/493c31ac-image-asset.jpeg", "images/274fe81d-image-asset.jpeg", "images/ff9d6ab3-image-asset.jpeg"]
 ---
 # This Week in Native American News
 
@@ -15,13 +15,13 @@ Apr 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781509854-0TFI79NFLO8EF7BE482V/image-asset.jpeg)
+![](images/493c31ac-image-asset.jpeg)
 
 ---
 
 ### Australian Aboriginal Boxing Star Speaking in US
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781512799-QR6JWLDSZCJDJE5431OS/image-asset.jpeg)
+![](images/274fe81d-image-asset.jpeg)
 
 [**PHOTO:** Joe Williams will fly to the USA tomorrow to share his experience with mental health with Native Americans.(ABC: Brigid Andersen)](http://www.abc.net.au/news/2016-03-29/joe-williams-heading-to-us-to-speak-to-native-americans/7280604)
 
@@ -35,7 +35,7 @@ Over the next two weeks, Williams will visit Cincinnati, New York, Kansas, Misso
 
 ### Federal Grant to Begin Improvements in Education and Revitalize Native Languages
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781518060-7PBW2H1I71DQ6KUAWYH6/image-asset.jpeg)
+![](images/ff9d6ab3-image-asset.jpeg)
 
 Salish Road Signs (Photo from the [Paris Review](http://www.theparisreview.org/blog/2016/03/30/language-leakage-an-interview-with-sarah-thomason/))
 

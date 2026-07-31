@@ -5,7 +5,7 @@ date: 2018-12-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/encouraging-faith-respecting-culture
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b76fa8416125af4f975d/1748628700852/oh+children+of+the+forest+free+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775472469-BPXFR1RU59HEH7UXR689/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/2771cf70-oh_children_of_the_forest_free__1_.png", "images/2041e3ac-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Encouraging Faith & Respecting Culture
 
@@ -13,7 +13,7 @@ Dec 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775472469-BPXFR1RU59HEH7UXR689/image-asset.png)
+![](images/2041e3ac-image-asset.png)
 
 In a Huron village, on the shores of Lake Ontario, a young girl hears her mother sing:
 
@@ -80,7 +80,7 @@ Jesus, your King is born,
 
 **Your gift today affirms that Jesus was born for all, including our Native American brothers and sisters.  Thank you!**
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

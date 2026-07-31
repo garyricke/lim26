@@ -5,7 +5,7 @@ date: 2018-03-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-just-shall-walk-by-faith-lent-thursday-march-8
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc18fc45ad1a48d72961/1748628700852/SOF_Hebrews-11-1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776665855-G7F3OTC0VV5RG2IOQJK7/image-asset.png"]
+images: ["images/38eca85b-SOF_Hebrews-11-1.jpg", "images/8f08903e-image-asset.png"]
 ---
 # The Just Shall Walk By Faith (Lent) - Thursday, March 8
 
@@ -15,7 +15,7 @@ Mar 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776665855-G7F3OTC0VV5RG2IOQJK7/image-asset.png)
+![](images/8f08903e-image-asset.png)
 
 ### "Now faith is the assurance of things hoped for,  the conviction of things not seen " [Hebrews 11:1 (ESV)](https://www.bible.com/bible/59/HEB.11.1)
 

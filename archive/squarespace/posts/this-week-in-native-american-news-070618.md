@@ -5,7 +5,7 @@ date: 2018-07-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-070618
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b87c3a0e05602626c05b/1748628700852/5b380e5c4b81e.image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775741437-A7W0FYDFXZ464JG3PW7B/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775742256-R5RVS7VQANZVQ3G4PWK3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775743166-P1R34KRGOH3HYOJMM64G/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775744077-5QPN5ZP5XX7157GRKGSZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775745788-NBQ0L8C0NSEFHR7RQEUU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775747113-P0LKXYUS28L5AQ4F1100/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775748102-EXU4KZSBEVFHC8ESPDTG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775748990-M8O789EAIH30XGG1YWJY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775749893-EZ1KCLZLD1HSAT8L0CXW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775750579-UOCGC4IPZ5LQVZRD0PHP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775751618-FVG8GAUVR075LG0BMRNX/image-asset.jpeg"]
+images: ["images/72a520b1-5b380e5c4b81e.image.jpg", "images/06692abb-image-asset.jpeg", "images/dac0b704-image-asset.jpeg", "images/c85d3d33-image-asset.jpeg", "images/f1be2083-image-asset.jpeg", "images/870fbd30-image-asset.jpeg", "images/5ee5f001-image-asset.jpeg", "images/0e52fd0f-image-asset.jpeg", "images/e8451195-image-asset.jpeg", "images/1679615e-image-asset.jpeg", "images/30667139-image-asset.jpeg", "images/8e908d4a-image-asset.jpeg"]
 ---
 # This Week in Native American News (7/6/18): mental health, indigenous diets, and extinct dogs
 
@@ -13,7 +13,7 @@ Jul 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775741437-A7W0FYDFXZ464JG3PW7B/image-asset.jpeg)
+![](images/06692abb-image-asset.jpeg)
 
 # July 6, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## For Alaska Native youth, a healing journey takes them to My Grandma's House
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775742256-R5RVS7VQANZVQ3G4PWK3/image-asset.jpeg)
+![](images/dac0b704-image-asset.jpeg)
 
 After two-hour delay due to wind and rain, My Grandma's House boat approaches Tanana. Photo credit: Cynthia Erickson/Seed Media
 
@@ -43,7 +43,7 @@ Erickson pondered what next to do. She had dreamed of a map of Alaska with safe 
 
 ## Native Americans seek to rename Yellowstone peak currently honoring massacre perpetrator
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775743166-P1R34KRGOH3HYOJMM64G/image-asset.jpeg)
+![](images/c85d3d33-image-asset.jpeg)
 
 Hayden Valley was named for a geologist and surveyor who supported the extermination of tribal people who rejected federal dictates. Photograph: Ed Austin/Herb Jones
 
@@ -59,7 +59,7 @@ The proposal echoes moves to take down monuments commemorating Confederate leade
 
 ## Also in Outdoor News...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775744077-5QPN5ZP5XX7157GRKGSZ/image-asset.jpeg)
+![](images/f1be2083-image-asset.jpeg)
 
 ### [Sacred Native American Sites Are Not Your Playgrounds](https://www.outsideonline.com/2322921/new-rules-respectful-recreation?utm_campaign=tweet&utm_content=buffer8e485&utm_medium=social&utm_source=twitter)
 
@@ -69,7 +69,7 @@ Some of the places most sought after by recreationists are also culturally, spir
 
 ## the Native American Vietnam Veteran Who Confronted Loss Through Art
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775745788-NBQ0L8C0NSEFHR7RQEUU/image-asset.jpeg)
+![](images/870fbd30-image-asset.jpeg)
 
 In 2013, artist [Rick Bartow](https://en.wikipedia.org/wiki/Rick_Bartow) suffered a major stroke. Within days of nearly losing his memory and motor skills, he was back in the studio, drawing and painting his way back to health. Until his death, just three years later, Bartow continued to produce artworks drawn from his personal history, Native American ancestry, and friendships with artists and indigenous peoples from around the world. [*Rick Bartow: Things You Know But Cannot Explain*](https://theautry.org/exhibitions/rick-bartow-things-you-know-cannot-explain)at the Autry Museum surveys the four-decade career of an artist who confronted personal loss and history through the restorative and transformative powers of art making.
 
@@ -77,7 +77,7 @@ In 2013, artist [Rick Bartow](https://en.wikipedia.org/wiki/Rick_Bartow) suffer
 
 ## Also in Art News...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775747113-P0LKXYUS28L5AQ4F1100/image-asset.jpeg)
+![](images/5ee5f001-image-asset.jpeg)
 
 ### [Native kids' art heads home to Arizona from Louisiana attic](https://www.sfchronicle.com/news/article/Indian-kids-art-heads-home-to-Arizona-from-13045101.php)
 
@@ -87,7 +87,7 @@ When antique dealer Ray Stevenson first saw the Chinle Boarding School student a
 
 ## Remembering Anthony Bourdain, Who Helped Share the Stories of Hawai‘i
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775748102-EXU4KZSBEVFHC8ESPDTG/image-asset.jpeg)
+![](images/0e52fd0f-image-asset.jpeg)
 
 For nearly two decades, Anthony Bourdain, the chef-turned-writer-turned-travel TV host, reminded his audience that many of the world’s greatest meals—and cooking pros—weren’t found solely at Michelin-starred and James Beard award-winning restaurants. They were also found at the hole-in-the-wall eateries, in diners and prepared by family. He was a champion of street vendors and dishwashers, forever advocating for refugees and immigrants and underdogs who carved a life out for themselves in the kitchen.
 
@@ -99,13 +99,13 @@ He talked about Hawai‘i’s colonial past (“There was the overthrow of Queen
 
 ## Also in Food News...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775748990-M8O789EAIH30XGG1YWJY/image-asset.jpeg)
+![](images/e8451195-image-asset.jpeg)
 
 ### [Maui man is on a mission to share traditional Hawaiian cooking techniques of the imu](http://www.mauinews.com/news/local-news/2018/07/the-oven-down-under/)
 
 The underground cooking method that was a staple at family gatherings growing up has become a passion for the 34-year-old Nakahashi, who shares the method not only as a way to popularize Hawaiian traditions but also to promote healthier cooking.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775749893-EZ1KCLZLD1HSAT8L0CXW/image-asset.jpeg)
+![](images/1679615e-image-asset.jpeg)
 
 ### [Film focuses on drive to return to indigenous peoples’ diets](https://www.abqjournal.com/1192743/native-nutrition.html)
 
@@ -117,13 +117,13 @@ The film follows six courageous women from tribes across the continent reconnect
 
 ## Today's History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775750579-UOCGC4IPZ5LQVZRD0PHP/image-asset.jpeg)
+![](images/30667139-image-asset.jpeg)
 
 ### [Uncovering the traumatic past of the Navajo people](http://theweek.com/articles/778969/uncovering-traumatic-past-navajo-people)
 
 Although Kit Carson is a significant part of U.S. history, people outside of the Southwest generally have no idea who he was. He was a frontiersman, famous as a tracker and wilderness guide and for shaping New Mexico. But for the Navajo, he is the devil — and the reason is the Long Walk.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775751618-FVG8GAUVR075LG0BMRNX/image-asset.jpeg)
+![](images/8e908d4a-image-asset.jpeg)
 
 ### [Native Dogs of the Americas Were Wiped Out by European Colonization](https://www.livescience.com/62996-native-american-dogs-europeans.html)
 

@@ -5,7 +5,7 @@ date: 2017-07-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-536-39-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf90e6ff8f069728c9f1/1748628700852/%E2%80%9CNo+one+uses+a+new+piece+of+cloth+to+patch+an+old+garment%3B+it+would+shrink+and+make+the+tear+worse.+No+one+puts+new+wine+into+an+old+wineskin%2C+for+the+new+wine+would+burst+the+skins.+New+and+fresh+wineskins+ar.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777553927-Z9ZROBJRLPB19Y5S538Z/image-asset.png"]
+images: ["images/d4672f44-_No_one_uses_a_new_piece_of_cloth_to_patch_an_old_garment__it_would_shrink_and_make_the_tear_worse._No_one_puts_new_wine", "images/745d9a76-image-asset.png"]
 ---
 # Luke 5:36-39 FNV
 
@@ -13,7 +13,7 @@ Jul 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777553927-Z9ZROBJRLPB19Y5S538Z/image-asset.png)
+![](images/745d9a76-image-asset.png)
 
 Wine increases its strength and flavor, and its mildness and mellowness, by age, and the old is therefore preferable. They who had tasted such mild and mellow wine would not readily drink the comparatively sour and astringent juice of the grape as it came from the press.
 

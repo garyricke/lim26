@@ -5,7 +5,7 @@ date: 2016-11-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/you-aint-never-gonna-get-injunz-to-go-to-church
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4edc383b522978eff4e/1748628700852/Add+heading.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778927013-H96JGF9UCMB5R3YDOTA9/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778928108-P2T3MDY2XKMEBM933K4H/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778930843-1PHND2UAWRQEV0MW21O0/image-asset.jpeg"]
+images: ["images/1dec81b0-Add_heading.png", "images/64847abe-image-asset.png", "images/6a7aa063-image-asset.jpeg", "images/234af022-image-asset.jpeg"]
 ---
 # "You ain't never gonna get Injunz to go to church!"
 
@@ -13,7 +13,7 @@ Nov 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778927013-H96JGF9UCMB5R3YDOTA9/image-asset.png)
+![](images/64847abe-image-asset.png)
 
 Recently, the Brookfield office of Lutheran Indian Ministries got a phone call from someone who had received one of our mailings. It was obvious by the silence on our end that the caller was doing most of the talking. The call ended abruptly with this staggering statement:
 
@@ -45,7 +45,7 @@ Our caller was right. In 500 years of evangelism, only 5% of our Native American
 
 From the Interior of Alaska to Navajo, New Mexico, you are helping to share the love of Jesus and His message of salvation to our spiritually starved Native brothers and sisters.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778928108-P2T3MDY2XKMEBM933K4H/image-asset.jpeg)
+![](images/6a7aa063-image-asset.jpeg)
 
 "You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, He may give it to you." (John 15:16 ESV)
 
@@ -63,7 +63,7 @@ Through your prayers and by the power of the Holy Spirit, Native American lives 
 
 ### •   They are learning God’s Truth and being baptized at Teen Camp in Fairbanks, Alaska.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778930843-1PHND2UAWRQEV0MW21O0/image-asset.jpeg)
+![](images/234af022-image-asset.jpeg)
 
 With your gifts, you are helping to sustain and grow this important outreach to Native people. You are helping make it possible for Native Americans to be in fellowship with one another and with Christ.
 

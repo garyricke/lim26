@@ -5,7 +5,7 @@ date: 2016-12-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/silent-hero-december-14
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4535e47eb614f7898bf/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778773125-96V74AHGCLH43S2RB0VZ/image-asset.png"]
+images: ["images/56e5ebf9-2016_Advent_Devotions.png", "images/a6a873ef-image-asset.png"]
 ---
 # Silent Hero: December 14
 
@@ -15,7 +15,7 @@ Dec 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778773125-96V74AHGCLH43S2RB0VZ/image-asset.png)
+![](images/a6a873ef-image-asset.png)
 
 ## He who is kind to the poor lends to the Lord, and he will reward him for what he has done. Proverbs 19:17 (NIV)
 

@@ -5,7 +5,7 @@ date: 2019-03-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/fishers-of-native-men
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b60a0bda9b53014a6798/1748628700852/Fishers+of+men.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775116389-LNCBKDITLPTWET5Z39A8/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/815a59d0-Fishers_of_men.png", "images/87d41a82-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Fishers of Native Men
 
@@ -13,7 +13,7 @@ Mar 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775116389-LNCBKDITLPTWET5Z39A8/image-asset.png)
+![](images/87d41a82-image-asset.png)
 
 For generations, fishing has been a primary means of supporting and sustaining the Makah Indian Nation, who makes Neah Bay their home. Located at the northwest tip of the Olympic Peninsula in Washington state, overlooking the Strait of Juan de Fuca, the town of approximately 900 people is situated on one of the most remote and breathtaking coastlines in all of Washington. Fishing prowess is a source of great pride to the Makah tribal members which is borne out not only in their cultural stories but also in the incredible artistic representations of their tribal history.
 
@@ -50,7 +50,7 @@ Executive Director
 
 **Your gift today affirms that Jesus was born for all, including our Native American brothers and sisters.  Thank you!**
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

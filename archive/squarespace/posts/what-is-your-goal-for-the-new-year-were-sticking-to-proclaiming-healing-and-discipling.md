@@ -5,7 +5,7 @@ date: 2018-01-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-is-your-goal-for-the-new-year-were-sticking-to-proclaiming-healing-and-discipling
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd011186e246c3b9d633/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776900010-7ZLAZXPWNDMMBLJC53N2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776901546-947IB8XHXSG8W1IJW2DZ/image-asset.jpeg"]
+images: ["images/9a52f388-1748628700852", "images/1d634fd0-image-asset.jpeg", "images/21d61867-image-asset.jpeg"]
 ---
 # What is your goal for the new year? We're sticking to proclaiming, healing, and discipling!
 
@@ -19,7 +19,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 Many people make plans and programs, but ours remains the same in 2018 as it has been from the time we arrived in Navajo: make disciples by baptizing and teaching.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776900010-7ZLAZXPWNDMMBLJC53N2/image-asset.jpeg)
+![](images/1d634fd0-image-asset.jpeg)
 
 Last fall, we had six youth participate in a confirmation retreat in Moab, UT. It was great to be in the Word and in a beautiful corner of God’s creation.
 
@@ -63,7 +63,7 @@ On the administrative side of ministry, we were also blessed this month with the
 
 God's blessings to you in this coming year!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776901546-947IB8XHXSG8W1IJW2DZ/image-asset.jpeg)
+![](images/21d61867-image-asset.jpeg)
 
 ### Please Thank God with us for:
 

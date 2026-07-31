@@ -5,7 +5,7 @@ date: 2020-12-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/fingerprints-friday-december-25-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae826429bc184eae0067/1748628700852/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773188086-FRYICQN19CTD1B8UB06V/image-asset.png"]
+images: ["images/ac0275a3-1280x1280.jpg", "images/da1a1e58-image-asset.png"]
 ---
 # Fingerprints - Friday, December 25 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773188086-FRYICQN19CTD1B8UB06V/image-asset.png)
+![](images/da1a1e58-image-asset.png)
 
 ## And she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn. [Luke 2:7](https://www.bible.com/bible/111/luk.2.7)
 

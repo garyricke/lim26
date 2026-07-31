@@ -5,7 +5,7 @@ date: 2016-11-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/carrying-the-light-a-week-in-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4c5c383b522978ef5ae/1748628700852/Hands-candle.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778887023-GHV515HN4KK2D1P8ZIRT/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778887973-1KPK9XEL8Z0W82CZ1DBB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778888951-UJ8S0LZNRE77P3LYB5X0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778889951-Z6THIKWXQURZWK62SATA/image-asset.jpeg"]
+images: ["images/6ff56b1b-Hands-candle.jpg", "images/b4e9393a-image-asset.png", "images/7fa716ba-image-asset.jpeg", "images/66b97e24-image-asset.jpeg", "images/8f93e181-image-asset.jpeg"]
 ---
 # Carrying the Light: A Week with the Navajo
 
@@ -15,7 +15,7 @@ Nov 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778887023-GHV515HN4KK2D1P8ZIRT/image-asset.png)
+![](images/b4e9393a-image-asset.png)
 
 High in the Colorado Plateau in New Mexico sits a small chapter of the Navajo Nation, one small dot in the more than 27,000 square miles that contain the land of the Navajo people.
 
@@ -25,7 +25,7 @@ During the day, the landscape is both daunting and awe-inspiring. The sparseness
 
 But at night, quiet darkness covers the houses. You can feel the presence of the mesas towering over you in the distance and, without the distraction of city lights, the stars overwhelm the sky. Lights flicker out of house windows and the one grocery story, but the streets are quiet.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778887973-1KPK9XEL8Z0W82CZ1DBB/image-asset.jpeg)
+![](images/7fa716ba-image-asset.jpeg)
 
 On this particular night, the lights are on at the church, housed in a hogan-style building, down a treacherous dirt road. If you were to venture near the church, it’s likely that the warm glow eminating from the windows, the smell of frybread, and the sound of drums and singing would draw you in closer.
 
@@ -51,7 +51,7 @@ In the past, Shepherd of the Valley Lutheran Church in Navajo, New Mexico hosted
 
 “We want to help Native men, women, and children to put on the full armor of Christ (Ephesians 6:11-17), but before they can do that they must first take off the cloak they are wearing – the cloak of pain and distrust – the cloak they put on when they were abused as children and has since covered their lives with darkness,” explained Tim Young Eagle, LIM Director. “By first sharing their culture, they begin to let down those barriers. They begin to trust again, and that’s when the Holy Spirit can begin to work in their hearts."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778888951-UJ8S0LZNRE77P3LYB5X0/image-asset.jpeg)
+![](images/66b97e24-image-asset.jpeg)
 
 Tim continued, "It was amazing to see all of the kids. They are learning their native language and can sing their songs, and when they do, their faces shine! They have such a pride in who they are, and that’s an amazing foundation to build upon.”
 
@@ -69,7 +69,7 @@ For the first time in his life, he rose and shared with a group that he had been
 
 After years of abuse, this man turned to alcohol to cope with his anger and confusion. And eventually, he became an abuser, like so many victims do.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778889951-Z6THIKWXQURZWK62SATA/image-asset.jpeg)
+![](images/8f93e181-image-asset.jpeg)
 
 It was at this point in his story that he turned to his family, who had accompanied him to the gathering and were visibly shaken by the story and confession they had just heard, and he asked for their forgiveness. Three-generations hugged and cried together, consoled each other and discussed how to move forward. When they left that night, they looked different - they were filled with a new hope.
 

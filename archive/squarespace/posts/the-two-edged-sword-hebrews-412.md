@@ -5,7 +5,7 @@ date: 2016-02-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-two-edged-sword-hebrews-412
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349d0026712425a930ee7e5/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781764180-8O2P4ZTR4TKFVL9FXVJ8/image-asset.jpeg"]
+images: ["images/b177bc65-1748628700852", "images/c6e40c00-image-asset.jpeg"]
 ---
 # The Two-Edged Sword - Hebrews 4:12
 
@@ -13,7 +13,7 @@ Feb 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781764180-8O2P4ZTR4TKFVL9FXVJ8/image-asset.jpeg)
+![](images/c6e40c00-image-asset.jpeg)
 
 **Sunday February 14**
 

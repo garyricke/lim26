@@ -5,7 +5,7 @@ date: 2018-04-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-647-49-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bb8945c85a1da507f36f/1748628700852/The+ones+who+listen+to+me+and+walk+in+these+ways+are+like+a+man+who+built+a+lodge.+He+dug+deep+to+find+solid+ground+to+build+on.+When+a+flood+came%2C+the+waters+beat+against+the+lodge%2C+but+it+stood+strong.+.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776523131-07AHR1LSIQDMICEW5BX9/image-asset.png"]
+images: ["images/0f1433ef-The_ones_who_listen_to_me_and_walk_in_these_ways_are_like_a_man_who_built_a_lodge._He_dug_deep_to_find_solid_ground_to_b", "images/0871a9cc-image-asset.png"]
 ---
 # Luke 6:47-49 FNV
 
@@ -13,7 +13,7 @@ Apr 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776523131-07AHR1LSIQDMICEW5BX9/image-asset.png)
+![](images/0871a9cc-image-asset.png)
 
 The Word of God assures us that there is rock. The universe is not a theatre of dissolving views, itself a dissolving view. There is an Eternal Being. There is an Eternal World. "A city that hath foundations" — a realm of infinite endless perfection and blessedness. There is an Eternal Righteousness. There is an Eternal Life. He only digs deep who gets down to these central realities.
 

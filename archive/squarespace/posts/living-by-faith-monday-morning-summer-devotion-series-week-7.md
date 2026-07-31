@@ -5,7 +5,7 @@ date: 2020-09-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-7
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afa41d69433ba0fbe6a1/1748628700852/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773477366-XB8O26O3ZE5C59UZUBWU/image-asset.png"]
+images: ["images/6e8e6b15-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/87924a4d-image-asset.png"]
 ---
 # Living By Faith: Shaken - Monday Morning Summer Devotion Series - Week 7
 
@@ -13,7 +13,7 @@ Sep 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773477366-XB8O26O3ZE5C59UZUBWU/image-asset.png)
+![](images/87924a4d-image-asset.png)
 
 Need to start at week 1? [Start here](https://lutheranindianministries.org/news/living-by-faith-monday-morning-summer-devotion-series-week-1)
 

@@ -5,7 +5,7 @@ date: 2019-01-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/living-in-faith-advent-devotion-tuesday-january-1-happy-new-year
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6d21186e246c3b89ff5/1748628700852/ScriptureType-Hebrews11-1-tablet.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775318345-W59N3RITRKVD3PMCIB0G/image-asset.png"]
+images: ["images/981d483d-ScriptureType-Hebrews11-1-tablet.jpg", "images/3661f612-image-asset.png"]
 ---
 # Living in Faith (Advent Devotion) - Tuesday, January 1 - Happy New Year!
 
@@ -13,7 +13,7 @@ Jan 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775318345-W59N3RITRKVD3PMCIB0G/image-asset.png)
+![](images/3661f612-image-asset.png)
 
 ## Now faith is being sure of what we hope for and certain of what we do not see. (Hebrews 11:1 NIV)
 

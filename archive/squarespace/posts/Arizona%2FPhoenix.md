@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Arizona%2FPhoenix
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773496517-4GXDJJ4IO1TT5HSKL7GZ/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773786882-U161N1TE2RQKRPYBBCW3/ba53777c72cee220246c7931a82932a4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773795919-BDG0Z1XS0OG00DK95XJ3/c2e8e281202edad537e16862c4ec47b1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774006869-K9WBLIPI4Y9D7AHKBEXP/70241399_2402810926652280_9194379890915278848_o.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774111275-BTQMA5P8FD4ZLHCEEO7Q/mocs.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774562426-B9GI2D9BNX0LYXMW8JOJ/49858071_310202519619741_5956545956191701006_n.jpg"]
+images: ["images/94a87354-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/11b3d39b-ba53777c72cee220246c7931a82932a4.jpg", "images/e5d13ff1-c2e8e281202edad537e16862c4ec47b1.jpg", "images/e00517ae-70241399_2402810926652280_9194379890915278848_o.jpg", "images/f3a2445e-mocs.jpg", "images/f2a2c93e-49858071_310202519619741_5956545956191701006_n.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -71,7 +71,7 @@ Guest User
 
 [Read More](/news-notes/sometimes-you-seek-out-ministry-other-times-it-finds-you)
 
-[![Living By Faith - Monday Morning Summer Devotion Series - Week 4](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773496517-4GXDJJ4IO1TT5HSKL7GZ/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-4)
+[![Living By Faith - Monday Morning Summer Devotion Series - Week 4](images/94a87354-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-4)
 
 [Arizona/Phoenix](/news-notes/category/Arizona%2FPhoenix)
 Guest User
@@ -111,7 +111,7 @@ We heard the warnings and followed the rules: Stay home, social distance, self-q
 
 [Read More](/news-notes/a-new-trauma)
 
-[![Lean of God, Not Men - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773786882-U161N1TE2RQKRPYBBCW3/ba53777c72cee220246c7931a82932a4.jpg)](/news-notes/lean-of-god-not-men)
+[![Lean of God, Not Men - Lent 2020](images/11b3d39b-ba53777c72cee220246c7931a82932a4.jpg)](/news-notes/lean-of-god-not-men)
 
 [Arizona/Phoenix](/news-notes/category/Arizona%2FPhoenix)
 Guest User
@@ -127,7 +127,7 @@ When it comes to knowing who God is, we must understand His words in order to ga
 
 [Read More](/news-notes/lean-of-god-not-men)
 
-[![Finding Spiritual Wisdom - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773795919-BDG0Z1XS0OG00DK95XJ3/c2e8e281202edad537e16862c4ec47b1.jpg)](/news-notes/finding-spiritual-wisdom)
+[![Finding Spiritual Wisdom - Lent 2020](images/e5d13ff1-c2e8e281202edad537e16862c4ec47b1.jpg)](/news-notes/finding-spiritual-wisdom)
 
 [Arizona/Phoenix](/news-notes/category/Arizona%2FPhoenix)
 Guest User
@@ -143,7 +143,7 @@ I encourage you, my brothers and sisters, to find the answer in Christ Jesus. Me
 
 [Read More](/news-notes/finding-spiritual-wisdom)
 
-[!["I'm going to Heaven!"](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774006869-K9WBLIPI4Y9D7AHKBEXP/70241399_2402810926652280_9194379890915278848_o.jpg)](/news-notes/im-going-to-heaven)
+[!["I'm going to Heaven!"](images/e00517ae-70241399_2402810926652280_9194379890915278848_o.jpg)](/news-notes/im-going-to-heaven)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks), 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage), 
@@ -163,7 +163,7 @@ I’ll never forget the words of one of our Native American sisters as she explo
 
 [Read More](/news-notes/im-going-to-heaven)
 
-[![Blessed are the feet of those who bring the good news!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774111275-BTQMA5P8FD4ZLHCEEO7Q/mocs.jpg)](/news-notes/blessed-are-the-feet-of-those-who-bring-the-good-news)
+[![Blessed are the feet of those who bring the good news!](images/f3a2445e-mocs.jpg)](/news-notes/blessed-are-the-feet-of-those-who-bring-the-good-news)
 
 [Arizona/Phoenix](/news-notes/category/Arizona%2FPhoenix)
 Guest User
@@ -209,7 +209,7 @@ Guest User
 
 [Read More](/news-notes/ask-the-right-questions-then-stop-talking)
 
-[![Are We Listening? (Lent Devotion) - Friday, April 12 ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774562426-B9GI2D9BNX0LYXMW8JOJ/49858071_310202519619741_5956545956191701006_n.jpg)](/news-notes/are-we-listening-lent-devotion-friday-april-12)
+[![Are We Listening? (Lent Devotion) - Friday, April 12 ](images/f2a2c93e-49858071_310202519619741_5956545956191701006_n.jpg)](/news-notes/are-we-listening-lent-devotion-friday-april-12)
 
 [Arizona/Phoenix](/news-notes/category/Arizona%2FPhoenix)
 Guest User

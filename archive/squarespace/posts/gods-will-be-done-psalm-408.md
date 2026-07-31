@@ -5,7 +5,7 @@ date: 2016-03-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/gods-will-be-done-psalm-408
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf34ab4b492155577f2c/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781558115-TRFZ3ZCT0C7WD13ELCG0/image-asset.jpeg"]
+images: ["images/b5bc8574-1748628700852", "images/d1bce866-image-asset.jpeg"]
 ---
 # God's Will Be Done - Psalm 40:8
 
@@ -15,7 +15,7 @@ Mar 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781558115-TRFZ3ZCT0C7WD13ELCG0/image-asset.jpeg)
+![](images/d1bce866-image-asset.jpeg)
 
 **Maundy** **Thursday** **March 24**
 

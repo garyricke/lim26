@@ -5,7 +5,7 @@ date: 2019-08-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/gentleness-fruit-of-the-spirit-study-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b272a9daa70a35496cbe/1748628700852/IMG_2760.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774196532-3KJR1AURA0FKTIYN005E/image-asset.png"]
+images: ["images/d70823db-IMG_2760.jpg", "images/e0d52f61-image-asset.png"]
 ---
 # Gentleness - Fruit of the Spirit Study (Monday Morning Devotions)
 
@@ -15,7 +15,7 @@ Aug 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774196532-3KJR1AURA0FKTIYN005E/image-asset.png)
+![](images/e0d52f61-image-asset.png)
 
 ## gentleness πραΰτης (2-11)
 

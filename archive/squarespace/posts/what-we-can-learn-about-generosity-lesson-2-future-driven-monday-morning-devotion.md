@@ -5,7 +5,7 @@ date: 2016-10-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-we-can-learn-about-generosity-lesson-2-future-driven-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c519b65dbd3949cc97aa/1748628700852/Holy+is+his+name.+His+mercy+extends+to+those+who+fear+him%2C+from+generation+to+generation.+%28Luke+1-46-50%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778970601-CC1PXPQVFIEIAVIE13HM/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778972403-K9ZMZ4151M5MMC8UQTAJ/image-asset.png"]
+images: ["images/231484de-Holy_is_his_name._His_mercy_extends_to_those_who_fear_him__from_generation_to_generation.__Luke_1-46-50_.png", "images/365f667c-image-asset.png", "images/3c0f814a-image-asset.png"]
 ---
 # What We Can Learn About Generosity, Lesson 2: Future Driven - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Oct 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778970601-CC1PXPQVFIEIAVIE13HM/image-asset.png)
+![](images/365f667c-image-asset.png)
 
 This is Week 3 of our Generosity Series. [Need to start at the beginning? Read the Introduction here.](https://www.lutheranindianministries.org/news/we-give-because-he-gave-monday-morning-devotion)
 
@@ -47,7 +47,7 @@ Jesus tells us to "store up for yourselves treasures in heaven... For where your
 
 ### [Read Lesson 3: Gifts aren't always tangible](https://www.lutheranindianministries.org/news/what-we-can-learn-about-generosity-lesson-3-gifts-arent-always-tangible)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778972403-K9ZMZ4151M5MMC8UQTAJ/image-asset.png)
+![](images/3c0f814a-image-asset.png)
 
 [devotion](/news-notes/tag/devotion)[generosity](/news-notes/tag/generosity)
 

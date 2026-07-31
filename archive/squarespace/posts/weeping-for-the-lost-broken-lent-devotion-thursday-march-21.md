@@ -5,7 +5,7 @@ date: 2019-03-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/weeping-for-the-lost-broken-lent-devotion-thursday-march-21
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b5f975bd3d30f0f3d974/1748628700852/7ad2ae5f06b50367afee517a2b8a66c8.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775098910-EVBK9S74MOS211E4NGPI/image-asset.jpeg"]
+images: ["images/61939f9f-7ad2ae5f06b50367afee517a2b8a66c8.jpg", "images/21dd023d-image-asset.jpeg"]
 ---
 # Weeping for the Lost & Broken (Lent Devotion) - Thursday, March 21
 
@@ -15,7 +15,7 @@ Mar 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775098910-EVBK9S74MOS211E4NGPI/image-asset.jpeg)
+![](images/21dd023d-image-asset.jpeg)
 
 # Weeping for the Lost & Broken
 

@@ -5,7 +5,7 @@ date: 2019-11-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/welcome-to-advent
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b19ccb88a56680aedb0f/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773982001-VTSX2PNXIWUXO8B7Y9IZ/image-asset.png"]
+images: ["images/2a6bee9f-1748628700852", "images/9869911c-image-asset.png"]
 ---
 # Welcome to Advent!
 
@@ -13,7 +13,7 @@ Nov 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773982001-VTSX2PNXIWUXO8B7Y9IZ/image-asset.png)
+![](images/9869911c-image-asset.png)
 
 ### Welcome, my Dear Friend in Christ, to this year's Advent devotions!
 

@@ -5,7 +5,7 @@ date: 2020-04-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/do-not-grieve
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b03cff37c72839417c79/1748628700852/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773630755-IFKIXUUUYVLNHX6SKPAA/image-asset.png"]
+images: ["images/1a4e7ea3-1280x1280.jpg", "images/955298a7-image-asset.png"]
 ---
 # Do not Grieve - Lent 2020
 
@@ -15,7 +15,7 @@ Apr 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773630755-IFKIXUUUYVLNHX6SKPAA/image-asset.png)
+![](images/955298a7-image-asset.png)
 
 ### Do not grieve for the joy of the LORD is your strength. [Nehemiah 8:10b](https://www.bible.com/bible/111/neh.8.10)
 

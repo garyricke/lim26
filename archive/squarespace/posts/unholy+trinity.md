@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/unholy+trinity
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775213581-ZRBEQ01I4ANUHHR7S8G9/unholy+trinity+banner+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775219492-2UEYPEBYYTX6A9W7TYQU/unholy+trinity+banner+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775232249-TOSJ52XM1860K11L5GBW/unholy+trinity+banner+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775235230-O731J68FQ1SRFF3N7QPY/unholy+trinity+banner+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775244259-MT0ZP7JVXGYATD5DANP9/unholy+trinity+banner+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775265205-KRERH5S526PNHYKHYVJR/unholy+trinity+banner+%281%29.png"]
+images: ["images/711bb4e1-unholy_trinity_banner__1_.png", "images/5f025b18-unholy_trinity_banner__1_.png", "images/ea1d5881-unholy_trinity_banner__1_.png", "images/ce4898e1-unholy_trinity_banner__1_.png", "images/cb14c16b-unholy_trinity_banner__1_.png", "images/6ef68095-unholy_trinity_banner__1_.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Me, Myself, &amp; I: Week 7 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775213581-ZRBEQ01I4ANUHHR7S8G9/unholy+trinity+banner+%281%29.png)](/news-notes/me-myself-i-week-7-monday-morning-devotions)
+[![Me, Myself, &amp; I: Week 7 - Monday Morning Devotions](images/711bb4e1-unholy_trinity_banner__1_.png)](/news-notes/me-myself-i-week-7-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -75,7 +75,7 @@ Guest User
 
 [Read More](/news-notes/me-myself-i-week-7-monday-morning-devotions)
 
-[![Me, Myself, &amp; I: Week 6 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775219492-2UEYPEBYYTX6A9W7TYQU/unholy+trinity+banner+%281%29.png)](/news-notes/me-myself-i-week-6-monday-morning-devotions)
+[![Me, Myself, &amp; I: Week 6 - Monday Morning Devotions](images/5f025b18-unholy_trinity_banner__1_.png)](/news-notes/me-myself-i-week-6-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -91,7 +91,7 @@ Guest User
 
 [Read More](/news-notes/me-myself-i-week-6-monday-morning-devotions)
 
-[![Me, Myself, &amp; I: Week 5 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775232249-TOSJ52XM1860K11L5GBW/unholy+trinity+banner+%281%29.png)](/news-notes/me-myself-i-week-5-monday-morning-devotions)
+[![Me, Myself, &amp; I: Week 5 - Monday Morning Devotions](images/ea1d5881-unholy_trinity_banner__1_.png)](/news-notes/me-myself-i-week-5-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -107,7 +107,7 @@ Guest User
 
 [Read More](/news-notes/me-myself-i-week-5-monday-morning-devotions)
 
-[![Me, Myself, &amp; I: Week 4 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775235230-O731J68FQ1SRFF3N7QPY/unholy+trinity+banner+%281%29.png)](/news-notes/me-myself-i-week-4-monday-morning-devotions)
+[![Me, Myself, &amp; I: Week 4 - Monday Morning Devotions](images/ce4898e1-unholy_trinity_banner__1_.png)](/news-notes/me-myself-i-week-4-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -123,7 +123,7 @@ Guest User
 
 [Read More](/news-notes/me-myself-i-week-4-monday-morning-devotions)
 
-[![Me, Myself, &amp; I: Week 3 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775244259-MT0ZP7JVXGYATD5DANP9/unholy+trinity+banner+%281%29.png)](/news-notes/me-myself-i-week-3-monday-morning-devotions)
+[![Me, Myself, &amp; I: Week 3 - Monday Morning Devotions](images/cb14c16b-unholy_trinity_banner__1_.png)](/news-notes/me-myself-i-week-3-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -139,7 +139,7 @@ Guest User
 
 [Read More](/news-notes/me-myself-i-week-3-monday-morning-devotions)
 
-[![Me, Myself, &amp; I: Week 2 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775265205-KRERH5S526PNHYKHYVJR/unholy+trinity+banner+%281%29.png)](/news-notes/me-myself-i-week-2-monday-morning-devotions)
+[![Me, Myself, &amp; I: Week 2 - Monday Morning Devotions](images/6ef68095-unholy_trinity_banner__1_.png)](/news-notes/me-myself-i-week-2-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

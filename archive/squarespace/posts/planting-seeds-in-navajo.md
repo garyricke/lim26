@@ -5,7 +5,7 @@ date: 2020-02-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/planting-seeds-in-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b10df7d225059ae9bc51/1748628700852/Planting+the+Seeds.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773839573-ALPU8JCSTRPZEPEHPVL2/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/4b5c7476-Planting_the_Seeds.png", "images/816e216a-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Planting Seeds in Navajo
 
@@ -13,7 +13,7 @@ Feb 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773839573-ALPU8JCSTRPZEPEHPVL2/image-asset.png)
+![](images/816e216a-image-asset.png)
 
 Jesus often spoke of children, and the child-like faith, to teach his disciples about greatness and humility in God’s kingdom. Childlike humility requires us to place our faith and trust in the Lord. Childlike humility depends on God’s mercy for forgiveness and looks to Jesus Christ as the Savior who lived among us, God’s children, to redeem us.
 
@@ -48,7 +48,7 @@ Tim Young Eagle (Pawnee)
 
 ### P.S. A good friend of the ministry recently said to me: “When the Holy Spirit is moving, the best thing you can do is get out of the way!” The Holy Spirit is moving among Native American peoples. I pray you will enjoy these Lenten reflections, written by our missionaries, as they share how God is moving in Indian Country. Your gift, today, will help to continue that movement!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

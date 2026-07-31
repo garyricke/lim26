@@ -5,7 +5,7 @@ date: 2018-04-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/not-alone-lent-easter-sunday-april-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bba8caefb623c851361e/1748628700852/20140404-164601.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776552879-QQXMC9K8QQ4WMTFB47G2/image-asset.png"]
+images: ["images/db7d0d78-20140404-164601.jpg", "images/ce31d55e-image-asset.png"]
 ---
 # Not Alone (Lent) - Easter Sunday, April 1
 
@@ -13,7 +13,7 @@ Apr 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776552879-QQXMC9K8QQ4WMTFB47G2/image-asset.png)
+![](images/ce31d55e-image-asset.png)
 
 ### "I will not leave you as orphans; I will come to you." [John 14:18 (NIV)](https://www.bible.com/bible/111/JHN.14.18)
 

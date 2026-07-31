@@ -5,7 +5,7 @@ date: 2018-05-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-050418
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b9070bda9b53014af141/1748628700852/dixon-497709-f-wp-content-uploads-2018-05-1136719_d1af4578fbe2650-e1525278525563-1200x800.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775879785-YW3I8OP8WQDAH3S3DG73/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775880685-3PYIT8X5Q6VJKJDQNALK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775881405-XDM16FM1FYKT43H478GO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775882224-N1DAOVM57MSSR80GC6ZM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775883296-KYOJ8LYU5M9E8D769BWQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775884467-5E3MGVZ3FVNANFR6LPMF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775885298-72H9WMQW12F2Z0KNSAV3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775886338-QB2JNZO33GVA8LEFLBYQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775887274-ZRCWTHWP66G65BOUIPRP/image-asset.png"]
+images: ["images/0ce5f245-dixon-497709-f-wp-content-uploads-2018-05-1136719_d1af4578fbe2650-e1525278525563-1200x800.jpg", "images/fa9a4c7d-image-asset.jpeg", "images/9112d70e-image-asset.jpeg", "images/2e0c06f1-image-asset.jpeg", "images/3cd2f438-image-asset.jpeg", "images/4c685061-image-asset.jpeg", "images/8921b845-image-asset.jpeg", "images/05729a8f-image-asset.jpeg", "images/17f405ff-image-asset.jpeg", "images/832015f9-image-asset.png"]
 ---
 # This Week in Native American News (5/4/18): Searching for children, reburying artifacts, and the evolution of the powwow
 
@@ -13,7 +13,7 @@ May 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775879785-YW3I8OP8WQDAH3S3DG73/image-asset.jpeg)
+![](images/fa9a4c7d-image-asset.jpeg)
 
 # May 4, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: A search for native children who died on 'Outings'
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775880685-3PYIT8X5Q6VJKJDQNALK/image-asset.jpeg)
+![](images/9112d70e-image-asset.jpeg)
 
 Ephriam Alexander came to the Carlisle Indian School from the village of Kanulik on the Nushagak River and Bristol Bay in southwestern Alaska, but died in Lititz, Pa., near Cocalico Creek, shown here. He’s buried in the Lititz Moravian Congregation Cemetery. Historical photo courtesy of Cumberland County Historical Society.
 
@@ -35,7 +35,7 @@ Now, a Native American rights group is searching for her — and for other lost 
 
 ## You might also be interested in...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775881405-XDM16FM1FYKT43H478GO/image-asset.jpeg)
+![](images/2e0c06f1-image-asset.jpeg)
 
 ### ['Dawnland' Tells Of The Taking Of Native American Children In Maine](http://www.wbur.org/radioboston/2018/04/27/dawnland-documentary-film)
 
@@ -47,7 +47,7 @@ The film follows the work of the state's Truth And Reconciliation Commission, se
 
 ## American Indian artifacts found in North Bay fire debris — and quickly reburied
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775882224-N1DAOVM57MSSR80GC6ZM/image-asset.jpeg)
+![](images/3cd2f438-image-asset.jpeg)
 
 During cleanup of millions of tons of debris after the North Bay fires, long-buried American Indian artifacts were uncovered. Photo: Photos By Mason Trinca / Special To The Chronicle
 
@@ -65,7 +65,7 @@ Carithers echoed Sarris’ caution. He said that the Corps had a “great deal o
 
 ## Native American powwows have evolved over the years
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775883296-KYOJ8LYU5M9E8D769BWQ/image-asset.jpeg)
+![](images/4c685061-image-asset.jpeg)
 
 In this April 24, 2015, file photo, Yvonne Grinnell, right, attaches a feather to Tasia Pecos' hair in preparation for the grand entrance at the 32nd annual Gathering of Nations in Albuquerque N.M. The Gathering of Nations, one of the world's largest gatherings of indigenous people, is set to begin Friday, April 27, 2018, in Albuquerque. The annual event attracts around 3,000 dancers from hundreds of tribes in the U.S., Canada and Mexico and generally draws about 80,000 visitors with dances, drum contests and various competitions. (AP Photo/Susan Montoya Bryan, File)
 
@@ -83,7 +83,7 @@ It soon became an important element of the post-World War II pan-Indian movement
 
 ## How the Native Americans of Alaska Influenced the Surrealists
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775884467-5E3MGVZ3FVNANFR6LPMF/image-asset.jpeg)
+![](images/8921b845-image-asset.jpeg)
 
 When the world fails to fulfill our needs and desires, we often turn to prayer—or art. The Alaskan Yup’ik people merged both strategies, crafting exquisite masks for rituals meant to influence the weather, animals, and extraterrestrial spirits. Carved from wood and often decorated with bent wooden hoops and feathers, they alternately depict hybrids of fish, fowl, and human figures. At dances and festivals, the group used these disguises to try to communicate with a world beyond theirs (they still perform these traditional rituals today).
 
@@ -95,7 +95,7 @@ The Surrealists, who sought to liberate themselves from 20th-century European an
 
 ## Your Weekly History Lesson (then go see it in real life):
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775885298-72H9WMQW12F2Z0KNSAV3/image-asset.jpeg)
+![](images/05729a8f-image-asset.jpeg)
 
 ### [Visit Prophet's Rock](https://www.atlasobscura.com/places/prophets-rock)
 
@@ -103,7 +103,7 @@ On November 7, 1811, the Shawnee prophet Tenskwatawa stood and chanted from a ro
 
 There was just one problem: The spell cast from atop Prophet’s Rock didn’t work, and dozens of Native Americans perished in the battle. Tecumseh, the prophet’s half-brother and Shawnee chief, had given strict instructions to Tenskwatawa not to attack the American forces while he was away on business. The prophet ignored Tecumseh’s instructions and attacked anyway.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775886338-QB2JNZO33GVA8LEFLBYQ/image-asset.jpeg)
+![](images/17f405ff-image-asset.jpeg)
 
 ### [Visit Six Mile Road](https://www.greenvilleonline.com/story/opinion/columnists/2018/05/02/cherokee-history-comes-alive-six-mile-historical-dedication/569378002/)
 
@@ -121,7 +121,7 @@ Now a group of Yukon writers has started a Wiki-thon event to change that.
 
 ### [See the video here.](http://aptnnews.ca/2018/05/01/93199/)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775887274-ZRCWTHWP66G65BOUIPRP/image-asset.png)](http://aptnnews.ca/2018/05/01/93199/)
+[![](images/832015f9-image-asset.png)](http://aptnnews.ca/2018/05/01/93199/)
 
 ---
 

@@ -5,7 +5,7 @@ date: 2016-11-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/no-longer-lost-in-the-dark
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4978eead250d7bcf283/1748628700852/11-29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778840888-8VXTA0WCC10U4RFWLR7E/image-asset.jpeg"]
+images: ["images/a4c22441-11-29.jpg", "images/835b57be-image-asset.jpeg"]
 ---
 # No Longer Lost in the Dark
 
@@ -15,7 +15,7 @@ Nov 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778840888-8VXTA0WCC10U4RFWLR7E/image-asset.jpeg)
+![](images/835b57be-image-asset.jpeg)
 
 As a Native American, I have always struggled with feelings of blame, shame, and guilt.
 

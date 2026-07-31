@@ -5,7 +5,7 @@ date: 2017-04-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/forsaken-so-you-never-will-be-holy-saturday-april-15
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1117d392871aff98726/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777938754-W8BYAZD1GABVS6AV4ME7/image-asset.jpeg"]
+images: ["images/53c83a1e-2017_lent_cover.jpg", "images/0ebdd27f-image-asset.jpeg"]
 ---
 # Forsaken, So You Never Will Be: Holy Saturday, April 15
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## I will never leave you nor forsake you. Hebrews 13:5b (ESV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777938754-W8BYAZD1GABVS6AV4ME7/image-asset.jpeg)
+![](images/0ebdd27f-image-asset.jpeg)
 
 Mauna, the Ho-Chunk name for our Creator, formed Adam and Eve from the dust of the earth. They were blessed to have a close relationship with their maker and one another. Together, all people would descend from this blessed marriage and from them was given the desire to be loved and cared for by others.
 

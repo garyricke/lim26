@@ -5,7 +5,7 @@ date: 2017-12-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-120117
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be4558242d0bafc7451b/1748628700852/Coho+Clan+Hat+Digitization.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777222146-H7S3GO52PGHEEGP2BJMF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777222907-OC6HWGTSDVTZX1CDY32Q/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777224076-5U567M1127016IKVV0S2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777224931-F0MDY6CBNIG69I7A03WT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777225946-GEY80MU4S58IVKUA0P0U/image-asset.jpeg"]
+images: ["images/13d288a6-Coho_Clan_Hat_Digitization.jpg", "images/41b2d4d0-image-asset.jpeg", "images/80420804-image-asset.jpeg", "images/2506bb3e-image-asset.jpeg", "images/206b3e00-image-asset.jpeg", "images/1dc2d2ed-image-asset.jpeg"]
 ---
 # This Week in Native American News (12/1/17): 3D Printing, Genetic Mapping, and Basket Weaving
 
@@ -13,7 +13,7 @@ Dec 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777222146-H7S3GO52PGHEEGP2BJMF/image-asset.jpeg)
+![](images/41b2d4d0-image-asset.jpeg)
 
 # December 1, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Using 3D Printing to Preserve Culture
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777222907-OC6HWGTSDVTZX1CDY32Q/image-asset.jpeg)
+![](images/80420804-image-asset.jpeg)
 
 Eric Hollinger (left) and Chris Hollshwander prepare to image the Coho Clan hat. (Nick Partridge, Smithsonian)
 
@@ -39,7 +39,7 @@ Preservation and perpetuation of their cultural heritage is of the utmost import
 
 ## Childhood Trauma Can Be Passed to the Next Generation (And the Importance of the Healing portion of our ministry)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777224076-5U567M1127016IKVV0S2/image-asset.jpeg)
+![](images/2506bb3e-image-asset.jpeg)
 
 Source: Drew Angerer/Getty Images News/Getty Images
 
@@ -57,7 +57,7 @@ Sounds a lot like the trauma experienced by Native children taken to the residen
 
 ## The Importance of Names
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777224931-F0MDY6CBNIG69I7A03WT/image-asset.jpeg)
+![](images/206b3e00-image-asset.jpeg)
 
 Mount Denali
 
@@ -79,7 +79,7 @@ Nevertheless, the debate over place names is here to stay. Regardless of the out
 
 ## Native American Heritage Month May Be Over, But We Don't Have to Stop Celebrating!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777225946-GEY80MU4S58IVKUA0P0U/image-asset.jpeg)
+![](images/1dc2d2ed-image-asset.jpeg)
 
 ### [Check out these 6 Young Adult Books to Carry you Into 2018. (Caution: these are YA books, but they have some very heavy content)](https://flipboard.com/@flipboard/-6-ya-books-to-celebrate-native-american/f-9ca76a67ad%2Fbookriot.com)
 

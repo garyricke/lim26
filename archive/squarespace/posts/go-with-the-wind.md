@@ -5,7 +5,7 @@ date: 2020-03-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/go-with-the-wind
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0c30bda9b53014974fa/1748628700852/tumblr_pot2g1qq7T1uh8gz5o1_1280.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773766659-0OPEGG4KKKHOEVNK6N27/image-asset.png"]
+images: ["images/ce4ee454-tumblr_pot2g1qq7T1uh8gz5o1_1280.png", "images/40f098e8-image-asset.png"]
 ---
 # Go with the Wind - Lent 2020
 
@@ -15,7 +15,7 @@ Mar 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773766659-0OPEGG4KKKHOEVNK6N27/image-asset.png)
+![](images/40f098e8-image-asset.png)
 
 ### Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light. [Matthew 11:29-30](https://www.bible.com/bible/111/mat.11.29-30)
 

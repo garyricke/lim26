@@ -5,7 +5,7 @@ date: 2016-04-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/7rn35d6dkcbmna9efm4ca4243lk8jf
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ccc054bcd831383969f6/1748628700852/COTA_samuel_aapa300dpi-1024x569.jpg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/25992c37-f178-465e-a5ec-403414584245.jpg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/38fda9a4-f3f2-4f3b-878f-6e3c08c776ce.jpg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/4ec92550-eba5-4204-be22-2a8297dd592f.jpg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/56f2ba62-e31b-4ef9-b21a-e9e8bbcde023.jpg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/860265aa-bb97-426b-b9fc-84e42c34fe2c.jpg", "https://gallery.mailchimp.com/6bd0fdf07982467754a1ffc63/images/f7422b11-81a1-44c3-b51b-9e49d9510851.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780930095-CWHX8YAXPOCZ4DRTQ15S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/82d59526-99de-438f-bde8-53e700b2fd9c/footer-location-map.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/d1bcbd12-f68d-4bd1-843a-4bbe56f5ef63/lutheranindianMinistries-logo-redrawn-horz.png"]
+images: ["images/8c16b17e-COTA_samuel_aapa300dpi-1024x569.jpg", "images/8e6ebfdc-25992c37-f178-465e-a5ec-403414584245.jpg", "images/43f47c62-38fda9a4-f3f2-4f3b-878f-6e3c08c776ce.jpg", "images/a39488c2-4ec92550-eba5-4204-be22-2a8297dd592f.jpg", "images/88fa6fbb-56f2ba62-e31b-4ef9-b21a-e9e8bbcde023.jpg", "images/6d3423a9-860265aa-bb97-426b-b9fc-84e42c34fe2c.jpg", "images/487dc176-f7422b11-81a1-44c3-b51b-9e49d9510851.jpg", "images/d1d36862-image-asset.jpeg", "images/47d1aa1c-footer-location-map.jpg", "images/91c41d88-lutheranindianMinistries-logo-redrawn-horz.png"]
 ---
 # This Week in Native American News
 
@@ -15,7 +15,7 @@ Apr 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780930095-CWHX8YAXPOCZ4DRTQ15S/image-asset.jpeg)
+![](images/d1d36862-image-asset.jpeg)
 
 ---
 

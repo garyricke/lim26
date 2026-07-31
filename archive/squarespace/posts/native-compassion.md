@@ -5,7 +5,7 @@ date: 2017-06-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/native-compassion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c01e58242d0bafc797bf/1748628700852/devotion+title.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777695323-JKXMU7FHSW8EWEGWCS9D/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777696752-S7E7YVQT8TJJY47Z7A2S/image-asset.jpeg"]
+images: ["images/2d5cd00a-devotion_title.jpg", "images/21aa672e-image-asset.jpeg", "images/9484e2be-image-asset.jpeg"]
 ---
 # Compassion: Faith for the Reservations, Devo 2 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jun 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777695323-JKXMU7FHSW8EWEGWCS9D/image-asset.jpeg)
+![](images/21aa672e-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -43,7 +43,7 @@ But God wants us to show compassion and mercy.
 
 Less than 5% of Native Americans know Jesus Christ as their Lord and Savior, so since reservations have so many non-believers, should God wipe them out?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777696752-S7E7YVQT8TJJY47Z7A2S/image-asset.jpeg)
+![](images/9484e2be-image-asset.jpeg)
 
 No! How much more should we be concerned? After all, there are 5 million people, many of those children, who do not know the hope that comes from Jesus' death and resurrection.
 

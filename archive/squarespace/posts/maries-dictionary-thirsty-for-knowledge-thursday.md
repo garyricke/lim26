@@ -5,7 +5,7 @@ date: 2017-02-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/maries-dictionary-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c3c51c139f039c3217a2/1748628700852/maxresdefault.jpg"]
+images: ["images/e00f8133-maxresdefault.jpg"]
 ---
 # Marie's Dictionary - Thirsty (for Knowledge) Thursday
 

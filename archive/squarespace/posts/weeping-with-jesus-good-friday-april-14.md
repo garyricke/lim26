@@ -5,7 +5,7 @@ date: 2017-04-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/weeping-with-jesus-good-friday-april-14
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c11b6f9a84583cd1a60a/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777948388-TSW7CS4L8VKZ00G7UWYJ/image-asset.jpeg"]
+images: ["images/0e9db619-2017_lent_cover.jpg", "images/8ca79199-image-asset.jpeg"]
 ---
 # Weeping with Jesus: Good Friday, April 14
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## But God demonstrates his own love for us in this: While we were yet sinners, Christ died for us. Romans 5:8 (NIV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777948388-TSW7CS4L8VKZ00G7UWYJ/image-asset.jpeg)
+![](images/8ca79199-image-asset.jpeg)
 
 It caught us all off guard that morning in Montana when “Wes,” the big tall rancher, began speaking.  We had spent several days listening to each other’s stories at the retreat and ministry center in Blackfeet territory.  We do this at many of our workshops.  We encourage participants to share the deep pain that life has brought their way.  Through sharing our stories in a safe place, we are able to minister to one another and find healing (James 5:16).  We ask participants to prepare a “ten-minute story” about their lives.
 

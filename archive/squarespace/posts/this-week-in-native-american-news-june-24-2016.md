@@ -5,7 +5,7 @@ date: 2016-06-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-june-24-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c8c6e972a132aa207306/1748628700852/inuit-sculpture-at-york-university.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779911974-4KGXSSGFDVYAVRIJ8TXO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779913996-QEWGMIT8ATBYJ1WK8TW4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779916093-29TC9K2Q837JRROFBTQT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779919083-P4BB095T4I29SSSZGCJO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779922436-0UZ0IE67FCGY5PRDVMUQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779924208-SU1FCFKR0ODD3VOE77SK/image-asset.png"]
+images: ["images/116fad5f-inuit-sculpture-at-york-university.jpg", "images/4928dabf-image-asset.jpeg", "images/315ebdbd-image-asset.jpeg", "images/84d7c840-image-asset.jpeg", "images/68612906-image-asset.jpeg", "images/fb8e7f96-image-asset.jpeg", "images/20e67793-image-asset.png"]
 ---
 # This Week in Native American News - June 24, 2016
 
@@ -15,13 +15,13 @@ Jun 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779911974-4KGXSSGFDVYAVRIJ8TXO/image-asset.jpeg)
+![](images/4928dabf-image-asset.jpeg)
 
 ---
 
 ### Sherman Alexie Releases New Book for Children
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779913996-QEWGMIT8ATBYJ1WK8TW4/image-asset.jpeg)
+![](images/315ebdbd-image-asset.jpeg)
 
 Page from "Thunder Boy Jr." by Sherman Alexie
 
@@ -35,7 +35,7 @@ Writing to this younger generation is new to Alexie who is best known for his wo
 
 ### The Juaneno Indians Regain a Piece of History and Culture
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779916093-29TC9K2Q837JRROFBTQT/image-asset.jpeg)
+![](images/84d7c840-image-asset.jpeg)
 
 Colored ribbons placed by Juanenos Indians surround sacred burial ground in San Juan Capistrano. Photo credit: Mark Boster/Los Angeles Times
 
@@ -49,7 +49,7 @@ Most significant, however, is the city's recognition of the value of this land t
 
 ### Canadian Indigenous Artists Visualize the Future
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779919083-P4BB095T4I29SSSZGCJO/image-asset.jpeg)
+![](images/68612906-image-asset.jpeg)
 
 Alethea Arnaquq-Baril speaks at a meeting of the Senate's Standing Committee on Aboriginal Peoples. Photo credit: CBCNews
 
@@ -65,11 +65,11 @@ The immersive art installations will premiere next year at the TIFF Bell Lightbo
 
 ## Tidbits:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779922436-0UZ0IE67FCGY5PRDVMUQ/image-asset.jpeg)
+![](images/fb8e7f96-image-asset.jpeg)
 
 Ever seen a tree like this? The bent trees are thought to be trail markers created by Native Americans. [Read more here](http://www.dailymail.co.uk/news/article-3648259/Expert-claims-mysterious-bent-trees-secret-Native-Americans-trail-markers.html).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779924208-SU1FCFKR0ODD3VOE77SK/image-asset.png)
+![](images/20e67793-image-asset.png)
 
 Canada celebrated National Aboriginal Day on June 21st and in honor of the holiday, York University in Toronto dedicated their new, Nunavut-carved statue. [Read more here](http://www.cbc.ca/news/canada/north/york-university-unveils-massive-inuit-carving-1.3646071).
 

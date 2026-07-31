@@ -5,7 +5,7 @@ date: 2020-10-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/feedmysheep
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af75981ba40c2a9971dc/1748628700852/THE+GUIDE+TO+THE+ENDANGERED.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773432925-67EMHRH2EOQU5Z5O6W56/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/6abd1b59-THE_GUIDE_TO_THE_ENDANGERED.png", "images/65d55e73-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Feed My Sheep
 
@@ -13,7 +13,7 @@ Oct 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773432925-67EMHRH2EOQU5Z5O6W56/image-asset.png)
+![](images/65d55e73-image-asset.png)
 
 ## The third time he said to him, "Simon son of John, do you love me?" Peter was hurt because Jesus asked him the third time, "Do you love me?" He said, "Lord, you know all things; you know that I love you." Jesus said, "Feed my sheep.” (John 21:17)
 
@@ -67,7 +67,7 @@ Lutheran Indian Ministries
 
 ### P.S. One way we help to feed his sheep is through our annual Advent devotion book which, in the past has been included with this October letter. **Do not fear! It is still coming!** We have changed our layout, but you can expect to get your LIM Advent devotion book in early November complete with easier to read print and amazing, uplifting stories about Native Ministry!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

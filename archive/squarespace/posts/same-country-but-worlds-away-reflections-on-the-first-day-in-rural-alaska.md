@@ -5,7 +5,7 @@ date: 2016-08-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/same-country-but-worlds-away-reflections-on-the-first-day-in-rural-alaska
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5ee46b91a4ea6fec27c/1748628700852/IMG_2889.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779185054-2JHRWTN4TABXQC3GHAFZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779187989-H2FORYQ6ZKR356WDUTTZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779191481-0G5U5WYXY9PQEHRBZE5G/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779193180-K2I2V6E72ILZX17XLSVP/image-asset.jpeg"]
+images: ["images/982c3292-IMG_2889.JPG", "images/c4245b6c-image-asset.jpeg", "images/4f6b6454-image-asset.jpeg", "images/d048d141-image-asset.jpeg", "images/beeb4d16-image-asset.jpeg"]
 ---
 # Same Country, but Worlds Away - Reflections on the First Day in Rural Alaska
 
@@ -19,7 +19,7 @@ Below is the personal reflections of a volunteer, 18-year-old Rachel, who recent
 
 May 29. 2016
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779185054-2JHRWTN4TABXQC3GHAFZ/image-asset.jpeg)
+![](images/c4245b6c-image-asset.jpeg)
 
 It’s hard to believe today is the same day I woke to. This morning, I went to Zion Lutheran Church in Fairbanks. Tonight, I attended Kiana Friends Church in the Iñupiat Eskimo village of Kiana. I feel like I’ve traveled between two different worlds in just a day. I am part of a mission team of women flying almost 400 miles from our base camp in Fairbanks to do Vacation Bible School with the children in the village, as well as teen and adult Bible studies. The five of us come from Oklahoma, Alaska, North Carolina, and Illinois, and we are as different as can be in age, background, and temperament. But we all want this trip to be successful and to reach rural Alaska Natives with the hope of Jesus Christ.
 
@@ -31,7 +31,7 @@ Mr. Bob points out violent and dangerous villages that wouldn't be safe, but he 
 
 I hide the feeling of disgust in my heart and smile back at him. After the stories I’ve heard about America’s historic Indian boarding schools, there’s no way I would ever teach at a boarding school. But, God has a funny way of working things out and laughing at our plans.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779187989-H2FORYQ6ZKR356WDUTTZ/image-asset.jpeg)
+![](images/4f6b6454-image-asset.jpeg)
 
 We land in Kiana, settled in the hills of the surrounding snow-capped mountains and alongside the Kobuk River. Kiana, It’s a beautiful, rustic town of small, wooden houses and four-wheeler-worn gravel roads. I learn quickly, is a more peaceful, safe, and well-off village than others in the region.
 
@@ -39,7 +39,7 @@ We are greeted by a small group from the village. The women load our luggage and
 
 While Rosemary cooks dinner, I sit outside with a book I can’t focus on and watch four-wheelers and bikes zoom past loaded with adults and children alike.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779191481-0G5U5WYXY9PQEHRBZE5G/image-asset.jpeg)
+![](images/d048d141-image-asset.jpeg)
 
 After dinner, we attend the evening church service which attracts only a few people. There is no pastor in the summer time, as he travels to fundraise to pay his salary and keep his ministry in Kiana alive. They don’t have a pianist either. She died in March.
 
@@ -63,7 +63,7 @@ We stay up late making crafts for VBS. I finally go to bed, praying for love and
 
 -Rachel Smithley
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779193180-K2I2V6E72ILZX17XLSVP/image-asset.jpeg)
+![](images/beeb4d16-image-asset.jpeg)
 
 [Ministry Update](/news-notes/tag/Ministry+Update)
 

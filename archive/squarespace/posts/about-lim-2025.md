@@ -5,17 +5,17 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/about-lim-2025
 section: 
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/03838a90-78a5-4072-a854-67c3fb58b055/Haskell+LIGHT.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/287f6450-5ae1-4d22-802b-fc780ce647f1/background-gradient-litegray-white-475tall.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/38f3d191-6237-4d40-a4ba-6e8948418d34/14-opt.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/3e66875b-13be-438d-922c-cfec0e1ffdeb/THI-logo.webp", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/499bebcb-0390-4aae-ae1b-f96d1e9ed40a/mark.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/62871002-85f0-47ec-bdc2-c76004019518/4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/65dfc33d-0064-4c80-9a93-311bd5a29ec8/9.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/96dfa7e3-3595-40e6-a512-f443ab85b038/haskell-indian-nations-university-logo-trans-back-opt.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a2cc73ae-0a54-4b63-9e1d-cac96dde2153/About+LIM+2025+Vid+Thumb-logo-top-right.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a3259843-6253-4450-aa27-54c875371a83/Gemini_Generated_Image_esrcywesrcywesrc-topaz-denoise-enhance-3.4x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a3e01435-218e-4f4a-8003-b9bf716da5ec/Haskell+LIGHT+%282%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/e776e276-8de9-4b80-abc0-080129251f55/5.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/f34f2c2f-3606-42cf-a297-f3d9bf7680b7/Roberta_Healing_Grps_Intro-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/f5f3ca16-070a-476f-9ecf-667076d3b4e6/8.jpg"]
+images: ["images/15063a12-Haskell_LIGHT.png", "images/fd4d8ef9-background-gradient-litegray-white-475tall.png", "images/b715db72-14-opt.jpg", "images/5c1113e2-THI-logo.webp", "images/37fbbd3d-mark.png", "images/ceda50ff-4.jpg", "images/be105329-9.jpg", "images/7bb4ab0b-haskell-indian-nations-university-logo-trans-back-opt.png", "images/b5c4c7eb-About_LIM_2025_Vid_Thumb-logo-top-right.jpeg", "images/c0565a8e-Gemini_Generated_Image_esrcywesrcywesrc-topaz-denoise-enhance-3.4x.jpg", "images/3c5d3aab-Haskell_LIGHT__2_.jpg", "images/bc17ccfe-5.jpg", "images/f8b14895-Roberta_Healing_Grps_Intro-thumb.jpg", "images/f92c93c5-8.jpg"]
 ---
 # Partnering with Native Communities In Christ
 
 Real stories of transformation, healing from trauma, and the powerful ways God is working through Native people—by Native people.
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a2cc73ae-0a54-4b63-9e1d-cac96dde2153/About+LIM+2025+Vid+Thumb-logo-top-right.jpeg)](https://player.vimeo.com/progressive_redirect/playback/1125923234/rendition/1080p/file.mp4?loc=external&log_user=0&signature=42610c9b8ce45c0c7f1678b0f18ed85dd6c391a211046a1d865ded2f2d4bbcac)
+[![](images/b5c4c7eb-About_LIM_2025_Vid_Thumb-logo-top-right.jpeg)](https://player.vimeo.com/progressive_redirect/playback/1125923234/rendition/1080p/file.mp4?loc=external&log_user=0&signature=42610c9b8ce45c0c7f1678b0f18ed85dd6c391a211046a1d865ded2f2d4bbcac)
 
 [Make a Donation](/donate)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/287f6450-5ae1-4d22-802b-fc780ce647f1/background-gradient-litegray-white-475tall.png)
+![](images/fd4d8ef9-background-gradient-litegray-white-475tall.png)
 
 ## MISSION
 
@@ -29,13 +29,13 @@ LIM envisions the day when all nations walk together in the light of Christ—re
 
 “Love is an action, not an emotion.” LIM builds trust with Native communities through authentic relationships rooted in listening, learning, and culturally sensitive acts of love.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/f5f3ca16-070a-476f-9ecf-667076d3b4e6/8.jpg)
+![](images/f92c93c5-8.jpg)
 
 > “There before me was a great multitude no one could count, from every nation, tribe, people, and language, standing before the throne and the Lamb, crying out, ‘Salvation belongs to our God who sits on the throne, and to the Lamb!”
 
 — Revelation 7:9–10
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/65dfc33d-0064-4c80-9a93-311bd5a29ec8/9.jpg)
+![](images/be105329-9.jpg)
 
 ## PARTNERS IN HEALING & HOPE
 
@@ -81,15 +81,15 @@ We collect and share testimonies of transformation, helping others see that heal
 
 Counseling and Healing Groups, Bible Studies and Campus Ministry (e.g., Haskell Indian Nations University’s “Haskell Light”), Training & Equipping Facilitators, Behavior Support and Community Connection
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/287f6450-5ae1-4d22-802b-fc780ce647f1/background-gradient-litegray-white-475tall.png)
+![](images/fd4d8ef9-background-gradient-litegray-white-475tall.png)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/499bebcb-0390-4aae-ae1b-f96d1e9ed40a/mark.png)
+![](images/37fbbd3d-mark.png)
 
 ## LIMHOPE.org
 
 # Healing the Wounds of Trauma
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/3e66875b-13be-438d-922c-cfec0e1ffdeb/THI-logo.webp)
+![](images/5c1113e2-THI-logo.webp)
 
 The Trauma Healing Institute (THI), founded by the American Bible Society, helps people heal from trauma through Bible-based, facilitator-led groups. Using Healing the Wounds of Trauma, available in 150+ languages, THI has trained 20,000 facilitators and reached 250,000 people in 100+ countries, addressing pain from war, loss, and disasters.
 
@@ -134,19 +134,19 @@ Healing the Wounds of Trauma isn't just a program—it's a movement of God throu
 
   She values how the program combines scripture (approximately 390 verses) with practical exercises in a communal setting, teaching participants not only to heal themselves but also to support others, ultimately strengthening entire communities.
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/f34f2c2f-3606-42cf-a297-f3d9bf7680b7/Roberta_Healing_Grps_Intro-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/1062066705/rendition/1080p/file.mp4?loc=external&log_user=0&signature=ba01132de0ab92e01db48264320037439f93c2c3516313a164b5dec1bed34698)
+[![](images/f8b14895-Roberta_Healing_Grps_Intro-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/1062066705/rendition/1080p/file.mp4?loc=external&log_user=0&signature=ba01132de0ab92e01db48264320037439f93c2c3516313a164b5dec1bed34698)
 
 > “I wish I could have done the Healing the Wounds of Trauma decades ago... but we experience freedom when the time is right, and the beauty of being able to go to a healing group—the time was right for me.”
 
 — Roberta Richardson · Uuvanagaa Atigah Kitgruak
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/287f6450-5ae1-4d22-802b-fc780ce647f1/background-gradient-litegray-white-475tall.png)
+![](images/fd4d8ef9-background-gradient-litegray-white-475tall.png)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/96dfa7e3-3595-40e6-a512-f443ab85b038/haskell-indian-nations-university-logo-trans-back-opt.png)
+![](images/7bb4ab0b-haskell-indian-nations-university-logo-trans-back-opt.png)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/03838a90-78a5-4072-a854-67c3fb58b055/Haskell+LIGHT.png)
+![](images/15063a12-Haskell_LIGHT.png)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/38f3d191-6237-4d40-a4ba-6e8948418d34/14-opt.jpg)
+![](images/b715db72-14-opt.jpg)
 
 ## Lighting the Way at Haskell: A Campus Ministry Rooted in Culture and Christ
 
@@ -156,11 +156,11 @@ Today, it serves as a federally funded university for Native American and Alaska
 
 Led by Haskell alum Pola Farve, this ministry understands the weight of Haskell’s history and meets students where they are—emotionally, spiritually, and culturally. For many, it’s the first time they hear the Gospel in a way that honors their identity, not erases it. This relationship is more than support—it’s restoration. It breaks down historic barriers, heals past wounds, and equips the next generation of Native leaders to carry the hope of Christ back into their communities with authenticity and strength.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a3e01435-218e-4f4a-8003-b9bf716da5ec/Haskell+LIGHT+%282%29.jpg)
+![](images/3c5d3aab-Haskell_LIGHT__2_.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/03838a90-78a5-4072-a854-67c3fb58b055/Haskell+LIGHT.png)
+![](images/15063a12-Haskell_LIGHT.png)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/62871002-85f0-47ec-bdc2-c76004019518/4.jpg)
+![](images/ceda50ff-4.jpg)
 
 ## A Heart Opened by God’s Word
 
@@ -178,9 +178,9 @@ Haskell LIGHT is more than a ministry—it’s a community where faith is shared
 
 Leo’s journey is just one of many stories that show how **God is moving—one student, one Bible, one relationship at a time.**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/e776e276-8de9-4b80-abc0-080129251f55/5.jpg)
+![](images/bc17ccfe-5.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a3259843-6253-4450-aa27-54c875371a83/Gemini_Generated_Image_esrcywesrcywesrc-topaz-denoise-enhance-3.4x.jpg)
+![](images/c0565a8e-Gemini_Generated_Image_esrcywesrcywesrc-topaz-denoise-enhance-3.4x.jpg)
 
 ## Join Us in Ministering to Native Communities
 

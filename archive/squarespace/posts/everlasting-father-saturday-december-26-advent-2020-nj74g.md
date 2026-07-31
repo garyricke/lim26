@@ -5,7 +5,7 @@ date: 2021-01-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/everlasting-father-saturday-december-26-advent-2020-nj74g
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae692c954d4f385dee3e/1748628700852/download.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773163355-856NAPKM9R3E4WD5XS2R/image-asset.png"]
+images: ["images/d13bcfe4-download.png", "images/abd272f7-image-asset.png"]
 ---
 # Peace in the New Year - Friday, January 1 (Advent 2020)
 
@@ -13,7 +13,7 @@ Jan 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773163355-856NAPKM9R3E4WD5XS2R/image-asset.png)
+![](images/abd272f7-image-asset.png)
 
 ## For to us a child is born, to us a son is given… And he will be called… the Prince of Peace… [Isaiah 9:6](https://my.bible.com/bible/111/ISA.9.6)
 

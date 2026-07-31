@@ -5,7 +5,7 @@ date: 2018-03-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-sunrise-of-healing-lent-saturday-march-24
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbc23cdc7517f15a7389/1748628700852/malachi-4-2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776578656-2DKOEKGXQKE6DB7ACSJ7/image-asset.png"]
+images: ["images/ed526a7f-malachi-4-2.jpg", "images/f4f90eee-image-asset.png"]
 ---
 # The Sunrise of Healing (Lent) - Saturday, March 24
 
@@ -13,7 +13,7 @@ Mar 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776578656-2DKOEKGXQKE6DB7ACSJ7/image-asset.png)
+![](images/f4f90eee-image-asset.png)
 
 ### "But for you who fear my name, the sun of righteousness shall rise with healing in its wings." [Malachi 4:2 (ESV)](https://www.bible.com/bible/59/MAL.4.2)
 

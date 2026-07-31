@@ -5,7 +5,7 @@ date: 2019-08-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/kindness-fruit-of-the-spirit-study-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b29bac64b420975f39bb/1748628700852/IMG_2760.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774237639-L72O783CSFZWLU2JWWR2/image-asset.png"]
+images: ["images/f8f45845-IMG_2760.jpg", "images/432d0432-image-asset.png"]
 ---
 # Kindness - Fruit of the Spirit Study (Monday Morning Devotions)
 
@@ -15,7 +15,7 @@ Aug 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774237639-L72O783CSFZWLU2JWWR2/image-asset.png)
+![](images/432d0432-image-asset.png)
 
 ## kindness  χρηστότης (1-10)
 

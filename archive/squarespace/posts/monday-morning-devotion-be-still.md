@@ -5,7 +5,7 @@ date: 2016-07-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/monday-morning-devotion-be-still
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c720e972a132aa2031c5/1748628700852/5e69e569-d1f2-4bec-a5e8-21f93170a7a7.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779490347-TSMH65MJWLBVFLSRVZZD/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779492968-Z06VBWIU4TVMASPQDH8U/image-asset.jpeg"]
+images: ["images/8a7bd48e-5e69e569-d1f2-4bec-a5e8-21f93170a7a7.jpg", "images/b96b461f-image-asset.png", "images/f8b7e2cc-image-asset.jpeg"]
 ---
 # Be Still - Monday Morning Devotion
 
@@ -13,13 +13,13 @@ Jul 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779490347-TSMH65MJWLBVFLSRVZZD/image-asset.png)
+![](images/b96b461f-image-asset.png)
 
 ---
 
 # Be still.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779492968-Z06VBWIU4TVMASPQDH8U/image-asset.jpeg)
+![](images/f8b7e2cc-image-asset.jpeg)
 
 Exodus 14:13
 

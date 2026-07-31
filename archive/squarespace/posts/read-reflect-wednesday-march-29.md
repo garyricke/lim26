@@ -5,7 +5,7 @@ date: 2017-03-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-wednesday-march-29
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c161e6ff8f06972910ca/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778018762-N2E3KK0XE11HQI1TQ94D/image-asset.png"]
+images: ["images/f0973df4-2017_lent_cover.jpg", "images/f5fafebd-image-asset.png"]
 ---
 # Read & Reflect: Wednesday, March 29
 
@@ -13,7 +13,7 @@ Mar 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778018762-N2E3KK0XE11HQI1TQ94D/image-asset.png)
+![](images/f5fafebd-image-asset.png)
 
 ## Read: [1 Corinthians 1:18](https://www.bible.com/bible/111/1co.1.18)
 

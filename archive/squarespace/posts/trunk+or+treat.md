@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/trunk+or+treat
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775589057-KL21NXM9RX7X8DOKGR53/generosity+pumpkin+patch+trunk+or+treat+makah+lutheran+neah+bay+washington+state+ben+maxson+lutheran+indian+ministries.jpg"]
+images: ["images/b30c365c-generosity_pumpkin_patch_trunk_or_treat_makah_lutheran_neah_bay_washington_state_ben_maxson_lutheran_indian_ministries.j"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Trunk or Treating Fun at Makah Lutheran](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775589057-KL21NXM9RX7X8DOKGR53/generosity+pumpkin+patch+trunk+or+treat+makah+lutheran+neah+bay+washington+state+ben+maxson+lutheran+indian+ministries.jpg)](/news-notes/trunk-or-treating-fun-at-makah-lutheran)
+[![Trunk or Treating Fun at Makah Lutheran](images/b30c365c-generosity_pumpkin_patch_trunk_or_treat_makah_lutheran_neah_bay_washington_state_ben_maxson_lutheran_indian_ministries.j)](/news-notes/trunk-or-treating-fun-at-makah-lutheran)
 
 [Washington/Neah Bay](/news-notes/category/Washington%2FNeah+Bay)
 Guest User

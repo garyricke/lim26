@@ -5,7 +5,7 @@ date: 2016-09-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-vision-for-hawaii-lim
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c561b65dbd3949ccaedd/1748628700852/HI-TeamPacksFood.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779043364-J31SG7331V3RDNV8XB38/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779045601-LULOD494NAOIOA3MM87T/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779048170-WQCMH61C97EN94T4H8N0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779049713-EEJU5QIQ47E4Y0U8VRXF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779050959-CF0A92X0V0VZBXGXORNW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779053973-S49BE3LHGK3WS95AKI2P/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779055647-ZVM8RAWLCODRGA9QMVW8/image-asset.jpeg"]
+images: ["images/444539b7-HI-TeamPacksFood.JPG", "images/f628a55f-image-asset.jpeg", "images/389a71d3-image-asset.jpeg", "images/9e07c108-image-asset.jpeg", "images/31598811-image-asset.jpeg", "images/70e0dfcb-image-asset.jpeg", "images/da618085-image-asset.jpeg", "images/121facae-image-asset.jpeg"]
 ---
 # A Vision for Hawaii & LIM
 
@@ -25,7 +25,7 @@ The vision for LIM in Hawaii involves sharing the Gospel of Jesus Christ with th
 
 Embracing the Kanaka culture, involving the family, and meeting the “real” social needs of Kanaka people where they live - We believe that this unique approach to LCMS ministry is important to successfully engaging Kanaka people in the Christian faith and critical to providing the support and assistance that Kanaka people need to begin to overcome the serious social issues that have plagued them since annexation and colonization.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779043364-J31SG7331V3RDNV8XB38/image-asset.jpeg)
+![](images/f628a55f-image-asset.jpeg)
 
 Clarence and a team of volunteers handing out food to Oahu's homeless.
 
@@ -35,7 +35,7 @@ In March of 2014, Clarence DeLude III (Native Hawaiian) joined the staff of Luth
 
 “Stories play an important part in our lives,” Clarence says. “We read stories to our children to help them fall asleep. We tell stories of our day over the dinner table. We recount stories of times long past with old friends at reunions. “Stories teach lessons from the past and create ideas for the future. The greatest story of all, the life, death, and resurrection of Jesus Christ, gives us hope and assurance for our eternity. This is the story the Native children of Hawaii need to hear.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779045601-LULOD494NAOIOA3MM87T/image-asset.jpeg)
+![](images/389a71d3-image-asset.jpeg)
 
 Trinity Lutheran's first Vacation Bible School in years
 
@@ -62,7 +62,7 @@ Key elements of the LIM Hawaiian ministry include:
 
 ### BUILDING ON HAWAIIAN VALUES
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779048170-WQCMH61C97EN94T4H8N0/image-asset.jpeg)
+![](images/9e07c108-image-asset.jpeg)
 
 Clarence (middle) during a ceremony to commemorate the unification of the Hawaiian Islands of Kauai, Oahu, and Hawaii.
 
@@ -82,7 +82,7 @@ Using racism as a tool of power and control, America classified Kanaka (Hawaiian
 
 The most dangerous thing to do is tell oppressed people that they are not oppressed and that there is no pain. When the oppressor denies even the existence of oppression, oppressed people eventually implode via self-destruction or explode in acts of violence.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779049713-EEJU5QIQ47E4Y0U8VRXF/image-asset.jpeg)
+![](images/31598811-image-asset.jpeg)
 
 Prisoners in Hawaii
 
@@ -90,7 +90,7 @@ Since the overthrow of the Hawaiian Nation, young Kanaka males have the highest 
 
 POVERTY AND HOMELESSNESS
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779050959-CF0A92X0V0VZBXGXORNW/image-asset.jpeg)
+![](images/70e0dfcb-image-asset.jpeg)
 
 Hawaiian Homeless Camp
 
@@ -100,7 +100,7 @@ In recent years, the number of homeless people in Hawaii has grown to a point th
 
 LACKING EDUCATION
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779053973-S49BE3LHGK3WS95AKI2P/image-asset.jpeg)
+![](images/da618085-image-asset.jpeg)
 
 Hawaiian Charter School Students
 
@@ -114,7 +114,7 @@ The number of Native Hawaiians living in Hawaii between the ages of 5 to 19 year
 
 HUNGER
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779055647-ZVM8RAWLCODRGA9QMVW8/image-asset.jpeg)
+![](images/121facae-image-asset.jpeg)
 
 Hawaii's Free Breakfast and Lunch Program is all some students eat all day.
 

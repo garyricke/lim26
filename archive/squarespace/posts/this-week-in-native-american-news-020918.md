@@ -5,7 +5,7 @@ date: 2018-02-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-020918
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bcbc99aed3385f6f2e6f/1748628700852/1518042389448-AP_354225713335.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776829709-57CVURTDSVDX0WHM4NI4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776831059-GLVHMF6LUWLRHE5OVD5D/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776831991-7SQPEU71UNOT63N9RFL1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776833275-BC8Z8TO9SCB2DGZPMAL8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776834941-4LQP0P7LVBRUQ0SXMU7I/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776836354-ZIUPHINUWI7DWX4OOXUP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776837895-LMQA9PIPENHLNLOML28M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776839108-93RCEYJZ2IBSYF3X41U0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776841438-QW91Q4ODHM6FPEH0S5WD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776843353-D4O7PX2M3TH94HM6G43R/image-asset.jpeg"]
+images: ["images/3565d2bf-1518042389448-AP_354225713335.jpeg", "images/1232a43e-image-asset.jpeg", "images/5e8e91ec-image-asset.jpeg", "images/e644786a-image-asset.jpeg", "images/518f6d4d-image-asset.jpeg", "images/9af6c0d4-image-asset.jpeg", "images/208d08ac-image-asset.jpeg", "images/e26f445a-image-asset.jpeg", "images/c146cec9-image-asset.jpeg", "images/258bb2f3-image-asset.jpeg", "images/38f7597d-image-asset.jpeg"]
 ---
 # This Week in Native American News (2/9/18): Caring for Children, Doing Mental Math, and Fighting Abuse
 
@@ -13,7 +13,7 @@ Feb 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776829709-57CVURTDSVDX0WHM4NI4/image-asset.jpeg)
+![](images/1232a43e-image-asset.jpeg)
 
 # February 9, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Navajo Woman Opens Her Home to Thousands of Foster Children
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776831059-GLVHMF6LUWLRHE5OVD5D/image-asset.jpeg)
+![](images/5e8e91ec-image-asset.jpeg)
 
 Ronald Joe has been helping Vallis Martinez with her foster kids for the last three years. Joe says, many of Vallis' foster children come back to visit her as adults. Grandparents will stop her in the grocery store and thank her. (Laurel Morales)
 
@@ -39,7 +39,7 @@ Elthie was once a foster kid herself before the time of the federal law. A white
 
 ## You Might Also be Interested in...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776831991-7SQPEU71UNOT63N9RFL1/image-asset.jpeg)
+![](images/e644786a-image-asset.jpeg)
 
 ## Inside the Native American Foster Care Crisis Tearing Families Apart
 
@@ -55,7 +55,7 @@ To understand these disputes, you have to know the painful history behind them. 
 
 ## The Difficulty Math of Being Native American
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776833275-BC8Z8TO9SCB2DGZPMAL8/image-asset.jpeg)
+![](images/518f6d4d-image-asset.jpeg)
 
 Purestock/Getty Images
 
@@ -77,7 +77,7 @@ Here's the thing about blood quantum: it's not real. It has no basis in biology 
 
 ## How a Remote Alaskan Island Tackled Domestic Abuse
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776834941-4LQP0P7LVBRUQ0SXMU7I/image-asset.jpeg)
+![](images/9af6c0d4-image-asset.jpeg)
 
 Zachary Lamblez, the chief of police and director of public safety. Lamblez, a former US marine, has been a tribal police officer for 16 years. Photograph: Ash Adams for the Guardian
 
@@ -105,7 +105,7 @@ The tribe predicts the social problems it’s hoping to get rid of will take gen
 
 ## See the 5 Finalists for the National Mall’s First Memorial to Native American Veterans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776836354-ZIUPHINUWI7DWX4OOXUP/image-asset.jpeg)
+![](images/208d08ac-image-asset.jpeg)
 
 “The Enduring Dance,” design proposal by Stefanie Rocknak
 
@@ -119,7 +119,7 @@ A jury of Native and non-Native artists, designers, scholars, and veterans selec
 
 ## In the Arts...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776837895-LMQA9PIPENHLNLOML28M/image-asset.jpeg)
+![](images/e26f445a-image-asset.jpeg)
 
 ### [Etsy Banned Alaska Native Artists from Selling Ivory](http://abcnews.go.com/Technology/wireStory/etsy-stops-letting-alaska-native-artists-sell-ivory-52890708)
 
@@ -127,7 +127,7 @@ A policy intended to deter the illegal trade of ivory and items made with the pa
 
 U.S. Sen. Dan Sullivan asked the chief executive officer of Etsy.com to reconsider its policy to allow Alaska Natives to keep selling products made from materials such as walrus tusks or from petrified wooly mammoth remains found in the nation's most remote state.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776839108-93RCEYJZ2IBSYF3X41U0/image-asset.jpeg)
+![](images/c146cec9-image-asset.jpeg)
 
 ### [Nunavik seamstress embellishes tradition](http://www.nunatsiaqonline.ca/stories/article/65674nunavik_seamstress_embellishes_tradition/)
 
@@ -137,13 +137,13 @@ In a sea of sealskin and colourful commander fabric, Winifred Nungak’s booth s
 
 Nunagak said she’s proud to be one of a growing number of Inuit seamstresses who are making a name for themselves and re-defining Inuit fashion.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776841438-QW91Q4ODHM6FPEH0S5WD/image-asset.jpeg)
+![](images/258bb2f3-image-asset.jpeg)
 
 ### [Hand-Beaded Vans Go Viral](https://www.teenvogue.com/story/native-american-artist-charlene-holy-bears-hand-beaded-vans-go-viral)
 
 Artist Charlene Holy Bear, a member of the Standing Rock Lakota Sioux Tribe, was heading to a pan-tribal festival called the “Gathering of Nations” in Albuquerque, New Mexico when the idea struck her. “I hadn’t had any time to prepare outfits for us but I wanted my 4-year-old son Justus to look really cool," she told *Vogue*. "He had a new pair of slip-on Vans and I suddenly had an idea, looking at the checkerboard design.” After that, she started hand-beading the shoes to make them look like traditional moccasins. “Once they were beaded they had this sort of urban Indian vibe so I braided my son’s hair, put on those shoes and he was the coolest little guy at the pow wow.” she continued, “People were stopping us to take photos, he made such a splash.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776843353-D4O7PX2M3TH94HM6G43R/image-asset.jpeg)
+![](images/38f7597d-image-asset.jpeg)
 
 ### ["Heart Berries," by Terese Marie Mailhot, gets rave review from Sherman Alexie](http://www.chicagotribune.com/lifestyles/books/sc-books-heart-berries-terese-marie-mailhot-0207-story.html)
 

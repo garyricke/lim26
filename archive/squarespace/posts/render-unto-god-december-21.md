@@ -5,7 +5,7 @@ date: 2016-12-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/render-unto-god-december-21
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c43973f8a72aef86328a/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778747063-KJCJ5LM7R2V20C56UBNL/image-asset.png"]
+images: ["images/a20bca49-2016_Advent_Devotions.png", "images/854d5144-image-asset.png"]
 ---
 # Render Unto God: December 21
 
@@ -15,7 +15,7 @@ Dec 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778747063-KJCJ5LM7R2V20C56UBNL/image-asset.png)
+![](images/854d5144-image-asset.png)
 
 ## So they asked him, “Teacher, we know that you speak and teach rightly, and show no partiality, but truly teach the way of God. Is it lawful for us to give tribute to Caesar, or not?” But he perceived their craftiness, and said to them, “Show me a denarius. Whose likeness and inscription does it have?” They said, “Caesar's.” He said to them, “Then render to Caesar the things that are Caesar's, and to God the things that are God's.” Luke 19:21-25 (ESV)
 

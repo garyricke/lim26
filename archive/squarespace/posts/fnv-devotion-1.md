@@ -5,7 +5,7 @@ date: 2016-04-24
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/fnv-devotion-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cd7468dbca56a756e824/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781109902-9X89URDZVNXR0Y11G1AK/image-asset.jpeg"]
+images: ["images/a93f68e9-1748628700852", "images/d7a21578-image-asset.jpeg"]
 ---
 # FNV Verse - Ephesians 2:10
 
@@ -13,7 +13,7 @@ Apr 24
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781109902-9X89URDZVNXR0Y11G1AK/image-asset.jpeg)
+![](images/d7a21578-image-asset.jpeg)
 
 First Nations Version
 

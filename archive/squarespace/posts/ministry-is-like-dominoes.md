@@ -5,7 +5,7 @@ date: 2016-02-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/ministry-is-like-dominoes
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cfdbf356c23a7b91a345/1748628700852/ws_Multi_Colored_Dominoes_1280x800.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781725126-0JJZPXD2L9FNQMH71OOP/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781726855-P2AIF26P4VV898DRA8GX/image-asset.jpeg"]
+images: ["images/f09087c2-ws_Multi_Colored_Dominoes_1280x800.jpg", "images/e932ad78-image-asset.png", "images/23710e57-image-asset.jpeg"]
 ---
 # If the Kingdom of Heaven is like a mustard seed, then ministry is like playing dominoes.
 
@@ -15,7 +15,7 @@ Feb 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781725126-0JJZPXD2L9FNQMH71OOP/image-asset.png)
+![](images/e932ad78-image-asset.png)
 
 Working in the missionary field, spreading the Gospel, and sharing God's love is rarely easy. Ministry workers are constantly on the defense against the enemy, it can be hard to see the fruit of all the hard work.
 
@@ -27,7 +27,7 @@ The seeds of faith take time to grow, but slowly, they grow and become a communi
 
 Very often, the job of our staff is to plant a seed. This is especially the case with[Rick and Linda](/manitoba) [Martin (Cree) in Canada.](/manitoba)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781726855-P2AIF26P4VV898DRA8GX/image-asset.jpeg)
+![](images/23710e57-image-asset.jpeg)
 
 The majority of Rick and Linda's work revolves around bringing Gospel-based counseling and training, as it relates to trauma and healing, to the aboriginal people of Canada and the US. They travel to conferences and workshops and do all they can in the limited time available to them. Sometimes, the Holy Spirit is evident. People have breakthroughs and leave a changed person. Other times, the seed takes a while to sprout.
 

@@ -5,7 +5,7 @@ date: 2017-09-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-is-confession
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349beecc653350bcef87179/1748628700852/13990.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777388986-RL7ROWE6SWL0JVUXPSQO/image-asset.jpeg"]
+images: ["images/f08836e6-13990.jpg", "images/94dab8b3-image-asset.jpeg"]
 ---
 # What is Confession? (What do Lutherans Believe?: Part 4)
 
@@ -15,7 +15,7 @@ Sep 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777388986-RL7ROWE6SWL0JVUXPSQO/image-asset.jpeg)
+![](images/94dab8b3-image-asset.jpeg)
 
 This is a seven-week devotion by Pastor Ricky Jacob, of Winnebago, Nebraska.  
 (Read the full series here)

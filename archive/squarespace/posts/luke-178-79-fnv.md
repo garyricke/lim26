@@ -5,7 +5,7 @@ date: 2016-08-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/luke-178-79-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c60143af6e48c31b1d6b/1748628700852/Because+Creator+is+kind+and+gentle%2C+he+will+come+to+us+as+the+sunrise+from+above%2C+to+shine+on+the+ones+who+sit+in+darkness+and+in+the+land+of+death%27s+shadow%2C+to+guide+our+feet+on+the+good+path+pf+peace.Luke+1-.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779203331-RFYAWZ9ZG5BGP5M74X0K/image-asset.png"]
+images: ["images/6aec41ef-Because_Creator_is_kind_and_gentle__he_will_come_to_us_as_the_sunrise_from_above__to_shine_on_the_ones_who_sit_in_darkne", "images/b82562da-image-asset.png"]
 ---
 # Luke 1:78-79 FNV
 
@@ -13,7 +13,7 @@ Aug 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779203331-RFYAWZ9ZG5BGP5M74X0K/image-asset.png)
+![](images/b82562da-image-asset.png)
 
 And, goes on Zacharias in his noble hymn, all this tender care for Israel is owing to the deep love of God.
 

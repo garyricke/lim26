@@ -5,7 +5,7 @@ date: 2018-02-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-broken-heart-he-will-not-despise-lent-thursday-february-22
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc7a2f32730f5f612695/1748628700852/HRT-Lent16-instagram4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776763843-IG95OHDEKPA6VRP3E6NO/image-asset.png"]
+images: ["images/87da8ada-HRT-Lent16-instagram4.jpg", "images/24241981-image-asset.png"]
 ---
 # A Broken Heart He Will Not Despise (Lent) - Thursday, February 22
 
@@ -15,7 +15,7 @@ Feb 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776763843-IG95OHDEKPA6VRP3E6NO/image-asset.png)
+![](images/24241981-image-asset.png)
 
 ### "You do not delight in sacrifice, or I would bring it; you do not take pleasure in burnt offerings. The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise." [Psalm 51:16-17 (NIV)](https://www.bible.com/bible/111/PSA.51.16-17)
 

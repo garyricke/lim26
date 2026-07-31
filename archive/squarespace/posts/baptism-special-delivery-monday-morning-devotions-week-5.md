@@ -5,7 +5,7 @@ date: 2019-08-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/baptism-special-delivery-monday-morning-devotions-week-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b29889548629034d9016/1748628700852/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774234051-IZW9ILE7Y47Y43KK3E1A/image-asset.png"]
+images: ["images/3b637212-Copy_of_Baptism__Special_delivery.png", "images/04f73d9c-image-asset.png"]
 ---
 # Baptism: Special Delivery - Monday Morning Devotions - Week 5
 
@@ -15,7 +15,7 @@ Aug 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774234051-IZW9ILE7Y47Y43KK3E1A/image-asset.png)
+![](images/04f73d9c-image-asset.png)
 
 Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
 

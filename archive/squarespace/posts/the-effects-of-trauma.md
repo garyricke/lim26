@@ -5,7 +5,7 @@ date: 2018-05-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-effects-of-trauma
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8c9981ba40c2a9b4bbe/1748628700852/Prayer.jpg"]
+images: ["images/99e7527f-Prayer.jpg"]
 ---
 # The Effects of Trauma
 

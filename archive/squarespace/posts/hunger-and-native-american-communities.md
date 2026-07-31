@@ -5,7 +5,7 @@ date: 2016-12-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/hunger-and-native-american-communities
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c48ae32d133794792279/1748628700852/Publication1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778829152-NU8VLO7ADC0O79USHUYG/image-asset.jpeg"]
+images: ["images/ff1dfa5d-Publication1.jpg", "images/4938e110-image-asset.jpeg"]
 ---
 # Hunger and Native American Communities
 
@@ -21,7 +21,7 @@ I am not here to shame anyone. I love a good Christmas party as much as the next
 
 > 60 percent of counties with a native majority face dangerously high food insecurity rates. And 23 percent of the small U.S. Indigenous population has terrible access to “adequate food” — almost twice the national average. ([Alex Zielinski, ThinkProcess](https://thinkprogress.org/the-native-american-community-faces-dangerously-high-rates-of-food-insecurity-703a7737e87d#.t2dtvsdsj))
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778829152-NU8VLO7ADC0O79USHUYG/image-asset.jpeg)
+![](images/4938e110-image-asset.jpeg)
 
 Note how often the counties with more than a 25% Native population are also areas of extreme food scarcity, particularly in the Four Corners region of New Mexico, Arizona, and Utah, in South Dakota, and in Montana. (This is not to undermine the food insecurity in the Southeastern states, if you feel called to help there, please do so.)
 

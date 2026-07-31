@@ -5,7 +5,7 @@ date: 2020-12-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-circle-of-trust-friday-december-4-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aef2cb88a56680ae7159/1748628700852/tumblr_pk6qfdKkv91uh8gz5o1_1280.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773301224-01OU41TQGW6RUD67Z6RL/image-asset.png"]
+images: ["images/6993c564-tumblr_pk6qfdKkv91uh8gz5o1_1280.png", "images/399f6ae4-image-asset.png"]
 ---
 # A Circle of Trust - Friday, December 4 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773301224-01OU41TQGW6RUD67Z6RL/image-asset.png)
+![](images/399f6ae4-image-asset.png)
 
 ## Be patient, therefore, brothers and sisters, until the coming of the Lord.  See how the farmer waits for the precious fruit of the earth, being patient about it, until it receives the early and the late rains.  [James 5:7](https://my.bible.com/bible/111/JAS.5.7)
 

@@ -5,7 +5,7 @@ date: 2019-11-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/im-going-to-heaven
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1b045c85a1da5064979/1748628700852/70241399_2402810926652280_9194379890915278848_o.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774003690-EDWGHEC7JECEANS29CMD/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/6aefc571-70241399_2402810926652280_9194379890915278848_o.jpg", "images/5bc26f6d-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # "I'm going to Heaven!"
 
@@ -15,7 +15,7 @@ Nov 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774003690-EDWGHEC7JECEANS29CMD/image-asset.png)
+![](images/5bc26f6d-image-asset.png)
 
 Greetings to you in the name of our Lord and Savior, Jesus!
 
@@ -65,7 +65,7 @@ Vicar Rick McCafferty
 
 ## Your gift today will be doubled to make twice the impact for eternity. Hallelujah!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

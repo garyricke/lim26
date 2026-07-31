@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/what+do+lutherans+believe
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777332007-A1YQU0JRAXCDJN6S1BS0/SRT-John_instagram12.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777352289-BPUDG6K40PFN72P3QOH9/download.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777373391-VFWMU83WF8OG880EFO5I/HEADER-repentance1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777391133-GZ144QO7N3K4Y1M07EFQ/13990.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777407070-1W58ZXUXZ5FQ4IEGYJA6/9025910_orig.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777422872-Y1ZDO4E3GVFHTPL5TDB3/matthew_28_19_by_treybacca-d5v67j4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777442002-OOJ4OZ83RYGDGVR35SSR/Ephesians-5_27-Without-Spot-of-Wrinkle-gray-copy.jpg"]
+images: ["images/309b76cb-SRT-John_instagram12.jpg", "images/098c817f-download.jpg", "images/9c313255-HEADER-repentance1.jpg", "images/60578019-13990.jpg", "images/b5a8f347-9025910_orig.jpg", "images/0a5c18bc-matthew_28_19_by_treybacca-d5v67j4.jpg", "images/6b7cc167-Ephesians-5_27-Without-Spot-of-Wrinkle-gray-copy.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![What is Ecclesiastical Order? (What do Lutherans Believe?: Part 7)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777332007-A1YQU0JRAXCDJN6S1BS0/SRT-John_instagram12.jpg)](/news-notes/what-is-the-ecclesiastical-order)
+[![What is Ecclesiastical Order? (What do Lutherans Believe?: Part 7)](images/309b76cb-SRT-John_instagram12.jpg)](/news-notes/what-is-the-ecclesiastical-order)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -75,7 +75,7 @@ Lutheranism desire to maintain whatever best contributes to good order, peace, a
 
 [Read More](/news-notes/what-is-the-ecclesiastical-order)
 
-[![What is the purpose of the Sacraments? (What do Lutherans Believe?: Part 6)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777352289-BPUDG6K40PFN72P3QOH9/download.jpg)](/news-notes/what-are-the-sacraments)
+[![What is the purpose of the Sacraments? (What do Lutherans Believe?: Part 6)](images/098c817f-download.jpg)](/news-notes/what-are-the-sacraments)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -93,7 +93,7 @@ The Latin word "Sacrament" means mystery. God's gifts are given in God's mysteri
 
 [Read More](/news-notes/what-are-the-sacraments)
 
-[![What is Repentance? (What do Lutherans Believe?: Part 5)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777373391-VFWMU83WF8OG880EFO5I/HEADER-repentance1.jpg)](/news-notes/what-is-repentance)
+[![What is Repentance? (What do Lutherans Believe?: Part 5)](images/9c313255-HEADER-repentance1.jpg)](/news-notes/what-is-repentance)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -109,7 +109,7 @@ Repentance, in other words, is not about paying God off or making some satisfact
 
 [Read More](/news-notes/what-is-repentance)
 
-[![What is Confession? (What do Lutherans Believe?: Part 4)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777391133-GZ144QO7N3K4Y1M07EFQ/13990.jpg)](/news-notes/what-is-confession)
+[![What is Confession? (What do Lutherans Believe?: Part 4)](images/60578019-13990.jpg)](/news-notes/what-is-confession)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -125,7 +125,7 @@ Confession has two parts. The first is that we confess our sins. The other is th
 
 [Read More](/news-notes/what-is-confession)
 
-[![What is the Lord's Supper? (What do Lutherans Believe?: Part 3)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777407070-1W58ZXUXZ5FQ4IEGYJA6/9025910_orig.jpg)](/news-notes/what-is-the-lords-supper)
+[![What is the Lord's Supper? (What do Lutherans Believe?: Part 3)](images/b5a8f347-9025910_orig.jpg)](/news-notes/what-is-the-lords-supper)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -141,7 +141,7 @@ Based on His words, we Lutherans believe, teach, and confess that, of the bread,
 
 [Read More](/news-notes/what-is-the-lords-supper)
 
-[![What is Baptism? (What do Lutherans Believe?: Part 2)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777422872-Y1ZDO4E3GVFHTPL5TDB3/matthew_28_19_by_treybacca-d5v67j4.jpg)](/news-notes/what-is-baptism)
+[![What is Baptism? (What do Lutherans Believe?: Part 2)](images/0a5c18bc-matthew_28_19_by_treybacca-d5v67j4.jpg)](/news-notes/what-is-baptism)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -157,7 +157,7 @@ Holy Baptism works forgiveness of sins, delivers from death and the devil, and g
 
 [Read More](/news-notes/what-is-baptism)
 
-[![What is the Church? (What do Lutherans Believe?: Part 1)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777442002-OOJ4OZ83RYGDGVR35SSR/Ephesians-5_27-Without-Spot-of-Wrinkle-gray-copy.jpg)](/news-notes/what-is-the-church)
+[![What is the Church? (What do Lutherans Believe?: Part 1)](images/6b7cc167-Ephesians-5_27-Without-Spot-of-Wrinkle-gray-copy.jpg)](/news-notes/what-is-the-church)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

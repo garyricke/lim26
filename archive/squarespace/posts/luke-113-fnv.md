@@ -5,7 +5,7 @@ date: 2016-07-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/luke-113-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c8768796a71ce9692c4a/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779833768-VMHU58LBZFQV41ETWYUT/image-asset.png"]
+images: ["images/073573e6-1748628700852", "images/5f798532-image-asset.png"]
 ---
 # Luke 1:13 FNV
 
@@ -13,7 +13,7 @@ Jul 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779833768-VMHU58LBZFQV41ETWYUT/image-asset.png)
+![](images/5f798532-image-asset.png)
 
 All the prayers we offer up to God, are acceptable and successful only by Christ's intercession.
 

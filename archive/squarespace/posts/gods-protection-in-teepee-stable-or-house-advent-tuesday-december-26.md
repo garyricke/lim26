@@ -5,7 +5,7 @@ date: 2017-12-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/gods-protection-in-teepee-stable-or-house-advent-tuesday-december-26
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bda80eda784f703c7a90/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777065927-PK7T1UC9RFHO6KLM0ZG0/image-asset.png"]
+images: ["images/eab45534-Advent__1_.png", "images/2c2def61-image-asset.png"]
 ---
 # God’s Protection: In Teepee, Stable, or House (Advent) - Tuesday, December 26
 
@@ -15,7 +15,7 @@ Dec 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777065927-PK7T1UC9RFHO6KLM0ZG0/image-asset.png)
+![](images/2c2def61-image-asset.png)
 
 ### **God’s Protection: In Teepee, Stable, or House - Tuesday, December 26**
 

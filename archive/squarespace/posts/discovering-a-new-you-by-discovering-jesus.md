@@ -5,7 +5,7 @@ date: 2018-01-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/discovering-a-new-you-by-discovering-jesus
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd7ef09029341eb2d44e/1748628700852/discovering.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777023791-2RTKI0N9WV5A9BLG59JT/image-asset.png"]
+images: ["images/4c6c3f1b-discovering.png", "images/90165bc8-image-asset.png"]
 ---
 # Discovering a New You by Discovering Jesus
 
@@ -13,7 +13,7 @@ Jan 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777023791-2RTKI0N9WV5A9BLG59JT/image-asset.png)
+![](images/90165bc8-image-asset.png)
 
 Thank you for joining us for the Advent season!
 

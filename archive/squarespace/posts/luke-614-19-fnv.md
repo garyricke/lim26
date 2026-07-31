@@ -5,7 +5,7 @@ date: 2017-08-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-614-19-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf322c1738665e70fa4d/1748628700852/A+great+number+of+people+came+to+hear+him+speak+and+to+be+healed.+They+came+from+all+over+the+Land+of+Promise+%28Judea%29%2C+from+Village+of+Peace+%28Jerusalem%29%2C+and+from+the+coast+of+Rock+Land+%28Tyre%29+and+Hunting+Grou.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777460176-3EBBIJPSPQJDKP30FKAM/image-asset.png"]
+images: ["images/45a3590d-A_great_number_of_people_came_to_hear_him_speak_and_to_be_healed._They_came_from_all_over_the_Land_of_Promise__Judea___f", "images/e3230ec3-image-asset.png"]
 ---
 # Luke 6:14-19 FNV
 
@@ -13,7 +13,7 @@ Aug 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777460176-3EBBIJPSPQJDKP30FKAM/image-asset.png)
+![](images/e3230ec3-image-asset.png)
 
 The words here used are few, and we pass them over often without pausing to think of what they involve. It was, perhaps, the hour in the ministry of Jesus when his miraculous power was most abundantly displayed.
 

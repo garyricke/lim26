@@ -5,7 +5,7 @@ date: 2016-04-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-true-cost-of-not-holding-teen-camp
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ccfcb509130ab9e56a45/1748628700852/Teen-Camp-group-on-stairway-June-2014.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780989852-TH2A13YE9BWFWFFNHDXB/image-asset.gif", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780991294-ZWYO5PPHJDGRNLXDGMKR/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780992864-S7AKTKVNIVYHX8GEXVMD/image-asset.jpeg"]
+images: ["images/648d393a-Teen-Camp-group-on-stairway-June-2014.jpg", "images/0c824f7f-image-asset.gif", "images/b2be1748-image-asset.png", "images/fba529c9-image-asset.jpeg"]
 ---
 # The Cost of NOT Holding Teen Camp
 
@@ -15,7 +15,7 @@ Apr 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780989852-TH2A13YE9BWFWFFNHDXB/image-asset.gif)
+![](images/0c824f7f-image-asset.gif)
 
 Congratulations! You and your small group from church are heading on a mission trip to Point Hope, Alaska with Lutheran Indian Ministries. You'll be meeting new people, building relationships, and spreading the hope of the Gospel of Jesus Christ. Hooray for you!
 
@@ -37,7 +37,7 @@ Your books didn't tell you how to navigate this unfamiliar landscape. You can't 
 
 Fairbanks has a population of just over 35,000 people, not big by most of our standards, especially if you live near a mega-metropolis like Chicago or New York. But for a young adult coming from a village like Point Hope, with a population of 700, it's huge and foreign. (The on-campus student population at the University of Alaska - Fairbanks alone is seven times that size!)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780991294-ZWYO5PPHJDGRNLXDGMKR/image-asset.png)
+![](images/b2be1748-image-asset.png)
 
 Fairbanks, Alaska at night
 
@@ -57,7 +57,7 @@ But the story goes even further than that. Alana was first introduced to Luthera
 
 "The volunteers we work with are so important to this ministry!" Dave says emphatically, "Alaska is too big for just two people. There are 229 villages in the state that are only accessible by boat or plane, so there's no way we can reach all of them as often as we need. Without those volunteers, we wouldn't have a Teen Camp, because we wouldn't have the relationships we have with the villages and the youth."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780992864-S7AKTKVNIVYHX8GEXVMD/image-asset.jpeg)
+![](images/fba529c9-image-asset.jpeg)
 
 So what is the cost of NOT having Teen Camp? It's lost souls and lost villages.
 

@@ -5,7 +5,7 @@ date: 2017-04-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-42817-welcoming-of-tourists-gathering-of-tribes-and-burying-of-bones
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0d60a345667073617e0/1748628700852/0417_TVM_ErikHeminway_JPGreyscale_GSG_8654.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777879902-QBHMLUUB6K30SN4WAVFA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777880928-ETL73CNH7G83BLVKS0Z2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777882586-S42VCZOFLE01JMSA52BU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777883721-JCZW20NZ1DMEG6AKQNYS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777885660-W9MAUVWUTPI9OJVNDR0G/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777886705-YCHQ5ZN8WQCKQ0MO05AJ/image-asset.jpeg"]
+images: ["images/72090091-0417_TVM_ErikHeminway_JPGreyscale_GSG_8654.jpg", "images/eefcc2d9-image-asset.jpeg", "images/09846de8-image-asset.jpeg", "images/22c26dee-image-asset.jpeg", "images/efeb4899-image-asset.jpeg", "images/04eacc15-image-asset.jpeg", "images/acf053c5-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/28/17): welcoming of tourists, gathering of tribes and burying of bones.
 
@@ -13,7 +13,7 @@ Apr 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777879902-QBHMLUUB6K30SN4WAVFA/image-asset.jpeg)
+![](images/eefcc2d9-image-asset.jpeg)
 
 # April 28, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Helping Native Youth Navigate Medical School
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777880928-ETL73CNH7G83BLVKS0Z2/image-asset.jpeg)
+![](images/09846de8-image-asset.jpeg)
 
 At an event that’s all about improving education in the health-care community, Eric Brodt MD, a physician at Oregon Health & Science University, started his speech talking about how education had negatively affected someone close to him. A member of the Dakota tribe, his great-grandmother was forcefully taken from her land to be “educated” — and within a generation, her people went from learning four native languages to only learning English. At that time for American Indians, “education was the vehicle by which you were separated from your culture — from the core of what held you together,” Brodt explained. In fact, “education was used to take what was dearest from us and to try and extract it.
 
@@ -29,7 +29,7 @@ Brodt founded the organization We Are Healers, designed to identify young Americ
 
 ### [Read the whole story here](http://scopeblog.stanford.edu/2017/04/23/a-healing-song-and-symbolic-feather-to-close-the-first-day-of-medicine-x-ed/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777882586-S42VCZOFLE01JMSA52BU/image-asset.jpeg)
+![](images/22c26dee-image-asset.jpeg)
 
 **Also on the subject of health education,** Alika Lafontaine, the collaborative team lead at the Indigenous Health Alliance, speaks to the assumptions many have about how to fix Native Health Care.
 
@@ -41,7 +41,7 @@ Brodt founded the organization We Are Healers, designed to identify young Americ
 
 ## Bringing His People Home
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777883721-JCZW20NZ1DMEG6AKQNYS/image-asset.jpeg)
+![](images/efeb4899-image-asset.jpeg)
 
 It’s not often that Eric Hemenway gets to bury a whole person. In fact, it’s happened only once. That time it was a baby, or at least a skeleton of a child. Her skull and bones had been tucked into a cigar box after being dug up sometime in the 1890s during a road construction project near Detroit. There were 60 bodies accidentally excavated along with her, likely the population of an entire village. As was the practice at the time, someone from the road crew presumably contacted the nearest museum and delivered the remains there. And that’s where this cigar-box child remained, forgotten in some storage area for more than a hundred years. Until Eric Hemenway came asking about her, to put her back in the ground.
 
@@ -49,7 +49,7 @@ It’s not often that Eric Hemenway gets to bury a whole person. In fact, it’s
 
 ### [Read more about Eric and repatriation here](http://mynorth.com/2017/04/hear-my-heritage-eric-hemenway-talks-being-native-american/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777885660-W9MAUVWUTPI9OJVNDR0G/image-asset.jpeg)
+![](images/04eacc15-image-asset.jpeg)
 
 **Speaking of returning items, for more than a century, Native American remains and** **artifacts****, including sacred objects, were regarded by archaeologists and anthropologists as research material.** But that has changed in the past five decades; many objects have been returned to their tribes.
 
@@ -61,7 +61,7 @@ In *[Plundered Skulls and Stolen Spirits](http://amzn.to/2oNU2Tc),* Chip Colwel
 
 ## Making Native America a Destination
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777886705-YCHQ5ZN8WQCKQ0MO05AJ/image-asset.jpeg)
+![](images/acf053c5-image-asset.jpeg)
 
 The Blackfeet Indian Reservation rolls across the plains just east of Glacier National Park. There’s a hotel and casino. There are gas stations, a few eateries and a museum to learn about the culture and history of the people that have occupied the territory long before the arrival of the U.S. Cavalry and the hordes of modern-day visitors who roll into the nearby mountains.
 

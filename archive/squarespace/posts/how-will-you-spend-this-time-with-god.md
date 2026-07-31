@@ -5,7 +5,7 @@ date: 2020-02-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/how-will-you-spend-this-time-with-god
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0e61770ed03474a7859/1748628700852/2cor13-5_orig.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773800000-IKC7GUNBOWB96VTVZC9K/image-asset.png"]
+images: ["images/74bfe00f-2cor13-5_orig.jpg", "images/81c2f5a6-image-asset.png"]
 ---
 # How will you Spend This Time with God? - Lent 2020
 
@@ -13,7 +13,7 @@ Feb 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773800000-IKC7GUNBOWB96VTVZC9K/image-asset.png)
+![](images/81c2f5a6-image-asset.png)
 
 ### Examine yourselves to see whether you are in the faith; test yourselves. [2 Corinthians 13:5a](https://www.bible.com/bible/111/2co.13.5)
 

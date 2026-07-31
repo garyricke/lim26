@@ -5,7 +5,7 @@ date: 2019-08-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/goodness-fruit-of-the-spirit-study-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b280ab393413117dd4fd/1748628700852/IMG_2760.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774210262-N6K56UD64Y5PJQ7LJNXH/image-asset.png"]
+images: ["images/b77ca297-IMG_2760.jpg", "images/81ae5461-image-asset.png"]
 ---
 # Goodness - Fruit of the Spirit Study (Monday Morning Devotions)
 
@@ -15,7 +15,7 @@ Aug 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774210262-N6K56UD64Y5PJQ7LJNXH/image-asset.png)
+![](images/81ae5461-image-asset.png)
 
 ## goodness ἀγαθωσύνη (1-4)
 

@@ -5,7 +5,7 @@ date: 2016-03-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-thief-on-the-cross-luke-2343
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf302ba65a2ce46b062f/1748628700852/tipis+with+logo.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781554348-R7VDP3LOKKLCUSJYSDOE/image-asset.jpeg"]
+images: ["images/d19ca776-tipis_with_logo.jpg", "images/1485f4fb-image-asset.jpeg"]
 ---
 # The Thief on the Cross - Luke 23:43
 
@@ -13,7 +13,7 @@ Mar 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781554348-R7VDP3LOKKLCUSJYSDOE/image-asset.jpeg)
+![](images/1485f4fb-image-asset.jpeg)
 
 **Good Friday March 25**
 

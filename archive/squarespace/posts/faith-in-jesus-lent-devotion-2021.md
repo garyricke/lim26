@@ -5,7 +5,7 @@ date: 2021-03-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/faith-in-jesus-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae320550e023c50cb0c5/1748628700852/21+Faith+in+Jesus.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773107174-UKZVSAOCT9LWOZMODWMV/image-asset.jpeg"]
+images: ["images/fa9b1b20-21_Faith_in_Jesus.jpg", "images/c6650a70-image-asset.jpeg"]
 ---
 # Faith in Jesus (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773107174-UKZVSAOCT9LWOZMODWMV/image-asset.jpeg)
+![](images/c6650a70-image-asset.jpeg)
 
 # [JESUS SAID]: "TRULY, TRULY, I SAY TO YOU, WHOEVER HEARS MY WORD AND BELIEVES HIM WHO SENT ME HAS ETERNAL LIFE. HE DOES NOT COME INTO JUDGMENT, BUT HAS PASSED FROM DEATH TO LIFE.” (JOHN 5:24 ESV)
 

@@ -5,7 +5,7 @@ date: 2019-03-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-stone-is-rolled-away-lent-devotion-tuesday-march-12
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b62675bd3d30f0f3daec/1748628700852/1-44ad5b0d71-792x1024.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775144067-43J7BLFKMGZFIG9YPRZ7/image-asset.jpeg"]
+images: ["images/af000470-1-44ad5b0d71-792x1024.jpg", "images/dc5a878d-image-asset.jpeg"]
 ---
 # The Stone is Rolled Away (Lent Devotion) - Tuesday, March 12
 
@@ -13,7 +13,7 @@ Mar 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775144067-43J7BLFKMGZFIG9YPRZ7/image-asset.jpeg)
+![](images/dc5a878d-image-asset.jpeg)
 
 # The Stone is Rolled Away
 

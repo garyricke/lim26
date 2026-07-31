@@ -5,7 +5,7 @@ date: 2018-03-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/gods-story-of-forgiveness-lent-thursday-march-22
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbccac64b420976124ad/1748628700852/Ge32.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776588839-5FLSK0L696DI7VN4AMT7/image-asset.png"]
+images: ["images/80072058-Ge32.jpg", "images/b51c86a3-image-asset.png"]
 ---
 # God's Story of Forgiveness (Lent) - Thursday, March 22
 
@@ -15,7 +15,7 @@ Mar 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776588839-5FLSK0L696DI7VN4AMT7/image-asset.png)
+![](images/b51c86a3-image-asset.png)
 
 ### "And Jacob was left alone. And a man wrestled with him until the breaking of the day. When the man saw that he did not prevail against Jacob, he touched his hip socket, and Jacob’s hip was put out of joint as he wrestled with him… Then he said, 'Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed.'" [Genesis 32:24-25, 28 (ESV)](https://www.bible.com/bible/59/GEN.32.24-25)
 

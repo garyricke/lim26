@@ -5,7 +5,7 @@ date: 2016-06-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-june-17-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c8e914c45a2de06d477f/1748628700852/blackfeet+immersion+school.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779947015-0AV8RV2T173UU5PWXMXP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779949694-0CPJVYB5NHF0XL377NUG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779951793-6VWMPB1AWB8NP2130PU8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779954777-IJDK8A351AFXD26KLNQ2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779956128-4E6OC4U55LCVGFFATGSF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779959762-DM0LTOWSA83JQAWUZXVF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779962012-JML7OP035VQ33B7NV98N/image-asset.png"]
+images: ["images/722008e5-blackfeet_immersion_school.jpg", "images/0fce5faa-image-asset.jpeg", "images/ff940d3a-image-asset.jpeg", "images/cef6879a-image-asset.jpeg", "images/41ee04db-image-asset.jpeg", "images/bcf986ec-image-asset.jpeg", "images/948d19c3-image-asset.jpeg", "images/6800e13b-image-asset.png"]
 ---
 # This Week in Native American News - June 17, 2016
 
@@ -15,13 +15,13 @@ Jun 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779947015-0AV8RV2T173UU5PWXMXP/image-asset.jpeg)
+![](images/0fce5faa-image-asset.jpeg)
 
 ---
 
 ### Montana Tribe Growing Its Own Teachers
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779949694-0CPJVYB5NHF0XL377NUG/image-asset.jpeg)
+![](images/ff940d3a-image-asset.jpeg)
 
 Girls at Nizipuhwasin Blackfeet Native Language Immersion School. Photo credit: *Catherine Karnow/Corbis*
 
@@ -45,7 +45,7 @@ Oregon and Wisconsin have similar programs to train up Native teachers, and the 
 
 ### Politicians are making the rounds and visiting Native communities
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779951793-6VWMPB1AWB8NP2130PU8/image-asset.jpeg)
+![](images/cef6879a-image-asset.jpeg)
 
 U.S. Attorney General Loretta Lynch greets Alaska Native leaders in Anchorage. Photo credit: Mark Thiessen/AP Photo
 
@@ -65,7 +65,7 @@ The Bishop Marrocco/Thomas Merton Catholic Secondary School soccer team from Tor
 
 ### Photographer Captures what it means to be Native American Today
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779954777-IJDK8A351AFXD26KLNQ2/image-asset.jpeg)
+![](images/41ee04db-image-asset.jpeg)
 
 "The Red Road: Picturing Modern native American Identity" is a compilation of photographs by Carlotta Cardana, an Italian photographer, that captures what it means to be Native American today. The pictures are beautiful and encompass all walks of life. [Browse the gallery here](https://www.lensculture.com/carlotta-cardana?modal=true&modal_type=project&modal_project_id=5444).
 
@@ -73,15 +73,15 @@ The Bishop Marrocco/Thomas Merton Catholic Secondary School soccer team from Tor
 
 ### A little something for the history buffs
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779956128-4E6OC4U55LCVGFFATGSF/image-asset.jpeg)
+![](images/bcf986ec-image-asset.jpeg)
 
 Archeologists find 400-year-old American Indian homestead in Georgia thought to be the home of the ancestors of the Cherokee. [Read more](https://theonefeather.com/2016/06/archaeological-discoveries-at-rare-400-year-old-american-indian-homestead-site/).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779959762-DM0LTOWSA83JQAWUZXVF/image-asset.jpeg)
+![](images/948d19c3-image-asset.jpeg)
 
 New research shows the Norse had contact with Native American tribes before the Viking Age, possibly as early as the 11th century. [Read more](http://spangenhelm.com/norse-contact-native-americans-viking-age/).
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779962012-JML7OP035VQ33B7NV98N/image-asset.png)](http://www.history.com/topics/native-american-history/native-american-cultures/videos/pocahontas?m=528e394da93ae&s=undefined&f=1&free=false)
+[![](images/6800e13b-image-asset.png)](http://www.history.com/topics/native-american-history/native-american-cultures/videos/pocahontas?m=528e394da93ae&s=undefined&f=1&free=false)
 
 Since Pocahontas' name has been thrown around the news a lot lately, here's a fun little video about her life. [See more Native American history videos](http://www.history.com/topics/native-american-history).
 

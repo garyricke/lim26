@@ -5,7 +5,7 @@ date: 2019-12-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/bringing-gifts
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b173d102823ae1a598b3/1748628700852/Give+the+gift+of+healing.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773940375-LLL4XX28ZEJH78XSDK7O/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/877ac48d-Give_the_gift_of_healing.png", "images/04300514-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Bringing Gifts
 
@@ -13,7 +13,7 @@ Dec 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773940375-LLL4XX28ZEJH78XSDK7O/image-asset.png)
+![](images/04300514-image-asset.png)
 
 For Native American peoples, generosity is a way of life.
 
@@ -58,7 +58,7 @@ Executive Director
 
 ### P.S. Our greatest gift is God’s gift of His Son, Jesus.  Thank you for helping us share that message this Christmas season with our Native American brothers and sisters!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

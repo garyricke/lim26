@@ -5,7 +5,7 @@ date: 2017-05-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-515-16-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c06d4d725316ea649770/1748628700852/The+crowds+came+from+everywhere+to+hear+him+speak+and+be+healed+of+their+sicknesses.+But+he+often+left+the+crowds+and+went+out+into+the+desert+wilderness+to+pray.+Luke+5-15-16+FNV.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777774404-YHK4VVGW60OT2G0Y9C26/image-asset.png"]
+images: ["images/534aef98-The_crowds_came_from_everywhere_to_hear_him_speak_and_be_healed_of_their_sicknesses._But_he_often_left_the_crowds_and_we", "images/61c077e2-image-asset.png"]
 ---
 # Luke 5:15-16 FNV
 
@@ -13,7 +13,7 @@ May 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777774404-YHK4VVGW60OT2G0Y9C26/image-asset.png)
+![](images/61c077e2-image-asset.png)
 
 The original expression, (ην υποχωρων εν ταις ερημοις, και προσευχομενος), implies that he frequently left the large groups to find solitude and pray.
 

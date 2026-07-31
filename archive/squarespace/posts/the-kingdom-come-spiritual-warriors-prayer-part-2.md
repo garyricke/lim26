@@ -5,7 +5,7 @@ date: 2017-05-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-kingdom-come-spiritual-warriors-prayer-part-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0cccdfe3c472ddec0b4/1748628700852/Kingdom.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777869302-HWZ54GWF1QWWD8ARYSM7/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777872256-QLWE4WXY3HJAL0WLPRG0/image-asset.png"]
+images: ["images/f9f056cc-Kingdom.png", "images/80af6ada-image-asset.png", "images/a097c452-image-asset.png"]
 ---
 # Thy Kingdom Come: : Spiritual Warriors Prayer, Part 2
 
@@ -15,7 +15,7 @@ May 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777869302-HWZ54GWF1QWWD8ARYSM7/image-asset.png)
+![](images/80af6ada-image-asset.png)
 
 This is week two in a seven-week study on the Lord's Prayer, or as Pastor Ricky Jacob likes to call it: the Spiritual Warriors Prayer. Need to start at the beginning? [Read Part 1 here.](https://www.lutheranindianministries.org/news/hallowed-be-thy-name-spiritual-warriors-prayer-part-1)
 
@@ -33,7 +33,7 @@ Undoubtedly, victorious battle commanders have only seen victory because their C
 
 The Spiritual Warrior’s prayer, as I like to call the prayer that Jesus gave to his disciples, includes this petition: **Thy Kingdom Come**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777872256-QLWE4WXY3HJAL0WLPRG0/image-asset.png)
+![](images/a097c452-image-asset.png)
 
 The kingdom of God certainly comes by itself without our prayer, but we pray in this petition that it may come to us also.
 

@@ -5,7 +5,7 @@ date: 2020-02-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/confession-and-absolution-week-5-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b119ff37c7283941aa7a/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773850774-CUGABHBAWGM4LL12DIRE/image-asset.png"]
+images: ["images/3eda6a45-1748628700852", "images/45c2f144-image-asset.png"]
 ---
 # Confession and Absolution - Week 5 (Monday Morning Devotions)
 
@@ -15,7 +15,7 @@ Feb 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773850774-CUGABHBAWGM4LL12DIRE/image-asset.png)
+![](images/45c2f144-image-asset.png)
 
 As we dive into the New Year, as well as prepare for the season of Lent, Pastor Ricky Jacob leads us through a devotion series on Confession and Absolution.
 

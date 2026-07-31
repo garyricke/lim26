@@ -5,7 +5,7 @@ date: 2016-01-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/heres-to-reaching-more-alaskan-natives-in-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349d044100d7b310e2a795b/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781835161-OFEIK8CVXR4L7LUJ44GL/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781889506-X1GOFQP38XLLE7Z8AU6S/image-asset.png"]
+images: ["images/fc2ea8c0-1748628700852", "images/b126752f-image-asset.png", "images/cf8d93de-image-asset.png"]
 ---
 # Here's to reaching more Alaskan Natives in 2016!
 
@@ -19,7 +19,7 @@ Lutheran Indian Ministries is excited to be growing and reaching more Alaskan Na
 
 Rick McCafferty (Inupiaq) attended the LIM staff retreat last January, as a guest of David Sternbeck, and shared with us the work he had been doing in Anchorage with Alaska Native and American Indian men. Now, we’re thrilled to have him officially on our staff!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781835161-OFEIK8CVXR4L7LUJ44GL/image-asset.png)
+![](images/b126752f-image-asset.png)
 
 Rick and his wife, Jane, enjoy spending time with their 6 grandchildren! (2 grandsons not puctured)
 
@@ -33,7 +33,7 @@ In a similar role, for twelve years, Rick has worked with Anchorage’s homeless
 
 For programs like Rick’s to succeed, they need to be based on solid relationships. “These people don’t want another program,” Rick explains. “They want a friend. They want someone they know they can rely on and who can help them help their community and their people.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781889506-X1GOFQP38XLLE7Z8AU6S/image-asset.png)
+![](images/cf8d93de-image-asset.png)
 
 So while he works on forming the base program, he continues to reach out and build relationships with leaders and organizations in rural communities, like a woman he met in the 300-person village of Tanana.
 

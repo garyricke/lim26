@@ -5,7 +5,7 @@ date: 2020-05-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/he-is-risen-indeed
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b00a3a0e056026254055/1748628700852/f59ca671e68fcdcc5bc3f29c1e0531d3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773580251-SEUTOH28TQ4MM0CBBPHM/image-asset.jpeg", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/7d9c6eb2-f59ca671e68fcdcc5bc3f29c1e0531d3.jpg", "images/1ee817d1-image-asset.jpeg", "images/6ac51f52-pixel.gif"]
 ---
 # He is Risen Indeed!
 
@@ -13,7 +13,7 @@ May 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773580251-SEUTOH28TQ4MM0CBBPHM/image-asset.jpeg)
+![](images/1ee817d1-image-asset.jpeg)
 
 ### I know that my Redeemer lives; what comfort this sweet sentence gives! He lives, He lives, who once was dead; He lives, my everliving Head.” -”I Know That My Redeemer Lives” Written by Samuel Medley
 
@@ -64,7 +64,7 @@ Executive Director
 
 ### P.S. “Oh, the sweet joy this sentence gives, I know that my Redeemer lives!”  This is the message our missionaries share each and every day with the Native people they serve.  Thank you for your gift, which is making an impact for eternity, especially during these times.
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

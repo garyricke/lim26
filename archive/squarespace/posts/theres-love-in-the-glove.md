@@ -5,7 +5,7 @@ date: 2017-08-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/theres-love-in-the-glove
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf5460d4ef62def9f6a9/1748628700852/mittens-2111853_960_720.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777493706-E6N9U9IDTOICYP8LTFFT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777494874-CJ2UDSYLR6WW8721U9GB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777495900-7K67YQDV2P2WFZ3I2QXP/image-asset.jpeg"]
+images: ["images/defe01e2-mittens-2111853_960_720.jpg", "images/8675d610-image-asset.jpeg", "images/548918e4-image-asset.jpeg", "images/d56c0580-image-asset.jpeg"]
 ---
 # There's Love in the Glove
 
@@ -19,7 +19,7 @@ For most people, August is a time for vacation. Whether your long summer days ar
 
 When the sun is shining and the mercury is up, the furthest thing from our minds is the cold winds of winter. But on the Olympic Peninsula in Washington, Tom and Cathy Benzler are stocking up on winter items.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777493706-E6N9U9IDTOICYP8LTFFT/image-asset.jpeg)
+![](images/8675d610-image-asset.jpeg)
 
 "I know it's hard to think about winter when you're sweating," Cathy explained. "But it won't be long before the seasons change, and after last year's cold winter, we want to be extra prepared for the needs of our local Native brothers and sisters."
 
@@ -33,7 +33,7 @@ Cathy went to the post office one day to find an unexpected package waiting for 
 
 A few weeks later, after a weekly Bible study on the Lower Elwha Reservation, one woman, who regularly attended the meetings, approached Cathy and asked for prayers. This woman had recently taken over the care of multiple nieces and nephews. It was a hard situation for everyone involved, and she was trying to provide for the children as best she could. She asked if Cathy could pray about her situation.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777494874-CJ2UDSYLR6WW8721U9GB/image-asset.jpeg)
+![](images/548918e4-image-asset.jpeg)
 
 As they were praying through the many prayers for the children and their parents, the woman asked that somehow God would provide the winter coats that the children desperately needed, as the weather had just begun to shift. Cathy was reminded of the coats that sat in the corner of the shed.
 
@@ -47,7 +47,7 @@ God had answered her prayer before she even asked.
 
 Cathy continued, "People will often ask me, 'What do you need?' And unless we're in the middle of a specific drive, I don't know what to tell them. There are certain things we always need (please no outdated food!), but most of the time, we don't know what people will ask for. I tell individuals and groups to pray about it. God will lay a specific item on their hearts, and chances are good we'll need it. We've received some of the most random things, and within a month, someone is asking for it. **God knows what he's doing!**"
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777495900-7K67YQDV2P2WFZ3I2QXP/image-asset.jpeg)
+![](images/d56c0580-image-asset.jpeg)
 
 For now, the Hope House needs gloves and mittens. So, wipe the sweat off your brow, step into that nice, air-conditioned store, and help **provide love to the Native people of the Olympic Peninsula in the shape of a glove.**
 

@@ -5,7 +5,7 @@ date: 2020-03-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/montana-healing-project
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0a408aace6ebba579bb/1748628700852/i_will_praise_thee-101610.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773733590-PLHOE2IRMU8TIBM2EXJ4/image-asset.jpeg", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/1fbc6659-i_will_praise_thee-101610.jpg", "images/ab1be7ed-image-asset.jpeg", "images/6ac51f52-pixel.gif"]
 ---
 # Montana Healing Project
 
@@ -15,7 +15,7 @@ Mar 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773733590-PLHOE2IRMU8TIBM2EXJ4/image-asset.jpeg)
+![](images/ab1be7ed-image-asset.jpeg)
 
 ### I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well.
 
@@ -54,7 +54,7 @@ Executive Director
 
 ### P.S. We praise God that He made us fearfully and wonderfully. Your gift today will help our Montana team share that joy with our Native brothers and sisters. Thank you!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

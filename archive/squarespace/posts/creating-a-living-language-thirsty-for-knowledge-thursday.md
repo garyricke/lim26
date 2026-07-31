@@ -5,7 +5,7 @@ date: 2017-06-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/creating-a-living-language-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c01b35c9066700e1d970/1748628700852/maxresdefault.jpg"]
+images: ["images/1f9fbd49-maxresdefault.jpg"]
 ---
 # Creating a Living Language - Thirsty (for Knowledge) Thursday
 

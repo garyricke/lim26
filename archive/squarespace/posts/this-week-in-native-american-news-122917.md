@@ -5,7 +5,7 @@ date: 2017-12-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-122917
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd8887fb27609f6eec82/1748628700852/santa+in+st+michaels.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777033727-RLAY6LYHJ01EUXCED0MV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777035295-Y5AOU91U4VD5TUPYYY42/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777037112-VDV5VVRMJE5ZWS8K58NJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777038049-3IVJPM4UGEMQ43J9AGPZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777038978-436SB5130P7D9ITI5GL1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777041027-ILPF2A66LNF3PHV7EP6F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777041947-1339SN5EG95LMCNYUJT1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777043024-4WY8IYO819261MZ56NT2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777044313-SSRRFEAYLT6SPSGX95SU/image-asset.jpeg"]
+images: ["images/c84fa388-santa_in_st_michaels.jpg", "images/832ae6c0-image-asset.jpeg", "images/daf2d510-image-asset.jpeg", "images/4743b9bc-image-asset.jpeg", "images/80879e9d-image-asset.jpeg", "images/b4f717f8-image-asset.jpeg", "images/d21a3550-image-asset.jpeg", "images/0b961298-image-asset.jpeg", "images/88bbd9d7-image-asset.jpeg", "images/e7d5ce05-image-asset.jpeg"]
 ---
 # This Week in Native American News (12/29/17): a new take on courts, urban natives, and facebook mistakes
 
@@ -13,7 +13,7 @@ Dec 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777033727-RLAY6LYHJ01EUXCED0MV/image-asset.jpeg)
+![](images/832ae6c0-image-asset.jpeg)
 
 # December 29, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great people doing great things: Tribal courts offer judicial alternatives
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777035295-Y5AOU91U4VD5TUPYYY42/image-asset.jpeg)
+![](images/daf2d510-image-asset.jpeg)
 
 Judge Abby Abinanti. Photo credit: Yurok Tribe
 
@@ -57,7 +57,7 @@ Ultimately, Abinanti issued the restraining order. But she also made an offer to
 
 ## exploring Native linguistic contributions to American literature
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777037112-VDV5VVRMJE5ZWS8K58NJ/image-asset.jpeg)
+![](images/4743b9bc-image-asset.jpeg)
 
 Sarah Rivett. Photo by: Sameer A. Khan/Fotobuddy
 
@@ -79,7 +79,7 @@ Rivett explains:
 
 ## Cultural identity a challenge for urban native Americans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777038049-3IVJPM4UGEMQ43J9AGPZ/image-asset.jpeg)
+![](images/80879e9d-image-asset.jpeg)
 
 Tribal elder Bill Tucker walks past a reconstructed umacha, a Native American dwelling made of cedar bark, at the Wahhoga village under construction in Yosemite Valley, Nov. 30, 2017. Photo credit: JOHN WALKER
 
@@ -101,7 +101,7 @@ Connecting Native students with each other can be especially important in an urb
 
 ## You might also enjoy...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777038978-436SB5130P7D9ITI5GL1/image-asset.jpeg)
+![](images/b4f717f8-image-asset.jpeg)
 
 ### [Facebook apologizes for blocking Sealskin crafts](http://www.cbc.ca/news/canada/north/facebook-sealskin-blocked-posts-1.4465374)
 
@@ -109,25 +109,25 @@ An update caused posts with the words "fur" or "skin" to be rejected by Facebook
 
 ### ALSO: [a Facebook group formed to find and expose fraudulent imitations of Indigenous artists](http://www.cbc.ca/news/canada/british-columbia/fradulent-north-coast-indigenous-art-1.4459523)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777041027-ILPF2A66LNF3PHV7EP6F/image-asset.jpeg)
+![](images/d21a3550-image-asset.jpeg)
 
 ### [Clothing maker inspired by her Native roots.](http://www.corvallisadvocate.com/2017/clothing-maker-inspired-native-american-heritage/)
 
  Inspired by hardworking parents, Sydelle Harrison loves to push herself further – as a mother, graduate student, and as the founder and creator of clothing inspired by her own Native American roots, [Kanaine](http://www.etsy.com/shop/kanaine).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777041947-1339SN5EG95LMCNYUJT1/image-asset.jpeg)
+![](images/0b961298-image-asset.jpeg)
 
 ### [Jim thorpe to fill the back of the 2018 native american dollar.](https://www.coinworld.com/news/us-coins/2017/12/jim-thorpe-graces-native-american-dollar-reverse.all.html)
 
 The 2018 reverse design depicts [Jim Thorpe](https://en.wikipedia.org/wiki/Jim_Thorpe), with the foreground elements highlighting his football and Olympic achievements. Inscriptions are JIM THORPE, WA-THO-HUK (Thorpe's Sac and Fox tribe name), UNITED STATES OF AMERICA, and $1. United States Mint Sculptor-Engraver Michael Gaudioso created the design.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777043024-4WY8IYO819261MZ56NT2/image-asset.jpeg)
+![](images/88bbd9d7-image-asset.jpeg)
 
 ### [Navajo intend to tell their own story with a new Navajo Code Talkers movie.](http://www.daily-times.com/story/news/local/navajo-nation/2017/12/24/shiprock-filmmaker-plans-navajo-code-talkers-film/978617001/)
 
 Dayish and his siblings, who comprise the Kody Dayish Productions, have wanted to do a code talkers movie since they got into the film business in 2010. Enter: Unbroken Code (Auditions starting soon!)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777044313-SSRRFEAYLT6SPSGX95SU/image-asset.jpeg)
+![](images/e7d5ce05-image-asset.jpeg)
 
 ### finally, Something to ponder over your long weekend: [An anthropologist tells the secrets of cultural appropriation](https://fabiusmaximus.com/2017/12/28/maximilian-forte-and-cultural-appropriation/)
 

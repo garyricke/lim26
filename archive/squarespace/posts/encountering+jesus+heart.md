@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/encountering+jesus+heart
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773996540-MIXVMROQQEYYJJO4TV7Y/share-your-testimony.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774010525-ZJVJ6636Q52HS4MJT45E/download.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774057884-5SJ7WARQ9Q56WVXYHY3B/750_HUNGRYFORGOD-01.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774085246-XE229E4F4NVPBN29CU84/broken-heart-ftr.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774099935-S4T1IHU9IT533T4YA6N2/image-asset.jpeg"]
+images: ["images/5b835449-share-your-testimony.jpg", "images/6b2ac10a-download.png", "images/a8e4af7e-750_HUNGRYFORGOD-01.jpg", "images/a83f851b-broken-heart-ftr.jpg", "images/97c66247-image-asset.jpeg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![A New Story - Monday Morning Devotions (Week 5)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773996540-MIXVMROQQEYYJJO4TV7Y/share-your-testimony.jpg)](/news-notes/a-new-story-monday-morning-devotions-week-5)
+[![A New Story - Monday Morning Devotions (Week 5)](images/5b835449-share-your-testimony.jpg)](/news-notes/a-new-story-monday-morning-devotions-week-5)
 
 Guest User
 11/18/19
@@ -73,7 +73,7 @@ Your story is powerful. A simple testimony can lead many to encounter Jesus. Ste
 
 [Read More](/news-notes/a-new-story-monday-morning-devotions-week-5)
 
-[![You are Qualified to Love &amp; Be Loved - Monday Morning Devotions (Week 4)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774010525-ZJVJ6636Q52HS4MJT45E/download.png)](/news-notes/you-are-qualified-to-love-monday-morning-devotions-week-4)
+[![You are Qualified to Love &amp; Be Loved - Monday Morning Devotions (Week 4)](images/6b2ac10a-download.png)](/news-notes/you-are-qualified-to-love-monday-morning-devotions-week-4)
 
 Guest User
 11/11/19
@@ -87,7 +87,7 @@ It doesn’t matter what you’ve done in the past. There is living water pourin
 
 [Read More](/news-notes/you-are-qualified-to-love-monday-morning-devotions-week-4)
 
-[![The Hope of New Life - Monday Morning Devotions (Week 3)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774057884-5SJ7WARQ9Q56WVXYHY3B/750_HUNGRYFORGOD-01.jpg)](/news-notes/the-hope-of-new-life-monday-morning-devotions-week-3)
+[![The Hope of New Life - Monday Morning Devotions (Week 3)](images/a8e4af7e-750_HUNGRYFORGOD-01.jpg)](/news-notes/the-hope-of-new-life-monday-morning-devotions-week-3)
 
 Guest User
 11/4/19
@@ -101,7 +101,7 @@ Jesus took the time to encounter people where they were. He went to their towns,
 
 [Read More](/news-notes/the-hope-of-new-life-monday-morning-devotions-week-3)
 
-[![Pursue the Broken - Monday Morning Devotions (Week 2)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774085246-XE229E4F4NVPBN29CU84/broken-heart-ftr.jpg)](/news-notes/pursue-the-broken-monday-morning-devotions-week-2)
+[![Pursue the Broken - Monday Morning Devotions (Week 2)](images/a83f851b-broken-heart-ftr.jpg)](/news-notes/pursue-the-broken-monday-morning-devotions-week-2)
 
 Guest User
 10/28/19
@@ -115,7 +115,7 @@ One word, born of compassion, can change someone’s life forever.
 
 [Read More](/news-notes/pursue-the-broken-monday-morning-devotions-week-2)
 
-[![Encountering Jesus' Heart - Monday Morning Devotions (Week 1)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774099935-S4T1IHU9IT533T4YA6N2/image-asset.jpeg)](/news-notes/encountering-jesus-heart-monday-morning-devotions-week-1)
+[![Encountering Jesus' Heart - Monday Morning Devotions (Week 1)](images/97c66247-image-asset.jpeg)](/news-notes/encountering-jesus-heart-monday-morning-devotions-week-1)
 
 Guest User
 10/21/19

@@ -5,7 +5,7 @@ date: 2017-01-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/louder-than-thunder
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c3d34505c216efabec52/1748628700852/img_9994.jpg"]
+images: ["images/d1e24eac-img_9994.jpg"]
 ---
 # Louder than Thunder - Thirsty (for Knowledge) Thursday
 

@@ -5,7 +5,7 @@ date: 2016-05-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-rising-smoke
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cae08cefcd5f5093732d/1748628700852/competitors_in_line_for_mens_fancy_special.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780450952-IXR2JCD24Z1I8N8OJPQP/image-asset.jpeg"]
+images: ["images/8d1c0a3e-competitors_in_line_for_mens_fancy_special.jpg", "images/ba8f515f-image-asset.jpeg"]
 ---
 # The Rising Smoke: the Growing Smokehouse Religion
 
@@ -23,7 +23,7 @@ Native people look to a variety of avenues to escape the hardships. Some turn to
 
 This return to the old ways has merit. Traditionally, Native Americans were family-focused. Men provided for their families, and children were taught to respect the wisdom of their elders.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780450952-IXR2JCD24Z1I8N8OJPQP/image-asset.jpeg)
+![](images/ba8f515f-image-asset.jpeg)
 
 However, in an attempt to return to their culture, some Native Americans are, instead, finding the Smokehouse Religion.
 

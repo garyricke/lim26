@@ -5,7 +5,7 @@ date: 2020-05-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/dangerous-prayers-week-3-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b01374e2e152553fd4b2/1748628700852/DP_SplashPage_TitleandLogo-copy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773589151-Z4MZY31K9G9O9KK3LMEA/image-asset.png"]
+images: ["images/d4690a48-DP_SplashPage_TitleandLogo-copy.jpg", "images/68659721-image-asset.png"]
 ---
 # Search Me: Week 3 - Monday Morning Devotions
 
@@ -13,7 +13,7 @@ May 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773589151-Z4MZY31K9G9O9KK3LMEA/image-asset.png)
+![](images/68659721-image-asset.png)
 
 In this crazy time, let’s refocus on God and the power of prayer. Join us for the next 7 weeks as we dive into Craig Groeschel’s “Dangerous Prayer: Following Jesus was Never Meant to be Safe” devotion series.
 

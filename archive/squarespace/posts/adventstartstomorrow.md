@@ -5,7 +5,7 @@ date: 2020-11-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/adventstartstomorrow
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af0d981ba40c2a9954fd/1748628700852/Copy+of+the+Sovereign+LORD+will+make+righteousness+and+praise+spring+up+before+all+nations..png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773328145-3VC5RBQ6YJ6RKBEOVBGO/image-asset.png"]
+images: ["images/26afad99-Copy_of_the_Sovereign_LORD_will_make_righteousness_and_praise_spring_up_before_all_nations..png", "images/57727fc6-image-asset.png"]
 ---
 # Advent Starts Tomorrow (Advent 2020)
 
@@ -13,7 +13,7 @@ Nov 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773328145-3VC5RBQ6YJ6RKBEOVBGO/image-asset.png)
+![](images/57727fc6-image-asset.png)
 
 During this season of anticipation for the birth of our Lord, Jesus, and his glorious return, we offer you 26 Advent devotions. Starting tomorrow and lasting until the New Year, we hope you will enjoy these devotions, written by our LIM ministry staff, and that they will cause praise and love to spring up in your heart this joyous season.
 

@@ -5,7 +5,7 @@ date: 2017-07-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-focus-on-native-hawaiians
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfc22c1738665e711e56/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777603024-RO6U4SQLW60FQHQ7TZ6S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777604651-NL0AZ0M2FMUDPFYARJ5I/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777605582-KOLIQVOH2KN7MTEX96Y8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777607340-WHJMP3PSYQRUM4B25GDS/image-asset.jpeg"]
+images: ["images/61211f6f-1748628700852", "images/446feed4-image-asset.jpeg", "images/4872f3be-image-asset.jpeg", "images/e9e2ae52-image-asset.jpeg", "images/5ea0d61e-image-asset.jpeg"]
 ---
 # A Focus on Native Hawaiians: Proclaim, Disciple, Heal
 
@@ -15,7 +15,7 @@ Jul 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777603024-RO6U4SQLW60FQHQ7TZ6S/image-asset.jpeg)
+![](images/446feed4-image-asset.jpeg)
 
 [Clarence DeLude](/hawaii), now halfway through his theological training at Concordia - Irvine, has big plans for his fellow Hawaiians. His goal: to *spread the hope of* *Christ* across the islands.
 
@@ -41,7 +41,7 @@ As a former teacher and school administrator, Clarence has a big heart for the N
 
 Last year, he helped his church, Trinity Lutheran in Wahiawa, to [hold their first vacation bible school, after many years without a program.](https://www.lutheranindianministries.org/news/category/a-beautiful-blending-of-hawaii-and-the-bible-summer-vbs-at-trinity?rq=hawaiian) But he wasn't satisfied with simply inviting the children and youth of the church. Instead, he orchestrated a series of prayer walks around the surrounding communities inviting and encouraging local Native families to attend. It was wonderfully successful.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777604651-NL0AZ0M2FMUDPFYARJ5I/image-asset.jpeg)
+![](images/4872f3be-image-asset.jpeg)
 
 This year, VBS will be held again, thanks to volunteers from the church and community. Many non-Native churches have stepped up to provide volunteers, food, and supplies. Next year, however, Clarence imagines an even bigger event.
 
@@ -51,7 +51,7 @@ Taking this a step further, and based on [the success of LIM's Teen Camp-Fairban
 
 Beyond this, Clarence wants to help the Hawaiian (and Non-Hawaiian) to proclaim to others.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777605582-KOLIQVOH2KN7MTEX96Y8/image-asset.jpeg)
+![](images/e9e2ae52-image-asset.jpeg)
 
 Several years ago, Clarence accompanied his brother-in-law, [Tim Norton](/new-mexico), on a cross-cultural trip to Alaska. Natives and non-Natives alike came together, from New Mexico and Hawaii, in the remote areas of Alaska [to share the love of Jesus with the Alaska Native people of](https://www.lutheranindianministries.org/news/hawaiioahu/summer-of-connections) [Old Minto](https://www.lutheranindianministries.org/news/hawaiioahu/summer-of-connections).
 
@@ -67,7 +67,7 @@ There are a plethora of materials available to pastors and church leaders that a
 
 He has already begun work on translating Luther's Small Catechism into Hawaiian and wants to expand into various Bible study curriculums. Likewise, he is encouraging Native ministers to do the same in their own Native tongue.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777607340-WHJMP3PSYQRUM4B25GDS/image-asset.jpeg)
+![](images/5ea0d61e-image-asset.jpeg)
 
 Clarence is also involved in the regrowth of Native Hawaiian house churches and sees the need for theological and leadership training for leaders within the communities.
 

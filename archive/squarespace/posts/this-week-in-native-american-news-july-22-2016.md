@@ -5,7 +5,7 @@ date: 2016-07-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-july-22-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c810d4f91c6c1d6b1869/1748628700852/cave-art-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779730902-74PLLDECXJPI8U3FPQ1S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779751378-BVG7NV6GSUF797EFQ8JJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779756969-R1NBYVYJHPYE164U6RMG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779761655-YV9HYM1X7Q2UK71EFCZ7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779766901-WD7KMJ6XNLYGU13645EU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779769631-MUUJ3ADRHXKIC00FKD10/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779771532-5QNHZRAU1E4DVX04JRCC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779775200-ZP5MAEDT9CRGY4I1XMK7/image-asset.jpeg"]
+images: ["images/c2c6e745-cave-art-3.jpg", "images/97bba135-image-asset.jpeg", "images/1106b78e-image-asset.jpeg", "images/8da11583-image-asset.jpeg", "images/7f98bf75-image-asset.jpeg", "images/ad1d3556-image-asset.jpeg", "images/24ed6932-image-asset.jpeg", "images/ecde2a44-image-asset.jpeg", "images/7b823a7b-image-asset.jpeg"]
 ---
 # This Week in Native American News - July 22, 2016
 
@@ -13,13 +13,13 @@ Jul 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779730902-74PLLDECXJPI8U3FPQ1S/image-asset.jpeg)
+![](images/97bba135-image-asset.jpeg)
 
 ---
 
 ### Lawsuit Claims Natives Illegally Jailed in a Pre-Rodeo Sweep
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779751378-BVG7NV6GSUF797EFQ8JJ/image-asset.jpeg)
+![](images/1106b78e-image-asset.jpeg)
 
 Photo credit: Brigette Supernova/The Daily Beast
 
@@ -33,7 +33,7 @@ Nobody died on the night in question, but the lawsuit claims that multiple peopl
 
 ### Native Communities Take Stand Against Alcohol Abuse
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779756969-R1NBYVYJHPYE164U6RMG/image-asset.jpeg)
+![](images/8da11583-image-asset.jpeg)
 
 Multiple groups came together on July 17, 2016 for the 2nd Annual Native American Walk for  Sobriety in Richmond, California. Fifity participants walked in this year's event which focuses on both Native American issues, but also the overall alcohol-use in Richmond.
 
@@ -43,7 +43,7 @@ One highlighted speaker, Connie Reitman, executive director of Inter-Tribal Coun
 
 ### British Museum Finds New Evidence of First Contacts in Caribbean Cave
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779761655-YV9HYM1X7Q2UK71EFCZ7/image-asset.jpeg)
+![](images/7f98bf75-image-asset.jpeg)
 
 Photo Credit: Antiquity Publications Ltd.
 
@@ -57,7 +57,7 @@ Mona is one of the most cavernous regions, per square mile, in the world. And it
 
 ### University of Hawaii Students to Launch Online Catalog of Historic Newspapers
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779766901-WD7KMJ6XNLYGU13645EU/image-asset.jpeg)
+![](images/ad1d3556-image-asset.jpeg)
 
 Photo Credit: University of Hawai'i
 
@@ -69,15 +69,15 @@ Beginning in 1834, news began to circulate on paper, versus the traditional oral
 
 ### In Medical News:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779769631-MUUJ3ADRHXKIC00FKD10/image-asset.jpeg)
+![](images/24ed6932-image-asset.jpeg)
 
 Vancouver Island's Cowichan Tribe are testing a new electronic health record system, created by the First Nation's own technology company, that the government hopes to expand to the entire province. [Read more here.](http://www.cbc.ca/news/canada/british-columbia/cowichan-tribes-health-1.3686313)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779771532-5QNHZRAU1E4DVX04JRCC/image-asset.jpeg)
+![](images/ecde2a44-image-asset.jpeg)
 
 The Eastern Shoshone and Northern Arapahoe of Wind River Reservation in Wyoming are working together to stem the suicide epidemic through a program called: Horse Culture Program. The two tribes have a long history with horses and have found that the connection to the animal and their Native culture have helped to keep suicide rates down in their area. [Read more here.](http://wyomingpublicmedia.org/post/using-horse-traditions-reduce-teen-suicide-wind-river-reservation)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779775200-ZP5MAEDT9CRGY4I1XMK7/image-asset.jpeg)
+![](images/7b823a7b-image-asset.jpeg)
 
 Meager IHS (Indian Health Service) budgets and lack of preventative care finds Natives diagnosed with late stage cancers and little hope of survival. The problem could be considered a treaty violation, and Native leaders are trying to change it. [Read more here.](http://europe.newsweek.com/colorectal-cancer-indian-health-services-native-americans-481524)
 

@@ -5,7 +5,7 @@ date: 2016-02-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/an-attitude-of-humility-philippians-25-6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cffac80d8e781ecb9bd9/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781756178-G09VW2O2ZSE9CNBCJGDL/image-asset.jpeg"]
+images: ["images/9da214a3-1748628700852", "images/5c028c8d-image-asset.jpeg"]
 ---
 # An Attitude of Humility - Philippians 2:5-6
 
@@ -15,7 +15,7 @@ Feb 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781756178-G09VW2O2ZSE9CNBCJGDL/image-asset.jpeg)
+![](images/5c028c8d-image-asset.jpeg)
 
 **Tuesday, February 16**
 

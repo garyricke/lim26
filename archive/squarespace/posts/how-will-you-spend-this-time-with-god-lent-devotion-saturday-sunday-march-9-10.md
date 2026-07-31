@@ -5,7 +5,7 @@ date: 2019-03-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/how-will-you-spend-this-time-with-god-lent-devotion-saturday-sunday-march-9-10
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b62d927b1145206fcaaf/1748628700852/2019+lent+devotion+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775150983-YW6IXY2E3TU6U0VJDTPJ/image-asset.jpeg"]
+images: ["images/22c6e03d-2019_lent_devotion_cover.jpg", "images/77bef8f5-image-asset.jpeg"]
 ---
 # How will you spend this time with god? (Lent Devotion) - Saturday & Sunday, March 9 & 10
 
@@ -13,7 +13,7 @@ Mar 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775150983-YW6IXY2E3TU6U0VJDTPJ/image-asset.jpeg)
+![](images/77bef8f5-image-asset.jpeg)
 
 # What do we value?
 

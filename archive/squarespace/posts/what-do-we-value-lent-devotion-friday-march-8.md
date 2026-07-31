@@ -5,7 +5,7 @@ date: 2019-03-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-do-we-value-lent-devotion-friday-march-8
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6415e620c411e9ece0a/1748628700852/Mt11.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775171030-DBSIVWVWNZB5GL9FUJLI/image-asset.jpeg"]
+images: ["images/f0c00c8f-Mt11.jpg", "images/ed28cfee-image-asset.jpeg"]
 ---
 # What do we value? (Lent Devotion) - Friday, March 8
 
@@ -13,7 +13,7 @@ Mar 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775171030-DBSIVWVWNZB5GL9FUJLI/image-asset.jpeg)
+![](images/ed28cfee-image-asset.jpeg)
 
 # What do we value?
 

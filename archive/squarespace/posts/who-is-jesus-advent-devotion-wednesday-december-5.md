@@ -5,7 +5,7 @@ date: 2018-12-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/who-is-jesus-advent-devotion-wednesday-december-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b789c9a5633813c240b6/1748628700852/unnamed-12.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775498230-MA5JN2EK7K2X09V172QA/image-asset.png"]
+images: ["images/5b129818-unnamed-12.jpg", "images/16150404-image-asset.png"]
 ---
 # Who is Jesus? (Advent Devotion) - Wednesday, December 5
 
@@ -13,7 +13,7 @@ Dec 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775498230-MA5JN2EK7K2X09V172QA/image-asset.png)
+![](images/16150404-image-asset.png)
 
 ## Let the little children come to me and do not hinder them, for the kingdom of heaven belongs to such as these. (Matthew 19:14 NIV)
 

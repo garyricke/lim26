@@ -5,7 +5,7 @@ date: 2017-07-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/big-dreams-faith-for-the-reservations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfe0c383b522978e0a28/1748628700852/tumblr_oa24w5LOwD1rhr6kfo1_500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777633750-Z4621DQ4YYV2TUFYPUQM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777634897-3NX6XUFCZQ1BA503T9FH/image-asset.jpeg"]
+images: ["images/28710646-tumblr_oa24w5LOwD1rhr6kfo1_500.jpg", "images/9b7bd6c5-image-asset.jpeg", "images/83e34649-image-asset.jpeg"]
 ---
 # Big Dreams: Faith for the Reservations, Devo 4 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jul 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777633750-Z4621DQ4YYV2TUFYPUQM/image-asset.jpeg)
+![](images/9b7bd6c5-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -43,7 +43,7 @@ We have been given the authority to pray for community-wide revival.
 
 Through the preaching of the Gospel and Baptism, the Holy Spirit calls and gathers believers to Christ and His Church. The Spirit is working among people of every nation and language. For this reason, we pray for the continued outpouring of the Spirit and for the fulfillment of His sanctifying work.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777634897-3NX6XUFCZQ1BA503T9FH/image-asset.jpeg)
+![](images/83e34649-image-asset.jpeg)
 
 But, there will be obstacles.
 

@@ -5,7 +5,7 @@ date: 2018-06-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-060118
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8c1cb88a56680b03249/1748628700852/01-ataumbi-metals.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775809823-TBDDGUHLSRZO7NHDKTWS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775811162-TKRIUEE30EVIL2Z93S4H/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775811982-MIVFDR03BERDV9XTMKC1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775813025-XGOO0B8GRMXN6UIQ3I8S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775813978-ZCC9LGY2FEF4AMF1G5CR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775815126-YI0TLIPU39S3E1NV9U4B/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775815946-JGSNI1DTFYS7HFX7PQCD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775816883-R9RA5KI6E117T8AYKJRH/image-asset.jpeg"]
+images: ["images/5367ea58-01-ataumbi-metals.jpg", "images/afd12021-image-asset.jpeg", "images/b71b617f-image-asset.jpeg", "images/ae8fae32-image-asset.jpeg", "images/f2856dd5-image-asset.jpeg", "images/2690a1db-image-asset.jpeg", "images/1992e6fa-image-asset.jpeg", "images/5c65f032-image-asset.jpeg", "images/17a84a43-image-asset.jpeg"]
 ---
 # This Week in Native American News (6/1/18): Correcting inaccurate narratives, celebrating Hawaii, and admiring Indigenous designs
 
@@ -13,7 +13,7 @@ Jun 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775809823-TBDDGUHLSRZO7NHDKTWS/image-asset.jpeg)
+![](images/afd12021-image-asset.jpeg)
 
 # June 1, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Native American Photographers Unite to Challenge Inaccurate Narratives
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775811162-TKRIUEE30EVIL2Z93S4H/image-asset.jpeg)
+![](images/b71b617f-image-asset.jpeg)
 
 Thousands of veterans and supporters gathered near the Oceti Sakowin Camp for the veterans march in December 2016.CreditTailyr Irvine
 
@@ -41,7 +41,7 @@ Ms. Irvine is a member of the Salish and Kootenai tribes who was born and raised
 
 ## How three generations of Alaska Natives struggled with cultural education
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775811982-MIVFDR03BERDV9XTMKC1/image-asset.jpeg)
+![](images/ae8fae32-image-asset.jpeg)
 
 Gambell, Alaska, is on St. Lawrence Island in the Bering Sea. On clear days, Siberia is visible in the distance. People have lived on the island for thousands of years and developed subsistence hunting strategies and traditions that are still being passed down. (Photo by Kiliii Yuyan for NPR)
 
@@ -59,7 +59,7 @@ But things were changing. Earlier in the century, missionaries had made it to th
 
 ## Land, Loss And Love: The Toll Of Westernization On Native Hawaiians
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775813025-XGOO0B8GRMXN6UIQ3I8S/image-asset.jpeg)
+![](images/f2856dd5-image-asset.jpeg)
 
 Hawaiian beach. ART WAGER VIA GETTY IMAGES
 
@@ -73,7 +73,7 @@ Young says that Native Hawaiians are especially vulnerable in Hawaii’s current
 
 ## You might also be interested in...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775813978-ZCC9LGY2FEF4AMF1G5CR/image-asset.jpeg)
+![](images/2690a1db-image-asset.jpeg)
 
 “View of Karakakooa in Owhyhee,” drawn by John Webber and engraved by W. Byrne. The drawing is part of the “James Cook: The Voyages” exhibit at The British Library in London.
 
@@ -91,7 +91,7 @@ This year is the 250th anniversary of Captain Cook embarking on his voyages of d
 
 ## How 6 Indigenous Designers Are Using Fashion to Reclaim Their Culture
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775815126-YI0TLIPU39S3E1NV9U4B/image-asset.jpeg)
+![](images/1992e6fa-image-asset.jpeg)
 
 **Keri Ataumbi****Label:** Ataumbi Metals  **Tribe:** Kiowa  **Based in:** Santa Fe, New Mexico
 
@@ -105,7 +105,7 @@ These unique designers hail from a variety of distinctive tribes, from Ojibwe to
 
 ## Your Weekly History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775815946-JGSNI1DTFYS7HFX7PQCD/image-asset.jpeg)
+![](images/5c65f032-image-asset.jpeg)
 
 Pipeline "man camp" (Jon Lowenstein/NOOR/REDUX)
 
@@ -115,7 +115,7 @@ These incredible photographs were colorized by British colorization specialist R
   
 In 1924, the Indian Citizenship Act was proposed by Representative Homer P. Snyder and signed by President Calvin Coolidge, meaning the indigenous peoples including the Native American tribe, also known as Native Indians, were granted full U.S. citizenship.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775816883-R9RA5KI6E117T8AYKJRH/image-asset.jpeg)
+![](images/17a84a43-image-asset.jpeg)
 
 ### [This Ancient Rock Art Does Something Incredible Every Summer Solstice](http://www.iflscience.com/editors-blog/this-ancient-rock-art-does-something-incredible-every-summer-solstice/)
 

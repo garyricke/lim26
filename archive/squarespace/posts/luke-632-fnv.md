@@ -5,7 +5,7 @@ date: 2017-11-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-632-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be5d748b2274c9676717/1748628700852/-Here+is+another+way+to+see+what+I+am+saying-+Help+others+in+the+same+way+you+would+want+them+to+help+you.-Luke+6-31+FNV+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777247085-GKE2AZH57HCRXO9B8OYF/image-asset.png"]
+images: ["images/f02aad71--Here_is_another_way_to_see_what_I_am_saying-_Help_others_in_the_same_way_you_would_want_them_to_help_you.-Luke_6-31_FNV", "images/bcfdc25a-image-asset.png"]
 ---
 # Luke 6:32-34 FNV
 
@@ -13,7 +13,7 @@ Nov 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777247085-GKE2AZH57HCRXO9B8OYF/image-asset.png)
+![](images/bcfdc25a-image-asset.png)
 
 There are three manners of return, as Augustine - quoted by Archbishop Trench in his 'Exposition of the Sermon on the Mount' - observes, which men may make one to another: the returning **good for good** and **evil for evil**, - this is the ordinary rule of man; then beneath this there is the returning of **evil for good**, which is devilish; while above it there is the returning of **good for evil**, which is Divine, - and this is what is commanded for the followers of Jesus here.
 

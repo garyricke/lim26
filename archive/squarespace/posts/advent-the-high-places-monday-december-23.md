@@ -5,7 +5,7 @@ date: 2019-12-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-the-high-places-monday-december-23
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b163a9daa70a35495cce/1748628700852/569571f61b546fec17fd0a1f1e27854f--hebrew-bible-bible-scriptures.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773924855-EFWU5MDX5JJ23HILUNTI/image-asset.png"]
+images: ["images/bea25fa8-569571f61b546fec17fd0a1f1e27854f--hebrew-bible-bible-scriptures.jpg", "images/9bc77c99-image-asset.png"]
 ---
 # Advent: the High Places - Monday, December 23
 
@@ -15,7 +15,7 @@ Dec 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773924855-EFWU5MDX5JJ23HILUNTI/image-asset.png)
+![](images/9bc77c99-image-asset.png)
 
 ### The people were sacrificing at the high places, however, because no house had yet been built for the name of the LORD.
 

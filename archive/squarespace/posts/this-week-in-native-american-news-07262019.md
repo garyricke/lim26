@@ -5,7 +5,7 @@ date: 2019-07-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-07262019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2b1a0971d66a913f430/1748628700852/basketball-or-nothing.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774259069-XGSW1J8PJBKQSUUIZV8K/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774260309-QM6EZEW8V4FVUFM1QVHZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774262311-QA9S7GFMX3XMPE7RT7PV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774264237-9V7BF4VH67LWB3F5V9P7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774266346-57D3XOLFWHMCQOF6TMSB/image-asset.png"]
+images: ["images/efdcc405-basketball-or-nothing.png", "images/c5c58942-image-asset.jpeg", "images/2534e1b0-image-asset.jpeg", "images/8738c3e2-image-asset.jpeg", "images/3cd61409-image-asset.jpeg", "images/4ec4ad9b-image-asset.png"]
 ---
 # This Week in Native American News (7/26/19): Speaking on Pain, Learning the History, and Watching Some Basketball
 
@@ -13,7 +13,7 @@ Jul 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774259069-XGSW1J8PJBKQSUUIZV8K/image-asset.jpeg)
+![](images/c5c58942-image-asset.jpeg)
 
 # July 26, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## 'Truth About Their History': Program Prepares Educators To Teach Native American Art, Culture
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774260309-QM6EZEW8V4FVUFM1QVHZ/image-asset.jpeg)
+![](images/2534e1b0-image-asset.jpeg)
 
 Teachers walk into the Phoenix Indian School Visitor Center on the second day of the three-day Teacher Institute. (*Mariana Dale/KJZZ)*
 
@@ -41,7 +41,7 @@ Jones was part of a group of more than two dozen educators who took part in the�
 
 ## ‘We are not defined by our wounds’: Speakers talk about trauma’s effects on Alaska Native people
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774262311-QA9S7GFMX3XMPE7RT7PV/image-asset.jpeg)
+![](images/8738c3e2-image-asset.jpeg)
 
 Brenda Thayer, a mental health counselor for SEARHC, speaks of trauma in Native communities during a speech at the Walter Soboleff Center on Tuesday, July 23, 2019. (Michael Penn | Juneau Empire)
 
@@ -59,7 +59,7 @@ The talk was a companion piece to an ongoing study SHI is involved with that is 
 
 ## This artist reimagines pop art with a Plains Indian perspective
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774264237-9V7BF4VH67LWB3F5V9P7/image-asset.jpeg)
+![](images/3cd61409-image-asset.jpeg)
 
 Oklahoma City-based artist Brent Learned, an enrolled member of the Cheyenne and Arapaho Tribes of Oklahoma, is known for his colorful, impressionistic portrayals of the Plains Indian way of life. He draws, sculpts, but mostly paints, in vibrant hues that belie the sometimes dark material he’s depicting.
 
@@ -73,7 +73,7 @@ As of late, Learned has experimented more with his work, putting the same Plains
 
 ## Watch This: Netflix Picks Up Navajo Basketball Docuseries
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774266346-57D3XOLFWHMCQOF6TMSB/image-asset.png)
+![](images/4ec4ad9b-image-asset.png)
 
 Netflix has picked up docu-series Basketball or Nothing, which comes from pro golfer Rickie Fowler’s Main Event Productions and independent production company WorkShop Content Studios.
 

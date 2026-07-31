@@ -5,7 +5,7 @@ date: 2020-11-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/dont-forget-about-thanksgiving
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af23a0971d66a91337a6/1748628700852/Copy+of+Generosity+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773349425-LR7FYP17TE068VUQ5H19/image-asset.png"]
+images: ["images/8ec9c0cc-Copy_of_Generosity__1_.png", "images/e216f1b5-image-asset.png"]
 ---
 # Don't forget about Thanksgiving! (Monday Morning Devotion)
 
@@ -13,7 +13,7 @@ Nov 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773349425-LR7FYP17TE068VUQ5H19/image-asset.png)
+![](images/e216f1b5-image-asset.png)
 
 **Advent starts on Sunday!**
 

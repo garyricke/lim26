@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/prayer
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775190378-UGW38I3MSI7XGWHTSTOR/devotion+title.jpg"]
+images: ["images/19fe2a87-devotion_title.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![The Power of Prayer - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775190378-UGW38I3MSI7XGWHTSTOR/devotion+title.jpg)](/news-notes/the-power-of-prayer-monday-morning-devotions)
+[![The Power of Prayer - Monday Morning Devotions](images/19fe2a87-devotion_title.jpg)](/news-notes/the-power-of-prayer-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

@@ -5,7 +5,7 @@ date: 2021-03-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-will-your-legacy-be-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae34b22757389e97f3c8/1748628700852/21+What+Will+Your+Legacy+Be.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773109129-GRV7F4S0LCK1DFXHCVOY/image-asset.jpeg"]
+images: ["images/1e9d2b2b-21_What_Will_Your_Legacy_Be.jpg", "images/9d466f87-image-asset.jpeg"]
 ---
 # What Will Your Legacy Be? (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773109129-GRV7F4S0LCK1DFXHCVOY/image-asset.jpeg)
+![](images/9d466f87-image-asset.jpeg)
 
 # “I HAVE FOUGHT THE GOOD FIGHT, I HAVE FINISHED THE RACE, I HAVE KEPT THE FAITH.” (2 TIMOTHY 4:7)
 

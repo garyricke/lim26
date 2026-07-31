@@ -5,7 +5,7 @@ date: 2018-04-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-bunny-is-gone-so-whats-next-devotion-4
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b91ed102823ae1a6cb9f/1748628700852/THE+BUNNY+IS+GONE%2CSO+WHAT%27S+NEXT_.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775902633-NTL2THQ6PFS7JZPV05FN/image-asset.png"]
+images: ["images/a854b36f-THE_BUNNY_IS_GONE_SO_WHAT_S_NEXT_.png", "images/4f8d84dd-image-asset.png"]
 ---
 # The Bunny is Gone, So What's Next? Devotion #4: Be Prepared - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Apr 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775902633-NTL2THQ6PFS7JZPV05FN/image-asset.png)
+![](images/4f8d84dd-image-asset.png)
 
 The Easter ham is gone. The hard-boiled egg shards scatter the floor. The Easter bunny has hopped on. So what do we do now? How do we continue to live in the joy of Easter?
 

@@ -5,7 +5,7 @@ date: 2018-11-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/gathering-to-give-thanks
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7b6d20efd47a96f7586/1748628700852/It%27s+like+a+bogo.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775543627-HUSLS9SHVD06P6QCQ2BR/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775544534-BG4QG4747BUDYQJA2Q6J/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/b566d058-It_s_like_a_bogo.png", "images/ad5b762c-image-asset.png", "images/6606143b-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Gathering to give thanks
 
@@ -13,7 +13,7 @@ Nov 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775543627-HUSLS9SHVD06P6QCQ2BR/image-asset.png)
+![](images/ad5b762c-image-asset.png)
 
 ## 
 
@@ -60,9 +60,9 @@ Your prompt response will be matched to provide twice the support for the hope a
 
 ### **Please consider a year-end gift today and your gift will be doubled thanks to a generous matching gift!**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775544534-BG4QG4747BUDYQJA2Q6J/image-asset.png)
+![](images/6606143b-image-asset.png)
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

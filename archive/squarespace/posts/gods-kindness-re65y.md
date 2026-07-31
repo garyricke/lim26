@@ -5,7 +5,7 @@ date: 2026-02-16
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/reflections/gods-kindness-re65y
 section: reflections
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/69934cc1ba2e7d15ef162a32/1771264263831/pastor-tony-5th-graders-question-hero-wide.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/4137c943-527c-40bc-b838-b1ce2c399da8/5th_grade_questions_thumb.jpg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/2867272f-pastor-tony-5th-graders-question-hero-wide.jpg", "images/d9164b92-5th_grade_questions_thumb.jpg", "images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # A 5th Grader's Big Question
 
@@ -15,7 +15,7 @@ Feb 16
 
 Written By [Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/4137c943-527c-40bc-b838-b1ce2c399da8/5th_grade_questions_thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/1165417789/rendition/540p/file.mp4%20%28540p%29.mp4?loc=external&log_user=0&signature=ef27f11bf30fb34b9494ef97b4384cfbf9e77fbe8e4b242bc2a440b7a71535e4)
+[![](images/d9164b92-5th_grade_questions_thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/1165417789/rendition/540p/file.mp4%20%28540p%29.mp4?loc=external&log_user=0&signature=ef27f11bf30fb34b9494ef97b4384cfbf9e77fbe8e4b242bc2a440b7a71535e4)
 
 ## Why Is Satan Still Around If Jesus Already Won?
 
@@ -150,6 +150,6 @@ Even when we don’t fully understand why Satan still causes chaos, we stand on 
 
 **God wins. Christ has already secured the victory.**
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

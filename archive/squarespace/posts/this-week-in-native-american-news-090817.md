@@ -5,7 +5,7 @@ date: 2017-09-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-090817
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf1170f86f2c8d536280/1748628700852/2294.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777425747-EH8ORRJYPRFK2JJ73XRI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777426921-OOP8CMLMV81WG8UA3WPN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777428226-0YEKHEZI6XUGFA92RGX3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777429535-Z252S1AQKHF5SXWZG7FE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777430707-17HLV60DYD2PONJ6Q9VQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777431517-9O28NM5F7V2NU6CBXDQW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777432500-S451KX3LXBTHNZ3F5Z7F/image-asset.jpeg"]
+images: ["images/ddeef44a-2294.jpg", "images/5f8820cf-image-asset.jpeg", "images/c36f80ef-image-asset.jpeg", "images/86197a84-image-asset.jpeg", "images/f6d17221-image-asset.jpeg", "images/fc571c5e-image-asset.jpeg", "images/54d30226-image-asset.jpeg", "images/504d0855-image-asset.jpeg"]
 ---
 # This Week in Native American News (9/8/17): Classrooms & Urban Indians, But No More Fry Bread
 
@@ -13,7 +13,7 @@ Sep 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777425747-EH8ORRJYPRFK2JJ73XRI/image-asset.jpeg)
+![](images/5f8820cf-image-asset.jpeg)
 
 # September 8, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: South Dakota Motel Helps Native Women Stay off the Street
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777426921-OOP8CMLMV81WG8UA3WPN/image-asset.jpeg)
+![](images/c36f80ef-image-asset.jpeg)
 
 Lisa Heth stands in the last room to be finished in the Pathfinder Shelter with her daughter Kendall Cadwell, who works at the shelter as an advocate. Photograph: Mary Annette Pember
 
@@ -39,7 +39,7 @@ In this case, a long-passed generation of Native American women suffered the sha
 
 ## Changing the Way We Teach History
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777428226-0YEKHEZI6XUGFA92RGX3/image-asset.jpeg)
+![](images/86197a84-image-asset.jpeg)
 
 Naim Cardinal, recently a history and social studies teacher in Edmonton, still remembers the stigma he felt as an Indigenous student. Now, how history is being taught in classrooms across the country is changing. AMBER BRACKEN/FOR THE GLOBE AND MAIL
 
@@ -55,7 +55,7 @@ Mr. Cardinal said there was little to no curriculum about First Nations, Metis a
 
 ### [Read the Full Story Here](https://beta.theglobeandmail.com/news/national/education/history-canada-indigenous-education/article36157403/?ref=http%3A%2F%2Fwww.theglobeandmail.com)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777429535-Z252S1AQKHF5SXWZG7FE/image-asset.jpeg)
+![](images/f6d17221-image-asset.jpeg)
 
 ## Also in "School" News...
 
@@ -69,7 +69,7 @@ The largest gift in the history of the University of Minnesota Medical School’
 
 ## More Native Americans Live in Cities Than On Reservations. Here are Their Stories.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777430707-17HLV60DYD2PONJ6Q9VQ/image-asset.jpeg)
+![](images/fc571c5e-image-asset.jpeg)
 
 Chah-tah Gould on his ancestors’ land. Photograph: Joe Whittle for The Guardia
 
@@ -83,7 +83,7 @@ According to Janeen Comenote, executive director of the National Urban Indian Fa
 
 ## Miss Navajo Will Not Make Fry Bread
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777431517-9O28NM5F7V2NU6CBXDQW/image-asset.jpeg)
+![](images/54d30226-image-asset.jpeg)
 
 The Miss Navajo Nation contest is parting ways with fry bread.
 
@@ -101,7 +101,7 @@ Navajo chef Brian Yazzie welcomed the change, saying it challenges young people 
 
 ## The Navajo Ninja Warrior
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777432500-S451KX3LXBTHNZ3F5Z7F/image-asset.jpeg)
+![](images/504d0855-image-asset.jpeg)
 
 Brandon Todacheenie, aka “The Navajo Ninja,” considers it a great honor to represent Native Americans on the national stage in American Ninja Warrior. He traveled from the Navajo reservation of Shiprock, New Mexico where he lives to compete in the Denver City Finals.
 

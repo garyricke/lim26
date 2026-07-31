@@ -5,7 +5,7 @@ date: 2018-02-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-time-has-come-lent-monday-february-19
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc841d69433ba0fe61e9/1748628700852/Mk1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776773804-MY66KH5T3OVXWJM229JK/image-asset.png"]
+images: ["images/0e304454-Mk1.jpg", "images/6c841cf6-image-asset.png"]
 ---
 # The Time Has Come (Lent) - Monday, February 19
 
@@ -15,7 +15,7 @@ Feb 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776773804-MY66KH5T3OVXWJM229JK/image-asset.png)
+![](images/6c841cf6-image-asset.png)
 
 ### "'The time has come,' he said. 'The kingdom of God is near.  Repent and believe the good news!'"   [Mark 1:15 (NIV)](https://www.bible.com/bible/111/MRK.1.15)
 

@@ -5,7 +5,7 @@ date: 2018-05-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-051818
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8e29af4ad0956c7aa23/1748628700852/image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775843301-K63WL6X2MB25FPVQJXMF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775844057-0DHW8HEHJP3QNG8KWFBN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775846324-5PGSJNS0JE837IGLKTNV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775847474-8FA64VX9O0PO5QZO5DQ0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775848593-RWPJ40V8H3G889ZBP8Y4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775849486-WOUKPFSFR7JWSDQH6MGI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775850782-W6CFZKJT9A79MBQXF6DO/image-asset.jpeg"]
+images: ["images/69745325-image.jpg", "images/a8625fe4-image-asset.jpeg", "images/18cb9a23-image-asset.jpeg", "images/6dd0da8f-image-asset.jpeg", "images/21a92ddb-image-asset.jpeg", "images/d608a98f-image-asset.jpeg", "images/1eb5ab83-image-asset.jpeg", "images/db3dddac-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/18/18): Changing languages, Building Tiny Houses, and Curing Hepatitis C
 
@@ -13,7 +13,7 @@ May 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775843301-K63WL6X2MB25FPVQJXMF/image-asset.jpeg)
+![](images/a8625fe4-image-asset.jpeg)
 
 # May 18, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## To Save Their Language, They are Changing It
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775844057-0DHW8HEHJP3QNG8KWFBN/image-asset.jpeg)
+![](images/18cb9a23-image-asset.jpeg)
 
 anguage adorns the wall of a cultural classroom at Salt River Elementary School on the Salt River Reservation near Scottsdale Arizona. Photo credit: Patrick Breen/The Republic
 
@@ -41,7 +41,7 @@ And how could they pass their language on, before the last generation of speaker
 
 ## Indigenous Women Built These Tiny Houses to Block a Pipeline—and Reclaim Nomadic Traditions
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775846324-5PGSJNS0JE837IGLKTNV/image-asset.jpeg)
+![](images/6dd0da8f-image-asset.jpeg)
 
 Mayuk (left) and Kanahus Manuel (right), founders of the Tiny House Warriors, in front of a completed tiny house on the Neskolinth Reserve outside of Kamloops, British Columbia. Photos by Janice Cantieri
 
@@ -59,7 +59,7 @@ The houses are solar-powered, fitted with composting toilets and wood-burning st
 
 ## Cherokee Nation Lauded for Hepatitis C Elimination Effort
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775847474-8FA64VX9O0PO5QZO5DQ0/image-asset.jpeg)
+![](images/21a92ddb-image-asset.jpeg)
 
 Recovering addict Judith Anderson figures if she hadn't entered a program that caught and treated the hepatitis C she contracted after years of intravenous drug use, she wouldn't be alive to convince others to get checked out.
 
@@ -75,7 +75,7 @@ But things changed for Anderson, a citizen of the Cherokee Nation, because she t
 
 ## Your Weekly History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775848593-RWPJ40V8H3G889ZBP8Y4/image-asset.jpeg)
+![](images/d608a98f-image-asset.jpeg)
 
 ### [Tlingits Had Totems Near Their Doors](http://www.historynet.com/tlingits-totems-near-doors.htm)
 
@@ -83,7 +83,7 @@ In April 1877, sometime-poet Lieutenant Charles Erskine Scott Wood arrived in Si
 
 While putting the Taylor expedition together, Wood became fascinated with totem poles, some ranging to heights of more than 100 feet. Every important Tlingit house had one near the front door warding off evil spirits and giving an account of family lineage.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775849486-WOUKPFSFR7JWSDQH6MGI/image-asset.jpeg)
+![](images/1eb5ab83-image-asset.jpeg)
 
 ### [The indigenous peoples of Interior Alaska](http://www.newsminer.com/visitors_guide/the-indigenous-peoples-of-interior-alaska/article_eb13a0e2-557f-11e8-8054-a710a87afb28.html)
 
@@ -93,7 +93,7 @@ The story of the birch bark canoe and many more stories aimed at sharing traditi
 
 About 800 to 1,000 years ago, Athabascans migrated from Alaska into Canada and as far south as Arizona and New Mexico, but the most ancient core group of Athabascan people lived in Alaska, according to Ben Potter, anthropologist at the University of Alaska Fairbanks.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775850782-W6CFZKJT9A79MBQXF6DO/image-asset.jpeg)
+![](images/db3dddac-image-asset.jpeg)
 
 ### [A Rare Collection of 19th-Century Photographs of Native Americans Goes Online](https://hyperallergic.com/434729/19th-century-photos-native-americans-american-antiquarian-society/)
 

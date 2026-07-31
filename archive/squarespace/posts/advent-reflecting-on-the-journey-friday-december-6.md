@@ -5,7 +5,7 @@ date: 2019-12-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-reflecting-on-the-journey-friday-december-6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b18dd2c1581771e8212c/1748628700852/luke.2.6_lg.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773965856-2OGL91LNFTEHOAVHHJAO/image-asset.png"]
+images: ["images/dd24f691-luke.2.6_lg.jpg", "images/0d9add8b-image-asset.png"]
 ---
 # Advent: Reflecting on the Journey - Friday, December 6
 
@@ -15,7 +15,7 @@ Dec 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773965856-2OGL91LNFTEHOAVHHJAO/image-asset.png)
+![](images/0d9add8b-image-asset.png)
 
 ### So Joseph also went up from the town of Nazareth in Galilee to Judea, to Bethlehem the town of David, because he belonged to the house and line of David. He went there to register with Mary, who was pledged to be married to him and was expecting a child. While they were there, the time came for the baby to be born, and she gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger, because there was no guest room available for them.
 

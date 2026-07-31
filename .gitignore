@@ -34,8 +34,9 @@ images-master/*
 !images-master/team-pola-farve.jpg
 print-export/node_modules/
 
-# Squarespace archive — the markdown + index are committed (small, useful for
-# rebuilding posts). Raw HTML and ~1.3 GB of images stay local only.
+# Large / non-deployable working files live in the sibling ../lim2026-assets —
+# see ASSETS.md. These paths are symlinks into it; no trailing slash, because a
+# symlink is a file to git and a directory-only rule would miss it.
 .venv-archive/
-archive/squarespace/html/
-archive/squarespace/images/
+archive/squarespace/html
+archive/squarespace/images

@@ -5,7 +5,7 @@ date: 2019-04-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/tears-lent-devotion-wednesday-april-10
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3e5fc45ad1a48d58c43/1748628700852/Re7.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774568224-CA4QJEVEX76D4ACVJU11/image-asset.jpeg"]
+images: ["images/b99df144-Re7.jpeg", "images/d0bdb937-image-asset.jpeg"]
 ---
 # Tears (Lent Devotion) - Wednesday, April 10
 
@@ -15,7 +15,7 @@ Apr 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774568224-CA4QJEVEX76D4ACVJU11/image-asset.jpeg)
+![](images/d0bdb937-image-asset.jpeg)
 
 # Tears
 

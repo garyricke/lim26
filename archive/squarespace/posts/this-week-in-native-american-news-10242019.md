@@ -5,7 +5,7 @@ date: 2019-10-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-10242019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b204ac64b420975f2d28/1748628700852/IndigenousHealingGarden-2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774086003-WCDCW9ADEMZU93JXPJNH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774088754-NVJRMAKRX1UEWS90P9HT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774090443-QTU278YU6J44YWMQE09R/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774092892-8RX0I80G0WFIIYWHPK9U/image-asset.jpeg"]
+images: ["images/0b5eda28-IndigenousHealingGarden-2.jpg", "images/83b4157f-image-asset.jpeg", "images/3edb1772-image-asset.jpeg", "images/0f6a8b3c-image-asset.jpeg", "images/c2591291-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/24/19): healing gardens, the power of community, and amazing children’s books
 
@@ -13,7 +13,7 @@ Oct 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774086003-WCDCW9ADEMZU93JXPJNH/image-asset.jpeg)
+![](images/83b4157f-image-asset.jpeg)
 
 # October 24, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## 4 out of 5 Native American women are survivors of domestic or sexual violence. A Colorado Springs garden is helping them recover.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774088754-NVJRMAKRX1UEWS90P9HT/image-asset.jpeg)
+![](images/3edb1772-image-asset.jpeg)
 
 Shauna Jackson and Alyssa Bravo, both interns for Haseya, help weed the medicine wheel healing garden in Colorado Springs on September 5, 2019. The garden consists of sage, tobacco, cedar, and sweet grass which are all traditional medicines. (Nina Riggio, Special to The Colorado Sun)
 
@@ -37,7 +37,7 @@ Haseya, which helps abused women connect with one another and provides resources
 
 ## Iditarod champ Pete Kaiser tells AFN how a community lifted him up
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774090443-QTU278YU6J44YWMQE09R/image-asset.jpeg)
+![](images/0f6a8b3c-image-asset.jpeg)
 
 2019 Iditarod champion Pete Kaiser wears a dentalium chief's necklace, gifted to him by Alaska Federation of Natives co-chairman Will Mayo, after Kaiser's keynote address Thursday during the AFN convention at the Carlson Center in Fairbanks. (Loren Holmes / ADN)
 
@@ -57,7 +57,7 @@ A lead dog, Morrow, who brought the team to the finish line in Nome this year, w
 
 ## Rescuing Native Americans From the Imaginative Prison of the Past
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774092892-8RX0I80G0WFIIYWHPK9U/image-asset.jpeg)
+![](images/c2591291-image-asset.jpeg)
 
 Native people, if we are encountered at all, are encountered during childhood. From the dull art of crafting Thanksgiving turkeys out of handprints to the bad politics of making headdresses out of turkey feathers, the point of contact between Indians and non-Indians begins and ends (for the most part) in grade school. It could be said that the primary place where Natives continue to exist for most Americans is in childhood imagination. It is no accident that Peter Pan’s tribe of Lost Boys who refuse to grow up, refuse to grow up with Indians as allies and enemies.
 

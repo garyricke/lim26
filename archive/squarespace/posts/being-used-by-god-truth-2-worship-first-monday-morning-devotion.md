@@ -5,7 +5,7 @@ date: 2017-01-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/being-used-by-god-truth-2-worship-first-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4059aa0180a63d3898a/1748628700852/588b8654c4f68b12a2b100299153626a.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778695009-4I1H5RP98M7HDCFFF862/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778695957-LRE8FKDZEZS4Y8AHL3JW/image-asset.jpeg"]
+images: ["images/3bf7795a-588b8654c4f68b12a2b100299153626a.jpg", "images/9481c00b-image-asset.jpeg", "images/19a2ac43-image-asset.jpeg"]
 ---
 # Being Used by God, Tip #2: Worship First - Monday Morning Devotion
 
@@ -13,13 +13,13 @@ Jan 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778695009-4I1H5RP98M7HDCFFF862/image-asset.jpeg)
+![](images/9481c00b-image-asset.jpeg)
 
 Jesus tells us the first and greatest commandment is to: *Love the Lord your God with all your heart and with all your soul and with all your mind. (Matthew 27:37)*
 
 He quickly follows that with, *"Love your neighbor as yourself."* (v. 39), but first and foremost, is to love God.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778695957-LRE8FKDZEZS4Y8AHL3JW/image-asset.jpeg)
+![](images/19a2ac43-image-asset.jpeg)
 
 We know, from reading his story, that David was far from perfect, but God used him in mighty ways, for the good of His kingdom, because of his love for God and his faith.
 

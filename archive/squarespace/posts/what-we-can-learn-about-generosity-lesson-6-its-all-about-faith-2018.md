@@ -5,7 +5,7 @@ date: 2018-11-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-we-can-learn-about-generosity-lesson-6-its-all-about-faith-2018
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b79f2f32730f5f603cd9/1748628700852/bizcard+large.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775521091-QWCRVJU5H0XG89F661FL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775522256-LU292I4VG2QIJJGMEEC9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775523114-8V2HS4LEDN9U318PC84G/image-asset.png"]
+images: ["images/9da0a078-bizcard_large.jpg", "images/b0ee1d53-image-asset.jpeg", "images/4893772c-image-asset.jpeg", "images/d73e5829-image-asset.png"]
 ---
 # What We Can Learn About Generosity, Lesson 6: It's all about faith - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Nov 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775521091-QWCRVJU5H0XG89F661FL/image-asset.jpeg)
+![](images/b0ee1d53-image-asset.jpeg)
 
 This is Week 7 (the final week) of our Generosity Series. [Need to start at the beginning? Read the Introduction here.](https://www.lutheranindianministries.org/news/we-give-because-he-gave-monday-morning-devotion)
 
@@ -54,11 +54,11 @@ As we enter into the season of Advent, and we reflect on the great gift God has 
 
 I pray that our generosity would reflect that of our most generous God.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775522256-LU292I4VG2QIJJGMEEC9/image-asset.jpeg)
+![](images/4893772c-image-asset.jpeg)
 
 ### Did you enjoy this series? Click below and receive a great Christmas deal and help Native peoples this holiday season.
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775523114-8V2HS4LEDN9U318PC84G/image-asset.png)](https://www.lutheranindianministries.org/news/gathering-to-give-thanks)
+[![](images/d73e5829-image-asset.png)](https://www.lutheranindianministries.org/news/gathering-to-give-thanks)
 
 [devotion](/news-notes/tag/devotion)
 

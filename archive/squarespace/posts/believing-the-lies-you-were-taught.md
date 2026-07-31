@@ -5,7 +5,7 @@ date: 2018-04-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/believing-the-lies-you-were-taught
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bb95eeb24f62b7c49190/1748628700852/Truth-900x450.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776534092-ROHB6TBT59AGN68UA1A9/image-asset.jpeg", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/3468a371-Truth-900x450.jpg", "images/86f4a8ce-image-asset.jpeg", "images/6ac51f52-pixel.gif"]
 ---
 # Believing the Lies You Were Taught
 
@@ -13,7 +13,7 @@ Apr 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776534092-ROHB6TBT59AGN68UA1A9/image-asset.jpeg)
+![](images/86f4a8ce-image-asset.jpeg)
 
 I have no doubt the Easter messages delivered in churches across the country this year were unique. Many likely focused on the irony of Easter Sunday falling on April Fool’s Day. Perhaps your sermon rightly proclaimed that Jesus’ death was no joke and His resurrection is no trick. No Christian with the most basic knowledge of Biblical truth would ever challenge those assertions.
 
@@ -85,7 +85,7 @@ Lutheran Indian Ministries
 
 ### Happy Easter!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

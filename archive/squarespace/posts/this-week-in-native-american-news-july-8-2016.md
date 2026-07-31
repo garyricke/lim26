@@ -5,7 +5,7 @@ date: 2016-07-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-july-8-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c87fc9d36d75aa6e2f62/1748628700852/rez+art+bus.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779842100-NMX7YOIWD86ENQRTJE2F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779843948-L3I08SSQF9WX9JIZIX98/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779846595-7VNRW326B6AUGA9TDFMI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779849887-IXPVU1V9MH1K4CZE3MBS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779852718-RAOS47AGI3ZK68QNXVQD/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779854421-T9XXOOIWEJLTND0X7CCK/image-asset.jpeg"]
+images: ["images/b309e9d9-rez_art_bus.jpg", "images/8f11e938-image-asset.jpeg", "images/63aa6570-image-asset.jpeg", "images/600e668f-image-asset.jpeg", "images/936be734-image-asset.jpeg", "images/9f6c0254-image-asset.png", "images/b7b24e81-image-asset.jpeg"]
 ---
 # This Week in Native American News - July 8, 2016
 
@@ -15,7 +15,7 @@ Jul 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779842100-NMX7YOIWD86ENQRTJE2F/image-asset.jpeg)
+![](images/8f11e938-image-asset.jpeg)
 
 ---
 
@@ -23,7 +23,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### Providing Healing Through Martial Arts
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779843948-L3I08SSQF9WX9JIZIX98/image-asset.jpeg)
+![](images/63aa6570-image-asset.jpeg)
 
 Patty and Dereck Stonefish, the founders of Arming Sisters/Reawakening Warriors. Photo credit: Dan Koeck/Yes Magazine
 
@@ -39,7 +39,7 @@ Patty and her husband hope to expand their workshops to include a series for men
 
 ### Driving the Rolling Rez Arts Bus
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779846595-7VNRW326B6AUGA9TDFMI/image-asset.jpeg)
+![](images/600e668f-image-asset.jpeg)
 
 A bus that has been retrofitted with an art studio and space for a bank teller is crisscrossing South Dakota's Pine Ridge Indian Reservation. Photo credit: Regina Garcia Cano/AP Photo
 
@@ -53,7 +53,7 @@ On Pine Ridge, over 80% of the home-based businesses are art-related, but suppli
 
 ### Writing and Starring in Award Winning Movies
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779849887-IXPVU1V9MH1K4CZE3MBS/image-asset.jpeg)
+![](images/936be734-image-asset.jpeg)
 
 Photo credit: Anthony Two Moons/Huffington
 
@@ -65,7 +65,7 @@ In the class, dedicated to changing the lives of incarcerated young men through 
 
 ### Challenging Traditional Archaeology
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779852718-RAOS47AGI3ZK68QNXVQD/image-asset.png)
+![](images/9f6c0254-image-asset.png)
 
 Paulette Steeves, University of Massachusetts Amherst's new director of the Native American Studies, is shaking up the archeology world. She is out to prove, through the use of "indigenous ways and methods," a different history of Native people than the one we currently accept.
 
@@ -73,7 +73,7 @@ Paulette Steeves, University of Massachusetts Amherst's new director of the Nati
 
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779854421-T9XXOOIWEJLTND0X7CCK/image-asset.jpeg)
+![](images/b7b24e81-image-asset.jpeg)
 
 ### And Writing Your Next Favorite Book
 

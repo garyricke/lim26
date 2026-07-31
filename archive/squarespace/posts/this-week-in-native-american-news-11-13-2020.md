@@ -5,7 +5,7 @@ date: 2020-11-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-11-13-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af39eeb24f62b7c23a9c/1748628700852/180627-N-ZZ999-0004-scaled.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773369872-A7HY6V4OD1PIE5LTEDPE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773371125-06237VN9U64BYZM79HNG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773373584-TKVADLDS9JTG8J42U48F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773374873-0605WBA5JDXTJUXQCZDT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773376184-MG6ENTFLIIMTNX0I5BQV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773377317-3KHS95J0YDUT7CQNG9JE/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773378182-BBSNFOJNKUT3I6ENUQT4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773379201-9SPY59EZ7YF31QE9O192/image-asset.jpeg"]
+images: ["images/16c1de57-180627-N-ZZ999-0004-scaled.jpeg", "images/8c11d919-image-asset.jpeg", "images/528c8d6f-image-asset.jpeg", "images/ffeeed4e-image-asset.jpeg", "images/bd8a6479-image-asset.jpeg", "images/3f0e9352-image-asset.jpeg", "images/a62dd9ee-image-asset.png", "images/260dcddc-image-asset.jpeg", "images/a3a7c819-image-asset.jpeg"]
 ---
 # This Week in Native American News (11/13/2020): Saluting Veterans, Celebrating Bison, Honoring Native Heritage, and Remembering the Past
 
@@ -13,7 +13,7 @@ Nov 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773369872-A7HY6V4OD1PIE5LTEDPE/image-asset.jpeg)
+![](images/8c11d919-image-asset.jpeg)
 
 # November 13, 2020: Thank you, Veterans!
 
@@ -27,7 +27,7 @@ Throughout US history, American Indians and Alaska Natives have enlisted in the 
 
 ## [Read the Full Story Here (and watch the full video)](https://boingboing.net/2020/11/12/new-memorial-to-native-american-veterans-opens-on-the-national-mall.html)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773371125-06237VN9U64BYZM79HNG/image-asset.jpeg)
+![](images/528c8d6f-image-asset.jpeg)
 
 ## [In Similar News: American Warriors: Songs for Indian Veterans](https://folkways.si.edu/american-warriors-songs-for-indian-veterans/american/music/album/smithsonian)
 
@@ -37,7 +37,7 @@ Featuring performances from six tribes—Ojibway (Chippewa), Menominee, Blackfee
 
 ### Rosebud Sioux Tribe Welcome First Bison Home to Wolakota Buffalo Range
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773373584-TKVADLDS9JTG8J42U48F/image-asset.jpeg)](https://www.buzzfeednews.com/article/erikawurth/native-american-novels-tommy-orange-there-there)
+[![](images/ffeeed4e-image-asset.jpeg)](https://www.buzzfeednews.com/article/erikawurth/native-american-novels-tommy-orange-there-there)
 
 Rosebud Sioux Tribe Welcome First Bison Home to Wolakota Buffalo Range
 
@@ -51,7 +51,7 @@ The animals were transferred from Badlands National Park and Theodore Roosevelt 
 
 ### Jeffrey Veregge leads the Marvel charge for Native, Indigenous, and First Nations creators with Indigenous Voices
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773374873-0605WBA5JDXTJUXQCZDT/image-asset.jpeg)
+![](images/bd8a6479-image-asset.jpeg)
 
 Jeffrey Veregge leads the Marvel charge for Native, Indigenous, and First Nations creators with Indigenous Voices
 
@@ -65,7 +65,7 @@ Helping organize Marvel's Indigenous Voices, and lending his art and writing to 
 
 ### Welcome to Native American Heritage Month
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773376184-MG6ENTFLIIMTNX0I5BQV/image-asset.jpeg)](https://www.pbs.org/specials/native-american-heritage-month/)
+[![](images/3f0e9352-image-asset.jpeg)](https://www.pbs.org/specials/native-american-heritage-month/)
 
 PBS offers a number of documentaries to help you celebrate native american heritage month
 
@@ -81,19 +81,19 @@ Through dance, family traditions, and music, these stories show the diversity an
 
 ### History Corner:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773377317-3KHS95J0YDUT7CQNG9JE/image-asset.png)
+![](images/a62dd9ee-image-asset.png)
 
 ## [Harris will be the first female, Black and Asian vice president. But not the first VP of color.](https://www.washingtonpost.com/history/2020/11/12/charles-curtis-kamala-harris-vice-president-native-american/)
 
 That distinction belongs to Charles Curtis, who served as vice president to Herbert Hoover from 1929 to 1933. Curtis’s mother was a Native American who belonged to the Kaw Nation, and he was raised on a reservation by his maternal grandparents, where he spoke the Indigenous language and lived in a tepee.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773378182-BBSNFOJNKUT3I6ENUQT4/image-asset.jpeg)
+![](images/260dcddc-image-asset.jpeg)
 
 ## [Tecumseh: The Driving Force Behind the Native American Confederacy](https://history.howstuffworks.com/revolutionary-war/tecumseh.htm)
 
 "Tecumseh, in my opinion, is the most remarkable Native American leader in American history," Edmunds says. "He is a man of character; he is a man dedicated to his people. He is a man far ahead of his time in thinking. He is a man admired by both his friends and his enemies. He's a man whose death adds to his mystique. As he passes out of life, he passes into myth. He's a remarkable, remarkable person."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773379201-9SPY59EZ7YF31QE9O192/image-asset.jpeg)
+![](images/a3a7c819-image-asset.jpeg)
 
 ## [12 Influential Native American Leaders](https://www.biography.com/news/influential-native-americans-list)
 

@@ -5,7 +5,7 @@ date: 2016-09-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/luke-227-32-fnv-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c55bcdfe3c472ddf7ee7/1748628700852/060686b4-f599-470d-9b21-a5225f5e380e.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779037289-2K6KAZKRW6A12PFLD9BX/image-asset.png"]
+images: ["images/eceaf129-060686b4-f599-470d-9b21-a5225f5e380e.jpg", "images/9fa45566-image-asset.png"]
 ---
 # Luke 2:27-32 FNV
 
@@ -13,7 +13,7 @@ Sep 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779037289-2K6KAZKRW6A12PFLD9BX/image-asset.png)
+![](images/9fa45566-image-asset.png)
 
 Think of the old man, waiting there in the Sanctuary, told by God that he was thus about to have the fulfilment of his life-long desire, and yet probably not knowing what kind of a shape the fulfilment would take. There is no reason to believe that he knew he was to see an infant; and he waits. And presently a peasant woman comes in with a child in her arms, and there arises in his soul the voice ‘Anoint Him! for this is He!’
 

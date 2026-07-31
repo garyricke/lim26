@@ -5,7 +5,7 @@ date: 2017-03-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-monday-march-20
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1860a34566707364567/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778055418-5ZO2I87XXZFKMOFC2U15/image-asset.png"]
+images: ["images/8ffc644b-2017_lent_cover.jpg", "images/65184ba6-image-asset.png"]
 ---
 # Read & Reflect: Monday, March 20
 
@@ -13,7 +13,7 @@ Mar 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778055418-5ZO2I87XXZFKMOFC2U15/image-asset.png)
+![](images/65184ba6-image-asset.png)
 
 ## Read: [Jeremiah 1:5](https://www.bible.com/bible/111/jer.1.5), [Psalm 139:13-14](https://www.bible.com/bible/111/psa.139.13-14), [Matthew 10:29-31](https://www.bible.com/bible/111/mat.10.29-31)
 

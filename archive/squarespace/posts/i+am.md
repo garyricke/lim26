@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/i+am
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779025301-O6AW5KFH5RB9HOPG4C6H/tumblr_n2dme2UCvZ1s91yx0o1_500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779035139-21LK1ON4DPLTESMG2IWT/John-146.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779064023-Z3B6WOSZ1YSY1LMGH4DP/9760-ea_resurrection_life+Jesus+design.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779087668-PRI7J2TPHGYQJB0OVDPA/tumblr_nh7w8rfSh11s91yx0o1_500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779121772-CMM40Q8KALJF4TDTJCMI/John+109+%5Bwidescreen%5D.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779141188-0CULOY4UUQEZKO4GP13I/light_of_the_world_by_kevron2001-d59ud25.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779167288-PPR811K1UUX64HH2BEXL/Jesus-the-bread-of-life.jpg"]
+images: ["images/9a3c56b0-tumblr_n2dme2UCvZ1s91yx0o1_500.jpg", "images/66cdcba3-John-146.jpg", "images/2803da07-9760-ea_resurrection_life_Jesus_design.png", "images/ec8a0374-tumblr_nh7w8rfSh11s91yx0o1_500.jpg", "images/0a57087a-John_109__widescreen_.jpg", "images/4a0d752f-light_of_the_world_by_kevron2001-d59ud25.jpg", "images/8b3e2725-Jesus-the-bread-of-life.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Monday Morning Devotion - The Vine](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779025301-O6AW5KFH5RB9HOPG4C6H/tumblr_n2dme2UCvZ1s91yx0o1_500.jpg)](/news-notes/category/monday-morning-devotion-the-vine)
+[![Monday Morning Devotion - The Vine](images/9a3c56b0-tumblr_n2dme2UCvZ1s91yx0o1_500.jpg)](/news-notes/category/monday-morning-devotion-the-vine)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -75,7 +75,7 @@ There are texts that go unread day in and day out. There is one that can be conn
 
 [Read More](/news-notes/category/monday-morning-devotion-the-vine)
 
-[![Monday Morning Devotion - Way, Truth, & Life](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779035139-21LK1ON4DPLTESMG2IWT/John-146.jpg)](/news-notes/category/monday-morning-devotion-way-truth-life)
+[![Monday Morning Devotion - Way, Truth, & Life](images/66cdcba3-John-146.jpg)](/news-notes/category/monday-morning-devotion-way-truth-life)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -91,7 +91,7 @@ There appear to be various ways and paths to God. What is the way?
 
 [Read More](/news-notes/category/monday-morning-devotion-way-truth-life)
 
-[![Monday Morning Devotion - Resurrection and Life](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779064023-Z3B6WOSZ1YSY1LMGH4DP/9760-ea_resurrection_life+Jesus+design.png)](/news-notes/category/monday-morning-devotion-resurrection-and-life)
+[![Monday Morning Devotion - Resurrection and Life](images/2803da07-9760-ea_resurrection_life_Jesus_design.png)](/news-notes/category/monday-morning-devotion-resurrection-and-life)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -107,7 +107,7 @@ Each and every Sunday, you are invited to celebrate the resurrection of Jesus. A
 
 [Read More](/news-notes/category/monday-morning-devotion-resurrection-and-life)
 
-[![Monday Morning Devotion - Good Shepherd](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779087668-PRI7J2TPHGYQJB0OVDPA/tumblr_nh7w8rfSh11s91yx0o1_500.jpg)](/news-notes/category/monday-morning-devotion-good-shepherd)
+[![Monday Morning Devotion - Good Shepherd](images/ec8a0374-tumblr_nh7w8rfSh11s91yx0o1_500.jpg)](/news-notes/category/monday-morning-devotion-good-shepherd)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -123,7 +123,7 @@ Being a shepherd means pointing people to the true shepherd.
 
 [Read More](/news-notes/category/monday-morning-devotion-good-shepherd)
 
-[![Monday Morning Devotion - Door of the Sheep](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779121772-CMM40Q8KALJF4TDTJCMI/John+109+%5Bwidescreen%5D.jpg)](/news-notes/category/monday-morning-devotion-door-of-the-sheep)
+[![Monday Morning Devotion - Door of the Sheep](images/0a57087a-John_109__widescreen_.jpg)](/news-notes/category/monday-morning-devotion-door-of-the-sheep)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -139,7 +139,7 @@ When it comes to entering into God’s heavenly pasture, there is one, and only 
 
 [Read More](/news-notes/category/monday-morning-devotion-door-of-the-sheep)
 
-[![Monday Morning Devotion - Light of the World](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779141188-0CULOY4UUQEZKO4GP13I/light_of_the_world_by_kevron2001-d59ud25.jpg)](/news-notes/category/monday-morning-devotion-light-of-the-world)
+[![Monday Morning Devotion - Light of the World](images/4a0d752f-light_of_the_world_by_kevron2001-d59ud25.jpg)](/news-notes/category/monday-morning-devotion-light-of-the-world)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -155,7 +155,7 @@ Can you imagine a world without light
 
 [Read More](/news-notes/category/monday-morning-devotion-light-of-the-world)
 
-[![Monday Morning Devotion - Bread of Life](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779167288-PPR811K1UUX64HH2BEXL/Jesus-the-bread-of-life.jpg)](/news-notes/category/monday-morning-devotion-bread-of-life)
+[![Monday Morning Devotion - Bread of Life](images/8b3e2725-Jesus-the-bread-of-life.jpg)](/news-notes/category/monday-morning-devotion-bread-of-life)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

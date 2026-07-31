@@ -5,7 +5,7 @@ date: 2018-08-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/navajo-summer-update
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b842c6472d27aab0adac/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775683235-8NTA2LHSBXA2Z3KHH445/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775684307-P5JDC0S28HHT2TRK666Q/image-asset.jpeg"]
+images: ["images/fc0ef119-1748628700852", "images/26306947-image-asset.jpeg", "images/704097bc-image-asset.jpeg"]
 ---
 # Navajo Summer Update
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 Dear Friends in Christ,
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775683235-8NTA2LHSBXA2Z3KHH445/image-asset.jpeg)
+![](images/26306947-image-asset.jpeg)
 
 Summer greetings from Navajo. Above is pictured one of our intern, Owen Duncan, leading songs at our V.B.S. We had three main children’s outreach events in the month of July; V.B.S., Sports Camp, and Day Camp. There were 112 indivual children that attended these different events.
 
@@ -25,7 +25,7 @@ We are thankful for the opportunities God gave us to share the Good News, and fo
 
 Our interns were a great blessing to our church and community. They hauled wood, visited church members, went on two hikes: one to the top of Fuzzy Mountain and the other to Mt. Taylor, as well as a youth horseback trip to Canyon de Chelley National Monument. They enriched our worship with music, as both of them are talented musicians, and they even composed an original song of praise. We are very grateful that the Rocky Mountain District LWML voted in their convention in June to fund interns for next summer as well.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775684307-P5JDC0S28HHT2TRK666Q/image-asset.jpeg)
+![](images/704097bc-image-asset.jpeg)
 
 Earlier in the summer we had our second annual men’s campout. This is part of the ministry we have to address generational patterns of hopelessness. By God’s grace a lot of headway was made. Many people who had been carrying around burdens unloaded them, and received the Good News of God’s completed work to heal them body and soul. We are encouraged that two of the people who attended previous workshops led by Rick McCafferty and Clair Kee plan on going to the Beauty for Ashes seminar in Alaska this fall. We know that the LORD will use the seminar to bring these people further along in their healing journey.
 

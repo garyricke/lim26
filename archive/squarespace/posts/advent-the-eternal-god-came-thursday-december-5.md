@@ -5,7 +5,7 @@ date: 2019-12-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-the-eternal-god-came-thursday-december-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b18f87fb27609f6cc9ca/1748628700852/John+1-11+Where+is+He+devotional.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773969462-SH8IH0XFELJ7TAEA25KE/image-asset.png"]
+images: ["images/cbaf6211-John_1-11_Where_is_He_devotional.jpg", "images/a51f095c-image-asset.png"]
 ---
 # Advent: The Eternal God Came - Thursday, December 5
 
@@ -15,7 +15,7 @@ Dec 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773969462-SH8IH0XFELJ7TAEA25KE/image-asset.png)
+![](images/a51f095c-image-asset.png)
 
 ### Though the world was made through him, the world did not recognize him.
 

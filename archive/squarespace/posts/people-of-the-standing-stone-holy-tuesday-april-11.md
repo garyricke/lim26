@@ -5,7 +5,7 @@ date: 2017-04-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/people-of-the-standing-stone-holy-tuesday-april-11
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c129d155a1763e692247/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777962562-NXVVCGS9JBC3PMWF9630/image-asset.jpeg"]
+images: ["images/223dc46e-2017_lent_cover.jpg", "images/8ccc61f4-image-asset.jpeg"]
 ---
 # People of the Standing Stone: Holy Tuesday, April 11
 
@@ -15,7 +15,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## The stone the builders rejected has become the cornerstone; the Lord has done this, and it is marvelous in our eyes. Psalm 118:22-23 (NIV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777962562-NXVVCGS9JBC3PMWF9630/image-asset.jpeg)
+![](images/8ccc61f4-image-asset.jpeg)
 
 The Oneida are called the “People of the Standing Stone.”  According to tradition, a large boulder once marked the entrance to their village.
 

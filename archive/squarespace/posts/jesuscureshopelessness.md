@@ -5,7 +5,7 @@ date: 2017-07-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/jesuscureshopelessness
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfc835c9066700e1cbe1/1748628700852/jesuscureshopelessness1.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777609848-I1PR9DUHJT9MKNDS0AWM/image-asset.png"]
+images: ["images/bb3d3497-jesuscureshopelessness1.png", "images/83f15d36-image-asset.png"]
 ---
 # Jesus Cures Hopelessness
 
@@ -13,7 +13,7 @@ Jul 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777609848-I1PR9DUHJT9MKNDS0AWM/image-asset.png)
+![](images/83f15d36-image-asset.png)
 
 ### “My hope is built on nothing less than Jesus’ blood and righteousness…” (Edward Mote 1834)
 

@@ -5,7 +5,7 @@ date: 2017-11-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-110317
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be808c443c06cabf995f/1748628700852/patricia-lissa_deveaux_2-photo_from_deveaux.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777281021-YZUC29XSY89AIFU8OCCT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777282206-W28QG1FPVRGPVD7T6CHC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777283224-71ROSA15KRW06SD2STAZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777284266-GH6ESWICX4CV3BVBZR0E/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777286059-PG4CO4MQT8410CU862NL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777286979-F03UA30TG7T8LI9A6ULL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777288853-MICB319YPTKS12LG50MG/image-asset.jpeg"]
+images: ["images/8e7c8ef3-patricia-lissa_deveaux_2-photo_from_deveaux.jpg", "images/9dde70a8-image-asset.jpeg", "images/68e5ce5b-image-asset.jpeg", "images/9a7852cf-image-asset.jpeg", "images/5bc44125-image-asset.jpeg", "images/31e27084-image-asset.jpeg", "images/cd83ecfe-image-asset.jpeg", "images/095edf93-image-asset.jpeg"]
 ---
 # This Week in Native American News (11/3/17): It's Native American Heritage Month!
 
@@ -13,7 +13,7 @@ Nov 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777281021-YZUC29XSY89AIFU8OCCT/image-asset.jpeg)
+![](images/9dde70a8-image-asset.jpeg)
 
 # November 3, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## It's National Native American Heritage Month: Let's Celebrate!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777282206-W28QG1FPVRGPVD7T6CHC/image-asset.jpeg)
+![](images/68e5ce5b-image-asset.jpeg)
 
 What started at the turn of the century as an effort to gain a day of recognition for the significant contributions the first Americans made to the establishment and growth of the U.S., has resulted in a whole month being designated for that purpose.
 
@@ -41,7 +41,7 @@ In 1990 President George H. W. Bush approved a joint resolution designating Nove
 
 ## 8-Year-Old working on his third movie
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777283224-71ROSA15KRW06SD2STAZ/image-asset.jpeg)
+![](images/9a7852cf-image-asset.jpeg)
 
 Colton Willier, 8, is a writer, director and animator with two stop-motion films to his credit. (Yamuna Flaherty)
 
@@ -65,7 +65,7 @@ Colton makes animated movies every chance he gets using Lego, clay, drawings or 
 
 ## For Inuit, Education Can Mean Choosing Between Cultures
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777284266-GH6ESWICX4CV3BVBZR0E/image-asset.jpeg)
+![](images/5bc44125-image-asset.jpeg)
 
 Lissa (left) and Patricia Deveaux grew up in Kuujjuaq, the largest town in Nunavik. Photo courtesy of Patricia Deveaux.
 
@@ -85,7 +85,7 @@ It took just six weeks for her to change her mind. She quit her business program
 
 ## Pastor Fights to Restore New Jersey Tribes
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777286059-PG4CO4MQT8410CU862NL/image-asset.jpeg)
+![](images/31e27084-image-asset.jpeg)
 
 Rev. Dr. J.R. Norwood, pastor of the Ujima Village Christian Church of Ewing and a member of the Nanticoke Lenni-Lenape Tribal Nation, weaves wampum. (Photo from article)
 
@@ -109,7 +109,7 @@ As such, he has been dealing with the fact that New Jersey no longer recognizes 
 
 ## Native American Artifacts Unearthered By Hurrican Irma
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777286979-F03UA30TG7T8LI9A6ULL/image-asset.jpeg)
+![](images/cd83ecfe-image-asset.jpeg)
 
 A car covered by a downed tree is shown the morning after Hurricane Irma swept through the area on September 11, 2017 in Marco Island, Florida. (Photo by Spencer Platt/Getty Images)
 
@@ -127,7 +127,7 @@ But the excavation—natural or not—has raised concerns over the treatment of 
 
 ## Native Americans Left Out of Opioid Epidemic Talks
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777288853-MICB319YPTKS12LG50MG/image-asset.jpeg)
+![](images/095edf93-image-asset.jpeg)
 
 Santa Clara Pueblo Gov. J. Michael Chavarria holds images of hypodermic needles recently found near a creek on the New Mexico American Indian pueblo after he attended a forum on opioid addiction in Albuquerque, Sept. 20, 2016.  AP PHOTO/RUSSELL CONTRERAS (Photo from this stroy.)
 

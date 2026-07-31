@@ -5,7 +5,7 @@ date: 2019-03-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/comfort-promised-lent-devotion-friday-march-22
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b5f32f32730f5f5ff1bf/1748628700852/John+16-7+Will+Send+The+Helper+sage.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775093983-QNGJYN7ODSR2EXKK50GE/image-asset.jpeg"]
+images: ["images/e89aa6f7-John_16-7_Will_Send_The_Helper_sage.jpg", "images/4d8906cf-image-asset.jpeg"]
 ---
 # Comfort Promised (Lent Devotion) - Friday, March 22
 
@@ -15,7 +15,7 @@ Mar 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775093983-QNGJYN7ODSR2EXKK50GE/image-asset.jpeg)
+![](images/4d8906cf-image-asset.jpeg)
 
 # Comfort Promised
 

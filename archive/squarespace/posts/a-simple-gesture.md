@@ -5,7 +5,7 @@ date: 2017-04-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-simple-gesture
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c125ff08fa3d1aaffee3/1748628700852/ASimpleGesture+%284%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777958237-5HTBRMSO5E1N0LFU8NKD/image-asset.png"]
+images: ["images/76244b6a-ASimpleGesture__4_.png", "images/9f5ee7eb-image-asset.png"]
 ---
 # A Simple Gesture
 
@@ -13,7 +13,7 @@ Apr 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777958237-5HTBRMSO5E1N0LFU8NKD/image-asset.png)
+![](images/9f5ee7eb-image-asset.png)
 
 She could have said, “It’s not my job. I don’t get paid for that.” But she didn’t.
 

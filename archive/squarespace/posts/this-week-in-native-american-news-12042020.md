@@ -5,7 +5,7 @@ date: 2020-12-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-12042020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aeeab70da5601ed88ebd/1748628700852/KME2IY5R2VF3DJ5UZCK652RWCE.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773291290-7RA4X6UF7GOFZ992MJFM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773294073-N20BH9J16PEN49NJ9RXS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773295704-B0GSTZ3JGCJ6OG0D6TDN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773297029-3HH5XY4ZZJP6L8CPMC4X/image-asset.jpeg"]
+images: ["images/b19e2f00-KME2IY5R2VF3DJ5UZCK652RWCE.jpg", "images/fbeaf08a-image-asset.jpeg", "images/5b560f8f-image-asset.jpeg", "images/716a99ac-image-asset.jpeg", "images/b13be8f7-image-asset.jpeg"]
 ---
 # This Week in Native American News (12/4/2020): National Parks, Short Films, & Supporting Native Art
 
@@ -13,7 +13,7 @@ Dec 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773291290-7RA4X6UF7GOFZ992MJFM/image-asset.jpeg)
+![](images/fbeaf08a-image-asset.jpeg)
 
 # December 4, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### The Ioway Tribe is creating the largest tribal national park in the US
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773294073-N20BH9J16PEN49NJ9RXS/image-asset.jpeg)
+![](images/5b560f8f-image-asset.jpeg)
 
 The Ioway (or Iowa) Tribe of Kansas and Nebraska is creating largest tribal national park in the US. The park will be used for hiking, camping and bird-watching. But most importantly, it will protect the land for future generations of tribal members of the Ioway Nation, and preserve the stories and heritage of its people.
 
@@ -33,7 +33,7 @@ The 440-acre park will sit on the Kansas and Nebraska border, overlooking th
 
 ### Creating water out of thin air in the Navajo Nation
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773295704-B0GSTZ3JGCJ6OG0D6TDN/image-asset.jpeg)
+![](images/716a99ac-image-asset.jpeg)
 
 The tribe's water scarcity is a bigger issue during the COVID-19 pandemic, when people have to wash their hands and sanitize more frequently.
 
@@ -53,7 +53,7 @@ I spoke with Milton Tso, president of the Cameron chapter in the Navajo Nation, 
 
 ### This Christmas: Shop Native
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773297029-3HH5XY4ZZJP6L8CPMC4X/image-asset.jpeg)
+![](images/b13be8f7-image-asset.jpeg)
 
 ## [Alaska Native business owners invite you to shop small this holiday season](https://www.webcenterfairbanks.com/2020/11/29/alaska-native-small-business-owners-invite-you-to-shop-small-this-holiday-season/)
 

@@ -5,7 +5,7 @@ date: 2016-12-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/comfort-december-7
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4737670090af3bdcd2d/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778804826-6XP8Z37HFNGHQ4QEOEYH/image-asset.png"]
+images: ["images/581b1a77-2016_Advent_Devotions.png", "images/584f6251-image-asset.png"]
 ---
 # Comfort: December 7
 
@@ -15,7 +15,7 @@ Dec 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778804826-6XP8Z37HFNGHQ4QEOEYH/image-asset.png)
+![](images/584f6251-image-asset.png)
 
 ## Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God. 2 Corinthians 1:3-4 (ESV)
 

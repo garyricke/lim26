@@ -5,7 +5,7 @@ date: 2019-12-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-in-the-land-of-noontime-darkness-friday-december-20
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1685b3de4701ddfed03/1748628700852/Isaiah-60.1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773929298-NBL35DJNBIK4IJF1PBF2/image-asset.png"]
+images: ["images/199532bc-Isaiah-60.1.jpg", "images/14d040fd-image-asset.png"]
 ---
 # Advent: In the Land of Noontime Darkness - Friday, December 20
 
@@ -13,7 +13,7 @@ Dec 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773929298-NBL35DJNBIK4IJF1PBF2/image-asset.png)
+![](images/14d040fd-image-asset.png)
 
 ### For behold, darkness shall cover the earth, and thick darkness the peoples; but the LORD will arise upon you, and his glory will be seen upon you.
 

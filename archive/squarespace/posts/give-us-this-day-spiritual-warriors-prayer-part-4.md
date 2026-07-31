@@ -5,7 +5,7 @@ date: 2017-05-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/give-us-this-day-spiritual-warriors-prayer-part-4
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c09260d4ef62defa377b/1748628700852/giveusthisday4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777811660-KOL9H70TI31T7FGCGO19/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777814011-G0L8AHIHHD22V0F04WYH/image-asset.jpeg"]
+images: ["images/dce62145-giveusthisday4.jpg", "images/63b53823-image-asset.png", "images/d9c631d3-image-asset.jpeg"]
 ---
 # Give Us This Day: Spiritual Warriors Prayer, Part 4
 
@@ -15,7 +15,7 @@ May 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777811660-KOL9H70TI31T7FGCGO19/image-asset.png)
+![](images/63b53823-image-asset.png)
 
 This is week four in a seven-week study on the Lord's Prayer, or as Pastor Ricky Jacob likes to call it: the Spiritual Warriors Prayer. Need to start at the beginning? [Read Part 1 here.](https://www.lutheranindianministries.org/news/hallowed-be-thy-name-spiritual-warriors-prayer-part-1)
 
@@ -37,7 +37,7 @@ What was the cost to him? Absolutely nothing. The prophet of God said to Naaman,
 
 In the Spiritual Warrior’s Prayer, we are taught to pray: **Give us this day our daily bread.**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777814011-G0L8AHIHHD22V0F04WYH/image-asset.jpeg)
+![](images/d9c631d3-image-asset.jpeg)
 
 **God certainly gives daily bread to everyone without our prayers, even to all evil people, but we pray in this petition that God would lead us to realize this and to receive our daily bread with thanksgiving.** Daily bread includes everything that has to do with the support and needs of the body, such as food, drink, clothing, shoes, house, home, land, animals, money, goods, a devout husband or wife, devout children, devout workers, devout and faithful rulers, good government, good weather, peace, health, self-control, good reputation, good friends, faithful neighbors, and the like.
 

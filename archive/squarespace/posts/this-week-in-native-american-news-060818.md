@@ -5,7 +5,7 @@ date: 2018-06-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-060818
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8b475bd3d30f0f4625e/1748628700852/image5924568_web1_180605Welcome_Ashore010.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775796911-QQ98X26T0ULF1XT3J7YK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775797888-3LIBOH2VAENEOU846YCE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775798684-PZLFVSQXLB0X6MT2B97F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775799629-793A0SU6SFFFRADLUQ81/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775800650-XYUOLUPP01LS4XRRVC8K/image-asset.jpeg"]
+images: ["images/5edd2ec9-image5924568_web1_180605Welcome_Ashore010.jpg", "images/759ae2e4-image-asset.jpeg", "images/f9eaf7c8-image-asset.jpeg", "images/880bba10-image-asset.jpeg", "images/2471c105-image-asset.jpeg", "images/56fa39e5-image-asset.jpeg"]
 ---
 # This Week in Native American News (6/8/18): Canoes, Celebrations, Roadtrips, and Flute Circles
 
@@ -13,7 +13,7 @@ Jun 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775796911-QQ98X26T0ULF1XT3J7YK/image-asset.jpeg)
+![](images/759ae2e4-image-asset.jpeg)
 
 # June 8, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## ‘Spiritual and powerful’: Canoes land at Douglas Harbor for Celebration
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775797888-3LIBOH2VAENEOU846YCE/image-asset.jpeg)
+![](images/f9eaf7c8-image-asset.jpeg)
 
 Canoes from around Southeast Alaska and Canada arrive at the Mike Pusich Douglas Harbor to participate in a Welcoming Ashore ceremony on Tuesday, June 5, 2018. The event, sponsored by the One People Canoe Society, is the unofficial start of Celebration 2018. (Michael Penn | Juneau Empire)
 
@@ -35,7 +35,7 @@ Clan leaders welcomed the canoes as they arrived from their several day journey.
 
 ## Want to read more about this celebration?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775798684-PZLFVSQXLB0X6MT2B97F/image-asset.jpeg)
+![](images/880bba10-image-asset.jpeg)
 
 ### [Growing group of Native veterans paddles to Celebration while raising awareness](https://www.ktoo.org/2018/06/04/growing-group-of-native-veterans-paddles-to-celebration-while-raising-awareness/)
 
@@ -47,7 +47,7 @@ The Eagle canoe is manned by Alaska Native veterans. Aside from the desire to tr
 
 ## Alaska Natives, Native Hawaiians learn from each other on environmental topics
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775799629-793A0SU6SFFFRADLUQ81/image-asset.jpeg)
+![](images/2471c105-image-asset.jpeg)
 
 Houston and other Tlingit leaders were showing others the area as part of the new Tléixʼ Yaakw (One Canoe) Photo credit: Alex McCarthy/Juneau Empire
 
@@ -63,7 +63,7 @@ The people who were passing by the stones this Sunday were here as members of a 
 
 ## It's summer - let's travel! Essential Native American Travel Destinations & Experiences For Summer
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775800650-XYUOLUPP01LS4XRRVC8K/image-asset.jpeg)
+![](images/56fa39e5-image-asset.jpeg)
 
 Traveling to Indian Reservations doesn’t register on many people’s “travel bucket lists.” There are a lot of reasons for this, which are far too complicated to get into here, ranging from cultural disconnects to overt racism. That’s a shame, as a trip to an Indian Reservation is an enlightening experience and should be essential to get a handle on who we really are as Americans.
 

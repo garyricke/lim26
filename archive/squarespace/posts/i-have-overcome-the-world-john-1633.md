@@ -5,7 +5,7 @@ date: 2016-03-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/i-have-overcome-the-world-john-1633
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf91771b7a501b6013d3/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781651112-31XTQJ6S2WZFVS3LLW77/image-asset.jpeg"]
+images: ["images/62bdd2c1-1748628700852", "images/62788197-image-asset.jpeg"]
 ---
 # I Have Overcome the World - John 16:33
 
@@ -15,7 +15,7 @@ Mar 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781651112-31XTQJ6S2WZFVS3LLW77/image-asset.jpeg)
+![](images/62788197-image-asset.jpeg)
 
 ****Thursday** **March 10****
 

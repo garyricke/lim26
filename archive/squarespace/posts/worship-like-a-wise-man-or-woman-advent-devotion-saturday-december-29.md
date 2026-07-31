@@ -5,7 +5,7 @@ date: 2018-12-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/worship-like-a-wise-man-or-woman-advent-devotion-saturday-december-29
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6e0046d523415ce8066/1748628700852/12242017social_2000x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775329081-ZCOAHX39E49R9HUI1PAR/image-asset.png"]
+images: ["images/41387f71-12242017social_2000x.jpg", "images/ee74a399-image-asset.png"]
 ---
 # Worship Like a Wise Man (or Woman) (Advent Devotion) - Saturday, December 29
 
@@ -13,7 +13,7 @@ Dec 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775329081-ZCOAHX39E49R9HUI1PAR/image-asset.png)
+![](images/ee74a399-image-asset.png)
 
 ## Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem, saying, "Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him."  (Matthew 2:1-2 ESV)
 

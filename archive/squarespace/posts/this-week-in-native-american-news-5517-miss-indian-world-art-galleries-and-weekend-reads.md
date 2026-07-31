@@ -5,7 +5,7 @@ date: 2017-05-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-5517-miss-indian-world-art-galleries-and-weekend-reads
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0c10bbf182e2f2fc093/1748628700852/Raven-Swamp.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777858420-F3WDFHBJPR10WB3XJBXR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777860484-J1K4MQJ1R028IDZCBPHH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777861717-D14HAOTAH1699QY6TCID/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777862972-PUV0WF7QIT3GGM3N8MLO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777864170-CDDP1N57BBAOUQMJKUOB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777865145-0BV3HZ1Y8OSEC9H27G4P/image-asset.jpeg"]
+images: ["images/535eeff4-Raven-Swamp.jpg", "images/e84207c3-image-asset.jpeg", "images/a8499155-image-asset.jpeg", "images/b5f05c4a-image-asset.jpeg", "images/f3f43c50-image-asset.jpeg", "images/65f2927e-image-asset.jpeg", "images/13f322c9-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/5/17): Miss Indian World, Art Galleries, and Weekend Reads
 
@@ -13,7 +13,7 @@ May 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777858420-F3WDFHBJPR10WB3XJBXR/image-asset.jpeg)
+![](images/e84207c3-image-asset.jpeg)
 
 # May 5, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: A Newly Crowned Miss Indian World
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777860484-J1K4MQJ1R028IDZCBPHH/image-asset.jpeg)
+![](images/a8499155-image-asset.jpeg)
 
 Raven Swamp, from Kahnawake, Quebec and member of the Mohawk tribe was crowned the 2017 Miss Indian World at the 34th Annual Gathering of Nations, the most prominent Native American powwow in the world.  Swamp received the honor out of 23 Native American women representing their different tribes and traditions who competed in the areas of tribal knowledge, dancing ability, public speaking, and personality assessment.
 
@@ -29,7 +29,7 @@ Swamp, who is 23-years old, will travel to many native and indigenous communitie
 
 ### [Read the whole story here](http://nativenewsonline.net/currents/raven-swamp-mohawk-crowned-2017-miss-indian-world-34th-annual-gathering-nations/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777861717-D14HAOTAH1699QY6TCID/image-asset.jpeg)
+![](images/b5f05c4a-image-asset.jpeg)
 
 ### [Last year's Miss Indian World, Danielle Ta’Sheena Finn, reflects on her year with the crown.](https://www.abqjournal.com/990436/indigenous-ambassador.html)
 
@@ -37,7 +37,7 @@ Swamp, who is 23-years old, will travel to many native and indigenous communitie
 
 ## Native Gallery Announced in Top 25 US Galleries
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777862972-PUV0WF7QIT3GGM3N8MLO/image-asset.jpeg)
+![](images/f3f43c50-image-asset.jpeg)
 
 Each Spring the American Art Awards board selects the 25 Best Galleries And Museums In America. This year, Blue Rain Gallery in New Mexico was on that list.
 
@@ -51,7 +51,7 @@ Looking for a good weekend read, check these two books out:
 
 (Full disclosure, we have not read either book, but we would love to hear what you think about them if you have.)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777864170-CDDP1N57BBAOUQMJKUOB/image-asset.jpeg)
+![](images/65f2927e-image-asset.jpeg)
 
 ## Good Friday on the Rez: A Pine Ridge Odyssey
 
@@ -59,7 +59,7 @@ Looking for a good weekend read, check these two books out:
 
 ### [Buy the book here](http://amzn.to/2pM4Oxv)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777865145-0BV3HZ1Y8OSEC9H27G4P/image-asset.jpeg)
+![](images/13f322c9-image-asset.jpeg)
 
 ## Killers of the Flower Moon
 

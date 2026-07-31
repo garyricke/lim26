@@ -5,7 +5,7 @@ date: 2020-01-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/serving-god-sharing-hope-in-2020-happy-new-year
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b14acacaf50ec89560f8/1748628700852/IMG_0677.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773900314-2O7DYZV8E4CHILE31EWD/image-asset.png"]
+images: ["images/9b540b62-IMG_0677.jpg", "images/e975d976-image-asset.png"]
 ---
 # Serving God & Sharing Hope in 2020 - HAPPY NEW YEAR!
 
@@ -13,7 +13,7 @@ Jan 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773900314-2O7DYZV8E4CHILE31EWD/image-asset.png)
+![](images/e975d976-image-asset.png)
 
 ### Thank you for taking this Advent journey with us.
 

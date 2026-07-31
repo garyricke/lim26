@@ -5,7 +5,7 @@ date: 2017-12-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/waiting-in-the-dark-places-advent-thursday-december-21
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bdd37cbdef6eaa55e307/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777108512-9NTIP9XCRDTK68PXJ782/image-asset.png"]
+images: ["images/3218b89e-Advent__1_.png", "images/f8149e85-image-asset.png"]
 ---
 # Waiting in the Dark Places (Advent) - Thursday, December 21
 
@@ -15,7 +15,7 @@ Dec 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777108512-9NTIP9XCRDTK68PXJ782/image-asset.png)
+![](images/f8149e85-image-asset.png)
 
 ### **Waiting in the Dark Places - Thursday, December 21**
 

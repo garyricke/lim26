@@ -5,7 +5,7 @@ date: 2018-02-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-022318
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc61ac64b420976146c5/1748628700852/_dsc3206.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776738946-AZKQ8S3RIHVUE3BYVPV3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776740058-8WOH669W3WX5XIKFDHTY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776741138-D4J6S89MX58K9ZXLIQV5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776743056-GSOOLU5OB1B8GGL9NZ8R/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776745186-KZ3RTT2AOVBZ0KCXRVG5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776746908-8Y37LDLTLTZ90HDWW8UP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776747944-0KWJSS152IF0V6ZF91JM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776748972-QPVV86HQ8Y1RUETF6V9Y/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776751035-RJP02SOJXS4WZJ9YV2BC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776753078-A2YKF6JUA0T1JW6Q2S0L/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776754398-2TT3AGH8MP76UJ4DB92S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776756008-6H8Y1V1JIX95EG5410P9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776757049-NRNGVHA0UJ8T7R6CF67V/image-asset.jpeg"]
+images: ["images/a39dc92c-_dsc3206.jpg", "images/74c30ef3-image-asset.jpeg", "images/3b81f771-image-asset.jpeg", "images/d85b179e-image-asset.jpeg", "images/ef881cff-image-asset.jpeg", "images/2db7f9dc-image-asset.jpeg", "images/036ea037-image-asset.jpeg", "images/59aa43f8-image-asset.jpeg", "images/de11d774-image-asset.jpeg", "images/055d722a-image-asset.jpeg", "images/591826ec-image-asset.jpeg", "images/daee6b89-image-asset.jpeg", "images/4b455cbb-image-asset.jpeg", "images/94a7fdf5-image-asset.jpeg"]
 ---
 # This Week in Native American News (2/23/18): Team Indigenous, Metis Tour, and Neon Tipis
 
@@ -13,7 +13,7 @@ Feb 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776738946-AZKQ8S3RIHVUE3BYVPV3/image-asset.jpeg)
+![](images/74c30ef3-image-asset.jpeg)
 
 # February 23, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## You Might Be Cheering for Team Indigenous at the Next Olympics
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776740058-8WOH669W3WX5XIKFDHTY/image-asset.jpeg)
+![](images/3b81f771-image-asset.jpeg)
 
 From left, Dene Chief Bill Erasmus, Team Canada's Brigitte Lacquette, and Cree Chief Willie Littlechild at the winter Olympics in South Korea. The chiefs were at the event discussing the possibility of a Team Indigenous at future Olympics. (Submitted by Bill Erasmus)
 
@@ -41,7 +41,7 @@ Littlechild, from Maskwacis in central Alberta, has been involved with the North
 
 ## Native College Graduates Find It Hard to Go Back Home
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776741138-D4J6S89MX58K9ZXLIQV5/image-asset.jpeg)
+![](images/d85b179e-image-asset.jpeg)
 
 Tommy Rock received his Ph.D. from Northern Arizona University in the School of Earth Science and Environmental Sustainability. Rock grew up in Monument Valley and worked in the tourism industry before going away to college. Laurel Morales/KJZZ
 
@@ -61,7 +61,7 @@ People like Rock are part of the Navajo brain drain, said Navajo President Russe
 
 ## Off the Rez Food Truck Highlighted in "Cooking in America"
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776743056-GSOOLU5OB1B8GGL9NZ8R/image-asset.jpeg)
+![](images/ef881cff-image-asset.jpeg)
 
 Off the Rez Food Truck in Seattle, Washington
 
@@ -73,7 +73,7 @@ Off the Rez Food Truck in Seattle, Washington
 
 ## Cities Choose to Commemorate Native Influence Not Erase It
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776745186-KZ3RTT2AOVBZ0KCXRVG5/image-asset.jpeg)
+![](images/2db7f9dc-image-asset.jpeg)
 
 South suburban Sauk Village is one of many cities and villages in Illinois with American Indian-based names. | Sun-Times file photo
 
@@ -87,7 +87,7 @@ At Tuesday night's meeting, councilors voted instead of changing the street name
 
 ## In Historical and Archaeological News...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776746908-8Y37LDLTLTZ90HDWW8UP/image-asset.jpeg)
+![](images/036ea037-image-asset.jpeg)
 
 ### [Civil War lecture strikes note with Native American advocate](http://www.smudailycampus.com/news/civil-war-lecture-strikes-note-with-native-american-advocate)
 
@@ -95,19 +95,19 @@ A Native American advocate said Thursday that Americans need to be better educat
 
 “The history of what truly happened here is not being taught in the history books,” Yolanda Bluehorse, executive assistant for the Society of Native Nations said. “It is time for America to recognize what the government has done to the first people of this land.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776747944-0KWJSS152IF0V6ZF91JM/image-asset.jpeg)
+![](images/59aa43f8-image-asset.jpeg)
 
 ### [Rejecting the Solutrean hypothesis](https://www.theguardian.com/science/2018/feb/21/rejecting-the-solutrean-hypothesis-the-first-peoples-in-the-americas-were-not-from-europe)
 
 Last month’s release of [The Ice Bridge](http://www.cbc.ca/natureofthings/episodes/ice-bridge), an episode in the Canadian Broadcasting Corporation series [The Nature of Things](http://www.cbc.ca/natureofthings/) has once again revived public discussion of a controversial idea about how the Americas were peopled known as the “Solutrean hypothesis”. This idea suggests a European origin for the peoples who made the Clovis tools, the first recognized stone tool tradition in the Americas.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776748972-QPVV86HQ8Y1RUETF6V9Y/image-asset.jpeg)
+![](images/de11d774-image-asset.jpeg)
 
 ### [Burying the Truth About the Midwest’s Mysterious Mound Cities](https://www.smithsonianmag.com/history/white-settlers-buried-truth-about-midwests-mysterious-mound-cities-180968246/)
 
 The city of Cahokia is one of many large earthen mound complexes that dot the landscapes of the Ohio and Mississippi River Valleys and across the Southeast. Despite the preponderance of archaeological evidence that these mound complexes were the work of sophisticated Native American civilizations, this rich history was obscured by the Myth of the Mound Builders, a narrative that arose ostensibly to explain the existence of the mounds. Examining both the history of Cahokia and the historic myths that were created to explain it reveals the troubling role that early archaeologists played in diminishing, or even eradicating, the achievements of pre-Columbian civilizations on the North American continent, just as the U.S. government was expanding westward by taking control of Native American lands.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776751035-RJP02SOJXS4WZJ9YV2BC/image-asset.jpeg)
+![](images/055d722a-image-asset.jpeg)
 
 ### [human rights museum launches tour devoted to Métis history](https://www.mbcradio.com/2018/02/many-dont-understand-metis-communities-destroyed-human-rights-museum-launches-tour-devoted-metis-history)
 
@@ -117,7 +117,7 @@ The tour explores the beginning of the Métis people, through the Red River Rebe
 
 “Many don’t understand that Métis communities were destroyed, burned to the ground, and bulldozed."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776753078-A2YKF6JUA0T1JW6Q2S0L/image-asset.jpeg)
+![](images/591826ec-image-asset.jpeg)
 
 ### [DNA Reveals Descendants of an "Extinct" People](https://www.inverse.com/article/41467-ancient-tooth-genome-christopher-columbus)
 
@@ -129,7 +129,7 @@ Historians, archeologists, and people who claim Taíno heritage have argued for 
 
 ## In Arts & Entertainment...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776754398-2TT3AGH8MP76UJ4DB92S/image-asset.jpeg)
+![](images/daee6b89-image-asset.jpeg)
 
 ### [Our Land is Our Land - A Roanoke Story](http://www.improper.com/arts-culture/our-land-is-our-land/)
 
@@ -139,7 +139,7 @@ The Native Americans who populated Roanoke, North Carolina, in 1587 lived in a w
 
 ### Plus... [10 Essential Native American Novels to Add to Your Reading List](https://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/76129-10-essential-native-american-novels.html)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776756008-6H8Y1V1JIX95EG5410P9/image-asset.jpeg)
+![](images/4b455cbb-image-asset.jpeg)
 
 ### [‘More Than a Word’ screening addresses Native American based mascots](https://www.tcu360.com/2018/02/more-than-a-word-film-screening-addresses-discrimination-of-native-americans/)
 
@@ -147,7 +147,7 @@ The filmmakers of [“More Than a Word”](http://morethanawordfilm.com/)once dr
 
 “I realized there was a problem when I heard fans yell ‘Kill the Indians,'” he said. Little and his brother, Kenneth, came to TCU recently for a screening of their movie and discuss the ongoing debate of using indigenous people as mascots.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776757049-NRNGVHA0UJ8T7R6CF67V/image-asset.jpeg)
+![](images/94a7fdf5-image-asset.jpeg)
 
 ### [The Tipi Gets a Makeover](https://www.smithsonianmag.com/smithsonian-institution/tipi-gets-makeover-180968234/)
 

@@ -5,7 +5,7 @@ date: 2017-07-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-7-14-17
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfbaff08fa3d1aafbe7d/1748628700852/site_conditions04_860_573_80.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777594737-10TRV7KJ4YC7X8LKZ9QN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777595989-4NPOO98W3IZXBL9HXXXC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777596928-6WK84WMM7STI2WZ1WMOK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777597739-FT106BKN19NRLRAXZ7JA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777598880-VZ1CY98QBDWTAL9I1VC7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777599950-E22738LIX255RCDKM93A/image-asset.jpeg"]
+images: ["images/2f89ac1e-site_conditions04_860_573_80.JPG", "images/7820b849-image-asset.jpeg", "images/c33fd3be-image-asset.jpeg", "images/8316b49c-image-asset.jpeg", "images/94fb60e0-image-asset.jpeg", "images/721192cd-image-asset.jpeg", "images/80e75137-image-asset.jpeg"]
 ---
 # This Week in Native American News (7/14/17): build a village, educate the people, and visit the family
 
@@ -13,7 +13,7 @@ Jul 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777594737-10TRV7KJ4YC7X8LKZ9QN/image-asset.jpeg)
+![](images/7820b849-image-asset.jpeg)
 
 # July 14, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Building a Village
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777595989-4NPOO98W3IZXBL9HXXXC/image-asset.jpeg)
+![](images/c33fd3be-image-asset.jpeg)
 
 Faced with the highest rate of homelessness in the nation, a unique public-private partnership may offer families a foundation.
 
@@ -39,7 +39,7 @@ For many, especially many Native Hawaiians, the sugar industry represents a dark
 
 ### [Read the full story here](https://nextcity.org/features/view/hawaii-duane-kurisu-homelessness-crisis-kahauiki-village)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777596928-6WK84WMM7STI2WZ1WMOK/image-asset.jpeg)
+![](images/8316b49c-image-asset.jpeg)
 
 Also in the news, a Hawaiian non-profit hopes to help the homeless with tiny houses.
 
@@ -49,7 +49,7 @@ Also in the news, a Hawaiian non-profit hopes to help the homeless with tiny hou
 
 ## Display Explains Native Concepts of Health & Illness
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777597739-FT106BKN19NRLRAXZ7JA/image-asset.jpeg)
+![](images/94fb60e0-image-asset.jpeg)
 
 The Sequoyah National Research Center, a Native American archive and gallery on the campus of the University of Arkansas at Little Rock, is unveiling a new exhibit Tuesday. Entitled “Native Voices,” it examines the diverse and holistic ways many Native Americans approach illness and health.
 
@@ -63,7 +63,7 @@ The SNRC’s current exhibit, Native Voices, comes from the National Library of 
 
 ## Borderland Tribes Get New IDs for easy movement
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777598880-VZ1CY98QBDWTAL9I1VC7/image-asset.jpeg)
+![](images/721192cd-image-asset.jpeg)
 
 As the first federally recognized tribe with a high-tech enhanced tribal card (ETC), Yaqui authorities are now assisting other tribes that hope to obtain a certified ID card for border transit and tribal record-keeping.
 
@@ -79,7 +79,7 @@ The Pascua Pueblo Yaqui Reservation is located southwest of Tucson and about 66 
 
 ## What Does the Removal of a People Look Like?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777599950-E22738LIX255RCDKM93A/image-asset.jpeg)
+![](images/80e75137-image-asset.jpeg)
 
 The National Museum of the American Indian has launched the first of its series called Native Knowledge 360: AMERICAN INDIAN REMOVAL: WHAT DOES IT MEAN TO REMOVE A PEOPLE?
 

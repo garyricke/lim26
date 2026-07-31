@@ -5,7 +5,7 @@ date: 2017-12-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/alaskas-off-season-is-for-relationships
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bdd72c1738665e70c19a/1748628700852/tanana.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777116913-SNF1M5FC9RD9TO24U0U8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777123294-LX0VRYQPHS5718C3ZEJQ/image-asset.jpeg"]
+images: ["images/3b708afa-tanana.jpg", "images/ff869b4c-image-asset.jpeg", "images/4e2a4bf3-image-asset.jpeg"]
 ---
 # Alaska's off-season is for relationships
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 For those of us living in the lower 48 (everyone except Alaska and Hawaii), Alaska winters stir up visions of parkas and frostbite. But for ministry staff working out of the Fairbanks Lutheran Indian MInistries Mission Center, it's just another season that brings another list of projects to work on.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777116913-SNF1M5FC9RD9TO24U0U8/image-asset.jpeg)
+![](images/ff869b4c-image-asset.jpeg)
 
 Dave and Rosemary in Arctic Village, a two hour flight, to share a meal and fellowship.
 
@@ -27,7 +27,7 @@ Never the less, the cold months don't put a damper on the ministry work in Alask
   
 "The volunteers who go out in the summer do an amazing job of getting to know the people of the village. And those who return each year have developed great relationships, to the point of becoming a part of the village family!" Dave Sternbeck (Nuu-chah-nulth), LIM Ministry at Large,  explained.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777123294-LX0VRYQPHS5718C3ZEJQ/image-asset.jpeg)
+![](images/4e2a4bf3-image-asset.jpeg)
 
 Rosemary and Carissa spent four days in Tanana with a local woman, the grocery store owner and advocate for the youth of the village. They led craft projects, including making puppets, and focused on building relationships with the village and showing the youth Jesus' love.
 

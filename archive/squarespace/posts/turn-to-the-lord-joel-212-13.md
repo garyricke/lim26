@@ -5,7 +5,7 @@ date: 2016-02-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/turn-to-the-lord-joel-212-13
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cffed6e4ef78491b6cbd/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781760183-JUZQRU5L5LCQ9T6BPO8I/image-asset.jpeg"]
+images: ["images/7dfc31fe-1748628700852", "images/7378b4bd-image-asset.jpeg"]
 ---
 # Turn to the Lord - Joel 2:12-13
 
@@ -15,7 +15,7 @@ Feb 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781760183-JUZQRU5L5LCQ9T6BPO8I/image-asset.jpeg)
+![](images/7378b4bd-image-asset.jpeg)
 
 **Monday, February 15**
 

@@ -5,7 +5,7 @@ date: 2018-12-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/for-you-a-savior-is-born-advent-devotion-tuesday-december-25
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6f0981ba40c2a9afb2c/1748628700852/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775346294-7QWXZVFHIWQQWCEE8G55/image-asset.png"]
+images: ["images/4fa5473d-1280x1280.jpg", "images/13412b43-image-asset.png"]
 ---
 # For You, A Savior is Born (Advent Devotion) - Tuesday, December 25
 
@@ -13,7 +13,7 @@ Dec 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775346294-7QWXZVFHIWQQWCEE8G55/image-asset.png)
+![](images/13412b43-image-asset.png)
 
 ## And suddenly there was with the angel a multitude of the heavenly host praising God and saying, “Glory to God in the highest, and on earth peace among those with whom he is pleased!" Luke 2:13-14 (ESV)
 

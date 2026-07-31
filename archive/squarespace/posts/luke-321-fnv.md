@@ -5,7 +5,7 @@ date: 2016-11-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-321-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4c0a567bc0fe71ced62/1748628700852/The+time+had+now+come+for+Creator+Sets+Free+%28Jesus%29+to+show+himself+to+all+the+people..png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778882429-50SE4ILTVGOPK1VOCTKF/image-asset.png"]
+images: ["images/63eeee14-The_time_had_now_come_for_Creator_Sets_Free__Jesus__to_show_himself_to_all_the_people..png", "images/3bf853c2-image-asset.png"]
 ---
 # Luke 3:21 FNV
 
@@ -13,7 +13,7 @@ Nov 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778882429-50SE4ILTVGOPK1VOCTKF/image-asset.png)
+![](images/3bf853c2-image-asset.png)
 
 What was the reason of Jesus' baptism?
 

@@ -5,7 +5,7 @@ date: 2017-05-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-512-13-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c082aaaa5d7dbb8f37db/1748628700852/a+man+with+a+skin+disease+all+over+his+body+came+to+Creator+Sets+Free+%28Jesus%29.+He+humbled+himself%2C+bowed+down+and+pleaded+with+him.+-Honored+One%21-+he+cried.+-If+you+want+to%2C+you+can+heal+and+cleanse+me.-Creato.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777795709-RNDK6VJUM9C9M5TQ4SV8/image-asset.png"]
+images: ["images/a5027b7a-a_man_with_a_skin_disease_all_over_his_body_came_to_Creator_Sets_Free__Jesus_._He_humbled_himself__bowed_down_and_pleade", "images/688e3046-image-asset.png"]
 ---
 # Luke 5:12-13 FNV
 
@@ -13,7 +13,7 @@ May 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777795709-RNDK6VJUM9C9M5TQ4SV8/image-asset.png)
+![](images/688e3046-image-asset.png)
 
 The hideous and hopeless nature of this disease—which is nothing short of a foul decay, arising from the total corruption of the blood—has been too often described to need further notice. See Leviticus 13, 14. It was a living death, as indicated by bare head, rent clothes, and covered lip. In the middle ages, a man seized with leprosy was “clothed in a shroud, and the masses of the dead sung over him.” In its horrible repulsiveness it is the Gospel type of Sin. The expression “full of” implies the rapid development and horror of the disease; when the man’s whole body was covered with the whiteness, he was allowed to mingle with others as clean ([Leviticus 13:13](http://biblehub.com/leviticus/13-13.htm)).
 

@@ -5,7 +5,7 @@ date: 2019-10-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-10182019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b213ce4bec6e8d1e4389/1748628700852/download.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774100803-8I0O9NRYQ4CVL5Q1SPFA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774102786-WJ5XMKK4QOTOKZQMJCES/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774103909-OW4O96Z8TE04PIAWIYL0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774105012-PNV3WCQNGO8H4CNWHJKW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774105960-J88B0TYLQCTXZMOBNF06/image-asset.jpeg"]
+images: ["images/09770920-download.jpg", "images/8d8bb737-image-asset.jpeg", "images/284fa3c8-image-asset.jpeg", "images/afa4ecf8-image-asset.jpeg", "images/febf3254-image-asset.jpeg", "images/1fc98606-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/18/19): finding ancestors, seeking land, and then playing a round of golf
 
@@ -13,7 +13,7 @@ Oct 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774100803-8I0O9NRYQ4CVL5Q1SPFA/image-asset.jpeg)
+![](images/8d8bb737-image-asset.jpeg)
 
 # October 18, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## ‘Rez golf’: Where fairways are dirt and hazards include goats
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774102786-WJ5XMKK4QOTOKZQMJCES/image-asset.jpeg)
+![](images/284fa3c8-image-asset.jpeg)
 
 Donald Benally digs the sixth hole on Wagon Trail to Lonesome Pine golf course on the Navajo Nation reservation in Steamboat, Ariz. (Gina Ferazzi / Los Angeles Times)
 
@@ -39,7 +39,7 @@ Wagon Trail to Lonesome Pine, one the biggest courses on the West Virginia-sized
 
 ## What not to wear: Killa Atencio on Indigenous fashion and the line between appropriation and uplifting cultural identity
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774103909-OW4O96Z8TE04PIAWIYL0/image-asset.jpeg)
+![](images/afa4ecf8-image-asset.jpeg)
 
 Killa Atencio is passionate about honouring her culture through art and fashion.
 
@@ -55,7 +55,7 @@ Atencio acknowledges that in an ever-changing and intermingling world, cultural 
 
 ## Meet the survivors of a ‘paper genocide’
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774105012-PNV3WCQNGO8H4CNWHJKW/image-asset.jpeg)
+![](images/febf3254-image-asset.jpeg)
 
 For centuries, the indigenous people of the Caribbean, known as Taíno, were said to be extinct. But recently, historians and DNA testing have confirmed what many modern, self-identifying Taíno already believed: that a genocide was carried out on paper, after the census stopped counting them, but their identity persisted. Jorge Baracutei Estevez (above), who leads a Taíno community group in New York, worked with photographer Haruka Sakaguchi to depict modern-day Taíno and their reimagined census entries. PHOTOGRAPH BY HARUKA SAKAGUCHI
 
@@ -69,7 +69,7 @@ Due to harsh treatment in the gold mines, sugarcane fields, and unbridled diseas
 
 ## ‘Landless’ tribes stake out selections in the Tongass
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774105960-J88B0TYLQCTXZMOBNF06/image-asset.jpeg)
+![](images/1fc98606-image-asset.jpeg)
 
 *Aerial view of an estuary on Prince of Wales Island in the Tongass National Forest of Southeast Alaska. Photo credit: © Erika Nortemann/TNC*
 

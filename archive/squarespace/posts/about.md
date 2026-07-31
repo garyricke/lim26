@@ -5,13 +5,13 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/about
 section: 
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651346906187-2RJF1J6XGHPO3ONCXDC1/people-old-woman-sky+copy.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651424921338-EWQLUNDT056AUR7BZBQW/people-girl-dog.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651425717443-DCFOOA0NQYZZP93WFWU6/prayer-navajo-baptism-lum.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/231399e5-f4b0-4c3b-8ed3-578766a066d7/background-gradient-litegray-white.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/287f6450-5ae1-4d22-802b-fc780ce647f1/background-gradient-litegray-white-475tall.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/2d02bc73-165e-4a9a-9133-9a0dbd4102e3/background-gradient-litegray-white.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/3883a8b0-b73d-4c83-bc58-652ebe1b41b0/who-is-lim-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/61339b04-8ab9-48e1-86ae-a9883cbb6348/audited-financial-statements-thumb-b.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/620e3027-e727-4f32-868b-c536f10e9f5c/about-header-hero-blur-bottom-blackgradient-b.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/67078f18-5173-4676-a311-9679cb1a4db3/prayer-navajo-baptism-lum.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/6bba897a-0bf8-4a64-8349-8e372df60a01/background-gradient-litegray-white.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/6f69d914-bc82-489c-8f50-7348d1ec6cbb/background-gradient-litegray-white.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a639c82d-b55a-445a-907e-fbfc83605400/stock-holy-bible-book-cross-close-up-view-crop.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/ce7a88a9-5b18-4891-97e6-7085c709119e/place-tipi-night-crop.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/d64249fc-99fd-4584-bcf1-f9d9352fd1e5/people-young-man-pondering.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/db4cfba8-1e8b-4fa1-b269-9a404ece503c/background-gradient-litegray-white.png"]
+images: ["images/51c7d624-people-old-woman-sky_copy.jpg", "images/fe277538-people-girl-dog.jpg", "images/e133b0c1-prayer-navajo-baptism-lum.jpeg", "images/210f2868-background-gradient-litegray-white.png", "images/fd4d8ef9-background-gradient-litegray-white-475tall.png", "images/b179be36-background-gradient-litegray-white.png", "images/51ebd736-who-is-lim-thumb.jpg", "images/fbb9537b-audited-financial-statements-thumb-b.png", "images/bb199818-about-header-hero-blur-bottom-blackgradient-b.jpg", "images/1e381c47-prayer-navajo-baptism-lum.jpeg", "images/7c120920-background-gradient-litegray-white.png", "images/7dd29359-background-gradient-litegray-white.png", "images/cd500a77-stock-holy-bible-book-cross-close-up-view-crop.jpg", "images/39a4c9ed-place-tipi-night-crop.jpg", "images/23fb9379-people-young-man-pondering.jpg", "images/1aac41d0-background-gradient-litegray-white.png"]
 ---
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/620e3027-e727-4f32-868b-c536f10e9f5c/about-header-hero-blur-bottom-blackgradient-b.jpg)
+![](images/bb199818-about-header-hero-blur-bottom-blackgradient-b.jpg)
 
 About LIM
 
-* ![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651424921338-EWQLUNDT056AUR7BZBQW/people-girl-dog.jpg)
+* ![](images/fe277538-people-girl-dog.jpg)
 
   ## Listen, Learn and Love.
 
@@ -20,7 +20,7 @@ About LIM
   Native people are natural storytellers. Storytelling is deeply embedded in their culture and history. They connect, teach, and build relationships primarily through story.
 
   That’s why, in the communities we seek to share the Gospel, we first take the time to listen. To know and become known. We don’t come with an agenda, we come with love.
-* ![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651425717443-DCFOOA0NQYZZP93WFWU6/prayer-navajo-baptism-lum.jpeg)
+* ![](images/e133b0c1-prayer-navajo-baptism-lum.jpeg)
 
   ## Love is an action, not an emotion.
 
@@ -31,13 +31,13 @@ About LIM
   It’s the only way we truly learn where the needs are greatest. Where the pain is most pronounced.
 
   And only then can we begin to come alongside them, working together to identify and attend to these needs.
-* ![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651346906187-2RJF1J6XGHPO3ONCXDC1/people-old-woman-sky+copy.jpg)
+* ![](images/51c7d624-people-old-woman-sky_copy.jpg)
 
   ## "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future."
 
   Jeremiah 29:11
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/6bba897a-0bf8-4a64-8349-8e372df60a01/background-gradient-litegray-white.png)
+![](images/7c120920-background-gradient-litegray-white.png)
 
 ## Our Vision
 
@@ -48,7 +48,7 @@ We envision a day when every nation, tribe and people come to know and experienc
 * Thrive in stable and healthy families and communities with empowered leaders devoted to Christ and to their wellbeing.
 * Embrace the uniqueness of each tribe’s heritage and share and learn from each other.
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/3883a8b0-b73d-4c83-bc58-652ebe1b41b0/who-is-lim-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/796310370/rendition/1080p/file.mp4?loc=external&log_user=0&signature=646c63dfc11af9887a448b74bdee9c0b0bdd54760c1f2aebd58cdebdbc1bbef6)
+[![](images/51ebd736-who-is-lim-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/796310370/rendition/1080p/file.mp4?loc=external&log_user=0&signature=646c63dfc11af9887a448b74bdee9c0b0bdd54760c1f2aebd58cdebdbc1bbef6)
 
 * Our Vision Statement
 
@@ -72,7 +72,7 @@ We envision a day when every nation, tribe and people come to know and experienc
 
 [View Our Mission](#mission)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/231399e5-f4b0-4c3b-8ed3-578766a066d7/background-gradient-litegray-white.png)
+![](images/210f2868-background-gradient-litegray-white.png)
 
 ## Our Origins
 
@@ -86,17 +86,17 @@ We serve to strengthen community relationships, educate children and adults, imp
 
 While we have Lutheran origins and affiliations, we are not funded or operated by the denomination. We draw on our own network and partner with supporting churches and individuals for funding, resources and volunteers.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/ce7a88a9-5b18-4891-97e6-7085c709119e/place-tipi-night-crop.jpg)
+![](images/39a4c9ed-place-tipi-night-crop.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/2d02bc73-165e-4a9a-9133-9a0dbd4102e3/background-gradient-litegray-white.png)
+![](images/b179be36-background-gradient-litegray-white.png)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/67078f18-5173-4676-a311-9679cb1a4db3/prayer-navajo-baptism-lum.jpeg)
+![](images/1e381c47-prayer-navajo-baptism-lum.jpeg)
 
 ## Our Ministry
 
 With a view through the Gospel’s lens of love, Lutheran Indian Ministries seeks to come alongside Native Americans and Alaska Natives to serve and support healing, restoration and renewal for individuals, families and communities.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/d64249fc-99fd-4584-bcf1-f9d9352fd1e5/people-young-man-pondering.jpg)
+![](images/23fb9379-people-young-man-pondering.jpg)
 
 ## Healing & Restoring
 
@@ -151,13 +151,13 @@ Click this button for questions about our services. Or let us know if you are in
 
   If any individual or church is interested in partnering with us to help with training and equipping in these or other areas of need, please use the “More Questions?” form to contact us.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a639c82d-b55a-445a-907e-fbfc83605400/stock-holy-bible-book-cross-close-up-view-crop.jpg)
+![](images/cd500a77-stock-holy-bible-book-cross-close-up-view-crop.jpg)
 
 ## Local Churches
 
 A core part of our mission is to partner with, train, and equip local churches, pastors and missionaries who share our heart for God’s Native people. This partnership may include serving as a resource, providing technical assistance, and developing  and deploying  supportive services and programs that meet the needs identified by the local community or church.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/db4cfba8-1e8b-4fa1-b269-9a404ece503c/background-gradient-litegray-white.png)
+![](images/1aac41d0-background-gradient-litegray-white.png)
 
 Our Team
 
@@ -204,9 +204,9 @@ Our Team
 
 [Join Our Team](https://recruiting.paylocity.com/recruiting/jobs/All/e19b9ab9-48b0-498b-b398-58f1cc233bb7/Lutheran-Indian-Ministries)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/6f69d914-bc82-489c-8f50-7348d1ec6cbb/background-gradient-litegray-white.png)
+![](images/7dd29359-background-gradient-litegray-white.png)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/61339b04-8ab9-48e1-86ae-a9883cbb6348/audited-financial-statements-thumb-b.png)](/s/Lutheran-Indian-Ministries-2025-Audited-Financial-Statements-FINAL-Board.pdf)
+[![](images/fbb9537b-audited-financial-statements-thumb-b.png)](/s/Lutheran-Indian-Ministries-2025-Audited-Financial-Statements-FINAL-Board.pdf)
 
 ## Audited Financial Statements
 
@@ -214,7 +214,7 @@ At Lutheran Indian Ministries, each dollar we receive is important. We strive to
 
 [Download](/s/Lutheran-Indian-Ministries-2025-Audited-Financial-Statements-FINAL-Board.pdf)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/287f6450-5ae1-4d22-802b-fc780ce647f1/background-gradient-litegray-white-475tall.png)
+![](images/fd4d8ef9-background-gradient-litegray-white-475tall.png)
 
 ## Our Mission
 

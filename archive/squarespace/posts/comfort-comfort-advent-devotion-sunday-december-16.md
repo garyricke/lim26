@@ -5,7 +5,7 @@ date: 2018-12-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/comfort-comfort-advent-devotion-sunday-december-16
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7687e444e62ee96be38/1748628700852/7e56768ec5a80d55960b3cb84297b39d.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775464917-5U27NO9PNA6YJR0RJMRA/image-asset.png"]
+images: ["images/0c817dad-7e56768ec5a80d55960b3cb84297b39d.jpg", "images/0e7f5439-image-asset.png"]
 ---
 # Comfort, Comfort (Advent Devotion) - Sunday, December 16
 
@@ -15,7 +15,7 @@ Dec 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775464917-5U27NO9PNA6YJR0RJMRA/image-asset.png)
+![](images/0e7f5439-image-asset.png)
 
 ## Comfort, comfort my people, says your God.  Speak tenderly to Jerusalem, and proclaim to her that her hard service has been completed, that her sin has been paid for, that she has received from the Lord’s hand double for all her sins. (Isaiah 40:1-2 NIV).
 

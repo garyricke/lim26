@@ -5,7 +5,7 @@ date: 2019-07-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-grow-model-week-5-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2dfeeb24f62b7c3058a/1748628700852/038ab030607874a7f0fddf2e7974020a.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774305829-OFQIFXDR71C33PI7266F/image-asset.jpeg"]
+images: ["images/7d44f4f2-038ab030607874a7f0fddf2e7974020a.jpg", "images/c8cebbe3-image-asset.jpeg"]
 ---
 # The GROW Model - Week 5 (Monday Morning Devotion)
 
@@ -13,7 +13,7 @@ Jul 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774305829-OFQIFXDR71C33PI7266F/image-asset.jpeg)
+![](images/c8cebbe3-image-asset.jpeg)
 
 We just spent six weeks discovering [“What is Hope?”](https://www.lutheranindianministries.org/news/what-is-hope-hope-is-given-as-a-gift-and-found-in-jesus-monday-morning-devotion-week-1) and now it’s time to share that hope.
 

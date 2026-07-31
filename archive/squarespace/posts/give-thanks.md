@@ -5,7 +5,7 @@ date: 2020-11-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/give-thanks
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af44cb88a56680ae7fde/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773384345-2PN18HLXRUC5QZACY7BC/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773393202-TEHOY1EOPU7I6X3LHFU3/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/c519a33d-1748628700852", "images/b9bd5d30-image-asset.png", "images/730eed77-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Give Thanks!
 
@@ -13,7 +13,7 @@ Nov 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773384345-2PN18HLXRUC5QZACY7BC/image-asset.png)
+![](images/b9bd5d30-image-asset.png)
 
 **GIVE THANKS!**
 
@@ -58,11 +58,11 @@ In Him,
 Tim Young Eagle (Pawnee)  
 Executive Director
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773393202-TEHOY1EOPU7I6X3LHFU3/image-asset.png)
+![](images/730eed77-image-asset.png)
 
 ### P.S. If you didn’t receive it in the mail, check out our [Advent Devotion/Fall Newsletter](https://www.lutheranindianministries.org/resources/northern-lights-newsletter-4) to see all the amazing things your donations achieve. And, we pray the devotions would guide you through the holiday season toward a stronger relationship with your Heavenly Father.
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

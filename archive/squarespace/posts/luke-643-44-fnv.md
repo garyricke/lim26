@@ -5,7 +5,7 @@ date: 2018-02-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-643-44-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bcd1f9c95608ba413088/1748628700852/_Healthy+trees+give+good+fruit+and+rotten+trees+give+bad+fruit.+Do+grapes+come+from+a+thorn+bush+or+figs+from+thistles__+Luke+6_43-44+FNV.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776851300-KHV5KOD2M730MLP5FSKW/image-asset.png"]
+images: ["images/21b21873-_Healthy_trees_give_good_fruit_and_rotten_trees_give_bad_fruit._Do_grapes_come_from_a_thorn_bush_or_figs_from_thistles__", "images/6d5f8c79-image-asset.png"]
 ---
 # Luke 6:43-44 FNV
 
@@ -13,7 +13,7 @@ Feb 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776851300-KHV5KOD2M730MLP5FSKW/image-asset.png)
+![](images/6d5f8c79-image-asset.png)
 
 All these sayings Christ often used; it was easy to apply them.
 

@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/truth+for+the+world
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773140478-A2UUEW63MDC32AJLKFD7/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773143587-KJEMDBN8A0TQLQX4BRHX/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773147015-SBH2FRWZJP7B73RT28LI/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773150346-VY2WZN6PX6H4RMYV9RMA/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773154456-9H7ZU3IYWUXIFWF50HAW/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773158131-XWTFLGPP8XATT0BFETZN/Copy+of+Give+us+this+day+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773162030-X7L0KMAZO52ELQ54SYPF/Copy+of+Give+us+this+day+%282%29.png"]
+images: ["images/e5766efb-Copy_of_Give_us_this_day__2_.png", "images/a0643e97-Copy_of_Give_us_this_day__2_.png", "images/9ed677c0-Copy_of_Give_us_this_day__2_.png", "images/009c64df-Copy_of_Give_us_this_day__2_.png", "images/151e7df7-Copy_of_Give_us_this_day__2_.png", "images/0891dd89-Copy_of_Give_us_this_day__2_.png", "images/42cda2b6-Copy_of_Give_us_this_day__2_.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![TRUTH: what the world needs - Week 7 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773140478-A2UUEW63MDC32AJLKFD7/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-7-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 7 (Monday Morning Devotions)](images/e5766efb-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-7-monday-morning-devotions)
 
 Guest User
 2/15/21
@@ -75,7 +75,7 @@ God's Transcendent Truth has been revealed in the Sacred Word of God, which neve
 
 [Read More](/news-notes/truth-what-the-world-needs-week-7-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 6 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773143587-KJEMDBN8A0TQLQX4BRHX/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-6-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 6 (Monday Morning Devotions)](images/a0643e97-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-6-monday-morning-devotions)
 
 Guest User
 2/8/21
@@ -89,7 +89,7 @@ For those of us who take God at his Word, we must humbly admit that this is the 
 
 [Read More](/news-notes/truth-what-the-world-needs-week-6-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 5 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773147015-SBH2FRWZJP7B73RT28LI/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-5-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 5 (Monday Morning Devotions)](images/9ed677c0-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-5-monday-morning-devotions)
 
 Guest User
 2/1/21
@@ -103,7 +103,7 @@ In our world, many would say truth is relative. In other words, what is true for
 
 [Read More](/news-notes/truth-what-the-world-needs-week-5-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 4 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773150346-VY2WZN6PX6H4RMYV9RMA/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-4-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 4 (Monday Morning Devotions)](images/009c64df-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-4-monday-morning-devotions)
 
 Guest User
 1/25/21
@@ -123,7 +123,7 @@ One turns to God's Sacred Word.
 
 [Read More](/news-notes/truth-what-the-world-needs-week-4-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 3 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773154456-9H7ZU3IYWUXIFWF50HAW/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-3-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 3 (Monday Morning Devotions)](images/151e7df7-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-3-monday-morning-devotions)
 
 Guest User
 1/18/21
@@ -139,7 +139,7 @@ But, I have good news for you today. There is One whom you can trust and who onl
 
 [Read More](/news-notes/truth-what-the-world-needs-week-3-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 2 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773158131-XWTFLGPP8XATT0BFETZN/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-2-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 2 (Monday Morning Devotions)](images/0891dd89-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-2-monday-morning-devotions)
 
 Guest User
 1/11/21
@@ -157,7 +157,7 @@ The virgin birth of baby Jesus, celebrated on Christmas Day, has been brought in
 
 [Read More](/news-notes/truth-what-the-world-needs-week-2-monday-morning-devotions)
 
-[![TRUTH: what the world needs - Week 1 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773162030-X7L0KMAZO52ELQ54SYPF/Copy+of+Give+us+this+day+%282%29.png)](/news-notes/truth-what-the-world-needs-week-1-monday-morning-devotions)
+[![TRUTH: what the world needs - Week 1 (Monday Morning Devotions)](images/42cda2b6-Copy_of_Give_us_this_day__2_.png)](/news-notes/truth-what-the-world-needs-week-1-monday-morning-devotions)
 
 Guest User
 1/4/21

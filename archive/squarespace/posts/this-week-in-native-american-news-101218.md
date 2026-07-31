@@ -5,7 +5,7 @@ date: 2018-10-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-101218
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7f4cb88a56680b00712/1748628700852/ff6d5545-937f-447f-9434-875858d88fb1-2060x1236.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775604685-NCOZRYM24GNGZ2TU6VCT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775605364-RHHOAJH6XG8EIJQ2L8RN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775606748-RIN6AA2EAALFURL8R56L/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775608184-3CP91IGA5C3DOZ2HOJWR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775609260-PIN9R2CS9I3FIIK02DRW/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775610161-XK9NJSIBCZRFCIPFUGXG/image-asset.jpeg"]
+images: ["images/81d193c4-ff6d5545-937f-447f-9434-875858d88fb1-2060x1236.jpeg", "images/7f03b7e3-image-asset.jpeg", "images/52bb637e-image-asset.jpeg", "images/9d5531a2-image-asset.jpeg", "images/8630861d-image-asset.jpeg", "images/71fc138e-image-asset.png", "images/281692f7-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/12/18): Fires, Tattoos, and Playlists
 
@@ -13,7 +13,7 @@ Oct 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775604685-NCOZRYM24GNGZ2TU6VCT/image-asset.jpeg)
+![](images/7f03b7e3-image-asset.jpeg)
 
 # October 12, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Fire and agroforestry revive California indigenous groups’ traditions
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775605364-RHHOAJH6XG8EIJQ2L8RN/image-asset.jpeg)
+![](images/52bb637e-image-asset.jpeg)
 
 Frank Lake, a PhD research ecologist with the U.S. Forest Service and a Karuk descendant, at the start of huckleberry season. Image by Jane Braxton Little for Mongabay
 
@@ -39,7 +39,7 @@ Maintaining healthy ecosystems not only assures tribe members of the food, medic
 
 ## An ‘Ancestral Memory’ Inscribed in Skin
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775606748-RIN6AA2EAALFURL8R56L/image-asset.jpeg)
+![](images/9d5531a2-image-asset.jpeg)
 
 Marjorie Tahbone has chin tattoos, as did her great-great grandmother, right. CreditAsh Adams for The New York Times
 
@@ -57,7 +57,7 @@ These line tattoos speak to a practice that dates back at least 10,000 years and
 
 ## How the loss of Native American languages affects our understanding of the natural world
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775608184-3CP91IGA5C3DOZ2HOJWR/image-asset.jpeg)
+![](images/8630861d-image-asset.jpeg)
 
 Once a language is gone, the traditional knowledge it carries also gets erased from society. Image: REUTERS/Jonathan Ernst
 
@@ -71,13 +71,13 @@ Languages carry deep cultural knowledge and insights. So, what does the loss of 
 
 ## In Similar News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775609260-PIN9R2CS9I3FIIK02DRW/image-asset.png)
+![](images/71fc138e-image-asset.png)
 
 ### [You can Now Learn the endangered Hawaiian and Navajo languages on Duolingo](https://matadornetwork.com/read/learn-hawaiian-navajo-languages-duolingo/)
 
 Most people use [DUOLINGO](https://www.duolingo.com/), the popular language learning app, to learn widely-used languages such as French, Spanish, or Chinese, but now you can learn two languages very few others can speak. In an effort to preserve indigenous languages that are nearing extinction by exposing them to a wider audience, Duolingo just added Hawaii’s ʻōlelo Hawaiʻi language, and Diné, the Navajo language, to its list of learnable languages.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775610161-XK9NJSIBCZRFCIPFUGXG/image-asset.jpeg)
+![](images/281692f7-image-asset.jpeg)
 
 ### [Alaska moves to include Native languages in public signs](https://www.arctictoday.com/alaska-moves-include-alaska-native-languages-public-signs/)
 

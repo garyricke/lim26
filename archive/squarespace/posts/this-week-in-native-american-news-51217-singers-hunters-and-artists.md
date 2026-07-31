@@ -5,7 +5,7 @@ date: 2017-05-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-51217-singers-hunters-and-artists
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c09c81715079237e5845/1748628700852/kamea_action.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777821633-F3V401PY5RLHEA5T1JSO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777822671-TMQMC3TE7OX0XO655X2O/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777823623-5SZDDPK13DLQNXMHHS0G/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777824909-7I8FL1NXUN71WKYKNRC6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777825862-NGPK1C2DDG7RT25J73UU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777826940-B3TIOAXC2HQU4SZ94NP7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777827887-KUFOC6000C7YS7XRJUW6/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777829320-D5CYRUTTNZLB66C32FS0/image-asset.jpeg"]
+images: ["images/f78173e7-kamea_action.jpg", "images/2776af41-image-asset.jpeg", "images/11a4459c-image-asset.jpeg", "images/4a1a4d57-image-asset.jpeg", "images/d09d5638-image-asset.jpeg", "images/8af7ba05-image-asset.jpeg", "images/1d4a9241-image-asset.jpeg", "images/960167e4-image-asset.png", "images/690143f4-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/12/17): singers, hunters, and artists
 
@@ -13,7 +13,7 @@ May 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777821633-F3V401PY5RLHEA5T1JSO/image-asset.jpeg)
+![](images/2776af41-image-asset.jpeg)
 
 # May 12, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Singing to Preserve Language
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777822671-TMQMC3TE7OX0XO655X2O/image-asset.jpeg)
+![](images/11a4459c-image-asset.jpeg)
 
 Rosa Violet Pitawanakwat-Burke is a 76-year-old Odawa from Wikwemikong Unceded Territory on the northeastern shore of Manatoulin Island in northern Ontario. She's recalling her childhood, when the federal government forcibly took her away from her home and family.
 
@@ -37,7 +37,7 @@ Rosa's new CD, her fourth, is called "Gospel Classic Karaoke" and is targeting C
 
 ## Encouraging STEM on Reservations
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777823623-5SZDDPK13DLQNXMHHS0G/image-asset.jpeg)
+![](images/4a1a4d57-image-asset.jpeg)
 
 Many of us grew up in the era of “no child left behind.” It’s such an amazing sentiment. We are one of the richest nations on earth. Doing better, especially by our kids, should be inalienable. Yet, kids still *are* being left behind; in fact, it’s distressingly common and far too often overlooked. Among these forgotten children are tens of thousands of Americans born into poverty on American Indian Reservations.
 
@@ -51,7 +51,7 @@ What separates ANSEP from a high school program or a summer camp is that they st
 
 ## Helping Native People with Financial Success
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777824909-7I8FL1NXUN71WKYKNRC6/image-asset.jpeg)
+![](images/d09d5638-image-asset.jpeg)
 
 Harvard Business School launched its first annual Leading People and Investing to Build Sustainable Communities program, which set out to equip professionals from First Nations and native-American communities with new ideas for managing their businesses and resources.
 
@@ -65,7 +65,7 @@ The curriculum focused on governance and investment practices to help a communit
 
 ## Native American Art Finally Included
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777825862-NGPK1C2DDG7RT25J73UU/image-asset.jpeg)
+![](images/8af7ba05-image-asset.jpeg)
 
 The American Wing of the storied [Metropolitan Museum of Art](http://www.metmuseum.org/) has long held a collection of typically “American” artifacts: portraits of wigged colonial leaders, Tiffany chandeliers, Frank Lloyd Wright chairs, silver owned by Paul Revere Jr., quilts by unknown 19th-century makers.
 
@@ -79,7 +79,7 @@ Beginning in the fall of 2018, however, the American Wing will attempt to course
 
 ## The Seal Skin Tradition
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777826940-B3TIOAXC2HQU4SZ94NP7/image-asset.jpeg)
+![](images/1d4a9241-image-asset.jpeg)
 
 First, she looked to tradition, immersing herself in the Inuit customs of mitten and parka-making. Next, Victoria Kakuktinniq sought out the contemporary, heading south to train in fashion design before returning home to Nunavut, Canada’s northernmost territory.
 
@@ -93,7 +93,7 @@ But little thought was given to the impact these anti-sealing campaigns would ha
 
 ### [Read the full story here.](https://www.theguardian.com/world/2017/may/11/sealskin-trade-inuit-fashion-designers-greenpeace)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777827887-KUFOC6000C7YS7XRJUW6/image-asset.png)
+![](images/960167e4-image-asset.png)
 
 ### [Also, seal oil supplies are low this year.](https://www.newsdeeply.com/arctic/articles/2017/05/11/slushy-springs-may-make-western-alaskas-prized-condiment-more-scarce)
 
@@ -103,7 +103,7 @@ Seal oil is packed with vitamin D, omega-3 fats and all kinds of other dietary n
 
 ## The Hokulea is coming home
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777829320-D5CYRUTTNZLB66C32FS0/image-asset.jpeg)
+![](images/690143f4-image-asset.jpeg)
 
 The famed boat embarked from Hawaii in 2014 and has been sailing the globe on a mission of education and a movement toward a more sustainable world. The Hokulea returns to Honolulu in June, and when it does, it will be greeted by Hadar’s new 14-story mural.
 

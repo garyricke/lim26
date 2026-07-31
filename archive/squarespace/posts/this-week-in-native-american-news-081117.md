@@ -5,7 +5,7 @@ date: 2017-08-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-081117
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf60e6ff8f069728c326/1748628700852/download.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777505234-0JR6UT46QIS6NVV47VXL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777506229-LYJSXR5APHSD9HW6OA4P/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777507313-IA5O266CJ1Q80CH41DW6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777508508-1KKHCOZVLBS463AGDKR7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777509727-V9ANK3ZGQXP50S82XRS8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777510729-1VJJZADB287ZQBCVVPCA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777511776-YKCKN3GR3WVFBWO78ZNA/image-asset.jpeg"]
+images: ["images/57a9718f-download.jpg", "images/774912eb-image-asset.jpeg", "images/c1a31fca-image-asset.jpeg", "images/956c08a8-image-asset.jpeg", "images/bf79b561-image-asset.jpeg", "images/2358af69-image-asset.jpeg", "images/68838cdf-image-asset.jpeg", "images/99a74938-image-asset.jpeg"]
 ---
 # This Week in Native American News (8/11/17): Indigenous Peoples Day, New Laws, and New Wine
 
@@ -13,7 +13,7 @@ Aug 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777505234-0JR6UT46QIS6NVV47VXL/image-asset.jpeg)
+![](images/774912eb-image-asset.jpeg)
 
 # August 11, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Celebrating Indigenous Peoples
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777506229-LYJSXR5APHSD9HW6OA4P/image-asset.jpeg)
+![](images/c1a31fca-image-asset.jpeg)
 
 Photo from article: [LA Times](http://www.latimes.com/world/global-development/la-fg-global-ulia-gosart-oped-20170801-story.html)
 
@@ -39,7 +39,7 @@ Today, indigenous politicians influence policymaking in most areas of social and
 
 ## Sexual Crime at Epidemic Rates
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777507313-IA5O266CJ1Q80CH41DW6/image-asset.jpeg)
+![](images/956c08a8-image-asset.jpeg)
 
 Photo from article: Alaska Dispatch
 
@@ -51,7 +51,7 @@ Walker is right. The causes of sexual violence in Alaska are complex and ingrain
 
 ### [Read the full story here](https://www.adn.com/opinions/2017/08/07/alaska-should-declare-a-sexual-assault-state-of-disaster/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777508508-1KKHCOZVLBS463AGDKR7/image-asset.jpeg)
+![](images/bf79b561-image-asset.jpeg)
 
 When the cause of both health and mental problems is from sexual assault, they should be addressed together.
 
@@ -63,7 +63,7 @@ When the cause of both health and mental problems is from sexual assault, they s
 
 ## Native American Arts Getting a Boost
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777509727-V9ANK3ZGQXP50S82XRS8/image-asset.jpeg)
+![](images/2358af69-image-asset.jpeg)
 
 Photo from article: [Artsy](https://www.artsy.net/article/artsy-editorial-native-american-artists-market-boost)
 
@@ -79,7 +79,7 @@ The answer is complex. Native Americans have experienced a long history of dispo
 
 ## Navajo Criminalizes Trafficking
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777510729-1VJJZADB287ZQBCVVPCA/image-asset.jpeg)
+![](images/68838cdf-image-asset.jpeg)
 
 Photo from article: [Indian Country Media](https://indiancountrymedianetwork.com/news/politics/navajo-sign-law-criminalizing-human-trafficking/?mqsc=ED3903095)
 
@@ -93,7 +93,7 @@ Navajo President Russell Begaye on August 7 signed the Navajo Nation Law against
 
 ## First Native American-Grown Wine Released
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777511776-YKCKN3GR3WVFBWO78ZNA/image-asset.jpeg)
+![](images/99a74938-image-asset.jpeg)
 
 Photo from article: [KRQE](http://krqe.com/2017/08/09/winery-partners-with-new-mexico-pueblo-to-create-first-native-american-grown-wine/)
 

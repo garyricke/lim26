@@ -5,7 +5,7 @@ date: 2017-01-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/being-used-by-god-truth-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c41239aa220f9165cc01/1748628700852/Psalm-57-10.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778708093-L0Q1X4F6C24YXZ0YH3A7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778709252-PYRIFI2RWNTOXGEXAUYN/image-asset.png"]
+images: ["images/9cb06050-Psalm-57-10.png", "images/ac0ea5d5-image-asset.jpeg", "images/fec33bb8-image-asset.png"]
 ---
 # Being Used by God, Tip #1: It's all about love - Monday Morning Devotion
 
@@ -13,9 +13,9 @@ Jan 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778708093-L0Q1X4F6C24YXZ0YH3A7/image-asset.jpeg)
+![](images/ac0ea5d5-image-asset.jpeg)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778709252-PYRIFI2RWNTOXGEXAUYN/image-asset.png)
+![](images/fec33bb8-image-asset.png)
 
 God uses us because He loves us.
 

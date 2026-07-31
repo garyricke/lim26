@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/what+is+hope
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774410959-JQ3821BWWGU3O01J3VRD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774422207-Q7DQBO3G9OHXTR843SSD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774427337-UQ0CK5A6WSW2OMJ2X3TJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774451332-TULGH1VV4MCL8QZHLU0X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774454440-INU51HU9L50T0R8GW5KJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774472340-SVINUN5D4O7698SI74HL/image-asset.jpeg"]
+images: ["images/12fb0675-image-asset.jpeg", "images/35025b94-image-asset.jpeg", "images/1909b1aa-image-asset.jpeg", "images/a05d526e-image-asset.jpeg", "images/3a1ad8bf-image-asset.jpeg", "images/389d0589-image-asset.jpeg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Hope is the Best Gift We Can Give &amp; It Ties Us Together (Monday Morning Devotion - Week 6)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774410959-JQ3821BWWGU3O01J3VRD/image-asset.jpeg)](/news-notes/hope-is-the-best-gift-we-can-give-it-ties-us-together-monday-morning-devotion-week-6)
+[![Hope is the Best Gift We Can Give &amp; It Ties Us Together (Monday Morning Devotion - Week 6)](images/12fb0675-image-asset.jpeg)](/news-notes/hope-is-the-best-gift-we-can-give-it-ties-us-together-monday-morning-devotion-week-6)
 
 Guest User
 6/3/19
@@ -73,7 +73,7 @@ The Church is united by a shared hope. Ephesians 4 tells us “There is one body
 
 [Read More](/news-notes/hope-is-the-best-gift-we-can-give-it-ties-us-together-monday-morning-devotion-week-6)
 
-[![Hope is Powerful &amp; Contagious (Monday Morning Devotion - Week 5)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774422207-Q7DQBO3G9OHXTR843SSD/image-asset.jpeg)](/news-notes/hope-is-powerful-contagious-monday-morning-devotion-week-5)
+[![Hope is Powerful &amp; Contagious (Monday Morning Devotion - Week 5)](images/35025b94-image-asset.jpeg)](/news-notes/hope-is-powerful-contagious-monday-morning-devotion-week-5)
 
 Guest User
 5/27/19
@@ -87,7 +87,7 @@ Hope is contagious. When we’re promised great things we’re filled with expec
 
 [Read More](/news-notes/hope-is-powerful-contagious-monday-morning-devotion-week-5)
 
-[![Hope is Eternal (Monday Morning Devotion - Week 4)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774427337-UQ0CK5A6WSW2OMJ2X3TJ/image-asset.jpeg)](/news-notes/hope-is-eternal-monday-morning-devotion-week-4)
+[![Hope is Eternal (Monday Morning Devotion - Week 4)](images/1909b1aa-image-asset.jpeg)](/news-notes/hope-is-eternal-monday-morning-devotion-week-4)
 
 Guest User
 5/20/19
@@ -103,7 +103,7 @@ At times, we feel the uncertainty of uneven, rocky roads. We may even feel like 
 
 [Read More](/news-notes/hope-is-eternal-monday-morning-devotion-week-4)
 
-[![Hope is Expecting the Best &amp; Perservering Until You Get There (Monday Morning Devotion - Week 3)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774451332-TULGH1VV4MCL8QZHLU0X/image-asset.jpeg)](/news-notes/hope-is-expecting-the-best-perservering-until-you-get-there-monday-morning-devotion-week-3)
+[![Hope is Expecting the Best &amp; Perservering Until You Get There (Monday Morning Devotion - Week 3)](images/a05d526e-image-asset.jpeg)](/news-notes/hope-is-expecting-the-best-perservering-until-you-get-there-monday-morning-devotion-week-3)
 
 Guest User
 5/13/19
@@ -117,7 +117,7 @@ Like the writer of Lamentations, we can look back at all God has done for us in 
 
 [Read More](/news-notes/hope-is-expecting-the-best-perservering-until-you-get-there-monday-morning-devotion-week-3)
 
-[![Hope is Risky but It's a Necessity (Monday Morning Devotion - Week 2)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774454440-INU51HU9L50T0R8GW5KJ/image-asset.jpeg)](/news-notes/hope-is-risky-but-its-a-necessity-monday-morning-devotion-week-2)
+[![Hope is Risky but It's a Necessity (Monday Morning Devotion - Week 2)](images/3a1ad8bf-image-asset.jpeg)](/news-notes/hope-is-risky-but-its-a-necessity-monday-morning-devotion-week-2)
 
 Guest User
 5/6/19
@@ -131,7 +131,7 @@ Joseph risked his reputation. The disciples risked their lives. In return, they 
 
 [Read More](/news-notes/hope-is-risky-but-its-a-necessity-monday-morning-devotion-week-2)
 
-[![What is Hope?: Hope is Given as a Gift through Jesus (Monday Morning Devotion - Week 1)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774472340-SVINUN5D4O7698SI74HL/image-asset.jpeg)](/news-notes/what-is-hope-hope-is-given-as-a-gift-and-found-in-jesus-monday-morning-devotion-week-1)
+[![What is Hope?: Hope is Given as a Gift through Jesus (Monday Morning Devotion - Week 1)](images/389d0589-image-asset.jpeg)](/news-notes/what-is-hope-hope-is-given-as-a-gift-and-found-in-jesus-monday-morning-devotion-week-1)
 
 Guest User
 4/29/19

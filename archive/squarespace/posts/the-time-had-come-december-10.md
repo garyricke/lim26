@@ -5,7 +5,7 @@ date: 2016-12-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-time-had-come-december-10
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4609c4d201dc3cffb5a/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778786024-T02KRZTA35LPBC5BTOEK/image-asset.png"]
+images: ["images/2da2c712-2016_Advent_Devotions.png", "images/8ed37362-image-asset.png"]
 ---
 # The Time Had Come: December 10
 
@@ -13,7 +13,7 @@ Dec 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778786024-T02KRZTA35LPBC5BTOEK/image-asset.png)
+![](images/8ed37362-image-asset.png)
 
 ## While they were there, the time came for the baby to be born, and she gave birth to her first born, a son. She wrapped him in cloths and laid him in a manger because there was no room for them in the inn. Luke 2:6,7 (NIV)
 

@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Arizona%2FPheonix
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773925993-0C5B9E8YAXXQUYWAFHKW/569571f61b546fec17fd0a1f1e27854f--hebrew-bible-bible-scriptures.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773947272-YIPZS5J203U3XVQMS33V/316_w_670.jpg"]
+images: ["images/8229c40e-569571f61b546fec17fd0a1f1e27854f--hebrew-bible-bible-scriptures.jpg", "images/64bcecd8-316_w_670.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Advent: the High Places - Monday, December 23](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773925993-0C5B9E8YAXXQUYWAFHKW/569571f61b546fec17fd0a1f1e27854f--hebrew-bible-bible-scriptures.jpg)](/news-notes/advent-the-high-places-monday-december-23)
+[![Advent: the High Places - Monday, December 23](images/8229c40e-569571f61b546fec17fd0a1f1e27854f--hebrew-bible-bible-scriptures.jpg)](/news-notes/advent-the-high-places-monday-december-23)
 
 [Arizona/Pheonix](/news-notes/category/Arizona%2FPheonix)
 Guest User
@@ -75,7 +75,7 @@ If we no longer sacrifice burnt offerings to the Lord, we must now sacrifice of 
 
 [Read More](/news-notes/advent-the-high-places-monday-december-23)
 
-[![Advent: God's Path - Tuesday, December 17](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773947272-YIPZS5J203U3XVQMS33V/316_w_670.jpg)](/news-notes/advent-gods-path-tuesday-december-17)
+[![Advent: God's Path - Tuesday, December 17](images/64bcecd8-316_w_670.jpg)](/news-notes/advent-gods-path-tuesday-december-17)
 
 [Arizona/Pheonix](/news-notes/category/Arizona%2FPheonix)
 Guest User

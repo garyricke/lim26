@@ -5,7 +5,7 @@ date: 2016-06-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-june-3-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c931a5c8185ca9dacae8/1748628700852/2016-05-16-hawaiian-canoe-hokulea-charbage0372_custom-94117c5b73b42ddf483c9fefb85f95458b15888b-s1300-c85.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780019024-4U9JKAEE58KO4F5INITT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780021548-TU4M0GXXPNP4WQXSDV8A/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780023883-G2KFBJOUKTB0U5GFEBL2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780025541-WMD61UU4I8Y3W4KQQMCN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780026688-8BUFL6KYZK934IBIQB1E/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780028919-7MODFOP4IXQXS6W2G7SA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780031588-EC6N1TG2E3J2LRA2S3US/image-asset.jpeg"]
+images: ["images/49e8ee59-2016-05-16-hawaiian-canoe-hokulea-charbage0372_custom-94117c5b73b42ddf483c9fefb85f95458b15888b-s1300-c85.jpg", "images/1b642c6a-image-asset.jpeg", "images/df2ca2cf-image-asset.jpeg", "images/2b88c947-image-asset.jpeg", "images/34cd41be-image-asset.jpeg", "images/6b6de2ff-image-asset.jpeg", "images/dd97fae3-image-asset.jpeg", "images/a6f73d4e-image-asset.jpeg"]
 ---
 # This Week in Native American News - June 3, 2016
 
@@ -15,13 +15,13 @@ Jun 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780019024-4U9JKAEE58KO4F5INITT/image-asset.jpeg)
+![](images/1b642c6a-image-asset.jpeg)
 
 ---
 
 ### Catamaran-style Canoe Traveling the Globe
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780021548-TU4M0GXXPNP4WQXSDV8A/image-asset.jpeg)
+![](images/df2ca2cf-image-asset.jpeg)
 
 *Kala Tanaka on the Hokule'a. Photo credit: Claire Harbage/NPR*
 
@@ -37,7 +37,7 @@ The Hokule'a is currently in New York City. [You can track her voyage here.](htt
 
 ### Follow up regarding Paris' Auction of Native Items
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780023883-G2KFBJOUKTB0U5GFEBL2/image-asset.jpeg)
+![](images/2b88c947-image-asset.jpeg)
 
 *A Puebloan Kachina Huhuwa* *mask* *at a 2014 Paris auction. Photo credit: Thomas Samson/AFP/Getty Images*
 
@@ -51,7 +51,7 @@ The auction did take place on Monday, May 30th, and auctioned 313 lots with disa
 
 ### Gathering of Nations to Stay in Albuquerque
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780025541-WMD61UU4I8Y3W4KQQMCN/image-asset.jpeg)
+![](images/34cd41be-image-asset.jpeg)
 
 *Gathering of Nations Grand Entry. Photo credit: Gathering of Nations*
 
@@ -65,7 +65,7 @@ Next year's event will take place April 27-29, 2017. Book your hotels now!
 
 ### Inuit Village Builds 'Family House' for Displaced Children
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780026688-8BUFL6KYZK934IBIQB1E/image-asset.jpeg)
+![](images/6b6de2ff-image-asset.jpeg)
 
 *Kangiqsualujjuaq village playground. Photo credit: Catou MacKinnon/CBC*
 
@@ -83,7 +83,7 @@ The ultimate goal of Qarmaapik is to prevent the youth protection agencies from 
 
 ### Native American Owned Cannabis Store Opens on Washington Reservation
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780028919-7MODFOP4IXQXS6W2G7SA/image-asset.jpeg)
+![](images/dd97fae3-image-asset.jpeg)
 
 *Elevation cannabis store opens on Squaxin Island Tribal Land. Photo Credit: Tracy Rector/Guardian*
 
@@ -97,7 +97,7 @@ Opponents think it unwise to sell drugs in a native community where alcohol and 
 
 Amazonian Tribes Using Tourism to Help Their Communities
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780031588-EC6N1TG2E3J2LRA2S3US/image-asset.jpeg)
+![](images/a6f73d4e-image-asset.jpeg)
 
 *Tribal member teaches about flora. Photo credit: G Adventures*
 

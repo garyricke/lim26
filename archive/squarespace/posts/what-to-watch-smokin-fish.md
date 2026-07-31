@@ -5,7 +5,7 @@ date: 2017-07-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-to-watch-smokin-fish
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfb835c9066700e1cb89/1748628700852/Mezzanine_953.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777592961-QOKONA94ZG6DT34EV2HI/image-asset.jpeg"]
+images: ["images/0d7298f5-Mezzanine_953.jpg", "images/08142a1c-image-asset.jpeg"]
 ---
 # What to Watch: Smokin' Fish
 
@@ -19,7 +19,7 @@ This week's featured film is: [Smokin' Fish](http://americanarchive.org/catalog/
 
 *As part of Vision Maker Media's "40 years, 40 films, 40 weeks" program, one archived PBS film will be re-released each week. Watch them while they are available!*
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777592961-QOKONA94ZG6DT34EV2HI/image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-jw86h4dj2b)
+[![](images/08142a1c-image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-jw86h4dj2b)
 
 Cory Mann is a businessman hustling to make a dollar in Juneau, Alaska. He gets hungry for smoked salmon — a favorite food from his childhood — and decides to spend a summer preparing the traditional dish of his people, the Tlingit. Smokin' Fish interweaves the unusual story of Mann's life and the untold history of the Tlingit with the process of preparing this traditional food. The documentary also chronicles Mann's struggles to pay his bills and keep his business, which focuses on mass producing and importing Tlingit artwork and wholesaling it to the tourism industry, afloat.
 

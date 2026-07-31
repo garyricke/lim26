@@ -5,7 +5,7 @@ date: 2017-03-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-tuesday-march-7
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1c340ddb009a3a63e85/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778116621-JA9RHRSZFSXUI8H4SVIT/image-asset.png"]
+images: ["images/db1ec134-1748628700852", "images/df7bac0d-image-asset.png"]
 ---
 # Read & Reflect: Tuesday, March 7
 
@@ -13,7 +13,7 @@ Mar 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778116621-JA9RHRSZFSXUI8H4SVIT/image-asset.png)
+![](images/df7bac0d-image-asset.png)
 
 ## Read: [Isaiah 41:13](https://www.bible.com/bible/111/isa.41.13), [Matthew 11:28-30](https://www.bible.com/bible/111/mat.11.28-30)
 

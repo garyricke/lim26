@@ -5,7 +5,7 @@ date: 2017-11-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/its-fall-in-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be8ce32d133794781ec0/1748628700852/oct17nwsltr.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777293300-CVU12HCZTXL9B7UQE8Z6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777294863-0760PODQVL0X8B3OIJTC/image-asset.jpeg"]
+images: ["images/ef276dc1-oct17nwsltr.jpg", "images/46bba1b5-image-asset.jpeg", "images/34b275ec-image-asset.jpeg"]
 ---
 # It's Fall in Navajo
 
@@ -19,7 +19,7 @@ Dear Friends in Christ,
 
 “God’s own child I gladly say it: I am baptized into Christ!  He, because I could not pay it, Gave my full redemption price.” (Lutheran Service Book 594).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777293300-CVU12HCZTXL9B7UQE8Z6/image-asset.jpeg)
+![](images/46bba1b5-image-asset.jpeg)
 
 Pictured above is another family who received forgiveness, life, and salvation through the waters of Holy Baptism. 
 
@@ -33,7 +33,7 @@ As I mentioned above, we also had the team from Massachusetts return for the thi
 
 Another major event that took place at the end of August was my ordination.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777294863-0760PODQVL0X8B3OIJTC/image-asset.jpeg)
+![](images/34b275ec-image-asset.jpeg)
 
 We were blessed with the presence of our District President Rev. Allen Anderson, 18 pastors (from New Mexico, Colorado, Idaho, Washington, Alaska, and Texas), and one vicar (serving in Utah), along with many other friends, family, and visitors. Included in that group was a team I traveled to Africa with back in ‘92-­‐93 who surprised me in coming and shared a song in the service.
 

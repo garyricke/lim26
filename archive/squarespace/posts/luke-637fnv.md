@@ -5,7 +5,7 @@ date: 2018-01-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-637fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd5309335b1eefb0513b/1748628700852/The+amount+you+measure+out+to+others+is+the+amount+that+comes+back%2C+like+a+basket+that+has+been+filled+to+the+top%2C+shaken+down+and+packed+together%2C+until+it+overflows.+What+you+give+out+will+come+back+to+you+-.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776981219-22YLRSY5W4ODK5CH9DWJ/image-asset.png"]
+images: ["images/2c994856-The_amount_you_measure_out_to_others_is_the_amount_that_comes_back__like_a_basket_that_has_been_filled_to_the_top__shake", "images/5882b497-image-asset.png"]
 ---
 # Luke 6:37 FNV
 
@@ -13,7 +13,7 @@ Jan 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776981219-22YLRSY5W4ODK5CH9DWJ/image-asset.png)
+![](images/5882b497-image-asset.png)
 
 God has reserved three prerogatives royal to Himself — vengeance, glory, and judgment. As it is not safe for us, then, to encroach upon God's royalties in either of the other two — glory or vengeance — so neither in this, of judgment.
 

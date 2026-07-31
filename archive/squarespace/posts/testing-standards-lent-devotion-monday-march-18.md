@@ -5,7 +5,7 @@ date: 2019-03-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/testing-standards-lent-devotion-monday-march-18
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6033a0e05602626535e/1748628700852/Jas1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775108987-ESKLV9AJM34NPXG6WMAC/image-asset.jpeg"]
+images: ["images/4186e961-Jas1.jpg", "images/f33ea711-image-asset.jpeg"]
 ---
 # Testing Standards (Lent Devotion) - Monday, March 18
 
@@ -13,7 +13,7 @@ Mar 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775108987-ESKLV9AJM34NPXG6WMAC/image-asset.jpeg)
+![](images/f33ea711-image-asset.jpeg)
 
 # Testing Standards
 

@@ -5,7 +5,7 @@ date: 2017-05-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/its-all-about-relationships-and-jesus
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0a7cdfe3c472ddebcd1/1748628700852/It%27s+all+about+Relationships+%26+Jesus..png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777832818-LNQ158CDIGV5QTX05RDF/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777834191-GUAQ4A87VNPYFLUDP1YZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777835765-BSOYN0UDTQPGRMGGTKP5/image-asset.jpeg"]
+images: ["images/556f36eb-It_s_all_about_Relationships___Jesus..png", "images/500b3b63-image-asset.png", "images/afbfd43a-image-asset.jpeg", "images/7580f70f-image-asset.jpeg"]
 ---
 # It's all about relationships and Jesus
 
@@ -15,7 +15,7 @@ May 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777832818-LNQ158CDIGV5QTX05RDF/image-asset.png)
+![](images/500b3b63-image-asset.png)
 
 They sat together at Teen Camp, intently absorbing the words they were hearing.
 
@@ -29,7 +29,7 @@ You see, **for almost two decades**, volunteer mission teams have traveled in an
 
 Teen Camp begins to help these young adults deal with the pressures of drugs and alcohol that are so prevalent in remote villages and Native communities.  For three years now, through your prayers and generous gifts, Lutheran Indian Ministries has sponsored Teen Camp, a place where these young people can go, away from the pressures to conform to this world, to hear the Word of God and learn to apply it to their lives.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777834191-GUAQ4A87VNPYFLUDP1YZ/image-asset.jpeg)
+![](images/afbfd43a-image-asset.jpeg)
 
 ### But it took years to get to this point.
 
@@ -47,7 +47,7 @@ Rosemary and I thank you for your prayers that have upheld us and your gifts tha
 
 Please, prayerfully consider making a gift today that will help us continue the Gospel outreach so needed in the remote interior of Alaska.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777835765-BSOYN0UDTQPGRMGGTKP5/image-asset.jpeg)
+![](images/7580f70f-image-asset.jpeg)
 
 As we begin another busy summer of volunteer activity, reaching out to villages with VBS, Teen Camp, and servant projects, we need your prayers and faithful support to continue to share the Gospel message of hope and healing.
 

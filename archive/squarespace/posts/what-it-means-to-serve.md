@@ -5,7 +5,7 @@ date: 2017-09-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-it-means-to-serve
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bef84e34042f8b587383/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777401169-L85TEHU2M0Q8LRJDEGV5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777402242-KG64K1JZSG8NR8U422CH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777403740-BTS13OPUX58Q7PCODTPG/image-asset.jpeg"]
+images: ["images/9f2fac94-1748628700852", "images/426d7678-image-asset.jpeg", "images/0a6431ed-image-asset.jpeg", "images/74e98975-image-asset.jpeg"]
 ---
 # What it means to serve: Volunteering Changes You
 
@@ -23,7 +23,7 @@ We received this great and uplifting letter today from a volunteer team who trav
 
 This was the 14th year for my Team partner, Wanda Thoreson, and myself returning to the village of Ft. Yukon, AK, for Bible School.  We are so privileged to be able to each year return to this village as it now becomes returning "home" to the people here and we have grown to love them, both kids and adults, as members of our family.  They welcome us home as well and when the last day arrives and we leave them it becomes harder and harder to do!   But we thank our God this is so.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777401169-L85TEHU2M0Q8LRJDEGV5/image-asset.jpeg)
+![](images/426d7678-image-asset.jpeg)
 
 For the 4th year our other Team partner, Pam Medlin, was with us.  We are thankful for the warm partnership we have and the common goal we share of showing Jesus' love for His people of Ft. Yukon.  It is a good feeling we have of working together in that manner.
 
@@ -58,7 +58,7 @@ I only had one night with the “teens” because they went on a school camping 
 
 Many of these kids were yearning for something to fill some empty space in their lives. We had that message of hope, peace and love through Christ. I think it was David that was telling me that so many of these people know Jesus died on the cross to take away our sins but don’t know the love of Christ. That’s what we were there for—to share the love of Christ and make it visible. John 20:29 came to mind, “Blessed are those who have not seen and yet have believed.” I have always thought of myself being one of those who has not seen, but I have seen the love of Christ in my life. The same is not necessarily true of the people I met in Tanana.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777402242-KG64K1JZSG8NR8U422CH/image-asset.jpeg)
+![](images/0a6431ed-image-asset.jpeg)
 
 It was a moving experience watching how God’s love was affecting these kids. The last day I was there exemplifies this. We did not originally plan to have Bible school, but with flood preparation we though it would help the parents by getting the kids out of the house. Come to find out that right in the middle of Bible school, martial arts started. This is something the kids look forward to every week. A couple kids had a dilemma; do I go to Bible school or marital arts? There were a few that made up their mind no problem and told their friends to “Come to Bible school today! Come to Bible school today!” That day of Bible school was our highest attendance (while I was there)!
 
@@ -84,7 +84,7 @@ Just one more flight awaited, but before we climbed into our tiny plane to trave
 
 With the tune still in our heads and hearts ready to share its words, we accounted for each pound in our Navajo Panther and flew off the grid. Two hours later, we landed in Kiana, Alaska, population 371.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777403740-BTS13OPUX58Q7PCODTPG/image-asset.jpeg)
+![](images/74e98975-image-asset.jpeg)
 
 We unloaded our weeks worth of supplies and wandered through the village in awe of its mountain landscapes reflecting in the Kobuk River and tales of moose and caribou. But amidst the majesty stood desperation: shattered windows, discarded machine parts, and a people hurting from the effects of alcoholism, suicide, abuse, and unspoken traumas passed down from generation to generation.
 

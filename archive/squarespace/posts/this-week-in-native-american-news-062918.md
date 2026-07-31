@@ -5,7 +5,7 @@ date: 2018-06-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-062918
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8910bda9b53014ad90d/1748628700852/pratt-_el_3-f9a15b6bd7cede533e0e945570f90c18e1e44c7e.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775761982-NC993FBOBA4OW7LQ0EBS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775763111-R4K3GH0JC1E4D78GWONI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775764086-IUGP9PFLGN7DTXBCT3DP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775765013-VBIKQLCOTVNUZKJXVZBZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775765909-NI4FVT0HDTKDUMBWXE64/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775766890-52N15Z1MYYJ22CCJABWI/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775767708-LZDKD3PQ9Y8Z0DHODDLR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775768759-DGWBDH99BYOH4T3PKZVC/image-asset.jpeg"]
+images: ["images/16801a46-pratt-_el_3-f9a15b6bd7cede533e0e945570f90c18e1e44c7e.jpg", "images/720f2644-image-asset.jpeg", "images/e7ec682a-image-asset.jpeg", "images/0cdf26a0-image-asset.jpeg", "images/e2d60fb7-image-asset.jpeg", "images/90b56f7e-image-asset.jpeg", "images/b6c9c3a9-image-asset.png", "images/bbd6f693-image-asset.jpeg", "images/0d481aa9-image-asset.jpeg"]
 ---
 # This Week in Native American News (6/29/18): Native Veterans Memorial Chosen, Tribes Documented, and American Attitudes Revealed
 
@@ -13,7 +13,7 @@ Jun 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775761982-NC993FBOBA4OW7LQ0EBS/image-asset.jpeg)
+![](images/720f2644-image-asset.jpeg)
 
 # June 29, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Design Chosen for first Native American Veteran Monument
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775763111-R4K3GH0JC1E4D78GWONI/image-asset.jpeg)
+![](images/e7ec682a-image-asset.jpeg)
 
 The multimedia artist Harvey Pratt's *Warriors' Circle of Honor* will incorporate an enormous, upright stainless steel circle.***National Museum of the American Indian***
 
@@ -37,7 +37,7 @@ After months of work and several revisions, a version of Pratt’s drawing was o
 
 ## Groundbreaking Research Reveals America’s Attitudes about Native Peoples
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775764086-IUGP9PFLGN7DTXBCT3DP/image-asset.jpeg)
+![](images/0cdf26a0-image-asset.jpeg)
 
 Will Wilson, “Eric Garcia Lopez, citizen of First Nation Purepecha Tribe (Tarasco)” from the CIPX SFAI series, (2012) (courtesy Annenberg Space for Photography)
 
@@ -51,7 +51,7 @@ First Nations Development Institute ([**First Nations**](https://www.globenewswi
 
 ## Albuquerque Author Puts Native Americans Back in History Books
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775765013-VBIKQLCOTVNUZKJXVZBZ/image-asset.jpeg)
+![](images/e2d60fb7-image-asset.jpeg)
 
 Historian and researcher Veronica E. Velarde Tiller, a Jicarilla Apache, has taken a long time to tell her story.
 
@@ -67,7 +67,7 @@ The book, first published in 1996 and updated about every 10 years, provides a p
 
 ## What You Need to Know About Buying Native-American Art
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775765909-NI4FVT0HDTKDUMBWXE64/image-asset.jpeg)
+![](images/90b56f7e-image-asset.jpeg)
 
 Marcellus Medina of the Zia Pueblo in New Mexico sells pottery and 2-D paintings at the Santa Fe Indian Market. PHOTO: GABRIELLA MARKS COURTESY OF SWAIA/SANTA FE INDIAN MARKET
 
@@ -83,11 +83,11 @@ The board identifies venues where legitimate Native American arts and crafts ite
 
 ## Add These Books to your Summer Reading List
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775766890-52N15Z1MYYJ22CCJABWI/image-asset.png)](https://bookriot.com/2018/06/26/keeping-families-together-a-reading-list-to-better-understand-intergenerational-transmission-of-trauma/)
+[![](images/b6c9c3a9-image-asset.png)](https://bookriot.com/2018/06/26/keeping-families-together-a-reading-list-to-better-understand-intergenerational-transmission-of-trauma/)
 
 ### [KEEPING FAMILIES TOGETHER: A READING LIST TO BETTER UNDERSTAND INTERGENERATIONAL TRANSMISSION OF TRAUMA](https://bookriot.com/2018/06/26/keeping-families-together-a-reading-list-to-better-understand-intergenerational-transmission-of-trauma/)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775767708-LZDKD3PQ9Y8Z0DHODDLR/image-asset.jpeg)](https://lithub.com/six-books-exploring-the-early-american-captivity-narrative/)
+[![](images/bbd6f693-image-asset.jpeg)](https://lithub.com/six-books-exploring-the-early-american-captivity-narrative/)
 
 ### [SIX BOOKS EXPLORING THE EARLY AMERICAN CAPTIVITY NARRATIVE](https://lithub.com/six-books-exploring-the-early-american-captivity-narrative/)
 
@@ -95,7 +95,7 @@ The board identifies venues where legitimate Native American arts and crafts ite
 
 ## Today's History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775768759-DGWBDH99BYOH4T3PKZVC/image-asset.jpeg)
+![](images/0d481aa9-image-asset.jpeg)
 
 ### [100 years ago, Spanish flu devastated Alaska Native villages](http://peninsulaclarion.com/news/2018-06-23/100-years-ago-spanish-flu-devastated-alaska-native-villages)
 

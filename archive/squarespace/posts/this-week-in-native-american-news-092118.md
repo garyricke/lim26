@@ -5,7 +5,7 @@ date: 2018-09-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-092118
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b80bff37c72839431946/1748628700852/20160709_Kashia_Sylvester_46-1500x0-c-default.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775628133-VQNHPGZHLTE4IUA1RTDZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775629309-H4FBQ79GX7WV3Y7PX5JF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775630600-T00JJGN2OVT94VOUQHIM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775631846-NGY2QKWDHIWYMNXUR5FB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775632796-1OCLJ51JZFZ4B0W8UNRO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775633673-UQ7JPI6QNBKVLOLW7NJX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775635371-DX3X262VEGYU3GEWRQIF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775636409-3WGQBRT1DMY4UTGXIYJG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775637721-FB9A175CRHMEV1GEPRCN/image-asset.jpeg"]
+images: ["images/525b3586-20160709_Kashia_Sylvester_46-1500x0-c-default.jpg", "images/6ed75d69-image-asset.jpeg", "images/f1995884-image-asset.jpeg", "images/4c8086d2-image-asset.jpeg", "images/7ec38630-image-asset.jpeg", "images/768946cb-image-asset.jpeg", "images/95c2eb70-image-asset.jpeg", "images/f0ef5874-image-asset.jpeg", "images/696ab18d-image-asset.jpeg", "images/1287cb3a-image-asset.jpeg"]
 ---
 # This Week in Native American News (9/21/18): Restoring Homelands, Righting Past Wrongs, Preserving History
 
@@ -13,7 +13,7 @@ Sep 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775628133-VQNHPGZHLTE4IUA1RTDZ/image-asset.jpeg)
+![](images/6ed75d69-image-asset.jpeg)
 
 # September 21, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## How one tribe got their coastal California lands returned
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775629309-H4FBQ79GX7WV3Y7PX5JF/image-asset.jpeg)
+![](images/f1995884-image-asset.jpeg)
 
 Members of the Kashia tribe on the dance grounds of the Kashia Coastal Reserve
 
@@ -35,7 +35,7 @@ Like many Californian tribes, the Kashia were violently removed from the best po
 
 ## Offensive place name to be stricken from Alaska town code
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775630600-T00JJGN2OVT94VOUQHIM/image-asset.jpeg)
+![](images/4c8086d2-image-asset.jpeg)
 
 A place name deemed offensive to Alaska Natives who live there is being stricken from the municipal code of a small town in western Alaska after local officials took official action.
 
@@ -49,7 +49,7 @@ The nickname will be removed after the Bethel City Council agreed it should be s
 
 ## In Similar News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775631846-NGY2QKWDHIWYMNXUR5FB/image-asset.jpeg)
+![](images/7ec38630-image-asset.jpeg)
 
 ### [Governments apologize to Alaska Natives for banning migratory bird harvests](https://www.adn.com/alaska-news/rural-alaska/2018/09/13/we-got-it-wrong-government-apologizes-to-alaska-natives-for-banning-migratory-bird-harvests/)
 
@@ -59,7 +59,7 @@ In an admission of wrongdoing, state and federal governments on Thursday apolog
 
 ## Finding The Hidden Hawaii Through The Eyes Of Ukulele Virtuoso Jake Shimabukuro
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775632796-1OCLJ51JZFZ4B0W8UNRO/image-asset.jpeg)
+![](images/768946cb-image-asset.jpeg)
 
 Ukulele wizard Jake Shimabukuro plays his favorite instrument at the New Orleans Jazz and Heritage Festival last April. VAN FLETCHER
 
@@ -75,7 +75,7 @@ Molokai is where visitors can "experience old Hawaii," says Shimabukuro who has
 
 ## Preserving History…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775633673-UQ7JPI6QNBKVLOLW7NJX/image-asset.jpeg)
+![](images/95c2eb70-image-asset.jpeg)
 
 ### [Haskell University to celebrate Native American veterans of World War I](https://fox4kc.com/2018/09/16/haskell-university-to-celebrate-native-americans-veterans-of-world-war-i/)
 
@@ -85,13 +85,13 @@ The center’s director, Jancita Warrington, said 415 Haskell students, faculty 
 
 The celebration, “Keeping Legends Alive,” will be held Sept. 21 and 22, hosted by the center and the city of Lawrence.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775635371-DX3X262VEGYU3GEWRQIF/image-asset.jpeg)
+![](images/f0ef5874-image-asset.jpeg)
 
 ### [Story of Native American persecution told in Marlborough, Mass.](https://www.metrowestdailynews.com/news/20180831/story-of-native-american-persecution-told-in-marlborough)
 
 343 years ago on Aug. 30, the Massachusetts Bay Colony issued an order that resulted in the incarceration of Native-Americans. Some want to make sure that blot on Massachusetts history is never forgotten.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775636409-3WGQBRT1DMY4UTGXIYJG/image-asset.jpeg)
+![](images/696ab18d-image-asset.jpeg)
 
 ### [Riders Visit Bentonville To Raise Awareness of the History of Native Americans](https://www.nwahomepage.com/news/riders-visit-bentonville-to-raise-awareness-of-the-history-of-native-americans/1454713791)
 
@@ -99,7 +99,7 @@ Visitors are riding to Northwest Arkansas to raise awareness of the history of N
 
 Two different groups are shedding light on the trail of tears.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775637721-FB9A175CRHMEV1GEPRCN/image-asset.jpeg)
+![](images/1287cb3a-image-asset.jpeg)
 
 ### [The Muscogee maintained independence against colonizers for 200 years](https://www.avclub.com/the-muscogee-maintained-independence-against-colonizers-1829018562)
 

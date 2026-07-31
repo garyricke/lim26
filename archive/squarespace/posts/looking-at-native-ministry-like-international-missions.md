@@ -5,7 +5,7 @@ date: 2017-09-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/looking-at-native-ministry-like-international-missions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf1a4505c216efab3389/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777435635-G8ZIE6ON104UQP1M80TF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777436827-1NBCULCNYJIKU3FGNJ78/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777438693-FRD6MKYTFMYUQ5F24Q3G/image-asset.jpeg"]
+images: ["images/fb01b822-1748628700852", "images/3118ffba-image-asset.jpeg", "images/f64df62a-image-asset.jpeg", "images/2329eb48-image-asset.jpeg"]
 ---
 # Looking at Native Ministry Like International Missions
 
@@ -15,7 +15,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 A dust covered jeep winds its way down the barren, yet beautiful, two-lane road. Hitting a never-ending series of potholes, the car jostles and jumps. The missionary driving grabs a tighter hold on the steering wheel, his knuckles turning white as he attempts to keep his trusty car on the road while also protecting his body from the constant jerking.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777435635-G8ZIE6ON104UQP1M80TF/image-asset.jpeg)
+![](images/3118ffba-image-asset.jpeg)
 
 The town, though it can hardly be called one, is nothing more than a speck on the map. An overlooked village with a haphazard grid of dirt roads and mismatched houses - small, pre-fabricated houses that sometimes house extended families vying for space and resources. A dilapidated old mill stands on the edge of town, a reminder of an effort to pull the community out of poverty, now overrun with grass and dust.
 
@@ -27,7 +27,7 @@ He will fill his day visiting houses, making connections, and building relations
 
 The warm, salty sea air blows through a bustling town as another missionary walks out the sliding grocery doors, his arms weighed down with bulging bags of groceries: food and necessities that he will spend the day delivering into the hands of the city’s vast and growing homeless population with a kind smile and a word of encouragement.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777436827-1NBCULCNYJIKU3FGNJ78/image-asset.jpeg)
+![](images/f64df62a-image-asset.jpeg)
 
 These are not missionaries serving in exotic, far-off places. They are missionaries serving on rural Indian Reservations and in cities, reaching out to Native Americans, Alaska Natives, and Native Hawaiians with the love and hope of Jesus Christ.
 
@@ -37,7 +37,7 @@ Even though they serve in the United States, American-based missionaries face th
 
 Many still hold to the beliefs taught to them by their grandparents, while others are returning to a culture that was lost to their family when the residential schools sought to "Kill the Indian, Save the Man." History dealt them a bad hand. Colonialism broke their families and communities, and destroyed their way of life. Whether connected to their ancestors or not, many Native Americans are searching for something to fill the void in their lives. Lutheran Indian Ministries staff, with other Native ministries, work to fill that void with the help of the Holy Spirit.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777438693-FRD6MKYTFMYUQ5F24Q3G/image-asset.jpeg)
+![](images/2329eb48-image-asset.jpeg)
 
 But, no two tribes have the same exact cultural or historical background. Where one tribe may have been pushed from their homes and moved hundreds of miles to a desolate piece of land; others still live in the land of their ancestors. One tribe may have suffered terribly at the hands of religious men and women; while others have peacefully incorporated Christianity into their belief system. Therefore, outreach to Native peoples requires language, cultural, and historical studies in order to connect to individual tribes and communities.
 

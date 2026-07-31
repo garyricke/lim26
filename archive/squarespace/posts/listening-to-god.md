@@ -5,7 +5,7 @@ date: 2017-07-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/listening-to-god
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfde7f53cf3725db3d72/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777630943-6DPGT3M6S8GJ0R17O8ZA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777631793-P973VYGY0Q2RHKFTW40A/image-asset.jpeg"]
+images: ["images/4e37516b-1748628700852", "images/5c401265-image-asset.jpeg", "images/93cccfb4-image-asset.jpeg"]
 ---
 # Listening to God
 
@@ -19,7 +19,7 @@ Of course, He's already told us a great deal in Scripture. But, on a day-to-day 
 
 One of our ministry staff recently found himself wondering what God had in mind.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777630943-6DPGT3M6S8GJ0R17O8ZA/image-asset.jpeg)
+![](images/5c401265-image-asset.jpeg)
 
 It started with the urging to visit a Native man incarcerated at the nearby prison. Simple enough. Except this wasn't just any common criminal. This man had been convicted of murder and a particularly brutal one at that.
 
@@ -39,7 +39,7 @@ The pastor reminded himself that the table between them was bolted down and the 
 
 In the anxious silence that followed, he sensed God telling him to touch the man.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777631793-P973VYGY0Q2RHKFTW40A/image-asset.jpeg)
+![](images/93cccfb4-image-asset.jpeg)
 
 "Touch him?" he thought to himself. "Lord, ***why***? You must be kidding!"
 

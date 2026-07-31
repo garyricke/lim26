@@ -5,7 +5,7 @@ date: 2016-03-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf27fd057b19f29c7cc6/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781544885-CX8GBULKCP8HXTRDAYL7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781545892-UGUR3RHTRMUY31CKJB5X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781547002-MKMV7RF1SZL7MAENWV9S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781548080-PX3P6G0AKH3UY0QMJRGL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781550245-AHF08STU6TGIQJX9M8L0/image-asset.jpeg"]
+images: ["images/decccabe-1748628700852", "images/0ae405f6-image-asset.jpeg", "images/9942482d-image-asset.jpeg", "images/96e7db67-image-asset.jpeg", "images/7c20c30f-image-asset.jpeg", "images/3eb5ecd9-image-asset.jpeg"]
 ---
 # This Week in Native American News
 
@@ -15,7 +15,7 @@ Mar 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781544885-CX8GBULKCP8HXTRDAYL7/image-asset.jpeg)
+![](images/0ae405f6-image-asset.jpeg)
 
 Add this code
 
@@ -23,7 +23,7 @@ Add this code
 
 ### The Choctaw Nation's response  to the Lexi Page Uproar
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781545892-UGUR3RHTRMUY31CKJB5X/image-asset.jpeg)
+![](images/9942482d-image-asset.jpeg)
 
 Photo courtesy of Associated Press
 
@@ -37,7 +37,7 @@ As with everything, it's always best to know both sides of the story before maki
 
 ### Native American Heritage Day to be celebrated in more states
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781547002-MKMV7RF1SZL7MAENWV9S/image-asset.jpeg)
+![](images/96e7db67-image-asset.jpeg)
 
 Every year on the second Monday of October the same debate arises. Should we or shouldn't we celebrate Columbus day?
 
@@ -66,7 +66,7 @@ We suggest celebrating all of these with picnics and fireworks!
 
 ### Michigan community working to rebuild Native Heritage
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781548080-PX3P6G0AKH3UY0QMJRGL/image-asset.jpeg)
+![](images/7c20c30f-image-asset.jpeg)
 
 Cecilia Stevens teaching at Saginaw Chippewa Academy. Photo by Rachel Harrison, [Central Michigan Life](http://www.cm-life.com/article/2016/03/native-american-revitilization)
 
@@ -80,7 +80,7 @@ In response to recent reports, Arizona Senator John McCain has proposed the Nati
 
 ### Bet you didn't know he was native...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781550245-AHF08STU6TGIQJX9M8L0/image-asset.jpeg)
+![](images/3eb5ecd9-image-asset.jpeg)
 
 Dave Anderson of Famous Dave's (photo courtesy of [Famous Dave's](http://www.famousdaves.com))
 

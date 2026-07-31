@@ -5,7 +5,7 @@ date: 2016-12-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-greatest-rescue-ever-december-20
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c43daca4b13cd38a0619/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778751044-WNHS4QRMTST6W4JQC1VA/image-asset.png"]
+images: ["images/c4710417-2016_Advent_Devotions.png", "images/dfc0522b-image-asset.png"]
 ---
 # The Greatest Rescue Ever: December 20
 
@@ -13,7 +13,7 @@ Dec 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778751044-WNHS4QRMTST6W4JQC1VA/image-asset.png)
+![](images/dfc0522b-image-asset.png)
 
 ## For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. John 3:16 (ESV)
 

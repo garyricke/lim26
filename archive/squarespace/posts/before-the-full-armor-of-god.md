@@ -5,7 +5,7 @@ date: 2017-01-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/before-the-full-armor-of-god
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c3ffd155a1763e699382/1748628700852/to+put+on+the+full+armor+of+christ%2Cwe+must+first+remove+the+cloakof+pain+and+mistrustwe+have+been+wearing.+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778689206-NKYWM34FR97FSAJQWFGU/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778690651-EG87N6P1NVNXWWUFZKRC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778692045-6NZQM0V67XH7O6RI98ST/image-asset.jpeg"]
+images: ["images/3c3e9cd8-to_put_on_the_full_armor_of_christ_we_must_first_remove_the_cloakof_pain_and_mistrustwe_have_been_wearing.__2_.png", "images/7af966f6-image-asset.png", "images/8e407f3d-image-asset.jpeg", "images/88905b41-image-asset.jpeg"]
 ---
 # Before the full armor of God...
 
@@ -13,7 +13,7 @@ Jan 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778689206-NKYWM34FR97FSAJQWFGU/image-asset.png)
+![](images/7af966f6-image-asset.png)
 
 The young boy’s gaze never shifted from the Native American woman speaking in the front of the church.  His black, round eyes were innocent and yet astutely aware. Dressed in Native regalia and speaking in soft tones, the woman, whom he was listening to so intently, told those assembled of her abuse at the hands of a relative when she was just a little girl.
 
@@ -23,7 +23,7 @@ When the woman finished and the small crowd at the gathering had thinned out, th
 
 Native people are taught and conditioned never to speak of the abuses and traumas they have experienced in their lives. Instead, these evils are hidden and boxed up in many Native homes. By sharing his story, this young boy has taken the first step in healing and breaking the cycle of abuse in his family.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778690651-EG87N6P1NVNXWWUFZKRC/image-asset.jpeg)
+![](images/8e407f3d-image-asset.jpeg)
 
 Because this young boy stepped forward and courageously shared his story, members of the Lutheran Indian Ministries staff were able to spend time with him, comfort him, and encourage him. Through them, the love of Jesus Christ began to unfold in his life.
 
@@ -43,7 +43,7 @@ Your partnership with Lutheran Indian Ministries literally saves lives!
 
 There are 567 indigenous Native American tribes in North America. These tribes are sovereign nations, each with their own unique language, customs, and traditions. But, the thing they have in common is the thing they wish they could eliminate… trauma.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778692045-6NZQM0V67XH7O6RI98ST/image-asset.jpeg)
+![](images/88905b41-image-asset.jpeg)
 
 Trauma, abuse, addiction, and suicide are by-products of the intergenerational pain, sorrow, and suffering Indigenous peoples are born into, grow up with, and pass on to their children.
 

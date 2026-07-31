@@ -5,7 +5,7 @@ date: 2019-02-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-02082019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6730bda9b53014a73ee/1748628700852/GG0119_SouthernFocus_01-1600x1600.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775220996-VPYIXLJX8TV6HDK1YNUV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775222274-L48V39B0Y05L4802PVPY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775224408-3I67WNYJEO0RWJHBXX6U/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775226171-EAL1NK5DI3USODHF0FKY/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775227416-OBIRG13HF3M9S3QXR60Z/image-asset.jpeg"]
+images: ["images/9fcc1312-GG0119_SouthernFocus_01-1600x1600.jpg", "images/9e9840a7-image-asset.jpeg", "images/4a0de8bb-image-asset.jpeg", "images/2a5df5ef-image-asset.jpeg", "images/346911d0-image-asset.png", "images/99c951f8-image-asset.jpeg"]
 ---
 # This Week in Native American News (2/8/19): Parkas, Mardi Gras, and a different take on History
 
@@ -13,7 +13,7 @@ Feb 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775220996-VPYIXLJX8TV6HDK1YNUV/image-asset.jpeg)
+![](images/9e9840a7-image-asset.jpeg)
 
 # February 8, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## United Keetoowah Band project focuses on healing opioid addiction
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775222274-L48V39B0Y05L4802PVPY/image-asset.jpeg)
+![](images/4a0de8bb-image-asset.jpeg)
 
 According to the National Institute on Drug Abuse, more than 130 people in the U.S. die every day due to overdosing on opioids.
 
@@ -35,7 +35,7 @@ United Keetoowah Band of Cherokee Indians tribal members gained access to severa
 
 ## David Treuer’s Rebellious New History of Native American Life
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775224408-3I67WNYJEO0RWJHBXX6U/image-asset.jpeg)
+![](images/2a5df5ef-image-asset.jpeg)
 
 The novelist and academic David Treuer writes that his latest work emerged from “the simple, fierce conviction that our cultures are not dead and our civilizations have not been destroyed.” Photograph by Dan Koeck
 
@@ -49,7 +49,7 @@ Now, in a new book, “The Heartbeat of Wounded Knee: Native America from 1890 t
 
 ## Canada Goose Launches A New Parka Collection Made By Canadian Inuit Designers And It's Stunning
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775226171-EAL1NK5DI3USODHF0FKY/image-asset.png)
+![](images/346911d0-image-asset.png)
 
 Canada Goose’s Project Atigi Collection deisgned by Inuit Designers. (@CanadaGoose | Instagram)
 
@@ -65,7 +65,7 @@ Canada Goose won't see a dime of the profits, either. All sale proceeds from th
 
 ## A Dazzling Mardi Gras Spectacle
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775227416-OBIRG13HF3M9S3QXR60Z/image-asset.jpeg)
+![](images/99c951f8-image-asset.jpeg)
 
 PHOTO: ERIKA GOLDRING
 

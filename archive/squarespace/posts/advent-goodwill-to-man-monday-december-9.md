@@ -5,7 +5,7 @@ date: 2019-12-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-goodwill-to-man-monday-december-9
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b188a8416125af4e8f76/1748628700852/ScriptureArt_1216_-_Luke2_14_157x157.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773961628-HTNIZGWCFYVQ7XC0OR2S/image-asset.png"]
+images: ["images/6412d774-ScriptureArt_1216_-_Luke2_14_157x157.jpg", "images/d60573db-image-asset.png"]
 ---
 # Advent: Goodwill to Man -Monday, December 9
 
@@ -15,7 +15,7 @@ Dec 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773961628-HTNIZGWCFYVQ7XC0OR2S/image-asset.png)
+![](images/d60573db-image-asset.png)
 
 ### Glory to God in the highest heaven, and on earth peace to those on whom his favor rests.
 

@@ -5,7 +5,7 @@ date: 2016-03-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/dont-give-up-psalm-13514
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf4dfccd91749b7d9684/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781583164-0L3ZHQ7VS24KR60ISTZD/image-asset.jpeg"]
+images: ["images/12bc8da9-1748628700852", "images/cc12095b-image-asset.jpeg"]
 ---
 # ​Don't Give Up! - Psalm 135:14
 
@@ -15,7 +15,7 @@ Mar 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781583164-0L3ZHQ7VS24KR60ISTZD/image-asset.jpeg)
+![](images/cc12095b-image-asset.jpeg)
 
 ****Saturday** **March 19****
 

@@ -5,7 +5,7 @@ date: 2018-03-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-lesson-from-eagles-lent-saturday-march-10
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbfefc45ad1a48d725c9/1748628700852/5adcb29d4133baf15b5576eb1f02b3f8--house-quotes-eagles.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776639865-OJ6ZNEVM0QHR3AL4I82V/image-asset.png"]
+images: ["images/1f125a61-5adcb29d4133baf15b5576eb1f02b3f8--house-quotes-eagles.jpg", "images/63b8cca5-image-asset.png"]
 ---
 # A Lesson From Eagles (Lent) - Saturday, March 10
 
@@ -15,7 +15,7 @@ Mar 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776639865-OJ6ZNEVM0QHR3AL4I82V/image-asset.png)
+![](images/63b8cca5-image-asset.png)
 
 ### "But those who hope in the Lord will renew their strength.   They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint." [Isaiah 40:31 (NIV)](https://www.bible.com/bible/111/ISA.40.31)
 

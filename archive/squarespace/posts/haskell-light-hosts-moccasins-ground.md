@@ -5,7 +5,7 @@ date: 2014-09-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/kansaslhaskell-light-campus-ministry/haskell-light-hosts-moccasins-ground
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd6e73f1b64158cb232d/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785200270-0PRL6RQ39YC78NE9WISW/image-asset.jpeg"]
+images: ["images/1a29404a-1748628700852", "images/b9d5e441-image-asset.jpeg"]
 ---
 # Haskell LIGHT hosts Moccasins on the Ground
 
@@ -18,7 +18,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 Rev. Will *(Dakota Sioux)* and Patricia *(Cree)* Main, co-directors of Haskell LIGHT Campus Ministry, are excited to meet many of the new freshman class at Haskell Indian Nations University.
 “I hosted an event called Moccasins on the Ground for our freshmen women at the Pocahontas Hall on campus,” explains Patricia. “We wanted to give them a chance to relax, get to know one another and begin to develop relationships at the start of the semester.”
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785200270-0PRL6RQ39YC78NE9WISW/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a44366/1451491776558/WEB-Moccasins-on-the-Ground-Best-Group-Shot-1.jpg?format=original)
+[![](images/b9d5e441-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a44366/1451491776558/WEB-Moccasins-on-the-Ground-Best-Group-Shot-1.jpg?format=original)
 
 WEB Moccasins on the Ground Best Group Shot #1
 

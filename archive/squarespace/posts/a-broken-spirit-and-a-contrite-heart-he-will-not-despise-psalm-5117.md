@@ -5,7 +5,7 @@ date: 2016-03-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/a-broken-spirit-and-a-contrite-heart-he-will-not-despise-psalm-5117
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf9cb509130ab9e5dc37/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781662090-6G01WV4IRVJHIKA30JGI/image-asset.jpeg"]
+images: ["images/018186cd-1748628700852", "images/afdfda69-image-asset.jpeg"]
 ---
 # A Broken Spirit and a Contrite Heart He will not Despise! - Psalm 51:17
 
@@ -15,7 +15,7 @@ Mar 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781662090-6G01WV4IRVJHIKA30JGI/image-asset.jpeg)
+![](images/afdfda69-image-asset.jpeg)
 
 **Monday** **March 7**
 

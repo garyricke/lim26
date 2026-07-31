@@ -5,7 +5,7 @@ date: 2020-04-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/love-each-other
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0615b3de4701ddfb735/1748628700852/03142018social_2000x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773668312-CNBLQDNA5BRFISGB4GY6/image-asset.png"]
+images: ["images/7b938a79-03142018social_2000x.jpg", "images/6cf8f178-image-asset.png"]
 ---
 # Love Each Other - Lent 2020
 
@@ -15,7 +15,7 @@ Apr 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773668312-CNBLQDNA5BRFISGB4GY6/image-asset.png)
+![](images/6cf8f178-image-asset.png)
 
 ### 'Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ The second is this: ‘Love your neighbor as yourself.’ There is no commandment greater than these. [Mark 12:30-31](https://www.bible.com/bible/111/mrk.12.30-31)
 

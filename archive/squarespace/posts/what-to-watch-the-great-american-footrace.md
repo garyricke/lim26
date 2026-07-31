@@ -5,7 +5,7 @@ date: 2017-04-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-to-watch-the-great-american-footrace
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0d4b8c7786b8e9e19dd/1748628700852/johnnysalo_petegavuzzi_500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777877674-Q3LOHDV4HIHUQ04C9DMP/image-asset.jpeg"]
+images: ["images/c7672668-johnnysalo_petegavuzzi_500.jpg", "images/3cf6db89-image-asset.jpeg"]
 ---
 # What to Watch: The Great American Footrace
 
@@ -19,7 +19,7 @@ Watch them while they are available!
 
 This week's featured film is: [The Great American Footrace](http://americanarchive.org/catalog/cpb-aacip_508-sf2m61cj57)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777877674-Q3LOHDV4HIHUQ04C9DMP/image-asset.jpeg)
+![](images/3cf6db89-image-asset.jpeg)
 
 In 1929, Cyrus Avery, an ordinary Oklahoma businessman, teamed up with C. C. Pyle, the “P. T. Barnum of Professional Sports,” to hold a transcontinental footrace. More than 100 men of all races and nationalities started the race in California and faced all manner of obstacles—from extreme weather to poor food and living conditions, to prejudice to injury—to make the cross-country journey across the United States, ending in New York City. This “Bunion Derby” pushed human endurance to the limits in an unforgettable show of “ballyhoo."
 

@@ -5,7 +5,7 @@ date: 2014-11-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/washingtonolympic-peninsula/building-bridges-christs-love
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd639e94f87e866183b6/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785189832-HD5W9N95EW6AIFURLYHJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785192149-0K4TX4O910XDW0YKH0VJ/image-asset.jpeg"]
+images: ["images/12e3c35f-1748628700852", "images/7c4d5165-image-asset.jpeg", "images/431f57d9-image-asset.jpeg"]
 ---
 # Building Bridges Through Christ's Love
 
@@ -15,7 +15,7 @@ Nov 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785189832-HD5W9N95EW6AIFURLYHJ/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a444d6/1451491778109/DSC_0181-Cathy-and-Tom-Resized.jpg?format=original)
+[![](images/7c4d5165-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a444d6/1451491778109/DSC_0181-Cathy-and-Tom-Resized.jpg?format=original)
 
 DSC\_0181 Cathy and Tom Resized
 
@@ -25,7 +25,7 @@ Our Hope House ministry is a place where we see more and more of Christ’s love
 
 Today, Tom and Cathy are seeing the fruits of their labor, both within the Native community where they serve and among local Christian supporters. Among the Natives, the word has gotten around that the Benzlers minister one-on-one to members of the Lower Elwha Reservation, to the extent that the tribe looks to them for their faithful witness. They hold weekly Bible studies, visit the sick and dying and meet as many needs as they can with the generous gifts they receive from congregations and others.
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785192149-0K4TX4O910XDW0YKH0VJ/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a444d8/1451491778112/HOPE-HOUSE-THRIVENT-EVENT-1-Oct-2014-wu.jpg?format=original)
+[![](images/431f57d9-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a444d8/1451491778112/HOPE-HOUSE-THRIVENT-EVENT-1-Oct-2014-wu.jpg?format=original)
 
 HOPE HOUSE THRIVENT EVENT 1 Oct 2014 wu
 

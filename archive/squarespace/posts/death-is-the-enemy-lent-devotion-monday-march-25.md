@@ -5,7 +5,7 @@ date: 2019-03-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/death-is-the-enemy-lent-devotion-monday-march-25
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b5ec5c155d7631591093/1748628700852/Ezekiel-33-11.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775086098-TY70N226SI9UQWV5YJ8S/image-asset.jpeg"]
+images: ["images/0861684b-Ezekiel-33-11.jpg", "images/78901a47-image-asset.jpeg"]
 ---
 # Death is the Enemy (Lent Devotion) - Monday, March 25
 
@@ -15,7 +15,7 @@ Mar 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775086098-TY70N226SI9UQWV5YJ8S/image-asset.jpeg)
+![](images/78901a47-image-asset.jpeg)
 
 # Death is the Enemy
 

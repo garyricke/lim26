@@ -5,7 +5,7 @@ date: 2016-07-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/monday-morning-devotion-first
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c86dc67d410a619a3c8a/1748628700852/9.28.2014.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779823414-GVTYLABLXIYGUID1HP7A/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779827817-K87BN0QRJTS8C0Q4QSUW/image-asset.png"]
+images: ["images/4b3bdd6a-9.28.2014.png", "images/2bb96d39-image-asset.png", "images/19db112f-image-asset.png"]
 ---
 # Monday Morning Devotion - First
 
@@ -13,11 +13,11 @@ Jul 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779823414-GVTYLABLXIYGUID1HP7A/image-asset.png)
+![](images/2bb96d39-image-asset.png)
 
 # First
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779827817-K87BN0QRJTS8C0Q4QSUW/image-asset.png)
+![](images/19db112f-image-asset.png)
 
 There is an old, Native American proverb that says:
 

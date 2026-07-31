@@ -5,7 +5,7 @@ date: 2017-03-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-alaskas-birthday-the-birth-of-a-hotline-and-the-rebirth-of-self-worth
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c14f492474407c7cd796/1748628700852/louie_gong_by_ken_yu_edited.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777999986-PC44XWJQJ5KCA54M4MQQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778001563-61PHWB59CYV4KW3F2LB0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778002430-DIJ90650ABJP8831Z7B2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778003474-BZ3FQE56D1KSW991CX3B/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778004848-DV3QOC3MFDVPGAVDYRCC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778006193-JF66TWK55L4U54G213ZY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778007281-NAKKV0ZT9Y4CXW8N3F1I/image-asset.jpeg"]
+images: ["images/20d58aae-louie_gong_by_ken_yu_edited.jpg", "images/a59b78b9-image-asset.jpeg", "images/607c7f8d-image-asset.jpeg", "images/da9c3e12-image-asset.jpeg", "images/f478ebd5-image-asset.png", "images/76b7a719-image-asset.jpeg", "images/f14f656d-image-asset.jpeg", "images/826bd46b-image-asset.jpeg"]
 ---
 # This week in Native American News: Alaska's "birthday", the birth of a hotline, and the rebirth of self-worth
 
@@ -13,7 +13,7 @@ Mar 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777999986-PC44XWJQJ5KCA54M4MQQ/image-asset.jpeg)
+![](images/a59b78b9-image-asset.jpeg)
 
 # March 31, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Seattle Artist Calls for Ethical Purchases
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778001563-61PHWB59CYV4KW3F2LB0/image-asset.jpeg)
+![](images/607c7f8d-image-asset.jpeg)
 
 Traces of Seattle’s Native American heritage are everywhere, from the Seahawks logo to totem poles at the Pike Place Market.
 
@@ -37,7 +37,7 @@ Gong says if big corporations want to use Native designs, they should hire Nativ
 
 ## The Two Stories of Alaska's Purchase
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778002430-DIJ90650ABJP8831Z7B2/image-asset.jpeg)
+![](images/da9c3e12-image-asset.jpeg)
 
 One hundred and fifty years ago, on March 30, 1867, U.S. Secretary of State William H. Seward and Russian envoy Baron Edouard de Stoeckl signed the Treaty of Cession. With a stroke of a pen, Tsar Alexander II had ceded Alaska, his country’s last remaining foothold in North America, to the United States for US$7.2 million.
 
@@ -49,7 +49,7 @@ As a descendant of Inupiaq Eskimos, William L. Iggiagruk Hensley has been living
 
 ## Native Hawaiians Finding Self-Worth Through Culture-Based Recovery Program
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778003474-BZ3FQE56D1KSW991CX3B/image-asset.png)
+![](images/f478ebd5-image-asset.png)
 
 Ku Aloha Ola Mau means “to stand in love and health forever,” and is the name of a nonprofit committed to welcoming those suffering from alcohol and drug addiction as haumana, or students, lovingly, for the rest of their lives. This unique program integrates holistic, Hawaiian cultural and spiritual approaches to recovery, as well as mental health therapy and medical treatment.
 
@@ -61,7 +61,7 @@ Ku Aloha Ola Mau means “to stand in love and health forever,” and is the nam
 
 ## Hotline Created for Domestic Abuse Survivors
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778004848-DV3QOC3MFDVPGAVDYRCC/image-asset.jpeg)
+![](images/76b7a719-image-asset.jpeg)
 
 The first national domestic-violence hotline serving just tribal communities began taking calls last week.
 
@@ -75,7 +75,7 @@ Native survivors in Nebraska, Kansas, and Oklahoma — the helpline’s initial 
 
 ## A More-Hidden Hidden Figure
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778006193-JF66TWK55L4U54G213ZY/image-asset.jpeg)
+![](images/f14f656d-image-asset.jpeg)
 
 Math always called Mary Golda Ross’s name, and in 1942, armed with a master’s degree, she joined Lockheed Aircraft Corporation. As World War II raged, the company was working on new military aircraft. Ross helped them troubleshoot the P-38 Lightning, a fighter plane that came close to breaking the sound barrier and that engineers worried would collapse during dives. (Thanks to the work of Ross and her fellow mathematicians and engineers, Lockheed eventually realized that their fears were unfounded.)
 
@@ -89,7 +89,7 @@ Much of Ross’s work will never be known because it was—and still is—classi
 
 ## Call for Mural Artist
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778007281-NAKKV0ZT9Y4CXW8N3F1I/image-asset.jpeg)
+![](images/826bd46b-image-asset.jpeg)
 
 The City of Fayetteville, Arkansas and Fayetteville Arts Council are struggling to find artists to paint the Trail of Tears mural located on the Tsa La Gi Trail.
 

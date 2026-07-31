@@ -5,7 +5,7 @@ date: 2019-04-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-04262019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3887cbdef6eaa540369/1748628700852/masks.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774474527-FH6FHA37JEZSMBFTMANF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774475938-LW5FE2PN9OK54YV4PGND/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774478171-TNZ6C9OKIGPU04V108Q5/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774480108-FQ1JPY236BC4HQD6SOOI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774481212-I0TJ0FJ59N4706IJGBSW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774483426-NECH3NZ84ZPN6PRSZKD0/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774485335-GIXGCHBG6H1WA5YME51N/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774487156-PQ0CM7U59AWD6NJERCQF/image-asset.jpeg"]
+images: ["images/3bfcefd8-masks.jpg", "images/99e1f04d-image-asset.jpeg", "images/a27d0ca4-image-asset.jpeg", "images/1d627e70-image-asset.png", "images/fab50472-image-asset.jpeg", "images/35665d70-image-asset.jpeg", "images/d3ef3c17-image-asset.png", "images/8d942478-image-asset.jpeg", "images/dc0bd3a0-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/26/19): Running Boston, Wearing Masks, and Searching History
 
@@ -13,7 +13,7 @@ Apr 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774474527-FH6FHA37JEZSMBFTMANF/image-asset.jpeg)
+![](images/99e1f04d-image-asset.jpeg)
 
 # April 26, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## She Ran Boston With ‘MMIW’ Painted on Her Body for the Missing Women the World Ignored
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774475938-LW5FE2PN9OK54YV4PGND/image-asset.jpeg)
+![](images/a27d0ca4-image-asset.jpeg)
 
 The advocate marked each of the 26.2 miles with a prayer for one of the indigenous women who became victims of violence.
 
@@ -39,13 +39,13 @@ By the time she crossed the finish line on Boylston Street—in a personal best 
 
 ## In Other Sports News…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774478171-TNZ6C9OKIGPU04V108Q5/image-asset.png)
+![](images/1d627e70-image-asset.png)
 
 ### [American Ninja Warriors Talk Friendship And Representing Rural Alaska](https://www.kyuk.org/post/american-ninja-warriors-nate-dehaan-and-nick-hanson-talk-friendship-and-representing-rural?fbclid=IwAR3Vua7owFkSAbLwhVqi12GIs7XdBnbXKELYok9DNxZMj5MaSI-y904bJIQ)
 
 The television show “American Ninja Warrior” enters its 11th season next month, and again will feature the Eskimo Ninja, Nick Hanson from Unalakleet. Nick visited Bethel last week to hang out with his buddy, fellow American Ninja Warrior, Nate DeHaan. These two comprise two thirds of all the Ninja Warriors to ever come from Alaska. KYUK sat down with the two ninjas to talk about how they became friends, and what it means for them to represent rural Alaska on the show.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774480108-FQ1JPY236BC4HQD6SOOI/image-asset.jpeg)
+![](images/fab50472-image-asset.jpeg)
 
 ### [Native Youth Olympics offers communities more than just sport](https://www.ktuu.com/content/news/NYO-offers-communities-more-than-just-sport-509022721.html)
 
@@ -59,7 +59,7 @@ For some, NYO is the only chance in their community to participate in an organiz
 
 ## In the Land of Hope and Grief
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774481212-I0TJ0FJ59N4706IJGBSW/image-asset.jpeg)
+![](images/35665d70-image-asset.jpeg)
 
 Kids play on a snowy playground in the light of Arctic spring. With each new generation, the traumas experienced by previous generations grow more distant, though the community's youth will undoubtedly face new challenges as they come of age. (Photo: Kiliii Yüyan)
 
@@ -83,13 +83,13 @@ Despite the ramifications of their horrific history, I soon came to see that the
 
 ## This Week’s History Lesson…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774483426-NECH3NZ84ZPN6PRSZKD0/image-asset.png)
+![](images/d3ef3c17-image-asset.png)
 
 ### [The Treaty That Forced the Cherokee People from Their Homelands Goes on View](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/04/24/treaty-new-echota/)
 
 Negotiated in 1835 by a minority party of Cherokees, challenged by the majority of the Cherokee people and their elected government, the Treaty of New Echota was used by the United States to justify the forced removal of the Cherokees from their homelands along what became known as the Trail of Tears.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774485335-GIXGCHBG6H1WA5YME51N/image-asset.jpeg)
+![](images/8d942478-image-asset.jpeg)
 
 ### [Signs will mark historic Native American reservation in Kalamazoo](https://www.mlive.com/news/kalamazoo/2019/04/signs-will-mark-historic-native-american-reservation-in-kalamazoo.html)
 
@@ -97,7 +97,7 @@ New street signs will be installed to mark the location of the historic boundary
 
 The signs were designed by the Kalamazoo Reservation Public Education Committee.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774487156-PQ0CM7U59AWD6NJERCQF/image-asset.jpeg)
+![](images/dc0bd3a0-image-asset.jpeg)
 
 ### [Speaking With Amanda Skenandore About the Scars of Forced Assimilation](https://lareviewofbooks.org/article/speaking-with-amanda-skenandore-about-the-scars-of-forced-assimilation/#!)
 

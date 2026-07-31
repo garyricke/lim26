@@ -5,7 +5,7 @@ date: 2017-07-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/norton-family-newsletter-serving-in-gods-mission-among-the-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf9c70f86f2c8d537fcd/1748628700852/pentecost+baptism.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777566352-IFJ24Z2NMM3G0FI9Z73W/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777568299-OTYOBCDPSIQOU360S882/image-asset.jpeg"]
+images: ["images/b9e5e393-pentecost_baptism.jpg", "images/cfdf0391-image-asset.jpeg", "images/5b0eba48-image-asset.jpeg"]
 ---
 # Norton Family Newsletter-Serving in God’s Mission Among the Navajo
 
@@ -15,13 +15,13 @@ Jul 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777566352-IFJ24Z2NMM3G0FI9Z73W/image-asset.jpeg)
+![](images/cfdf0391-image-asset.jpeg)
 
 Dear Friends in Christ,
 
 Summer greetings in the name of our Savior. Looking back in these past few months it has been a whirlwind of activity but God has used it all in accomplishing His mission! Back in April, Heidi and I went to Anchorage, AK for a week long seminar. The seminar was called “Beauty for Ashes” and it is a method to help survivors of domestic violence and trauma. Although this was not our first exposure to the method, (two times trained facilitators have visited us, once in October, and again in January)we gained by far a deeper and greater understanding through the experience.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777568299-OTYOBCDPSIQOU360S882/image-asset.jpeg)
+![](images/5b0eba48-image-asset.jpeg)
 
 Following the seminar, we held our second confirmation retreat. This was another great opportunity for the students to mark, read, and digest the Word of God. The students enjoyed God’s creation and were able to go whitewater rafting. It was a great joy for everyone involved.
 

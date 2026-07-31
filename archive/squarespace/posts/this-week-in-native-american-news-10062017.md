@@ -5,7 +5,7 @@ date: 2017-10-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-10062017
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349becac653350bcef86dcd/1748628700852/jordanmainjpg.jpeg.size-custom-crop.1086x0.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777355293-4D942H3IFZANL0S980ZH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777356161-MW6P1C9G9UI614637298/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777357605-W2GTUBTORH9O8Q3PKQ6S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777359479-5XW8NU2FZVQ8YA2IGPCI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777360228-OG4QI03PKBK95NU2HGFC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777361564-T2U8CV2A5AE3LCXN2NFU/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777362665-QLMU5T16LVCTV40PSEOM/image-asset.jpeg"]
+images: ["images/9b08a51d-jordanmainjpg.jpeg.size-custom-crop.1086x0.jpg", "images/7dae2540-image-asset.jpeg", "images/891b4f62-image-asset.jpeg", "images/8fc10014-image-asset.jpeg", "images/d11a9ece-image-asset.jpeg", "images/789ba06e-image-asset.jpeg", "images/3c3828e7-image-asset.png", "images/45032836-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/6/17): The Protectors, The Chiefs, and The Artists
 
@@ -13,7 +13,7 @@ Oct 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777355293-4D942H3IFZANL0S980ZH/image-asset.jpeg)
+![](images/7dae2540-image-asset.jpeg)
 
 # Ocotber 6, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Teachers Use Their Evenings to Keep Students Safe
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777356161-MW6P1C9G9UI614637298/image-asset.jpeg)
+![](images/891b4f62-image-asset.jpeg)
 
 Teacher Greg Quachegan holds up pictures of two boys who died while attending school in Thunder Bay. [The Star](https://www.thestar.com/news/canada/2011/05/08/seven_native_teens_dead_or_missing_while_away_at_school.html)
 
@@ -43,7 +43,7 @@ The on call program started in 2000 with the hopes of keeping students safe.
 
 ## One Offensive Sign Started a Conversation and Changed a City
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777357605-W2GTUBTORH9O8Q3PKQ6S/image-asset.jpeg)
+![](images/8fc10014-image-asset.jpeg)
 
 A group of Native Americans sing as they play the Chiefs’ drum before a game at Arrowhead Stadium. John Sleezer/Kansas City Star
 
@@ -65,7 +65,7 @@ Essentially, Native Americans told the Chiefs what they found particularly offen
 
 ## Native Women were Portrayed Differently than Native Men in the 19th Century
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777359479-5XW8NU2FZVQ8YA2IGPCI/image-asset.jpeg)
+![](images/d11a9ece-image-asset.jpeg)
 
 Portrait of a young Choctaw woman, 1850 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ChoctawBelle.jpg)
 
@@ -81,19 +81,19 @@ Native American women were depicted as attractive, desirable, and pious. Their m
 
 ## In Various Art News:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777360228-OG4QI03PKBK95NU2HGFC/image-asset.jpeg)
+![](images/789ba06e-image-asset.jpeg)
 
 **ART:** The U.S. Department of Arts and Culture recently commissioned several Native artists to design posters as part of the #HonorNativeLand project, to encourage businesses, organizations, and individuals to learn about and respect the history of the indigenous nations where they are located. The artists are Bunky Echo-Hawk (Pawnee/Yakama), Marlena Myles (Spirit Lake Dakota/Mohegan/Muscogee), Keith BraveHeart (Oglala Lakota), and Bryan D. Parker (Muscogee/Choctaw/White Mountain Apache).
 
 ### [Read More and See the Designs](https://hellogiggles.com/news/native-artists-free-posters-honornativeland/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777361564-T2U8CV2A5AE3LCXN2NFU/image-asset.png)
+![](images/3c3828e7-image-asset.png)
 
 **GAMING**: *[Mulaka](http://www.lienzo.mx/mulaka/)*, an indie game from Mexico-based studio Lienzo, is the latest to join the digital preservation effort. A 3D action-adventure puzzle game, it centers around the Tarahumara indigenous culture that live alongside them in Chihuahua, Mexico. "We want the game to bring a spotlight to the Tarahumara, by giving their legends the Hollywood treatment — so to speak — that they deserve."
 
 ### [Read More](http://mashable.com/2017/09/29/mulaka-switch-tarahumara-digital-preservation/#UEQQkG6LUEqm)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777362665-QLMU5T16LVCTV40PSEOM/image-asset.jpeg)
+![](images/45032836-image-asset.jpeg)
 
 **COOKING**: From his home base in Minneapolis, Oglala Lakota chef and educator Sean Sherman's reach extends into many areas. He is studying and promoting indigenous North American foods with projects that range from pop-up dinners to plant taxonomy. The nonprofit he founded is developing various initiatives around food education and access in tribal regions. AND he’s also found the time to channel this work into a groundbreaking and tightly-researched new cookbook, *The Sioux Chef's Indigenous Kitchen.*
 

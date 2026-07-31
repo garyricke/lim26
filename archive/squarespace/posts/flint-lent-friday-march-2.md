@@ -5,7 +5,7 @@ date: 2018-03-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/flint-lent-friday-march-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc46c9a5633813c33ba8/1748628700852/Flint-Verse-Melanie-Redd.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776711881-W6WJ7B3GPNMDV3VDWJU6/image-asset.png"]
+images: ["images/c89c0f3c-Flint-Verse-Melanie-Redd.jpg", "images/9ecf3cda-image-asset.png"]
 ---
 # Flint (Lent) - Friday, March 2
 
@@ -13,7 +13,7 @@ Mar 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776711881-W6WJ7B3GPNMDV3VDWJU6/image-asset.png)
+![](images/9ecf3cda-image-asset.png)
 
 ### "Because the Sovereign LORD helps me, I will not be disgraced.  Therefore have I set my face like flint, and I know I will not be put to shame."   [Isaiah 50:7 (NIV)](https://www.bible.com/bible/111/ISA.50.7)
 

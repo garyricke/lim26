@@ -5,7 +5,7 @@ date: 2020-04-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/preparing-for-holy-week
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b048b70da5601ed8dc0f/1748628700852/040917Matthew21-9NoLogo.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773644385-LGKZWLJH5SI9VSXL3G9Q/image-asset.png"]
+images: ["images/8fd22dc3-040917Matthew21-9NoLogo.png", "images/e95d9d0a-image-asset.png"]
 ---
 # Preparing for Holy Week - Lent 2020
 
@@ -13,7 +13,7 @@ Apr 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773644385-LGKZWLJH5SI9VSXL3G9Q/image-asset.png)
+![](images/e95d9d0a-image-asset.png)
 
 ### Very truly I tell you, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy. [John 16:20](https://www.bible.com/bible/111/jhn.16.20)
 

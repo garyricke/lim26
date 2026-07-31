@@ -5,7 +5,7 @@ date: 2020-05-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-05152020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b00289548629034d04d0/1748628700852/stpfarm151020.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773571364-7WJPR2O80MBDLOZYOFDC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773572337-Z01L4I58PPF25O26V0M8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773573319-TM2496HEKOJG6D1N4E8W/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773574395-3O3K81LZJB96X5CCFKE8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773575340-TAY3XRMF2OTRB7NSKJHJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773576576-6KLDELKMVNC7V454MPME/image-asset.jpeg"]
+images: ["images/2cef5132-stpfarm151020.jpg", "images/b99ad155-image-asset.jpeg", "images/59d6f872-image-asset.jpeg", "images/c312fb64-image-asset.jpeg", "images/f7d15e61-image-asset.jpeg", "images/44cae605-image-asset.jpeg", "images/5805f944-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/15/2020): Farms and Bison and Oysters
 
@@ -13,7 +13,7 @@ May 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773571364-7WJPR2O80MBDLOZYOFDC/image-asset.jpeg)
+![](images/b99ad155-image-asset.jpeg)
 
 # May 15, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### Shadow Catcher captures 'eight unblinking seconds' in portraits
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773572337-Z01L4I58PPF25O26V0M8/image-asset.jpeg)
+![](images/59d6f872-image-asset.jpeg)
 
 Calvin Benjamin Grinnell, Mandan Hidatsa and Arikara Nation, posed for Balkowitsch in 2017. He gave Balkowitsch his Native American name, "Shadow Catcher" in 2018 in a naming ceremony. The name is significant because it previously belonged to ethnographer and wet plate photographer Edward S. Curtis in the early 20th century. (Photo by Shane Balkowitsch)
 
@@ -39,7 +39,7 @@ Shane Balkowitch, who made headlines for his image of climate activist Greta Thu
 
 ### Native American farm in Minnesota triples in size as it works to help those in need
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773573319-TM2496HEKOJG6D1N4E8W/image-asset.jpeg)
+![](images/c312fb64-image-asset.jpeg)
 
 Shamira Caddo mounds soil in preparation for planting squash at Dream of Wild Health farm in Hugo. The nonprofit farm, which is run by Native Americans, purchased 20 additional acres in March near its original 10-acre site. Scott Takushi / St. Paul Pioneer Press
 
@@ -59,7 +59,7 @@ On March 31, the nonprofit bought 20 acres for $240,000, near its original 10-ac
 
 ### Rosebud Sioux Tribe will create the largest native-owned and managed bison herd in North America
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773574395-3O3K81LZJB96X5CCFKE8/image-asset.jpeg)
+![](images/f7d15e61-image-asset.jpeg)
 
 (C) Conservation Media / WWF
 
@@ -79,13 +79,13 @@ The project is being advanced by a partnership between REDCO and WWF with suppor
 
 ### your history lesson for the day:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773575340-TAY3XRMF2OTRB7NSKJHJ/image-asset.jpeg)
+![](images/44cae605-image-asset.jpeg)
 
 ## [Ancient Americans ate lots of oysters in bad times](http://www.thehistoryblog.com/archives/58542)
 
 During a time of hardship, Native American peoples of the Southeast sought solace in oyster feasts, a new study has found. Analysis of archaeological remains on Roberts Island, a shell mound complex off the central west coast of Florida about 50 miles north of Tampa Bay, found that people gathered there for ceremonial purposes even when resources were severely curtailed by climate change.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773576576-6KLDELKMVNC7V454MPME/image-asset.jpeg)
+![](images/5805f944-image-asset.jpeg)
 
 ## [10 Things You May Not Know About the French and Indian War](https://www.history.com/news/10-things-you-may-not-know-about-the-french-and-indian-war)
 

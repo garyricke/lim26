@@ -5,7 +5,7 @@ date: 2019-12-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-light-of-the-world-monday-december-16
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b17a99aed3385f6d0cdc/1748628700852/ScriptureArt_-_John8_12_-_2_157x157.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773947721-5EYDMJMQ3TB4F0AYCLH4/image-asset.png"]
+images: ["images/43d09bfb-ScriptureArt_-_John8_12_-_2_157x157.jpg", "images/dadbf34e-image-asset.png"]
 ---
 # Advent: Light of the World - Monday, December 16
 
@@ -15,7 +15,7 @@ Dec 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773947721-5EYDMJMQ3TB4F0AYCLH4/image-asset.png)
+![](images/dadbf34e-image-asset.png)
 
 ### When Jesus spoke again to the people, he said, “I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.”
 

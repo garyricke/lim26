@@ -5,7 +5,7 @@ date: 2017-06-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-61617
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c027c383b522978e1648/1748628700852/lf-powwow-food0613lf02.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777703618-1GZZ3UHDIG2GLVGM1OLT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777705071-YJBYIW4QBO66DSDAPN3A/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777706167-PQ933P62KMNECL3UBZZK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777707589-ELAPM72J4WI65X2FOX4I/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777708680-2YRRNA90CQ0OA10TX7CH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777709805-IAY0TN9SBG4PRV5L61G0/image-asset.gif", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777711006-BXTJGTNCKRDVL38O82O2/image-asset.jpeg"]
+images: ["images/28e3f6c9-lf-powwow-food0613lf02.JPG", "images/1b8bfc1c-image-asset.jpeg", "images/8deea45b-image-asset.jpeg", "images/af8a7c1f-image-asset.jpeg", "images/0157c504-image-asset.jpeg", "images/85ff30c6-image-asset.jpeg", "images/11bfa1bd-image-asset.gif", "images/891138c0-image-asset.jpeg"]
 ---
 # This Week in Native American News (6/16/17): Sailing, Adopting, Singing, and Mourning
 
@@ -13,7 +13,7 @@ Jun 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777703618-1GZZ3UHDIG2GLVGM1OLT/image-asset.jpeg)
+![](images/1b8bfc1c-image-asset.jpeg)
 
 # June 16, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Healing Waters
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777705071-YJBYIW4QBO66DSDAPN3A/image-asset.jpeg)
+![](images/8deea45b-image-asset.jpeg)
 
 The Hui Malama O Ke Kai Foundation operates after-school and community programs for families in the Waimanalo area, reconnecting residents with their Native Hawaiian culture and the ocean. Its name translates to “Group that Cares for the Ocean.”
 
@@ -33,7 +33,7 @@ The Hui Malama O Ke Kai Foundation operates after-school and community programs 
 
 ## Arizona Court Challenges ICWA
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777706167-PQ933P62KMNECL3UBZZK/image-asset.jpeg)
+![](images/af8a7c1f-image-asset.jpeg)
 
 The Arizona Supreme Court's ruling is a challenge to the controversial 1978 Indian Child Welfare Act (ICWA). Proponents say the act is essential to keep Native American communities together. Critics contend it establishes a racially discriminatory system that negatively affects the safety and welfare of Indian children.
 
@@ -49,7 +49,7 @@ The Goldwater Institute has intervened in a number of ICWA cases including this 
 
 ## FSU Researcher Resurrects Native Hymns
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777707589-ELAPM72J4WI65X2FOX4I/image-asset.jpeg)
+![](images/0157c504-image-asset.jpeg)
 
 A Florida State University musicology professor has won a prestigious fellowship from the American Council of Learned Societies for her efforts to revive some special Native American hymns from the 18th century.
 
@@ -63,7 +63,7 @@ Sarah Eyerly and Rachel Wheeler are studying how members of the Native American 
 
 ## First Nation Mourns Third Youth Suicide
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777708680-2YRRNA90CQ0OA10TX7CH/image-asset.jpeg)
+![](images/85ff30c6-image-asset.jpeg)
 
 For the third time this year, an Indigenous community in northwestern Ontario is mourning over the suicide of a 12-year-old girl.
 
@@ -79,7 +79,7 @@ Between 1986 and 2016, there were more than 500 suicides across the 49 First Nat
 
 ## The Blood Quantum Debate
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777709805-IAY0TN9SBG4PRV5L61G0/image-asset.gif)
+![](images/11bfa1bd-image-asset.gif)
 
 The traditional homeland of the Eyak people covers the Southeastern shores of the Prince William Sound in the North Gulf Coast of Alaska. The Native Village of Eyak is a federally recognized tribe with 420 tribal citizens. As of 2015, 44 percent of Eyak tribal members did not have the required one-fourth blood quantum to legally harvest marine mammals under the current MMPA regulatory criteria. Although I descend from many generations of Eyak people who harvested marine mammals, I am among the growing number of Eyak descendants that are legally unable to carry on this part of our culture. This is especially important given the gradual loss of culture and language that Alaska Natives have experienced since contact. This is harming our communities. Our culture is at the brink of extinction, as well as many tribal members being made criminals for teaching and mentoring.
 
@@ -91,7 +91,7 @@ We Cannot Become “More” Native.
 
 ## What to eat at a powwow (& some history)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777711006-BXTJGTNCKRDVL38O82O2/image-asset.jpeg)
+![](images/891138c0-image-asset.jpeg)
 
 The sun is shining, birds are chirping and people are outside as much as possible. If you’re Indigenous, that means one thing: Break out your best beaded earrings and regalia, because powwow season has officially started.
 

@@ -5,7 +5,7 @@ date: 2016-10-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-34-6-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c50cb65d424aeb56fa79/1748628700852/Clear+the+pathways%21+Make+a+straight+path+for+the+coming+of+the+Honored+One%21+The+valleys+will+be+filled+in.+The+mountains+and+hills+will+be+brought+down+low..png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778958573-GTFTQW8P380RG8998F49/image-asset.png"]
+images: ["images/3b16765f-Clear_the_pathways__Make_a_straight_path_for_the_coming_of_the_Honored_One__The_valleys_will_be_filled_in._The_mountains", "images/036d7a66-image-asset.png"]
 ---
 # Luke 3:4-6 FNV
 
@@ -13,7 +13,7 @@ Oct 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778958573-GTFTQW8P380RG8998F49/image-asset.png)
+![](images/036d7a66-image-asset.png)
 
 The image is a simple one, and in the East one well knows, where the roads are comparatively few, and where they do exist are often in a bad state, when a sovereign is about to visit any part of his dominions, or still more if the march of an army has to be arranged for, the roads require considerable preparation.
 

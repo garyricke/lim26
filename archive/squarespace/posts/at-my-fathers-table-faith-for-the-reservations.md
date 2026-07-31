@@ -5,7 +5,7 @@ date: 2017-07-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/at-my-fathers-table-faith-for-the-reservations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf8d2c1738665e710580/1748628700852/psalm%2B119.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777550055-8II48SSD3DTUL3CJFV8L/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777551022-FLOXHA27MNTS264MQF6D/image-asset.jpeg"]
+images: ["images/b9e0130d-psalm_119.jpg", "images/f277fc5b-image-asset.jpeg", "images/c2358daf-image-asset.jpeg"]
 ---
 # At My Father's Table: Faith for the Reservations, Devo 8 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jul 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777550055-8II48SSD3DTUL3CJFV8L/image-asset.jpeg)
+![](images/f277fc5b-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -49,7 +49,7 @@ As our own Clarence DeLude states, "[You must learn how to sing their song](http
 
 Before you invite a friend to the eternal dinner, make sure you know who they are, how they tick, and what words will resonate with them to help them accept your invitation.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777551022-FLOXHA27MNTS264MQF6D/image-asset.jpeg)
+![](images/c2358daf-image-asset.jpeg)
 
 ## Prayer:
 

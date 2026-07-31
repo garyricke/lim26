@@ -5,7 +5,7 @@ date: 2018-12-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-fullness-of-time-advent-devotion-sunday-december-30
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6dcac64b42097600041/1748628700852/Galatians-4-4-5.jpg"]
+images: ["images/77e69970-Galatians-4-4-5.jpg"]
 ---
 # In The Fullness of Time (Advent Devotion) - Sunday, December 30
 

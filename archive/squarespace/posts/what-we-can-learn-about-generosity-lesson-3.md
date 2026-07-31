@@ -5,7 +5,7 @@ date: 2017-11-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-we-can-learn-about-generosity-lesson-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be7ab65d424aeb55ccbb/1748628700852/Find+out+what+pleases+the+Lord.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777275477-UMY180BOHC8L1H1MI6XE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777276720-5NFXYRHV6WXYQ4DD8Q98/image-asset.png"]
+images: ["images/8f946689-Find_out_what_pleases_the_Lord.png", "images/302256c1-image-asset.jpeg", "images/2cc1e555-image-asset.png"]
 ---
 # What We Can Learn About Generosity, Lesson 3: Gifts aren't always tangible - Morning Morning Devotion
 
@@ -13,7 +13,7 @@ Nov 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777275477-UMY180BOHC8L1H1MI6XE/image-asset.jpeg)
+![](images/302256c1-image-asset.jpeg)
 
 Missed a devotion in this generosity series? [Read them all here.](http://www.lutheranindianministries.org/news/?tag=generosity)
 
@@ -41,7 +41,7 @@ The difference is, and the lesson we can learn is, that everything we do can be 
 
 **And the end result of this daily generosity is the desire to give more.** To give more time, to give more resources, and to give more of Christ's love to those around us.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777276720-5NFXYRHV6WXYQ4DD8Q98/image-asset.png)
+![](images/2cc1e555-image-asset.png)
 
 In our work as missionaries for Christ in our everyday lives, let's strive to give more Jesus.
 

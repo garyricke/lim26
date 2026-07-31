@@ -5,7 +5,7 @@ date: 2019-10-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/doing-things-that-matter-lead-courageously-monday-morning-devotions-week-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b22a87fb27609f6ceace/1748628700852/Serving-Jesus.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774124522-4PA94HS2X0NBWMHULEKK/image-asset.jpeg"]
+images: ["images/d857f3f5-Serving-Jesus.png", "images/5933073e-image-asset.jpeg"]
 ---
 # Doing Things that Matter: Lead Courageously - Monday Morning Devotions (Week 5)
 
@@ -13,7 +13,7 @@ Oct 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774124522-4PA94HS2X0NBWMHULEKK/image-asset.jpeg)
+![](images/5933073e-image-asset.jpeg)
 
 (c) http://doingthingsthatmatter.com/
 

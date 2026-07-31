@@ -5,7 +5,7 @@ date: 2016-05-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-invisible-future-monday-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cb1cfd1d7d6219aaee56/1748628700852/cree+fancy+dancer.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780510106-PJXBLV5F55JPP1XBUMV9/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780511984-K3FQK6LA6QHF3XA4DK74/image-asset.jpeg"]
+images: ["images/9cec8cc2-cree_fancy_dancer.jpg", "images/6a17bf2d-image-asset.png", "images/cd6425fd-image-asset.jpeg"]
 ---
 # The Invisible Future - Monday Devotion
 
@@ -15,11 +15,11 @@ May 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780510106-PJXBLV5F55JPP1XBUMV9/image-asset.png)
+![](images/6a17bf2d-image-asset.png)
 
 # The Invisible Future
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780511984-K3FQK6LA6QHF3XA4DK74/image-asset.jpeg)
+![](images/cd6425fd-image-asset.jpeg)
 
 Many First Nations people believe in the Seventh Generation Principle, that all our decisions should take into account our families seven generations from now. Everything we do and plan should help to make future generations strong and successful.
 

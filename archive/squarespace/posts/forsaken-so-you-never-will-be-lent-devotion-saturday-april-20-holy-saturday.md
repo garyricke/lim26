@@ -5,7 +5,7 @@ date: 2019-04-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/forsaken-so-you-never-will-be-lent-devotion-saturday-april-20-holy-saturday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b39fd102823ae1a5f038/1748628700852/Heb_13-5_v3_Chalk_Web_2000x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774498077-7S5WKW7GJ0DY07HE80VZ/image-asset.jpeg"]
+images: ["images/64543d9e-Heb_13-5_v3_Chalk_Web_2000x.jpg", "images/7adf2178-image-asset.jpeg"]
 ---
 # Forsaken, So You Never Will Be (Lent Devotion) - Saturday, April 20 (Holy Saturday)
 
@@ -15,7 +15,7 @@ Apr 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774498077-7S5WKW7GJ0DY07HE80VZ/image-asset.jpeg)
+![](images/7adf2178-image-asset.jpeg)
 
 # Forsaken, So You Never Will Be
 

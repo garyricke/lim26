@@ -5,7 +5,7 @@ date: 2014-08-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/alaskainterior/native-serving-natives-answered-prayer
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd86ddf221709075f965/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785224214-XJ5M6KD8CWCCOOHO0RB4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785229117-D02SUBH1A3JXXBUYTIAS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785230852-WJIK4Q8TMXR13L2D8Y7L/image-asset.jpeg"]
+images: ["images/3d383030-1748628700852", "images/fbe6f164-image-asset.jpeg", "images/39e24044-image-asset.jpeg", "images/8eccbf2a-image-asset.jpeg"]
 ---
 # Natives Serving Natives—An Answered Prayer
 
@@ -15,13 +15,13 @@ Aug 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785224214-XJ5M6KD8CWCCOOHO0RB4/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44432/1451491777632/WEB-Old-Minto-Team-w-Don-IMG_0245.jpg?format=original)
+[![](images/fbe6f164-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44432/1451491777632/WEB-Old-Minto-Team-w-Don-IMG_0245.jpg?format=original)
 
 In July, Don Johnson *(Makah)* and his son, Chris, joined staff member Tim Norton, vicar at Shepherd of the Valley Lutheran Church in Navajo, N.M., and several men from the Navajo Nation to take part in a hammer-and-nails project in Old Minto, Alaska. The team also was joined by other [Lutheran Indian Ministries’ staff](https://lutheranindianministries.squarespace.com/ministries/locations), Rev. David *(Nuu-chah-nulth)* and Rosemary Sternbeck, whose ministry is based in Fairbanks, and Clarence De Lude III *(Native Hawaiian)*, missionary-at-large in O’ahu, Hawaii.
 
 The servant event in Old Minto was a unique experience both for Lutheran Indian Ministries and the men who took part in it. For our ministry, this is the second time we have sent Native volunteers to serve other Natives. For the Navajo, it was a homecoming in a sense since history tells us that the Navajo people once migrated from the area many hundreds of years ago. Timothy Yazzie *(Navajo)* shares a light-hearted moment between them and the Alaska Natives:
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785229117-D02SUBH1A3JXXBUYTIAS/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44434/1451491777635/WEB-Timothy-Yazzie-building-IMG_0157.jpg?format=original)
+[![](images/39e24044-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44434/1451491777635/WEB-Timothy-Yazzie-building-IMG_0157.jpg?format=original)
 
 WEB Timothy Yazzie building IMG\_0157
 
@@ -33,7 +33,7 @@ One of the highlights of the trip was the chance for Timothy to meet a Navajo wo
 
 When it came time for the group to honor the Athabascans with their personal gifts from home, Timothy shared one very special gift with his new Navajo friend—a Bible. In their language, he said to her, “I’m giving this Bible to you as a gift from God. This is part of you now. Keep it, read it. In it God will tell you how much He loves you and will be there for you no matter what.”
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785230852-WJIK4Q8TMXR13L2D8Y7L/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44430/1451491777630/WEB-Clarence-building-IMG_0155-e1432166368957.jpg?format=original)
+[![](images/8eccbf2a-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44430/1451491777630/WEB-Clarence-building-IMG_0155-e1432166368957.jpg?format=original)
 
 WEB Clarence building IMG\_0155
 

@@ -5,7 +5,7 @@ date: 2019-03-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/not-just-a-story-lent-devotion-wednesday-march-27
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b5e5caefb623c850217f/1748628700852/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775078978-MX72MOGGG70XSRC3LBL0/image-asset.jpeg"]
+images: ["images/a48d49f0-1280x1280.jpg", "images/4c175666-image-asset.jpeg"]
 ---
 # Not Just a Story (Lent Devotion) - Wednesday, March 27
 
@@ -13,7 +13,7 @@ Mar 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775078978-MX72MOGGG70XSRC3LBL0/image-asset.jpeg)
+![](images/4c175666-image-asset.jpeg)
 
 # Not Just a Story
 

@@ -5,7 +5,7 @@ date: 2016-12-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/hope-december-6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4769aa0180a63d391e3/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778808303-JO5YQUL47CUBQ4DIRWBK/image-asset.png"]
+images: ["images/fbd6b011-2016_Advent_Devotions.png", "images/4fa3a757-image-asset.png"]
 ---
 # Hope: December 6
 
@@ -15,7 +15,7 @@ Dec 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778808303-JO5YQUL47CUBQ4DIRWBK/image-asset.png)
+![](images/4fa3a757-image-asset.png)
 
 ## But the tax collector standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, God be merciful to me a sinner. Luke 18:13 (ESV)
 

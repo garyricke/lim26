@@ -5,7 +5,7 @@ date: 2020-10-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-10-30-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af5e5b3de4701ddf7f3a/1748628700852/2020-08-12-untitled-010-2432px.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773407091-ETWQXJO38ELSPE9FFUPH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773408253-A7GEMZSYIAXG4CKA6JWG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773409263-P2EVFMJJZA0DYCUR1HNJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773410233-AXJOA23KP2N69P9ELBL3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773411483-3U0ZOA3B1TI42MKMWGMV/image-asset.jpeg"]
+images: ["images/397a50e0-2020-08-12-untitled-010-2432px.jpg", "images/8e4f02e6-image-asset.jpeg", "images/e16d8b42-image-asset.jpeg", "images/a81d1ac9-image-asset.jpeg", "images/3459eb19-image-asset.jpeg", "images/ddc23cae-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/30/2020): Run, Read, Listen, Watch, and Don't Dress Up as an Indian
 
@@ -13,7 +13,7 @@ Oct 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773407091-ETWQXJO38ELSPE9FFUPH/image-asset.jpeg)
+![](images/8e4f02e6-image-asset.jpeg)
 
 # October 30, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### RUN: Carol Seppilu Named the 2020 AFN ‘Woman of Courage’
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773408253-A7GEMZSYIAXG4CKA6JWG/image-asset.jpeg)
+![](images/e16d8b42-image-asset.jpeg)
 
 “It is an honor and it’s my pleasure to be able to run for my people and to pray for them, when I’m out there for seven to 30 hours.” – Carol Seppilu
 
@@ -37,7 +37,7 @@ Even though she started running less than two miles at a time about six years ag
 
 ### [READ: 14 Contemporary Books By Native American Writers To Get Excited About](https://www.buzzfeednews.com/article/erikawurth/native-american-novels-tommy-orange-there-there)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773409263-P2EVFMJJZA0DYCUR1HNJ/image-asset.jpeg)](https://www.buzzfeednews.com/article/erikawurth/native-american-novels-tommy-orange-there-there)
+[![](images/a81d1ac9-image-asset.jpeg)](https://www.buzzfeednews.com/article/erikawurth/native-american-novels-tommy-orange-there-there)
 
 [Click to see the list.](https://www.buzzfeednews.com/article/erikawurth/native-american-novels-tommy-orange-there-there)
 
@@ -45,7 +45,7 @@ Even though she started running less than two miles at a time about six years ag
 
 ### LISTEN: ‘The Storyteller’ resurrects Alaska Native stories for a modern audience
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773410233-AXJOA23KP2N69P9ELBL3/image-asset.jpeg)
+![](images/3459eb19-image-asset.jpeg)
 
 *A still from The Storyteller, a series of animated videos and podcast episodes of Alaska Native stories. (Koahnic Broadcast Corp)*
 
@@ -67,7 +67,7 @@ This is not Shina Nova from tiktok, but an example of Inuit Throat Singing.
 
 ### Happy Halloween!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773411483-3U0ZOA3B1TI42MKMWGMV/image-asset.jpeg)
+![](images/ddc23cae-image-asset.jpeg)
 
 ## [Cultural Appropriation, A Perennial Issue On Halloween](https://www.npr.org/2019/10/29/773615928/cultural-appropriation-a-perennial-issue-on-halloween)
 

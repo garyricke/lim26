@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Manitoba%2FCanada
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773507950-LLCS8MWSEY79L91KQQRU/Call+on+me.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773628879-3QJQ7IP9J61KGSIG68KZ/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773693749-ZX9NQ6BJ1UC4JH645IMU/86d4694d6432e53d74dbcb4aba8a967e.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773730302-N44LLZ7XLND8QNBMP0QP/John_16_32-1920x1080_watermarked.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773764042-U94OXTE6WUL83XUQ5LIQ/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773773778-YTNC8ELTFK7YWSO5IN5M/matt-8.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773780587-7R34I2954000CVIFD07T/1433841-forgive-us-our-debts-as-we-also-have-forgiven-our-debtors-matthew-612.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773956636-TR33Q7KI60Y1CEDR6S1X/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773960897-IC80HNPEK0MYVWBT5GW0/1280x1280.jpg"]
+images: ["images/7674ae30-Call_on_me.png", "images/2a7df2e8-1280x1280__1_.jpg", "images/4ad693dd-86d4694d6432e53d74dbcb4aba8a967e.jpg", "images/a8826e73-John_16_32-1920x1080_watermarked.jpg", "images/85d833ec-1280x1280__1_.jpg", "images/46008edf-matt-8.jpg", "images/2b0234ff-1433841-forgive-us-our-debts-as-we-also-have-forgiven-our-debtors-matthew-612.jpg", "images/56573474-1280x1280__1_.jpg", "images/35053997-1280x1280.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Call on Me (Today's LIM)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773507950-LLCS8MWSEY79L91KQQRU/Call+on+me.png)](/news-notes/call-on-me-todays-lim)
+[![Call on Me (Today's LIM)](images/7674ae30-Call_on_me.png)](/news-notes/call-on-me-todays-lim)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -97,7 +97,7 @@ We heard the warnings and followed the rules: Stay home, social distance, self-q
 
 [Read More](/news-notes/a-new-trauma)
 
-[![Our Darkest Hour - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773628879-3QJQ7IP9J61KGSIG68KZ/1280x1280+%281%29.jpg)](/news-notes/our-darkest-hour)
+[![Our Darkest Hour - Lent 2020](images/2a7df2e8-1280x1280__1_.jpg)](/news-notes/our-darkest-hour)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -113,7 +113,7 @@ God allows us to go through hard times. Of course, our trials are nowhere near t
 
 [Read More](/news-notes/our-darkest-hour)
 
-[![We are on the Way to Resurrection - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773693749-ZX9NQ6BJ1UC4JH645IMU/86d4694d6432e53d74dbcb4aba8a967e.jpg)](/news-notes/we-are-on-the-way-to-resurrection)
+[![We are on the Way to Resurrection - Lent 2020](images/4ad693dd-86d4694d6432e53d74dbcb4aba8a967e.jpg)](/news-notes/we-are-on-the-way-to-resurrection)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -133,7 +133,7 @@ I sometimes wonder what must have been going on in our Savior's mind as He lived
 
 [Read More](/news-notes/we-are-on-the-way-to-resurrection)
 
-[![My Father is With Me - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773730302-N44LLZ7XLND8QNBMP0QP/John_16_32-1920x1080_watermarked.jpg)](/news-notes/my-father-is-with-me)
+[![My Father is With Me - Lent 2020](images/a8826e73-John_16_32-1920x1080_watermarked.jpg)](/news-notes/my-father-is-with-me)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -149,7 +149,7 @@ It is comforting to know Jesus, our Savior Himself, knows what is it like to be 
 
 [Read More](/news-notes/my-father-is-with-me)
 
-[![Life Through Jesus - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773764042-U94OXTE6WUL83XUQ5LIQ/1280x1280+%281%29.jpg)](/news-notes/lost-amp-afraid)
+[![Life Through Jesus - Lent 2020](images/85d833ec-1280x1280__1_.jpg)](/news-notes/lost-amp-afraid)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -165,7 +165,7 @@ Guest User
 
 [Read More](/news-notes/lost-amp-afraid)
 
-[![Calm in the Storm - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773773778-YTNC8ELTFK7YWSO5IN5M/matt-8.jpg)](/news-notes/calm-in-the-storm)
+[![Calm in the Storm - Lent 2020](images/46008edf-matt-8.jpg)](/news-notes/calm-in-the-storm)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -183,7 +183,7 @@ At times, the news of tragic events adds to the inner storm we feel in our heart
 
 [Read More](/news-notes/calm-in-the-storm)
 
-[![A Long Road to Freedom - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773780587-7R34I2954000CVIFD07T/1433841-forgive-us-our-debts-as-we-also-have-forgiven-our-debtors-matthew-612.jpg)](/news-notes/a-long-to-freedom)
+[![A Long Road to Freedom - Lent 2020](images/2b0234ff-1433841-forgive-us-our-debts-as-we-also-have-forgiven-our-debtors-matthew-612.jpg)](/news-notes/a-long-to-freedom)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -199,7 +199,7 @@ During Lent, I am challenging your heart regarding forgiveness. Are you holding 
 
 [Read More](/news-notes/a-long-to-freedom)
 
-[![Advent: He is Able -Thursday, December 12](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773956636-TR33Q7KI60Y1CEDR6S1X/1280x1280+%281%29.jpg)](/news-notes/advent-he-is-able-thursday-december-12)
+[![Advent: He is Able -Thursday, December 12](images/56573474-1280x1280__1_.jpg)](/news-notes/advent-he-is-able-thursday-december-12)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -217,7 +217,7 @@ Take heart this season! God, through his Son, Jesus, has come to our world. He k
 
 [Read More](/news-notes/advent-he-is-able-thursday-december-12)
 
-[![Advent: Our Prince of peace -Tuesday, December 10](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773960897-IC80HNPEK0MYVWBT5GW0/1280x1280.jpg)](/news-notes/advent-our-prince-of-peace-tuesday-december-10)
+[![Advent: Our Prince of peace -Tuesday, December 10](images/35053997-1280x1280.jpg)](/news-notes/advent-our-prince-of-peace-tuesday-december-10)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User

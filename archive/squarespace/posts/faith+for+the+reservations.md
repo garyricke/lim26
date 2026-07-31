@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/faith+for+the+reservations
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777459063-EL7O4ZJRV0MWDQAKI4NX/big_thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777479766-30DOVP6ALAX3YZ5LJC14/d7c5bf43835c266168a06698045a6245--homemaking-sheep.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777500231-IA880Y99077BM6OH25NY/nehemiah_rust_door-1024x682.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777523441-84O0EHY5OVI8PBKB96P0/a5ebc2d5f5c4675e90a152773f23821c--faith-in-god-have-faith.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777552354-T6XXX07MELKLMPDAM5KS/psalm%2B119.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777575058-Y1K5WWZQ6GXNZZN3K99B/45862418991fad081fd37a75e7d93ccf.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777589910-TTK7KJUBZD70OMD3BZXB/1+timothy+2.1-2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777614843-FNJ26JQKQNPXWCC22HO4/tumblr_nchgdsbPbM1qg1umyo1_500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777636306-FRXDJY3Y4PDQDB79ZR0G/tumblr_oa24w5LOwD1rhr6kfo1_500.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777657074-5C0RION3VKTBQAIUDS0J/devotion+title.jpg"]
+images: ["images/d7dcab08-big_thumb.jpg", "images/96e3d057-d7c5bf43835c266168a06698045a6245--homemaking-sheep.jpg", "images/cab2b532-nehemiah_rust_door-1024x682.jpg", "images/ae57ab95-a5ebc2d5f5c4675e90a152773f23821c--faith-in-god-have-faith.jpg", "images/730977e7-psalm_119.jpg", "images/b6cdd2eb-45862418991fad081fd37a75e7d93ccf.jpg", "images/b042c4f9-1_timothy_2.1-2.jpg", "images/ffcde1ed-tumblr_nchgdsbPbM1qg1umyo1_500.jpg", "images/e786abc3-tumblr_oa24w5LOwD1rhr6kfo1_500.jpg", "images/5fd16cb1-devotion_title.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Multiply Yourself: Faith for the Reservations, Devo 12 - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777459063-EL7O4ZJRV0MWDQAKI4NX/big_thumb.jpg)](/news-notes/multiply-yourself-faith-for-the-reservations)
+[![Multiply Yourself: Faith for the Reservations, Devo 12 - Monday Morning Devotion](images/d7dcab08-big_thumb.jpg)](/news-notes/multiply-yourself-faith-for-the-reservations)
 
 Guest User
 8/28/17
@@ -73,7 +73,7 @@ Jesus called his followers to work in teams of two. We should not overlook Jesus
 
 [Read More](/news-notes/multiply-yourself-faith-for-the-reservations)
 
-[![Compassion for the People, Live for the People: Faith for the Reservations, Devo 11 - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777479766-30DOVP6ALAX3YZ5LJC14/d7c5bf43835c266168a06698045a6245--homemaking-sheep.jpg)](/news-notes/compassion-for-crowds-faith-for-the-reservations1)
+[![Compassion for the People, Live for the People: Faith for the Reservations, Devo 11 - Monday Morning Devotion](images/96e3d057-d7c5bf43835c266168a06698045a6245--homemaking-sheep.jpg)](/news-notes/compassion-for-crowds-faith-for-the-reservations1)
 
 Guest User
 8/21/17
@@ -87,7 +87,7 @@ Jesus impacted cities because of his compassion. Just look at how Jesus responde
 
 [Read More](/news-notes/compassion-for-crowds-faith-for-the-reservations1)
 
-[![Let's Start: Faith for the Reservations, Devo 10 - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777500231-IA880Y99077BM6OH25NY/nehemiah_rust_door-1024x682.jpg)](/news-notes/lets-start-faith-for-the-reservations)
+[![Let's Start: Faith for the Reservations, Devo 10 - Monday Morning Devotion](images/cab2b532-nehemiah_rust_door-1024x682.jpg)](/news-notes/lets-start-faith-for-the-reservations)
 
 Guest User
 8/14/17
@@ -101,7 +101,7 @@ Jesus, help me to see your heart and your vision for [my reservation/city]. Help
 
 [Read More](/news-notes/lets-start-faith-for-the-reservations)
 
-[![God's Timing: Faith for the Reservations, Devo 9 - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777523441-84O0EHY5OVI8PBKB96P0/a5ebc2d5f5c4675e90a152773f23821c--faith-in-god-have-faith.jpg)](/news-notes/gods-timing-faith-for-the-reservations)
+[![God's Timing: Faith for the Reservations, Devo 9 - Monday Morning Devotion](images/ae57ab95-a5ebc2d5f5c4675e90a152773f23821c--faith-in-god-have-faith.jpg)](/news-notes/gods-timing-faith-for-the-reservations)
 
 Guest User
 8/7/17
@@ -115,7 +115,7 @@ Jesus, we know nothing is impossible with You. Bless [my reservation/city] in wa
 
 [Read More](/news-notes/gods-timing-faith-for-the-reservations)
 
-[![At My Father's Table: Faith for the Reservations, Devo 8 - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777552354-T6XXX07MELKLMPDAM5KS/psalm%2B119.jpg)](/news-notes/at-my-fathers-table-faith-for-the-reservations)
+[![At My Father's Table: Faith for the Reservations, Devo 8 - Monday Morning Devotion](images/730977e7-psalm_119.jpg)](/news-notes/at-my-fathers-table-faith-for-the-reservations)
 
 Guest User
 7/31/17
@@ -129,7 +129,7 @@ Jesus, thank you for preparing the table for us to come home to, and the abundan
 
 [Read More](/news-notes/at-my-fathers-table-faith-for-the-reservations)
 
-[![Ripe for Harvest: Faith for the Reservations, Devo 7 - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777575058-Y1K5WWZQ6GXNZZN3K99B/45862418991fad081fd37a75e7d93ccf.jpg)](/news-notes/ripe-for-harvest-faith-for-the-reservations)
+[![Ripe for Harvest: Faith for the Reservations, Devo 7 - Monday Morning Devotion](images/b6cdd2eb-45862418991fad081fd37a75e7d93ccf.jpg)](/news-notes/ripe-for-harvest-faith-for-the-reservations)
 
 Guest User
 7/24/17
@@ -143,7 +143,7 @@ Jesus, help me to see the work that has already been done and to be prepared to 
 
 [Read More](/news-notes/ripe-for-harvest-faith-for-the-reservations)
 
-[![Pray for Rulers: Faith for the Reservations, Devo 6 - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777589910-TTK7KJUBZD70OMD3BZXB/1+timothy+2.1-2.jpg)](/news-notes/pray-for-rulers-faith-for-the-reservations)
+[![Pray for Rulers: Faith for the Reservations, Devo 6 - Monday Morning Devotion](images/b042c4f9-1_timothy_2.1-2.jpg)](/news-notes/pray-for-rulers-faith-for-the-reservations)
 
 Guest User
 7/17/17
@@ -157,7 +157,7 @@ Jesus, pour out your love on everyone in [your reservation/city] and especially 
 
 [Read More](/news-notes/pray-for-rulers-faith-for-the-reservations)
 
-[![Maintain Love: Faith for the Reservations, Devo 5 - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777614843-FNJ26JQKQNPXWCC22HO4/tumblr_nchgdsbPbM1qg1umyo1_500.jpg)](/news-notes/maintain-love-faith-for-the-reservations)
+[![Maintain Love: Faith for the Reservations, Devo 5 - Monday Morning Devotion](images/ffcde1ed-tumblr_nchgdsbPbM1qg1umyo1_500.jpg)](/news-notes/maintain-love-faith-for-the-reservations)
 
 Guest User
 7/10/17
@@ -171,7 +171,7 @@ Jesus, I choose to bless and have hope for [my reservation/city]. Fill my heart 
 
 [Read More](/news-notes/maintain-love-faith-for-the-reservations)
 
-[![Big Dreams: Faith for the Reservations, Devo 4 - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777636306-FRXDJY3Y4PDQDB79ZR0G/tumblr_oa24w5LOwD1rhr6kfo1_500.jpg)](/news-notes/big-dreams-faith-for-the-reservations)
+[![Big Dreams: Faith for the Reservations, Devo 4 - Monday Morning Devotion](images/e786abc3-tumblr_oa24w5LOwD1rhr6kfo1_500.jpg)](/news-notes/big-dreams-faith-for-the-reservations)
 
 Guest User
 7/3/17
@@ -185,7 +185,7 @@ Jesus, show me where You want seeds of your Good News planted on [your reservati
 
 [Read More](/news-notes/big-dreams-faith-for-the-reservations)
 
-[![Rebuild: Faith for the Reservations, Devo 3 - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777657074-5C0RION3VKTBQAIUDS0J/devotion+title.jpg)](/news-notes/rebuild-faith-for-the-reservations)
+[![Rebuild: Faith for the Reservations, Devo 3 - Monday Morning Devotion](images/5fd16cb1-devotion_title.jpg)](/news-notes/rebuild-faith-for-the-reservations)
 
 Guest User
 6/26/17

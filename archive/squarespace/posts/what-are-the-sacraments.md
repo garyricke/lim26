@@ -5,7 +5,7 @@ date: 2017-10-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-are-the-sacraments
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bec5e32d1337947824ce/1748628700852/download.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777350440-0JY84PBK4C11F7UNBD81/image-asset.jpeg"]
+images: ["images/25dc3b68-download.jpg", "images/feb90dfd-image-asset.jpeg"]
 ---
 # What is the purpose of the Sacraments? (What do Lutherans Believe?: Part 6)
 
@@ -15,7 +15,7 @@ Oct 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777350440-0JY84PBK4C11F7UNBD81/image-asset.jpeg)
+![](images/feb90dfd-image-asset.jpeg)
 
 This is a seven-week devotion by Pastor Ricky Jacob, of Winnebago, Nebraska.  
 (Read the full series here)

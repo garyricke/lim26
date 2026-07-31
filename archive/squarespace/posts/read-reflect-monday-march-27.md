@@ -5,7 +5,7 @@ date: 2017-03-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-monday-march-27
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1664e34042f8b58dbe7/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778023975-MU0S5U5EYF9XPU71TNZR/image-asset.png"]
+images: ["images/f9e93f0a-2017_lent_cover.jpg", "images/32192c9b-image-asset.png"]
 ---
 # Read & Reflect: Monday, March 27
 
@@ -13,7 +13,7 @@ Mar 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778023975-MU0S5U5EYF9XPU71TNZR/image-asset.png)
+![](images/32192c9b-image-asset.png)
 
 ## Read: [Matthew 18:23-34](https://www.bible.com/bible/111/mat.18.23-34), [Colossians 2:13-15](https://www.bible.com/bible/111/col.2.13-15)
 

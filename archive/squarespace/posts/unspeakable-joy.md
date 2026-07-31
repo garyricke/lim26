@@ -5,7 +5,7 @@ date: 2015-02-03
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/washingtonolympic-peninsula/unspeakable-joy
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4433c/1451491776495/0215_Prayer-TomCathy-800x186.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4433e/1451491776497/0215_Unspeakable-Joy-477x800.jpg"]
+images: ["images/93c991ce-0215_Prayer-TomCathy-800x186.jpg", "images/a4ac0efd-0215_Unspeakable-Joy-477x800.jpg"]
 ---
 # Unspeakable Joy
 
@@ -16,7 +16,7 @@ Feb 3
 Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 
 *The following message was delivered by Deaconess Cathy Benzler* (Cherokee) *as the opening devotion at Lutheran Indian Ministries annual staff meeting this past January 2015:*
-![0215_Unspeakable-Joy-477x800](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4433e/1451491776497/0215_Unspeakable-Joy-477x800.jpg)I am so excited that this time has finally come. I have been waiting all year long for this, not just to get away, **but to see all of YOU!** As time got closer, the more the excitement grew, knowing that soon we would come together once again to share with one another.
+![0215_Unspeakable-Joy-477x800](images/a4ac0efd-0215_Unspeakable-Joy-477x800.jpg)I am so excited that this time has finally come. I have been waiting all year long for this, not just to get away, **but to see all of YOU!** As time got closer, the more the excitement grew, knowing that soon we would come together once again to share with one another.
 
 Some of us might see one another during the year at other venues, or we may talk to each other during the year, whether it’s work related or we are touching base for prayers, but **the prospect of coming together as a group just brings me an unspeakable joy in seeing you all again**.
 
@@ -42,7 +42,7 @@ Along with making us heirs of Christ, God gives spiritual gifts accordingly to s
 
 **When you gather all the various God-given gifts together in the same room, there is no telling what can happen!** I do know one thing: This brings me overwhelming joy and that is why I am so happy and excited in seeing all of you.
 
-*![0215_Prayer-TomCathy-800x186](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4433c/1451491776495/0215_Prayer-TomCathy-800x186.jpg)*
+*![0215_Prayer-TomCathy-800x186](images/93c991ce-0215_Prayer-TomCathy-800x186.jpg)*
 
 *Click [here](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c004acd3cdb4a4433a/1451491776493/FEB-2015-UNSPEAKABLE-JOY-LIM-STAFF-MTG-DEVOTION-BY-CBENZLER.pdf?format=original) to download a PDF version of this article.*
 

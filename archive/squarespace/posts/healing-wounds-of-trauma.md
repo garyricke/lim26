@@ -5,15 +5,15 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/healing-wounds-of-trauma
 section: 
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/0017bc7f-31c7-4468-8361-b41692c80c1d/train-the-trainers-banner.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1689009800817-QR96H6E2TRXI68KVESIR/slideshow-frame.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1732c586-7f58-4b5c-8ec3-ea3840cfdfe8/geneva-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/20ea7f9e-e4cf-47e4-880c-58989990cda3/healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen+copy.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/287f6450-5ae1-4d22-802b-fc780ce647f1/background-gradient-litegray-white-475tall.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/3c3a03bb-82d4-41a0-91a0-47f4784c3d09/healingwounds-trauma-healing-institute-logo-american-bible.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/546575a0-0760-42ac-88dc-056766322474/bible-study-group-hero-2-vert.jpg"]
+images: ["images/3f9d826e-train-the-trainers-banner.jpg", "images/e1f801a3-slideshow-frame.png", "images/024eebe3-geneva-thumb.jpg", "images/5a8b3234-healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen_copy.jpeg", "images/fd4d8ef9-background-gradient-litegray-white-475tall.png", "images/dfb7f98b-healingwounds-trauma-healing-institute-logo-american-bible.png", "images/6e475e29-bible-study-group-hero-2-vert.jpg"]
 ---
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/20ea7f9e-e4cf-47e4-880c-58989990cda3/healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen+copy.jpeg)
+![](images/5a8b3234-healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen_copy.jpeg)
 
 # Healing The Wounds of Trauma
 
 A Small Group for Bible-based Trauma Healing
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/3c3a03bb-82d4-41a0-91a0-47f4784c3d09/healingwounds-trauma-healing-institute-logo-american-bible.png)
+![](images/dfb7f98b-healingwounds-trauma-healing-institute-logo-american-bible.png)
 
 * Are you or someone you know struggling with grief?
 * Do you have heart wounds that haven’t healed?
@@ -54,7 +54,7 @@ We will be using the **Celebrate Recovery Study Bible (35th year anniversary edi
 
 * A roadmap outlining our full reading schedule will also be provided once you sign up.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/546575a0-0760-42ac-88dc-056766322474/bible-study-group-hero-2-vert.jpg)
+![](images/6e475e29-bible-study-group-hero-2-vert.jpg)
 
 ### **Gathering Details**
 
@@ -122,15 +122,15 @@ Upcoming Sessions
 
   [Register](#register)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1689009800817-QR96H6E2TRXI68KVESIR/slideshow-frame.png)
+![](images/e1f801a3-slideshow-frame.png)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/0017bc7f-31c7-4468-8361-b41692c80c1d/train-the-trainers-banner.jpg)
+![](images/3f9d826e-train-the-trainers-banner.jpg)
 
 ## \*Training for Trainers (Equipping)
 
 Those who complete the Healing Group (Healing the Wounds of Trauma), have the option to continue into the Equipping Session (Train-the Trainer) where you are trained in how to facilitate a Healing Group (Healing the Wounds of Trauma) — [**Register to be a Trainer**](#block-yui_3_17_2_1_1689023139062_4316)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/287f6450-5ae1-4d22-802b-fc780ce647f1/background-gradient-litegray-white-475tall.png)
+![](images/fd4d8ef9-background-gradient-litegray-white-475tall.png)
 
 ## FREE Event Registration
 
@@ -140,13 +140,13 @@ Those who complete the Healing Group (Healing the Wounds of Trauma), have the op
 
 If you’ve registered and cannot make a session, please let us know as soon as you can.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/287f6450-5ae1-4d22-802b-fc780ce647f1/background-gradient-litegray-white-475tall.png)
+![](images/fd4d8ef9-background-gradient-litegray-white-475tall.png)
 
 ## Have Questions
 
 Contact us with your questions.
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1732c586-7f58-4b5c-8ec3-ea3840cfdfe8/geneva-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/1044383471/rendition/1080p/file.mp4?loc=external&log_user=0&signature=e9a9c3999a1a3cb80dc7c4849c50d37d2d37b5262c60dbc836cbba0862e22d3b)
+[![](images/024eebe3-geneva-thumb.jpg)](https://player.vimeo.com/progressive_redirect/playback/1044383471/rendition/1080p/file.mp4?loc=external&log_user=0&signature=e9a9c3999a1a3cb80dc7c4849c50d37d2d37b5262c60dbc836cbba0862e22d3b)
 
 Part 1
 

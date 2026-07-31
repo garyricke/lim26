@@ -5,7 +5,7 @@ date: 2017-04-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-42117-a-powwow-workout-a-vet-school-and-a-long-lost-village
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c103d2ce18469942f6bd/1748628700852/maxresdefault.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777924669-U2OW64P331BBKS4F815C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777925561-W7LVSCZJ01U2ACRX3QMN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777926629-8E1IX5RWISN623ABAUNV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777927637-EJZ9JVFPFG38BSDE0FYA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777928805-GCHTHW3ZDYHW9JJPMM7W/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777930085-MFR1ZS3R6QVWJ2TSJCJ0/image-asset.jpeg"]
+images: ["images/25e0a3fe-maxresdefault.jpg", "images/6e7cca1b-image-asset.jpeg", "images/0e11f2de-image-asset.jpeg", "images/71bd0a8a-image-asset.jpeg", "images/883a7c80-image-asset.jpeg", "images/0d7818dc-image-asset.jpeg", "images/d837e29b-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/21/17): a powwow workout, a vet school, and a long lost village.
 
@@ -13,7 +13,7 @@ Apr 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777924669-U2OW64P331BBKS4F815C/image-asset.jpeg)
+![](images/6e7cca1b-image-asset.jpeg)
 
 # April 21, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great people doing great things: Powwow's for Health
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777925561-W7LVSCZJ01U2ACRX3QMN/image-asset.jpeg)
+![](images/0e11f2de-image-asset.jpeg)
 
 A Native American tribe is using traditional dance to fight health problems in its community.
 
@@ -39,7 +39,7 @@ Native American communities also face high rates of heart disease and diabetes. 
 
 ## Hands-On Vet School for Navajo Students
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777926629-8E1IX5RWISN623ABAUNV/image-asset.jpeg)
+![](images/71bd0a8a-image-asset.jpeg)
 
 This is hands-on instruction in veterinary science, part classroom, part veterinary clinic. Students work and observe in two operating rooms, one for small animals, the other for large.
 
@@ -53,7 +53,7 @@ The Ag Center opened its doors opened in 2011. This program prepares students fo
 
 ## Chief challenges people to live on the rez
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777927637-EJZ9JVFPFG38BSDE0FYA/image-asset.jpeg)
+![](images/883a7c80-image-asset.jpeg)
 
 "If people have a visceral reaction to the term ‘racism’, they should spend a day, a week, a month to live in one of our communities and live in the shoes, in the houses of our people," Sheila North Wilson, grand chief of the Manitoba Keewatinowi Okimakanak said Thursday.
 
@@ -73,7 +73,7 @@ She believes if people saw and lived in the conditions indigenous people endure 
 
 ## Native Seeds Strengthen Heritage
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777928805-GCHTHW3ZDYHW9JJPMM7W/image-asset.jpeg)
+![](images/0d7818dc-image-asset.jpeg)
 
 Late last spring—almost too late, really—a diverse team of volunteers gathered at the Hudson Valley Farm Hub, a nonprofit in the town of Hurley, New York, to plant seeds. Over the course of two days, Akwesasne tribal members led traditional ceremonies and oversaw the sowing of several nearly extinct varieties of corn, beans, and squash—the vegetables that make up a [three sisters garden](http://www.nativeseeds.org/learn/nss-blog/415-3sisters).
 
@@ -91,7 +91,7 @@ Up on the reservation, children made and sold squash pies. After some thought, t
 
 ## Long lost city of Etzanoa
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777930085-MFR1ZS3R6QVWJ2TSJCJ0/image-asset.jpeg)
+![](images/d837e29b-image-asset.jpeg)
 
 Wichita State University professor thinks that he’s found Etzanoa, a lost Native American city in the middle of Kansas. Donald Blakeslee believes that he’s stumbled upon the city, which reportedly might have house 20,000 people. He’s been researching the city since 2015, but when a high school kid found a half-inch iron cannon ball in the area and a water shrine, Blakeslee was convinced his theory about the size of the city was correct.
 

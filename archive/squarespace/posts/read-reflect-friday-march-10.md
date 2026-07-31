@@ -5,7 +5,7 @@ date: 2017-03-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-friday-march-10
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1b89bbfe007ca7118cb/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778106133-XZC1NQNZ1S6RL2YGQYFW/image-asset.png"]
+images: ["images/623f792f-2017_lent_cover.jpg", "images/8fa61f6f-image-asset.png"]
 ---
 # Read & Reflect: Friday, March 10
 
@@ -13,7 +13,7 @@ Mar 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778106133-XZC1NQNZ1S6RL2YGQYFW/image-asset.png)
+![](images/8fa61f6f-image-asset.png)
 
 ## Read: [Isaiah 40:28-31](https://www.bible.com/bible/111/isa.40.28-31)
 

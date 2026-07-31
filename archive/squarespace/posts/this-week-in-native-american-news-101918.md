@@ -5,7 +5,7 @@ date: 2018-10-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-101918
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7eb0eda784f703b645a/1748628700852/file-20181016-165888-10mt8f4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775595662-1NWMHH5BUXK8MABM40RQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775596568-THXO48NVMU45FEVAKJZP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775597839-CFIO26SL9N996EM9A5Z1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775598825-8RBNBAL62CHI15IW6E20/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775599744-R6PSEBCKSC6NL13RQN99/image-asset.jpeg"]
+images: ["images/491bc2b3-file-20181016-165888-10mt8f4.jpg", "images/9d928346-image-asset.jpeg", "images/e86f1679-image-asset.jpeg", "images/43406742-image-asset.jpeg", "images/442ed335-image-asset.jpeg", "images/5b90bcdd-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/19/18): Schools, Art, and Donuts
 
@@ -13,7 +13,7 @@ Oct 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775595662-1NWMHH5BUXK8MABM40RQ/image-asset.jpeg)
+![](images/9d928346-image-asset.jpeg)
 
 # October 19, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## What This Native American School Network Can Teach Us All
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775596568-THXO48NVMU45FEVAKJZP/image-asset.jpeg)
+![](images/e86f1679-image-asset.jpeg)
 
 NACA Students
 
@@ -33,7 +33,7 @@ Kara Bobroff is the founding principal of Native American Community Academy, a
 
 ## For some Alaska Natives, the Bering Sea and an international border makes it hard to go home
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775597839-CFIO26SL9N996EM9A5Z1/image-asset.jpeg)
+![](images/43406742-image-asset.jpeg)
 
 The Bering Sea separates families living in the United States and Russia in the Arctic. Once their travel is approved by both Russian and US officials, the weather, too, has to cooperate to allow people to reunite with their loved ones. Credit: Emily Schwing/The World
 
@@ -57,7 +57,7 @@ As she talked about her family, she stirred the hot, bubbling borscht.
 
 ## Looking for a fun treat? Try Village-style doughnuts (Bonus points if you find muktuk to eat with them)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775598825-8RBNBAL62CHI15IW6E20/image-asset.jpeg)
+![](images/442ed335-image-asset.jpeg)
 
 Sunshine doughnut, adapted from the King Cove Women’s Club cookbook published in 1978. (Julia O’Malley/ADN)
 
@@ -71,7 +71,7 @@ But soon someone offered me a ride. And then, soon after that, Aanauraq Lane, or
 
 ## The resonances between Indigenous art and images captured by microscopes
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775599744-R6PSEBCKSC6NL13RQN99/image-asset.jpeg)
+![](images/5b90bcdd-image-asset.jpeg)
 
 Witchetty Grub Dreaming. Jennifer Napaljarri Lewis, Warlukurlangu Artists of Yuendumu
 

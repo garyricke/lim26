@@ -5,7 +5,7 @@ date: 2017-09-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-090117
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf26b8c7786b8e9dd2da/1748628700852/8251CC50-983C-4BD3-9D28-0B516FD5C18E_cx9_cy11_cw75_w1023_r1_s.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777447666-NTRDTSQ7HW372I86IMAF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777448605-78Y5CVNI8G5DOLIT4OCQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777449572-SR8GN9CFHTREJOOME3J0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777450422-QK7MEHI10ELTBFRAC25A/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777451687-F359Z1V1TGXIYGFL58MC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777453079-TUOTHI9JWHOOHA72Y0ZR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777454015-J76ZF9OMQAXEGJBA8VQB/image-asset.jpeg"]
+images: ["images/4386832b-8251CC50-983C-4BD3-9D28-0B516FD5C18E_cx9_cy11_cw75_w1023_r1_s.jpg", "images/bfbcd8d4-image-asset.jpeg", "images/a5864851-image-asset.jpeg", "images/996ffbb0-image-asset.jpeg", "images/c65e4ea0-image-asset.jpeg", "images/04bacb6a-image-asset.jpeg", "images/6329729c-image-asset.jpeg", "images/5e360015-image-asset.jpeg"]
 ---
 # This Week in Native American News (9/1/17): Hawaiian Hurricane Helpers, Rodeo Riders, & Authentic Art
 
@@ -13,7 +13,7 @@ Sep 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777447666-NTRDTSQ7HW372I86IMAF/image-asset.jpeg)
+![](images/bfbcd8d4-image-asset.jpeg)
 
 # September 1, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Hustling to Help After Hurrican
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777448605-78Y5CVNI8G5DOLIT4OCQ/image-asset.jpeg)
+![](images/a5864851-image-asset.jpeg)
 
 Big Aloha food truck to head to Rockport.
 
@@ -37,7 +37,7 @@ The Youngs own a Hawaiian food truck. On Sunday, they'll be driving it down to R
 
 ### [Read the full story here](http://m.hawaiinewsnow.com/hawaiinewsnow/db_330510/contentdetail.htm?full=true&contentguid=7CxK38iv&pn=&ps=#display)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777449572-SR8GN9CFHTREJOOME3J0/image-asset.jpeg)
+![](images/996ffbb0-image-asset.jpeg)
 
 ## There were too many people "Doing Good" to stop with just one...
 
@@ -47,7 +47,7 @@ To say Navajo student Kinsale Hueston, 17, is an aspiring writer would be to mis
 
 ### [Read the full story here](https://indiancountrymedianetwork.com/education/native-american-students/navajo-student-wins-highest-national-honor-young-poets/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777450422-QK7MEHI10ELTBFRAC25A/image-asset.jpeg)
+![](images/c65e4ea0-image-asset.jpeg)
 
 Hereditary chief Janice George and Buddy Joseph, both from the Squamish Nation, learned to weave blankets in the Salish tradition nearly 15 years ago and are now trying to spread their knowledge as far and wide as possible.
 
@@ -55,7 +55,7 @@ The pair run weaving workshops and recently published a book about the art and i
 
 ### [Read the Full Story Here](http://www.cbc.ca/news/canada/british-columbia/salish-wool-weaving-teachings-1.4264028)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777451687-F359Z1V1TGXIYGFL58MC/image-asset.jpeg)
+![](images/04bacb6a-image-asset.jpeg)
 
 When an Ottawa police officer spat in her face nearly two decades ago, Lynda Kitchikeesic said nothing. Said nothing, but never forgot.
 
@@ -67,7 +67,7 @@ It was an unlikely start to what would become Kitchikeesic’s surprising and co
 
 ## Rodeo is a 'Way Out' for Native Youth
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777453079-TUOTHI9JWHOOHA72Y0ZR/image-asset.jpeg)
+![](images/6329729c-image-asset.jpeg)
 
 Photo from article: Daily Mail
 
@@ -85,7 +85,7 @@ Ultimately, she added, rodeo is so much more than just a sport.
 
 ## Does that Piece of Art Actually Belong to You?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777454015-J76ZF9OMQAXEGJBA8VQB/image-asset.jpeg)
+![](images/5e360015-image-asset.jpeg)
 
 COURTESY NANCY ERGER, REMINISCE
 

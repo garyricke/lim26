@@ -5,7 +5,7 @@ date: 2020-04-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/forsaken-so-you-never-will-be
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0325e620c411e9daaba/1748628700852/1280x1280+%282%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773621525-B81B6ATNTJPFZINJ0WK8/image-asset.png"]
+images: ["images/3fbfb180-1280x1280__2_.jpg", "images/0526f21c-image-asset.png"]
 ---
 # Forsaken So You Never Will Be - Lent 2020
 
@@ -15,7 +15,7 @@ Apr 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773621525-B81B6ATNTJPFZINJ0WK8/image-asset.png)
+![](images/0526f21c-image-asset.png)
 
 ### I will never leave you nor forsake you. [Hebrews 13:5b](https://www.bible.com/bible/111/heb.13.5)
 

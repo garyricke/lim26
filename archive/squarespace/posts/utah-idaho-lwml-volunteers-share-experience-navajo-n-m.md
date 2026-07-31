@@ -5,7 +5,7 @@ date: 2014-08-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/new-mexiconavajo/utah-idaho-lwml-volunteers-share-experience-navajo-n-m
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44426/1451491777617/LWML-grp-w-Navajo-staff-July-2014.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44428/1451491777619/Sun-worship-LWML-community-mbrs-July-2014.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a4442a/1451491777622/NAvajo-women-frybread-UT-ID-LWML-July-2014.jpg"]
+images: ["images/a859aee6-LWML-grp-w-Navajo-staff-July-2014.jpg", "images/b194a4ec-Sun-worship-LWML-community-mbrs-July-2014.jpg", "images/80c5906e-NAvajo-women-frybread-UT-ID-LWML-July-2014.jpg"]
 ---
 # Utah-Idaho LWML volunteers share their experience in Navajo, N.M.
 
@@ -19,15 +19,15 @@ A group of eight women from the Utah-Idaho LWML District spent a week volunteeri
 **Mission Trip to Navajo, New Mexico**
 **By Linda Larson**
 
-[![LWML grp w Navajo staff July 2014](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44426/1451491777617/LWML-grp-w-Navajo-staff-July-2014.jpg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44426/1451491777617/LWML-grp-w-Navajo-staff-July-2014.jpg?format=original)
+[![LWML grp w Navajo staff July 2014](images/a859aee6-LWML-grp-w-Navajo-staff-July-2014.jpg)](images/a859aee6-LWML-grp-w-Navajo-staff-July-2014.jpg)
 
 Eight ladies from the Utah-Idaho LWML District spent last week in Navajo, New Mexico at an LCMS mission church at Shepherd of the Valley Lutheran Church on the Navajo Reservation. We joined Tim and Heidi Norton (missionaries) and Louise Lee (Navajo Native) to work with them doing outreach in their community. They are part of Lutheran Indian Ministries based in Brookfield, Wis.
 
-[![Sun-worship-LWML-community-mbrs July 2014](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44428/1451491777619/Sun-worship-LWML-community-mbrs-July-2014.jpg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44428/1451491777619/Sun-worship-LWML-community-mbrs-July-2014.jpg?format=original)
+[![Sun-worship-LWML-community-mbrs July 2014](images/b194a4ec-Sun-worship-LWML-community-mbrs-July-2014.jpg)](images/b194a4ec-Sun-worship-LWML-community-mbrs-July-2014.jpg)
 
 This was a week that is pretty much indescribable. The Navajo people are a warm, loving, welcoming group, and we had an opportunity to cook them meals, lead Bible studies, sing and do crafting (teaching young girls to sew), paint away smoke damage in one home, etc.
 
-[![NAvajo-women-frybread-UT-ID-LWML July 2014](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a4442a/1451491777622/NAvajo-women-frybread-UT-ID-LWML-July-2014.jpg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a4442a/1451491777622/NAvajo-women-frybread-UT-ID-LWML-July-2014.jpg?format=original)
+[![NAvajo-women-frybread-UT-ID-LWML July 2014](images/80c5906e-NAvajo-women-frybread-UT-ID-LWML-July-2014.jpg)](images/80c5906e-NAvajo-women-frybread-UT-ID-LWML-July-2014.jpg)
 
 They shared a meal with us of Navajo fry bread tacos (they made the bread) and also shared many, many stories of their personal lives, struggles and their love of Jesus and His church. We all came away being fed by the Word and loving the *Diné* (Navajo) people. The landscape there is wondrous with high desert, mountains, valleys, canyons and lakes—truly one of God’s most beautiful creations.
 

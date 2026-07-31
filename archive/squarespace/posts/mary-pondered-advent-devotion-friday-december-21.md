@@ -5,7 +5,7 @@ date: 2018-12-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/mary-pondered-advent-devotion-friday-december-21
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6fe08aace6ebba6cd83/1748628700852/Lk2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775360159-8HPBT5DGPT3C4T9H3VFF/image-asset.png"]
+images: ["images/9c56c361-Lk2.jpg", "images/09094803-image-asset.png"]
 ---
 # Mary Pondered (Advent Devotion) - Friday, December 21
 
@@ -15,7 +15,7 @@ Dec 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775360159-8HPBT5DGPT3C4T9H3VFF/image-asset.png)
+![](images/09094803-image-asset.png)
 
 ## But Mary treasured all these things and pondered them in her heart. (Luke 2:19 NIV)
 

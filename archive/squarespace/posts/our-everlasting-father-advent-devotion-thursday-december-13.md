@@ -5,7 +5,7 @@ date: 2018-12-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/our-everlasting-father-advent-devotion-thursday-december-13
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b76dce4bec6e8d1f2a75/1748628700852/ScriptureArt_1216_-_Isaiah9_6_157x157.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775470505-7PF4NT6HRMHPTH4V36CK/image-asset.png"]
+images: ["images/b62a651a-ScriptureArt_1216_-_Isaiah9_6_157x157.jpg", "images/c58b1b78-image-asset.png"]
 ---
 # Our Everlasting Father (Advent Devotion) - Thursday, December 13
 
@@ -13,7 +13,7 @@ Dec 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775470505-7PF4NT6HRMHPTH4V36CK/image-asset.png)
+![](images/c58b1b78-image-asset.png)
 
 ## “For to us a child is born, to us a son is given, and the government will be on his shoulders.  And he will be called…Everlasting Father.” (Isaiah 9:6 NIV)
 

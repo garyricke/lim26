@@ -5,7 +5,7 @@ date: 2017-08-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-66-11-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf5c40a2740f9d05f6f4/1748628700852/Creator+Sets+Free+knew+what+they+were+scheming%2C+so+he+said+to+the+man%2C+-Come%2C+stand+here%2C+where+everyone+can+see+you.-+So+the+man+did+what+he+said.+Then+Creator+Sets+Free+asked+them%2C+-On+the+Day+of+Resting%2C+is.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777501370-VXNDTHSWH7TNAIHTLTZI/image-asset.png"]
+images: ["images/2227a10e-Creator_Sets_Free_knew_what_they_were_scheming__so_he_said_to_the_man__-Come__stand_here__where_everyone_can_see_you.-_S", "images/69205c1c-image-asset.png"]
 ---
 # Luke 6:6-11 FNV
 
@@ -13,7 +13,7 @@ Aug 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777501370-VXNDTHSWH7TNAIHTLTZI/image-asset.png)
+![](images/69205c1c-image-asset.png)
 
 Christ was neither ashamed nor afraid to own the purposes of his grace. He healed the poor man, though he knew that his enemies would take advantage against him for it. Let us not be drawn either from our duty or from our usefulness by any opposition. We may well be amazed, that the sons of men should be so wicked.
 

@@ -5,7 +5,7 @@ date: 2018-03-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/our-reason-to-sing-lent-tuesday-march-20
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbd0dd7dfe2ee01f7786/1748628700852/cynombswaaeqex5.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776593071-PMTUOIQIFPZN39GLT36U/image-asset.png"]
+images: ["images/5fa83745-cynombswaaeqex5.jpg", "images/0e31c3b7-image-asset.png"]
 ---
 # Our Reason to Sing (Lent) - Tuesday, March 20
 
@@ -15,7 +15,7 @@ Mar 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776593071-PMTUOIQIFPZN39GLT36U/image-asset.png)
+![](images/0e31c3b7-image-asset.png)
 
 ### "Death has been swallowed up in victory." [1 Corinthians 15:54 (NIV)](https://www.bible.com/bible/111/1CO.15.54)
 

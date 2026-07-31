@@ -5,7 +5,7 @@ date: 2015-04-15
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/wisconsinoneida/called-into-his-marvelous-light
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dcfe4b9433327661410c/1665785095071/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785087912-M7Q1V81SUVPV54RJYJCD/image-asset.jpeg"]
+images: ["images/f43a1b27-1665785095071", "images/e0f675e8-image-asset.jpeg"]
 ---
 # Called Into His Marvelous Light - Bob and Deon Prue's Story
 
@@ -20,7 +20,7 @@ Bob Prue *(Rosebud Sioux)* and his wife, Deon, share their life experiences and 
 
 By the end of their story, we believe you will rejoice with Bob and Deon and give thanks to God for calling them into His marvelous light—the light of Christ. We encourage you to keep them in your prayers as Bob continues his theological studies while serving the Native community in Oneida, Wisconsin, and beyond.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785087912-M7Q1V81SUVPV54RJYJCD/image-asset.jpeg)
+![](images/e0f675e8-image-asset.jpeg)
 
 Deon and Bob Prue with Rev. Mark Schumm and his wife, Joan
 

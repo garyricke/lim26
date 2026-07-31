@@ -5,7 +5,7 @@ date: 2017-07-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-to-watch-silent-thunder
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf934e34042f8b5895b9/1748628700852/ST05.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777555977-XD1CG8JTRIM2HQ0H4NL3/image-asset.jpeg"]
+images: ["images/8972c6ce-ST05.jpg", "images/7a0ccdfc-image-asset.jpeg"]
 ---
 # What to Watch: Silent Thunder
 
@@ -19,7 +19,7 @@ This week's featured film is: [Silent Thunder](http://americanarchive.org/catalo
 
 *As part of Vision Maker Media's "40 years, 40 films, 40 weeks" program, one archived PBS film will be re-released each week. Watch them while they are available!*
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777555977-XD1CG8JTRIM2HQ0H4NL3/image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-x921c1vg2h)
+[![](images/7a0ccdfc-image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-x921c1vg2h)
 
 Stanford Addison has every reason in the world to hate horses.  Twenty-five years ago, while partying with friends, the truck he was riding in ran straight into a herd of wild horses on the Wind River Reservation he calls home. The truck rolled three times; his spinal cord was severed.
 

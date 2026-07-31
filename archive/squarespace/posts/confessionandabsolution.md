@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/confessionandabsolution
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773843880-W1QFKONKIC28DEHJKP1A/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773853752-A465AXHDKFHG8L8JV221/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773862710-MV44KSAOC060TASA2ISD/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773870249-6QSDAI34OHYROEVOR4LY/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773883700-M4B5PZHE7HKRAZLW66BD/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773886065-30MUM5NOJV2L7Y6G4U4U/lutheran+indian+ministries+-+starting+fresh+monday+morning+devotion+about+confession+and+absolution+ricky+jacob+winnebago+nebraska.png"]
+images: ["images/af320838-image-asset.png", "images/a380822f-image-asset.png", "images/1903cf2b-image-asset.png", "images/0564d5f5-image-asset.png", "images/33de0637-image-asset.png", "images/f3a889dd-lutheran_indian_ministries_-_starting_fresh_monday_morning_devotion_about_confession_and_absolution_ricky_jacob_winnebag"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Confession and Absolution - Week 6 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773843880-W1QFKONKIC28DEHJKP1A/image-asset.png)](/news-notes/confession-and-absolution-week-6-monday-morning-devotions)
+[![Confession and Absolution - Week 6 (Monday Morning Devotions)](images/af320838-image-asset.png)](/news-notes/confession-and-absolution-week-6-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -73,7 +73,7 @@ Guest User
 
 [Read More](/news-notes/confession-and-absolution-week-6-monday-morning-devotions)
 
-[![Confession and Absolution - Week 5 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773853752-A465AXHDKFHG8L8JV221/image-asset.png)](/news-notes/confession-and-absolution-week-5-monday-morning-devotions)
+[![Confession and Absolution - Week 5 (Monday Morning Devotions)](images/a380822f-image-asset.png)](/news-notes/confession-and-absolution-week-5-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -89,7 +89,7 @@ It is hard, but so good, to hear words of confession from our own mouth, and fro
 
 [Read More](/news-notes/confession-and-absolution-week-5-monday-morning-devotions)
 
-[![Confession and Absolution - Week 4 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773862710-MV44KSAOC060TASA2ISD/image-asset.png)](/news-notes/confession-and-absolution-week-4-monday-morning-devotions)
+[![Confession and Absolution - Week 4 (Monday Morning Devotions)](images/1903cf2b-image-asset.png)](/news-notes/confession-and-absolution-week-4-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -107,7 +107,7 @@ The second part, accepting that one's sin is forgiven, is just as necessary, and
 
 [Read More](/news-notes/confession-and-absolution-week-4-monday-morning-devotions)
 
-[![Confession and Absolution - Week 3 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773870249-6QSDAI34OHYROEVOR4LY/image-asset.png)](/news-notes/confession-and-absolution-week-3-monday-morning-devotions)
+[![Confession and Absolution - Week 3 (Monday Morning Devotions)](images/0564d5f5-image-asset.png)](/news-notes/confession-and-absolution-week-3-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -123,7 +123,7 @@ Through faith in Jesus, one is forgiven and the consequence of our sin and our s
 
 [Read More](/news-notes/confession-and-absolution-week-3-monday-morning-devotions)
 
-[![Confession and Absolution - Week 2 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773883700-M4B5PZHE7HKRAZLW66BD/image-asset.png)](/news-notes/confession-and-absolution-week-2-monday-morning-devotions)
+[![Confession and Absolution - Week 2 (Monday Morning Devotions)](images/33de0637-image-asset.png)](/news-notes/confession-and-absolution-week-2-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -139,7 +139,7 @@ God is faithful and just. God sent His Son to take your place and my place on th
 
 [Read More](/news-notes/confession-and-absolution-week-2-monday-morning-devotions)
 
-[![Confession and Absolution - Week 1 (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773886065-30MUM5NOJV2L7Y6G4U4U/lutheran+indian+ministries+-+starting+fresh+monday+morning+devotion+about+confession+and+absolution+ricky+jacob+winnebago+nebraska.png)](/news-notes/confession-and-absolution-week-1-monday-morning-devotions)
+[![Confession and Absolution - Week 1 (Monday Morning Devotions)](images/f3a889dd-lutheran_indian_ministries_-_starting_fresh_monday_morning_devotion_about_confession_and_absolution_ricky_jacob_winnebag)](/news-notes/confession-and-absolution-week-1-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

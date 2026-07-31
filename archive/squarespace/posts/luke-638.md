@@ -5,7 +5,7 @@ date: 2018-01-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-638
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd387e444e62ee97e464/1748628700852/The+amount+you+measure+out+to+others+is+the+amount+that+comes+back%2C+like+a+basket+that+has+been+filled+to+the+top%2C+shaken+down+and+packed+together%2C+until+it+overflows.+What+you+give+out+will+come+back+to+you+-.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776957208-CQV9ZZ0YBS0N8QW5V6SE/image-asset.png"]
+images: ["images/c0009f01-The_amount_you_measure_out_to_others_is_the_amount_that_comes_back__like_a_basket_that_has_been_filled_to_the_top__shake", "images/698510fc-image-asset.png"]
 ---
 # Luke 6:38 FNV
 
@@ -13,7 +13,7 @@ Jan 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776957208-CQV9ZZ0YBS0N8QW5V6SE/image-asset.png)
+![](images/698510fc-image-asset.png)
 
 The grand characteristic feature of the society of his followers must be generosity. They must be known among men as givers rather than judges. Boundless generosity, limitless kindness to all, saint and sinner - that is what he, the Master, would press home to those who would follow his lead (see [3 John 1:5, 6](http://biblehub.com/3_john/1.htm)). Men would find out in time what generous friends they were, and would in their turn freely give to them.
 

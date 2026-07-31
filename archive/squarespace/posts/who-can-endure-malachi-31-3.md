@@ -5,7 +5,7 @@ date: 2016-02-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/who-can-endure-malachi-31-3
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cfc773f1b64158c8f4d6/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781705116-PG7ZY7NM83Z4B1G3U8VK/image-asset.jpeg"]
+images: ["images/c3b0e9c8-1748628700852", "images/0fc94f2a-image-asset.jpeg"]
 ---
 # Who Can Endure? - Malachi 3:1-3
 
@@ -15,7 +15,7 @@ Feb 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781705116-PG7ZY7NM83Z4B1G3U8VK/image-asset.jpeg)
+![](images/0fc94f2a-image-asset.jpeg)
 
 **Saturday February 27**
 

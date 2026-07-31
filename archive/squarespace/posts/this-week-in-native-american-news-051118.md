@@ -5,7 +5,7 @@ date: 2018-05-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-051118
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8f31186e246c3b91fae/1748628700852/hawaii-volcano-crater-ap-ps03-180507_hpEmbed_25x14_992.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775860381-RRPGSAFASAZWS7V1HUGZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775861322-F7OMFUUGRTNJKRLPC4S3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775862936-AWT3WBT244VTVGCWTGRP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775864035-0XK72UD0WOQZYRN3GV08/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775864978-29JDJ4CIRQ5IH8UJTEG7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775866221-8TB4EX009YVHHH1SHBRL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775867715-RBXYHJTZXU0E0BOWCP05/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775869213-4GBAP39GJ3NGKF0HO10B/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775870239-RBGPRK9YXVI9MDLLGJCH/image-asset.jpeg"]
+images: ["images/113864e6-hawaii-volcano-crater-ap-ps03-180507_hpEmbed_25x14_992.jpg", "images/1eb368d6-image-asset.jpeg", "images/32603cb8-image-asset.jpeg", "images/a6ac98dc-image-asset.jpeg", "images/b8ec47bf-image-asset.jpeg", "images/6e94739b-image-asset.jpeg", "images/d14e26dd-image-asset.jpeg", "images/88c25677-image-asset.jpeg", "images/240d06e4-image-asset.jpeg", "images/8818226f-image-asset.jpeg"]
 ---
 # This Week in Native American News (5/11/18): Putting Community First, Finding Pele, and Alaska Natives on PBS kids
 
@@ -13,7 +13,7 @@ May 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775860381-RRPGSAFASAZWS7V1HUGZ/image-asset.jpeg)
+![](images/1eb368d6-image-asset.jpeg)
 
 # May 11, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Doctorate Cohorts Put Community First
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775861322-F7OMFUUGRTNJKRLPC4S3/image-asset.jpeg)
+![](images/32603cb8-image-asset.jpeg)
 
 Ephriam Alexander came to the Carlisle Indian School from the village of Kanulik on the Nushagak River and Bristol Bay in southwestern Alaska, but died in Lititz, Pa., near Cocalico Creek, shown here. He’s buried in the Lititz Moravian Congregation Cemetery. Historical photo courtesy of Cumberland County Historical Society.
 
@@ -35,7 +35,7 @@ Meet the Arizona State University Pueblo Indian doctoral program Class of 2018.
 
 ## Other People You Should Know...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775862936-AWT3WBT244VTVGCWTGRP/image-asset.jpeg)
+![](images/a6ac98dc-image-asset.jpeg)
 
 ### [National Native American Hall of Fame Inaugural Induction Ceremony](https://indiancountrymedianetwork.com/news/native-news/national-native-american-hall-fame-coming-2018-take-nominee-survey/) [at Phoenix Indian School Memorial Hall-List of Potential Inductees Released](https://indiancountrymedianetwork.com/news/native-news/national-native-american-hall-fame-coming-2018-take-nominee-survey/)
 
@@ -45,7 +45,7 @@ Ten years ago, James Parker Shield, Little Shell Chippewa and Cree, started thin
 
 ## Native Hawaiians consider volcanic eruptions a 'rebirth'
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775864035-0XK72UD0WOQZYRN3GV08/image-asset.jpeg)
+![](images/b8ec47bf-image-asset.jpeg)
 
 The lava lake at the summit of the Kilauea volcano near Pahoa, Hawaii. Photo: ABC NEWS
 
@@ -59,7 +59,7 @@ Traditional Hula expert Mehanaokala Hind told Kawekōrero, "For the hula practit
 
 ## You Might Also Be Interested in...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775864978-29JDJ4CIRQ5IH8UJTEG7/image-asset.jpeg)
+![](images/6e94739b-image-asset.jpeg)
 
 ### [Pele: Who is Hawaii's volcanic](https://www.wfmynews2.com/article/news/nation-now/pele-who-is-hawaiis-volcanic-fire-goddess/465-d572b1fd-11b0-4b3d-86d5-e1d65fc5a179) [fire goddess](https://www.wfmynews2.com/article/news/nation-now/pele-who-is-hawaiis-volcanic-fire-goddess/465-d572b1fd-11b0-4b3d-86d5-e1d65fc5a179)[?](https://www.wfmynews2.com/article/news/nation-now/pele-who-is-hawaiis-volcanic-fire-goddess/465-d572b1fd-11b0-4b3d-86d5-e1d65fc5a179)
 
@@ -67,7 +67,7 @@ According to Lilikala Kame'eleihiwa, a professor at the Kamakakūokalani Center 
 
 Legend has it that Pele was born in Tahiti, but after angering her sister Na-maka-o-kaha'i, the *akua* of the sea, Pele was banished from the island. The *akua* embarked on a journey in exile in pursuit of a fiery dwelling.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775866221-8TB4EX009YVHHH1SHBRL/image-asset.jpeg)
+![](images/d14e26dd-image-asset.jpeg)
 
 ### [Hawaii residents leave offerings for volcano goddess Pele as lava destroys homes](https://www.cnn.com/2018/05/08/us/hawaii-pele-volcano-trnd/index.html)
 
@@ -81,7 +81,7 @@ Pele is known to be unpredictable, so Hawaiians have traditionally left gifts an
 
 ## The Tourists are Coming... Are you one of them? Read on.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775867715-RBXYHJTZXU0E0BOWCP05/image-asset.jpeg)
+![](images/88c25677-image-asset.jpeg)
 
 Grizzly's Gifts offers lots of different kinds of souvenirs, from funny t-shirts to some native american replicas. Photo: Grizzly's
 
@@ -97,7 +97,7 @@ One of the most common things we hear as Alaskan Native artists from a shop owne
 
 ## Tomahawk Chops and Native American Mascots: In Europe, Teams Don’t See a Problem
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775869213-4GBAP39GJ3NGKF0HO10B/image-asset.jpeg)
+![](images/240d06e4-image-asset.jpeg)
 
 Buffalo Ben, the official team mascot for the Belgian soccer team K.A.A. Gent. His sidekick is a female version named Buffalo Mel.CreditJimmy Bolcina/Photonews, via Getty Images
 
@@ -121,7 +121,7 @@ At their annual meeting, PBS Kids [announced](http://www.pbs.org/about/blogs/ne
 
 ### [Read more](https://www.colorlines.com/articles/meet-molly-denali-pbs-kids-new-alaska-native-star)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775870239-RBGPRK9YXVI9MDLLGJCH/image-asset.jpeg)](http://aptnnews.ca/2018/05/01/93199/)
+[![](images/8818226f-image-asset.jpeg)](http://aptnnews.ca/2018/05/01/93199/)
 
 ---
 

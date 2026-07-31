@@ -5,7 +5,7 @@ date: 2020-04-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/our-darkest-hour
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0377abee65742271737/1748628700852/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773626302-TGAQGCTJ41S8Y0MVKPG1/image-asset.png"]
+images: ["images/abff92e0-1280x1280__1_.jpg", "images/55fbfe61-image-asset.png"]
 ---
 # Our Darkest Hour - Lent 2020
 
@@ -15,7 +15,7 @@ Apr 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773626302-TGAQGCTJ41S8Y0MVKPG1/image-asset.png)
+![](images/55fbfe61-image-asset.png)
 
 ### “My God my God, why have you forsaken me?” [Matthew 27:46](https://www.bible.com/bible/111/mat.27.46)
 

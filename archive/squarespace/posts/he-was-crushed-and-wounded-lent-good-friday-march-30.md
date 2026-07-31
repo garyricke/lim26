@@ -5,7 +5,7 @@ date: 2018-03-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/he-was-crushed-and-wounded-lent-good-friday-march-30
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbb7caefb623c851365a/1748628700852/isaiah-53-5.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776568856-6ZPRR6X7GLYXJ8AC4JBQ/image-asset.png"]
+images: ["images/50ac52ef-isaiah-53-5.jpg", "images/31c62b30-image-asset.png"]
 ---
 # He Was Crushed and Wounded (Lent) - Good Friday, March 30
 
@@ -15,7 +15,7 @@ Mar 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776568856-6ZPRR6X7GLYXJ8AC4JBQ/image-asset.png)
+![](images/31c62b30-image-asset.png)
 
 ### "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was upon him, and by his wounds we are healed." [Isaiah 53:5 (NIV)](https://www.bible.com/bible/111/ISA.53.5)
 

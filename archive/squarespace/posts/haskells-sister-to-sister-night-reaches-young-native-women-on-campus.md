@@ -5,7 +5,7 @@ date: 2016-01-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/haskells-sister-to-sister-night-reaches-young-native-women-on-campus
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349d0f8771b7a501b606039/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665782010133-J87DHQE7TGNEF1MYYUGH/image-asset.jpeg"]
+images: ["images/9977d252-1748628700852", "images/b1a51864-image-asset.jpeg"]
 ---
 # Haskell's Sister to Sister Night Reaches Young Native Women on Campus
 
@@ -19,7 +19,7 @@ What started out as a simple get-together in the dorms has turned into an opport
 
 Sister to Sister started with Patricia Main’s *(Cree)* desire to reach out in a more social, casual setting. The first get-together consisted of a few students gathering in the dorms to share Mary Kay makeovers. Now, about 10-15 women meet monthly, a mix of Haskell students and women from the community who share their stories, prayer requests, and how they see God working in their lives.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665782010133-J87DHQE7TGNEF1MYYUGH/image-asset.jpeg)
+![](images/b1a51864-image-asset.jpeg)
 
 “It’s crazy,” explains Robin. “All the women there, we’ve all been through different things in our lives. Some have battled addiction. Others came from abusive relationships. But, we always find some way to relate to each other, and there’s always something to learn from another person’s experiences and lessons.”
 

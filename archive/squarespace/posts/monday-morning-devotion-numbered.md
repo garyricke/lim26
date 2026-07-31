@@ -5,7 +5,7 @@ date: 2016-08-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/monday-morning-devotion-numbered
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c63c3ef5b44c38b12a52/1748628700852/They+called+the+whole+community+together...+%5Band%5D+the+people+registered+their+ancestry+by+their+clans+and+families%2C+and...+were+listed+by+name%2C+one+by+one.Numbers+1-18.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779262045-9B3EW2G5RR746TLQGP0M/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779264629-1RMCD0UETPCJ83PN0LL9/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779267075-8MFYMXYPPHS8TF1B8QC5/image-asset.jpeg"]
+images: ["images/1f8abfe7-They_called_the_whole_community_together...__and__the_people_registered_their_ancestry_by_their_clans_and_families__and.", "images/c9be8e74-image-asset.png", "images/ac9e72a1-image-asset.png", "images/ed2d3cd1-image-asset.jpeg"]
 ---
 # Numbered - Monday Morning Devotion
 
@@ -13,13 +13,13 @@ Aug 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779262045-9B3EW2G5RR746TLQGP0M/image-asset.png)
+![](images/c9be8e74-image-asset.png)
 
 ---
 
 # Numbered
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779264629-1RMCD0UETPCJ83PN0LL9/image-asset.png)
+![](images/ac9e72a1-image-asset.png)
 
 Numbers 1:18
 
@@ -52,7 +52,7 @@ As you look forward to this week, I pray that you would feel excited about the p
 
 (Shameless plug: At Lutheran Indian Minsitries, we are building our own TRIBE of those dedicated to the future of Native Ministry through monthly giving. If you are already a monthly giver, you'll be receiving your information shortly. If you aren't, check it out by clicking on the banner below.)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779267075-8MFYMXYPPHS8TF1B8QC5/image-asset.jpeg)](/tribe)
+[![](images/ed2d3cd1-image-asset.jpeg)](/tribe)
 
 [devotion](/news-notes/tag/devotion)
 

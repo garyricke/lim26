@@ -5,7 +5,7 @@ date: 2015-10-13
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/alaskainterior/vacation-bible-school-in-alaska
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349db84be72d418e7297a38/1665784952889/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784709817-8UOMMR6WYZ07V1J9D178/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784710750-EBAQP9VAOT0WX4Q0GG4C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784712203-5WOIUWBB3NTLUP6GR1JZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784768872-1G8SBD4VUAQL4XP9X3DJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784828918-R11Q1NFYEPJL6DIRRH9U/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784889146-9WKYMLBIHIR83QD5BRQO/image-asset.jpeg"]
+images: ["images/a298434d-1665784952889", "images/7699c54a-image-asset.jpeg", "images/0d481113-image-asset.jpeg", "images/9a3a26b1-image-asset.jpeg", "images/45ad3a9d-image-asset.jpeg", "images/67942fa6-image-asset.jpeg", "images/4fb18e7c-image-asset.jpeg"]
 ---
 # Vacation Bible School in Alaska
 
@@ -29,7 +29,7 @@ We arrived in Kobuk and discovered there was no electricity in the building wher
 
 Since the village is compact, most of the children walked to and from VBS on their own. In the evening, they wanted to stay and stay and stay. We finally told them that we would turn into pumpkins at 10 p.m.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784709817-8UOMMR6WYZ07V1J9D178/image-asset.jpeg)
+![](images/7699c54a-image-asset.jpeg)
 
 Friend's Church in Kobuk, Alaska
 
@@ -39,11 +39,11 @@ Our VBS theme was “Celebrate!” We had the children decorate the room with ba
 
 One day the kids made puppets and demonstrated God’s forgiveness in a puppet show they designed. They enjoyed singing the old songs we grew up with, including “Jesus Loves Me This I Know,” “He’s Got the Whole World in His Hands” and “Jesus Loves the Little Children.” Several times the older girls sang “Jesus Loves Me” in their Inupiaq language. Seeing the kids getting into the Word and getting excited about VBS can’t be described.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784710750-EBAQP9VAOT0WX4Q0GG4C/image-asset.jpeg)
+![](images/0d481113-image-asset.jpeg)
 
 Children participating in VBS in Kobuk, Alaska
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784712203-5WOIUWBB3NTLUP6GR1JZ/image-asset.jpeg)
+![](images/9a3a26b1-image-asset.jpeg)
 
 Alaska\_KobukChildVolunteer\_LutheranIndianMinistries
 
@@ -59,15 +59,15 @@ After two days, we called Allakaket. The conditions improved and it was okay to 
 
 Because this village is very spread out, the nearest homes to the tribal office and community center are nearly a mile away. The kids didn’t hang out or spend as much down time with us as the kids in Kobuk did. It was a whole different setup, but a very rewarding one. We were able to visit with a lot of people around the village as they came and went from the tribal office.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784768872-1G8SBD4VUAQL4XP9X3DJ/image-asset.jpeg)
+![](images/45ad3a9d-image-asset.jpeg)
 
 Allakaket, Alaska Community Hall
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784828918-R11Q1NFYEPJL6DIRRH9U/image-asset.jpeg)
+![](images/67942fa6-image-asset.jpeg)
 
 Decorating balloons for VBS in Allakaket, Alaska
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784889146-9WKYMLBIHIR83QD5BRQO/image-asset.jpeg)
+![](images/4fb18e7c-image-asset.jpeg)
 
 Allakaket, Alaska, Vacation Bible School
 

@@ -5,7 +5,7 @@ date: 2017-01-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-winter-navajo-update
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c3d4cfaa51222aa285c9/1748628700852/baptism.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778646686-QLSV9PHQVMMJBC555C5T/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778648298-449FOLTWFIF8TAXLWPPJ/image-asset.jpeg"]
+images: ["images/7f36994b-baptism.jpg", "images/9f3ef043-image-asset.jpeg", "images/4484fdbb-image-asset.jpeg"]
 ---
 # A Winter Navajo Update
 
@@ -21,7 +21,7 @@ Merry Christmas and Happy New Year!
 
 *“Believe in the Lord Jesus, and you will be saved— you and your household…. Then immediately he and all his family were baptized.” (Acts 16:31, 33).*
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778646686-QLSV9PHQVMMJBC555C5T/image-asset.jpeg)
+![](images/9f3ef043-image-asset.jpeg)
 
 What a joy it was on Christmas Eve to not only to celebrate the birth of our Savior but also the new birth, by water and the Word, of a whole household. The father, mother and four children were baptized into the death and resurrection of Christ (Rom. 6:4) and given forgiveness of sins, the Holy Spirit, and eternal life (Titus 3:5).**Christmas does not get much better than that!**
 
@@ -29,7 +29,7 @@ It is an extraordinary thing that God uses water and His Word to accomplish so m
 
 Prior to Christmas, a few of our confirmation students joined in a service project to deliver food boxes to needy families in Navajo. They put into practice the words of Jesus, “it is more blessed to give than to receive.” (Acts 20:34) I have it on good authority that one of the confirmands was an unwilling participant at first but later changed his mind as it turned out to be an enjoyable experience.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778648298-449FOLTWFIF8TAXLWPPJ/image-asset.jpeg)
+![](images/4484fdbb-image-asset.jpeg)
 
 * We thank God for this work in calling this family from darkness into his marvelous light! (1 Pet. 2:9b).
 * Thank God for the confirmands growth in faith and service.

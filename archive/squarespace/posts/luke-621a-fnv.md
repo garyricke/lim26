@@ -5,7 +5,7 @@ date: 2017-09-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-621a-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf2140ddb009a3a5d51b/1748628700852/-Creator%27s+blessing+rests+on+you+who+are+poor+and+in+need%3B+the+Good+Road+is+yours+to+walk.-Luke+6-20+FNV+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777443077-P55CKHEM92JXEOO37AAD/image-asset.png"]
+images: ["images/f5a65eb4--Creator_s_blessing_rests_on_you_who_are_poor_and_in_need__the_Good_Road_is_yours_to_walk.-Luke_6-20_FNV__2_.png", "images/14290c7c-image-asset.png"]
 ---
 # Luke 6:21a FNV
 
@@ -13,7 +13,7 @@ Sep 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777443077-P55CKHEM92JXEOO37AAD/image-asset.png)
+![](images/14290c7c-image-asset.png)
 
 "You hunger now (v. 21), you are not fed to the full as others are, you often rise hungry, your commons are so short; or you are so intent upon your work that you have not time to eat bread, you are glad of a few ears of corn for a meal’s meat; thus you hunger now in this world, but in the other world you shall be filled, shall hunger no more, nor thirst any more."
 

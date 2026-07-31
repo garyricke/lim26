@@ -5,7 +5,7 @@ date: 2016-11-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-prediction-for-the-election-aftermath-by-max-lucado
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4dc598c94025ea1bcfd/1748628700852/l-26473.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778910102-UO8FQTUK0PTAG2TO193J/image-asset.jpeg"]
+images: ["images/d4320c54-l-26473.jpg", "images/4003c359-image-asset.jpeg"]
 ---
 # A Prediction for the Election Aftermath by Max Lucado
 
@@ -21,7 +21,7 @@ If you haven't read this yet, it's a great reminder for every Christian.
 
 Max Lucado's "My Prediction for November 9":
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778910102-UO8FQTUK0PTAG2TO193J/image-asset.jpeg)
+![](images/4003c359-image-asset.jpeg)
 
 > We are really ready for this presidential election to be over. We’re ready for an end to the rancor and tackiness. Voters on both sides feel frustrated, even embarrassed by it all. There is a visceral fear, an angst about the result. What if so and so wins? When we wake up to November 9, post-election, when the confetti is swept away and the election is finally over, what will we see?
 

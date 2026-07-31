@@ -5,7 +5,7 @@ date: 2016-08-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-august-19-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5e46e1ebc16d02bda68/1748628700852/2016-08-17-1471421676-4561983-DF13_11.6_GDTimesSquare1_1340_c-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779173952-OLY9CTM49J8JQRRU4JTJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779174906-TZXTU37P1L0G7QUFKTN7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779175860-GYDXIOL6SZVAMZUJTZVS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779176857-NFXY9LTUHR6L5WUXTBU2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779179060-DCZYEWG7PNVQ2YEBETXQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779180096-TKUYTMIW13TPIXXLBH75/image-asset.jpeg"]
+images: ["images/7818ab9a-2016-08-17-1471421676-4561983-DF13_11.6_GDTimesSquare1_1340_c-thumb.jpg", "images/825b1c84-image-asset.jpeg", "images/cb11240b-image-asset.jpeg", "images/1e33c0e2-image-asset.jpeg", "images/069e1402-image-asset.jpeg", "images/566bbe55-image-asset.jpeg", "images/b92345a4-image-asset.jpeg"]
 ---
 # This Week in Native American News - August 19, 2016
 
@@ -15,13 +15,13 @@ Aug 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779173952-OLY9CTM49J8JQRRU4JTJ/image-asset.jpeg)
+![](images/825b1c84-image-asset.jpeg)
 
 ---
 
 ### Entire Alaska Village Moving
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779174906-TZXTU37P1L0G7QUFKTN7/image-asset.jpeg)
+![](images/cb11240b-image-asset.jpeg)
 
 Shishmaref, Alaska. Photo credit: Bering Land Bridge National Preserve
 
@@ -33,7 +33,7 @@ The 650 Inupiat Eskimos who live on the island of Shishmaref, Alaska will be pac
 
 ### Performance Artist Challenges Stereotypes
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779175860-GYDXIOL6SZVAMZUJTZVS/image-asset.jpeg)
+![](images/1e33c0e2-image-asset.jpeg)
 
 Photo credit: Gregg Deal.
 
@@ -45,7 +45,7 @@ Pyramid Lake Paiute, Gregg Deal is on a mission to open up dialogue about the fu
 
 ### Sayisi Dene Receive Apology
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779176857-NFXY9LTUHR6L5WUXTBU2/image-asset.jpeg)
+![](images/069e1402-image-asset.jpeg)
 
 Photo credit: CBC
 
@@ -59,7 +59,7 @@ The removal affected 250 Sayisi Dene, 117 of them died, but some saw this ceremo
 
 ### Non-profit Helps Native High Schoolers Get Into College
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779179060-DCZYEWG7PNVQ2YEBETXQ/image-asset.jpeg)
+![](images/566bbe55-image-asset.jpeg)
 
 Photo credit: Shannon Wright/NPR
 
@@ -73,7 +73,7 @@ Native Americans constitute 1.1% of the high school populations and even less of
 
 ### Trauma Panel Spurs Action
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779180096-TKUYTMIW13TPIXXLBH75/image-asset.jpeg)
+![](images/b92345a4-image-asset.jpeg)
 
 Photo credit: Tom Stromme/Bismark Tribune
 

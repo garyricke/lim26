@@ -5,7 +5,7 @@ date: 2017-04-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/raed-reflect-friday-april-7
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c13cb65dbd3949cbeabd/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777981008-CW5ZOVXWYHSJX6OKZ8OF/image-asset.png"]
+images: ["images/aeeab12d-2017_lent_cover.jpg", "images/07b8cac6-image-asset.png"]
 ---
 # Read & Reflect: Friday, April 7
 
@@ -13,7 +13,7 @@ Apr 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777981008-CW5ZOVXWYHSJX6OKZ8OF/image-asset.png)
+![](images/07b8cac6-image-asset.png)
 
 ## Read: [Romans 1:14-17](https://www.bible.com/bible/111/rom.1.14-17), [2 Timothy 3:16-17](https://www.bible.com/bible/111/2ti.3.16-17)
 

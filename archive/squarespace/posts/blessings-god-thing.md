@@ -5,7 +5,7 @@ date: 2015-01-13
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/alaskainterior/blessings-god-thing
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd2db8511b3c145263bd/1665785140771/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785134730-YJ7J4JXO1C373E9VV0CX/image-asset.jpeg"]
+images: ["images/84c3083d-1665785140771", "images/008d261e-image-asset.jpeg"]
 ---
 # Blessings - A "God" Thing
 
@@ -20,7 +20,7 @@ As we trod along the rocky terrain of Point Hope [Alaska], we felt the blessing 
 
 As the four of us stood on the wind-blown airfield, suitcases in hand, waiting for someone to pick us up and take us into town, He presented a lone man on a four-wheeler. When we hailed him down and asked him about our ride, he said, “Good thing I came along. It’s a long way into town.” **Yes, indeed a "God" thing.**
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785134730-YJ7J4JXO1C373E9VV0CX/image-asset.jpeg)
+![](images/008d261e-image-asset.jpeg)
 
 When our ride finally came and we climbed into his truck, he mentioned that he would try and see if he could upgrade us into the nicer place to stay. He did; it was a God-blessing. We were able to cook our meals on a stove and take showers.
 

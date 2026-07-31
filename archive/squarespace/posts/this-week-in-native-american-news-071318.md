@@ -5,7 +5,7 @@ date: 2018-07-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-071318
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b86ebeeec467d9c07c35/1748628700852/american-indian-health.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775726685-XEMEASYR3N5LKQONGLLO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775727603-ICZI2PTRVL4GWEC8BBA3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775728545-GM9W5HMV9N4PHMX2L0AT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775730022-E0J3713MY5QW031ZGVM5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775731193-LWZA07AGGYJYM1IVKCR6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775732394-0AMZNA5CGO3RPNPI328V/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775733320-REB9Z47XSOQ0VCR0RC3V/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775734354-TZUHINKB763DKZQ7XFV1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775735180-X4R98SU0TKS9UAW54SS6/image-asset.jpeg"]
+images: ["images/45f44907-american-indian-health.jpg", "images/4000109c-image-asset.jpeg", "images/3100b7d9-image-asset.jpeg", "images/97c16248-image-asset.jpeg", "images/ab6308d5-image-asset.jpeg", "images/3ac260c4-image-asset.jpeg", "images/7e56c05d-image-asset.jpeg", "images/ca05b421-image-asset.jpeg", "images/e0e1affc-image-asset.jpeg", "images/8aba1f93-image-asset.jpeg"]
 ---
 # This Week in Native American News (7/13/18): Building Healthy Communities, Conserving Ancient Sites, and Reading Poetry
 
@@ -13,7 +13,7 @@ Jul 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775726685-XEMEASYR3N5LKQONGLLO/image-asset.jpeg)
+![](images/4000109c-image-asset.jpeg)
 
 # July 13, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## American Indians Forge New Paths to Build Healthy Communities
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775727603-ICZI2PTRVL4GWEC8BBA3/image-asset.jpeg)
+![](images/3100b7d9-image-asset.jpeg)
 
 Although they are America’s original inhabitants, when it comes to US policy, American Indians often suffer from invisibility. U.S. Air Force photo by Airman 1st Class Gwendalyn Smith.
 
@@ -35,7 +35,7 @@ A paper written by Rachelle Barraza, Jami Bartgis, PhD, and the Fresno Native Yo
 
 ## In other health related news...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775728545-GM9W5HMV9N4PHMX2L0AT/image-asset.jpeg)
+![](images/97c16248-image-asset.jpeg)
 
 A Navajo mother and weaver holds her Native American daughter in her booth at the Santa Fe Indian Market in Santa Fe, New Mexico. Photo credit: Getty/Robert Alexander
 
@@ -47,7 +47,7 @@ There is growing awareness that women of color—particularly African American w
 
 ## Conserve Native American sites by listening to tribal descendants
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775730022-E0J3713MY5QW031ZGVM5/image-asset.jpeg)
+![](images/ab6308d5-image-asset.jpeg)
 
 Thunderbird Effigy at Casper Bluff in Galena, Illinois. Courtesy of Tigges Photography
 
@@ -63,7 +63,7 @@ Steve is determined, however, that such will NOT be the case with JDCF Native Am
 
 ## Putting Together New Poets of Native Nations
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775731193-LWZA07AGGYJYM1IVKCR6/image-asset.jpeg)
+![](images/3ac260c4-image-asset.jpeg)
 
 *Heid E. Erdrich.*
 
@@ -79,25 +79,25 @@ The idea for this anthology came to me when I noticed a prominent poet and liter
 
 ## Today's History Lesson:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775732394-0AMZNA5CGO3RPNPI328V/image-asset.jpeg)
+![](images/7e56c05d-image-asset.jpeg)
 
 ### [How a black explorer became a Native American chief](https://face2faceafrica.com/article/how-black-explorer-james-pierson-beckwourth-became-a-native-american-chief-in-the-1800s)
 
 His journey to being one of the first African-American explorers and frontiersmen of the West and eventually a Crow Nation chief began in 1805 in Fredericksburg, Virginia.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775733320-REB9Z47XSOQ0VCR0RC3V/image-asset.jpeg)
+![](images/ca05b421-image-asset.jpeg)
 
 ### [Marker honors Native Americans who drove out the KKK](https://apnews.com/d21075fdb0874517afa7311fc222147c)
 
 North Carolina’s latest historical highway marker commemorates the Lumbee Tribe driving the Ku Klux Klan out of their county in 1958. The marker honors the confrontation between the Lumbee and Klansmen who showed up for a rally on a January day 60 years ago. The outnumbered Klansmen fled in the face of gunfire from the Lumbee. There were no casualties on either side.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775734354-TZUHINKB763DKZQ7XFV1/image-asset.jpeg)
+![](images/e0e1affc-image-asset.jpeg)
 
 ### [The fate of the Dakota people of southeastern Minnesota](https://www.winonadailynews.com/news/local/pieces-of-the-past-forced-out-the-fate-of-the/article_b14c4979-8879-54f0-b925-d4108905383f.html)
 
 In the era before the Civil War, a large number of the mighty Sioux were encamped at the confluence of the Root and Mississippi Valley lowlands under the shadow of a high bluff.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775735180-X4R98SU0TKS9UAW54SS6/image-asset.jpeg)
+![](images/8aba1f93-image-asset.jpeg)
 
 ### [10 Moments In American History, As Seen From The Other Side](http://listverse.com/2018/07/11/10-moments-in-american-history-as-seen-from-the-other-side/)
 

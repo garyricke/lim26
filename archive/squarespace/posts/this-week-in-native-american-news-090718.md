@@ -5,7 +5,7 @@ date: 2018-09-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-090718
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b820c6472d27aab0a729/1748628700852/wilsbach2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775649492-J5NSNSOY0JUQ744UWBK0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775650886-BFLEJW6W2KMJ5ABVR99C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775651830-IJ8G7N2M7J3R71CM6X68/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775652878-MVHAHJOIL9C2I5DQ1S1N/image-asset.jpeg"]
+images: ["images/8e97ced1-wilsbach2.jpg", "images/0c0b03ed-image-asset.jpeg", "images/68b2f6ad-image-asset.jpeg", "images/6ef93b67-image-asset.jpeg", "images/d2c497dd-image-asset.jpeg"]
 ---
 # This Week in Native American News (9/7/18): sick rivers, new names, and new movies
 
@@ -13,7 +13,7 @@ Sep 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775649492-J5NSNSOY0JUQ744UWBK0/image-asset.jpeg)
+![](images/0c0b03ed-image-asset.jpeg)
 
 # September 7, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Sick River: Can These California Tribes Beat Heroin and History?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775650886-BFLEJW6W2KMJ5ABVR99C/image-asset.jpeg)
+![](images/68b2f6ad-image-asset.jpeg)
 
 Dead Chinook salmon on the banks of the Klamath River during a 2002 fish kill. An estimated 34,000 salmon perished.CreditYurok Tribe Fisheries Department
 
@@ -37,7 +37,7 @@ Today, many members of the Yurok, Karuk and Hoopa tribes living in this densely 
 
 ## General’s Work Earns Him Multiple Native Alaskan Tribal Names
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775651830-IJ8G7N2M7J3R71CM6X68/image-asset.jpeg)
+![](images/6ef93b67-image-asset.jpeg)
 
 Air Force Lt. Gen. Ken Wilsbach accepts one of his new Alaskan native names during a ceremony held by the Alaskan Federation of Natives in Anchorage, Alaska, Aug. 21, 2018.
 
@@ -51,7 +51,7 @@ Wilsbach is the commander of Alaskan NORAD region, Alaskan Command and the 11th 
 
 ## Facebook adds Alaska’s Inupiaq as language option
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775652878-MVHAHJOIL9C2I5DQ1S1N/image-asset.jpeg)
+![](images/d2c497dd-image-asset.jpeg)
 
 Facebook users can submit requests to translate the site’s vast interface workings — the buttons that allow users to like, comment and navigate the site — into any language through crowdsourcing. With the interface tool, it’s the Facebook users who do the translating of words and short phrases. Words are confirmed through crowd up-and-down voting.
 

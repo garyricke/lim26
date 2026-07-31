@@ -5,7 +5,7 @@ date: 2015-04-14
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/kansaslhaskell-light-campus-ministry/recognition-dinner-for-laborers-for-christ-volunteers
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd0374512059acecd65d/1665785098483/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785092823-PLN44ZWIU3PPRMKNR0NF/image-asset.jpeg"]
+images: ["images/66fa6ca7-1665785098483", "images/0002d580-image-asset.jpeg"]
 ---
 # Recognition Dinner for Laborers For Christ Volunteers
 
@@ -20,7 +20,7 @@ The evening began with an honor song led by Haskell LIGHT member Tim Robinson, w
 
 President Kohlmeier and Stan Sneegas each shared words, as did Clayton Widener and Robin Santos, Haskell LIGHT administrative assistant, who thanked the [Laborers For Christ](http://lcef.org/facilities_planning/) volunteers for their efforts, including their wives and family who support them and continue the work in Lawrence.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785092823-PLN44ZWIU3PPRMKNR0NF/image-asset.jpeg)
+![](images/0002d580-image-asset.jpeg)
 
 HASKELL-LFC-RECOGNITION-DINNER-group-for-web
 

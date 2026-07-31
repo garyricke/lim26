@@ -5,7 +5,7 @@ date: 2019-11-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/you-are-qualified-to-love-monday-morning-devotions-week-4
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1b6cb88a56680aedce7/1748628700852/download.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774008446-8TM5DD7F924C8G7PRV5C/image-asset.jpeg"]
+images: ["images/d6fcdb93-download.png", "images/a487961c-image-asset.jpeg"]
 ---
 # You are Qualified to Love & Be Loved - Monday Morning Devotions (Week 4)
 
@@ -13,7 +13,7 @@ Nov 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774008446-8TM5DD7F924C8G7PRV5C/image-asset.jpeg)
+![](images/a487961c-image-asset.jpeg)
 
 For the next five weeks, we will dive into what it means to see people with Jesus’ eyes and love them with a heart like Jesus.
 

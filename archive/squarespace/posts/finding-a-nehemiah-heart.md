@@ -5,7 +5,7 @@ date: 2016-03-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/finding-a-nehemiah-heart
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf19f356c23a7b9180fc/1748628700852/IMG_0747.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781531672-1WJOBI42XU9C3OG0ASDO/image-asset.jpeg"]
+images: ["images/430dc276-IMG_0747.JPG", "images/01410afc-image-asset.jpeg"]
 ---
 # Finding a Nehemiah Heart
 
@@ -43,7 +43,7 @@ All of us involved with Lutheran Indian Ministries, staff, donors, and volunteer
 
 Because of the great burden on his heart, Nehemiah asked Artaxerxes to send him to Jerusalem to rebuild the city. Not only did he take a chance by asking the king for a favor, but he took a chance by leaving his comfortable place to travel to an unfamiliar part of the world to work on a nearly impossible task.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781531672-1WJOBI42XU9C3OG0ASDO/image-asset.jpeg)
+![](images/01410afc-image-asset.jpeg)
 
 We, at Lutheran Indian Ministries, must follow Nehemiah’s lead. We have to ask our King to help us with this nearly impossible task of reaching a culture that is in desperate need of His love. And, even more difficult, we have to step out of our comfortable place to make the impact necessary to see real change.
 

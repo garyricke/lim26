@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/spiritual+warriors+prayer
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777742895-RKCEKRHVFYJ091M1IK6R/c6888b471bb071f92a5479696f72f845.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777773714-VVQA15FV9D8GXFJECQ84/NotIntoTemptationWeb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777794462-POKF8U9UZMLVASIME31Q/forgive.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777817764-MCGZWZRDP3M9SKC35QEC/giveusthisday4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777852740-B2BO4T1LVEUK1Y5A67L0/4097319-thy-will-be-done.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777875731-O6SKHF7XU4E7A0CYW736/Kingdom.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777921277-1CCYITE4TT48ZZ5RDIPN/Hallowed-Be-Thy-Name2.png"]
+images: ["images/d2b96120-c6888b471bb071f92a5479696f72f845.jpg", "images/49e70c82-NotIntoTemptationWeb.jpg", "images/fc4cf5ed-forgive.jpg", "images/cfdb2096-giveusthisday4.jpg", "images/54d1cc6f-4097319-thy-will-be-done.jpg", "images/a9f56a55-Kingdom.png", "images/3fa18323-Hallowed-Be-Thy-Name2.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Deliver Us From Evil: Spiritual Warriors Prayer, Part 7](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777742895-RKCEKRHVFYJ091M1IK6R/c6888b471bb071f92a5479696f72f845.jpg)](/news-notes/deliver-us-from-evil-spiritual-warriors-prayer-part-7)
+[![Deliver Us From Evil: Spiritual Warriors Prayer, Part 7](images/d2b96120-c6888b471bb071f92a5479696f72f845.jpg)](/news-notes/deliver-us-from-evil-spiritual-warriors-prayer-part-7)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -75,7 +75,7 @@ Jesus gave you His prayer and in so doing gave you access to His Heavenly Father
 
 [Read More](/news-notes/deliver-us-from-evil-spiritual-warriors-prayer-part-7)
 
-[![Lead Us Not Into Temptation: Spiritual Warriors Prayer, Part 6](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777773714-VVQA15FV9D8GXFJECQ84/NotIntoTemptationWeb.jpg)](/news-notes/lead-us-not-into-temptation-spiritual-warriors-prayer-part-6)
+[![Lead Us Not Into Temptation: Spiritual Warriors Prayer, Part 6](images/49e70c82-NotIntoTemptationWeb.jpg)](/news-notes/lead-us-not-into-temptation-spiritual-warriors-prayer-part-6)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -91,7 +91,7 @@ God tempts no one. We pray in this petition that God would guard and keep us so 
 
 [Read More](/news-notes/lead-us-not-into-temptation-spiritual-warriors-prayer-part-6)
 
-[![Forgive Us: Spiritual Warriors Prayer, Part 5](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777794462-POKF8U9UZMLVASIME31Q/forgive.jpg)](/news-notes/forgive-us-our-trespasses-spiritual-warriors-prayer-part-5)
+[![Forgive Us: Spiritual Warriors Prayer, Part 5](images/fc4cf5ed-forgive.jpg)](/news-notes/forgive-us-our-trespasses-spiritual-warriors-prayer-part-5)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -109,7 +109,7 @@ So we too will sincerely forgive and gladly do good to those who sin against us.
 
 [Read More](/news-notes/forgive-us-our-trespasses-spiritual-warriors-prayer-part-5)
 
-[![Give Us This Day: Spiritual Warriors Prayer, Part 4](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777817764-MCGZWZRDP3M9SKC35QEC/giveusthisday4.jpg)](/news-notes/give-us-this-day-spiritual-warriors-prayer-part-4)
+[![Give Us This Day: Spiritual Warriors Prayer, Part 4](images/cfdb2096-giveusthisday4.jpg)](/news-notes/give-us-this-day-spiritual-warriors-prayer-part-4)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -125,7 +125,7 @@ Guest User
 
 [Read More](/news-notes/give-us-this-day-spiritual-warriors-prayer-part-4)
 
-[![Thy Will Be Done: Spiritual Warriors Prayer, Part 3](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777852740-B2BO4T1LVEUK1Y5A67L0/4097319-thy-will-be-done.jpg)](/news-notes/thy-will-be-done-spiritual-warriors-prayer-part-3)
+[![Thy Will Be Done: Spiritual Warriors Prayer, Part 3](images/54d1cc6f-4097319-thy-will-be-done.jpg)](/news-notes/thy-will-be-done-spiritual-warriors-prayer-part-3)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -141,7 +141,7 @@ God’s will is done when He breaks and hinders every evil plan and purpose of t
 
 [Read More](/news-notes/thy-will-be-done-spiritual-warriors-prayer-part-3)
 
-[![Thy Kingdom Come: : Spiritual Warriors Prayer, Part 2](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777875731-O6SKHF7XU4E7A0CYW736/Kingdom.png)](/news-notes/the-kingdom-come-spiritual-warriors-prayer-part-2)
+[![Thy Kingdom Come: : Spiritual Warriors Prayer, Part 2](images/a9f56a55-Kingdom.png)](/news-notes/the-kingdom-come-spiritual-warriors-prayer-part-2)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -159,7 +159,7 @@ The kingdom of God certainly comes by itself without our prayer, but we pray in 
 
 [Read More](/news-notes/the-kingdom-come-spiritual-warriors-prayer-part-2)
 
-[![Hallowed Be Thy Name: Spiritual Warriors Prayer, Part 1](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777921277-1CCYITE4TT48ZZ5RDIPN/Hallowed-Be-Thy-Name2.png)](/news-notes/hallowed-be-thy-name-spiritual-warriors-prayer-part-1)
+[![Hallowed Be Thy Name: Spiritual Warriors Prayer, Part 1](images/3fa18323-Hallowed-Be-Thy-Name2.png)](/news-notes/hallowed-be-thy-name-spiritual-warriors-prayer-part-1)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

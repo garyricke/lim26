@@ -5,7 +5,7 @@ date: 2017-02-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/share-heal-disciple
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c2142c1738665e71a49a/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778197651-VANJIRQL8BG8E76SU864/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778198969-IO5MWUBDTQK2ZY0R5LNP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778199998-DDX4D1718CZGJA3JYSHP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778201825-FM8316QAYJSFYRGTCWRX/image-asset.jpeg"]
+images: ["images/ee84a0c9-1748628700852", "images/fd26eb01-image-asset.png", "images/6f6d397a-image-asset.jpeg", "images/09c006b3-image-asset.jpeg", "images/c00b629c-image-asset.jpeg"]
 ---
 # Proclaim. Disciple. Heal.
 
@@ -13,7 +13,7 @@ Feb 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778197651-VANJIRQL8BG8E76SU864/image-asset.png)
+![](images/fd26eb01-image-asset.png)
 
 Proclaim. Disciple. Heal. This is what we do at Lutheran Indian Ministries, and after meeting *Henry*\**,* it is all the more clear that we need to do more.
 
@@ -21,7 +21,7 @@ I met Henry on a warm, sunny day, but his story made me shiver.
 
  The old Indian man spoke slowly, almost haltingly, as he shared his experience. His voice cracked with emotion when he told his story of surviving an Indian boarding school. It is the place his story of abuse begins.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778198969-IO5MWUBDTQK2ZY0R5LNP/image-asset.jpeg)
+![](images/6f6d397a-image-asset.jpeg)
 
 He shared his anger at the teacher punishing him for the heinous act of speaking his Native language, the language of his parents and grandparents. He shared his shame at being set in front of the class wearing a dunce cap, and his sadness as his fellow classmates mocked him and laughed. Tears ran down his time-worn cheeks as he spoke of these memories from decades ago, the scars of which were still as fresh and raw as the day they occurred.
 
@@ -39,7 +39,7 @@ He shared his anger at the teacher punishing him for the heinous act of speaking
 
  For Henry and other victims of the boarding schools, their self-denial brought no promise of redemption. Their compliance did not promise relief of their pain, suffering, and rejection.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778199998-DDX4D1718CZGJA3JYSHP/image-asset.jpeg)
+![](images/09c006b3-image-asset.jpeg)
 
 Henry was an Indian, and, in the dominant culture’s world, that was as much a sin as any other, but one for which there could be no salvation.
 
@@ -65,7 +65,7 @@ Henry was an Indian, and, in the dominant culture’s world, that was as much a 
 
  Your gifts to Lutheran Indian Ministries will make a significance difference in the lives of Native American peoples across the lower 48 of the United States, as well as in Alaska and Hawaii.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778201825-FM8316QAYJSFYRGTCWRX/image-asset.jpeg)
+![](images/c00b629c-image-asset.jpeg)
 
 ### Together, we can continue to answer God’s call and fulfill His mission for this ministry.
 

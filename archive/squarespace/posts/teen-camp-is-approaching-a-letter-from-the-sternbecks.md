@@ -5,7 +5,7 @@ date: 2017-03-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/teen-camp-is-approaching-a-letter-from-the-sternbecks
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1deb5450373d86eecbe/1748628700852/IMG_2363.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778144046-2PG4QYZWMNURKHXZ9SC9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778146006-O5R0ZP80V6BBC9AS5NPK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778149164-NQ94M6I81WSJ088HQE8U/image-asset.jpeg"]
+images: ["images/5281ff9d-IMG_2363.JPG", "images/c04f9ea5-image-asset.jpeg", "images/c1f027d4-image-asset.jpeg", "images/8b1cc407-image-asset.jpeg"]
 ---
 # Teen Camp is Approaching: A letter from the Sternbecks
 
@@ -21,7 +21,7 @@ For more than a decade, mission teams have traveled in and out of Alaska's remot
 
 Seeing the hardships these teens faced, they began praying and felt led by the Holy Spirit to take Vacation Bible School one step further, thus the idea of Teen Camp was born.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778144046-2PG4QYZWMNURKHXZ9SC9/image-asset.jpeg)
+![](images/c04f9ea5-image-asset.jpeg)
 
 For three years now, Lutheran Indian Ministries has sponsored Teen Camp, enabling Native youth, between the ages of 14 and 18, to come to Fairbanks for a week of Christian fellowship and growth.
 
@@ -33,7 +33,7 @@ For the first two years, we held the camp at our home, the Mission Center, but l
 
 We are seeing God work in the lives of these teens. During two years of building relationships and teaching the true Gospel, twelve teens have been baptized, proclaiming their faith in Jesus and becoming part of the body of Christ!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778146006-O5R0ZP80V6BBC9AS5NPK/image-asset.jpeg)
+![](images/c1f027d4-image-asset.jpeg)
 
 In the ancient church, the weeks leading up to Easter were a time of preparation for those who were to be baptized with the Easter vigil on Holy Saturday. So, it is seems especially fitting, during this time of reflection and soul searching, that we ask for your help.
 
@@ -41,7 +41,7 @@ This Lenten season, we ask you to prayerfully consider supporting this year's Te
 
 Thank you and God Bless you!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778149164-NQ94M6I81WSJ088HQE8U/image-asset.jpeg)
+![](images/8b1cc407-image-asset.jpeg)
 
 Rev. David (Nuu-chah-nulth) and Rosemary Sternbeck
 

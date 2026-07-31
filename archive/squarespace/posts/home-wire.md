@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/home-wire
 section: 
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1648477397616-0H7R9C4Z7E37ZBDPR11U/newsletter-image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649627544384-BWBJRVTFPGU7Q7RINWM6/stock-place-grand-canyon.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649674522260-BQ3S8N93K7LJR4HE68EQ/stock-prayer-hands-touching.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649678089238-TNFFYM3II0T8ASWZFRXJ/stock-fireman-carrying-girl.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649678984980-11QDUE1658D7D71GAUDA/auth-cree-fancy-dancer.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649686587330-O3L82OPIDQH3PWQWW9UG/stock-people-native-american-prayer.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649687512987-GAMLJQ0WHLJI5WQ6ZK50/stock-cross-carved-faces-blue-sky.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649689186147-7YJPQ2L6YLQ7G189Q3RL/stock-hand-heart-reverse.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649692947024-9VR5TCUOTPV6DOAQ5W5A/auth-people-miss-navajo-reversed.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649694901691-WZ8QRGIDAN1OVNPJ71IF/me-myself-and-i.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650282931111-TZG3SSHUW5N9ZKMHFBUQ/auth-girls-holding-hands.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650287209449-HGQ1N6TRZ9NZ1ZS8GG0M/stock-bread-loaf-cross.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650288575624-48EAXX39Y4A9JNR5H71H/thing-bucket-water.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650289369893-WW23OKU3GFT4J3T0FESD/thing-fruit-kiwi-heart.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650290437177-G675A2FG0SZNOZ914JGU/thing-hands-dirt-prayer.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650292243841-66KOQOC7P4CXF4STAPZ5/stock-mountains-sunrise.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650296304059-TTL850C48F6GZYTMA1L5/auth-dream-catcher.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650297712706-B42H4Q5R2OPB7UZ0VZCQ/stock-Friendship-Girls.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650298748010-0E2PXMPLD1XTGMZMX0C5/people-prayer-circle.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650299575611-IM3WE0HGXUJN1K064WWC/thing-fresh-snow.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650300022767-O8LEVUQIHCHIMJZH1QUI/thing-rocs-easter-eggs.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650893373230-N7CG2WURWPSKLI09RMZB/place-tipi-sunrise.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650896125821-8G59MKR2JHEELP92V8M6/stock-prayer-woman.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650901392789-DEMATZW6I59J9D10O3PH/stock-sunset-cross.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650902853041-EINOEWQUEEX8LB7G6IC3/stock-holy-bible-book-cross-close-up-view.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650905272112-N01YSTJLOTGWAIYMH1NU/auth-woman-river-2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651340959048-J029SSAP9KEXD1LN194H/auth-san-diego-american-indian-powwow-balboa-park.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651342459007-DG1PKOBOKQY32RJ90TW0/stock-mountains-totem-pole-crop.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651342773092-XPUEGHQEWE23NBCJDALN/stock-thing-dreamcatcher-sunrise.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651343315832-4DDQTEJZMGPOG4HZGPED/stock-thing-totem-pole-closeup.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651343665166-PA31WKV0S11PUIB6UR2S/auth-child-dance-color-2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1654898675054-I0R9YDB5H20X0LC0RQ2G/auth-girl-on-tree-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1655125918152-0ABKCIGTKFDWS0US3NG5/people-prayer-hug.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1656164499007-IT4VPZ2K82V4KPWATPF0/stock-think-keeper-of-plains-crop.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665421220222-HZYUI6ROLZJ91YSSA7DB/thumb-bev-intro.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1685464946942-7EBHYTZ6D99E3LXHJZ1X/sherri-1-thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1685739735031-GTQWE1ZXW5FIX6OZ08SD/healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen%2Bcopy+copy.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312134165-O4ON1A6AON0DMQ6BZW17/podcast-healing-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312170456-RHLM9UNKIQOTY8GYOR9W/podcast-tanya-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1733749508126-E3WJUQ9TL8LDIDDCAZ3X/LIM+Wendy+Thumb+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1768347064201-48KIH6XTDVWXE4JNKDHE/pastor-tony-hero-wide-trees.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1770071883558-S0QS8CUQM3W22CDZMNQ0/ChatGPT+Image+Feb+2%2C+2026%2C+04_36_46+PM.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1771261250836-YMNEUOXY69GIU9JC0WMJ/pastor-tony-5th-graders-question-hero-wide.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/2db676a7-cbda-44b4-b695-7e384cdab681/home-faq-transition-c.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/2fc9b65b-a9d5-4049-a1db-3c8bdb2091f7/lim-mark-maxsiz.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/3cf21438-ae05-4fd8-b761-7fcb9c198a1e/rooted-in-grace-logo-16feb2026.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/4f74bb8c-ecc7-44e4-8a6d-a6fbe0b2c199/impact+inside+back+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/546575a0-0760-42ac-88dc-056766322474/bible-study-group-hero-2-vert.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/87147af3-61e8-4a68-aee8-6908adc4a9cc/stock-place-grand-canyon-blur.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a0f39f65-0ba0-4379-b91f-1a158d34e326/podcast-sacred-connections-coverart-white-on-red.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a2cc73ae-0a54-4b63-9e1d-cac96dde2153/About+LIM+2025+Vid+Thumb-logo-top-right.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/d77c1a27-6ca1-4755-ae23-7a385af5507c/campfire-pexels-%D1%8E%D1%80%D0%B8%D0%B8%CC%86-%D0%BB%D0%B0%D0%B8%CC%86%D0%BC%D0%B8%D0%BD-8722548-2.jpg"]
+images: ["images/15c0067c-newsletter-image.jpg", "images/c9766fb9-stock-place-grand-canyon.jpg", "images/145e7fa5-stock-prayer-hands-touching.jpg", "images/95b7e455-stock-fireman-carrying-girl.jpg", "images/c5411f39-auth-cree-fancy-dancer.jpg", "images/1fa4778f-stock-people-native-american-prayer.jpg", "images/b837061d-stock-cross-carved-faces-blue-sky.jpg", "images/760a3e66-stock-hand-heart-reverse.jpg", "images/58ed491a-auth-people-miss-navajo-reversed.jpg", "images/c6ccf032-me-myself-and-i.jpg", "images/baa75669-auth-girls-holding-hands.jpg", "images/12e35b48-stock-bread-loaf-cross.jpg", "images/56bddd8b-thing-bucket-water.jpg", "images/21fa650c-thing-fruit-kiwi-heart.jpg", "images/8a33f286-thing-hands-dirt-prayer.jpg", "images/eef54230-stock-mountains-sunrise.jpg", "images/8c51e88c-auth-dream-catcher.jpg", "images/d8668761-stock-Friendship-Girls.jpg", "images/e8d6c423-people-prayer-circle.jpg", "images/cc7126bc-thing-fresh-snow.jpg", "images/8e89bfff-thing-rocs-easter-eggs.jpg", "images/45258466-place-tipi-sunrise.jpg", "images/94dc3ec3-stock-prayer-woman.jpg", "images/472a5b7b-stock-sunset-cross.jpg", "images/4d0e16a0-stock-holy-bible-book-cross-close-up-view.jpg", "images/e5e9a097-auth-woman-river-2.jpg", "images/55c1081f-auth-san-diego-american-indian-powwow-balboa-park.jpg", "images/e6af71bd-stock-mountains-totem-pole-crop.jpg", "images/1864a323-stock-thing-dreamcatcher-sunrise.jpg", "images/30cee249-stock-thing-totem-pole-closeup.jpg", "images/993f882f-auth-child-dance-color-2.jpg", "images/f505fa90-auth-girl-on-tree-3.jpg", "images/24f73f07-people-prayer-hug.jpg", "images/07853a4d-stock-think-keeper-of-plains-crop.jpg", "images/cf38e668-thumb-bev-intro.jpg", "images/c746cea0-sherri-1-thumb.jpg", "images/414a7ef9-healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen_copy_copy.jpeg", "images/b3add22d-podcast-healing-thumb-2-3.jpg", "images/2051b2e9-podcast-tanya-thumb-2-3.jpg", "images/ddbb8e31-LIM_Wendy_Thumb__1_.jpg", "images/24167cf0-pastor-tony-hero-wide-trees.jpg", "images/8a1ae50b-ChatGPT_Image_Feb_2__2026__04_36_46_PM.jpg", "images/5b9644f3-pastor-tony-5th-graders-question-hero-wide.jpg", "images/94f1367c-home-faq-transition-c.png", "images/497e551f-lim-mark-maxsiz.png", "images/5133caf5-rooted-in-grace-logo-16feb2026.jpg", "images/614f4fd2-impact_inside_back_cover.jpg", "images/6e475e29-bible-study-group-hero-2-vert.jpg", "images/399d02db-stock-place-grand-canyon-blur.jpg", "images/1c03c52c-podcast-sacred-connections-coverart-white-on-red.png", "images/b5c4c7eb-About_LIM_2025_Vid_Thumb-logo-top-right.jpeg", "images/7d8b1799-campfire-pexels-_____-_______-8722548-2.jpg"]
 ---
 # God Speaks in Native Tongues to Native Hearts
 
@@ -15,9 +15,9 @@ He knows how to reach and touch each of His children. So it only stands to reaso
 
 [Learn more](/about-lim-2025)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a2cc73ae-0a54-4b63-9e1d-cac96dde2153/About+LIM+2025+Vid+Thumb-logo-top-right.jpeg)](https://player.vimeo.com/progressive_redirect/playback/1125923234/rendition/1080p/file.mp4?loc=external&log_user=0&signature=42610c9b8ce45c0c7f1678b0f18ed85dd6c391a211046a1d865ded2f2d4bbcac)
+[![](images/b5c4c7eb-About_LIM_2025_Vid_Thumb-logo-top-right.jpeg)](https://player.vimeo.com/progressive_redirect/playback/1125923234/rendition/1080p/file.mp4?loc=external&log_user=0&signature=42610c9b8ce45c0c7f1678b0f18ed85dd6c391a211046a1d865ded2f2d4bbcac)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/2fc9b65b-a9d5-4049-a1db-3c8bdb2091f7/lim-mark-maxsiz.png)
+![](images/497e551f-lim-mark-maxsiz.png)
 
 While Native American cultural stories, oral traditions and beliefs vary among nations, tribes and clans, there are a few shared themes. Some mention a great power in the sky from which their people descend. Others attribute the creation of all things to him, along with qualities of goodness, wisdom, and perfection.
 
@@ -25,23 +25,23 @@ God, the creator of the universe and father of all humankind, speaks to each of 
 
 This is the very essence of the Gospel… God loves, accepts and reaches out to us where we are, as we are. His Son is His gift, freely given. All we do is receive this gift. It’s that simple. And that profound.
 
-* ![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1656164499007-IT4VPZ2K82V4KPWATPF0/stock-think-keeper-of-plains-crop.jpg)
+* ![](images/07853a4d-stock-think-keeper-of-plains-crop.jpg)
 
   ## Christ, the Bridge
 
   **When Native Americans encounter the Living God** through His son, Jesus, and are renewed and empowered by His Holy Spirit, they not only grasp God’s purpose and plan for their lives, many also **discover a bridge to their Native culture, traditions and truths.**
-* ![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651343315832-4DDQTEJZMGPOG4HZGPED/stock-thing-totem-pole-closeup.jpg)
+* ![](images/30cee249-stock-thing-totem-pole-closeup.jpg)
 
   ## 
 
   **The Father created you.** **He is as proud of your heritage** as you are. Even more so. You are created in His image. You are His people. His chosen. His beloved.
-* ![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651343665166-PA31WKV0S11PUIB6UR2S/auth-child-dance-color-2.jpg)
+* ![](images/993f882f-auth-child-dance-color-2.jpg)
 
   ## "for he is our God and we are the people of his pasture, the flock under his care."
 
   Psalm 95: 7
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/546575a0-0760-42ac-88dc-056766322474/bible-study-group-hero-2-vert.jpg)
+![](images/6e475e29-bible-study-group-hero-2-vert.jpg)
 
 ### **Gathering Details**
 
@@ -68,13 +68,13 @@ We will be using the **Celebrate Recovery Study Bible (35th year anniversary edi
 
 * A roadmap outlining our full reading schedule will also be provided once you sign up.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/3cf21438-ae05-4fd8-b761-7fcb9c198a1e/rooted-in-grace-logo-16feb2026.jpg)
+![](images/5133caf5-rooted-in-grace-logo-16feb2026.jpg)
 
 Life can feel like a long Alaska winter—quiet, cold, and occasionally confusing. Join Pastor Tony Schultz for an ongoing series of candid reflections that trade religious complexity for Gospel clarity. Whether he’s answering a fifth-grader’s toughest question or finding wisdom in a grove of oaks, Tony reminds us that being a child of God isn't about our performance, but about being rooted in His permanent promise.
 
 Stories of Reflection, Restoration and Renewal
 
-[![A 5th Grader's Big Question](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1771261250836-YMNEUOXY69GIU9JC0WMJ/pastor-tony-5th-graders-question-hero-wide.jpg)](/reflections/gods-kindness-re65y)
+[![A 5th Grader's Big Question](images/5b9644f3-pastor-tony-5th-graders-question-hero-wide.jpg)](/reflections/gods-kindness-re65y)
 
 February 16, 2026
 
@@ -86,7 +86,7 @@ Pastor Tony visits a fifth-grade class to address the difficult question of why 
 
 February 16, 2026
 
-[![God’s Kindness in the Dead-Still Season](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1770071883558-S0QS8CUQM3W22CDZMNQ0/ChatGPT+Image+Feb+2%2C+2026%2C+04_36_46+PM.jpg)](/reflections/gods-kindness)
+[![God’s Kindness in the Dead-Still Season](images/8a1ae50b-ChatGPT_Image_Feb_2__2026__04_36_46_PM.jpg)](/reflections/gods-kindness)
 
 February 2, 2026
 
@@ -98,7 +98,7 @@ Even when your faith feels “dead still,” God’s perfect plan—relationship
 
 February 2, 2026
 
-[![Living in God's Perfect Plan: A Message from the Trees](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1768347064201-48KIH6XTDVWXE4JNKDHE/pastor-tony-hero-wide-trees.jpg)](/reflections/a-message-from-the-trees)
+[![Living in God's Perfect Plan: A Message from the Trees](images/24167cf0-pastor-tony-hero-wide-trees.jpg)](/reflections/a-message-from-the-trees)
 
 January 13, 2026
 
@@ -110,7 +110,7 @@ Pastor Tony reflects on a profound question about God's will, using the simple m
 
 January 13, 2026
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1685739735031-GTQWE1ZXW5FIX6OZ08SD/healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen%2Bcopy+copy.jpeg)
+![](images/414a7ef9-healing-wounds-of-trauma-pics_Page_1_Image_0001-denoise-enhance-sharpen_copy_copy.jpeg)
 
 # HEALING THE WOUNDS OF TRAUMA
 
@@ -128,13 +128,13 @@ A Small Group for Bible-based Trauma Healing
 
 Healing
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/a0f39f65-0ba0-4379-b91f-1a158d34e326/podcast-sacred-connections-coverart-white-on-red.png)
+![](images/1c03c52c-podcast-sacred-connections-coverart-white-on-red.png)
 
 Welcome to Sacred Connections: A dialogue on how the Gospel resonates within Native American traditions and values, exploring themes of creation, community, and healing through a blend of interviews, teachings, and storytelling.
 
 Featured
 
-[![From Brokenness to Hope: Wendy's Journey of Healing and Faith](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1733749508126-E3WJUQ9TL8LDIDDCAZ3X/LIM+Wendy+Thumb+%281%29.jpg)](/sacred-connections-podcast/from-brokenness-to-hope-wendys-journey-of-healing-and-faith)
+[![From Brokenness to Hope: Wendy's Journey of Healing and Faith](images/ddbb8e31-LIM_Wendy_Thumb__1_.jpg)](/sacred-connections-podcast/from-brokenness-to-hope-wendys-journey-of-healing-and-faith)
 
 October 21, 2024
 
@@ -146,7 +146,7 @@ In this episode, Wendy, a participant in the "Healing the Wounds of Trauma" trai
 
 October 21, 2024
 
-[![Healing The Wounds of Trauma: Stories of Faith and Resilience](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312134165-O4ON1A6AON0DMQ6BZW17/podcast-healing-thumb-2-3.jpg)](/sacred-connections-podcast/healing-the-wounds-of-trauma-stories-of-faith-and-resilience)
+[![Healing The Wounds of Trauma: Stories of Faith and Resilience](images/b3add22d-podcast-healing-thumb-2-3.jpg)](/sacred-connections-podcast/healing-the-wounds-of-trauma-stories-of-faith-and-resilience)
 
 July 8, 2024
 
@@ -158,7 +158,7 @@ In this podcast episode, attendees of LIM's Healing the Wounds of Trauma share h
 
 July 8, 2024
 
-[![Restoring Years in Marriage by Building a Strong Relationship with Christ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312170456-RHLM9UNKIQOTY8GYOR9W/podcast-tanya-thumb-2-3.jpg)](/sacred-connections-podcast/tanya-restoring-years-in-marriage-by-building-a-strong-relationship-with-christ)
+[![Restoring Years in Marriage by Building a Strong Relationship with Christ](images/2051b2e9-podcast-tanya-thumb-2-3.jpg)](/sacred-connections-podcast/tanya-restoring-years-in-marriage-by-building-a-strong-relationship-with-christ)
 
 April 19, 2024
 
@@ -170,185 +170,185 @@ In this episode, Tanya Dolchok discusses her deeply personal and transformative 
 
 April 19, 2024
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/d77c1a27-6ca1-4755-ae23-7a385af5507c/campfire-pexels-%D1%8E%D1%80%D0%B8%D0%B8%CC%86-%D0%BB%D0%B0%D0%B8%CC%86%D0%BC%D0%B8%D0%BD-8722548-2.jpg)
+![](images/7d8b1799-campfire-pexels-_____-_______-8722548-2.jpg)
 
 ## Stories of Reflection, Restoration, and Renewal.
 
 Stories of Reflection, Restoration and Renewal
 
-[![Faith as Small as a Mustard Seed: Sheri's Path to Healing and Transformation](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1685464946942-7EBHYTZ6D99E3LXHJZ1X/sherri-1-thumb.jpg)](/reflections/sheri)
+[![Faith as Small as a Mustard Seed: Sheri's Path to Healing and Transformation](images/c746cea0-sherri-1-thumb.jpg)](/reflections/sheri)
 
 [Faith as Small as a Mustard Seed: Sheri's Path to Healing and Transformation](/reflections/sheri)
 
-[![Discovering My True Identity in Christ: A Journey of Recovery and Personal Growth](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665421220222-HZYUI6ROLZJ91YSSA7DB/thumb-bev-intro.jpg)](/reflections/bev)
+[![Discovering My True Identity in Christ: A Journey of Recovery and Personal Growth](images/cf38e668-thumb-bev-intro.jpg)](/reflections/bev)
 
 [Discovering My True Identity in Christ: A Journey of Recovery and Personal Growth](/reflections/bev)
 
 If you knew me in my drinking days, I apologize.
 
-[![Baptism: Special Delivery](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650905272112-N01YSTJLOTGWAIYMH1NU/auth-woman-river-2.jpg)](/reflections/baptism-special-delivery)
+[![Baptism: Special Delivery](images/e5e9a097-auth-woman-river-2.jpg)](/reflections/baptism-special-delivery)
 
 [Baptism: Special Delivery](/reflections/baptism-special-delivery)
 
 Have you ever received something via special delivery?
 
-[![I Know My Redeemer Lives](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650901392789-DEMATZW6I59J9D10O3PH/stock-sunset-cross.jpg)](/reflections/redeemer)
+[![I Know My Redeemer Lives](images/472a5b7b-stock-sunset-cross.jpg)](/reflections/redeemer)
 
 [I Know My Redeemer Lives](/reflections/redeemer)
 
 Even in the most difficult of days, we can find relief and hope in these comforting words as we trust in our Redeemer to see us through
 
-[![The Power of Prayer](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650896125821-8G59MKR2JHEELP92V8M6/stock-prayer-woman.jpg)](/reflections/the-power-of-prayer)
+[![The Power of Prayer](images/94dc3ec3-stock-prayer-woman.jpg)](/reflections/the-power-of-prayer)
 
 [The Power of Prayer](/reflections/the-power-of-prayer)
 
 If someone wants to describe adequately the usefulness of pious, earnest prayer, he will, in my opinion, surely find a beginning more easily than a conclusion.
 
-[![Spiritual Guidelines](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650893373230-N7CG2WURWPSKLI09RMZB/place-tipi-sunrise.jpg)](/reflections/spiritual-guidelines)
+[![Spiritual Guidelines](images/45258466-place-tipi-sunrise.jpg)](/reflections/spiritual-guidelines)
 
 [Spiritual Guidelines](/reflections/spiritual-guidelines)
 
 Today I would like you to reflect on what you will teach your family when it comes to spiritual guidelines.
 
-[![Oh God, Our Hope](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650282931111-TZG3SSHUW5N9ZKMHFBUQ/auth-girls-holding-hands.jpg)](/reflections/our-god-our-hope)
+[![Oh God, Our Hope](images/baa75669-auth-girls-holding-hands.jpg)](/reflections/our-god-our-hope)
 
 [Oh God, Our Hope](/reflections/our-god-our-hope)
 
 If you’ve never read Chan or heard him speak, be prepared. He has a way of laying it all on the line. He attacks hard truths that will really make you think and reflect. Here, he explores the mysteries of God’s love for us.
 
-[![It's Time for Dangerous Prayers](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649674522260-BQ3S8N93K7LJR4HE68EQ/stock-prayer-hands-touching.jpg)](/reflections/its-time-for-dangerous-prayers)
+[![It's Time for Dangerous Prayers](images/145e7fa5-stock-prayer-hands-touching.jpg)](/reflections/its-time-for-dangerous-prayers)
 
 [It's Time for Dangerous Prayers](/reflections/its-time-for-dangerous-prayers)
 
 Why your prayers need to be dangerous.
 
-[![Living By Faith: Heroes](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649678089238-TNFFYM3II0T8ASWZFRXJ/stock-fireman-carrying-girl.jpg)](/reflections/living-by-faith-heros)
+[![Living By Faith: Heroes](images/95b7e455-stock-fireman-carrying-girl.jpg)](/reflections/living-by-faith-heros)
 
 [Living By Faith: Heroes](/reflections/living-by-faith-heros)
 
 When I was in 5th grade, we came across a house with smoke coming from the windows. I clearly remember my dad, without hesitation, turning to all the boys in the car and ordering us to stay as he left. Because of his bravery and selflessness, everyone made it out of the house.
 
-[![The Making of Spiritual Warrior](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649678984980-11QDUE1658D7D71GAUDA/auth-cree-fancy-dancer.jpg)](/reflections/making-of-a-spiritual-warrior)
+[![The Making of Spiritual Warrior](images/c5411f39-auth-cree-fancy-dancer.jpg)](/reflections/making-of-a-spiritual-warrior)
 
 [The Making of Spiritual Warrior](/reflections/making-of-a-spiritual-warrior)
 
 Today's focus is on 'The Making of a Spiritual Warrior.' The training to make someone into a Spiritual Warrior is not a one-time event, nor is it a program to be completed. It is a cyclical ongoing and lifelong endeavor.
 
-[![What is hope?](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1654898675054-I0R9YDB5H20X0LC0RQ2G/auth-girl-on-tree-3.jpg)](/reflections/what-is-hope)
+[![What is hope?](images/f505fa90-auth-girl-on-tree-3.jpg)](/reflections/what-is-hope)
 
 [What is hope?](/reflections/what-is-hope)
 
 Many of our Native brothers and sisters live without the hope. This lack of hope covers them with a darkness that infiltrates their whole life.
 
-[![A Heart for Natives: Faith for the Reservations](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649686587330-O3L82OPIDQH3PWQWW9UG/stock-people-native-american-prayer.jpg)](/reflections/a-heart-for-natives)
+[![A Heart for Natives: Faith for the Reservations](images/1fa4778f-stock-people-native-american-prayer.jpg)](/reflections/a-heart-for-natives)
 
 [A Heart for Natives: Faith for the Reservations](/reflections/a-heart-for-natives)
 
 Our next series of Monday Morning Devotions will focus on praying for our Native American brothers and sisters, particularly those living on reservations.
 
-[![Discovering a New You by Discovering Jesus](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649687512987-GAMLJQ0WHLJI5WQ6ZK50/stock-cross-carved-faces-blue-sky.jpg)](/reflections/discovering-a-new-you-through-jesus)
+[![Discovering a New You by Discovering Jesus](images/b837061d-stock-cross-carved-faces-blue-sky.jpg)](/reflections/discovering-a-new-you-through-jesus)
 
 [Discovering a New You by Discovering Jesus](/reflections/discovering-a-new-you-through-jesus)
 
 You can become a new person this year - a child of God and a citizen of His Kingdom, dedicated to seeking His will every day and in every action.
 
-[![Hallowed Be Thy Name: Spiritual Warriors Prayer](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649692947024-9VR5TCUOTPV6DOAQ5W5A/auth-people-miss-navajo-reversed.jpg)](/reflections/hallowed-be-thy-name)
+[![Hallowed Be Thy Name: Spiritual Warriors Prayer](images/58ed491a-auth-people-miss-navajo-reversed.jpg)](/reflections/hallowed-be-thy-name)
 
 [Hallowed Be Thy Name: Spiritual Warriors Prayer](/reflections/hallowed-be-thy-name)
 
 A young girl who found herself miles from home, away from her family and friends. She had been carried off in a raid of her village by a warrior. In spite of her predicament, this young girl still feared God and honored His holy Name.
 
-[![Sacred Mysteries](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1648477397616-0H7R9C4Z7E37ZBDPR11U/newsletter-image.jpg)](/reflections/sacred-mysteries)
+[![Sacred Mysteries](images/15c0067c-newsletter-image.jpg)](/reflections/sacred-mysteries)
 
 [Sacred Mysteries](/reflections/sacred-mysteries)
 
 If you’ve never read Chan or heard him speak, be prepared. He has a way of laying it all on the line. He attacks hard truths that will really make you think and reflect. Here, he explores the mysteries of God’s love for us.
 
-[![We give because He gave](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649689186147-7YJPQ2L6YLQ7G189Q3RL/stock-hand-heart-reverse.jpg)](/reflections/we-give-because-he-gave)
+[![We give because He gave](images/760a3e66-stock-hand-heart-reverse.jpg)](/reflections/we-give-because-he-gave)
 
 [We give because He gave](/reflections/we-give-because-he-gave)
 
 We can learn about generosity. Lessons from native cultures. Six devotions for the giving season.
 
-[![Me, Myself, &amp; I. The Unholy trinity](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649694901691-WZ8QRGIDAN1OVNPJ71IF/me-myself-and-i.jpg)](/reflections/me-myself-and-i)
+[![Me, Myself, &amp; I. The Unholy trinity](images/c6ccf032-me-myself-and-i.jpg)](/reflections/me-myself-and-i)
 
 [Me, Myself, & I. The Unholy trinity](/reflections/me-myself-and-i)
 
 Many of our Native brothers and sisters live without the hope. This lack of hope covers them with a darkness that infiltrates their whole life.
 
-[![I am the bread of life](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650287209449-HGQ1N6TRZ9NZ1ZS8GG0M/stock-bread-loaf-cross.jpg)](/reflections/i-am-the-bread-of-life)
+[![I am the bread of life](images/12e35b48-stock-bread-loaf-cross.jpg)](/reflections/i-am-the-bread-of-life)
 
 [I am the bread of life](/reflections/i-am-the-bread-of-life)
 
 Exploring the “I am” statement of Jesus in seven devotions with audio.
 
-[![Encountering Jesus' Heart](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650288575624-48EAXX39Y4A9JNR5H71H/thing-bucket-water.jpg)](/reflections/encountering-jesus-heart)
+[![Encountering Jesus' Heart](images/56bddd8b-thing-bucket-water.jpg)](/reflections/encountering-jesus-heart)
 
 [Encountering Jesus' Heart](/reflections/encountering-jesus-heart)
 
 Listen as an “Every Home for Christ” pastor explains this through the story of the woman at the well.
 
-[![Love: A study on the fruit of the spirit](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650289369893-WW23OKU3GFT4J3T0FESD/thing-fruit-kiwi-heart.jpg)](/reflections/love-a-study-on-the-fruit-of-the-spirit)
+[![Love: A study on the fruit of the spirit](images/21fa650c-thing-fruit-kiwi-heart.jpg)](/reflections/love-a-study-on-the-fruit-of-the-spirit)
 
 [Love: A study on the fruit of the spirit](/reflections/love-a-study-on-the-fruit-of-the-spirit)
 
 [T]he fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control.
 
-[![Live like Job](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650290437177-G675A2FG0SZNOZ914JGU/thing-hands-dirt-prayer.jpg)](/reflections/live-like-job)
+[![Live like Job](images/8a33f286-thing-hands-dirt-prayer.jpg)](/reflections/live-like-job)
 
 [Live like Job](/reflections/live-like-job)
 
 Listen to Pastor Ricky Jacob as he looks at the story of Job and helps us discover how to live a life of faith like him.
 
-[![Being Used by God](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650292243841-66KOQOC7P4CXF4STAPZ5/stock-mountains-sunrise.jpg)](/reflections/being-used-by-god)
+[![Being Used by God](images/eef54230-stock-mountains-sunrise.jpg)](/reflections/being-used-by-god)
 
 [Being Used by God](/reflections/being-used-by-god)
 
 Listen to Pastor Ricky Jacob as he looks at the story of Job and helps us discover how to live a life of faith like him.
 
-[![Doing Things That Matter](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650296304059-TTL850C48F6GZYTMA1L5/auth-dream-catcher.jpg)](/reflections/doing-things-that-matter)
+[![Doing Things That Matter](images/8c51e88c-auth-dream-catcher.jpg)](/reflections/doing-things-that-matter)
 
 [Doing Things That Matter](/reflections/doing-things-that-matter)
 
 Dream Wildly | Live Differently | Love Recklessly | Lead Courageously
 
-[![Love Everybody, Always ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1655125918152-0ABKCIGTKFDWS0US3NG5/people-prayer-hug.jpg)](/reflections/love-everybody-always)
+[![Love Everybody, Always ](images/24f73f07-people-prayer-hug.jpg)](/reflections/love-everybody-always)
 
 [Love Everybody, Always](/reflections/love-everybody-always)
 
 God’s idea isn’t that we would just give and receive love but that we could actually become love.
 
-[![Starting the Conversation](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650297712706-B42H4Q5R2OPB7UZ0VZCQ/stock-Friendship-Girls.jpg)](/reflections/starting-the-conversation)
+[![Starting the Conversation](images/d8668761-stock-Friendship-Girls.jpg)](/reflections/starting-the-conversation)
 
 [Starting the Conversation](/reflections/starting-the-conversation)
 
 Have you ever had one of those conversations that, even though you may not have realized it at the time, you later recognized as a life­ changing, "a­ha!" moment?
 
-[![Prayer: What does Johann Gerhard say?](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650298748010-0E2PXMPLD1XTGMZMX0C5/people-prayer-circle.jpg)](/reflections/prayer-what-does-johann-gerhard-say)
+[![Prayer: What does Johann Gerhard say?](images/e8d6c423-people-prayer-circle.jpg)](/reflections/prayer-what-does-johann-gerhard-say)
 
 [Prayer: What does Johann Gerhard say?](/reflections/prayer-what-does-johann-gerhard-say)
 
 Pastor Ricky Jacob explores the 400-year old writings of Johann Gerhard and his thoughts on prayer.
 
-[![Confession and Absolution. Start Fresh.](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650299575611-IM3WE0HGXUJN1K064WWC/thing-fresh-snow.jpg)](/reflections/confession-and-absolution)
+[![Confession and Absolution. Start Fresh.](images/cc7126bc-thing-fresh-snow.jpg)](/reflections/confession-and-absolution)
 
 [Confession and Absolution. Start Fresh.](/reflections/confession-and-absolution)
 
 To confess one's sins to your Creator is to give them up to Him. By so doing, He has good news for you.
 
-[![Oh God, Our Hope in Ages Past](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1649627544384-BWBJRVTFPGU7Q7RINWM6/stock-place-grand-canyon.jpg)](/reflections/oh-god-our-hope-ages)
+[![Oh God, Our Hope in Ages Past](images/c9766fb9-stock-place-grand-canyon.jpg)](/reflections/oh-god-our-hope-ages)
 
 [Oh God, Our Hope in Ages Past](/reflections/oh-god-our-hope-ages)
 
 Each year, our staff selects a Bible verse and a hymn to focus on at Jesus Our Savior Lutheran Preschool in Winnebago, Nebraska.
 
-[![The Bunny is Gone, So What's Next?](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650300022767-O8LEVUQIHCHIMJZH1QUI/thing-rocs-easter-eggs.jpg)](/reflections/the-bunny-is-gone)
+[![The Bunny is Gone, So What's Next?](images/8e89bfff-thing-rocs-easter-eggs.jpg)](/reflections/the-bunny-is-gone)
 
 [The Bunny is Gone, So What's Next?](/reflections/the-bunny-is-gone)
 
 The Easter ham is gone. The hard-boiled egg shards scatter the floor. The Easter bunny has hopped on. So what do we do now? How do we continue to live in the joy of Easter?
 
-[![What Do We Believe as Lutherans?](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1650902853041-EINOEWQUEEX8LB7G6IC3/stock-holy-bible-book-cross-close-up-view.jpg)](/reflections/what-do-we-believe-as-lutherans)
+[![What Do We Believe as Lutherans?](images/4d0e16a0-stock-holy-bible-book-cross-close-up-view.jpg)](/reflections/what-do-we-believe-as-lutherans)
 
 [What Do We Believe as Lutherans?](/reflections/what-do-we-believe-as-lutherans)
 
@@ -365,23 +365,23 @@ Those who are themselves experiencing firsthand the one true answer to all of th
 
 — John 3:16
 
-* ![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651342459007-DG1PKOBOKQY32RJ90TW0/stock-mountains-totem-pole-crop.jpg)
+* ![](images/e6af71bd-stock-mountains-totem-pole-crop.jpg)
 
   ## The Father’s Love
 
   **This is our mission.** To share this simple, profound, life-changing message of the Gospel with **every Native American tribe and nation**. To reveal **the awe-inspiring extent of the Father’s love for them** through the sacrifice of His one and only Son, Jesus.
-* ![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651340959048-J029SSAP9KEXD1LN194H/auth-san-diego-american-indian-powwow-balboa-park.jpg)
+* ![](images/55c1081f-auth-san-diego-american-indian-powwow-balboa-park.jpg)
 
   ## Our Mission
 
   To communicate that the transforming, healing, restoring and empowering gifts of His Holy Spirit are freely given to them. And that these gifts are as close as uttering Jesus’ name on their lips and asking Him into their hearts.
-* ![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1651342773092-XPUEGHQEWE23NBCJDALN/stock-thing-dreamcatcher-sunrise.jpg)
+* ![](images/1864a323-stock-thing-dreamcatcher-sunrise.jpg)
 
   ## "…and with your blood you purchased for God persons from every tribe and language and people and nation."
 
   Revelation 5:9
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/4f74bb8c-ecc7-44e4-8a6d-a6fbe0b2c199/impact+inside+back+cover.jpg)
+![](images/614f4fd2-impact_inside_back_cover.jpg)
 
 ## Partners in Healing and Hope
 
@@ -391,7 +391,7 @@ Your gift makes this possible. So please be generous.
 
 Donate
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/2db676a7-cbda-44b4-b695-7e384cdab681/home-faq-transition-c.png)
+![](images/94f1367c-home-faq-transition-c.png)
 
 ## Frequently Asked Questions
 
@@ -410,7 +410,7 @@ Donate
 
 Have a question not answered by our FAQ — ask away!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/87147af3-61e8-4a68-aee8-6908adc4a9cc/stock-place-grand-canyon-blur.jpg)
+![](images/399d02db-stock-place-grand-canyon-blur.jpg)
 
 ## Subscribe
 
@@ -426,7 +426,7 @@ Thank you!
 
 Featured
 
-[![A 5th Grader's Big Question](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1771261250836-YMNEUOXY69GIU9JC0WMJ/pastor-tony-5th-graders-question-hero-wide.jpg)](/reflections/gods-kindness-re65y)
+[![A 5th Grader's Big Question](images/5b9644f3-pastor-tony-5th-graders-question-hero-wide.jpg)](/reflections/gods-kindness-re65y)
 
 February 16, 2026
 

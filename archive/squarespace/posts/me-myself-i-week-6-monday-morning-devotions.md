@@ -5,7 +5,7 @@ date: 2019-02-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/me-myself-i-week-6-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b670927b1145206fe069/1748628700852/unholy+trinity+banner+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775217923-GA46A5KFE0Q2GU05HOYK/image-asset.png"]
+images: ["images/8f960634-unholy_trinity_banner__1_.png", "images/f1b24518-image-asset.png"]
 ---
 # Me, Myself, & I: Week 6 - Monday Morning Devotions
 
@@ -15,7 +15,7 @@ Feb 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775217923-GA46A5KFE0Q2GU05HOYK/image-asset.png)
+![](images/f1b24518-image-asset.png)
 
 In this season of resolutions and self-help, where we focus so heavily on ourselves, let’s delve into idolatry - putting something (or someone) else in the place of God.
 

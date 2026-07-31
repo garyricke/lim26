@@ -5,7 +5,7 @@ date: 2016-08-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/when-god-is-quiet-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c61343af6e48c31b1de9/1748628700852/-Deep+in+your+hearts+you+know+that+every+promise+of+the+LORD+your+God+has+come+true.+Not+a+single+one+has+failed%21-+Joshua+23-14.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779221806-YMTOZ1IGH18CJAM56BIX/image-asset.png"]
+images: ["images/a7d6e983--Deep_in_your_hearts_you_know_that_every_promise_of_the_LORD_your_God_has_come_true._Not_a_single_one_has_failed_-_Joshu", "images/24f96140-image-asset.png"]
 ---
 # When God is Quiet - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Aug 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779221806-YMTOZ1IGH18CJAM56BIX/image-asset.png)
+![](images/24f96140-image-asset.png)
 
 # When God is quiet...
 

@@ -5,7 +5,7 @@ date: 2017-05-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-56-9fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0bc7670090af3bd21cd/1748628700852/When+the+fishermen+with+him+saw+what+had+happened%2C+they+were+filled+with+wonder+and+awe+at+the+great+catch+of+fish.One+Who+Hears+%28Simon%29+fell+to+his+knees+in+front+of+Creator+Sets+Free+%28Jesus%29.+-Wisdomkeeper%21-.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777853047-AZOEVFJ62CZ4ZBQKD7B7/image-asset.png"]
+images: ["images/d2b772e2-When_the_fishermen_with_him_saw_what_had_happened__they_were_filled_with_wonder_and_awe_at_the_great_catch_of_fish.One_W", "images/842542b4-image-asset.png"]
 ---
 # Luke 5:6-9 FNV
 
@@ -13,7 +13,7 @@ May 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777853047-AZOEVFJ62CZ4ZBQKD7B7/image-asset.png)
+![](images/842542b4-image-asset.png)
 
 Peter, in particular, was so struck with the miracle, that he could not forbear expressing his astonishment in the most lively manner, both by words and gestures: he fell down at Jesus’s knees — In amazement and confusion; saying, in deep self-abasement, Depart from me, for I am a sinful man, O Lord — And therefore utterly unworthy to be in thy presence.
 

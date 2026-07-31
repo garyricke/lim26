@@ -5,7 +5,7 @@ date: 2017-07-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-529-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfcefd8ac76e12bcc7f8/1748628700852/Tribal+tax+collectors%2C+along+with+other+outcasts%2C+were+all+sitting+around+the+table+with+Creator+Sets+Free.%28Luke+5-29+FNV%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777615548-29302CDAWK8C4OMS7SJ9/image-asset.png"]
+images: ["images/dbad94c2-Tribal_tax_collectors__along_with_other_outcasts__were_all_sitting_around_the_table_with_Creator_Sets_Free._Luke_5-29_FN", "images/4742fda2-image-asset.png"]
 ---
 # Luke 5:29 FNV
 
@@ -13,7 +13,7 @@ Jul 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777615548-29302CDAWK8C4OMS7SJ9/image-asset.png)
+![](images/4742fda2-image-asset.png)
 
 This circumstance "Matthew," or "Levi" as he is here called, has omitted in his own gospel. This fact shows how little inclined the evangelists are to say anything in favor of themselves or to praise themselves.
 

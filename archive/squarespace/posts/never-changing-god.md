@@ -5,7 +5,7 @@ date: 2020-03-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/never-changing-god
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0cda0971d66a91380cf/1748628700852/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773775840-KBKOXK0JF8XZMJSXYU7Y/image-asset.png"]
+images: ["images/bbbb3cb7-1280x1280.jpg", "images/d557f8ad-image-asset.png"]
 ---
 # Never-Changing God - Lent 2020
 
@@ -13,7 +13,7 @@ Mar 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773775840-KBKOXK0JF8XZMJSXYU7Y/image-asset.png)
+![](images/d557f8ad-image-asset.png)
 
 ### I have said these things to you that in me you may have peace, in the world you will have tribulation. But take heart, I have overcome the world. [John 16: 33](https://www.bible.com/bible/111/jhn.16.33)
 

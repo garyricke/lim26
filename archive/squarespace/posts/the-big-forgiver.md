@@ -5,7 +5,7 @@ date: 2016-05-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-big-forgiver
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c9b4511b127ba41bdcd8/1748628700852/makah.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780150334-M11H4WQIR6L5P2GN10VJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780151873-8144FDP8KKMPGYJNROGX/image-asset.jpeg"]
+images: ["images/4c8d8156-makah.jpg", "images/54c3022e-image-asset.jpeg", "images/33dde33c-image-asset.jpeg"]
 ---
 # The Big Forgiver-Monday Devotion
 
@@ -15,11 +15,11 @@ May 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780150334-M11H4WQIR6L5P2GN10VJ/image-asset.jpeg)
+![](images/54c3022e-image-asset.jpeg)
 
 # The Big Forgiver
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780151873-8144FDP8KKMPGYJNROGX/image-asset.jpeg)
+![](images/33dde33c-image-asset.jpeg)
 
 Every spring, we have the Blessing of the Fleet in Neah Bay which marks the beginning of the fishing season and asks God to bless the year’s harvest. Last year, there were at least 100 people at the marina, and it was a very meaningful time for all who attended.
 

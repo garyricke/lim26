@@ -5,7 +5,7 @@ date: 2016-02-11
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/category/john-1917-trails-of-tears
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349d00e9ce2130467732b07/1665781790064/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781776121-LZXIEXUWLVS669LOORCG/image-asset.jpeg"]
+images: ["images/343627f1-1665781790064", "images/5b91c00f-image-asset.jpeg"]
 ---
 # Trails of Tears - John 19:17
 
@@ -13,7 +13,7 @@ Feb 11
 
 Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781776121-LZXIEXUWLVS669LOORCG/image-asset.jpeg)
+![](images/5b91c00f-image-asset.jpeg)
 
 **Thursday February 11**
 

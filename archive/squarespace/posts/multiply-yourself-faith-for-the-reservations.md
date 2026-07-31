@@ -5,7 +5,7 @@ date: 2017-08-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/multiply-yourself-faith-for-the-reservations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf2fb65d424aeb55ef4f/1748628700852/big_thumb.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777456763-EZJXPE9LM9VSG7VTX3AW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777457889-L41VW3B6V2CCQB4ZTD8G/image-asset.jpeg"]
+images: ["images/76feb7af-big_thumb.jpg", "images/074a7e12-image-asset.jpeg", "images/7c3bdeef-image-asset.jpeg"]
 ---
 # Multiply Yourself: Faith for the Reservations, Devo 12 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Aug 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777456763-EZJXPE9LM9VSG7VTX3AW/image-asset.jpeg)
+![](images/074a7e12-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -39,7 +39,7 @@ Beyond physical attacks, when we begin to grow God's Kingdom, Satan will show hi
 
 FInally, we are called to train up others and pass on our ministry, multiplying ourselves. In describing Jesus' example, Paul points out: "It was he who 'gave gifts to people'; he appointed some to be disciples, others to be prophets, others to be evangelists, others to be pastors and teachers. He did this to prepare all God's people for the work of Christian service, in order to build up the body of Christ." (Ephesians 4:11-12)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777457889-L41VW3B6V2CCQB4ZTD8G/image-asset.jpeg)
+![](images/7c3bdeef-image-asset.jpeg)
 
 As believers, we are called to raise up and multiply ourselves in the lives of others in a way that would have a powerful impact on our local reservations. It is for this reason that the second piece of the Lutheran Indian Ministries mission statement is to "create disciples." Beyond proclaiming the Good News of Jesus Christ, we are called to help new believers as they grow in their faith so that they may, in turn, proclaim to their brothers and sisters.
 

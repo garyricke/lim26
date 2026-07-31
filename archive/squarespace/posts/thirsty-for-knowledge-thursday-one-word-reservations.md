@@ -5,7 +5,7 @@ date: 2017-03-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thirsty-for-knowledge-thursday-one-word-reservations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c15ae6ff8f06972910ae/1748628700852/maxresdefault.jpg"]
+images: ["images/12e6a324-maxresdefault.jpg"]
 ---
 # Thirsty (for Knowledge) Thursday - One Word: Reservations
 

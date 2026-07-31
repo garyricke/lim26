@@ -5,7 +5,7 @@ date: 2017-08-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-to-watch-the-medicine-game
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf7635c9066700e1bfcd/1748628700852/8568c027588ce3981ff6c4c92a40a5f7.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777527379-0ELT2A6778LUZYYORAXP/image-asset.jpeg"]
+images: ["images/40e8a7a1-8568c027588ce3981ff6c4c92a40a5f7.jpg", "images/b72e6cc9-image-asset.jpeg"]
 ---
 # What to Watch: The Medicine Game
 
@@ -19,7 +19,7 @@ This week's featured film is: [The Medicine Game](http://americanarchive.org/cat
 
 *As part of Vision Maker Media's "40 years, 40 films, 40 weeks" program, one archived PBS film will be re-released each week. Watch them while they are available!*
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777527379-0ELT2A6778LUZYYORAXP/image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-pn8x922951)
+[![](images/b72e6cc9-image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-pn8x922951)
 
 Tucked away in central New York State is the Onondaga Nation, a sovereign Native American community known to produce some of the top lacrosse players in the world. Yet, reluctance of leaving their community, substance abuse, and poverty have kept far too many of these players from venturing off the “Rez” and into collegiate or professional ranks.
 

@@ -5,7 +5,7 @@ date: 2017-08-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/mens-retreat-in-colorado
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf847f53cf3725db37ff/1748628700852/IMG_2267.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777542021-2ULSJ7DG5CBP2796G1I8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777544574-GQJ5T2AI2HS8XUR7HRRW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777546387-IA1ZWWXUDV1G8NK3FUSD/image-asset.jpeg"]
+images: ["images/1f526922-IMG_2267.JPG", "images/1fba8437-image-asset.jpeg", "images/a5d4986a-image-asset.jpeg", "images/ed550eb0-image-asset.jpeg"]
 ---
 # Navajo Retreat in Colorado
 
@@ -15,13 +15,13 @@ Aug 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777542021-2ULSJ7DG5CBP2796G1I8/image-asset.jpeg)
+![](images/1fba8437-image-asset.jpeg)
 
 What began as a men's retreat became a youth retreat, as Tim Norton (serving in Navajo, NM) and Rick McCafferty (serving in Anchorage, AK) hiked beneath the Navajo people's sacred Hesperus Peak, just outside Durango, Colorado.  
   
 "We expected men to come on this retreat, but just like everything in Native Ministry, you have to be flexible. Instead, we had four boys, aging from 10-17, one man, and Rick and I" explained Tim. "It wasn't what we planned for, but God used it to His glory and great connections were made. We had some great conversations with the youth and their dad! It was a **mountain-top experience** in every way!"
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777544574-GQJ5T2AI2HS8XUR7HRRW/image-asset.jpeg)
+![](images/a5d4986a-image-asset.jpeg)
 
 Between hiking, devotions, and candid conversations, these seven men experienced God in the beauty of their surroundings and in the inner workings of their hearts.  
   
@@ -31,7 +31,7 @@ Between hiking, devotions, and candid conversations, these seven men experienced
   
 "Everyone really enjoyed themselves," Rick added. "And they all asked to do it again next year, so we're putting it on the calendar. This is just the beginning!"
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777546387-IA1ZWWXUDV1G8NK3FUSD/image-asset.jpeg)
+![](images/ed550eb0-image-asset.jpeg)
 
 [Ministry Update](/news-notes/tag/Ministry+Update)
 

@@ -5,7 +5,7 @@ date: 2017-03-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/ash-wednesday-stirring-the-ashes
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1e6aaaa5d7dbb8f62d9/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778151374-C60E9NE9WIWUVIX6K4LH/image-asset.jpeg"]
+images: ["images/b41a2d2c-1748628700852", "images/e56e52ea-image-asset.jpeg"]
 ---
 # Stirring the Ashes: Ash Wednesday
 
@@ -15,7 +15,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## We are brought down to the dust; our bodies cling to the ground. Rise up and help us; rescue us because of your unfailing love. Psalm 44:25-26 (NIV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778151374-C60E9NE9WIWUVIX6K4LH/image-asset.jpeg)
+![](images/e56e52ea-image-asset.jpeg)
 
 The Oneida of Wisconsin observe the practice of a midwinter festival which begins their New Year in January or February.  The opening of this festival is the “stirring of the ashes,” thought to represent giving thanks to the Creator for all of the blessings of the past year and asking for renewal upon the earth.
 

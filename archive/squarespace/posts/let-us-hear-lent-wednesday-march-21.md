@@ -5,7 +5,7 @@ date: 2018-03-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/let-us-hear-lent-wednesday-march-21
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbce3a0e0560262750d8/1748628700852/2b8105cf390591b527bda2dd02383bb6--soul-food-jesus-christ.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776591252-0EWSF6U6QH6QPAQ1IR87/image-asset.png"]
+images: ["images/fceff5a4-2b8105cf390591b527bda2dd02383bb6--soul-food-jesus-christ.jpg", "images/2ac92d30-image-asset.png"]
 ---
 # Let Us Hear! (Lent) - Wednesday, March 21
 
@@ -15,7 +15,7 @@ Mar 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776591252-0EWSF6U6QH6QPAQ1IR87/image-asset.png)
+![](images/2ac92d30-image-asset.png)
 
 ### "'He who has ears to hear, let him hear!"   [Matthew 11:15 (NIV)](https://www.bible.com/bible/59/MAT.11.15)
 

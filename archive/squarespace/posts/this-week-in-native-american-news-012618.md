@@ -5,7 +5,7 @@ date: 2018-01-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-012618
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bceabeeec467d9c14c7f/1748628700852/americans3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776875933-JHTL5YXB77XHODR3NIGN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776876971-NQJGKBPHHVC8HB6QCC3X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776878231-OFEF6AME713U4OMZWWNR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776881369-LDGMGOBLSLR6TWSTL9Y3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776883601-0E24XKP411QHAWWHP3FW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776885703-QG5Y8N47B2HCW9YQRO4K/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776886979-JHDD5QIA6ZLWJIGAA05H/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776889123-Q0JIJJDSEY7KLUYMVACZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776891322-O9Y3F75SDS9SS4AXFKS8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776893352-WEVYN948J16M5M3ULJG4/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776895131-RJITT0VST3HM809WWRNE/image-asset.jpeg"]
+images: ["images/de89ec0d-americans3.jpg", "images/f7d30104-image-asset.jpeg", "images/641b824b-image-asset.jpeg", "images/d66745b6-image-asset.jpeg", "images/2e0f5021-image-asset.jpeg", "images/26b53313-image-asset.jpeg", "images/eb1439b7-image-asset.jpeg", "images/67faacf0-image-asset.jpeg", "images/8fe79e36-image-asset.jpeg", "images/5e9221a3-image-asset.jpeg", "images/ee5ad668-image-asset.png", "images/8c14e38e-image-asset.jpeg"]
 ---
 # This Week in Native American News (1/26/18): a talking stick, fake snow, and Indians as advertising
 
@@ -13,7 +13,7 @@ Jan 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776875933-JHTL5YXB77XHODR3NIGN/image-asset.jpeg)
+![](images/f7d30104-image-asset.jpeg)
 
 # January 26, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## How a Talking Stick Saved the Federal Budget Negotiations
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776876971-NQJGKBPHHVC8HB6QCC3X/image-asset.jpeg)
+![](images/641b824b-image-asset.jpeg)
 
 Sen. Susan Collins, R-Maine holds a ceremonial "talking stick," a gift from Sen. Heidi Heitkamp, D-N.D., which was passed from senator to senator; only the senator in possession of the "talking stick" could speak as others listened. Photo credit: J. Scott Applewhite, AP
 
@@ -41,7 +41,7 @@ In the end, the group of senators, with the help of a stick, [forged a deal tha
 
 ## The Cultural Mythologies of Indians on Display
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776878231-OFEF6AME713U4OMZWWNR/image-asset.jpeg)
+![](images/d66745b6-image-asset.jpeg)
 
 Likenesses of American Indians have been used to sell everything from cigars to station wagons. Photo credit: National Museum of the American Indian
 
@@ -59,13 +59,13 @@ By dispelling these enduring American myths and providing in abundance mass-mark
 
 ## More History You Might Enjoy:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776881369-LDGMGOBLSLR6TWSTL9Y3/image-asset.jpeg)
+![](images/2e0f5021-image-asset.jpeg)
 
 ### [The Enslaved Native Americans Who Made The Gold Rush Possible](http://www.history.com/news/the-enslaved-native-americans-who-made-the-gold-rush-possible)
 
 Fueled by greed and fear, the Anglo settlers who flocked to California declared war on the Native Californians who had come before them. But Forty-Niners weren’t the first white people to oppress or even enslave Native Americans in California. The very land on which Marshall spotted the gold was part of a vast empire built on the slave labor of native peoples.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776883601-0E24XKP411QHAWWHP3FW/image-asset.jpeg)
+![](images/26b53313-image-asset.jpeg)
 
 ### [To protect indigenous Alaskans from Japanese bombs, the U.S. gave them… internment and death](https://timeline.com/indigenous-alaskans-japanese-bombs-internment-wwii-cebe47860665)
 
@@ -75,7 +75,7 @@ Just four days into the Attu bombing, the Japanese began an 18-hour raid on the 
 
 ## Small Indigenous Town in Mexico Seeks Social Justice Through Solar Power
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776885703-QG5Y8N47B2HCW9YQRO4K/image-asset.jpeg)
+![](images/eb1439b7-image-asset.jpeg)
 
 Solar power prices have been plummeting in Mexico, which is good news for renewable energy advocates but potentially bad news for indigenous people. Much of the land suited for solar or wind projects is owned by rural communities that have historically been marginalized, according to Paolo Cisneros of Mexican organization [Laboratorio de Investigación en Control Reconfigurable](http://licore.org/) (LiCore). They’re at risk of exploitation from corporate interests, but the roughly 2,000 residents of Ucareo have a potential solution. Working with LiCore, they’re raising money for COOPEREN, a community-owned solar project that could offer a model for social and environmental justice.
 
@@ -89,7 +89,7 @@ Could this same project happen in the rural Native communities in the US? [It's 
 
 ## Protesters March Against Snowbowl
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776886979-JHDD5QIA6ZLWJIGAA05H/image-asset.jpeg)
+![](images/67faacf0-image-asset.jpeg)
 
 More than 50 demonstrators march across downtown Flagstaff on Jan. 14 urging the city council to end the city’s contract with the Arizona Snowbowl ski resort, which uses 100 percent effluent to make artificial snow. Photo credit: Krista Allen, Navajo Times
 
@@ -109,7 +109,7 @@ Snowbowl and the city of Flagstaff initially entered into a five-year contract i
 
 ## Native American Artists are Telling Their Own Stories
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776889123-Q0JIJJDSEY7KLUYMVACZ/image-asset.jpeg)
+![](images/8fe79e36-image-asset.jpeg)
 
 Lauren Monroe Jr. made his directorial debut with his short film "Kills Last."
 
@@ -123,19 +123,19 @@ Rachel Gregg, executive director of the Big Sky Documentary Film Festival in Mis
 
 ## Then...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776891322-O9Y3F75SDS9SS4AXFKS8/image-asset.jpeg)
+![](images/5e9221a3-image-asset.jpeg)
 
 ### [Submit your Scripts to the Oklahoma City Theatre Company (If You Are Native)](https://indiancountrymedianetwork.com/culture/arts-entertainment/oklahoma-city-theatre-company-announces-open-call-scripts-deadline-february-15/)
 
 The Oklahoma City Theatre Company has announced an open call for scripts with a deadline of February 15, 2018 for potential inclusion into their ninth annual Native American New Play Festival.  The company welcomes all American Indian, Alaskan Native, Native Hawaiian, Canadian First Nation and Indigenous Mexico playwrights to submit full-length plays written for the stage. One finalist will receive a staged reading and full production with professional actors and a director.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776893352-WEVYN948J16M5M3ULJG4/image-asset.png)
+![](images/ee5ad668-image-asset.png)
 
 ### [Mark Your Calendars for "Rezball"](http://deadline.com/2018/01/the-workshop-pro-golfer-rickie-fowler-team-for-docuseries-about-navajo-basketball-team-1202267828/)
 
 Production is under way on the series, which will follow the Chinle High School boys basketball team based on the Navajo Nation reservation, the largest tribal area in America. It’s a place where running water and electricity are considered luxuries, but for the Chinle High Wildcats, basketball played at a state-of-the-art gym is the ultimate escape. The team plays to huge crowds and uses a style of play known as “rezball” – an uptempo and aggressive pace where defense is sometimes deemed optional.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776895131-RJITT0VST3HM809WWRNE/image-asset.jpeg)
+![](images/8c14e38e-image-asset.jpeg)
 
 ### [And Check Out the New Sci-Fi Novel, Trail of Lightning](http://amzn.to/2BvF22G)
 

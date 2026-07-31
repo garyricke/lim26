@@ -5,7 +5,7 @@ date: 2017-10-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-625b-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349beb36a6122712eb99b8c/1748628700852/luke+6-25b.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777333589-3FNVC2PP1F08T9RBJBII/image-asset.png"]
+images: ["images/d8180720-luke_6-25b.png", "images/02e2bd3c-image-asset.png"]
 ---
 # Luke 6:25b FNV
 
@@ -13,7 +13,7 @@ Oct 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777333589-3FNVC2PP1F08T9RBJBII/image-asset.png)
+![](images/02e2bd3c-image-asset.png)
 
 Here is a woe to them that laugh now, that have always a disposition to be merry, and always something to make merry with; that know no other joy than that which is carnal and sensual, and know no other use of this world’s good than purely to indulge that carnal sensual joy that banishes sorrow, even godly sorrow, from their minds, and are always entertaining themselves with the laughter of the fool. Woe unto such, for it is but now, for a little time, that they laugh; they shall mourn and weep shortly, shall mourn and weep eternally, in a world where there is nothing but weeping and wailing, endless, easeless, and remediless sorrow.
 

@@ -5,7 +5,7 @@ date: 2015-10-27
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/manitobaniverville/hope-at-family-camp-god-is-strong
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349db0cbe72d418e7296ec3/1665784593057/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784589777-WQZSLKFK75HYWT5L7OWE/image-asset.jpeg"]
+images: ["images/390734cc-1665784593057", "images/eeb53c3e-image-asset.jpeg"]
 ---
 # Hope at Family Camp - God Is Strong
 
@@ -20,7 +20,7 @@ This elder mother had lived a very hard life. As a Native American, life had not
 
 **This past summer we focused on families.** The Bible says in 2 Corinthians 2:11 that the evil one is full of many schemes as he tries to trip us up from walking in a good way with our God and Creator. This is especially true for families.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784589777-WQZSLKFK75HYWT5L7OWE/image-asset.jpeg)
+![](images/eeb53c3e-image-asset.jpeg)
 
 RMARTIN-FNL2015-pic
 

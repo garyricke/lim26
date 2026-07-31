@@ -5,7 +5,7 @@ date: 2017-05-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thirsty-for-knowledge-thursday-celebrationofculture
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0a681715079237e6464/1748628700852/hqdefault+%282%29.jpg"]
+images: ["images/418b63a5-hqdefault__2_.jpg"]
 ---
 # Thirsty (for Knowledge) Thursday - Celebration of Culture
 

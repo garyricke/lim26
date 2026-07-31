@@ -5,7 +5,7 @@ date: 2016-02-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/in-the-middle-of-suffering-psalm-234
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cfe5f5be4a50a85ac90d/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781735092-JCKWH1FEZXJ2QNWU1LSO/image-asset.jpeg"]
+images: ["images/53c49656-1748628700852", "images/5d24b105-image-asset.jpeg"]
 ---
 # In the Middle of Suffering - Psalm 23:4
 
@@ -15,7 +15,7 @@ Feb 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781735092-JCKWH1FEZXJ2QNWU1LSO/image-asset.jpeg)
+![](images/5d24b105-image-asset.jpeg)
 
 **Sunday February 21**
 

@@ -5,7 +5,7 @@ date: 2016-03-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/6c9mrnd6gtzuaz8lty916bg8nmio2k
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf5174512059acea7491/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781586882-P1FO59HCMQF24JPDHERK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781587841-8PIBLYU20XDP7J3ED7XP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781588843-7JY6DC6PSTBOD0EO8UY4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781589859-LGFPUATMMH1VDGO5KLIU/image-asset.jpeg"]
+images: ["images/56de3641-1748628700852", "images/1c88a0c7-image-asset.jpeg", "images/2707a55b-image-asset.jpeg", "images/15f8161d-image-asset.jpeg", "images/bd60f392-image-asset.jpeg"]
 ---
 # This Week in Native American News
 
@@ -15,13 +15,13 @@ Mar 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781586882-P1FO59HCMQF24JPDHERK/image-asset.jpeg)
+![](images/1c88a0c7-image-asset.jpeg)
 
 ---
 
 ### Bethany Yellowtail Takes The Runway With Native Inspired Clothing Line
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781587841-8PIBLYU20XDP7J3ED7XP/image-asset.jpeg)](http://matadornetwork.com/goods/native-american-designer-creates-stunning-fashion-without-cultural-appropriation/)
+[![](images/2707a55b-image-asset.jpeg)](http://matadornetwork.com/goods/native-american-designer-creates-stunning-fashion-without-cultural-appropriation/)
 
 Image, screen capture from [Mic video](http://matadornetwork.com/goods/native-american-designer-creates-stunning-fashion-without-cultural-appropriation). Click for full video.
 
@@ -57,7 +57,7 @@ Learn more about [Rick McCafferty](/alaska-anchorage) and [Rick and Linda Martin
 
 ### Are You Ready For Some Basketball?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781588843-7JY6DC6PSTBOD0EO8UY4/image-asset.jpeg)
+![](images/15f8161d-image-asset.jpeg)
 
 Picture courtesy of [NDN Sports](http://www.ndnsports.com/native-american-athletes-in-the-2016-ncaa-division-i-mens-march-madness-tournament/)
 
@@ -69,7 +69,7 @@ Though the list of professional native basketball isn't very long, the tradition
 
 ### Five San Antonio Churches To Be Preserved As The Newest World Heritage Site
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781589859-LGFPUATMMH1VDGO5KLIU/image-asset.jpeg)
+![](images/bd60f392-image-asset.jpeg)
 
 Mission Concepcion - one of five churches of the San Antonio Missions - *Photo by: Tracy Barnett/For The Washington Post*
 

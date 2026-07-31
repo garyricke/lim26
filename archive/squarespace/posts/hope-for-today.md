@@ -5,7 +5,7 @@ date: 2020-03-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/hope-for-today
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0945e620c411e9dc22f/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773718290-FR59IUX7PY8O71K7C53M/image-asset.png"]
+images: ["images/4763a435-1748628700852", "images/33a2c1d8-image-asset.png"]
 ---
 # Hope for Today
 
@@ -13,7 +13,7 @@ Mar 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773718290-FR59IUX7PY8O71K7C53M/image-asset.png)
+![](images/33a2c1d8-image-asset.png)
 
 Greetings to all in the name of our Lord and Savior, Jesus Christ!
 

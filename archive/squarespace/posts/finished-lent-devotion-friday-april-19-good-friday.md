@@ -5,7 +5,7 @@ date: 2019-04-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/finished-lent-devotion-friday-april-19-good-friday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b3b1a9daa70a3549a7c3/1748628700852/6a00e5547fc293883401b8d0fb826b970c-580wi.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774514881-3MV34DCXKK5DKAC4V104/image-asset.jpeg"]
+images: ["images/8d07b5c3-6a00e5547fc293883401b8d0fb826b970c-580wi.jpg", "images/f26f90d5-image-asset.jpeg"]
 ---
 # Finished! (Lent Devotion) - Friday, April 19 (Good Friday)
 
@@ -13,7 +13,7 @@ Apr 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774514881-3MV34DCXKK5DKAC4V104/image-asset.jpeg)
+![](images/f26f90d5-image-asset.jpeg)
 
 # Finished!
 

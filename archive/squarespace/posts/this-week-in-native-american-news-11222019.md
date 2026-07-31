@@ -5,7 +5,7 @@ date: 2019-11-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-11222019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1a2ab562073a4f921e7/1748628700852/image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773987345-AZ7OKWYOS5OCLBE187ZD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773988262-E0WI63IHRRGUC2IJ43PF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773989260-CY5S9DCII0OR2Z89KGSA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773990312-IZXNYQ7ZIENS4FID2W4A/image-asset.jpeg"]
+images: ["images/f4d5a64d-image.jpg", "images/83b84c85-image-asset.jpeg", "images/0af1d514-image-asset.jpeg", "images/94fd37a8-image-asset.jpeg", "images/d74c70f3-image-asset.jpeg"]
 ---
 # This Week in Native American News (11/22/19): Alcatraz, Street Art, and Frozen 2
 
@@ -13,7 +13,7 @@ Nov 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773987345-AZ7OKWYOS5OCLBE187ZD/image-asset.jpeg)
+![](images/83b84c85-image-asset.jpeg)
 
 # November 22, 2019 - November is Native Heritage Month!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## From Alcatraz to Standing Rock: The 50-Year Arc of Native Activism
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773988262-E0WI63IHRRGUC2IJ43PF/image-asset.jpeg)
+![](images/0af1d514-image-asset.jpeg)
 
 Left to right, Richard Oakes, Earl Livermore, and Al Miller, leaders of the American Indian Movement hold a press conference at Alcatraz Federal Penitentiary on December 24, 1969, during their takeover in 1969-70. Photo from Bettmann/Getty Images
 
@@ -39,7 +39,7 @@ The 19-month Occupation of Alcatraz by Native American activists was a direct 
 
 ## Chip Thomas Is Telling Navajo Stories with Street Art
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773989260-CY5S9DCII0OR2Z89KGSA/image-asset.jpeg)
+![](images/94fd37a8-image-asset.jpeg)
 
 As a young National Health Service Corps physician, Chip Thomas moved to the Diné Nation to help build a community of wellness. Today, his public-art installations are bolstering that mission.
 
@@ -55,7 +55,7 @@ The installations dot roadsides across the region, telling pieces of its rich an
 
 ## Disney Worked with Indigenous Sámi People to Ensure *Frozen II* Was Culturally Sensitive
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773990312-IZXNYQ7ZIENS4FID2W4A/image-asset.jpeg)
+![](images/d74c70f3-image-asset.jpeg)
 
 *Northuldra characters Honeymaren, Ryder, and Yelena.*
 

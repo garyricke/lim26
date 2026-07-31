@@ -5,7 +5,7 @@ date: 2017-11-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-111717
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be60e32d133794781a27/1748628700852/steve-sxwithul-txw-warrior-games.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777249072-TTXYAI1YV9OY01ANO9OX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777250287-1I2J9K5MAZ2TA4GEJA28/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777251410-4PA90O7OONSKGLAOJKJD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777252636-49H4TDGEI36EE86FWM1W/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777253477-FLP99K6ZTNNDAN4YSB9V/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777254592-GWT4972KDZQQ1H19K5OV/image-asset.jpeg"]
+images: ["images/36cc5dbb-steve-sxwithul-txw-warrior-games.png", "images/68b8c8ce-image-asset.jpeg", "images/9e51f908-image-asset.jpeg", "images/a5190259-image-asset.jpeg", "images/1c9a28bc-image-asset.png", "images/91b563d0-image-asset.jpeg", "images/d2301783-image-asset.jpeg"]
 ---
 # This Week in Native American News (11/17/17): Ancient Knowledge, Famous People, and Thanksgiving Stuffing
 
@@ -13,7 +13,7 @@ Nov 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777249072-TTXYAI1YV9OY01ANO9OX/image-asset.jpeg)
+![](images/68b8c8ce-image-asset.jpeg)
 
 # November 17, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Hawaiian Hale Mua Reconnecting Men to Their Culture
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777250287-1I2J9K5MAZ2TA4GEJA28/image-asset.jpeg)
+![](images/9e51f908-image-asset.jpeg)
 
 Men of the hale mua interested in a physical pursuit can often be found practicing lua and with Hawaiian weapons on the grassy lawn of the Hale Nanea. *Photo: Rolland Allan & Jessica Marie*
 
@@ -37,7 +37,7 @@ Programs such as these are a fundamental aspect of the hale mua, which has under
 
 ## Garden Initiative Restores Ancient Knowledge to Navajo
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777251410-4PA90O7OONSKGLAOJKJD/image-asset.jpeg)
+![](images/a5190259-image-asset.jpeg)
 
 The Mikes’ garden produces enough squash and zucchini to last them through the winter and sell the excess to members of their community. Photo by Geri Mike
 
@@ -55,7 +55,7 @@ For Melvin Mike of the Window Rock Ward, Chinle Arizona Stake, participation in 
 
 ## Victoria, Canada, Could House the First Indigenous Walk of Fame
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777252636-49H4TDGEI36EE86FWM1W/image-asset.png)
+![](images/1c9a28bc-image-asset.png)
 
 Steve Sxwithul’txw is a First Nations filmmaker and television producer based out of Victoria. His idea to create an Indigenous Walk of Fame aims to acknowledge the Aboriginal narrative and the industry's Indigenous artists. (Warrior Games blog)
 
@@ -75,7 +75,7 @@ With the Indigenous Walk of Fame, Sxwithul'txw hopes to do more than just lay a 
 
 ### [Read the Full Story Here](http://www.cbc.ca/news/canada/british-columbia/victoria-could-be-home-to-first-indigenous-walk-of-fame-thanks-to-local-filmmaker-1.4404621)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777253477-FLP99K6ZTNNDAN4YSB9V/image-asset.jpeg)
+![](images/91b563d0-image-asset.jpeg)
 
 ## Also of interest:
 
@@ -87,7 +87,7 @@ How Indigenous and black artists are using science fiction to imagine a better f
 
 ## We Know Less About Thanksgiving Than You Think
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777254592-GWT4972KDZQQ1H19K5OV/image-asset.jpeg)
+![](images/d2301783-image-asset.jpeg)
 
 For all of the fanfare around Thanksgiving in America — between the turkey dinners, Black Friday sales, and the semi-mythical 17th-century feast that pilgrims and Native Americans shared to “give thanks” — there is almost no historical record about the First Thanksgiving, a so-called historic meal that became the basis of a national holiday.
 

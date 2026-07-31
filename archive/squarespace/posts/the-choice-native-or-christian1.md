@@ -5,7 +5,7 @@ date: 2017-06-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-choice-native-or-christian1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c031fd8ac76e12bccd72/1748628700852/Can+you+be+Native+%26+Christian-.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777714154-CP5BHQ6SBVQJHBB0CZ2D/image-asset.png"]
+images: ["images/501db22a-Can_you_be_Native___Christian-.png", "images/09fdc384-image-asset.png"]
 ---
 # The Choice: Native OR Christian
 
@@ -13,7 +13,7 @@ Jun 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777714154-CP5BHQ6SBVQJHBB0CZ2D/image-asset.png)
+![](images/09fdc384-image-asset.png)
 
 The letter read:
 

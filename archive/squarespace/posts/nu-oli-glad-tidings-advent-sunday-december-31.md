@@ -5,7 +5,7 @@ date: 2017-12-31
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/nu-oli-glad-tidings-advent-sunday-december-31
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd81cacaf50ec897af2c/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777027053-WDG25LF0NJFIU539OJIR/image-asset.png"]
+images: ["images/16016ff0-Advent__1_.png", "images/6255fe3d-image-asset.png"]
 ---
 # NU OLI — Glad Tidings (Advent) - Sunday, December 31
 
@@ -15,7 +15,7 @@ Dec 31
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777027053-WDG25LF0NJFIU539OJIR/image-asset.png)
+![](images/6255fe3d-image-asset.png)
 
 ### **NU OLI — Glad Tidings (Advent) - Sunday, December 31**
 

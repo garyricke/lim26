@@ -5,7 +5,7 @@ date: 2018-06-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-723-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8bf19ed594d3b12db03/1748628700852/%E2%80%9CCreator%E2%80%99s+goodwill+rests+on+the+ones+who+do+not+stumble+and+leave+the+path+because+of+me.%E2%80%9DLuke+7_23+FNV.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775808394-YJOXYYIYW9S5NWKBDZNK/image-asset.png"]
+images: ["images/92d7447c-_Creator_s_goodwill_rests_on_the_ones_who_do_not_stumble_and_leave_the_path_because_of_me._Luke_7_23_FNV.png", "images/e9089134-image-asset.png"]
 ---
 # Luke 7:23 FNV
 
@@ -13,7 +13,7 @@ Jun 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775808394-YJOXYYIYW9S5NWKBDZNK/image-asset.png)
+![](images/e9089134-image-asset.png)
 
 Our Lord here shows that he understood that this question, of whether or not Jesus was the Messiah, came from the Baptist himself. Dean Plumptre calls attention to the tender way in which our Lord dealt with the impatience which John's question implied.
 

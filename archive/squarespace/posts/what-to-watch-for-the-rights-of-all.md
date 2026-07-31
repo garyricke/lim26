@@ -5,7 +5,7 @@ date: 2017-02-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-to-watch-for-the-rights-of-all
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c20273f8a72aef85d237/1748628700852/2337138958_63283b959b_b.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778179056-ZDE4T7GF8D7LH7LHAVJ9/image-asset.jpeg"]
+images: ["images/b25d5731-2337138958_63283b959b_b.jpg", "images/57ad5939-image-asset.jpeg"]
 ---
 # What to Watch: For the Rights of All
 
@@ -19,7 +19,7 @@ Watch them while they are available!
 
 This week's featured film is: [For the Rights of All: Ending Jim Crow in Alaska](http://americanarchive.org/catalog/cpb-aacip_508-8g8ff3mn2x)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778179056-ZDE4T7GF8D7LH7LHAVJ9/image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-8g8ff3mn2x)
+[![](images/57ad5939-image-asset.jpeg)](http://americanarchive.org/catalog/cpb-aacip_508-8g8ff3mn2x)
 
 The story of an extraordinary Alaskan woman who becomes an unlikely hero in the fight for civil rights. Elizabeth Peratrovich, an unassuming Tlingit Indian mother of three, testified before the Alaska Territorial Senate in 1945 and swayed the floor vote with her compelling testimony in favor of the passage of the Anti-Discrimination Act, the first civil rights bill passed in the United States since the Civil War.
 

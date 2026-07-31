@@ -5,7 +5,7 @@ date: 2018-02-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/generosity-is-meant-to-be-shared
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bca5caefb623c85165a9/1748628700852/Ben%2CNatalieMaxson.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776807353-9HCZIVFUGV15T0J2YNFE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776810322-J6M241SCFFPJ8C4VO3MA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776812667-Z4IZTX3LPH79MZW6XH8S/image-asset.jpeg"]
+images: ["images/bd38fb74-Ben_NatalieMaxson.jpg", "images/8023d428-image-asset.jpeg", "images/1ff5cf45-image-asset.jpeg", "images/63977bdc-image-asset.jpeg"]
 ---
 # Generosity is Meant to Be Shared
 
@@ -21,7 +21,7 @@ Ben and I have settled nicely into the roles assigned by God.
 
 Besides being extra busy with ministry and children, our hearts are full. It is amazing the change I feel in myself through the simple act of obedience to God in the calling He has placed on my life alongside my husband.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776807353-9HCZIVFUGV15T0J2YNFE/image-asset.jpeg)
+![](images/8023d428-image-asset.jpeg)
 
 In September, we had our first Back-to-School Blessing.
 
@@ -30,7 +30,7 @@ We had over 100 people come through the church doors for food, games, and school
 We plan to hold this event annually and hope to include backpacks this coming fall.  
 During the planning period, we decided our motto would be “Generosity is meant to be shared.” It has morphed from a motto for one event into our philosophy in everything we do in Neah Bay. It’s no longer something we say, it’s the way we live and teach others to live. This simple phrase has transformed the way we think about the ministry.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776810322-J6M241SCFFPJ8C4VO3MA/image-asset.jpeg)
+![](images/1ff5cf45-image-asset.jpeg)
 
 For Halloween, we hosted our first Trunk-or-Treat in the community gym parking lot where individuals and businesses were invited to park their car and hand out treats as an alternative to trick-or-treating. Because this was our first year trying an event like this, we thought it might be small and could grow with time, but we were blown away by the volunteers and participation. We had 30 trunks set up and served 250 people. We will definitely hold this event again next Halloween. Everyone had a great time!
 
@@ -40,7 +40,7 @@ Ben, myself, and our children put in many hours to get our Youth Room ready in t
 
 The weekly Sunday Youth Night makes for a long day for Ben after church in the morning. However, we do a lot of high energy games, which are always fun and get everyone involved, followed by a small message at the end of the evening. We, then, provide transportation home to those who need it. Every six weeks, or so, we told the teens we would host a big game like Fugitive. We average 16 teens each Sunday, but our most recent Fugitive night had about 35 teens who ate 15 pizzas!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776812667-Z4IZTX3LPH79MZW6XH8S/image-asset.jpeg)
+![](images/63977bdc-image-asset.jpeg)
 
 We ask that you please pray with us as we seek how to guide the teens to the next level.
 

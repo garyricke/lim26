@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/my+redeemer+lives
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774313518-JKECR9NXQVIOOCBRGF4J/i+know+my+redeemer+lives+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774315733-TUI5LZKSWRL5JH49S5G8/i+know+my+redeemer+lives+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774318698-GG8PJ8JHG53TTISOPSFS/i+know+my+redeemer+lives+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774326993-K81JPZ59UDUVK1EISLQ0/i+know+my+redeemer+lives+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774329811-7R1XQ9C9244KIV12CWP4/i+know+my+redeemer+lives+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774335099-4E98C7SWNSU1N8MPJDPZ/i+know+my+redeemer+lives+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774338086-7LCGKZMS2SULTBDS3QV6/i+know+my+redeemer+lives+%281%29.png"]
+images: ["images/52b2fa1a-i_know_my_redeemer_lives__1_.png", "images/a206b283-i_know_my_redeemer_lives__1_.png", "images/d7eb1969-i_know_my_redeemer_lives__1_.png", "images/27b90355-i_know_my_redeemer_lives__1_.png", "images/2d5d20cd-i_know_my_redeemer_lives__1_.png", "images/4af81b2e-i_know_my_redeemer_lives__1_.png", "images/3ac0774b-i_know_my_redeemer_lives__1_.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![I Know My Redeemer Lives - Devotion 7 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774313518-JKECR9NXQVIOOCBRGF4J/i+know+my+redeemer+lives+%281%29.png)](/news-notes/i-know-my-redeemer-lives-devotion-7-monday-morning-devotions)
+[![I Know My Redeemer Lives - Devotion 7 - Monday Morning Devotions](images/52b2fa1a-i_know_my_redeemer_lives__1_.png)](/news-notes/i-know-my-redeemer-lives-devotion-7-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -75,7 +75,7 @@ Even in the most difficult of days, we can find relief and hope in these comfort
 
 [Read More](/news-notes/i-know-my-redeemer-lives-devotion-7-monday-morning-devotions)
 
-[![I Know My Redeemer Lives - Devotion 6 - Monday Morning Devotions ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774315733-TUI5LZKSWRL5JH49S5G8/i+know+my+redeemer+lives+%281%29.png)](/news-notes/i-know-my-redeemer-lives-devotion-6-monday-morning-devotions)
+[![I Know My Redeemer Lives - Devotion 6 - Monday Morning Devotions ](images/a206b283-i_know_my_redeemer_lives__1_.png)](/news-notes/i-know-my-redeemer-lives-devotion-6-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -91,7 +91,7 @@ Even in the most difficult of days, we can find relief and hope in these comfort
 
 [Read More](/news-notes/i-know-my-redeemer-lives-devotion-6-monday-morning-devotions)
 
-[![I Know My Redeemer Lives - Devotion 5 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774318698-GG8PJ8JHG53TTISOPSFS/i+know+my+redeemer+lives+%281%29.png)](/news-notes/i-know-my-redeemer-lives-devotion-5-monday-morning-devotions)
+[![I Know My Redeemer Lives - Devotion 5 - Monday Morning Devotions](images/d7eb1969-i_know_my_redeemer_lives__1_.png)](/news-notes/i-know-my-redeemer-lives-devotion-5-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -107,7 +107,7 @@ Even in the most difficult of days, we can find relief and hope in these comfort
 
 [Read More](/news-notes/i-know-my-redeemer-lives-devotion-5-monday-morning-devotions)
 
-[![I Know My Redeemer Lives - Devotion 4 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774326993-K81JPZ59UDUVK1EISLQ0/i+know+my+redeemer+lives+%281%29.png)](/news-notes/i-know-my-redeemer-lives-devotion-4-monday-morning-devotions)
+[![I Know My Redeemer Lives - Devotion 4 - Monday Morning Devotions](images/27b90355-i_know_my_redeemer_lives__1_.png)](/news-notes/i-know-my-redeemer-lives-devotion-4-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -123,7 +123,7 @@ Even in the most difficult of days, we can find relief and hope in these comfort
 
 [Read More](/news-notes/i-know-my-redeemer-lives-devotion-4-monday-morning-devotions)
 
-[![I Know My Redeemer Lives - Devotion 3 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774329811-7R1XQ9C9244KIV12CWP4/i+know+my+redeemer+lives+%281%29.png)](/news-notes/i-know-my-redeemer-lives-devotion-3-monday-morning-devotions)
+[![I Know My Redeemer Lives - Devotion 3 - Monday Morning Devotions](images/2d5d20cd-i_know_my_redeemer_lives__1_.png)](/news-notes/i-know-my-redeemer-lives-devotion-3-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -139,7 +139,7 @@ Even in the most difficult of days, we can find relief and hope in these comfort
 
 [Read More](/news-notes/i-know-my-redeemer-lives-devotion-3-monday-morning-devotions)
 
-[![I Know My Redeemer Lives - Devotion 2 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774335099-4E98C7SWNSU1N8MPJDPZ/i+know+my+redeemer+lives+%281%29.png)](/news-notes/i-know-my-redeemer-lives-devotion-2-monday-morning-devotions-rf4s2)
+[![I Know My Redeemer Lives - Devotion 2 - Monday Morning Devotions](images/4af81b2e-i_know_my_redeemer_lives__1_.png)](/news-notes/i-know-my-redeemer-lives-devotion-2-monday-morning-devotions-rf4s2)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -155,7 +155,7 @@ Even in the most difficult of days, we can find relief and hope in these comfort
 
 [Read More](/news-notes/i-know-my-redeemer-lives-devotion-2-monday-morning-devotions-rf4s2)
 
-[![I Know My Redeemer Lives - Devotion 1 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774338086-7LCGKZMS2SULTBDS3QV6/i+know+my+redeemer+lives+%281%29.png)](/news-notes/i-know-my-redeemer-lives-devotion-1-monday-morning-devotions)
+[![I Know My Redeemer Lives - Devotion 1 - Monday Morning Devotions](images/3ac0774b-i_know_my_redeemer_lives__1_.png)](/news-notes/i-know-my-redeemer-lives-devotion-1-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

@@ -5,7 +5,7 @@ date: 2017-03-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/history-crash-course-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c17b8eead250d7bc6f08/1748628700852/Crash_Course_Youtube_logo.png"]
+images: ["images/1186e6b8-Crash_Course_Youtube_logo.png"]
 ---
 # History Crash Course - Thirsty (for Knowledge) Thursday
 

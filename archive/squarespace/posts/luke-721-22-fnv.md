@@ -5,7 +5,7 @@ date: 2018-05-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-721-22-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8cc3cdc7517f159e624/1748628700852/%E2%80%9CGo+back+to+He+Shows+Goodwill+%28John%29%2C+and+tell+him+about+the+things+you+have+seen+with+your+own+eyes+and+heard+with+your+own+ears.+The+blind+can+see+again%2C+the+lame+can+walk%2C+the+ones+with+skin+disease+ha.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775821453-WG3N3HQU49GAFLB7S5EA/image-asset.png"]
+images: ["images/97702c55-_Go_back_to_He_Shows_Goodwill__John___and_tell_him_about_the_things_you_have_seen_with_your_own_eyes_and_heard_with_your", "images/f826fc42-image-asset.png"]
 ---
 # Luke 7:21-22 FNV
 
@@ -13,7 +13,7 @@ May 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775821453-WG3N3HQU49GAFLB7S5EA/image-asset.png)
+![](images/f826fc42-image-asset.png)
 
 The Lord, in the same hour that they stated their errand, cured many of their infirmities and plagues, and of evil spirits, and unto many that were blind He gave sight.
 

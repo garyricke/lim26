@@ -5,7 +5,7 @@ date: 2020-12-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/family-gatherings-thursday-december-17-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aeaacaefb623c84eeec0/1748628700852/verse-image-for-matthew-18-20-1x1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773233275-QXZD7AGNXV8WR8C5JPK9/image-asset.png"]
+images: ["images/74249a2d-verse-image-for-matthew-18-20-1x1.jpg", "images/dc2f260d-image-asset.png"]
 ---
 # Family Gatherings - Thursday, December 17 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773233275-QXZD7AGNXV8WR8C5JPK9/image-asset.png)
+![](images/dc2f260d-image-asset.png)
 
 ## Now his [Jesus'] parents [Joseph and Mary] went to Jerusalem every year at the Feast of the Passover. And when he was twelve years old, they went up according to custom. [Luke 2:41-42](https://my.bible.com/bible/111/LUK.2.41-42)
 

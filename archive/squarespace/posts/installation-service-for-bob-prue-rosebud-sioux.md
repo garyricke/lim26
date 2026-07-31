@@ -5,7 +5,7 @@ date: 2015-06-30
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/wisconsinoneida/installation-service-for-bob-prue-rosebud-sioux
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dce00a3e4322b5dbb9cd/1665785068714/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785057834-0LK9JVUOKXQGCYUIL9WV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785059706-NZRX0TDAAOG4Y605RULV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785061767-NH912X540016QRCI1R12/image-asset.jpeg"]
+images: ["images/9c3d1714-1665785068714", "images/9556dd64-image-asset.jpeg", "images/01c17070-image-asset.jpeg", "images/51263f3b-image-asset.jpeg"]
 ---
 # Installation Service for Bob Prue (Rosebud Sioux)
 
@@ -18,7 +18,7 @@ Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 On Sunday, May 17, Bob Prue (Rosebud Sioux) was installed as deacon at Zion Lutheran Church in Oneida, Wisconsin. Bob will serve his internship at Zion as he continues his theological studies in preparation for Native ministry.
 Rev. Mark Schumm, pastor at [Zion Lutheran Church, Oneida](http://ziononeida.org/), officiated the service, along with Rev. Dr. Don Johnson, executive director of Lutheran Indian Ministries. Also in attendance were Bob’s wife, Deon, their two small boys, Deon’s grandparents and other loved ones. Staff from the Brookfield office also attended. The Oneida Singers sang “Jesus Loves Me” in their Native language as part of the children’s message.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785057834-0LK9JVUOKXQGCYUIL9WV/image-asset.jpeg)
+![](images/9556dd64-image-asset.jpeg)
 
 Rev. Dr. Don Johnson Praying at Commissioning of Bob Prue - Rosebud Sioux - at Zion Lutheran Church, Oneida, Wisconsin
 
@@ -28,7 +28,7 @@ Rev. Dr. Don Johnson Praying at Commissioning of Bob Prue - Rosebud Sioux - at Z
 
 Bob recently attended the LCMS North Wisconsin District convention, where he had the opportunity to share his story with visitors to the booth.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785059706-NZRX0TDAAOG4Y605RULV/image-asset.jpeg)
+![](images/01c17070-image-asset.jpeg)
 
 Bob Prue and Sue Gebel at LCMS North Wisconsin District Convention
 
@@ -36,7 +36,7 @@ Bob will also be in Des Moines, Iowa, at the LWML convention in June and will jo
 
 We encourage you to keep Bob and Deon and their sons, Treson and Jorey, in your prayers as [they wholeheartedly serve the Lord](https://lutheranindianministries.squarespace.com/blog/wisconsinoneida/called-into-his-marvelous-light).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785061767-NH912X540016QRCI1R12/image-asset.jpeg)
+![](images/51263f3b-image-asset.jpeg)
 
 Bob and Deon Prue with their boys
 

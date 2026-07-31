@@ -5,7 +5,7 @@ date: 2017-02-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-433-37-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c20dfd8ac76e12bd23a7/1748628700852/The+people+were+in+awe+and+began+to+ask+each+other%2C+-What+is+he+teaching-+What+new+medicine+is+this-+He+even+tells+the+unclean+spirits+what+to+do+-+and+they+do+it%21-Because+of+this%2C+his+reputation+spread+like+w.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778191302-G56ASIEHEWGMYS4FR29N/image-asset.png"]
+images: ["images/878d7e21-The_people_were_in_awe_and_began_to_ask_each_other__-What_is_he_teaching-_What_new_medicine_is_this-_He_even_tells_the_u", "images/a6fcc075-image-asset.png"]
 ---
 # Luke 4:33-37 FNV
 
@@ -13,7 +13,7 @@ Feb 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778191302-G56ASIEHEWGMYS4FR29N/image-asset.png)
+![](images/a6fcc075-image-asset.png)
 
 The Jews had exorcists amongst them, who sometimes cast out devils by some forms of invocation they had; but Christ commanded them out; he neither did it by any kind of entreaty from any compact with the devil, nor yet by any invocation of God, but by an authoritative command.
 

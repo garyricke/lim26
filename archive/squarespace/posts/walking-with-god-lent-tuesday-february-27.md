@@ -5,7 +5,7 @@ date: 2018-02-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/walking-with-god-lent-tuesday-february-27
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc525c155d76315a3750/1748628700852/0219da15485b1c8ec6565aae2011251c.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776723867-FW4KV6UWYOZ2P9NNW3GF/image-asset.png"]
+images: ["images/70fa7f5b-0219da15485b1c8ec6565aae2011251c.jpg", "images/249978e4-image-asset.png"]
 ---
 # Walking with God (Lent) - Tuesday, February 27
 
@@ -13,7 +13,7 @@ Feb 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776723867-FW4KV6UWYOZ2P9NNW3GF/image-asset.png)
+![](images/249978e4-image-asset.png)
 
 ### "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age." [Matthew 28:19-20 (NIV)](https://www.bible.com/bible/111/MAT.28.19-20)
 

@@ -5,7 +5,7 @@ date: 2018-03-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/to-god-be-the-glory-his-work-in-nebraska
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbea2f32730f5f61121b/1748628700852/Jesus-Our-Savior-Lutheran-Preschool-check-2.jpg"]
+images: ["images/028839de-Jesus-Our-Savior-Lutheran-Preschool-check-2.jpg"]
 ---
 # To God be the Glory - His work in Nebraska
 

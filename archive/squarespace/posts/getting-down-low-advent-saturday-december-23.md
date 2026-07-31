@@ -5,7 +5,7 @@ date: 2017-12-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/getting-down-low-advent-saturday-december-23
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bdb508aace6ebba8224c/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777078945-E80DC1AM6ULUF77GU99Y/image-asset.png"]
+images: ["images/8d8b0fa0-Advent__1_.png", "images/bd261adb-image-asset.png"]
 ---
 # Getting Down Low (Advent) - Saturday, December 23
 
@@ -15,7 +15,7 @@ Dec 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777078945-E80DC1AM6ULUF77GU99Y/image-asset.png)
+![](images/bd261adb-image-asset.png)
 
 ### **Getting Down Low - Saturday, December 23**
 

@@ -5,7 +5,7 @@ date: 2017-03-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/who-am-i-third-sunday-in-lent-march-19
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c188d2ce18469943058e/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778057721-QK7UBL3RCJSLRLECBR9L/image-asset.jpeg"]
+images: ["images/078f2294-2017_lent_cover.jpg", "images/70e0461a-image-asset.jpeg"]
 ---
 # Who am I?: Third Sunday in Lent, March 19
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Jesus and his disciples went on to the villages around Caesarea Philippi. On the way he asked them, “Who do people say I am?” They replied, “Some say John the Baptist; others say Elijah;  and still others, one of the prophets.” “But what about you?” he asked. “Who do you say I am?” Peter answered, “You are the Messiah.” Mark 8:27-29 (NIV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778057721-QK7UBL3RCJSLRLECBR9L/image-asset.jpeg)
+![](images/70e0461a-image-asset.jpeg)
 
 Jesus picked this exact moment to announce his true, divine self. Through Peter’s great faith, we discover that Jesus is the anointed one, the Christ. Peter is the first disciple to come to this life-altering realization.
 

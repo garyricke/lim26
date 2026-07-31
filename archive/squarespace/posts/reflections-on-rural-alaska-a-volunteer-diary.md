@@ -5,7 +5,7 @@ date: 2017-04-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/reflections-on-rural-alaska-a-volunteer-diary
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0e18ebef20056853ef1/1748628700852/IMG_3447.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777890367-6D88VWVBH33H2V58FUMC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777891966-NBWFRKPDHXUVG1IDU92K/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777893668-VRWYEXS2CMY7Y9NLUMUY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777894951-56RIYTOZ2T184JH1QXHK/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777896282-PZG4F6KP9BN5ZO8SK4O5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777899482-IJGNSQJXGIYRNG4KAUY9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777900989-MPF8D98MQPD45ZHX1EXM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777902495-NNDI7Q7KX8SEDLLGDJDJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777906091-ZA3JIHIRRF9KY1XCUWOB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777907898-LL49J65MHW6HZFV6PADO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777909856-2I46X8DGR3LH482ACRB8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777911775-2HZKLW05AUNQOKHLHDNS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777913440-CAY32GKYGGE3GX0PQ254/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777914733-98Q6JCLTHCVCDFVH4DLX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777916066-XSFB7DTIQOWDXGFIPOK2/image-asset.jpeg"]
+images: ["images/df88770f-IMG_3447.JPG", "images/fb81138a-image-asset.jpeg", "images/8fad4c91-image-asset.jpeg", "images/4d8c3cd2-image-asset.jpeg", "images/a24f48ee-image-asset.jpeg", "images/3f5a1e3b-image-asset.jpeg", "images/f93097c9-image-asset.jpeg", "images/aed75152-image-asset.jpeg", "images/0ae9fac9-image-asset.jpeg", "images/ecd38fff-image-asset.jpeg", "images/fc3aceeb-image-asset.jpeg", "images/98657107-image-asset.jpeg", "images/4a4413b1-image-asset.jpeg", "images/70148257-image-asset.jpeg", "images/6d6161a7-image-asset.jpeg", "images/a1b8f22b-image-asset.jpeg"]
 ---
 # Reflections on Rural Alaska: A Volunteer Diary
 
@@ -167,7 +167,7 @@ Statistics show that Native Americans have the highest suicide rates in country,
 
 After Adult Bible Study ended, we had Teen Time. About 10 teens came over for games, snacks, and fun. I believe they all enjoyed themselves; I know I did! I made friends with many of the teens, and we goofed around a lot. Two of the boys even came dressed in their Sunday best! We played Twister, card games, and did a cross scratch art. Gabriel kept telling me he was the "Top Dog Angel, Gabriel, from the Bible," and Adam, whom I called “Merry” for fun, told me that he was Adam from the Bible.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777890367-6D88VWVBH33H2V58FUMC/image-asset.jpeg)
+![](images/fb81138a-image-asset.jpeg)
 
 The girls were more hesitant than the boys, but Ashley loved taking pictures on my phone, and Kristine loved putting makeup on me. Everyone loved to talk about basketball and their nicknames and how they had gotten them.
 
@@ -179,7 +179,7 @@ The girls were more hesitant than the boys, but Ashley loved taking pictures on 
 
 Around 9:00 PM, we all went outside to play. We decided to play hide and seek. One of the girls offered to count and the rest of us took off down the dirt road until we came to an area where people piled all their broken washing machines, dryers, and refrigerators. It looked like a household appliance graveyard!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777891966-NBWFRKPDHXUVG1IDU92K/image-asset.jpeg)
+![](images/8fad4c91-image-asset.jpeg)
 
 “Let’s hide here!” the kids shouted, and we swarmed the refrigerators and hid in old wash tubs and dryers. Some of the boys climbed the refrigerators and hopped on the roof of the house. Huddling down in a refrigerator that had lost its door, I tried to hide the fact that I was shivering and freezing so bad.
 
@@ -225,7 +225,7 @@ I skipped lunch to meet Eileen, Lynne, and Catherine at the store and help with 
 
 *“Wait until we get to the table to actually eat your food,” Lynne was saying. But Zyler and the kids were already diving into their food and paid no attention.*
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777893668-VRWYEXS2CMY7Y9NLUMUY/image-asset.jpeg)
+![](images/4d8c3cd2-image-asset.jpeg)
 
 During craft time I got out the guitar and played “Beautiful Day” by Jamie Grace. The kids really liked the song. Zyler kept coming over and strumming the strings.
 
@@ -253,7 +253,7 @@ We went down to the school. The older boys went to the gym to practice, and I pl
 
 All the girls were trying to set me up with Quentin. I told Rosemary, and she just laughed.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777894951-56RIYTOZ2T184JH1QXHK/image-asset.jpeg)
+![](images/a24f48ee-image-asset.jpeg)
 
 “Maybe they think if they can get you with somebody here, they can keep you forever,” she said. I laughed then but it wasn’t always so funny. These girls were persistent!
 
@@ -267,7 +267,7 @@ Sometimes, I really have to think, what do these kids see and hear on a day to d
 
 Are they shown godly examples to live by, shown brotherly love and kindness? Quality time and conversation are harder with the distant teens, yet begged for from the little kids. Maybe the teens give up and close off because they were tired of getting rejected and tossed aside.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777896282-PZG4F6KP9BN5ZO8SK4O5/image-asset.jpeg)
+![](images/3f5a1e3b-image-asset.jpeg)
 
 I think deep inside, they enjoy spending quality time together and our conversations… though usually, the conversation is just me talking about events and ideas. If I stop talking, it’s just awkward silence. So I talk about everything. But I think they find it entertaining and slowly they open up. I just need to earn their trust first.
 
@@ -279,7 +279,7 @@ Sometimes, it really hard to understand if we can’t see what they see. My fami
 
 Today, I woke up not feeling very well and a little homesick. To make things worse, one of the women on my volunteer team hurt my feelings and made me feel dumb and unwanted at breakfast time. I went back to bed, convinced I was doomed to be a horrible teacher and mother and poured my heart out to God asking him for healing, strength to get through this day, joy, patience, and help to love the unlovable.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777899482-IJGNSQJXGIYRNG4KAUY9/image-asset.jpeg)
+![](images/f93097c9-image-asset.jpeg)
 
 Later, we walked to the post office and saw the bearskin of the recently shot grizzly bear drying on a boat.
 
@@ -293,7 +293,7 @@ God gave us all strength and energy for another day of VBS! The Bible stories we
 
 After VBS with the older kids, Brielle, Trevor, Skyla, and I walked Trevor home and then Brielle took me to her house to meet her parents. Her dad had served in the army during 9/11. The family had lived overseas but after he got out of the army, they returned to Kiana to raise their youngest daughter, little Brielle.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777900989-MPF8D98MQPD45ZHX1EXM/image-asset.jpeg)
+![](images/aed75152-image-asset.jpeg)
 
 The kids and I then had a rough afternoon. A truck drove past and spotted us and out hopped little Zion to play with us, while 3-year-old Raja cried in the truck because she couldn’t come along. In a very short amount of time, the other kids with me were in tears as well with scraped knees and hurt feelings about “who pushed who” down the hill and “Why won’t you forgive me?” We worked it out... eventually.
 
@@ -301,7 +301,7 @@ After dinner, I met up by the school with the kids, and we played at the school 
 
 I met the teens waiting on the porch. There were a couple new faces, too! There was a new girl, Jasmine, who was very kind, as well as a new boy named Terry Jr. We were going to have a full house of teens! We barged into the house just in time for the adult bible study prayer.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777902495-NNDI7Q7KX8SEDLLGDJDJ/image-asset.jpeg)
+![](images/0ae9fac9-image-asset.jpeg)
 
 During Teen Time, Terry and I had a good conversation. He told of how he graduated last year and now was leaning more towards work than college. Either way, he knew for sure he wanted to leave the village and maybe go work for Red Dog Mine if he could get in. Right now, he’s the youngest VPO (Village Patrol Officer) in Kiana! How cool!
 
@@ -359,7 +359,7 @@ I sat out with Zion, and we took silly pictures on my phone which finally made h
 
 Bella arrived in time to help act out the Bible stories! She took a lot of pictures for me with my polaroid camera so I could give pictures to the kids. She was a great camera woman! She only cut off my head in two pictures…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777906091-ZA3JIHIRRF9KY1XCUWOB/image-asset.jpeg)
+![](images/ecd38fff-image-asset.jpeg)
 
 After VBS, Bella and I hopped on her Honda four-wheeler, and she treated me to snacks at the store. Then, we sped off to the other side of the village and hung out for a bit at her house. At 7:30 that evening, it was time to head over for Teen Time.
 
@@ -373,7 +373,7 @@ Before the night got too late, we all went over to the church and put everything
 
 After Teen Time ended, the girls and I grabbed our coats and stepped outside into the chilly air. I suggested we work on our story telling skills. I went first and told a silly story about me and a bear. The girls thought it was good, but that they had a better one. The girls told a story of how I married Quentin and Terry Jr. and that we had all the kids in the village. They thought it was hilarious; I just shook my head but couldn't help but laugh.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777907898-LL49J65MHW6HZFV6PADO/image-asset.jpeg)
+![](images/fc3aceeb-image-asset.jpeg)
 
 We walked a little further and arrived at a house. The girls knocked on the door and asked for Quentin. Many boys came out of the house, stood on the porch, and listened as, to my horror, the girls told Quentin that we were married and had 1,000 kids.
 
@@ -405,7 +405,7 @@ I encouraged him to grab his bike and let’s get going. Again, here was another
 
 The teen girls and I ambled around aimlessly and mindlessly for a while. My mind was too tired to think of anything intelligent to say. The girls made small talk. We walked in the numbing cold from empty shacks, to street corners where other kids sat around, to the lonely, windblown streets.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777909856-2I46X8DGR3LH482ACRB8/image-asset.jpeg)
+![](images/98657107-image-asset.jpeg)
 
 These kids were bored, consumed with emptiness, a hunger for parental support, a wanting to belong. They were just yearning for something to do. Something to give their lives purpose and meaning. They kept walking because they were still searching for meaning in places were it couldn't be found. The purpose they seek can't be found in worldly things, but in God.
 
@@ -441,7 +441,7 @@ This year, Mrs. Nellie was retiring, and the Lodge was closing down. I played hi
 
 When we retuned to shore, I took Lane and Paige home with me, and we ate chips and caught a butterfly. The butterfly was wounded by the catch so we built a little hospital for him. I found a cross built out of two logs laying under my porch and pulled it out into the daylight. Lane, Paige, and I then reenacted Jesus on the cross. They loved being Jesus and getting nailed to the cross and carried to the tomb. When their parents came to pick them up, I headed down to the Baptist church to see the other kids. They greeted me with hugs and begged me to play tag. I chased them around until I was ready to drop.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777911775-2HZKLW05AUNQOKHLHDNS/image-asset.jpeg)
+![](images/4a4413b1-image-asset.jpeg)
 
 At 4:00, I left to check in and many kids followed.
 
@@ -457,7 +457,7 @@ Tonight, we hosted a hot dog dinner at the Pastor Cabin before going over to chu
 
 Food was served, drinks were spilled, the guitar was played, and their little voices filled the room. I couldn’t remember a happier moment as I looked around at them all.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777913440-CAY32GKYGGE3GX0PQ254/image-asset.jpeg)
+![](images/70148257-image-asset.jpeg)
 
 At 6:00, we all went over to the church and prepared the kids for the program. There was an elder at the church playing the guitar who was the *Dadda* of many of the kids. He played while we got all the kids prepped and seated just in time for church.
 
@@ -471,7 +471,7 @@ Soon, it was time for our presentation. I got all the kids lined up, and introdu
 
 After songs, we recited our Bible verse: the 23rd Psalm. Finally, I had all the kids gather around me with the guitar, and we sang “Jesus Nugleeda”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777914733-98Q6JCLTHCVCDFVH4DLX/image-asset.jpeg)
+![](images/6d6161a7-image-asset.jpeg)
 
 After the service, people talked outside for a bit. It was wonderful.
 
@@ -493,7 +493,7 @@ I tried to keep the girls awake and encouraged them to listen to his words. Afte
 
 We cut through the forest and walked along the dusty road. The kids raced to and fro and all around. They’d pretend to be wounded and fall to the ground clutching their leg. I’d play along, race to their side, rub their backs, and cry. They’d tried to hide their smile, but it became too much. They’d jump up squealing thinking it was the greatest joke ever and laugh that they could trick me. It was adorable.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777916066-XSFB7DTIQOWDXGFIPOK2/image-asset.jpeg)
+![](images/a1b8f22b-image-asset.jpeg)
 
 One by one, the kids were picked up by passing cars or took themselves home to their families. I hugged them goodbye knowing this was my last hug and last look at their tiny faces. As I walked home alone, noticing the chilly air for the first time, I felt as though they were slipping away, out of my reach… and into God’s forever strong arms where they always were and will always stay.
 

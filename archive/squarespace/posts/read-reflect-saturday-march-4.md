@@ -5,7 +5,7 @@ date: 2017-03-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-saturday-march-4
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1cc2c1738665e719112/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778125947-IIEGU1QKMIZCU16O1Q1V/image-asset.png"]
+images: ["images/5e912594-1748628700852", "images/b7272882-image-asset.png"]
 ---
 # Read & Reflect: Saturday, March 4
 
@@ -13,7 +13,7 @@ Mar 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778125947-IIEGU1QKMIZCU16O1Q1V/image-asset.png)
+![](images/b7272882-image-asset.png)
 
 ## Read: [Isaiah 58:6-11](https://www.bible.com/bible/111/isa.58.6-11), [John 13:34-35](https://www.bible.com/bible/111/jhn.13.34-35), [Matthew 25:34-40](https://www.bible.com/bible/111/mat.25.34-40)
 

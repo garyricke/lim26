@@ -5,7 +5,7 @@ date: 2020-03-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/joy-in-lent
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b08f046d523415cd8566/1748628700852/fa857824b45af3c3639760ab5a24e20f.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773714022-B2JWTA8RFDTXFUBWYBDU/image-asset.png"]
+images: ["images/1c5bbc02-fa857824b45af3c3639760ab5a24e20f.jpg", "images/3f066801-image-asset.png"]
 ---
 # Joy in Lent - Lent 2020
 
@@ -15,7 +15,7 @@ Mar 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773714022-B2JWTA8RFDTXFUBWYBDU/image-asset.png)
+![](images/3f066801-image-asset.png)
 
 ### In that day you will say: “I will praise you O LORD. Although you were angry with me your anger has turned away and you have comforted me. Surely God is my salvation; I will trust and will not be afraid. The LORD, the LORD is my strength and my song; he has become my salvation.” [Isaiah 12:1-2](https://www.bible.com/bible/111/isa.12.1-2)
 

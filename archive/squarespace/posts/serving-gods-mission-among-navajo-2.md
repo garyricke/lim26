@@ -5,7 +5,7 @@ date: 2014-10-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/new-mexiconavajo/serving-gods-mission-among-navajo-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44414/1451491777595/Navajo_Volunteers-Building_Risen-Savior.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44416/1451491777597/Navajo_Volunteers-with-Children_Risen-Savior.jpg"]
+images: ["images/5cdd3664-Navajo_Volunteers-Building_Risen-Savior.jpg", "images/0885f3e8-Navajo_Volunteers-with-Children_Risen-Savior.jpg"]
 ---
 # A Navajo Update
 
@@ -16,7 +16,7 @@ Oct 28
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 "A time to be born and a time to die...a time to tear down and a time to build" (Ecclesiastes 3:2-3).
-These past couple of months have seen these words from Ecclesiastes in action. ![Volunteers from Risen Savior building for Shepherd of the Valley Lutheran Church, Navajo, New Mexico](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44414/1451491777595/Navajo_Volunteers-Building_Risen-Savior.jpg)Pictured is the team from Risen Savior Lutheran Church in Wichita, Kansas (and Jeremiah Trephibio, a member of Shepherd of the Valley) that visited Navajo from Sept. 18 - 22. In the photo they are building a foundation for a home for one of our church members. Incredibly, in that amount of time they were able to complete that project as well as repair the roof of the church, landscape on the church grounds and take out a platform that was a hazard in our fellowship hall.
+These past couple of months have seen these words from Ecclesiastes in action. ![Volunteers from Risen Savior building for Shepherd of the Valley Lutheran Church, Navajo, New Mexico](images/5cdd3664-Navajo_Volunteers-Building_Risen-Savior.jpg)Pictured is the team from Risen Savior Lutheran Church in Wichita, Kansas (and Jeremiah Trephibio, a member of Shepherd of the Valley) that visited Navajo from Sept. 18 - 22. In the photo they are building a foundation for a home for one of our church members. Incredibly, in that amount of time they were able to complete that project as well as repair the roof of the church, landscape on the church grounds and take out a platform that was a hazard in our fellowship hall.
 
 They also assisted with worship sharing music and a skit. What a great blessing it was to have them! We were also blessed earlier in the month with a visit from Sue Gebel and Rosemary Sternbeck, two of our co-workers from Lutheran Indian Ministries, who came to see first-hand the ministry and brainstorm ideas for encouraging growth and advancing God's Kingdom.
 
@@ -38,6 +38,6 @@ We also made the first step in our goal of training leaders. Timothy Yazzie *(Na
 * The three families who lost loved ones, that God will comfort them with Jesus' victory over death.
 * Continued growth for Shepherd of the Valley Lutheran Church.
 
-![Volunteers from Risen Savior with children at Shepherd of the Valley Lutheran Church, Navajo, New Mexico](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c104acd3cdb4a44416/1451491777597/Navajo_Volunteers-with-Children_Risen-Savior.jpg)
+![Volunteers from Risen Savior with children at Shepherd of the Valley Lutheran Church, Navajo, New Mexico](images/0885f3e8-Navajo_Volunteers-with-Children_Risen-Savior.jpg)
 
 [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)

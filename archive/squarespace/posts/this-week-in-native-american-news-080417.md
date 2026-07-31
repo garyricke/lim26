@@ -5,7 +5,7 @@ date: 2017-08-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-080417
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf78570b9a143229ee05/1772735876240/1920.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777529054-YRPQY84T22N8WJYDVRTX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777531457-A66P66A34KP4Z1LXSU0M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777532800-61U4V6RGUKDCFEA1GOEA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777533660-ZET6OJEKCIPJDLICYJW2/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777534881-AYF6QAT3RRQHYC0Q0RLP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777535942-8DOS2WRCKBSHS7OKA37C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777536990-QJNSO9Z01RMIH6W10VFG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777538479-YWTQOUTRC6GAVO5BGHHY/image-asset.jpeg"]
+images: ["images/f4fc8d75-1920.jpg", "images/1cdb3705-image-asset.jpeg", "images/b5ababb9-image-asset.jpeg", "images/b850c5a9-image-asset.jpeg", "images/10571b8f-image-asset.jpeg", "images/7cf33e04-image-asset.jpeg", "images/2745b8ec-image-asset.jpeg", "images/19b66fcf-image-asset.jpeg", "images/b831f0ab-image-asset.jpeg"]
 ---
 # This Week in Native American News (8/4/17): Aspiring Teens, Alaskan Cruises, and Public Art
 
@@ -13,7 +13,7 @@ Aug 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777529054-YRPQY84T22N8WJYDVRTX/image-asset.jpeg)
+![](images/1cdb3705-image-asset.jpeg)
 
 # August 4, 2017
 
@@ -37,7 +37,7 @@ The atmosphere at Red Cloud primes students to be both community prodigies and t
 
 ## Scientists Seek Alaska Natives to Learn About Whales
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777531457-A66P66A34KP4Z1LXSU0M/image-asset.jpeg)
+![](images/b5ababb9-image-asset.jpeg)
 
 Photo from article: The Atlantic
 
@@ -51,7 +51,7 @@ These trips to the Arctic have made possible a series of uniquely intimate studi
 
 ## Alaska Native-Owned Cruise Company Shows Visitors the True Alaska
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777532800-61U4V6RGUKDCFEA1GOEA/image-asset.jpeg)
+![](images/b850c5a9-image-asset.jpeg)
 
 Photo from article: [Travel Weekly](http://www.travelweekly.com/Cruise-Travel/Native-insights-Alaskan-Dream-Cruises-sailing)
 
@@ -67,7 +67,7 @@ Alaskan Dream Cruises strives to provide guests with a "true Alaska experience" 
 
 ## Where are all the Indians?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777533660-ZET6OJEKCIPJDLICYJW2/image-asset.jpeg)
+![](images/10571b8f-image-asset.jpeg)
 
 Photo from article: [VOA News](https://www.voanews.com/a/why-arent-more-native-americans-members-of-congress/3971053.html)
 
@@ -91,7 +91,7 @@ Many Native Americans sense they have little to gain by participating in the pol
 
 ## Honolulu Murals Portray Local History
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777534881-AYF6QAT3RRQHYC0Q0RLP/image-asset.jpeg)
+![](images/7cf33e04-image-asset.jpeg)
 
 Photo from article: Civil Beat
 
@@ -105,13 +105,13 @@ Plans call for all 21 rail stations to incorporate artwork both [inside the stat
 
 ### [Read the full story here](http://www.civilbeat.org/2017/08/honolulu-rail-art-celebrates-hawaiian-culture/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777535942-8DOS2WRCKBSHS7OKA37C/image-asset.jpeg)
+![](images/2745b8ec-image-asset.jpeg)
 
 ## Meanwhile, in Vancouver...
 
 ### [Downtown mural series shares the stories of Vancouver's Indigenous people at The Drum Is Calling fest](http://www.straight.com/arts/941641/photos-downtown-mural-series-shares-stories-vancouvers-indigenous-people-drum-calling)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777536990-QJNSO9Z01RMIH6W10VFG/image-asset.jpeg)
+![](images/19b66fcf-image-asset.jpeg)
 
 ## But if you're looking for something older...
 
@@ -121,7 +121,7 @@ Plans call for all 21 rail stations to incorporate artwork both [inside the stat
 
 ## Sometimes we all need a wake-up call. This is why we are doing ministry in Hawaii:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777538479-YWTQOUTRC6GAVO5BGHHY/image-asset.jpeg)
+![](images/b831f0ab-image-asset.jpeg)
 
 Picture from article: [Civil Beat](http://www.civilbeat.org/2017/08/waianae-a-community-under-threat/)
 

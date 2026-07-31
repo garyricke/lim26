@@ -5,7 +5,7 @@ date: 2020-06-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-making-of-spiritual-warrior-week-1-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afee1d69433ba0fbfd6c/1748628700852/spiritual+warrior.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773552348-OAE6IA7NAEKLB7GS395I/image-asset.png"]
+images: ["images/1a08c3d2-spiritual_warrior.png", "images/d6d305e6-image-asset.png"]
 ---
 # The Making of Spiritual Warrior - Week 1 - Monday Morning Devotions
 
@@ -15,7 +15,7 @@ Jun 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773552348-OAE6IA7NAEKLB7GS395I/image-asset.png)
+![](images/d6d305e6-image-asset.png)
 
 Good morning and welcome to Daily Chapel - today's focus is on 'The Making of a Spiritual Warrior.' The training to make someone into a Spiritual Warrior is not a one-time event, nor is it a program to be completed. In other words, it is not merely a matter of being baptized, nor is it having completed a confirmation class or an adult instruction program. No, it is a cyclical ongoing and lifelong endeavor.
 

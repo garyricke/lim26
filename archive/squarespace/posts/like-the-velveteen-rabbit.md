@@ -5,7 +5,7 @@ date: 2016-09-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/like-the-velveteen-rabbit
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5a39c4d201dc3d035aa/1748628700852/img_4636.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779109999-1YXZMESTVEBA3W64WSS9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779113419-D8NHKOK8HP0TJT1KE0BY/image-asset.png"]
+images: ["images/da24a849-img_4636.png", "images/7020715c-image-asset.jpeg", "images/56787907-image-asset.png"]
 ---
 # Like the Velveteen Rabbit: We Lost Our Shine & We Became Real
 
@@ -15,7 +15,7 @@ Sep 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779109999-1YXZMESTVEBA3W64WSS9/image-asset.jpeg)
+![](images/7020715c-image-asset.jpeg)
 
 Bob and Deon Prue with their sons, Tre and Jorey
 
@@ -105,7 +105,7 @@ We are the newest and youngest members of Lutheran Indian Ministries.  They hav
 
 We, at Lutheran Indian Ministries, allow our hearts to be broken for our people.  Grief and pain are the points where we connect.  This much grief and pain can become overwhelming! Satan is constantly attacking Lutheran Indian Ministries and its staff, thinking this is the way he is going to keep these Jesus-loving, grief-stricken, pain-bearing, storytelling-Natives down.  But he couldn’t be more wrong!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779113419-D8NHKOK8HP0TJT1KE0BY/image-asset.png)
+![](images/56787907-image-asset.png)
 
 Our vision is to raise up native leaders to share the gospel with their own people while helping them to heal from their own trauma and wounds. You can bet that we all stand behind this vision and find ourselves on the battlefield, each and every day, fighting for our people and for Jesus, and there's no place we'd rather be.
 

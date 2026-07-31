@@ -5,7 +5,7 @@ date: 2020-12-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-12252020-1j1Kw
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae7ccee0401ce28b226c/1748628700852/Yellow+and+Green+Snowflakes+Christmas+Art+Card+%282%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773181437-LIAQ6JZSRVDYVCPA6ZBR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773182737-Q3CD97FAM4WAM9759IZ5/image-asset.jpeg"]
+images: ["images/316b9e12-Yellow_and_Green_Snowflakes_Christmas_Art_Card__2_.jpg", "images/a7571366-image-asset.jpeg", "images/ef846c85-image-asset.jpeg"]
 ---
 # This Week in Native American News (12/25/2020): Merry Christmas!
 
@@ -13,13 +13,13 @@ Dec 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773181437-LIAQ6JZSRVDYVCPA6ZBR/image-asset.jpeg)
+![](images/a7571366-image-asset.jpeg)
 
 # December 25, 2020 - Merry Christmas!
 
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773182737-Q3CD97FAM4WAM9759IZ5/image-asset.jpeg)
+![](images/ef846c85-image-asset.jpeg)
 
 The tribe's water scarcity is a bigger issue during the COVID-19 pandemic, when people have to wash their hands and sanitize more frequently.
 

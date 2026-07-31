@@ -5,7 +5,7 @@ date: 2020-02-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-02072020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b113981ba40c2a99c991/1748628700852/GettyImages-1191906892.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773843961-Y7U8GAZBSHJR23MGKDQ6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773844720-GKKU9VXVRZ40AD4YBQX1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773846518-N62T4MR5FO9TZ0Q0KRZA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773848499-N7CXJLAU5UHV7827W7DA/image-asset.jpeg"]
+images: ["images/e31ef6e3-GettyImages-1191906892.jpg", "images/04ddd391-image-asset.jpeg", "images/7f27bcf5-image-asset.jpeg", "images/72dd9308-image-asset.jpeg", "images/6abd7f88-image-asset.jpeg"]
 ---
 # This Week in Native American News (2/7/2020): The Afro-Indigenous, the Importance of Powwows, and the Mayors of Shiprock
 
@@ -13,7 +13,7 @@ Feb 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773843961-Y7U8GAZBSHJR23MGKDQ6/image-asset.jpeg)
+![](images/04ddd391-image-asset.jpeg)
 
 # February 7, 2020 - Happy Black History Month!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Black History Month: The Afro-Indigenous—Native Americans with African ancestry
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773844720-GKKU9VXVRZ40AD4YBQX1/image-asset.jpeg)
+![](images/7f27bcf5-image-asset.jpeg)
 
 Radmilla Cody, a Diné and African American Grammy-nominated, Nammy-winning singer from the Navajo Nation.
 
@@ -35,7 +35,7 @@ Crispus Attucks is a name most people learned in American History class. Attucks
 
 ## WHY POWWOWS ARE A MUST FOR AMERICANS
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773846518-N62T4MR5FO9TZ0Q0KRZA/image-asset.jpeg)
+![](images/72dd9308-image-asset.jpeg)
 
 United Tribes Technical College International Powwow. Bismarck, North Dakota. SOURCE: GETTY IMAGES
 
@@ -51,7 +51,7 @@ A cultural rather than a ceremonial gathering, powwows are held all over North A
 
 ## A Childhood Chemistry Set Helped Make Tara Gomez a Winemaker
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773848499-N7CXJLAU5UHV7827W7DA/image-asset.jpeg)
+![](images/6abd7f88-image-asset.jpeg)
 
 Tara Gomez of Kitá Vineyards/Photo by Benny Haddad
 

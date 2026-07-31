@@ -5,7 +5,7 @@ date: 2015-06-01
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/washingtonolympic-peninsula/hope-house-backpack-drive
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44500/1451491778172/Olympic-Peninsula_Hope-House-Backpacks.jpg"]
+images: ["images/62aadd68-Olympic-Peninsula_Hope-House-Backpacks.jpg"]
 ---
 # Hope House Backpack Drive
 
@@ -26,7 +26,7 @@ Each year, the Benzlers ask Olympic Peninsula congregations and others to collec
 
 Members of the [LWML Washington-Alaska District](http://wa-aklwml.org/), Mount Baker Zone have already donated backpacks, as well [Faith Lutheran Church in Sequim, Washington](http://www.flcsequim.org/). Other local churches plan to collect backpacks during vacation Bible school this summer. “So far,” Cathy said, “we have 26 backpacks, and they are all really nice! Even high-schoolers will feel confident carrying these.”
 
-![Olympic Peninsula Hope House Backpack Drive](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44500/1451491778172/Olympic-Peninsula_Hope-House-Backpacks.jpg)
+![Olympic Peninsula Hope House Backpack Drive](images/62aadd68-Olympic-Peninsula_Hope-House-Backpacks.jpg)
 
 The Benzlers collect and often purchase canned goods and fresh produce to help supplement the physical needs of Natives on the Lower Elwha Reservation, in Neah Bay and surrounding Native communities. Local supporters follow a list of monthly items that Hope House collects to supplement the needs of Native residents. Women’s groups and others also provide handmade quilts and prayer shawls, knitted caps, gloves and scarves and other winter wear.
 

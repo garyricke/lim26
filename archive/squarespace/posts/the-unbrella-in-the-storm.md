@@ -5,7 +5,7 @@ date: 2016-06-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-unbrella-in-the-storm
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c922810d93171555ca10/1748628700852/The+LORD+is+my+strength+and+shield.+I+trust+him+with+all+my+heart.+He+helps+me%2C+and+my+heart+is+filled+with+joy.+I+burst+out+in+songs+of+thanksgiving.+Psalm+28-7+%28NLT%29+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780004087-G9KVN4M0DB1VQJDM4VFA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780008206-8HALST524Q1014L1MPPI/image-asset.png"]
+images: ["images/5513177d-The_LORD_is_my_strength_and_shield._I_trust_him_with_all_my_heart._He_helps_me__and_my_heart_is_filled_with_joy._I_burst", "images/ef07322b-image-asset.jpeg", "images/293f76de-image-asset.png"]
 ---
 # The Umbrella in the Storm-Monday Devotion
 
@@ -13,11 +13,11 @@ Jun 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780004087-G9KVN4M0DB1VQJDM4VFA/image-asset.jpeg)
+![](images/ef07322b-image-asset.jpeg)
 
 # The Umbrella in the Storm
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780008206-8HALST524Q1014L1MPPI/image-asset.png)
+![](images/293f76de-image-asset.png)
 
 Our ministry, Haskell LIGHT, is located at the Haskell Indian Nations University in Lawrence, Kansas. We have a somewhat transient fellowship, but we also have a core group that regularly attends services and events, plus a variety of students who filter in and out of our doors, and others still who we meet on campus and have yet to step into the Haskell LIGHT House.
 

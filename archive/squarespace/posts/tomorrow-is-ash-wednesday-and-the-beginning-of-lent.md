@@ -5,7 +5,7 @@ date: 2017-02-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/tomorrow-is-ash-wednesday-and-the-beginning-of-lent
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1e88eead250d7bc8a28/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778153773-IZZ6FBMJQNNV0YVB4XSY/image-asset.jpeg"]
+images: ["images/b1a2d8ff-1748628700852", "images/1a1e8e37-image-asset.jpeg"]
 ---
 # Lent Begins Tomorrow
 
@@ -13,7 +13,7 @@ Feb 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778153773-IZZ6FBMJQNNV0YVB4XSY/image-asset.jpeg)
+![](images/1a1e8e37-image-asset.jpeg)
 
 Greetings!
 

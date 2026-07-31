@@ -5,7 +5,7 @@ date: 2016-03-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-power-of-faith-in-a-hospital-room-bringing-a-generation-of-natives-to-christ
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf3891b66421eb100658/1748628700852/IMG_6293.jpg"]
+images: ["images/9186d259-IMG_6293.jpg"]
 ---
 # The Power of Faith in a Hospital Room: Bringing a Generation of Natives to Christ
 

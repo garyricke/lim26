@@ -5,7 +5,7 @@ date: 2019-12-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-seeing-god-friday-december-13
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b17f62aeae08e1fd4634/1748628700852/expected.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773952810-LS5JV2IYDWTYLPM559PR/image-asset.png"]
+images: ["images/be8406d4-expected.jpg", "images/be8927fb-image-asset.png"]
 ---
 # Advent: Seeing God - Friday, December 13
 
@@ -13,7 +13,7 @@ Dec 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773952810-LS5JV2IYDWTYLPM559PR/image-asset.png)
+![](images/be8927fb-image-asset.png)
 
 ### And John, calling to two of his disciples to him, sent them to the Lord saying, “Are you the one who is to come, or shall we look for another?”
 

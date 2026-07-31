@@ -5,7 +5,7 @@ date: 2016-03-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/a-follow-up-to
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf49100d7b310e2a5216/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781579052-AO2BL8R9HPIHK9I2QOQ6/image-asset.jpeg"]
+images: ["images/aeabe5a9-1748628700852", "images/18f3474d-image-asset.jpeg"]
 ---
 # The Joy and The Action: A follow up to the "Don't Give Up" Devotion
 
@@ -37,7 +37,7 @@ And so, we act:
 
 [Tim Norton](http://www.lutheranindianministries.org/news/new-mexiconavajo/summer-events-in-navajo) is creating an after school art program on the Navajo Nation, where the education system has been under scrutiny.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781579052-AO2BL8R9HPIHK9I2QOQ6/image-asset.jpeg)
+![](images/18f3474d-image-asset.jpeg)
 
 [devotion](/news-notes/tag/devotion)
 

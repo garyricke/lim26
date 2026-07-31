@@ -5,7 +5,7 @@ date: 2017-03-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-thursday-march-23
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c17c35c9066700e2070a/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778045494-BJKKWXS0H4J6ZQNDL8SC/image-asset.png"]
+images: ["images/c44392ab-2017_lent_cover.jpg", "images/5b5f1583-image-asset.png"]
 ---
 # Read & Reflect: Thursday, March 23
 
@@ -13,7 +13,7 @@ Mar 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778045494-BJKKWXS0H4J6ZQNDL8SC/image-asset.png)
+![](images/5b5f1583-image-asset.png)
 
 ## Read: [1 John 2:3-6](https://www.bible.com/bible/111/1jn.2.3-6)
 

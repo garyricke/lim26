@@ -5,7 +5,7 @@ date: 2017-03-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/we-will-overcome-second-sunday-in-lent-march-12
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1a8b382b13bb769b5a2/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778089458-8Z5F5IZJBCSYQ1P2DVCT/image-asset.jpeg"]
+images: ["images/28898432-2017_lent_cover.jpg", "images/12706b78-image-asset.jpeg"]
 ---
 # We Will Overcome: Second Sunday in Lent, March 12
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## For everyone born of God overcomes the world.  This is the victory that has overcome the world, even our faith. 1 John 5:4 (NIV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778089458-8Z5F5IZJBCSYQ1P2DVCT/image-asset.jpeg)
+![](images/12706b78-image-asset.jpeg)
 
 This past year has not been one of my better years.  I was diagnosed with prostate cancer, and by the time it was discovered, it had already spread to the bone.  When the oncologist told me it was terminal, my first reaction was anger.  I didn’t want to accept the fact I wouldn’t be healed from this disease.  I asked the doctor if he had seen any miracles of people with this same type of cancer being cured, and he said he had only seen two people in whom the cancer had completely disappeared.
 

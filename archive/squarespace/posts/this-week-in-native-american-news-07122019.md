@@ -5,7 +5,7 @@ date: 2019-07-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-07122019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2d8b70da5601ed94486/1748628700852/image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774297338-96ICEWG7KLCGH2Q7YS5W/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774298284-4AAQWRV7DQKMNQPCUOWZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774300012-KS6C4LYM0RV2CLEECRUQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774301944-DQIC63NU3HKCND7BOQ32/image-asset.jpeg"]
+images: ["images/08c41c7f-image.jpg", "images/4de2a8af-image-asset.jpeg", "images/1a505d82-image-asset.jpeg", "images/1d871dc3-image-asset.jpeg", "images/6ac0893b-image-asset.jpeg"]
 ---
 # This Week in Native American News (7/12/19): Changing Bills, Unknown Artists, and Native Homeless
 
@@ -13,7 +13,7 @@ Jul 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774297338-96ICEWG7KLCGH2Q7YS5W/image-asset.jpeg)
+![](images/4de2a8af-image-asset.jpeg)
 
 # July 12, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Proposal would repeal US laws that hurt Native Americans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774298284-4AAQWRV7DQKMNQPCUOWZ/image-asset.jpeg)
+![](images/1a505d82-image-asset.jpeg)
 
 Leaders of Oklahoma-based Native American tribes are praising a proposal to repeal unenforced federal laws that discriminate against Native Americans.
 
@@ -37,7 +37,7 @@ Among laws the measure would repeal is one that allows for the forced removal of
 
 ## Professor reckons with his family’s history in a study of his talented, if eccentric, relative’s art
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774300012-KS6C4LYM0RV2CLEECRUQ/image-asset.jpeg)
+![](images/1d871dc3-image-asset.jpeg)
 
 Philip Deloria’s family had never taken his eccentric great-aunt Mary Sully’s art seriously. He remembered thinking, back when he was a kid, that her pencil drawings were “elaborate doodles,” judging them “cool, but weird.” [Deloria](https://news.harvard.edu/gazette/story/2018/02/harvard-welcomes-first-tenured-professor-in-native-american-history/) first unpacked them with his mom in the 1970s, and though he carried three favorites with him as he moved along in his life, the full set of drawings were not given another look until two decades later.
 
@@ -51,7 +51,7 @@ In his new book, “Becoming Mary Sully: Toward an American Indian Abstract,” 
 
 ## How Albuquerque Hopes to Meet the Unique Needs of Urban Native Americans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774301944-DQIC63NU3HKCND7BOQ32/image-asset.jpeg)
+![](images/6ac0893b-image-asset.jpeg)
 
 In Albuquerque, Native Americans account for about 4% of the population, yet they make up 44% of the city’s homeless population, according to the 2017 Albuquerque Point in Time Count Report.
 

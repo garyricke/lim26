@@ -5,7 +5,7 @@ date: 2017-02-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/being-used-by-god-truth-6-seek-to-please-god-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c21b4d725316ea64d686/1748628700852/image-712.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778204122-1EZDZIQ9ZN1FR6NUA9AE/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778205192-KBVC5GLMIOHO2FHUL3GV/image-asset.jpeg"]
+images: ["images/4288910c-image-712.jpg", "images/ec115125-image-asset.png", "images/da3a7fff-image-asset.jpeg"]
 ---
 # Being Used by God, Tip #6: Seek to Please God - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Feb 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778204122-1EZDZIQ9ZN1FR6NUA9AE/image-asset.png)
+![](images/ec115125-image-asset.png)
 
 You cannot earn your salvation by doing good, but our actions are the evidence of a life of faith and the piece of our faith we can show to others, inspiring them to seek Jesus.
 
@@ -29,7 +29,7 @@ To live a life seeking to please God involves a complete U-turn, away from the s
 
 (This series is based on a daily devotion from Vicar Nicky Gumbel's "Bible in One Year" Reading Plan. Need to start at the beginning? [Read the Introduction here.](https://www.lutheranindianministries.org/news/being-used-by-god))
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778205192-KBVC5GLMIOHO2FHUL3GV/image-asset.jpeg)
+![](images/da3a7fff-image-asset.jpeg)
 
 [devotion](/news-notes/tag/devotion)[being used by god](/news-notes/tag/being+used+by+god)
 

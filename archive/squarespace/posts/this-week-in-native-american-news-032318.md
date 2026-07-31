@@ -5,7 +5,7 @@ date: 2018-03-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-032318
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbc3ff37c7283943ff2d/1748628700852/011118_ahtone_031_2500-1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776580469-D9MU2F25C7VZMWLXRR1H/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776582186-KQ3L1KBDTUQ1CPRS184T/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776583275-AD7R9ACEKCPTJETU1NT7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776584362-RM4DVZLLXQWE241OXN3X/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776585391-TPE6YGPP0MXMI6D2Z4K3/image-asset.jpeg"]
+images: ["images/3d6bdea6-011118_ahtone_031_2500-1.jpg", "images/50ccf44e-image-asset.jpeg", "images/1a8dfc0c-image-asset.jpeg", "images/fc3910fd-image-asset.jpeg", "images/a6daee87-image-asset.jpeg", "images/cf80b8ea-image-asset.jpeg"]
 ---
 # This Week in Native American News (3/23/18): stereotypes, fake art, and Disney
 
@@ -13,7 +13,7 @@ Mar 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776580469-D9MU2F25C7VZMWLXRR1H/image-asset.jpeg)
+![](images/50ccf44e-image-asset.jpeg)
 
 # March 23, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Battling Stereotypes
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776582186-KQ3L1KBDTUQ1CPRS184T/image-asset.jpeg)
+![](images/1a8dfc0c-image-asset.jpeg)
 
 “I come from a long line of people who have documented our time and our community,” Ahtone said. “My work is a continuation of their work. I’m not idealistic enough to think that I can change the world, but I know I’ll be doing my part if I keep doing what I do and help others do a better job in covering Indian Country.” Jon Chase/Harvard Staff Photographer
 
@@ -41,7 +41,7 @@ Ahtone’s guidelines will be based on an internal manual that he developed as h
 
 ## How investigators used invisible ink to uncover art fraud
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776583275-AD7R9ACEKCPTJETU1NT7/image-asset.jpeg)
+![](images/fc3910fd-image-asset.jpeg)
 
 A piece of jewelry advertised on the Facebook page for Al Zuni Global Jewelry Wholesale, which stands accused of manufacturing counterfeit Native American goods in the Philippines to import and illegally sell in the US. Photo courtesy of Al Zuni Global Jewelry Wholesale.
 
@@ -55,7 +55,7 @@ Law enforcement is finally cracking down on the scourge of counterfeit Native Am
 
 ## The Moana Effect: Finding Authenticity at Disney
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776584362-RM4DVZLLXQWE241OXN3X/image-asset.jpeg)
+![](images/a6daee87-image-asset.jpeg)
 
 The storytelling begins when you walk into Aulani's open-air lobby and are greeted not just with a flower lei but by a striking 200-foot mural painted by Hawaiian artist Martin Charlot, one of more than 80 local artists whose work is displayed across the resort.
 
@@ -71,7 +71,7 @@ But at Aulani, Disney's resort on Oahu's western shore, between breakfast with M
 
 ## How culture shapes your view of the natural world
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776585391-TPE6YGPP0MXMI6D2Z4K3/image-asset.jpeg)
+![](images/cf80b8ea-image-asset.jpeg)
 
 Children of the Menominee Nation in Wisconsin in 2008. *Credit: Steven L. Raymer *Getty Images**
 

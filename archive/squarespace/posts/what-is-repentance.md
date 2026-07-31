@@ -5,7 +5,7 @@ date: 2017-10-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-is-repentance
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bedb8eead250d7bbfa91/1748628700852/HEADER-repentance1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777372101-K03DL2VYSDGX5DJB3VFQ/image-asset.jpeg"]
+images: ["images/20486f21-HEADER-repentance1.jpg", "images/87f5fbda-image-asset.jpeg"]
 ---
 # What is Repentance? (What do Lutherans Believe?: Part 5)
 
@@ -15,7 +15,7 @@ Oct 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777372101-K03DL2VYSDGX5DJB3VFQ/image-asset.jpeg)
+![](images/87f5fbda-image-asset.jpeg)
 
 This is a seven-week devotion by Pastor Ricky Jacob, of Winnebago, Nebraska.  
 (Read the full series here)

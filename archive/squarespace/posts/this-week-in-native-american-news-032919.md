@@ -5,7 +5,7 @@ date: 2019-03-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-032919
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b5c8a8416125af4f544e/1748628700852/merlin_152495541_69086a91-9740-42de-b7c7-c8e3d373f16b-superJumbo.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775050142-650Z671B5S3S9SPG3FX0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775052189-7KMXK9DG0873SL0JOH45/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775053231-70ZWSXTWVDFQQ02IBHRE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775069288-TW80HG0IZNCTOXAH4759/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775070182-NXI645BPLCGH1RDQ9Z6K/image-asset.jpeg"]
+images: ["images/b62a4053-merlin_152495541_69086a91-9740-42de-b7c7-c8e3d373f16b-superJumbo.jpg", "images/b5e4869c-image-asset.jpeg", "images/efb8b04a-image-asset.jpeg", "images/9cb918dd-image-asset.jpeg", "images/9c8606ca-image-asset.jpeg", "images/7bce008e-image-asset.jpeg"]
 ---
 # This Week in Native American News (3/29/19): Testing, Flooding, and Hoop Dancing
 
@@ -13,7 +13,7 @@ Mar 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775050142-650Z671B5S3S9SPG3FX0/image-asset.jpeg)
+![](images/b5e4869c-image-asset.jpeg)
 
 # March 29, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Southwest Alaska village gets running water for the first time
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775052189-7KMXK9DG0873SL0JOH45/image-asset.jpeg)
+![](images/efb8b04a-image-asset.jpeg)
 
 *ANTHC crews prepare to bury water lines in Eek on February 20, 2019. (Anna Rose MacArthur / KYUK)*
 
@@ -41,7 +41,7 @@ The community of Eek, population 474, is working with the Alaska Native Tribal H
 
 ## Overcoming Stigma: The treatment and prevention of HIV in Indian Country
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775053231-70ZWSXTWVDFQQ02IBHRE/image-asset.jpeg)
+![](images/9cb918dd-image-asset.jpeg)
 
 Half of all new HIV cases occurred in only 48 counties in 2016 and 2017, Washington, D.C., and San Juan, Puerto Rico. A lot of those counties have higher populations of Native communities like Maricopa County, Arizona.
 
@@ -57,7 +57,7 @@ Since Congress appropriates funding, not the president, the IHS is now hoping Co
 
 ## ‘A State of Emergency’: Native Americans Stranded for Days by Flooding
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775069288-TW80HG0IZNCTOXAH4759/image-asset.jpeg)
+![](images/9c8606ca-image-asset.jpeg)
 
 The rising floodwaters stopped just sort of the home where Henry Red Cloud and his family rode out the storm, but other buildings on their property including their solar power business were inundated. Credit: Kristina Barker for The New York Times
 
@@ -77,7 +77,7 @@ Such stories are startlingly common these days on the Pine Ridge Indian Reservat
 
 ## Meet the Minneapolis Brothers Rejuvenating Native Hoop Dance with Hip-Hop
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775070182-NXI645BPLCGH1RDQ9Z6K/image-asset.jpeg)
+![](images/7bce008e-image-asset.jpeg)
 
 In hoop dance lore, every time dancers pass through their hoops, they get younger and younger. “So you've got to be careful,” Lumhe “Micco” Sampson jokes. “When you do that too much you'll end up back in first grade and with really tiny limbs.”
 

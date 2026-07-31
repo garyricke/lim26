@@ -5,7 +5,7 @@ date: 2018-12-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/fearing-the-unknown-advent-devotion-wednesday-december-12
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b7713cdc7517f1599892/1748628700852/and-the-angel-said-to-her-do-not-be-afraid-mary-for-you-have-found-favor-wi-esv11918.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775474671-FR4BH5P25RIAYAAHWTC0/image-asset.png"]
+images: ["images/93b6f059-and-the-angel-said-to-her-do-not-be-afraid-mary-for-you-have-found-favor-wi-esv11918.jpg", "images/f34cf5b1-image-asset.png"]
 ---
 # Fearing the Unknown (Advent Devotion) - Wednesday, December 12
 
@@ -15,7 +15,7 @@ Dec 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775474671-FR4BH5P25RIAYAAHWTC0/image-asset.png)
+![](images/f34cf5b1-image-asset.png)
 
 ## But the angel said to her, ‘Do not be afraid, Mary; you have found favor with God. You will conceive and give birth to a son, and you are to call him Jesus.  He will be great and will be called the Son of the Most High.  The Lord God will give him the throne of his father David, and he will reign over Jacob’s descendants forever; his kingdom will never end.’ (Luke 1:30 -33 NIV)
 

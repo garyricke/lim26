@@ -5,7 +5,7 @@ date: 2016-12-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/create-in-me-a-new-heart-december-12
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c45a81715079237f1b95/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778780027-GDRUMHDNK0SJDL4P1EJJ/image-asset.png"]
+images: ["images/7ca32749-2016_Advent_Devotions.png", "images/d38202cd-image-asset.png"]
 ---
 # Create in Me a New Heart: December 12
 
@@ -15,7 +15,7 @@ Dec 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778780027-GDRUMHDNK0SJDL4P1EJJ/image-asset.png)
+![](images/d38202cd-image-asset.png)
 
 ## And I will give you a new heart, and I will put a new spirit in you. I will take out your stony, stubborn heart and give you a tender, responsive heart. Ezekiel 36:26 (NLT)
 

@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/suicide
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781600280-I4CQXZXV2ISDT7CQDD3M/image-asset.jpeg"]
+images: ["images/9235203c-image-asset.jpeg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![4 Things You Can Do To Help With the Native American Suicide Epidemic](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781600280-I4CQXZXV2ISDT7CQDD3M/image-asset.jpeg)](/news-notes/category/qt3o6qud29vozuo5qeb9rnxm971dtf)
+[![4 Things You Can Do To Help With the Native American Suicide Epidemic](images/9235203c-image-asset.jpeg)](/news-notes/category/qt3o6qud29vozuo5qeb9rnxm971dtf)
 
 [News from Brookfield](/news-notes/category/News+from+Brookfield)
 Guest User

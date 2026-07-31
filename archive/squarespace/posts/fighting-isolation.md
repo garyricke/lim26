@@ -5,7 +5,7 @@ date: 2020-08-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/fighting-isolation
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afb887fb27609f6c72be/1748628700852/White+and+Green+Quotes+Book+Literature+Facebook+Cover+%282%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773498816-MFB3LXBEI7DURG0GLSPU/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/3165631b-White_and_Green_Quotes_Book_Literature_Facebook_Cover__2_.png", "images/87622ead-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Fighting Isolation & the loss of culture
 
@@ -13,7 +13,7 @@ Aug 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773498816-MFB3LXBEI7DURG0GLSPU/image-asset.png)
+![](images/87622ead-image-asset.png)
 
 In Indian country, isolation is often a way of life. Traveling through the remote reservations of Montana, the Dakotas, New Mexico, or Arizona, you can drive hundreds of miles, and several hours, before you see a gas station, never mind a motel or a place to eat. Native peoples who chose to live more traditional lives, on land belonging to their ancestors, don’t mind the isolation. They prefer it as their way of life.
 
@@ -60,7 +60,7 @@ Lutheran Indian Ministries
 
 ### P.S. I love to see what the Lord is doing when we allow Him to work through us! I look forward to sharing with you how your gift today will be put to work to impact Native American ministry. Thank you – God bless you!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

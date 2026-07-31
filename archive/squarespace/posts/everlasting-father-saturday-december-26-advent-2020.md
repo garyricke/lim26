@@ -5,7 +5,7 @@ date: 2020-12-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/everlasting-father-saturday-december-26-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae79dd7dfe2ee01cc798/1748628700852/December-Typography-11.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773179510-SAC3K7FAZY9MWI1MD5PL/image-asset.png"]
+images: ["images/35d1ed0a-December-Typography-11.jpg", "images/5f0ffac5-image-asset.png"]
 ---
 # Everlasting Father - Saturday, December 26 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773179510-SAC3K7FAZY9MWI1MD5PL/image-asset.png)
+![](images/5f0ffac5-image-asset.png)
 
 ## For to us a child is born, to us a son is given… And he will be called… Everlasting Father… [Isaiah 9:6](https://my.bible.com/bible/111/ISA.9.6)
 

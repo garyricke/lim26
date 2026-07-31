@@ -5,7 +5,7 @@ date: 2020-06-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/adaptability-ingenuity-in-native-ministry
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afea046d523415cd6d0a/1748628700852/Copy+of+prayer+based+on+the+writings+of+johann+gerhard.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773547640-6TUDU7RKCLR6KAEYUHJB/image-asset.png", "https://www.paypalobjects.com/en_US/i/scr/pixel.gif"]
+images: ["images/b6f4820b-Copy_of_prayer_based_on_the_writings_of_johann_gerhard.png", "images/810856d9-image-asset.png", "images/6ac51f52-pixel.gif"]
 ---
 # Adaptability & Ingenuity in Native Ministry
 
@@ -13,7 +13,7 @@ Jun 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773547640-6TUDU7RKCLR6KAEYUHJB/image-asset.png)
+![](images/810856d9-image-asset.png)
 
 ## “I thank my God every time I remember you, constantly praying with joy in every one of my prayers for all of you, because of your sharing in the Gospel from the first day until now.” Phil. 1:3-4
 
@@ -53,7 +53,7 @@ Executive Director
 
 ### P.S. Though these times seem uncertain, you and I know we have a God who is certain; He is the same yesterday, today, and forever.  As you are able, your gift will help us to continue sharing that message with our Native brothers and sisters. Thank you!
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+![](images/6ac51f52-pixel.gif)
 
 Prefer PayPal? Click Here
 

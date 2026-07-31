@@ -5,7 +5,7 @@ date: 2020-04-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-04172020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b01cdd7dfe2ee01d1a99/1748628700852/https___images.saymedia-content.com_.image_MTcxODAyOTkzMjQ5NzU2MTcy_ap_20100643179108.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773597995-5OCJT9QHWELRF9GQMEWC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773599136-5CLYAXCNC3GM522NHWIW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773600173-PM9XVSEW9HKFWLQKNKE8/image-asset.jpeg"]
+images: ["images/8552ada3-https___images.saymedia-content.com_.image_MTcxODAyOTkzMjQ5NzU2MTcy_ap_20100643179108.jpg", "images/fd2b8b97-image-asset.jpeg", "images/40702efe-image-asset.jpeg", "images/ff8b78bc-image-asset.jpeg"]
 ---
 # This Week in Native American News (4/17/2020): Virtual powwows, virtual author roundtables, and a cute viral video to brighten your day
 
@@ -13,7 +13,7 @@ Apr 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773597995-5OCJT9QHWELRF9GQMEWC/image-asset.jpeg)
+![](images/fd2b8b97-image-asset.jpeg)
 
 # April 17, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### 'Beautiful powwow there'
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773599136-5CLYAXCNC3GM522NHWIW/image-asset.jpeg)
+![](images/40702efe-image-asset.jpeg)
 
 n this photo taken Saturday, April 4, 2020, moderator Whitney Rencountre, a Crow Creek Dakota tribal member, is seen on a screen from Rapid City, S.D., as he talks with Wakiyan Cuny, a Dakota and Lakota tribal member, during a live streamed powwow, in Puyallup, Wash. The largest powwows in the country have been canceled or postponed amid the spread of the coronavirus. Tribal members have found a new outlet online with the Social Distance Powwow. They're sharing videos of colorful displays of culture and tradition that are at their essence meant to uplift people during difficult times. (AP Photo/Elaine Thompson)
 
@@ -51,7 +51,7 @@ Today’s conversation involves a small, diverse and wonderfully smart group of
 
 ### your history (and science) lesson for the day:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773600173-PM9XVSEW9HKFWLQKNKE8/image-asset.jpeg)
+![](images/ff8b78bc-image-asset.jpeg)
 
 ## [European diseases left a genetic mark on Native Americans](https://www.sciencemag.org/news/2016/11/european-diseases-left-genetic-mark-native-americans)
 

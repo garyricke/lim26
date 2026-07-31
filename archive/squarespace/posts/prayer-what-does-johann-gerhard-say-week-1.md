@@ -5,7 +5,7 @@ date: 2019-11-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/prayer-what-does-johann-gerhard-say-week-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1f21d69433ba0fc49a7/1748628700852/prayer+based+on+the+writings+of+johann+gerhard.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774071433-NYFZKQJE05FPB3CV9W0H/image-asset.png"]
+images: ["images/4f83f0b4-prayer_based_on_the_writings_of_johann_gerhard.png", "images/601c2f48-image-asset.png"]
 ---
 # Prayer: What does Johann Gerhard say? (Week 1)
 
@@ -15,7 +15,7 @@ Nov 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774071433-NYFZKQJE05FPB3CV9W0H/image-asset.png)
+![](images/601c2f48-image-asset.png)
 
 Join us as Pastor Ricky Jacob explores the 400-year old writings of Johann Gerhard and his thoughts on prayer.
 

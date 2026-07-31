@@ -5,7 +5,7 @@ date: 2019-07-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/peace-fruit-of-the-spirit-study-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2bcb70da5601ed9413e/1748628700852/IMG_2760.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774270318-FNKD97QJE0DFOTLSQAHD/image-asset.png"]
+images: ["images/99675988-IMG_2760.jpg", "images/07e91e5f-image-asset.png"]
 ---
 # Peace - Fruit of the Spirit Study (Monday Morning Devotions)
 
@@ -15,7 +15,7 @@ Jul 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774270318-FNKD97QJE0DFOTLSQAHD/image-asset.png)
+![](images/07e91e5f-image-asset.png)
 
 ## peace εἰρήνη (91)
 

@@ -5,7 +5,7 @@ date: 2019-03-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/following-him-lent-devotion-thursday-march-14
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b61f7c9bc16a0fbd5e1a/1748628700852/HRT-Lent16-instagram10.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775136955-H9V1MU8UYKRTDHOXN8V1/image-asset.jpeg"]
+images: ["images/cee08113-HRT-Lent16-instagram10.jpg", "images/d7d025ec-image-asset.jpeg"]
 ---
 # Following Him (Lent Devotion) - Thursday, March 14
 
@@ -13,7 +13,7 @@ Mar 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775136955-H9V1MU8UYKRTDHOXN8V1/image-asset.jpeg)
+![](images/d7d025ec-image-asset.jpeg)
 
 # Following Him
 

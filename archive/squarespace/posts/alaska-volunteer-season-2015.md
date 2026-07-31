@@ -5,7 +5,7 @@ date: 2015-05-14
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/alaskainterior/alaska-volunteer-season-2015
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dcf6f5be4a50a85ca4f1/1665785085351/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785079752-HW0F6ELR1ZC2FC9M9M7U/image-asset.jpeg"]
+images: ["images/83b7f2be-1665785085351", "images/beee89b9-image-asset.jpeg"]
 ---
 # Alaska Volunteer Season 2015
 
@@ -24,7 +24,7 @@ Retired pilot Dan Treakle, member of Zion in Fairbanks, shares some of the work 
 
 *"Early on, we worked with the village to repair the mission house and replace the church bell tower. In 2006, four stained-glass windows were flown to Fairbanks for repairs. Over a period of seven years, residents of Tanana raised more than $10,000 to redo the windows and waited seven years for the project.*
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785079752-HW0F6ELR1ZC2FC9M9M7U/image-asset.jpeg)
+![](images/beee89b9-image-asset.jpeg)
 
 Tanana Alaska Stained-Glass Window
 

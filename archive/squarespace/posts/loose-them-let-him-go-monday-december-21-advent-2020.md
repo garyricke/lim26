@@ -5,7 +5,7 @@ date: 2020-12-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/loose-them-let-him-go-monday-december-21-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae9362aeae08e1fc8a48/1748628700852/8539.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773206154-AIUBF4S4PFTBXP8P0LEC/image-asset.png"]
+images: ["images/bb179c7a-8539.jpg", "images/92e79bb5-image-asset.png"]
 ---
 # Loose him & let him go - Monday, December 21 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773206154-AIUBF4S4PFTBXP8P0LEC/image-asset.png)
+![](images/92e79bb5-image-asset.png)
 
 ## Jesus said to them, “Take off the grave clothes and let him go.” [John 11:44](https://my.bible.com/bible/111/JHN.11.44)
 

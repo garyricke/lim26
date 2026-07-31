@@ -5,7 +5,7 @@ date: 2018-12-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/kissed-by-a-prince-advent-devotion-thursday-december-27
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6e89af4ad0956c75245/1748628700852/December-Typography-11.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775339284-2XTZ2NJN3UTWS4D0S3RV/image-asset.png"]
+images: ["images/cf67a3fd-December-Typography-11.jpg", "images/09f60ccc-image-asset.png"]
 ---
 # Kissed by a Prince (Advent Devotion) - Thursday, December 27
 
@@ -15,7 +15,7 @@ Dec 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775339284-2XTZ2NJN3UTWS4D0S3RV/image-asset.png)
+![](images/09f60ccc-image-asset.png)
 
 ## For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace (Isaiah 9:6 ESV)
 

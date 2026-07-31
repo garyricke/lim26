@@ -5,7 +5,7 @@ date: 2018-03-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/moving-toward-you-lent-friday-march-9
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc1509a0b66f51f1696e/1748628700852/006d3267d340ca24d71b8d8db6c4ebaa.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776662807-DDIU84L72VZ41IXFEG2O/image-asset.png"]
+images: ["images/8e82043b-006d3267d340ca24d71b8d8db6c4ebaa.jpg", "images/b60c01e1-image-asset.png"]
 ---
 # Moving Toward You (Lent) - Friday, March 9
 
@@ -15,7 +15,7 @@ Mar 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776662807-DDIU84L72VZ41IXFEG2O/image-asset.png)
+![](images/b60c01e1-image-asset.png)
 
 ### "He will turn the hearts of the fathers to their children and the hearts of the children to their fathers..."   [Malachi 4:6 (ESV)](https://www.bible.com/bible/59/MAL.4.6)
 

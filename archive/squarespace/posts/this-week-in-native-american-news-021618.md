@@ -5,7 +5,7 @@ date: 2018-02-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-021618
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc8e19ed594d3b13a44d/1748628700852/longs-peak-colorado-sunset_h.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776783735-UKX3U47PUX1CNPDG7QZG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776785192-S0IPZAQXVSZFYZ7AJYF4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776786945-N7GY84CJC2XUCDL3F442/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776787789-ZHH5J4VLITF9BH7RBLIQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776789221-2GKKAWIORE03H8BIIMHX/image-asset.jpeg"]
+images: ["images/a748663a-longs-peak-colorado-sunset_h.jpg", "images/233432ff-image-asset.jpeg", "images/a63ae1f6-image-asset.jpeg", "images/e97f5d07-image-asset.jpeg", "images/a1c23939-image-asset.jpeg", "images/cc72f7e7-image-asset.jpeg"]
 ---
 # This Week in Native American News (2/16/18): Re-renaming Mountains and the State of Indian Nations
 
@@ -13,7 +13,7 @@ Feb 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776783735-UKX3U47PUX1CNPDG7QZG/image-asset.jpeg)
+![](images/233432ff-image-asset.jpeg)
 
 # February 16, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Learn About the Native Athletes in the 2018 PyeongChang Winter Olympics
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776785192-S0IPZAQXVSZFYZ7AJYF4/image-asset.jpeg)
+![](images/a63ae1f6-image-asset.jpeg)
 
 Every two years, countries converge on the selected host city and Olympians compete for the gold. The 2018 Winter Olympics are currently being hosted in Pyeongchang, South Korea. Although preliminary research indicates there are no Native American athletes representing the USA this year, there are several First Nations members representing Canada in the 2018 games, and even as these athletes prepare to compete against the best in the world, other athletes are hard at work training for their chance in the Lausanne 2020 Youth Olympics, the Tokyo 2020 Summer Olympics, and the Beijing 2022 Winter Olympics.
 
@@ -31,7 +31,7 @@ Every two years, countries converge on the selected host city and Olympians comp
 
 ## This Native Tribe is Reviving Oklahoma's Rural Economy
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776786945-N7GY84CJC2XUCDL3F442/image-asset.jpeg)
+![](images/e97f5d07-image-asset.jpeg)
 
 Jason Reeves has become the first Native American USDA-certified meat grader. He's a citizen of the Quapaw Nation. | (*Allison Herrera/Courtesy PRI*)
 
@@ -49,7 +49,7 @@ The Quapaw Cattle Company is the latest in a string of tribally owned and operat
 
 ## Solar Microgrid Brings Resilliency
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776787789-ZHH5J4VLITF9BH7RBLIQ/image-asset.jpeg)
+![](images/a1c23939-image-asset.jpeg)
 
 The Chemehuevi microgrid will provide about 85 percent of the community center's energy usage.  
 Photo Credit: GRID Alternatives
@@ -66,7 +66,7 @@ Several years ago, the tribe started looking into solar power, both as a low-cos
 
 ## Giving Mountains Back Their Names
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776789221-2GKKAWIORE03H8BIIMHX/image-asset.jpeg)
+![](images/cc72f7e7-image-asset.jpeg)
 
 “The Enduring Dance,” design proposal by Stefanie Rocknak
 

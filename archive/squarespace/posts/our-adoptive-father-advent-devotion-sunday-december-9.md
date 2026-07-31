@@ -5,7 +5,7 @@ date: 2018-12-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/our-adoptive-father-advent-devotion-sunday-december-9
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b77809335b1eefaf29e0/1748628700852/Galatians-4-4-5.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775481234-1OCDZCUEG8Z3S3N5K4YW/image-asset.png"]
+images: ["images/cb5af42d-Galatians-4-4-5.jpg", "images/128d1791-image-asset.png"]
 ---
 # Our Adoptive Father (Advent Devotion) - Sunday, December 9
 
@@ -15,7 +15,7 @@ Dec 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775481234-1OCDZCUEG8Z3S3N5K4YW/image-asset.png)
+![](images/128d1791-image-asset.png)
 
 ## But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons. (Galatians 4:4-5 ESV)
 

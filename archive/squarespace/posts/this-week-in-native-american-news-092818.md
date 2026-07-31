@@ -5,7 +5,7 @@ date: 2018-09-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-092818
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8005b3de4701de11178/1748628700852/Complex_LaceAndersen1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775617417-NXUGGMQ3507IA2RPYWNQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775618686-VCPT7URGA5DZRIZWJ8FP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775619731-O6YBU7PG9EM9T3UXHZ03/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775620499-CSUZGTLKHU1DTH5HUE0L/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775621297-D9Q7A124UDVX5GCTWCKW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775622673-6YRJ95A2GSJB09P8HNJL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775623421-Q4FLEACTLDO2TEBQBBJZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775624237-CZ2UWJTMIU65ADJA6UDN/image-asset.jpeg"]
+images: ["images/c2c0369c-Complex_LaceAndersen1.jpg", "images/0757d3e2-image-asset.jpeg", "images/a19e88a6-image-asset.jpeg", "images/ef0fb5ae-image-asset.jpeg", "images/5b39ce3f-image-asset.jpeg", "images/62e14b8f-image-asset.jpeg", "images/398e4788-image-asset.jpeg", "images/3a47c7ff-image-asset.jpeg", "images/2ec25e1e-image-asset.jpeg"]
 ---
 # This Week in Native American News (9/28/18): orange shirts, totem poles, and tour guides
 
@@ -13,7 +13,7 @@ Sep 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775617417-NXUGGMQ3507IA2RPYWNQ/image-asset.jpeg)
+![](images/0757d3e2-image-asset.jpeg)
 
 # September 28, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## In honor of Orange Shirt Day: Where are the Indigenous children who never came home?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775618686-VCPT7URGA5DZRIZWJ8FP/image-asset.jpeg)
+![](images/a19e88a6-image-asset.jpeg)
 
 When Yufna Soldier Wolf was a kid, she was made well aware of why her family members only spoke English, and why they dressed the way they did. Her grandfather and other elders used to recount their experiences at boarding schools, where the government sent hundreds of thousands of Indigenous children, from nearly every Indigenous nation within U.S. borders, to unlearn their languages and cultures. “A lot of them were physically abused, verbally abused, sexually abused,” she said.
 
@@ -33,7 +33,7 @@ At the center of the stories were the children who never came home from the Carl
 
 ## The woman who bought a plane and started an airline dedicated to Indigenous women
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775619731-O6YBU7PG9EM9T3UXHZ03/image-asset.jpeg)
+![](images/ef0fb5ae-image-asset.jpeg)
 
 Teara Fraser, the first Indigenous woman to launch her own airline, celebrates in Vacouver on Sep. 21, 2018. Photo by Emilee Gilpin
 
@@ -51,7 +51,7 @@ IskwewAIR will start flying on Mar. 8, 2019 and operate out of the Vancouver Int
 
 ## Seattle moves to replace totem poles with authentic indigenous art
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775620499-CSUZGTLKHU1DTH5HUE0L/image-asset.jpeg)
+![](images/5b39ce3f-image-asset.jpeg)
 
 Groups are working to replace the totem poles in Seattle with authentic indigenous art. (Photo: KIRO7.com)
 
@@ -69,7 +69,7 @@ Robert Spalding has written a new book, "Monumental Seattle: The Story Behind th
 
 ## 'You're not alone': Sharing stories of domestic violence helps community heal
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775621297-D9Q7A124UDVX5GCTWCKW/image-asset.jpeg)
+![](images/62e14b8f-image-asset.jpeg)
 
 Southcentral Foundation in Anchorage, Alaska
 
@@ -89,7 +89,7 @@ STAR—Standing Together Against Rape—reports 75 percent of Alaskans have expe
 
 ## In Poipu, Kauai, a historic Hawaiian village is coming back to life
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775622673-6YRJ95A2GSJB09P8HNJL/image-asset.jpeg)
+![](images/398e4788-image-asset.jpeg)
 
 The four *kii*, or standing stone idols, were installed at Kaneiolouma as a memorial. PHOTO BY LACE ANDERSEN
 
@@ -105,7 +105,7 @@ The land now cleared, the Hui replanted Kaneiolouma with natives: Niihau palms,�
 
 ## In related news…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775623421-Q4FLEACTLDO2TEBQBBJZ/image-asset.jpeg)
+![](images/3a47c7ff-image-asset.jpeg)
 
 ### [Guides believe tribal tourism is answer to getting the story right](https://navajotimes.com/biz/destination-native-america/)
 
@@ -115,7 +115,7 @@ With beauty surrounding him every day, Hanley, from the White Cone Chapter of th
 
 Today, as co-owner of DETOURS American West, Hanley organizes guided tours to natural environments for travelers from across the U.S. and around the world.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775624237-CZ2UWJTMIU65ADJA6UDN/image-asset.jpeg)
+![](images/2ec25e1e-image-asset.jpeg)
 
 ### [Project to highlight Native connection to Route 66](https://www.abqjournal.com/498676/project-to-highlight-native-connection-to-route-66.html)
 

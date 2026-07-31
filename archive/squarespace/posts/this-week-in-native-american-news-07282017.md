@@ -5,7 +5,7 @@ date: 2017-07-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-07282017
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf957d392871aff95b2f/1748628700852/mass-blanket_exercise2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777557726-4BS1D5OR41B1ITR0AALM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777559159-45HQIV414VLJE4S98C26/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777560166-QUSBQMJVGJPQ4VVVCUUC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777561089-4LOLKZFCMN8M351XG6GO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777561951-LB98ER10ULAEJ45IWDVG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777562753-0V6RIJSWH8JOMSOKBEXT/image-asset.jpeg"]
+images: ["images/f55a5073-mass-blanket_exercise2.jpg", "images/bb3bd46b-image-asset.jpeg", "images/65593f88-image-asset.jpeg", "images/b141f056-image-asset.jpeg", "images/b5a275fc-image-asset.jpeg", "images/c13b07e6-image-asset.jpeg", "images/0d09a84e-image-asset.jpeg"]
 ---
 # This Week in Native American News (7/28/17): Education, Mentorship, and Art
 
@@ -13,7 +13,7 @@ Jul 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777557726-4BS1D5OR41B1ITR0AALM/image-asset.jpeg)
+![](images/bb3bd46b-image-asset.jpeg)
 
 # July 28, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Tribe Focuses on Education
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777559159-45HQIV414VLJE4S98C26/image-asset.jpeg)
+![](images/65593f88-image-asset.jpeg)
 
 The Santa Rosa County Creek Indian Tribe Inc. teaches the community about Native Americans’ culture via educational programs, traditional events and a Native American Cultural Center, according to Vice Chief Dan Helms.
 
@@ -37,7 +37,7 @@ The organization was founded in 1990 by descendants of Creeks who live in the ar
 
 ## Training Native Youth to Help Each Other in Crisis
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777560166-QUSBQMJVGJPQ4VVVCUUC/image-asset.jpeg)
+![](images/b141f056-image-asset.jpeg)
 
 Last month, the University of Alaska Fairbanks [announced a $4.25 million](https://www.adn.com/alaska-news/rural-alaska/2017/06/20/new-effort-begins-for-one-of-alaskas-worst-problems-suicide-uaf-gets-4-million-for-research-resilience-hub/) initiative to tackle youth suicide in Alaska Native communities, with a focus on resilience and solutions.
 
@@ -53,7 +53,7 @@ Students also nominate two of their peers who they think are approachable if stu
 
 ### [Read the full story here](https://www.adn.com/arctic/2017/07/09/in-northwest-arctic-a-powerful-tool-in-combating-suicide-training-youths-to-help-each-other/) -OR- [Follow the Youth Leaders on Facebook](https://www.facebook.com/Teck-John-Baker-Youth-Leaders-1713888488822522/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777561089-4LOLKZFCMN8M351XG6GO/image-asset.jpeg)
+![](images/b5a275fc-image-asset.jpeg)
 
 We can't ignore the fact that suicide is an epidemic among Native teens. Learn more:
 
@@ -67,7 +67,7 @@ We can't ignore the fact that suicide is an epidemic among Native teens. Learn m
 
 ## Three Generations of Inuit Women Tell Their Story
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777561951-LB98ER10ULAEJ45IWDVG/image-asset.jpeg)
+![](images/c13b07e6-image-asset.jpeg)
 
 A grandmother, a mother and a daughter, all took up pen and ink to tell their stories
 
@@ -85,7 +85,7 @@ Each artist commands an impressive career and is “a master in her own right,�
 
 ## Teaching Native History with One Simple Activity
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777562753-0V6RIJSWH8JOMSOKBEXT/image-asset.jpeg)
+![](images/0d09a84e-image-asset.jpeg)
 
 The exercise begins with simple materials - just blankets and a script - but it can end with powerful takeaways, and even tears.
 

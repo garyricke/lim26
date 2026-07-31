@@ -5,7 +5,7 @@ date: 2016-03-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/who-is-your-manager-2-peter-13
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf6fd1acf927dd5a9caa/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781617110-M2LBAE07O4XZZ46M474Z/image-asset.jpeg"]
+images: ["images/9c8213e7-1748628700852", "images/f4dec53d-image-asset.jpeg"]
 ---
 # Who is your manager? - 2 Peter 1:3
 
@@ -15,7 +15,7 @@ Mar 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781617110-M2LBAE07O4XZZ46M474Z/image-asset.jpeg)
+![](images/f4dec53d-image-asset.jpeg)
 
 ****Wednesday** **March 16****
 

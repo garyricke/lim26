@@ -5,7 +5,7 @@ date: 2018-01-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/jesus-loves-you-by-rev-ricky-jacob
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd4909a0b66f51f1ac74/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776972532-FKVL94X9CZPNLPT4VOEL/image-asset.jpeg"]
+images: ["images/23ccaf00-1748628700852", "images/c64986df-image-asset.jpeg"]
 ---
 # Jesus Loves You - by Rev. Ricky Jacob
 
@@ -15,7 +15,7 @@ Jan 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776972532-FKVL94X9CZPNLPT4VOEL/image-asset.jpeg)
+![](images/c64986df-image-asset.jpeg)
 
 *“Jesus loves you”* were the first words that I shared with the family and friends of Liana Payer. I was asked a few minutes earlier to offer some words of comfort at Liana’s funeral, on June 6th at the Ho-Chunk Community Center here in Winnebago, Nebraska.
 

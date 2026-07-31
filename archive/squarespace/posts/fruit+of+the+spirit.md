@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/fruit+of+the+spirit
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774184603-9KBE8YQTWXAZTZEXME78/IMG_2760.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774198488-M955B7YBFKP7XJHBGL19/IMG_2760.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774212527-41YGVAQGXSXQ0VSR0FN1/IMG_2760.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774241620-C7XJQPD8U3P3XAMYXMHJ/IMG_2760.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774257449-SWDFY1PWO07YB91WZY0H/IMG_2760.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774272418-4RSJTK1Z355Y2T1RBPWU/IMG_2760.jpg"]
+images: ["images/1eaf0717-IMG_2760.jpg", "images/f931535b-IMG_2760.jpg", "images/a660917d-IMG_2760.jpg", "images/a08b4d20-IMG_2760.jpg", "images/e72075ef-IMG_2760.jpg", "images/e7d2d067-IMG_2760.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Self-Control - Fruit of the Spirit Study (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774184603-9KBE8YQTWXAZTZEXME78/IMG_2760.jpg)](/news-notes/selfcontrol-fruit-of-the-spirit-study-monday-morning-devotions)
+[![Self-Control - Fruit of the Spirit Study (Monday Morning Devotions)](images/1eaf0717-IMG_2760.jpg)](/news-notes/selfcontrol-fruit-of-the-spirit-study-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -73,7 +73,7 @@ Guest User
 
 [Read More](/news-notes/selfcontrol-fruit-of-the-spirit-study-monday-morning-devotions)
 
-[![Gentleness - Fruit of the Spirit Study (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774198488-M955B7YBFKP7XJHBGL19/IMG_2760.jpg)](/news-notes/gentleness-fruit-of-the-spirit-study-monday-morning-devotions)
+[![Gentleness - Fruit of the Spirit Study (Monday Morning Devotions)](images/f931535b-IMG_2760.jpg)](/news-notes/gentleness-fruit-of-the-spirit-study-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -87,7 +87,7 @@ Guest User
 
 [Read More](/news-notes/gentleness-fruit-of-the-spirit-study-monday-morning-devotions)
 
-[![Goodness - Fruit of the Spirit Study (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774212527-41YGVAQGXSXQ0VSR0FN1/IMG_2760.jpg)](/news-notes/goodness-fruit-of-the-spirit-study-monday-morning-devotions)
+[![Goodness - Fruit of the Spirit Study (Monday Morning Devotions)](images/a660917d-IMG_2760.jpg)](/news-notes/goodness-fruit-of-the-spirit-study-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -101,7 +101,7 @@ Guest User
 
 [Read More](/news-notes/goodness-fruit-of-the-spirit-study-monday-morning-devotions)
 
-[![Kindness - Fruit of the Spirit Study (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774241620-C7XJQPD8U3P3XAMYXMHJ/IMG_2760.jpg)](/news-notes/kindness-fruit-of-the-spirit-study-monday-morning-devotions)
+[![Kindness - Fruit of the Spirit Study (Monday Morning Devotions)](images/a08b4d20-IMG_2760.jpg)](/news-notes/kindness-fruit-of-the-spirit-study-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -115,7 +115,7 @@ Guest User
 
 [Read More](/news-notes/kindness-fruit-of-the-spirit-study-monday-morning-devotions)
 
-[![Patience - Fruit of the Spirit Study (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774257449-SWDFY1PWO07YB91WZY0H/IMG_2760.jpg)](/news-notes/patience-fruit-of-the-spirit-study-monday-morning-devotions)
+[![Patience - Fruit of the Spirit Study (Monday Morning Devotions)](images/e72075ef-IMG_2760.jpg)](/news-notes/patience-fruit-of-the-spirit-study-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -129,7 +129,7 @@ Guest User
 
 [Read More](/news-notes/patience-fruit-of-the-spirit-study-monday-morning-devotions)
 
-[![Peace - Fruit of the Spirit Study (Monday Morning Devotions)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774272418-4RSJTK1Z355Y2T1RBPWU/IMG_2760.jpg)](/news-notes/peace-fruit-of-the-spirit-study-monday-morning-devotions)
+[![Peace - Fruit of the Spirit Study (Monday Morning Devotions)](images/e7d2d067-IMG_2760.jpg)](/news-notes/peace-fruit-of-the-spirit-study-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

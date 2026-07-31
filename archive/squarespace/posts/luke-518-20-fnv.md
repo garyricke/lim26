@@ -5,7 +5,7 @@ date: 2017-06-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-518-20-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c0369d6ea636a8af59fb/1748628700852/Several+men+came+carrying+a+paralyzed+man+on+a+sleeping+mat+to+bring+him+to+Creator+Sets+Free+%28Jesus%29%2C+but+they+couldn%27t+get+past+the+crowd.+In+their+desperation%2C+they+climbed+up+to+the+rooftop+and+broke+throu.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777719869-AUBB5HB4D3FYPLZ88J6C/image-asset.png"]
+images: ["images/bbf702bc-Several_men_came_carrying_a_paralyzed_man_on_a_sleeping_mat_to_bring_him_to_Creator_Sets_Free__Jesus___but_they_couldn_t", "images/a5cf3914-image-asset.png"]
 ---
 # Luke 5:18-20 FNV
 
@@ -13,7 +13,7 @@ Jun 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777719869-AUBB5HB4D3FYPLZ88J6C/image-asset.png)
+![](images/a5cf3914-image-asset.png)
 
 For a moment, the great Physician gave place to the Heart-reader; and the Lord spoke those strange, grand words to give comfort and peace to the suffering, silent, sick man.
 

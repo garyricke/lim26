@@ -5,7 +5,7 @@ date: 2017-03-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/with-the-wind
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c15d0a345667073632da/1748628700852/aac147d4b6d2c5b5f6b6d031e545beb4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778016295-3QCQ2UFQ6MXGE5YY0P7T/image-asset.png"]
+images: ["images/406bfeef-aac147d4b6d2c5b5f6b6d031e545beb4.jpg", "images/06d2617b-image-asset.png"]
 ---
 # With the Wind
 
@@ -15,7 +15,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 Daniel would smile at the wind saying, "I wonder where the wind is going. I know where ***I'm*** going - to heaven to live with Jesus."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778016295-3QCQ2UFQ6MXGE5YY0P7T/image-asset.png)
+![](images/06d2617b-image-asset.png)
 
 At age 13, Daniel was losing his battle with cancer but gaining victory in Christ.
 

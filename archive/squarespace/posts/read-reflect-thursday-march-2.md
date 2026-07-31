@@ -5,7 +5,7 @@ date: 2017-03-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-thursday-march-2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1dc4171092d1d877714/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778141310-TUWLTSGXEH6ZZSGA0S1L/image-asset.png"]
+images: ["images/d8b51de0-1748628700852", "images/31fd0b6e-image-asset.png"]
 ---
 # Read & Reflect: Thursday, March 2
 
@@ -13,7 +13,7 @@ Mar 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778141310-TUWLTSGXEH6ZZSGA0S1L/image-asset.png)
+![](images/31fd0b6e-image-asset.png)
 
 ## **Read**: [Joel 2:12-14](https://www.bible.com/bible/111/jol.2.12-14), [Mark 7:6-9](https://www.bible.com/bible/111/mrk.7.6-9)
 

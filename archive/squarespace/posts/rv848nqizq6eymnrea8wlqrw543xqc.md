@@ -5,7 +5,7 @@ date: 2016-07-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/rv848nqizq6eymnrea8wlqrw543xqc
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c89154bcd8313838a014/1748628700852/Spring.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779859066-RMLFDPYSZ6GT020LO6W4/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779861660-NMK0OH9YLVI1QK0TZ9SR/image-asset.png"]
+images: ["images/d0cc4d56-Spring.png", "images/8984a121-image-asset.png", "images/2483e54f-image-asset.png"]
 ---
 # Monday Morning Devotion - Laughing & Crying
 
@@ -15,11 +15,11 @@ Jul 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779859066-RMLFDPYSZ6GT020LO6W4/image-asset.png)
+![](images/8984a121-image-asset.png)
 
 # Laughing & Crying
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779861660-NMK0OH9YLVI1QK0TZ9SR/image-asset.png)
+![](images/2483e54f-image-asset.png)
 
 At our most recent staff retreat, Robin Santos (Tohono O'odham), staff at Haskell LIGHT House stood up and confessed:
 

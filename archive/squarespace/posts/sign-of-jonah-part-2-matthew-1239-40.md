@@ -5,7 +5,7 @@ date: 2016-02-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/sign-of-jonah-part-2-matthew-1239-40
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cfcb0a3e4322b5d9ad62/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781709164-ICM1M52FVGJ513ZW45LM/image-asset.jpeg"]
+images: ["images/edab0ffa-1748628700852", "images/f726abb9-image-asset.jpeg"]
 ---
 # Sign of Jonah, Part 2 - Matthew 12:39-40
 
@@ -15,7 +15,7 @@ Feb 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781709164-ICM1M52FVGJ513ZW45LM/image-asset.jpeg)
+![](images/f726abb9-image-asset.jpeg)
 
 **Friday February 26**
 

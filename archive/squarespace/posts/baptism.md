@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/baptism
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774229418-YRH5ODGX71BAL6H0B9UJ/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774232387-Y16PI4PX49MJZRHA9QK6/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774235361-WOB1X7QNFQH5Z33PWFKR/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774244341-EC864JXSA0X9JJ2CF49M/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774247100-5Z9JTEOCF52FQXMH2KZ2/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774250375-D832Z6F5SCZK0YKZAW3E/Copy+of+Baptism_+Special+delivery.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774253486-CYLHXBSHH8EWKFMR3Y0N/Copy+of+Baptism_+Special+delivery.png"]
+images: ["images/82e3dd39-Copy_of_Baptism__Special_delivery.png", "images/d147332b-Copy_of_Baptism__Special_delivery.png", "images/008bff3f-Copy_of_Baptism__Special_delivery.png", "images/87a07c9b-Copy_of_Baptism__Special_delivery.png", "images/460ba781-Copy_of_Baptism__Special_delivery.png", "images/5c65401f-Copy_of_Baptism__Special_delivery.png", "images/de893821-Copy_of_Baptism__Special_delivery.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Baptism: Special Delivery - Monday Morning Devotions - Week 7](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774229418-YRH5ODGX71BAL6H0B9UJ/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-7)
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 7](images/82e3dd39-Copy_of_Baptism__Special_delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-7)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -75,7 +75,7 @@ Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
 
 [Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-7)
 
-[![Baptism: Special Delivery - Monday Morning Devotions - Week 6](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774232387-Y16PI4PX49MJZRHA9QK6/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-6)
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 6](images/d147332b-Copy_of_Baptism__Special_delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-6)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -91,7 +91,7 @@ Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
 
 [Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-6)
 
-[![Baptism: Special Delivery - Monday Morning Devotions - Week 5](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774235361-WOB1X7QNFQH5Z33PWFKR/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-5)
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 5](images/008bff3f-Copy_of_Baptism__Special_delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-5)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -107,7 +107,7 @@ Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
 
 [Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-5)
 
-[![Baptism: Special Delivery - Monday Morning Devotions - Week 4](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774244341-EC864JXSA0X9JJ2CF49M/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-4)
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 4](images/87a07c9b-Copy_of_Baptism__Special_delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-4)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -123,7 +123,7 @@ Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
 
 [Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-4)
 
-[![Baptism: Special Delivery - Monday Morning Devotions - Week 3](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774247100-5Z9JTEOCF52FQXMH2KZ2/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-3)
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 3](images/460ba781-Copy_of_Baptism__Special_delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-3)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -139,7 +139,7 @@ Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
 
 [Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-3)
 
-[![Baptism: Special Delivery - Monday Morning Devotions - Week 2](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774250375-D832Z6F5SCZK0YKZAW3E/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-2)
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 2](images/5c65401f-Copy_of_Baptism__Special_delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-2)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -155,7 +155,7 @@ Join Pastor Ricky Jacob as he discusses baptism in this 7-week devotion series.
 
 [Read More](/news-notes/baptism-special-delivery-monday-morning-devotions-week-2)
 
-[![Baptism: Special Delivery - Monday Morning Devotions - Week 1](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774253486-CYLHXBSHH8EWKFMR3Y0N/Copy+of+Baptism_+Special+delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-1)
+[![Baptism: Special Delivery - Monday Morning Devotions - Week 1](images/de893821-Copy_of_Baptism__Special_delivery.png)](/news-notes/baptism-special-delivery-monday-morning-devotions-week-1)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

@@ -5,7 +5,7 @@ date: 2020-09-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/strengthsbasedministry
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af81caefb623c84f11a1/1748628700852/Copy+of+Dark+Blue+and+Orange+Nature+Photo+Church+Newsletter+%284%29_Page_1_Image_0001.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773442278-AYI8MC4XZ3N17ZYFL8MV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773445303-KRO7ULDGBA2NCV2GW1L0/image-asset.jpeg"]
+images: ["images/4a9ff47f-Copy_of_Dark_Blue_and_Orange_Nature_Photo_Church_Newsletter__4__Page_1_Image_0001.jpg", "images/58961500-image-asset.jpeg", "images/4b4caaa9-image-asset.jpeg"]
 ---
 # Strengths Based Ministry in Alaska
 
@@ -15,7 +15,7 @@ Sep 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773442278-AYI8MC4XZ3N17ZYFL8MV/image-asset.jpeg)
+![](images/58961500-image-asset.jpeg)
 
 ## Strengths-based ministry - what does that mean?
 
@@ -48,7 +48,7 @@ A few highlights from life and ministry:
 * We learned that the sun does return, just when you need it most! And that summer is short- leaves are already turning and dropping as I write- so get outside and stay out while the sun shines!
 * God is good. All the time!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773445303-KRO7ULDGBA2NCV2GW1L0/image-asset.jpeg)
+![](images/4b4caaa9-image-asset.jpeg)
 
 [Ministry Update](/news-notes/tag/Ministry+Update)
 

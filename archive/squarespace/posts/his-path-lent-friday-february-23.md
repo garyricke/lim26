@@ -5,7 +5,7 @@ date: 2018-02-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/his-path-lent-friday-february-23
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc7745c85a1da50824a0/1748628700852/514a78758ccc5463f0b211a450721b9b--joshua--wallpaper-jaeger.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776760833-05IIHQA89UTQQ6UGF0FP/image-asset.png"]
+images: ["images/44e24a9f-514a78758ccc5463f0b211a450721b9b--joshua--wallpaper-jaeger.jpg", "images/e75aa250-image-asset.png"]
 ---
 # His Path (Lent) - Friday, February 23
 
@@ -13,7 +13,7 @@ Feb 23
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776760833-05IIHQA89UTQQ6UGF0FP/image-asset.png)
+![](images/e75aa250-image-asset.png)
 
 ### "Remember that I have commanded you to be determined and confident! Do not be afraid or discouraged, for I, the Lord your God,  am with you wherever you go."   [Joshua 1:9 (GNTD)](https://www.bible.com/bible/69/JOS.1.9)
 

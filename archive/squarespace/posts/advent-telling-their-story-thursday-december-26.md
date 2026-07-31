@@ -5,7 +5,7 @@ date: 2019-12-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-telling-their-story-thursday-december-26
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b15a9af4ad0956c657ec/1748628700852/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773917378-HH9U58YKO8U89CAA4RC7/image-asset.png"]
+images: ["images/65a228fa-1280x1280.jpg", "images/a0af7376-image-asset.png"]
 ---
 # Advent: Telling Their Story - Thursday, December 26
 
@@ -15,7 +15,7 @@ Dec 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773917378-HH9U58YKO8U89CAA4RC7/image-asset.png)
+![](images/a0af7376-image-asset.png)
 
 ### You make known to me the path of life; in Your presence there is fullness of joy; at Your right hand are pleasures forevermore.
 

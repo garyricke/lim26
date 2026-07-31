@@ -5,7 +5,7 @@ date: 2015-08-11
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/alaskainterior/contagious-faith-at-fairbanks-teen-camp
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dcbf9f775408febf8680/1665785045482/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785024678-CY9VAADUPIVLKGV7DDC8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785025813-70JO7J1Z5IJ0WWTXFWBL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785026790-QFLNRSDAHX6336KOGNNT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785033681-GV8MO7HJJKBHXGINVM08/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785037390-FER5D2UULAE17138TVE4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785039691-5P6MF42ANH7T4C3RY9RG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785040726-GPMJVNEBODNKWVR4RBOB/image-asset.jpeg"]
+images: ["images/856a13be-1665785045482", "images/98caed24-image-asset.jpeg", "images/9997e076-image-asset.jpeg", "images/43c0ff70-image-asset.jpeg", "images/5cf22b7f-image-asset.jpeg", "images/b9e0bec5-image-asset.jpeg", "images/5c1ceb4e-image-asset.jpeg", "images/b3e4ace2-image-asset.jpeg"]
 ---
 # Contagious Faith at Fairbanks Teen Camp
 
@@ -15,7 +15,7 @@ Aug 11
 
 Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785024678-CY9VAADUPIVLKGV7DDC8/image-asset.jpeg)
+![](images/98caed24-image-asset.jpeg)
 
 Fairbanks Teen Camp participants
 
@@ -25,19 +25,19 @@ Fairbanks Teen Camp was a huge success this year! 17 teens from five villages sp
 
 Some of the projects included music lessons offered by Belle Mickelson with [Dancing with the Spirit](http://www.dancingwiththespirit.org/); skin sewing taught by Mabel, an Alaska Native elder from Barrow; and a building project of concrete and a fire ring, which were donated by the Barkdulls and organized by the Robinsons, both of whom are members of our home church at [Zion Lutheran Church, Fairbanks](http://www.zionfairbanks.org/). We also took the teens horseback riding, swimming and shopping and on a tour through the [University of Alaska Fairbanks](https://www.uaf.edu/).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785025813-70JO7J1Z5IJ0WWTXFWBL/image-asset.jpeg)
+![](images/9997e076-image-asset.jpeg)
 
 Skin sewing at Fairbanks Teen Camp
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785026790-QFLNRSDAHX6336KOGNNT/image-asset.jpeg)
+![](images/43c0ff70-image-asset.jpeg)
 
 Jonah proudly shows his finished owl during skin sewing at Fairbanks Teen Camp
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785033681-GV8MO7HJJKBHXGINVM08/image-asset.jpeg)
+![](images/5cf22b7f-image-asset.jpeg)
 
 Fairbanks Teen Camp campfire songs
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785037390-FER5D2UULAE17138TVE4/image-asset.jpeg)
+![](images/b9e0bec5-image-asset.jpeg)
 
 Horseback riding at Fairbanks Teen Camp
 
@@ -45,7 +45,7 @@ Horseback riding at Fairbanks Teen Camp
 
 That evening, **six of the teens expressed their desire to be baptized**. It was truly amazing to see God’s Spirit working in the hearts of these young men and women through His Word. After sharing with them what God promises to us in Baptism and that it is His work, not ours, the next day we took them to the Chena River and there we witnessed God fulfill His very promises for each of them. The joy we feel even now is indescribable.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785039691-5P6MF42ANH7T4C3RY9RG/image-asset.jpeg)
+![](images/5c1ceb4e-image-asset.jpeg)
 
 Fairbanks Teen Camp baptized teens
 
@@ -55,7 +55,7 @@ This week was worth the entire year of preparation and planning for this event. 
 
 *Rosemary* Sternbeck*, Volunteer Coordinator, Interior Alaska Missions and Volunteer Center*
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785040726-GPMJVNEBODNKWVR4RBOB/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4458e/1451491778612/Alaska_Teen-Camp-Comments.jpg?format=original)
+[![](images/b3e4ace2-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4458e/1451491778612/Alaska_Teen-Camp-Comments.jpg?format=original)
 
 Fairbanks Teen Camp 2015
 

@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Alaska%2FAnchorage
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773472854-KW4K83QOVVTVUZF61O5P/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773637527-U3X2TYP1XLNK380KW5IE/1796573_10154749554850201_1924754896643632754_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773770825-VZE0QFS9IS1NFMQ8YGV0/tumblr_pot2g1qq7T1uh8gz5o1_1280.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773814639-P5R7A7Z6F3VSJO75NU1T/b788dcce1fc5f80fc562057c128945c0.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773904736-8UQGGYQ5IUEVWL4MSSUW/CP1829112_l.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773950879-UD1TRLEVPVUD9W4IEDJN/ScriptureArt_-_John8_12_-_2_157x157.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774006869-K9WBLIPI4Y9D7AHKBEXP/70241399_2402810926652280_9194379890915278848_o.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774495357-I9FK6Z2V6CNO7E29DNYB/594e1e3f09bc044f20bed0ebd82c52d4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775104528-91ROZ1CV4SOFQ7QPKP21/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775179382-8R16P0A5UXNE6VPJ8GZ3/a6c88513f0b86c656014cc414b7c81e4--inspirational-scriptures-bible-quotes.jpg"]
+images: ["images/59ec2822-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/00e654f6-1796573_10154749554850201_1924754896643632754_n.jpg", "images/8202b425-tumblr_pot2g1qq7T1uh8gz5o1_1280.png", "images/22cd4b2e-b788dcce1fc5f80fc562057c128945c0.jpg", "images/6e43a960-CP1829112_l.jpg", "images/72a61cc5-ScriptureArt_-_John8_12_-_2_157x157.jpg", "images/e00517ae-70241399_2402810926652280_9194379890915278848_o.jpg", "images/64703557-594e1e3f09bc044f20bed0ebd82c52d4.jpg", "images/cc4ac996-1280x1280.jpg", "images/98429167-a6c88513f0b86c656014cc414b7c81e4--inspirational-scriptures-bible-quotes.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Living By Faith: A Time for Peace - Monday Morning Summer Devotion Series - Week 8](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773472854-KW4K83QOVVTVUZF61O5P/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-8)
+[![Living By Faith: A Time for Peace - Monday Morning Summer Devotion Series - Week 8](images/59ec2822-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-8)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -75,7 +75,7 @@ Maybe you drifted from God in the past months. It’s not too late. You don’t 
 
 [Read More](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-8)
 
-[![Love as I have Loved - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773637527-U3X2TYP1XLNK380KW5IE/1796573_10154749554850201_1924754896643632754_n.jpg)](/news-notes/love-as-i-have-loved)
+[![Love as I have Loved - Lent 2020](images/00e654f6-1796573_10154749554850201_1924754896643632754_n.jpg)](/news-notes/love-as-i-have-loved)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -93,7 +93,7 @@ It is hard to love one another because we are sinful, selfish humans. We look at
 
 [Read More](/news-notes/love-as-i-have-loved)
 
-[![Go with the Wind - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773770825-VZE0QFS9IS1NFMQ8YGV0/tumblr_pot2g1qq7T1uh8gz5o1_1280.png)](/news-notes/go-with-the-wind)
+[![Go with the Wind - Lent 2020](images/8202b425-tumblr_pot2g1qq7T1uh8gz5o1_1280.png)](/news-notes/go-with-the-wind)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -109,7 +109,7 @@ Guest User
 
 [Read More](/news-notes/go-with-the-wind)
 
-[![Get Up and Pray - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773814639-P5R7A7Z6F3VSJO75NU1T/b788dcce1fc5f80fc562057c128945c0.jpg)](/news-notes/get-up-and-pray)
+[![Get Up and Pray - Lent 2020](images/22cd4b2e-b788dcce1fc5f80fc562057c128945c0.jpg)](/news-notes/get-up-and-pray)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -125,7 +125,7 @@ Let us follow the command of Jesus, rely on his promises, and, with the Holy Spi
 
 [Read More](/news-notes/get-up-and-pray)
 
-[![Advent: What's Next? - Tuesday, December 31](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773904736-8UQGGYQ5IUEVWL4MSSUW/CP1829112_l.jpg)](/news-notes/advent-whats-next-tuesday-december-31)
+[![Advent: What's Next? - Tuesday, December 31](images/6e43a960-CP1829112_l.jpg)](/news-notes/advent-whats-next-tuesday-december-31)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -141,7 +141,7 @@ We all have been called to mission work - in our homes and communities - to shar
 
 [Read More](/news-notes/advent-whats-next-tuesday-december-31)
 
-[![Advent: Light of the World - Monday, December 16](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773950879-UD1TRLEVPVUD9W4IEDJN/ScriptureArt_-_John8_12_-_2_157x157.jpg)](/news-notes/advent-light-of-the-world-monday-december-16)
+[![Advent: Light of the World - Monday, December 16](images/72a61cc5-ScriptureArt_-_John8_12_-_2_157x157.jpg)](/news-notes/advent-light-of-the-world-monday-december-16)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -157,7 +157,7 @@ When Jesus was born, the Light entered the world. Then, when the tomb was open, 
 
 [Read More](/news-notes/advent-light-of-the-world-monday-december-16)
 
-[!["I'm going to Heaven!"](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774006869-K9WBLIPI4Y9D7AHKBEXP/70241399_2402810926652280_9194379890915278848_o.jpg)](/news-notes/im-going-to-heaven)
+[!["I'm going to Heaven!"](images/e00517ae-70241399_2402810926652280_9194379890915278848_o.jpg)](/news-notes/im-going-to-heaven)
 
 [Alaska/Fairbanks](/news-notes/category/Alaska%2FFairbanks), 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage), 
@@ -177,7 +177,7 @@ I’ll never forget the words of one of our Native American sisters as she explo
 
 [Read More](/news-notes/im-going-to-heaven)
 
-[![Reflections (Lent Devotion) - Sunday, April 21 (Easter)](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774495357-I9FK6Z2V6CNO7E29DNYB/594e1e3f09bc044f20bed0ebd82c52d4.jpg)](/news-notes/reflections-lent-devotion-sunday-april-21-easter)
+[![Reflections (Lent Devotion) - Sunday, April 21 (Easter)](images/64703557-594e1e3f09bc044f20bed0ebd82c52d4.jpg)](/news-notes/reflections-lent-devotion-sunday-april-21-easter)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -193,7 +193,7 @@ Lord Jesus, you are the King! You are the one who died for me and took my sins t
 
 [Read More](/news-notes/reflections-lent-devotion-sunday-april-21-easter)
 
-[![Go with the Wind (Lent Devotion) - Wednesday, March 20 ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775104528-91ROZ1CV4SOFQ7QPKP21/1280x1280.jpg)](/news-notes/go-with-the-wind-lent-devotion-wednesday-march-20)
+[![Go with the Wind (Lent Devotion) - Wednesday, March 20 ](images/cc4ac996-1280x1280.jpg)](/news-notes/go-with-the-wind-lent-devotion-wednesday-march-20)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User
@@ -209,7 +209,7 @@ Guest User
 
 [Read More](/news-notes/go-with-the-wind-lent-devotion-wednesday-march-20)
 
-[![Wounds that Cannot Heal (Lent Devotion) - Ash Wednesday, March 6](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775179382-8R16P0A5UXNE6VPJ8GZ3/a6c88513f0b86c656014cc414b7c81e4--inspirational-scriptures-bible-quotes.jpg)](/news-notes/wounds-that-cannot-heal-lent-devotion-ash-wednesday-march-6)
+[![Wounds that Cannot Heal (Lent Devotion) - Ash Wednesday, March 6](images/98429167-a6c88513f0b86c656014cc414b7c81e4--inspirational-scriptures-bible-quotes.jpg)](/news-notes/wounds-that-cannot-heal-lent-devotion-ash-wednesday-march-6)
 
 [Alaska/Anchorage](/news-notes/category/Alaska%2FAnchorage)
 Guest User

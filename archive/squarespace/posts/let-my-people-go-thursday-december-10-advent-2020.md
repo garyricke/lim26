@@ -5,7 +5,7 @@ date: 2020-12-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/let-my-people-go-thursday-december-10-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349aeca7f957f7853d6bd1c/1748628700852/exodus_8_1_let_my_people_go_bible_verse_tile-r002fd6573ed34ea099fd51f6c588135f_agtbm_8byvr_704.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773261036-UKTQWEH6PN3JIHCDKUQG/image-asset.png"]
+images: ["images/a6548954-exodus_8_1_let_my_people_go_bible_verse_tile-r002fd6573ed34ea099fd51f6c588135f_agtbm_8byvr_704.jpg", "images/7b201e23-image-asset.png"]
 ---
 # Let my people go - Thursday, December 10 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773261036-UKTQWEH6PN3JIHCDKUQG/image-asset.png)
+![](images/7b201e23-image-asset.png)
 
 ## Then the Lord said to Moses, “Go to Pharaoh and say to him, ‘This is what the Lord says: Let my people go, so that they may worship me. [Exodus 8:1](https://my.bible.com/bible/111/EXO.8.1)
 

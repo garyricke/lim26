@@ -5,7 +5,7 @@ date: 2018-06-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/one-step-at-a-time
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b89b7abee65742289417/1748628700852/following+jesus+one+step+at+a+time.jpg"]
+images: ["images/790de385-following_jesus_one_step_at_a_time.jpg"]
 ---
 # One Step at a Time
 

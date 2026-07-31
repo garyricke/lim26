@@ -5,7 +5,7 @@ date: 2017-12-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/cherokee-legend-advent-tuesday-december-5
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be3b739ee60f9ba64f78/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777213038-PEAMIZZB4H4LN90JH8PQ/image-asset.png"]
+images: ["images/56bcdaf5-Advent__1_.png", "images/420fab83-image-asset.png"]
 ---
 # Cherokee Legend (Advent) - Tuesday, December 5
 
@@ -15,7 +15,7 @@ Dec 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777213038-PEAMIZZB4H4LN90JH8PQ/image-asset.png)
+![](images/420fab83-image-asset.png)
 
 ### **Cherokee Legend - Tuesday, December 5**
 

@@ -5,7 +5,7 @@ date: 2016-05-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-may-20-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c967e462f47a50440d16/1748628700852/signing+bill.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780073276-6GRAY7VO249OC6HDMRW5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780075839-3BA2BKWOYD4L50EQWH2A/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780077994-SALW5YC5MU4YSXKOZYIX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780080884-UM1RHPCDLHHWOQMOAE4C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780082627-UF01XAOMV7PBQBB58DIL/image-asset.jpeg"]
+images: ["images/0be25f7a-signing_bill.jpg", "images/d03ec727-image-asset.jpeg", "images/90a8a30e-image-asset.jpeg", "images/6ad24fde-image-asset.jpeg", "images/d8f7ca71-image-asset.jpeg", "images/f2d248ef-image-asset.jpeg"]
 ---
 # This Week in Native American News - May 20, 2016
 
@@ -15,13 +15,13 @@ May 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780073276-6GRAY7VO249OC6HDMRW5/image-asset.jpeg)
+![](images/d03ec727-image-asset.jpeg)
 
 ---
 
 ### Inupiaq Photographer Creates "I Am Inuit"
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780075839-3BA2BKWOYD4L50EQWH2A/image-asset.jpeg)
+![](images/90a8a30e-image-asset.jpeg)
 
 Inupiaq photograher, Brian Adams, interviews a man at the grocery store. Photo from: [KTOO Public Media](http://www.ktoo.org/2016/04/09/127128/)
 
@@ -37,7 +37,7 @@ Check out the ["I Am Inuit" website.](http://iaminuit.org)
 
 ### Multiple Laws Concerning Native Americans Re-examined
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780077994-SALW5YC5MU4YSXKOZYIX/image-asset.jpeg)
+![](images/6ad24fde-image-asset.jpeg)
 
 **Violence Against Women Act** - signed into law in 2013 gives tribes the power to persecute non-Natives in domestic and dating violence cases. While the law is important, there are gaps. Tribes can only persecute those who live on tribal land or are the victim's spouse or partner. Also, tribes cannot persecute non-Native offenders in child abuse. Tracy Toulou, the director of the Justice Department's Office of Tribal Justice, is pushing for changes. [Read the full story here.](http://www.apnewsarchive.com/2016/A-U-S-Justice-Department-official-says-there-are-significant-gaps-in-a-federal-law-aimed-at-combatting-violence-against-Native-American-women/id-ccb7c38b900346ad9a83fb38fa43fa83)
 
@@ -51,7 +51,7 @@ Check out the ["I Am Inuit" website.](http://iaminuit.org)
 
 ### Without Grandmothers Reservation Life Would Be Worse
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780080884-UM1RHPCDLHHWOQMOAE4C/image-asset.jpeg)
+![](images/d8f7ca71-image-asset.jpeg)
 
 Delberta Seminole Eagleman stands with grandchild, 4-year-old Shawnee, whom she raises along with 5 others on the Fort Peck Indian Reservation, in Wolf Point, Montana, April 28, 2016. [REUTERS/ELLEN WULFHORST](http://www.reuters.com/article/us-trafficking-nativeamericans-grandmoth-idUSKCN0YA1IU)
 
@@ -67,7 +67,7 @@ As a follow-up a few days later, Reuters published a story about the grandmother
 
 ### Rural Alaska College Teaches as it Heals
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780082627-UF01XAOMV7PBQBB58DIL/image-asset.jpeg)
+![](images/f2d248ef-image-asset.jpeg)
 
 University of Alaska-Fairbanks, Bethel Campus, Grduating Class. Photo credit: [Alaska Dispatch News](http://www.adn.com/education/article/fresh-group-graduates-rural-alaska-college-program-teaches-it-heals/2016/05/03/)
 

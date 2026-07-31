@@ -5,7 +5,7 @@ date: 2018-01-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-011218
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bd3f09a0b66f51f1ac47/1748628700852/A8B929B2-8AF3-4130-BF93-B66041D956E0_cx0_cy7_cw0_w1023_r1_s.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776960793-5EKDMUKN49JCU12HE2OD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776962348-U2J79UM3RZGUBVBYC0ZU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776964584-JA1781BCS128DTE28PYM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776966346-8C0H6V30VJF9H5YF7WAD/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776967901-33PTNWTJ7DRVNF2MWS5S/image-asset.jpeg"]
+images: ["images/8fa60bc5-A8B929B2-8AF3-4130-BF93-B66041D956E0_cx0_cy7_cw0_w1023_r1_s.jpg", "images/3899499a-image-asset.jpeg", "images/2e907d8f-image-asset.jpeg", "images/0f36b47e-image-asset.jpeg", "images/0305dff7-image-asset.jpeg", "images/aca5e0e4-image-asset.jpeg"]
 ---
 # This Week in Native American News (1/12/18): some midwives, some re-enacters, and some blues
 
@@ -13,7 +13,7 @@ Jan 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776960793-5EKDMUKN49JCU12HE2OD/image-asset.jpeg)
+![](images/3899499a-image-asset.jpeg)
 
 # January 12, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## 7 Pieces of Native American History Text Books Don't Talk About
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776962348-U2J79UM3RZGUBVBYC0ZU/image-asset.jpeg)
+![](images/2e907d8f-image-asset.jpeg)
 
 The history of people indigenous to the North American continent is often glossed over in education. We are badgered with the legend of Native benevolence to the pilgrims who landed on the East Coast on Thanksgiving.
 
@@ -35,7 +35,7 @@ It is essential that we acknowledge the physical, economic, and psychological tr
 
 ## Midwifery is on the rise in Native communities
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776964584-JA1781BCS128DTE28PYM/image-asset.jpeg)
+![](images/0f36b47e-image-asset.jpeg)
 
 Photo: FatCamera via iStockPhoto
 
@@ -53,7 +53,7 @@ Likewise, Native American and Alaska Native women have [higher rates](https://w
 
 ## The Pros and Cons of Historic Re-Enactments
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776966346-8C0H6V30VJF9H5YF7WAD/image-asset.jpeg)
+![](images/0305dff7-image-asset.jpeg)
 
 Over at The Walrus, Erin Sylvester has written a very [interesting and balanced piece](https://thewalrus.ca/inside-the-weird-world-of-historical-re-enactors/) on historical re-enacting.  I was struck by this piece because it quotes academic historians whose scholarship has actually benefited from the work of re-enactors.
 
@@ -67,7 +67,7 @@ Here is a taste:
 
 ## Native Americans Fight to Keep Long Hair
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776967901-33PTNWTJ7DRVNF2MWS5S/image-asset.jpeg)
+![](images/aca5e0e4-image-asset.jpeg)
 
 KA PAPA LO‘I ‘O KĀNEWAI IN MĀNOA PRESERVES THE CULTURE AND HISTORY SURROUNDING KALO. PHOTO: ELYSE BUTLER MALLAMS
 

@@ -5,7 +5,7 @@ date: 2016-11-21
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-we-can-learn-about-generosity-lesson-6-its-all-about-faith-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c4bce32d133794792c68/1748628700852/bizcard+large.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778877786-4G880EFODF8TZVCS8KAC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778879099-NSHK09BWNO146KRFVOT0/image-asset.jpeg"]
+images: ["images/76958fce-bizcard_large.jpg", "images/ad3e26ef-image-asset.jpeg", "images/00552a11-image-asset.jpeg"]
 ---
 # What We Can Learn About Generosity, Lesson 6: It's all about faith - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Nov 21
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778877786-4G880EFODF8TZVCS8KAC/image-asset.jpeg)
+![](images/ad3e26ef-image-asset.jpeg)
 
 This is Week 7 (the final week) of our Generosity Series. [Need to start at the beginning? Read the Introduction here.](https://www.lutheranindianministries.org/news/we-give-because-he-gave-monday-morning-devotion)
 
@@ -54,7 +54,7 @@ As we enter into the season of Advent, and we reflect on the great gift God has 
 
 I pray that our generosity would reflect that of our most generous God.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778879099-NSHK09BWNO146KRFVOT0/image-asset.jpeg)
+![](images/00552a11-image-asset.jpeg)
 
 [devotion](/news-notes/tag/devotion)[generosity](/news-notes/tag/generosity)
 

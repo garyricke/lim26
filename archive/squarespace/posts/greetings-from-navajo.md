@@ -5,7 +5,7 @@ date: 2020-09-22
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/greetings-from-navajo
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af8deeb24f62b7c242e3/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773455489-QU9UQZV4URC9DOZ0KOI7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773456651-JCATSPMCNKYN1KLAX3ZB/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773458018-U8DDSPZM5HN0RQQ2KOIT/image-asset.jpeg"]
+images: ["images/60bc2d67-1748628700852", "images/049cf275-image-asset.jpeg", "images/2d4b917d-image-asset.jpeg", "images/a362d2dd-image-asset.jpeg"]
 ---
 # Greetings from Navajo - Fall 2020
 
@@ -15,7 +15,7 @@ Sep 22
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773455489-QU9UQZV4URC9DOZ0KOI7/image-asset.jpeg)
+![](images/049cf275-image-asset.jpeg)
 
 Dear Friends in Christ,
 
@@ -25,11 +25,11 @@ As you may have heard the COVID-19 pandemic hit the Navajo Nation particularly h
 
 Just as elsewhere the virus has disrupted life here. Originally we had a very full summer planned, with lots of volunteer groups and two college interns slated to stay. But, as the time approached everything was canceled. There was really no other choice since the tribal government-issued curfews, which mandated that people were not allowed out of the house from 8:00 pm on Friday evenings until 5:00 am on Monday mornings from April-August.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773456651-JCATSPMCNKYN1KLAX3ZB/image-asset.jpeg)
+![](images/2d4b917d-image-asset.jpeg)
 
 The tribal government also discouraged (and still does) visitors to the Reservation. Again, as elsewhere this meant that we couldn’t meet face-to-face for worship, so we conducted worship through Facebook live. Finally, on the 22nd of August, we had our first face-to-face worship service pictured above. As you can see we met outdoors and had people socially distance. It was a hardship on everyone not to be able to meet for those months, but the joy of gathering together again was underscored by a baptism that took place that day.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773458018-U8DDSPZM5HN0RQQ2KOIT/image-asset.jpeg)
+![](images/a362d2dd-image-asset.jpeg)
 
 A week afterward we held the first wedding ceremony since I have arrived here 7 years ago. I have met many young couples on the Reservation that chose to live together without marriage. So it was a nice turn of events to see this couple make promises to each other with the help of God for the benefit of each other, their children, and their community.
 

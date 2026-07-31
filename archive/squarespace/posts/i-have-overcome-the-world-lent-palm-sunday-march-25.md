@@ -5,7 +5,7 @@ date: 2018-03-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/i-have-overcome-the-world-lent-palm-sunday-march-25
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bbc0f09029341eb28202/1748628700852/4b0f2f9191f8b0ca1efe03ebf002aabd--quotable-quotes-bible-quotes.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776577124-MUMNFOFTJ2CNV0VU2ZUL/image-asset.png"]
+images: ["images/28db58be-4b0f2f9191f8b0ca1efe03ebf002aabd--quotable-quotes-bible-quotes.jpg", "images/ce1e4493-image-asset.png"]
 ---
 # I Have Overcome the World (Lent) - Palm Sunday, March 25
 
@@ -15,7 +15,7 @@ Mar 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776577124-MUMNFOFTJ2CNV0VU2ZUL/image-asset.png)
+![](images/ce1e4493-image-asset.png)
 
 ### "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world." [John 16:33 (NIV)](https://www.bible.com/bible/111/JHN.16.33)
 

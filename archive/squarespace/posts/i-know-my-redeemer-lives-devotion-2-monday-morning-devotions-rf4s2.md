@@ -5,7 +5,7 @@ date: 2019-07-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/i-know-my-redeemer-lives-devotion-2-monday-morning-devotions-rf4s2
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b2fa5c155d7631588577/1748628700852/i+know+my+redeemer+lives+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774332874-GS79260MP5TZNIC80Z99/image-asset.png"]
+images: ["images/ab97002e-i_know_my_redeemer_lives__1_.png", "images/a22d86f8-image-asset.png"]
 ---
 # I Know My Redeemer Lives - Devotion 2 - Monday Morning Devotions
 
@@ -15,7 +15,7 @@ Jul 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774332874-GS79260MP5TZNIC80Z99/image-asset.png)
+![](images/a22d86f8-image-asset.png)
 
 Join us as Pastor Ricky Jacob, serving the Winnebago people in Nebraska, explores the life of Job and the truth of our Risen Lord.
 

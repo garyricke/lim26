@@ -5,7 +5,7 @@ date: 2016-05-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-new-may-27-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c94f8cefcd5f50932af8/1748628700852/murals.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780049070-2UL1CIESF9JBUSE113B7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780049973-8XWOM6OZ6AYMWGHABJSM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780051958-OP50XN479BG90JOTHEI9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780054422-DHN3JU1RJWNXX01KBU7R/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780057000-CW0DT04MKKI6979K5RMI/image-asset.jpeg"]
+images: ["images/b7b2305a-murals.jpg", "images/c62eab9e-image-asset.jpeg", "images/819a59c0-image-asset.jpeg", "images/93a9918c-image-asset.jpeg", "images/afcf8f3a-image-asset.jpeg", "images/b5b1702a-image-asset.jpeg"]
 ---
 # This Week in Native American New - May 27, 2016
 
@@ -15,13 +15,13 @@ May 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780049070-2UL1CIESF9JBUSE113B7/image-asset.jpeg)
+![](images/c62eab9e-image-asset.jpeg)
 
 ---
 
 ### Paris Auction House to Auction Native Objects
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780049973-8XWOM6OZ6AYMWGHABJSM/image-asset.jpeg)
+![](images/819a59c0-image-asset.jpeg)
 
 A Puebloan Kachina Huhuwa mask at a 2014 Paris auction. Photo credit: Thomas Samson/AFP/Getty Images
 
@@ -37,7 +37,7 @@ Native American groups plan to protest at the auction which is still scheduled f
 
 ### The Fight Against Racist Mascots Continues Despite Recent Poll
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780051958-OP50XN479BG90JOTHEI9/image-asset.jpeg)
+![](images/93a9918c-image-asset.jpeg)
 
 Change the Mascot protest. Photo credit: Helen H. Richardson/Getty Images
 
@@ -51,7 +51,7 @@ Not in the loop? [Here's a run-down of the Battle of the Mascot](https://www.was
 
 ### When Health Care is Lacking, Natives Find Their Own Solution
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780054422-DHN3JU1RJWNXX01KBU7R/image-asset.jpeg)
+![](images/afcf8f3a-image-asset.jpeg)
 
 Dental therapist at work on the Swinomish reservation. Photo credit: Ruth Fremson/New York Times
 
@@ -67,7 +67,7 @@ A dental therapist, the doctor's equivalent to a physician's assistant, is train
 
 ### Slated for Demolition, Native American Murals Find a New Home
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665780057000-CW0DT04MKKI6979K5RMI/image-asset.jpeg)
+![](images/b5b1702a-image-asset.jpeg)
 
 Murals find new home at Robert Eagle Staff Middle School in Seattle. Photo credit: *Steve Ringman/The Seattle Times*
 

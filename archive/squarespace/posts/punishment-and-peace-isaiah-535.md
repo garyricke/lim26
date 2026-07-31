@@ -5,7 +5,7 @@ date: 2016-03-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/punishment-and-peace-isaiah-535
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf45560f0e6852e9b70b/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781575168-Y0T3U7BR00GKC84475OF/image-asset.jpeg"]
+images: ["images/47348f13-1748628700852", "images/b96b40cd-image-asset.jpeg"]
 ---
 # Punishment and Peace - Isaiah 53:5
 
@@ -13,7 +13,7 @@ Mar 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781575168-Y0T3U7BR00GKC84475OF/image-asset.jpeg)
+![](images/b96b40cd-image-asset.jpeg)
 
 **Palm Sunday March 20**
 

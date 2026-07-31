@@ -5,7 +5,7 @@ date: 2016-08-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/this-week-in-native-american-news-august-26-2016
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5c93aecd76373f29b32/1748628700852/01black-elk-peak.adapt.1190.1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779146945-0BREG6IS3YXOJXGVPFDV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779147878-A00EH69HG307PMTT1AX5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779149007-4GQKZ3HWFBKEJM9M8S1G/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779150533-CNK1SG3PGVO8JN9TB0LF/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779152762-AC1QNTGSNILVGZF2FD5J/image-asset.jpeg"]
+images: ["images/24f5d408-01black-elk-peak.adapt.1190.1.jpg", "images/8c218f35-image-asset.jpeg", "images/52e29c1f-image-asset.jpeg", "images/b91806c9-image-asset.jpeg", "images/2bcb3b57-image-asset.jpeg", "images/7afdd13c-image-asset.jpeg"]
 ---
 # This Week in Native American News - August 26, 2016
 
@@ -15,13 +15,13 @@ Aug 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779146945-0BREG6IS3YXOJXGVPFDV/image-asset.jpeg)
+![](images/8c218f35-image-asset.jpeg)
 
 ---
 
 ### If you're heading to North Dakota... you might want to know what's going on
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779147878-A00EH69HG307PMTT1AX5/image-asset.jpeg)
+![](images/52e29c1f-image-asset.jpeg)
 
 Protesting the pipeline in Washington. Photo credit: Alex Wong/Getty Images
 
@@ -33,7 +33,7 @@ Want more information: [check out some of these articles.](https://www.google.co
 
 ### If you're heading to South Dakota... Your map may be incorrectly labeled
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779149007-4GQKZ3HWFBKEJM9M8S1G/image-asset.jpeg)
+![](images/b91806c9-image-asset.jpeg)
 
 PHOTOGRAPH BY HTURNE/ALAMY
 
@@ -45,7 +45,7 @@ There are [three other mountains](http://news.nationalgeographic.com/2015/09/150
 
 ### If you're heading to LA... Watch for this Native Street Art
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779150533-CNK1SG3PGVO8JN9TB0LF/image-asset.jpeg)
+![](images/2bcb3b57-image-asset.jpeg)
 
 You won't see the above-pictured street art because Jaque Fragua's first art piece has already been painted over, but you could catch a glimpse of one of the more than 1,000 pieces he has since created.
 
@@ -57,7 +57,7 @@ Trained at the Institute of American Indian Arts, Fragua has taken to the street
 
 ### If you're heading on an anniversary tour of the National Parks... Enjoy yourself AND be educated
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779152762-AC1QNTGSNILVGZF2FD5J/image-asset.jpeg)
+![](images/7afdd13c-image-asset.jpeg)
 
 Shoshone tipis in what is now Yellowstone National Park
 

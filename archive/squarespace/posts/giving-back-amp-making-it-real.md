@@ -5,7 +5,7 @@ date: 2019-01-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/giving-back-amp-making-it-real
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6b9e0445c470a21b71d/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775291409-4K8RYGZYIBBG7ZI1R601/image-asset.jpeg"]
+images: ["images/beca2cc6-1748628700852", "images/b3ec5c46-image-asset.jpeg"]
 ---
 # Giving Back & "Making it Real"
 
@@ -19,7 +19,7 @@ Kevin Maulson writes:
 
  It was amazing to watch "the once homeless give back to the still homeless".
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775291409-4K8RYGZYIBBG7ZI1R601/image-asset.jpeg)
+![](images/b3ec5c46-image-asset.jpeg)
 
 We started working with the homeless Native population in Mesa at the end of June in 2018, as of today, we have taken more than 40 Native American people off the streets and placed them in Residential Treatment Centers around the Phoenix Metro area. When they go to these homes, we stay in contact with them assisting them with hygiene, clothing, state and tribal ID's, finding employment, transporting them to and from appointments and hopefully finding them permanent housing.
 

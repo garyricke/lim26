@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/everybody+always
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775723649-OHTWQGGF6PHMTZO1NBYA/go-make-disciples.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775726459-YMIKSICPTF53Q84QS4W1/Mt16.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775741174-XLG5PPNJCQACBACQQBC8/e7a68e60a0dc4682ae95df0ba959b24b.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775759371-IP41I55BG1D84YDDGUSK/download.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775771754-IG06TLCSLDC4IJ73TQET/ea52a027a3f5d17e33094eadb45049fe.jpg"]
+images: ["images/cc7c71a7-go-make-disciples.jpg", "images/3db712f9-Mt16.jpg", "images/8653f90d-e7a68e60a0dc4682ae95df0ba959b24b.jpg", "images/41a4955d-download.png", "images/04ca066a-ea52a027a3f5d17e33094eadb45049fe.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Everybody, Always (Week 5) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775723649-OHTWQGGF6PHMTZO1NBYA/go-make-disciples.jpg)](/news-notes/everybody-always-week-5)
+[![Everybody, Always (Week 5) - Monday Morning Devotion](images/cc7c71a7-go-make-disciples.jpg)](/news-notes/everybody-always-week-5)
 
 Guest User
 7/23/18
@@ -75,7 +75,7 @@ If you want to become love, stop just agreeing with Jesus. Go call someone right
 
 [Read More](/news-notes/everybody-always-week-5)
 
-[![Everybody, Always (Week 4) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775726459-YMIKSICPTF53Q84QS4W1/Mt16.jpg)](/news-notes/everybody-always-week-4)
+[![Everybody, Always (Week 4) - Monday Morning Devotion](images/3db712f9-Mt16.jpg)](/news-notes/everybody-always-week-4)
 
 Guest User
 7/16/18
@@ -91,7 +91,7 @@ I don’t think we lead people to Jesus. I think Jesus leads people to Jesus.
 
 [Read More](/news-notes/everybody-always-week-4)
 
-[![Everybody, Always (Week 3) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775741174-XLG5PPNJCQACBACQQBC8/e7a68e60a0dc4682ae95df0ba959b24b.jpg)](/news-notes/everybody-always-week-3)
+[![Everybody, Always (Week 3) - Monday Morning Devotion](images/8653f90d-e7a68e60a0dc4682ae95df0ba959b24b.jpg)](/news-notes/everybody-always-week-3)
 
 Guest User
 7/9/18
@@ -107,7 +107,7 @@ Here’s the deal: when we act like someone we’re not, it’s because we’re 
 
 [Read More](/news-notes/everybody-always-week-3)
 
-[![Everybody, Always (Week 2) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775759371-IP41I55BG1D84YDDGUSK/download.png)](/news-notes/everybody-always-week-2)
+[![Everybody, Always (Week 2) - Monday Morning Devotion](images/41a4955d-download.png)](/news-notes/everybody-always-week-2)
 
 Guest User
 7/2/18
@@ -125,7 +125,7 @@ God did this constantly in the Bible. He told Moses he was a leader and Moses be
 
 [Read More](/news-notes/everybody-always-week-2)
 
-[![Everybody, Always (Week 1) - Monday Morning Devotion](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775771754-IG06TLCSLDC4IJ73TQET/ea52a027a3f5d17e33094eadb45049fe.jpg)](/news-notes/everybody-always-week-1)
+[![Everybody, Always (Week 1) - Monday Morning Devotion](images/04ca066a-ea52a027a3f5d17e33094eadb45049fe.jpg)](/news-notes/everybody-always-week-1)
 
 Guest User
 6/25/18

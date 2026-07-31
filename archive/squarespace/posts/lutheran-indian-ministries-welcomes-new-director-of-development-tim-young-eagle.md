@@ -5,7 +5,7 @@ date: 2015-11-10
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/news-from-brookfield/lutheran-indian-ministries-welcomes-new-director-of-development-tim-young-eagle
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349da94f356c23a7b938b5c/1665784475829/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784469922-WR03ZHE88SM8YB6IIZAC/image-asset.jpeg"]
+images: ["images/a4d9e136-1665784475829", "images/c0186cc3-image-asset.jpeg"]
 ---
 # Lutheran Indian Ministries Welcomes New Director of Development, Tim Young Eagle
 
@@ -18,7 +18,7 @@ Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 We are pleased to welcome Tim Young Eagle to our Lutheran Indian Ministries staff as Director of Development.
 Tim Young Eagle, CFRE was born and raised in Milwaukee, Wisconsin. He is an American Indian of Pawnee descent.
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784469922-WR03ZHE88SM8YB6IIZAC/image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44604/1451491778789/Tim-Young-Eagle-casual.jpg?format=original)
+[![](images/c0186cc3-image-asset.jpeg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44604/1451491778789/Tim-Young-Eagle-casual.jpg?format=original)
 
 Tim Young Eagle casual
 

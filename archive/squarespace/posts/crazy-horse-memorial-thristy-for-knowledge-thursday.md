@@ -5,7 +5,7 @@ date: 2017-02-23
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/crazy-horse-memorial-thristy-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1fa4e34042f8b58f412/1748628700852/Crazy+Horse+Mountain+%C2%A9CHM+web.jpg"]
+images: ["images/ed325278-Crazy_Horse_Mountain__CHM_web.jpg"]
 ---
 # Crazy Horse Memorial - Thristy (for Knowledge) Thursday
 

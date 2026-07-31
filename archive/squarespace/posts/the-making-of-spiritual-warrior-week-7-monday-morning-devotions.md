@@ -5,7 +5,7 @@ date: 2020-07-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-making-of-spiritual-warrior-week-7-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afc6ab562073a4f8ce7b/1748628700852/spiritual+warrior.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773512050-7MSN5SQDE0PW7EPYM4PA/image-asset.png"]
+images: ["images/04208bc5-spiritual_warrior.png", "images/16f818f9-image-asset.png"]
 ---
 # The Making of Spiritual Warrior - Week 7 - Monday Morning Devotions
 
@@ -15,7 +15,7 @@ Jul 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773512050-7MSN5SQDE0PW7EPYM4PA/image-asset.png)
+![](images/16f818f9-image-asset.png)
 
 [Begin at Week 1](https://lutheranindianministries.org/news/the-making-of-spiritual-warrior-week-1-monday-morning-devotions)
 

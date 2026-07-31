@@ -5,7 +5,7 @@ date: 2015-06-23
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/alaskainterior/mission-trip-to-tanana-alaska
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dce71bfe1316ba78a141/1665785069729/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785064786-ZNH3Y2EU8Z4RLQ4JXW8Q/image-asset.jpeg"]
+images: ["images/75cc49b5-1665785069729", "images/c3293511-image-asset.jpeg"]
 ---
 # Mission Trip to Tanana, Alaska
 
@@ -15,7 +15,7 @@ Jun 23
 
 Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785064786-ZNH3Y2EU8Z4RLQ4JXW8Q/image-asset.jpeg)
+![](images/c3293511-image-asset.jpeg)
 
 Tanana, Alaska Volunteer Team Wolffs and Mellands
 

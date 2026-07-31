@@ -5,7 +5,7 @@ date: 2019-04-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/what-is-hope-hope-is-given-as-a-gift-and-found-in-jesus-monday-morning-devotion-week-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b38519ed594d3b11e952/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774470824-AKQURRI6UC5E1VWH1HZF/image-asset.jpeg"]
+images: ["images/f64aa827-1748628700852", "images/609bdd62-image-asset.jpeg"]
 ---
 # What is Hope?: Hope is Given as a Gift through Jesus (Monday Morning Devotion - Week 1)
 
@@ -13,7 +13,7 @@ Apr 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774470824-AKQURRI6UC5E1VWH1HZF/image-asset.jpeg)
+![](images/609bdd62-image-asset.jpeg)
 
 Many of our Native brothers and sisters live without the hope. This lack of hope covers them with a darkness that infiltrates their whole life. ([You can read more about it here.](https://www.lutheranindianministries.org/news/they-need-to-know-april))
 

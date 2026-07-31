@@ -5,7 +5,7 @@ date: 2019-09-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/doing-things-that-matter-monday-morning-devotions-week-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b25fc9a5633813c17685/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774178555-6DJTGYGXN04BU0M12U9X/image-asset.jpeg"]
+images: ["images/feaad5e9-1748628700852", "images/904d4a5b-image-asset.jpeg"]
 ---
 # Doing Things that Matter: Choosing the Path to God - Monday Morning Devotions (Week 1)
 
@@ -13,7 +13,7 @@ Sep 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774178555-6DJTGYGXN04BU0M12U9X/image-asset.jpeg)
+![](images/904d4a5b-image-asset.jpeg)
 
 (c) http://doingthingsthatmatter.com/
 

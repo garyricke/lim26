@@ -5,7 +5,7 @@ date: 2016-03-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/gods-living-word-hebrews-412
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cf7f771b7a501b60138a/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781633182-5KM8NAAGHELDRKB5MNT3/image-asset.jpeg"]
+images: ["images/75ce9c52-1748628700852", "images/61c28b6a-image-asset.jpeg"]
 ---
 # God's Living Word - Hebrews 4:12
 
@@ -15,7 +15,7 @@ Mar 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781633182-5KM8NAAGHELDRKB5MNT3/image-asset.jpeg)
+![](images/61c28b6a-image-asset.jpeg)
 
 **Saturday** **March 12**
 

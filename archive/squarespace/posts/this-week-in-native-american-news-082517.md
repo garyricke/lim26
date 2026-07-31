@@ -5,7 +5,7 @@ date: 2017-08-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-082517
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf359c4d201dc3cf40d6/1748628700852/download.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777462452-MXX9PPR03K6ESYEMGJOC/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777463251-NK0MP2BIIP2AGHJ8HZ8O/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777464090-5KVAGQN91TXNFCAHRFUE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777465308-4MDS2SBONQRFNYPI1UPU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777466866-VEB12MK3SYXRDAK2VOTR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777468201-ZRE309W6YMYVLT6YLE8R/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777469406-ZO1DSTRLWNOK47NERSO6/image-asset.jpeg"]
+images: ["images/5676f35f-download.jpg", "images/ebc7acd3-image-asset.jpeg", "images/0d683566-image-asset.jpeg", "images/9410b5e5-image-asset.jpeg", "images/19aea9e4-image-asset.jpeg", "images/cca0e340-image-asset.jpeg", "images/aa2b4bc8-image-asset.jpeg", "images/f675ae1a-image-asset.jpeg"]
 ---
 # This Week in Native American News (8/25/17): The Big Eclipse, Statue Controversy, and Hawaiian Cowboys
 
@@ -13,7 +13,7 @@ Aug 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777462452-MXX9PPR03K6ESYEMGJOC/image-asset.jpeg)
+![](images/ebc7acd3-image-asset.jpeg)
 
 # August 25, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Learning from the Eclipse
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777463251-NK0MP2BIIP2AGHJ8HZ8O/image-asset.jpeg)
+![](images/0d683566-image-asset.jpeg)
 
 Students prepare to launch the balloons.Mark Stone/University of Washington
 
@@ -33,7 +33,7 @@ Over the past couple of years, consortium staff visited many of the schools part
 
 ### [Read the full story here](http://www.washington.edu/news/2017/08/21/native-american-youth-launch-high-altitude-balloons-for-unique-perspective-on-solar-eclipse/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777464090-5KVAGQN91TXNFCAHRFUE/image-asset.jpeg)
+![](images/9410b5e5-image-asset.jpeg)
 
 ## Many Native Americans Looked to the Eclipse as a Time of Renewal
 
@@ -45,7 +45,7 @@ In Navajo culture, the passing of the moon over the sun is an intimate moment in
 
 ## New Statue Graces the South Dakota Plains
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777465308-4MDS2SBONQRFNYPI1UPU/image-asset.jpeg)
+![](images/19aea9e4-image-asset.jpeg)
 
 Photo from article: Daily Mail
 
@@ -55,7 +55,7 @@ The Dignity sculpture is a stunning combination of art and history. Located on a
 
 ### [Read the Full Story Here](https://freethoughtblogs.com/pharyngula/2017/08/20/they-do-like-their-monumental-statues-in-south-dakota/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777466866-VEB12MK3SYXRDAK2VOTR/image-asset.jpeg)
+![](images/cca0e340-image-asset.jpeg)
 
 ## Since we're on the topic of statues...
 
@@ -69,7 +69,7 @@ There is a lot of media coverage on the removal of historical statues. What are 
 
 ## The Hawaiian Cowboys
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777468201-ZRE309W6YMYVLT6YLE8R/image-asset.jpeg)
+![](images/aa2b4bc8-image-asset.jpeg)
 
 COURTESY NANCY ERGER, REMINISCE
 
@@ -85,7 +85,7 @@ Oral histories passed from generation to generation link DeeDee’s ancestors to
 
 ## Here's Why You Need to Travel to Sante Fe ASAP
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777469406-ZO1DSTRLWNOK47NERSO6/image-asset.jpeg)
+![](images/f675ae1a-image-asset.jpeg)
 
 Photo credit: Alamy - Native American art and culture will be on display starting this weekend at the SWAIA Indian Market and the newly opened ZOHI Gallery.
 

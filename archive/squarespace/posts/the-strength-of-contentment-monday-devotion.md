@@ -5,7 +5,7 @@ date: 2016-06-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/the-strength-of-contentment-monday-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c8ffb0b3732184b09061/1748628700852/I+have+learned+to+be+content+whatever+the+circumstances...+in+any+and+every+situation%2C+whether+well+fed+or+hungry%2C+whether+living+in+plenty+or+in+want.1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779969081-4YO14BGA6YZCOE6TATYU/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779971053-FFFYX1TC1NZJIJMZ2UHZ/image-asset.png"]
+images: ["images/164cfb1c-I_have_learned_to_be_content_whatever_the_circumstances..._in_any_and_every_situation__whether_well_fed_or_hungry__wheth", "images/b4cc988f-image-asset.png", "images/2ff03df4-image-asset.png"]
 ---
 # The Strength of Contentment-Monday Devotion
 
@@ -15,11 +15,11 @@ Jun 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779969081-4YO14BGA6YZCOE6TATYU/image-asset.png)
+![](images/b4cc988f-image-asset.png)
 
 # The Strength of Contentment
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779971053-FFFYX1TC1NZJIJMZ2UHZ/image-asset.png)
+![](images/2ff03df4-image-asset.png)
 
 We're watching via satellite a young Native woman, dressed in an orange jumpsuit, talk to the judge. This drinking spree may cost her years of trying to provide a better life for herself and her children. After three years of walking with her through her struggles, we feel almost as dejected as she looks.
 

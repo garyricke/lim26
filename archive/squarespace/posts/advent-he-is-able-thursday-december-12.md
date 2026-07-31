@@ -5,7 +5,7 @@ date: 2019-12-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-he-is-able-thursday-december-12
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b181927b1145206ee417/1748628700852/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773955010-V1TIELJGFY1DQS39PO2Z/image-asset.png"]
+images: ["images/fac8127e-1280x1280__1_.jpg", "images/10c734fe-image-asset.png"]
 ---
 # Advent: He is Able -Thursday, December 12
 
@@ -15,7 +15,7 @@ Dec 12
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773955010-V1TIELJGFY1DQS39PO2Z/image-asset.png)
+![](images/10c734fe-image-asset.png)
 
 ### And he will be called, Wonderful Counselor, Mighty God, Everlasting Father, Prince of peace.
 

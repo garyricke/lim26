@@ -5,7 +5,7 @@ date: 2016-09-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/luke-213-14-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5b1492474407c7db1de/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779123392-DPW839TVCCW2QQJKZGIE/image-asset.png"]
+images: ["images/be660af5-1748628700852", "images/e9fb1c21-image-asset.png"]
 ---
 # Luke 2:13-14 FNV
 
@@ -13,7 +13,7 @@ Sep 4
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779123392-DPW839TVCCW2QQJKZGIE/image-asset.png)
+![](images/e9fb1c21-image-asset.png)
 
 ***Suddenly -*** The welcome news was no sooner published, than a multitude of heavenly beings were heard celebrating, in songs and hymns divine, the praises of God, on account of his unspeakable mercy and love to men
 

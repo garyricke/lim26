@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/lent+devotion+2017
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777933562-12C06MNAP6YUGACJ0W1U/lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777936034-5C9C3N214ZPSBNX9M2GB/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777938241-ICRI6OFFF84R6KH02YDD/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777940291-3DI8ODF05BP17PKUZKD6/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777949868-HE9K6YGCCZBSI1VUT2U6/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777952743-F77LIVGTTLEWP83A4FIF/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777962285-YF66R0B8EQYBS937NAC7/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777963812-7JI4NP5TEFNWWWB5DRE7/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777965748-YJ1NHMZWRWEST2JTUPBJ/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777967890-IDT4420TUB4DSPGZXD6S/2017+lent+cover.jpg"]
+images: ["images/8ee04144-lent_cover.jpg", "images/481562a1-2017_lent_cover.jpg", "images/236d4bab-2017_lent_cover.jpg", "images/990a56cb-2017_lent_cover.jpg", "images/94c8fa70-2017_lent_cover.jpg", "images/6c37c1e6-2017_lent_cover.jpg", "images/b7e14bfb-2017_lent_cover.jpg", "images/9e699579-2017_lent_cover.jpg", "images/d49a17dd-2017_lent_cover.jpg", "images/6b92c3a8-2017_lent_cover.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Extra Reading & Thank You](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777933562-12C06MNAP6YUGACJ0W1U/lent+cover.jpg)](/news-notes/extra-reading-thank-you)
+[![Extra Reading & Thank You](images/8ee04144-lent_cover.jpg)](/news-notes/extra-reading-thank-you)
 
 Guest User
 4/18/17
@@ -73,7 +73,7 @@ If you found these devotions and reflections helpful and want to dig further, we
 
 [Read More](/news-notes/extra-reading-thank-you)
 
-[![You are Never Alone: Easter Monday, April 17](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777936034-5C9C3N214ZPSBNX9M2GB/2017+lent+cover.jpg)](/news-notes/you-are-never-alone-easter-monday-april-17)
+[![You are Never Alone: Easter Monday, April 17](images/481562a1-2017_lent_cover.jpg)](/news-notes/you-are-never-alone-easter-monday-april-17)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -89,7 +89,7 @@ Guest User
 
 [Read More](/news-notes/you-are-never-alone-easter-monday-april-17)
 
-[![He is RISEN!: Easter Sunday, April 16](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777938241-ICRI6OFFF84R6KH02YDD/2017+lent+cover.jpg)](/news-notes/he-is-risen-easter-sunday-april-16)
+[![He is RISEN!: Easter Sunday, April 16](images/236d4bab-2017_lent_cover.jpg)](/news-notes/he-is-risen-easter-sunday-april-16)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -105,7 +105,7 @@ Guest User
 
 [Read More](/news-notes/he-is-risen-easter-sunday-april-16)
 
-[![Forsaken, So You Never Will Be: Holy Saturday, April 15](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777940291-3DI8ODF05BP17PKUZKD6/2017+lent+cover.jpg)](/news-notes/forsaken-so-you-never-will-be-holy-saturday-april-15)
+[![Forsaken, So You Never Will Be: Holy Saturday, April 15](images/990a56cb-2017_lent_cover.jpg)](/news-notes/forsaken-so-you-never-will-be-holy-saturday-april-15)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -121,7 +121,7 @@ Guest User
 
 [Read More](/news-notes/forsaken-so-you-never-will-be-holy-saturday-april-15)
 
-[![Weeping with Jesus: Good Friday, April 14](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777949868-HE9K6YGCCZBSI1VUT2U6/2017+lent+cover.jpg)](/news-notes/weeping-with-jesus-good-friday-april-14)
+[![Weeping with Jesus: Good Friday, April 14](images/94c8fa70-2017_lent_cover.jpg)](/news-notes/weeping-with-jesus-good-friday-april-14)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -137,7 +137,7 @@ Guest User
 
 [Read More](/news-notes/weeping-with-jesus-good-friday-april-14)
 
-[![God-Sized Hole: Holy Thursday, April 13](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777952743-F77LIVGTTLEWP83A4FIF/2017+lent+cover.jpg)](/news-notes/god-sized-hole-holy-thursday-april-13)
+[![God-Sized Hole: Holy Thursday, April 13](images/6c37c1e6-2017_lent_cover.jpg)](/news-notes/god-sized-hole-holy-thursday-april-13)
 
 [Kansas/Haskell LIGHT](/news-notes/category/Kansas%2FHaskell+LIGHT)
 Guest User
@@ -153,7 +153,7 @@ Guest User
 
 [Read More](/news-notes/god-sized-hole-holy-thursday-april-13)
 
-[![Everything in God's Hands: Holy Wednesday, April 12](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777962285-YF66R0B8EQYBS937NAC7/2017+lent+cover.jpg)](/news-notes/everything-in-gods-hands-holy-wednesday-april-12)
+[![Everything in God's Hands: Holy Wednesday, April 12](images/b7e14bfb-2017_lent_cover.jpg)](/news-notes/everything-in-gods-hands-holy-wednesday-april-12)
 
 [Washington/Olympic Peninsula](/news-notes/category/Washington%2FOlympic+Peninsula)
 Guest User
@@ -169,7 +169,7 @@ Guest User
 
 [Read More](/news-notes/everything-in-gods-hands-holy-wednesday-april-12)
 
-[![People of the Standing Stone: Holy Tuesday, April 11](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777963812-7JI4NP5TEFNWWWB5DRE7/2017+lent+cover.jpg)](/news-notes/people-of-the-standing-stone-holy-tuesday-april-11)
+[![People of the Standing Stone: Holy Tuesday, April 11](images/9e699579-2017_lent_cover.jpg)](/news-notes/people-of-the-standing-stone-holy-tuesday-april-11)
 
 Guest User
 4/11/17
@@ -183,7 +183,7 @@ Guest User
 
 [Read More](/news-notes/people-of-the-standing-stone-holy-tuesday-april-11)
 
-[![Find the River: Holy Monday, April 10](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777965748-YJ1NHMZWRWEST2JTUPBJ/2017+lent+cover.jpg)](/news-notes/find-the-river-holy-monday-april-10)
+[![Find the River: Holy Monday, April 10](images/d49a17dd-2017_lent_cover.jpg)](/news-notes/find-the-river-holy-monday-april-10)
 
 [Manitoba/Canada](/news-notes/category/Manitoba%2FCanada)
 Guest User
@@ -199,7 +199,7 @@ Guest User
 
 [Read More](/news-notes/find-the-river-holy-monday-april-10)
 
-[![Son or Shadow Watcher: Palm Sunday, April 9](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777967890-IDT4420TUB4DSPGZXD6S/2017+lent+cover.jpg)](/news-notes/son-or-shadow-watcher-palm-sunday-april-9)
+[![Son or Shadow Watcher: Palm Sunday, April 9](images/6b92c3a8-2017_lent_cover.jpg)](/news-notes/son-or-shadow-watcher-palm-sunday-april-9)
 
 Guest User
 4/9/17

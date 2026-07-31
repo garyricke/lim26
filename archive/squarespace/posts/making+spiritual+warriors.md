@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/making+spiritual+warriors
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773515944-1JZGS2OI45SWSIIS7HK4/spiritual+warrior.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773529267-QC9NV5RZCCJ4ZYID15WT/spiritual+warrior.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773533610-47YZVMXMAJ6UYGC6HQQJ/spiritual+warrior.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773536840-ROEN4RVNV5JGNX2NKVQQ/spiritual+warrior.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773538968-6DVRJ1CIX3L9YI1SP076/spiritual+warrior.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773552838-EWV09GPC8P5SPFBPGOCQ/spiritual+warrior.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773555585-4YQYFYSFELBJDNXQJ0B8/spiritual+warrior.png"]
+images: ["images/7e58c754-spiritual_warrior.png", "images/878eb7a2-spiritual_warrior.png", "images/ea2d63d7-spiritual_warrior.png", "images/5f24aefc-spiritual_warrior.png", "images/bb036243-spiritual_warrior.png", "images/64d59bda-spiritual_warrior.png", "images/f52e7d90-spiritual_warrior.png"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![The Making of  Spiritual Warrior - Week 7 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773515944-1JZGS2OI45SWSIIS7HK4/spiritual+warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-7-monday-morning-devotions)
+[![The Making of  Spiritual Warrior - Week 7 - Monday Morning Devotions](images/7e58c754-spiritual_warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-7-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -75,7 +75,7 @@ The training to make someone into a Spiritual Warrior is not a one-time event, n
 
 [Read More](/news-notes/the-making-of-spiritual-warrior-week-7-monday-morning-devotions)
 
-[![The Making of  Spiritual Warrior - Week 6 - Monday Morning Devotions ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773529267-QC9NV5RZCCJ4ZYID15WT/spiritual+warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-6-monday-morning-devotions)
+[![The Making of  Spiritual Warrior - Week 6 - Monday Morning Devotions ](images/878eb7a2-spiritual_warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-6-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -91,7 +91,7 @@ The training to make someone into a Spiritual Warrior is not a one-time event, n
 
 [Read More](/news-notes/the-making-of-spiritual-warrior-week-6-monday-morning-devotions)
 
-[![The Making of  Spiritual Warrior - Week 5 - Monday Morning Devotions ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773533610-47YZVMXMAJ6UYGC6HQQJ/spiritual+warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-5-monday-morning-devotions)
+[![The Making of  Spiritual Warrior - Week 5 - Monday Morning Devotions ](images/ea2d63d7-spiritual_warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-5-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -107,7 +107,7 @@ The training to make someone into a Spiritual Warrior is not a one-time event, n
 
 [Read More](/news-notes/the-making-of-spiritual-warrior-week-5-monday-morning-devotions)
 
-[![The Making of  Spiritual Warrior - Week 4 - Monday Morning Devotions ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773536840-ROEN4RVNV5JGNX2NKVQQ/spiritual+warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-4-monday-morning-devotions)
+[![The Making of  Spiritual Warrior - Week 4 - Monday Morning Devotions ](images/5f24aefc-spiritual_warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-4-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -123,7 +123,7 @@ The training to make someone into a Spiritual Warrior is not a one-time event, n
 
 [Read More](/news-notes/the-making-of-spiritual-warrior-week-4-monday-morning-devotions)
 
-[![The Making of  Spiritual Warrior - Week 3 - Monday Morning Devotions ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773538968-6DVRJ1CIX3L9YI1SP076/spiritual+warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-3-monday-morning-devotions)
+[![The Making of  Spiritual Warrior - Week 3 - Monday Morning Devotions ](images/bb036243-spiritual_warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-3-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -139,7 +139,7 @@ The training to make someone into a Spiritual Warrior is not a one-time event, n
 
 [Read More](/news-notes/the-making-of-spiritual-warrior-week-3-monday-morning-devotions)
 
-[![The Making of  Spiritual Warrior - Week 2 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773552838-EWV09GPC8P5SPFBPGOCQ/spiritual+warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-2-monday-morning-devotions)
+[![The Making of  Spiritual Warrior - Week 2 - Monday Morning Devotions](images/64d59bda-spiritual_warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-2-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User
@@ -155,7 +155,7 @@ The training to make someone into a Spiritual Warrior is not a one-time event, n
 
 [Read More](/news-notes/the-making-of-spiritual-warrior-week-2-monday-morning-devotions)
 
-[![The Making of  Spiritual Warrior - Week 1 - Monday Morning Devotions](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773555585-4YQYFYSFELBJDNXQJ0B8/spiritual+warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-1-monday-morning-devotions)
+[![The Making of  Spiritual Warrior - Week 1 - Monday Morning Devotions](images/f52e7d90-spiritual_warrior.png)](/news-notes/the-making-of-spiritual-warrior-week-1-monday-morning-devotions)
 
 [Nebraska/Winnebago](/news-notes/category/Nebraska%2FWinnebago)
 Guest User

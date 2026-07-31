@@ -5,7 +5,7 @@ date: 2019-08-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-08092019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b284d20efd47a96e60cb/1748628700852/5d4a5152ccc3c.image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774214171-D2U7TUCZ2KXWF774HGZS/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774216788-CN6ME4MNCHKYAR7HRBTN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774218219-KEZLACKI0HTTRSTGRD2C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774221498-XQRVEF03UY9IBVJBU62Z/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774223389-F3EN8J60XPK4T1V6L6XS/image-asset.jpeg"]
+images: ["images/e94ca492-5d4a5152ccc3c.image.jpg", "images/64659e13-image-asset.jpeg", "images/3013658e-image-asset.jpeg", "images/bd0964fb-image-asset.jpeg", "images/4ec43359-image-asset.jpeg", "images/11b2493d-image-asset.jpeg"]
 ---
 # This Week in Native American News (8/9/19): Celebrate the World's Indigenous People
 
@@ -13,7 +13,7 @@ Aug 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774214171-D2U7TUCZ2KXWF774HGZS/image-asset.jpeg)
+![](images/64659e13-image-asset.jpeg)
 
 # August 9, 2019 - Celebrate the International Day of the World’s Indigenous Peoples
 
@@ -39,7 +39,7 @@ To preserve Australia’s Indigenous languages, the Australian Government provid
 
 ## Crow Tribe, National Guard work together to build homes for veterans
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774216788-CN6ME4MNCHKYAR7HRBTN/image-asset.jpeg)
+![](images/3013658e-image-asset.jpeg)
 
 Montana and Hawaii Army National Guard 260th and 230th Engineers build a new home in the Apsaalooke Warrior Apartments near Crow Agency. From left, Sgt. Josiah Baisa, Spc. Johanna Lembke and Sgt. Benjamin Rinke work on the home on Tuesday. LARRY MAYER, Billings Gazette
 
@@ -59,7 +59,7 @@ In Crow Agency, many residents need a place to live.
 
 ## Native American artists collaborate with local tech company
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774218219-KEZLACKI0HTTRSTGRD2C/image-asset.jpeg)
+![](images/bd0964fb-image-asset.jpeg)
 
 It’s a new way to learn about ancient art. A UNM professor helped design a new project that brings his, and other pueblos’ signature pottery designs to life.
 
@@ -75,7 +75,7 @@ Cruz, who is a member of the Tewa Pueblo, has been practicing pottery for decade
 
 ## Why Native Americans at Standing Rock are building solar farms three years after the #NoDAPL pipeline protests
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774221498-XQRVEF03UY9IBVJBU62Z/image-asset.jpeg)
+![](images/4ec43359-image-asset.jpeg)
 
 Three years after the Dakota Access Pipeline protests swept the nation at the Standing Rock Indian Reservation, Native American leaders have made history by opening the largest solar farm in the state of North Dakota on their tribal land.
 
@@ -87,7 +87,7 @@ Cody Two Bears, founder and executive director of Indigenized Energy, told *Mic
 
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774223389-F3EN8J60XPK4T1V6L6XS/image-asset.jpeg)
+![](images/11b2493d-image-asset.jpeg)
 
 ## Talking to the editors of "Shapes of Native Nonfiction," Elissa Washuta and Theresa Warburton, about weaving together essays by Indigenous writers
 

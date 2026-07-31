@@ -5,7 +5,7 @@ date: 2017-02-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/do-you-know-john-herrington-thirsty-for-knowledge-thursday
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c205d155a1763e69456b/1748628700852/423468449_1280x720.jpg"]
+images: ["images/0c766cf9-423468449_1280x720.jpg"]
 ---
 # Do you know John Herrington? - Thirsty (for KNowledge) Thursday
 

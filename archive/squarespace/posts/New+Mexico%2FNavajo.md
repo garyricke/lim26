@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/New+Mexico%2FNavajo
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773459569-TWC6S5KZLWUX0KKGOE53/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773487844-0G8SU6D1UVB9KU55A0U6/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773632427-VTVBXWIQREWF5FZ0XWCX/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773715713-IUBACSH96P54W0VV61JT/fa857824b45af3c3639760ab5a24e20f.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773799250-WHHIMRN3CL7F2HOKEJMY/joel2-13.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773899784-4OL7W8O422VR72NQDGQS/A9Rjj07zo_1fm3s3r_c54.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773937685-XUCU7Y0XBCMGJYJ0GZHT/box1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773951967-N37HJDWGARYZR1QXM0CM/Php4.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773975580-GHZEIYR6ZNFUJMVFOTX2/d640ab8c529601057f91a32800daa8ef.jpg"]
+images: ["images/3dc7273d-image-asset.jpeg", "images/f38d6a27-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/c3c1bca3-1280x1280.jpg", "images/ff2b5cff-fa857824b45af3c3639760ab5a24e20f.jpg", "images/20448c10-joel2-13.jpg", "images/51f9a7dc-A9Rjj07zo_1fm3s3r_c54.jpg", "images/5c820be5-box1.jpg", "images/c10534f8-Php4.jpg", "images/8eb2eb01-d640ab8c529601057f91a32800daa8ef.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Greetings from Navajo - Fall 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773459569-TWC6S5KZLWUX0KKGOE53/image-asset.jpeg)](/news-notes/greetings-from-navajo)
+[![Greetings from Navajo - Fall 2020](images/3dc7273d-image-asset.jpeg)](/news-notes/greetings-from-navajo)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -73,7 +73,7 @@ Guest User
 
 [Read More](/news-notes/greetings-from-navajo)
 
-[![Living By Faith: Dread - Monday Morning Summer Devotion Series - Week 5](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773487844-0G8SU6D1UVB9KU55A0U6/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-5)
+[![Living By Faith: Dread - Monday Morning Summer Devotion Series - Week 5](images/f38d6a27-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png)](/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-5)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -113,7 +113,7 @@ We heard the warnings and followed the rules: Stay home, social distance, self-q
 
 [Read More](/news-notes/a-new-trauma)
 
-[![Do not Grieve - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773632427-VTVBXWIQREWF5FZ0XWCX/1280x1280.jpg)](/news-notes/do-not-grieve)
+[![Do not Grieve - Lent 2020](images/c3c1bca3-1280x1280.jpg)](/news-notes/do-not-grieve)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -129,7 +129,7 @@ In our broken and fallen world, our joy seems like this, ephemeral, brief, and t
 
 [Read More](/news-notes/do-not-grieve)
 
-[![Joy in Lent - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773715713-IUBACSH96P54W0VV61JT/fa857824b45af3c3639760ab5a24e20f.jpg)](/news-notes/joy-in-lent)
+[![Joy in Lent - Lent 2020](images/ff2b5cff-fa857824b45af3c3639760ab5a24e20f.jpg)](/news-notes/joy-in-lent)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -147,7 +147,7 @@ Even in the middle of the somber reflection of Lent, there is room for joy!
 
 [Read More](/news-notes/joy-in-lent)
 
-[![Return to the Lord - Lent 2020](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773799250-WHHIMRN3CL7F2HOKEJMY/joel2-13.jpg)](/news-notes/return-to-the-lord)
+[![Return to the Lord - Lent 2020](images/20448c10-joel2-13.jpg)](/news-notes/return-to-the-lord)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -163,7 +163,7 @@ Guest User
 
 [Read More](/news-notes/return-to-the-lord)
 
-[![Happy 2020 from Navajo!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773899784-4OL7W8O422VR72NQDGQS/A9Rjj07zo_1fm3s3r_c54.jpg)](/news-notes/happy-2020-from-navajo)
+[![Happy 2020 from Navajo!](images/51f9a7dc-A9Rjj07zo_1fm3s3r_c54.jpg)](/news-notes/happy-2020-from-navajo)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -179,7 +179,7 @@ A belated Merry Christmas and Happy New Year from Navajo!
 
 [Read More](/news-notes/happy-2020-from-navajo)
 
-[![A Quick Christmas Update from Navajo](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773937685-XUCU7Y0XBCMGJYJ0GZHT/box1.jpg)](/news-notes/a-quick-christmas-update-from-navajo)
+[![A Quick Christmas Update from Navajo](images/5c820be5-box1.jpg)](/news-notes/a-quick-christmas-update-from-navajo)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -195,7 +195,7 @@ May God bless all of you at Christmas and all year round and thank you for all t
 
 [Read More](/news-notes/a-quick-christmas-update-from-navajo)
 
-[![Advent: Joyful Service - Sunday, December 15](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773951967-N37HJDWGARYZR1QXM0CM/Php4.jpg)](/news-notes/advent-joyful-service-sunday-december-15)
+[![Advent: Joyful Service - Sunday, December 15](images/c10534f8-Php4.jpg)](/news-notes/advent-joyful-service-sunday-december-15)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User
@@ -211,7 +211,7 @@ Joy is beyond sentiment; it is beyond happiness (which depends on circumstances)
 
 [Read More](/news-notes/advent-joyful-service-sunday-december-15)
 
-[![Advent: Return to God - Tuesday, December 3](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773975580-GHZEIYR6ZNFUJMVFOTX2/d640ab8c529601057f91a32800daa8ef.jpg)](/news-notes/advent-return-to-god-tuesday-december-3)
+[![Advent: Return to God - Tuesday, December 3](images/8eb2eb01-d640ab8c529601057f91a32800daa8ef.jpg)](/news-notes/advent-return-to-god-tuesday-december-3)
 
 [New Mexico/Navajo](/news-notes/category/New+Mexico%2FNavajo)
 Guest User

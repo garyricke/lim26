@@ -5,7 +5,7 @@ date: 2017-01-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-45-8-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c3f54171092d1d87d75b/1748628700852/-All+of+their+power+and+beauty+can+be+yours%21-+the+snake+said+smoothly..png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778679808-CAWB4O45KUAXBXUZWIIE/image-asset.png"]
+images: ["images/773db13f--All_of_their_power_and_beauty_can_be_yours_-_the_snake_said_smoothly..png", "images/0ff30b94-image-asset.png"]
 ---
 # Luke 4:5-8 FNV
 
@@ -13,7 +13,7 @@ Jan 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778679808-CAWB4O45KUAXBXUZWIIE/image-asset.png)
+![](images/0ff30b94-image-asset.png)
 
 The devil finds that he must try a more subtle way with his second temptation. So he brings out the glittering bait. Where sense fails, ambition may succeed.
 

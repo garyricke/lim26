@@ -5,7 +5,7 @@ date: 2019-12-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/advent-becoming-a-child-of-god-wednesday-december-11
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b184d20efd47a96e30e9/1748628700852/Psalm-Free-Printable-Sincerely-Sara-D.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773957656-C9UU1AE9OP099UKG9YQV/image-asset.png"]
+images: ["images/ef539312-Psalm-Free-Printable-Sincerely-Sara-D.jpg", "images/563e829d-image-asset.png"]
 ---
 # Advent: Becoming a Child of God -Wednesday, December 11
 
@@ -15,7 +15,7 @@ Dec 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773957656-C9UU1AE9OP099UKG9YQV/image-asset.png)
+![](images/563e829d-image-asset.png)
 
 ### He who dwells in the shelter of the Most High will abide in the shadow of the Almighty. I will say to the LORD, “My refuge and my fortress, my God, in whom I trust.” For he will deliver you from the snare of the fowler and from the deadly pestilence. He will cover you with his pinions, and under his wings you will find refuge; his faithfulness is a shield and buckle.
 

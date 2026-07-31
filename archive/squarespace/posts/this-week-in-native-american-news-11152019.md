@@ -5,7 +5,7 @@ date: 2019-11-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-11152019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b1ac5c155d7631585052/1748628700852/fMJoW4z-asset-mezzanine-16x9-KgXFtpP.jpg.crop.480x270.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773997800-WHFODHKHDXAB8N80J4II/image-asset.jpeg"]
+images: ["images/9d568895-fMJoW4z-asset-mezzanine-16x9-KgXFtpP.jpg.crop.480x270.jpg", "images/5d107d18-image-asset.jpeg"]
 ---
 # This Week in Native American News (11/15/19): Fast Horse, Traditional Tattoos, and Native Veterans
 
@@ -13,7 +13,7 @@ Nov 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773997800-WHFODHKHDXAB8N80J4II/image-asset.jpeg)
+![](images/5d107d18-image-asset.jpeg)
 
 # November 15, 2019 - November is Native Heritage Month!
 

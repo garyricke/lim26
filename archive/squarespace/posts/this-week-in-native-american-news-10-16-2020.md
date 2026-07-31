@@ -5,7 +5,7 @@ date: 2020-10-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-10-16-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af6bcaefb623c84f110f/1748628700852/james+barker-IMG_2467.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773420483-H7QS9UAMWXS1OG1VT5PZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773421421-GIHRS8RAOFK481CUF9UW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773423037-AILR2BEPI3KHOAH1LI1Z/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773423912-95JUK9DWWH477SP8VVWH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773425313-2IA5FGDQS0U7JJ8PX7TY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773426408-H8ZSBJ7IYA6PJPHHP2DR/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773427491-088XZJZWLZWF13AY50YV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773428457-RQKYQVEOE3YPO0EF4419/image-asset.jpeg"]
+images: ["images/3ba5b2aa-james_barker-IMG_2467.jpg", "images/858fabf8-image-asset.jpeg", "images/53f6cd6e-image-asset.jpeg", "images/bc9be0e3-image-asset.png", "images/f27c82da-image-asset.jpeg", "images/dd9de1ea-image-asset.jpeg", "images/3bad3417-image-asset.png", "images/e3f34bca-image-asset.jpeg", "images/ea0b10d2-image-asset.jpeg"]
 ---
 # This Week in Native American News (10/16/2020): Recovering, fighting, and educating
 
@@ -13,7 +13,7 @@ Oct 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773420483-H7QS9UAMWXS1OG1VT5PZ/image-asset.jpeg)
+![](images/858fabf8-image-asset.jpeg)
 
 # October 16, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### How Alaskan Yup’ik People Are Reviving the Culture Lost to the 1919 Flu
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773421421-GIHRS8RAOFK481CUF9UW/image-asset.jpeg)
+![](images/53f6cd6e-image-asset.jpeg)
 
 Yup'ik dancers at a dance festival at Toksook Bay in 1996. JAMES BARKER
 
@@ -43,7 +43,7 @@ But it’s a challenge, especially when it comes to getting distracted teenagers
 
 ### To Combat COVID, A College Embraces Navajo Principle of Kinship
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773423037-AILR2BEPI3KHOAH1LI1Z/image-asset.png)
+![](images/bc9be0e3-image-asset.png)
 
 (Fort Lewis College/YouTube )
 
@@ -59,7 +59,7 @@ The school crafted a campaign around the concept that employed social media to p
 
 ### Xbox marks the spot: New game helps put Southeast Alaska arts and culture on the map
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773423912-95JUK9DWWH477SP8VVWH/image-asset.jpeg)
+![](images/f27c82da-image-asset.jpeg)
 
 Game makers work with artists, nonprofit to portray local souteastern Alaskan culture.
 
@@ -79,7 +79,7 @@ However, incorporating art and culture not often seen in video games into the na
 
 ### Monday was Indigenous Peoples Day, but we don’t have to limit it to one day each year: How to Honor Indigenous Peoples with Your Kids, Today and Every Day
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773425313-2IA5FGDQS0U7JJ8PX7TY/image-asset.jpeg)
+![](images/dd9de1ea-image-asset.jpeg)
 
 In an attempt to honor and recognize Indigenous people as the first inhabitants of the United States, Indigenous Peoples’ Day is being celebrated in many cities throughout the country. While advocating for the observation of Indigenous Peoples’ Day is a step forward, the inaccurate and whitewashed history that is taught in most schools contributes to the erasure of over 500 Native nations. We can do better by centering Indigenous voices and stories all year, even with our littlest learners.
 
@@ -91,7 +91,7 @@ This Indigenous Peoples’ Day, commit to teaching children to make deep connect
 
 ### History Corner:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773426408-H8ZSBJ7IYA6PJPHHP2DR/image-asset.png)
+![](images/3bad3417-image-asset.png)
 
 ## [Hundreds of Native American Treaties Digitized for the First Time](https://www.smithsonianmag.com/smart-news/hundreds-native-american-treaties-digitized-and-online-first-time-180976056/)
 
@@ -99,7 +99,7 @@ For many Native American tribes, historical treaties are a fraught reminder of p
 
 Thanks to a newly completed digitization effort by the U.S. National Archives and the Museum of Indian Arts and Culture (MIAC) in Santa Fe, researchers and the public now have unprecedented access to hundreds of these critical agreements.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773427491-088XZJZWLZWF13AY50YV/image-asset.jpeg)
+![](images/e3f34bca-image-asset.jpeg)
 
 ## [Alaska’s new ‘I Voted’ stickers celebrate women and highlight Native languages](https://www.adn.com/alaska-news/2020/10/13/alaskas-new-i-voted-stickers-celebrate-women-and-highlight-native-languages/)
 
@@ -109,7 +109,7 @@ The artwork is by Barbara Lavallee, known for her watercolor paintings that depi
 
 The Division of Elections sought to highlight women’s long journey for the right to vote and to celebrate the courage of women past and women today, Director Gail Fenumiai said in an emailed statement Monday. This year is the centennial of the ratification of the 19th Amendment to the Constitution, which gave women the right to vote.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773428457-RQKYQVEOE3YPO0EF4419/image-asset.jpeg)
+![](images/ea0b10d2-image-asset.jpeg)
 
 ## [Bill Addresses Cultural Genocide Caused by Indian Boarding Schools](http://blogs.edweek.org/edweek/campaign-k-12/2020/10/cultural-genocide-indian-boarding-schools-bill.html)
 

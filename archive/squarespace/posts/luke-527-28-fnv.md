@@ -5,7 +5,7 @@ date: 2017-07-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-527-28-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfe47670090af3bcf70b/1748628700852/Creator+Sets+Free+%28Jesus%29+went+to+him+and+said%2C+-Come%2C+walk+the+road+with+me.-+He+got+up+from+his+booth%2C+left+it+all+behind%2C+and+began+to+walk+the+road+with+him.Luke+5-27-28+FNV.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777637674-XLKTLPNNOUSNPX5P80TJ/image-asset.png"]
+images: ["images/3c984256-Creator_Sets_Free__Jesus__went_to_him_and_said__-Come__walk_the_road_with_me.-_He_got_up_from_his_booth__left_it_all_beh", "images/3f1f938e-image-asset.png"]
 ---
 # Luke 5:27-28 FNV
 
@@ -13,7 +13,7 @@ Jul 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777637674-XLKTLPNNOUSNPX5P80TJ/image-asset.png)
+![](images/3f1f938e-image-asset.png)
 
 It was a wonder of Christ's grace, that he would call a publican [the lowest of the tax collector] to be his disciple and follower. It was a wonder of his grace, that the call was made so effectual. It was a wonder of his grace, that he came to call sinners to repentance, and to assure them of pardon. It was a wonder of his grace, that he so patiently bore the contradiction of sinners against himself and his disciples. It was a wonder of his grace, that he fixed the services of his disciples according to their strength and standing. The Lord trains up his people gradually for the trials allotted them; we should copy his example in dealing with the weak in faith, or the tempted believer.
 

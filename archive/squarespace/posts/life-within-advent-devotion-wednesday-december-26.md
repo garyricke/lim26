@@ -5,7 +5,7 @@ date: 2018-12-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/life-within-advent-devotion-wednesday-december-26
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b6ed74e2e15255411c7e/1748628700852/1280x1280+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775343029-FWOSQTFU72KT1VUXCLUM/image-asset.png"]
+images: ["images/48c981c6-1280x1280__1_.jpg", "images/d100f47e-image-asset.png"]
 ---
 # Life Within (Advent Devotion) - Wednesday, December 26
 
@@ -15,7 +15,7 @@ Dec 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775343029-FWOSQTFU72KT1VUXCLUM/image-asset.png)
+![](images/d100f47e-image-asset.png)
 
 ## I have come that they may have life, and have it to the full. (John 10:10  NIV)
 

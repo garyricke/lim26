@@ -5,7 +5,7 @@ date: 2017-08-14
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/lets-start-faith-for-the-reservations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf5960d4ef62def9f6c7/1748628700852/nehemiah_rust_door-1024x682.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777497687-GOGZZQBWJL4Y4TVR3X9F/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777498782-Y3J7I9LYJG5Z65K5YEEV/image-asset.jpeg"]
+images: ["images/cd6b8be8-nehemiah_rust_door-1024x682.jpg", "images/df241ca1-image-asset.jpeg", "images/dfe22189-image-asset.jpeg"]
 ---
 # Let's Start: Faith for the Reservations, Devo 10 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Aug 14
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777497687-GOGZZQBWJL4Y4TVR3X9F/image-asset.jpeg)
+![](images/df241ca1-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -41,7 +41,7 @@ Our job is to rekindle the relationship with the one and only Savior, Jesus Chri
 
 It only takes one small spark to light a wildfire. One person with a vision. In the case of Nehemiah, he presented his plan to the city officials, rallied the people to help achieve the mission, and set to work. Because of God's grace and their unity, the people, grounded in faith and surrounded in prayer, completed the city walls in record time - only 52 days!
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777498782-Y3J7I9LYJG5Z65K5YEEV/image-asset.jpeg)
+![](images/dfe22189-image-asset.jpeg)
 
 How much could be done on the reservations if we band together, grounded in faith and surrounded in prayer!
 

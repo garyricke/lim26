@@ -5,7 +5,7 @@ date: 2017-04-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-thursday-april-6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c13f4d725316ea64c00c/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777984186-FF4OS5CSTHF9WWE6WYPM/image-asset.png"]
+images: ["images/0382aa9c-2017_lent_cover.jpg", "images/a6e67522-image-asset.png"]
 ---
 # Read & Reflect: Thursday, April 6
 
@@ -13,7 +13,7 @@ Apr 6
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777984186-FF4OS5CSTHF9WWE6WYPM/image-asset.png)
+![](images/a6e67522-image-asset.png)
 
 ## Read: [1 Corinthians 9:19-23](https://www.bible.com/bible/111/1co.9.19-23)
 

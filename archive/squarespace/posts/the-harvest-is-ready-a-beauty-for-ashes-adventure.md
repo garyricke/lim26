@@ -5,7 +5,7 @@ date: 2018-04-04
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/the-harvest-is-ready-a-beauty-for-ashes-adventure
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bba3dd7dfe2ee01f738c/1748628700852/haskell_entrance.jpg"]
+images: ["images/9fe29c3a-haskell_entrance.jpg"]
 ---
 # The Harvest is Ready - A Sacred Grounds New Beginning
 

@@ -5,7 +5,7 @@ date: 2020-03-13
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-03132020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0b287fb27609f6c9cba/1748628700852/6095f96e593bd17323695f357a903b0717e87d51.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773747227-DSGJBDZ83R8LFNQB5N5A/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773753247-MR6WE5OUHXSJD6BHE558/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773755268-JJKUWVWG92JH2AUHGI98/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773756662-TGRKZ0WULTLAIG8O8Y3W/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773757559-9YLDE9YW3VGMWEYM00QQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773758182-3VZJXY3UIKK15VT9ZZYD/image-asset.jpeg"]
+images: ["images/7182e99b-6095f96e593bd17323695f357a903b0717e87d51.jpg", "images/587cd965-image-asset.jpeg", "images/36fb1bfe-image-asset.png", "images/74ee9954-image-asset.jpeg", "images/0138c26a-image-asset.jpeg", "images/f2a45d40-image-asset.jpeg", "images/812d0b10-image-asset.jpeg"]
 ---
 # This Week in Native American News (3/13/2020): Flipping the Narrative, Building a Film Native Production Studio, and Supporting Native News
 
@@ -13,7 +13,7 @@ Mar 13
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773747227-DSGJBDZ83R8LFNQB5N5A/image-asset.jpeg)
+![](images/587cd965-image-asset.jpeg)
 
 # March 13, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## FOR ALASKA NATIVE YOUTH, A TRADITION-ROOTED PROGRAM TEACHES RESILIENCE
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773753247-MR6WE5OUHXSJD6BHE558/image-asset.png)
+![](images/36fb1bfe-image-asset.png)
 
 SOURCE CENTER FOR ALASKA NATIVE HEALTH RESEARCH
 
@@ -37,7 +37,7 @@ Rasmus, along with Yup’ik elders, is committed to “flipping the narrative.�
 
 ## Native Americans have long been Hollywood outsiders. That’s changing in New Mexico
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773755268-JJKUWVWG92JH2AUHGI98/image-asset.jpeg)
+![](images/74ee9954-image-asset.jpeg)
 
 Camel Rock Studios sits on the site of a former casino in Santa Fe, New Mexico. (Tribe of Tesuque Pueblo)
 
@@ -53,7 +53,7 @@ Named after the nearby 40-foot pink sandstone Camel Rock, the studio gives the c
 
 ## Report for America will support 19 journalists to cover Native American communities
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773756662-TGRKZ0WULTLAIG8O8Y3W/image-asset.jpeg)
+![](images/0138c26a-image-asset.jpeg)
 
 It’s hard to say that Native Americans have, historically, gotten the kind of journalism they deserve. Mainstream news outlets typically pay them little attention, and when they do, indigenous people are more often the subject of reporting than its target audience. Less than one half of one percent of journalists at U.S. news organizations are Native, compared to 1.7 percent of the national population. And that’s not even to mention how Native Americans are portrayed in the limited coverage they do see.
 
@@ -65,7 +65,7 @@ But coverage of Native American and Indigenous communities in the United States 
 
 ## Today’s History Lesson: Native American Children’s Historic Forced Assimilation
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773757559-9YLDE9YW3VGMWEYM00QQ/image-asset.jpeg)
+![](images/f2a45d40-image-asset.jpeg)
 
 Children arrived at school at different points in the assimilation process. Many still openly embraced their traditional cultures, including some of these Lakota children on the Rosebud Indian Reservation in South Dakota. The order of the children is not known, but pictured here are: Thomas New, Alice Slow Fly, Harry With Horns, Standing Little Tail, and Jesse Foot. DMNS BR61-285
 
@@ -81,7 +81,7 @@ The goal became assimilation: to transform Native Americans into “good Christi
 
 ## Enjoy Your “Social Distancing” and Plan a Great Summer Trip - [**12 Incredible Pow Wows To Experience In The U.S. And Canada**](https://www.travelawaits.com/2491531/incredible-pow-wows-to-experience/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773758182-3VZJXY3UIKK15VT9ZZYD/image-asset.jpeg)
+![](images/812d0b10-image-asset.jpeg)
 
 ---
 

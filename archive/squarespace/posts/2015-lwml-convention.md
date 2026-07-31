@@ -5,7 +5,7 @@ date: 2015-07-14
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/news-from-brookfield/2015-lwml-convention
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44534/1451491778248/LWML-Don-Betty-Duda.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44536/1451491778251/LWML-BobJanWCathy.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44538/1451491778255/LWML-OR-Dist-LouGLendaJanetCathy-supportOP.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4453a/1451491778260/LWML-Don-PastorsServeCommunion.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4453c/1451491778263/LWML-OR-IC-Gals.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4453e/1451491778268/LWML-DonSusan-bk-rose-winner.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44540/1451491778273/LWML-Jan-Chippewa-winner-DonsBk.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44542/1451491778277/LWML-ClarkMaizeyBob.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44544/1451491778280/LWML-Booth-visitors-busy-place.jpeg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44546/1451491778284/LWML-Courtney-Cathy.jpg", "http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44548/1451491778287/LWML-Ivan-winner-of-beaded-cedar-basket-necklace.jpeg"]
+images: ["images/75ea8ec2-LWML-Don-Betty-Duda.jpg", "images/14c8f727-LWML-BobJanWCathy.jpg", "images/d44dd7be-LWML-OR-Dist-LouGLendaJanetCathy-supportOP.jpg", "images/b76ea3ed-LWML-Don-PastorsServeCommunion.jpg", "images/62e1f213-LWML-OR-IC-Gals.jpg", "images/d660d0a2-LWML-DonSusan-bk-rose-winner.jpg", "images/d50c139e-LWML-Jan-Chippewa-winner-DonsBk.jpg", "images/4d0754dc-LWML-ClarkMaizeyBob.jpg", "images/cb069855-LWML-Booth-visitors-busy-place.jpeg", "images/7ef0cc10-LWML-Courtney-Cathy.jpg", "images/cbfd7451-LWML-Ivan-winner-of-beaded-cedar-basket-necklace.jpeg"]
 ---
 # 2015 LWML National Convention - Des Moines, Iowa
 
@@ -22,27 +22,27 @@ Many of the attendees visited our Lutheran Indian Ministries (LIM) booth and wer
 
 **To God be the glory!**
 
-![2015 LWML Convention - Don Johnson and Betty Duda](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44534/1451491778248/LWML-Don-Betty-Duda.jpg)
+![2015 LWML Convention - Don Johnson and Betty Duda](images/75ea8ec2-LWML-Don-Betty-Duda.jpg)
 
-![2015 LWML Convention - Bob Prue, Jan Wendorf, Cathy Benzler](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44536/1451491778251/LWML-BobJanWCathy.jpg)
+![2015 LWML Convention - Bob Prue, Jan Wendorf, Cathy Benzler](images/14c8f727-LWML-BobJanWCathy.jpg)
 
-![2015 LWML Convention - Oregon District](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44538/1451491778255/LWML-OR-Dist-LouGLendaJanetCathy-supportOP.jpg)
+![2015 LWML Convention - Oregon District](images/d44dd7be-LWML-OR-Dist-LouGLendaJanetCathy-supportOP.jpg)
 
-![2015 LWML Convention -Don Johnson and Pastors Serve Communion](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4453a/1451491778260/LWML-Don-PastorsServeCommunion.jpg)
+![2015 LWML Convention -Don Johnson and Pastors Serve Communion](images/b76ea3ed-LWML-Don-PastorsServeCommunion.jpg)
 
-![2015 LWML Convention - Our Redeemer, Iowa City, Iowa](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4453c/1451491778263/LWML-OR-IC-Gals.jpg)
+![2015 LWML Convention - Our Redeemer, Iowa City, Iowa](images/62e1f213-LWML-OR-IC-Gals.jpg)
 
-![2015 LWML Convention - Don Johnson with Susan](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4453e/1451491778268/LWML-DonSusan-bk-rose-winner.jpg)
+![2015 LWML Convention - Don Johnson with Susan](images/d660d0a2-LWML-DonSusan-bk-rose-winner.jpg)
 
-![2015 LWML Convention - Jan and Don Johnson](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44540/1451491778273/LWML-Jan-Chippewa-winner-DonsBk.jpg)
+![2015 LWML Convention - Jan and Don Johnson](images/d50c139e-LWML-Jan-Chippewa-winner-DonsBk.jpg)
 
-![2015 LWML -Clark, Maizey, and Bob](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44542/1451491778277/LWML-ClarkMaizeyBob.jpg)
+![2015 LWML -Clark, Maizey, and Bob](images/4d0754dc-LWML-ClarkMaizeyBob.jpg)
 
-![2015 LWML Convention - LIM Booth](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44544/1451491778280/LWML-Booth-visitors-busy-place.jpeg)
+![2015 LWML Convention - LIM Booth](images/cb069855-LWML-Booth-visitors-busy-place.jpeg)
 
-![2015 LWML Convention - Courtney and Cathy Benzler](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44546/1451491778284/LWML-Courtney-Cathy.jpg)
+![2015 LWML Convention - Courtney and Cathy Benzler](images/7ef0cc10-LWML-Courtney-Cathy.jpg)
 
-![2015 LWML Convention - Ivan with wife and Don Johnson](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a44548/1451491778287/LWML-Ivan-winner-of-beaded-cedar-basket-necklace.jpeg)
+![2015 LWML Convention - Ivan with wife and Don Johnson](images/cbfd7451-LWML-Ivan-winner-of-beaded-cedar-basket-necklace.jpeg)
 
 ***Download a PDF of this article [here](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a4454a/1451491778291/NEWS-FROM-BROOKFIELD-LWML-CONVENTION-JULY2015-optimized.pdf?format=original).***
 

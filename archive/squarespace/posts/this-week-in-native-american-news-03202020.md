@@ -5,7 +5,7 @@ date: 2020-03-20
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-03202020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b09887fb27609f6c98f9/1748628700852/GettyImages_1207534742.0.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773721805-6B3G5UKKZV6FPBWI6SU9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773723067-J3E70U95HGY0WLOAXCOT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773723996-20DL0O5W3SSUB6CSXIUL/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773725315-XFP8SZHO7KFFSNQFLL3C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773725945-JKQ5XMY1UQHQGWXTQQQ0/image-asset.jpeg"]
+images: ["images/565269fa-GettyImages_1207534742.0.jpg", "images/98947ed5-image-asset.jpeg", "images/19ac9b03-image-asset.jpeg", "images/a4c4d922-image-asset.jpeg", "images/f5d170bc-image-asset.jpeg", "images/71b5d9bf-image-asset.jpeg"]
 ---
 # This Week in Native American News (3/20/2020): the coronavirus (of course) and the homeless, plus some Powwow rules of etiquette
 
@@ -13,7 +13,7 @@ Mar 20
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773721805-6B3G5UKKZV6FPBWI6SU9/image-asset.jpeg)
+![](images/98947ed5-image-asset.jpeg)
 
 # March 20, 2020 - Happy Distanced Friday!
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## ‘We're going to work together'
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773723067-J3E70U95HGY0WLOAXCOT/image-asset.jpeg)
+![](images/19ac9b03-image-asset.jpeg)
 
 SOURCE CENTER FOR ALASKA NATIVE HEALTH RESEARCH
 
@@ -43,7 +43,7 @@ Historically, Alaska Native children ranked among the world’s highest for rate
 
 ## Keep the Homeless Populations in your Prayers
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773723996-20DL0O5W3SSUB6CSXIUL/image-asset.jpeg)
+![](images/a4c4d922-image-asset.jpeg)
 
 Many of our ministry sites, and in particular our ministry in Phoenix, work with and help Native homeless populations. Please keep these groups in your prayers, since social distancing is rarely an option.
 
@@ -53,7 +53,7 @@ Many of our ministry sites, and in particular our ministry in Phoenix, work with
 
 ## Today’s History Lesson
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773725315-XFP8SZHO7KFFSNQFLL3C/image-asset.jpeg)
+![](images/f5d170bc-image-asset.jpeg)
 
 ### [5 Native Women Leaders Who Made History](https://www.teenvogue.com/story/native-american-women-leaders-history)
 
@@ -67,7 +67,7 @@ Since March is Women’s History Month, let’s get to know some truly phenomena
 
 # [**Pow Wow Etiquette: 10 Rules to Follow in and Out of the Arena**](https://indiancountrytoday.com/archive/pow-wow-etiquette-10-rules-to-follow-in-and-out-of-the-arena-zs0Fb3CsGEyju8O1QJL9Fw)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773725945-JKQ5XMY1UQHQGWXTQQQ0/image-asset.jpeg)
+![](images/71b5d9bf-image-asset.jpeg)
 
 ---
 

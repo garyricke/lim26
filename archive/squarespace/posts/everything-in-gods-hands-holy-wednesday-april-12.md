@@ -5,7 +5,7 @@ date: 2017-04-12
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/everything-in-gods-hands-holy-wednesday-april-12
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c127598c94025ea11591/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777960463-EXMU25YUU8BH70HYEVF4/image-asset.jpeg"]
+images: ["images/f0fa0c1f-2017_lent_cover.jpg", "images/7d486616-image-asset.jpeg"]
 ---
 # Everything in God's Hands: Holy Wednesday, April 12
 
@@ -17,7 +17,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## For the Lord is good; his steadfast love endures forever, and his faithfulness to all generations Psalm 100:5 (ESV)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777960463-EXMU25YUU8BH70HYEVF4/image-asset.jpeg)
+![](images/7d486616-image-asset.jpeg)
 
 How many times do you hear people talk about how bad things are in our world, and wonder what will become of us? Or, how often do you hear, “how can things get any worse?” I find myself thinking the very same things from time to time.
 

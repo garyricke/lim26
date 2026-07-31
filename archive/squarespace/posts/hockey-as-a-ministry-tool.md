@@ -5,7 +5,7 @@ date: 2017-10-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/hockey-as-a-ministry-tool
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349beaeb5450373d86e4805/1748628700852/IMG_8425.JPG", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777327523-JF8QCLBNXK28NRTIW6Z0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777328605-2P4UDOKHI3QKL9FK69C4/image-asset.jpeg"]
+images: ["images/4fbcf3df-IMG_8425.JPG", "images/f53e31f0-image-asset.jpeg", "images/9e314b91-image-asset.jpeg"]
 ---
 # Hockey as a Ministry Tool
 
@@ -21,7 +21,7 @@ Rick Martin, LIM missionary in Manitoba, tried staying away from hockey. With al
 
 But, "Somehow, God seems to keep bringing opportunities back to ministry through hockey, and when I follow them He blesses."
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777327523-JF8QCLBNXK28NRTIW6Z0/image-asset.jpeg)
+![](images/f53e31f0-image-asset.jpeg)
 
 Rick knew God was up to something when He brought players from all over Canada and from a number of Indigenous tribes to play at a tournament. More exciting to Rick than his team's ultimate championship was his players' attentiveness to a clear Gospel message. "You could have heard a pin drop," while a Native pastor, and father of a famous hockey professional, shared his own testimony of deliverance from abuse and alcohol through a relationship with Jesus Christ.
 
@@ -39,7 +39,7 @@ Oftentimes that's all someone needs to begin healing. They simply need to be hea
 
 Off the ice, Rick and Linda carry out their counseling ministry among the Cree people in much the same way they do all across Canada. While Rick is using his boyhood passion for hockey for His purposes, it's Linda's own personal healing through the power of the Gospel that commands the respect of her fellow Cree.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777328605-2P4UDOKHI3QKL9FK69C4/image-asset.jpeg)
+![](images/9e314b91-image-asset.jpeg)
 
 God has gifted Rick and Linda with exceptional counseling skills and personal experiences to reach those who are struggling with anger, depression, and suicide. They help hurting men, women, and children gain victory over grief and pain through the healing only Jesus can provide.
 

@@ -5,7 +5,7 @@ date: 2020-07-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/living-by-faith-monday-morning-summer-devotion-series-week-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afc1eeb24f62b7c25017/1748628700852/Beige+and+Gray+Minimalist+Quote+Instagram+Post.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773506365-BEI0KT3VZ2V4I3UXLCZE/image-asset.png"]
+images: ["images/1ee9813a-Beige_and_Gray_Minimalist_Quote_Instagram_Post.png", "images/e42ada63-image-asset.png"]
 ---
 # Living By Faith: Heroes - Monday Morning Summer Devotion Series - Week 1
 
@@ -15,7 +15,7 @@ Jul 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773506365-BEI0KT3VZ2V4I3UXLCZE/image-asset.png)
+![](images/e42ada63-image-asset.png)
 
 ## But David said to Saul, “Your servant has been keeping his father’s sheep. When a lion or a bear came and carried off a sheep from the flock, I went after it, struck it and rescued the sheep from its mouth. When it turned on me, I seized it by its hair, struck it and killed it. Your servant has killed both the lion and the bear; this uncircumcised Philistine will be like one of them, because he has defied the armies of the living God. The Lord who rescued me from the paw of the lion and the paw of the bear will rescue me from the hand of this Philistine.” [1 Samuel 17: 34-37](https://www.bible.com/bible/111/1sa.17.34-36)
 

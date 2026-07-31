@@ -5,7 +5,7 @@ date: 2019-06-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/hope-is-the-best-gift-we-can-give-it-ties-us-together-monday-morning-devotion-week-6
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b34609a0b66f51efe8b1/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774408524-AEE13NXQBFJITUEFO45N/image-asset.jpeg"]
+images: ["images/1729babd-1748628700852", "images/50de4345-image-asset.jpeg"]
 ---
 # Hope is the Best Gift We Can Give & It Ties Us Together (Monday Morning Devotion - Week 6)
 
@@ -13,7 +13,7 @@ Jun 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774408524-AEE13NXQBFJITUEFO45N/image-asset.jpeg)
+![](images/50de4345-image-asset.jpeg)
 
 Many of our Native brothers and sisters live without the hope. This lack of hope covers them with a darkness that infiltrates their whole life. ([You can read more about it here.](https://www.lutheranindianministries.org/news/they-need-to-know-april))
 

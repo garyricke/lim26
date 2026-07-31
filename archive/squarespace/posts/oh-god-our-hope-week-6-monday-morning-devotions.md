@@ -5,7 +5,7 @@ date: 2020-10-26
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/oh-god-our-hope-week-6-monday-morning-devotions
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af64f9c95608ba3e8a36/1748628700852/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773415487-F7GY3RDB2HLAV2XB8CDP/image-asset.png"]
+images: ["images/7bb66f5f-1748628700852", "images/d4d1e67f-image-asset.png"]
 ---
 # Oh God, Our Hope (Week 6) - Monday Morning Devotions
 
@@ -15,7 +15,7 @@ Oct 26
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773415487-F7GY3RDB2HLAV2XB8CDP/image-asset.png)
+![](images/d4d1e67f-image-asset.png)
 
 Need to start at week 1? [Click here](oh-god-our-hope-week-1-monday-morning-devotions)
 

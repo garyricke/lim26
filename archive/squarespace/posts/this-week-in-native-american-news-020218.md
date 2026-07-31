@@ -5,7 +5,7 @@ date: 2018-02-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-020218
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bcd5f9c95608ba413395/1748628700852/indians-chief-wahoo-dropped-baseball-85a11208ee5d55e5.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776854733-E4Q4J2LRT4REPVYZX8P5/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776856061-88VI2AAQRF24ZCOFYWE9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776856725-KVPDDN368VBI3HCPQEUJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776858153-BU920AEF9LE2ODL3AB3M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776859932-IK4U22MCXRN7DZ1SLMPT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776860978-SNIHNOKXINCSXBSVKPKX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776862847-A8J6VIRYLK4AWD25UDM9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776864476-C4TM04TZRIX1RQPK5IBH/image-asset.jpeg"]
+images: ["images/28ee12f5-indians-chief-wahoo-dropped-baseball-85a11208ee5d55e5.jpg", "images/e4ed87da-image-asset.jpeg", "images/7d992dce-image-asset.jpeg", "images/fdbdf912-image-asset.jpeg", "images/f650cb5e-image-asset.jpeg", "images/7a3602ad-image-asset.jpeg", "images/b433edfd-image-asset.jpeg", "images/ff8bc242-image-asset.jpeg", "images/861fb3b5-image-asset.jpeg"]
 ---
 # This Week in Native American News (2/2/18): Removing Mascots, Reducing Suicide, and Welcoming New Tribes
 
@@ -13,7 +13,7 @@ Feb 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776854733-E4Q4J2LRT4REPVYZX8P5/image-asset.jpeg)
+![](images/e4ed87da-image-asset.jpeg)
 
 # February 2, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Chief Wahoo is Saying Goodbye
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776856061-88VI2AAQRF24ZCOFYWE9/image-asset.jpeg)
+![](images/7d992dce-image-asset.jpeg)
 
 Native Americans took to social media Monday to celebrate the pending “death” of Chief Wahoo, the longtime logo of the Cleveland Indians baseball team which features a garish “Indian” caricature that is offensive to America’s first peoples.
 
@@ -51,7 +51,7 @@ In a statement released Monday, Major League Baseball commissioner Rob Manfred s
 
 ## Far North Canadian First Nation Fighting Suicide and Succeeding
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776856725-KVPDDN368VBI3HCPQEUJ/image-asset.jpeg)
+![](images/fdbdf912-image-asset.jpeg)
 
 Peter Kanayuk was one of the several facilitators at the community's healing workshops earlier this month. (Submitted by Inuit Ilagiit)
 
@@ -73,7 +73,7 @@ Pangnirtung, Nunavut, didn't have a suicide in 2017. That hasn't happened in the
 
 ## Also in "healing" news:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776858153-BU920AEF9LE2ODL3AB3M/image-asset.jpeg)
+![](images/f650cb5e-image-asset.jpeg)
 
 ### [Drug and alcohol rehabilitation will work better if families are involved, experts say](http://www.abc.net.au/news/2018-02-01/drug-and-alcohol-rehab-needs-to-include-the-whole-family/9379432)
 
@@ -87,7 +87,7 @@ For Edward Daly, who was at the centre to get over his ice, alcohol and gambling
 
 ## And Now There Are 573! Six VirginiA Tribes Get Federal Recognition
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776859932-IK4U22MCXRN7DZ1SLMPT/image-asset.jpeg)
+![](images/7a3602ad-image-asset.jpeg)
 
 Senator Tim Kaine (left) Chief Stephen Adkins (Chickahominy), Chief Lee Lockamy (Nansemond) and Senator Mark Warner (far right) share a moment of congratulations. Courtesy Office of Senator Mark Warner
 
@@ -105,7 +105,7 @@ Wayne Adkins, first assistant chief for the Chickahominy, told the Richmond Time
 
 ## Your History Lessons for the Week:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776860978-SNIHNOKXINCSXBSVKPKX/image-asset.jpeg)
+![](images/b433edfd-image-asset.jpeg)
 
 ### [World history would be very different without the blood moon eclipse of 1504](https://qz.com/1191982/blue-moon-lunar-eclipse-how-a-blood-moon-in-1504-shaped-the-world-as-we-know-it/)
 
@@ -113,7 +113,7 @@ Imagine if you didn’t know the big eclipse was coming, and a stranger came alo
 
 That’s what happened in 1504, in Jamaica, when Spanish explorer Christopher Columbus performed a deception that would alter the world’s future.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776862847-A8J6VIRYLK4AWD25UDM9/image-asset.jpeg)
+![](images/ff8bc242-image-asset.jpeg)
 
 ### ['Mind-boggling, hard-to-fathom' treatment at Nanaimo Indian Hospital](http://www.cbc.ca/news/canada/british-columbia/mind-boggling-hard-to-fathom-treatment-at-nanaimo-indian-hospital-lawyer-says-1.4513476)
 
@@ -121,7 +121,7 @@ Sharon Whonnock's first memory is being transferred to the Nanaimo Indian hospit
 
 One of the original academics who looked at the topic says the paternalistic system affected all aspects of life and the hospital system was intertwined with the residential school system. Children were sent to the hospitals from the schools and from the schools to the hospitals.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776864476-C4TM04TZRIX1RQPK5IBH/image-asset.jpeg)
+![](images/861fb3b5-image-asset.jpeg)
 
 ### [From Yosemite to Bears Ears, Erasing Native Americans from US National Parks](https://www.collectorsweekly.com/articles/erasing-native-americans-from-national-parks/)
 

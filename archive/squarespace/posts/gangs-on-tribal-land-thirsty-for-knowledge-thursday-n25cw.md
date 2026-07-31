@@ -5,7 +5,7 @@ date: 2017-08-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/gangs-on-tribal-land-thirsty-for-knowledge-thursday-n25cw
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf6973f8a72aef854d4f/1748628700852/maxresdefault.jpg"]
+images: ["images/4310b9fc-maxresdefault.jpg"]
 ---
 # The Fancy War Dance - Thirsty (for Knowledge) Thursday
 

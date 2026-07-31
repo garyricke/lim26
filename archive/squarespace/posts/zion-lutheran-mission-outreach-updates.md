@@ -5,7 +5,7 @@ date: 2014-12-23
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/alaskainterior/zion-lutheran-mission-outreach-updates
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dd349f775408febf94df/1665785151576/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785141794-OOL8GBXNEYPJKW7CYH3C/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785142922-U633O47QY8SR8M2VC65S/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785145287-I0DTESU13G4G0PL1LIKT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785146665-W1FM4EKJFOI2FCTC4O0H/image-asset.jpeg"]
+images: ["images/37919f8d-1665785151576", "images/a6b3a5e4-image-asset.jpeg", "images/beea59ff-image-asset.jpeg", "images/beb2d57f-image-asset.jpeg", "images/55141de8-image-asset.jpeg"]
 ---
 # Zion Lutheran Mission Outreach Updates
 
@@ -18,17 +18,17 @@ Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 As part of our year-end traditions, we started in November to gear up for Christmas food boxes to Alaskan villages. We sent out the request for turkeys, that our congregants so faithfully supply, along with money for other food items for Christmas dinners. We sent out boxes to 22 villages this year. 15 villages received turkeys, and the seven we mailed received canned hams. This year, donations of cookies and other goodies came in, so many villages received two boxes.
 This year, along with food boxes, we did a bit extra for the village of Allakaket, which has a little Episcopal church but no pastor. A sock drive produced 104 pairs of heavy winter socks from our Zion members and 79 pairs from Bonnie Smith's congregation in Akeley, MN. She is one of our ladies, along with Gayle Poland from Texas, who travels to Allakaket in the summer to [volunteer teaching vacation Bible school and adult Bible studies](https://lutheranindianministries.squarespace.com/volunteer/alaska-training-center).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785141794-OOL8GBXNEYPJKW7CYH3C/image-asset.jpeg)
+![](images/a6b3a5e4-image-asset.jpeg)
 
 Nearly 100 stocking caps accompanied the socks, made and donated by Roseanne Gross and other ladies in Deptford, NJ. We also sent a box of 51 stocking caps, packaged and nicely wrapped with stuffed toys, for children under the age of 14.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785142922-U633O47QY8SR8M2VC65S/image-asset.jpeg)
+![](images/beea59ff-image-asset.jpeg)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785145287-I0DTESU13G4G0PL1LIKT/image-asset.jpeg)
+![](images/beb2d57f-image-asset.jpeg)
 
 One of the things the village of Allakaket asked for, and I had fun making, was a new Santa Clause suit, modeled here by [David](https://lutheranindianministries.squarespace.com/blog/alaskainterior/rev-david-sternbeck-volunteer-service-3).
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785146665-W1FM4EKJFOI2FCTC4O0H/image-asset.jpeg)
+![](images/55141de8-image-asset.jpeg)
 
 Other donations came in and were sent out for specific needs. Marti Kouder from Michigan made four beautiful quilts that we sent to three villages—Ambler, Shungnak, and Fort Yukon—to bless four elders. A box of knitted child sweaters was donated by Evelyn Biasch and sent to Ambler.
 

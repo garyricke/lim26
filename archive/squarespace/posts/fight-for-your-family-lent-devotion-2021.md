@@ -5,7 +5,7 @@ date: 2021-03-25
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/fight-for-your-family-lent-devotion-2021
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae36bcc723580922cd68/1748628700852/21+Fight+for+your+Family.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773111611-ZK597G2GH2KTK29M6RNX/image-asset.jpeg"]
+images: ["images/ae510e8b-21_Fight_for_your_Family.jpg", "images/08adb49c-image-asset.jpeg"]
 ---
 # Fight for Your Family (Lent Devotion 2021)
 
@@ -13,7 +13,7 @@ Mar 25
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773111611-ZK597G2GH2KTK29M6RNX/image-asset.jpeg)
+![](images/08adb49c-image-asset.jpeg)
 
 # “THE FAMILY IS AT THE HEART OF NATIVE AMERICAN CULTURES. THERE IS NO OTHER WORK MORE IMPORTANT THAN FATHERHOOD AND MOTHERHOOD. IT IS SACRED. WE MUST REMEMBER OUR FOREFATHERS FOR THEIR COMMITMENT TO RAISING THEIR CHILDREN AND PUTTING THEIR CHILDREN FIRST. FAMILY WAS THE CENTER OF THEIR LIVES.” AL POOLEY, FATHERHOOD IS SACRED MOTHERHOOD IS SACRED
 

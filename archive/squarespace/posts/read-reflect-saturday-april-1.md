@@ -5,7 +5,7 @@ date: 2017-04-01
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-saturday-april-1
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c14a9d6ea636a8af8921/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777995848-4DEZ3QSXNW1QAYZ5YMN0/image-asset.png"]
+images: ["images/6768fed2-2017_lent_cover.jpg", "images/fa4e0b81-image-asset.png"]
 ---
 # Read & Reflect: Saturday, April 1
 
@@ -13,7 +13,7 @@ Apr 1
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777995848-4DEZ3QSXNW1QAYZ5YMN0/image-asset.png)
+![](images/fa4e0b81-image-asset.png)
 
 ## Read: [John 15:13-17](https://www.bible.com/bible/111/jhn.15.13-17), [1 John 3:16-18](https://www.bible.com/bible/111/1jn.3.16-18)
 

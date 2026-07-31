@@ -5,7 +5,7 @@ date: 2020-04-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/love-as-i-have-loved
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b040ff37c72839417c8e/1748628700852/1796573_10154749554850201_1924754896643632754_n.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773635021-4CCTGMRFTJR7EQMPLOWE/image-asset.png"]
+images: ["images/c8e2e774-1796573_10154749554850201_1924754896643632754_n.jpg", "images/20e6de19-image-asset.png"]
 ---
 # Love as I have Loved - Lent 2020
 
@@ -15,7 +15,7 @@ Apr 7
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773635021-4CCTGMRFTJR7EQMPLOWE/image-asset.png)
+![](images/20e6de19-image-asset.png)
 
 ### “A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another.” [John 13:34](https://www.bible.com/bible/111/jhn.13.34)
 

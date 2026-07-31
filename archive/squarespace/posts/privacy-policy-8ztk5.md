@@ -5,7 +5,7 @@ date: 2022-01-01
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/reflections/privacy-policy-8ztk5
 section: reflections
-images: ["https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # Privacy Policy
 
@@ -187,6 +187,6 @@ If you have any questions about this Privacy Policy, You can contact us:
 * By email: info@hypersitewebsite.com
 * By visiting this page on our website: <https://www.hypersitewebsite.com/contact>
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

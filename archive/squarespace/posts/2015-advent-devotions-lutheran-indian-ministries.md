@@ -5,7 +5,7 @@ date: 2015-11-28
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/devotions/2015-advent-devotions-lutheran-indian-ministries
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349d9e0cfbd2d53cbcc8923/1665784296514/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784290608-TBIIAL5Q8PBC6T7H39NW/image-asset.jpeg"]
+images: ["images/6b76f187-1665784296514", "images/ed6e4c58-image-asset.jpeg"]
 ---
 # 2015 Advent Devotions from Lutheran Indian Ministries
 
@@ -15,7 +15,7 @@ Nov 28
 
 Written By [LIM](/news-notes?author=568401b704acd3cdb4a44043)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665784290608-TBIIAL5Q8PBC6T7H39NW/image-asset.jpeg)
+![](images/ed6e4c58-image-asset.jpeg)
 
 2015 Advent Devotions from Lutheran Indian Ministries
 

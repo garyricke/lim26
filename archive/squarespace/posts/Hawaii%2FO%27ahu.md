@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/category/Hawaii%2FO%27ahu
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775366855-SIMG84Z0UIRJX5HD87TU/Lk1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775484275-Z3EFYW2GJ6WKITWQJ86T/Lk2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776575010-SN1TPYJC4VAYL09298WY/and-he-answered-them-do-you-think-that-these-galileans-were-worse-sinners-t-esv43619.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776596386-4KE7IP2U3VLHKTB3FMFB/09b9f07c680a50e191f87975267cd14d.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776719507-V82E96TFVOB6BIOIJH4Z/17JulClarence.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777029354-9SBYS9BWHT4JYS7OVRSE/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777217112-9N2TOX8XV9GRQ40G0ZFY/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777608732-5RF7XD52RU3KLZYZW8JE/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779057663-P5OBNQWGIV93UDIHJNHK/HI-TeamPacksFood.JPG"]
+images: ["images/05b80cd6-Lk1.jpg", "images/f58f6109-Lk2.jpg", "images/f8810df9-and-he-answered-them-do-you-think-that-these-galileans-were-worse-sinners-t-esv43619.jpg", "images/79c52f89-09b9f07c680a50e191f87975267cd14d.jpg", "images/25bcf160-17JulClarence.jpg", "images/58fc2695-Advent__1_.png", "images/81211c96-Advent__1_.png", "images/a5442fac-image-asset.jpeg", "images/352731b6-HI-TeamPacksFood.JPG"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![Leapt with Joy (Advent Devotion) - Thursday, December 20](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775366855-SIMG84Z0UIRJX5HD87TU/Lk1.jpg)](/news-notes/leapt-with-joy-advent-devotion-thursday-december-20)
+[![Leapt with Joy (Advent Devotion) - Thursday, December 20](images/05b80cd6-Lk1.jpg)](/news-notes/leapt-with-joy-advent-devotion-thursday-december-20)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User
@@ -77,7 +77,7 @@ When was the last time you leaped for joy at the coming Christ?
 
 [Read More](/news-notes/leapt-with-joy-advent-devotion-thursday-december-20)
 
-[![Angels and Whales (Advent Devotion) - Saturday, December 8](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775484275-Z3EFYW2GJ6WKITWQJ86T/Lk2.jpg)](/news-notes/the-messenger-advent-devotion-friday-december-7-xdpwz)
+[![Angels and Whales (Advent Devotion) - Saturday, December 8](images/f58f6109-Lk2.jpg)](/news-notes/the-messenger-advent-devotion-friday-december-7-xdpwz)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User
@@ -93,7 +93,7 @@ Guest User
 
 [Read More](/news-notes/the-messenger-advent-devotion-friday-december-7-xdpwz)
 
-[![Beware the Sharks (Lent) - Tuesday, March 27](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776575010-SN1TPYJC4VAYL09298WY/and-he-answered-them-do-you-think-that-these-galileans-were-worse-sinners-t-esv43619.jpg)](/news-notes/beware-the-sharks-lent-tuesday-march-27)
+[![Beware the Sharks (Lent) - Tuesday, March 27](images/f8810df9-and-he-answered-them-do-you-think-that-these-galileans-were-worse-sinners-t-esv43619.jpg)](/news-notes/beware-the-sharks-lent-tuesday-march-27)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User
@@ -111,7 +111,7 @@ When trials come, do not blame God. Repent. Confess your sins and ask for forgiv
 
 [Read More](/news-notes/beware-the-sharks-lent-tuesday-march-27)
 
-[![Are We Any Better Than Fish? (Lent) - Monday, March 19](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776596386-4KE7IP2U3VLHKTB3FMFB/09b9f07c680a50e191f87975267cd14d.jpg)](/news-notes/are-we-any-better-than-fish-lent-monday-march-19)
+[![Are We Any Better Than Fish? (Lent) - Monday, March 19](images/79c52f89-09b9f07c680a50e191f87975267cd14d.jpg)](/news-notes/are-we-any-better-than-fish-lent-monday-march-19)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User
@@ -127,7 +127,7 @@ It is interesting that the first thing Jesus says to the disciples was words of 
 
 [Read More](/news-notes/are-we-any-better-than-fish-lent-monday-march-19)
 
-[![Growing a Community of Believers in Hawaii](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776719507-V82E96TFVOB6BIOIJH4Z/17JulClarence.jpg)](/news-notes/growing-a-community-of-believers-in-hawaii)
+[![Growing a Community of Believers in Hawaii](images/25bcf160-17JulClarence.jpg)](/news-notes/growing-a-community-of-believers-in-hawaii)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User
@@ -145,7 +145,7 @@ On the island of Oahu, where churches and communities are becoming more disconne
 
 [Read More](/news-notes/growing-a-community-of-believers-in-hawaii)
 
-[![NU OLI — Glad Tidings (Advent) - Sunday, December 31](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777029354-9SBYS9BWHT4JYS7OVRSE/Advent+%281%29.png)](/news-notes/nu-oli-glad-tidings-advent-sunday-december-31)
+[![NU OLI — Glad Tidings (Advent) - Sunday, December 31](images/58fc2695-Advent__1_.png)](/news-notes/nu-oli-glad-tidings-advent-sunday-december-31)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User
@@ -161,7 +161,7 @@ Lord, remind me often that You have been exceedingly generous to me. Help me to 
 
 [Read More](/news-notes/nu-oli-glad-tidings-advent-sunday-december-31)
 
-[![Kapiolani's Defiance of Pele (Advent) - Monday, December 4](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777217112-9N2TOX8XV9GRQ40G0ZFY/Advent+%281%29.png)](/news-notes/kapiolanis-defiance-of-pele-advent-monday-december-4)
+[![Kapiolani's Defiance of Pele (Advent) - Monday, December 4](images/81211c96-Advent__1_.png)](/news-notes/kapiolanis-defiance-of-pele-advent-monday-december-4)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User
@@ -177,7 +177,7 @@ In the year 1824, Kapiolani took a journey of nearly a hundred miles on foot on 
 
 [Read More](/news-notes/kapiolanis-defiance-of-pele-advent-monday-december-4)
 
-[![A Focus on Native Hawaiians: Proclaim, Disciple, Heal](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777608732-5RF7XD52RU3KLZYZW8JE/image-asset.jpeg)](/news-notes/a-focus-on-native-hawaiians)
+[![A Focus on Native Hawaiians: Proclaim, Disciple, Heal](images/a5442fac-image-asset.jpeg)](/news-notes/a-focus-on-native-hawaiians)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User
@@ -211,7 +211,7 @@ Guest User
 
 [Read More](/news-notes/jumping-into-the-pool)
 
-[![A Vision for Hawaii & LIM](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779057663-P5OBNQWGIV93UDIHJNHK/HI-TeamPacksFood.JPG)](/news-notes/a-vision-for-hawaii-lim)
+[![A Vision for Hawaii & LIM](images/352731b6-HI-TeamPacksFood.JPG)](/news-notes/a-vision-for-hawaii-lim)
 
 [Hawaii/O'ahu](/news-notes/category/Hawaii%2FO%27ahu)
 Guest User

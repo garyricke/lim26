@@ -5,7 +5,7 @@ date: 2020-01-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-01102020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b12ece4bec6e8d1e1ca6/1748628700852/960.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773870801-QJR2IOCTUT687I4CBVP0/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773871637-OMPL9HNYAOUO6GWMPPUH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773873114-3I2ZAQKRW2CL1E2KP6CJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773874086-DZTI08E6NQC583RB03SQ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773874789-5CDBR0IPGBJIXDY7QK1N/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773875621-7WQDVXWAJ9MZNSR05VTP/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773876914-FHTL915H3RM1O1HLCCYT/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773878523-R0B1QW4ESDTEAPJTOTMD/image-asset.jpeg"]
+images: ["images/88700040-960.jpg", "images/1748a694-image-asset.jpeg", "images/5a1c71d5-image-asset.jpeg", "images/a31af284-image-asset.jpeg", "images/380adb63-image-asset.jpeg", "images/ceb992ab-image-asset.jpeg", "images/bd4532b1-image-asset.jpeg", "images/89ce173f-image-asset.jpeg", "images/8186c89f-image-asset.jpeg"]
 ---
 # This Week in Native American News (1/17/2020): Land taxes, public health crises, and living history
 
@@ -13,7 +13,7 @@ Jan 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773870801-QJR2IOCTUT687I4CBVP0/image-asset.jpeg)
+![](images/1748a694-image-asset.jpeg)
 
 # January 17, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Native American 'land taxes': a step on the roadmap for reparations
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773871637-OMPL9HNYAOUO6GWMPPUH/image-asset.jpeg)
+![](images/5a1c71d5-image-asset.jpeg)
 
 To help the Sogorea Te’ Land Trust rework the land, local residents and businesses can pay the organization a Shuumi land tax. Photograph: Courtesy of Sogorea Te’ Land Trust
 
@@ -41,7 +41,7 @@ To help the Sogorea Te’ Land Trust rework the land, populate it with native fr
 
 ## Native New Mexican writes popular superhero Navajo folklore book
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773873114-3I2ZAQKRW2CL1E2KP6CJ/image-asset.jpeg)
+![](images/a31af284-image-asset.jpeg)
 
 The main character in a new fantasy book is one we don't see a lot of these days, and the superhero story is set in New Mexico.
 
@@ -61,7 +61,7 @@ Roanhorse enjoys teaching kids how to develop their narratives, because she beli
 
 ## How ‘Indian Relocation’ Created a Public Health Crisis
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773874086-DZTI08E6NQC583RB03SQ/image-asset.jpeg)
+![](images/380adb63-image-asset.jpeg)
 
 Life expectancies and other health stats for Native Americans lag far behind other communities. At the Standing Rock Indian Health Service in Fort Yates, North Dakota, Dr. Lynelle Noisy Hawk examines a patient Will Kincaid/AP
 
@@ -85,7 +85,7 @@ That has impact on communities, and we see it play out in terms of mental health
 
 ## History Today:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773874789-5CDBR0IPGBJIXDY7QK1N/image-asset.jpeg)
+![](images/ceb992ab-image-asset.jpeg)
 
 ### [Mayflower 400 could help recover lost Native American treasure](https://www.theguardian.com/culture/2020/jan/05/mayflower-400-events-could-help-recover-lost-native-american-treasure-wampanoag-wampum)
 
@@ -93,7 +93,7 @@ Native Americans whose ancestors suffered at the hands of 17th-century European
 
 A year-long series of exhibitions, performances and community events will be centered on the Devon port of Plymouth, four centuries after the ship set sail for North America. Organizers say the close involvement of members of the Wampanoag Nation, whose ancestors were all but wiped out following the arrival of the colonists in 1620, is crucial to the success of the project.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773875621-7WQDVXWAJ9MZNSR05VTP/image-asset.jpeg)
+![](images/bd4532b1-image-asset.jpeg)
 
 ### [Virginia’s Monacan tribe uses new federal status to take a stand for what could be its long-lost capital](https://www.washingtonpost.com/local/virginia-politics/virginias-monacan-tribe-uses-new-federal-status-to-take-a-stand-for-what-could-be-its-long-lost-capital/2020/01/05/66a6f826-227f-11ea-bed5-880264cc91a9_story.html)
 
@@ -105,13 +105,13 @@ But one group of Virginians claims the land has even deeper significance. The Mo
 
 ## The Art Scene:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773876914-FHTL915H3RM1O1HLCCYT/image-asset.jpeg)
+![](images/89ce173f-image-asset.jpeg)
 
 ### [Northern exposure: Textile Museum exhibition explores the art of Inuit printmaking](https://www.theglobeandmail.com/life/home-and-design/article-northern-exposure-textile-museum-exhibition-explores-the-art-of-inuit/)
 
 Canadians tend to think of Inuit art as something that adorns a gallery wall, not your living-room curtains. For a brief period in the 1960s, however, a handful of artists at Kinngait Studios in Cape Dorset, Nunavut, set out to change this with a collection of hand-printed textiles. An exhibition at the Textile Museum of Canada in Toronto tells the story of this forgotten initiative, while celebrating the new generation of Inuit textile designers who are following in its footsteps.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773878523-R0B1QW4ESDTEAPJTOTMD/image-asset.jpeg)
+![](images/8186c89f-image-asset.jpeg)
 
 ### [Cree youths explore impact of solar project through film](https://www.cbc.ca/news/canada/edmonton/indigenous-youth-solar-power-community-elders-film-1.5414648)
 

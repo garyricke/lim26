@@ -5,7 +5,7 @@ date: 2017-11-05
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-629-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be7eb8c7786b8e9dbfd0/1748628700852/luke+6-29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777279308-O0R9H5VDJD7DBJLWHWZZ/image-asset.png"]
+images: ["images/36dd7315-luke_6-29.png", "images/35eb283d-image-asset.png"]
 ---
 # Luke 6:29-30 FNV
 
@@ -13,7 +13,7 @@ Nov 5
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777279308-O0R9H5VDJD7DBJLWHWZZ/image-asset.png)
+![](images/35eb283d-image-asset.png)
 
 Here, again, it is clear that faithfully to cling to the literal interpretation would be utterly to ignore the true spirit of the Lord's words here, where he sets forth his sublime ideal of a charity which ignores its own rights and knows no limits to its self-sacrifice.
 

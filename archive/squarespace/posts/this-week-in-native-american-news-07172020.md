@@ -5,7 +5,7 @@ date: 2020-07-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-07172020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afc9f9c95608ba3ea661/1748628700852/file-20200714-139854-dnhikl.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773513653-ILEW3EZYAKXL7N0L01WA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773515164-XKAJXLITEEXMP4CG88RY/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773516269-UQAMZ0Z422IAPDQI8H83/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773517350-TALVYXVRI0OBYKYI8ZIY/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773518327-S2DFFO2MWA90BYILOWIR/image-asset.jpeg"]
+images: ["images/ca6b0785-file-20200714-139854-dnhikl.png", "images/2e7ff6db-image-asset.jpeg", "images/69c344ef-image-asset.png", "images/26e21485-image-asset.jpeg", "images/4e140ec1-image-asset.jpeg", "images/fa6eecd1-image-asset.jpeg"]
 ---
 # This Week in Native American News (7/17/2020): Oklahoma plus some Running, Boxing, & Dancing
 
@@ -13,7 +13,7 @@ Jul 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773513653-ILEW3EZYAKXL7N0L01WA/image-asset.jpeg)
+![](images/2e7ff6db-image-asset.jpeg)
 
 # July 17, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### What is going on in Oklahoma?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773515164-XKAJXLITEEXMP4CG88RY/image-asset.png)
+![](images/69c344ef-image-asset.png)
 
 The news alert about a ruling from US supreme court took Kimberly Tiger by surprise.
 
@@ -37,7 +37,7 @@ However, Tiger acknowledged that there are legal gray areas looming. “Now that
 
 ## [Read the Full Story Here](https://www.theguardian.com/environment/2020/jul/15/oklahoma-court-ruling-native-american-sovereignty)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773516269-UQAMZ0Z422IAPDQI8H83/image-asset.jpeg)
+![](images/26e21485-image-asset.jpeg)
 
 ## In similar news… [Oklahoma is – and always has been – Native land](https://theconversation.com/oklahoma-is-and-always-has-been-native-land-142546)
 
@@ -49,7 +49,7 @@ North America was not a vast, unpopulated wilderness when white colonizers arriv
 
 ### HOW TO BE AN ALLY TO NATIVE AND INDIGENOUS COMMUNITIES
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773517350-TALVYXVRI0OBYKYI8ZIY/image-asset.jpeg)
+![](images/4e140ec1-image-asset.jpeg)
 
 PHOTO CREDIT: DAVID MCNEW/STRINGER VIA GETTY
 
@@ -63,7 +63,7 @@ If you want to educate yourself and become a better ally to Native communities, 
 
 ### How Running in Moccasins Empowered This Navajo Marathoner
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773518327-S2DFFO2MWA90BYILOWIR/image-asset.jpeg)
+![](images/fa6eecd1-image-asset.jpeg)
 
 For Harold Bennally, traditional footwear combines running's physical elements with the spiritual. PHOTOGRAPHY BY CHRIS HINKLE
 

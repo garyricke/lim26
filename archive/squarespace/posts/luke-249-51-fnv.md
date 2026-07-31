@@ -5,7 +5,7 @@ date: 2016-10-09
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-249-51-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c538aca4b13cd38a38f9/1748628700852/-Why+were+you+looking+everywhere+for+me--+Creator+Sets+Free+%28Jesus%29+asked.+-I+thought+you+would+know+to+look+for+me+here%2C+in+my+Father%27s+Lodge%2C+doing+what+he+sent+me+to+do.-.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779002409-HTQFDATGL8M11RS5MGH8/image-asset.png"]
+images: ["images/40fe3984--Why_were_you_looking_everywhere_for_me--_Creator_Sets_Free__Jesus__asked._-I_thought_you_would_know_to_look_for_me_here", "images/e96ec306-image-asset.png"]
 ---
 # Luke 2:49-51 FNV
 
@@ -13,7 +13,7 @@ Oct 9
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779002409-HTQFDATGL8M11RS5MGH8/image-asset.png)
+![](images/e96ec306-image-asset.png)
 
 To the gently veiled reproach of Mary, Jesus replies, apparently with wonderment, with another question. It had come upon him so quietly and yet with such irresistible force that the temple of God was his real earthly home, that he marvelled at his mother's slowness of comprehension. Why should she have been surprised at his still lingering in the sacred courts? Did she not know who he was, and whence he came?
 

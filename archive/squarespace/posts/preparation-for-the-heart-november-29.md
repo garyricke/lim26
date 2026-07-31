@@ -5,7 +5,7 @@ date: 2016-11-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/preparation-for-the-heart-november-29
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c49e2e65bd531c310a67/1748628700852/2016+Advent+Devotions.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778848019-1F2IV0RQKIVGNI53R1A4/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778849194-GJ07E1RBSANMEK9SGP7A/image-asset.png"]
+images: ["images/41fa7ed2-2016_Advent_Devotions.png", "images/e14e48dc-image-asset.png", "images/4d9fb9be-image-asset.png"]
 ---
 # Preparation for the Heart: November 29
 
@@ -15,7 +15,7 @@ Nov 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778848019-1F2IV0RQKIVGNI53R1A4/image-asset.png)
+![](images/e14e48dc-image-asset.png)
 
 ## Jesus returned to Galilee in the power of the Spirit, and news about him spread through the whole countryside. He taught in their synagogues, and everyone praised him. He went to Nazareth, where he had been brought up, and on the Sabbath day he went into the synagogue, as was his custom. And he stood up to read. The scroll of the prophet Isaiah was handed to him. Unrolling it, he found the place where it is written: "The Spirit of the Lord is on me, because he has anointed me to preach good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to release the oppressed, to proclaim the year of the Lord's favor."  Luke 4:14-19 (NIV)
 
@@ -29,7 +29,7 @@ The heart and soul that moved the Spirit of God to come as a Redeemer into our f
 
 [Rev. Winston Wilson (Cowlitz), Neah Bay, Washington](/neah-bay)
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778849194-GJ07E1RBSANMEK9SGP7A/image-asset.png)](http://lutheranindianministries.org/news/be-the-light-to-the-lost)
+[![](images/4d9fb9be-image-asset.png)](http://lutheranindianministries.org/news/be-the-light-to-the-lost)
 
 [IT'S gIVING TUESDAY! HAVE YOU MADE A GIFT?](http://lutheranindianministries.org/news/be-the-light-to-the-lost)
 

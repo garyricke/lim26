@@ -5,7 +5,7 @@ date: 2017-05-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/thirsty-for-knowledge-thursday-powwowhope
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c08d4d725316ea64a12c/1748628700852/hqdefault+%281%29.jpg"]
+images: ["images/edf24f7f-hqdefault__1_.jpg"]
 ---
 # Thirsty (for Knowledge) Thursday - Powwow Hope
 

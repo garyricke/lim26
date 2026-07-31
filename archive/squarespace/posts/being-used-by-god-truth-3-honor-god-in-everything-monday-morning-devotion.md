@@ -5,7 +5,7 @@ date: 2017-01-16
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/being-used-by-god-truth-3-honor-god-in-everything-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c3f140a2740f9d06ef53/1748628700852/psa-57-11-ww-nasa-9x.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778675022-UUK2YWX50G4ZKL4M4DB8/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778675769-QSL3D9IDH3HNNOEAFVJU/image-asset.jpeg"]
+images: ["images/6f7ecf1e-psa-57-11-ww-nasa-9x.jpg", "images/23363101-image-asset.jpeg", "images/5df100a0-image-asset.jpeg"]
 ---
 # Being Used by God, Tip #3: Honor God in Everything - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jan 16
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778675022-UUK2YWX50G4ZKL4M4DB8/image-asset.jpeg)
+![](images/23363101-image-asset.jpeg)
 
 God honors those who honor him.
 
@@ -21,7 +21,7 @@ David writes, *"Be exalted, O God, above the heavens; let your glory be over all
 
 This is David's ultimate desire, that God's glory be made known to all people and his name proclaimed. It is the same desire we are taught to pray in the Lord's Prayer, *"hallowed by thy name."* (Matthew 6:9)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778675769-QSL3D9IDH3HNNOEAFVJU/image-asset.jpeg)
+![](images/5df100a0-image-asset.jpeg)
 
 The word "hallowed" means to render or pronounce holy. God's name is essentially holy; and the meaning of this psalm is, "Let the name be celebrated, venerated, and esteemed as holy everywhere, and receive from all people proper honor." [From *Barnes' Notes of the Bible* ]
 

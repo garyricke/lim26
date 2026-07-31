@@ -5,7 +5,7 @@ date: 2020-09-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-9-18-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349af961186e246c3b768dd/1748628700852/5bdf55ba-8316-4732-b4e8-d34902531d4a-Red_Feather_Handwashing_5.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773462898-S6ILNZ0LB6W3JNMAYZPM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773464336-TRD44HKYBJLH8CEPZXFH/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773465314-ND6S1X9FI2DZ0ELB3C3M/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773466284-5860BJCLKCTURKC7KUDV/image-asset.jpeg"]
+images: ["images/a22a113e-5bdf55ba-8316-4732-b4e8-d34902531d4a-Red_Feather_Handwashing_5.jpg", "images/eaa794fc-image-asset.jpeg", "images/07fca23a-image-asset.jpeg", "images/b61c7545-image-asset.jpeg", "images/c25f6101-image-asset.jpeg"]
 ---
 # This Week in Native American News (9/18/2020): Hand washing, Cycling, & Tattoos
 
@@ -13,7 +13,7 @@ Sep 18
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773462898-S6ILNZ0LB6W3JNMAYZPM/image-asset.jpeg)
+![](images/eaa794fc-image-asset.jpeg)
 
 # September 18, 2020
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ### 'Like a lifesaver': Nonprofit group builds hand-washing units for Hopi, Navajo families without running water
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773464336-TRD44HKYBJLH8CEPZXFH/image-asset.jpeg)
+![](images/07fca23a-image-asset.jpeg)
 
 Red Feather Program Coordinator Darleen Cortez hands off a handwashing station to Anthony and Linda Batala from Moenkopi, Arizona. *Shondiin Silversmith/The Arizona Republic*
 
@@ -43,7 +43,7 @@ The station is made up of two modified 35-gallon trash bins. One bin is for clea
 
 ### Neilson Powless, likely first Native American to compete in Tour de France, leads 'trail of journey, hope and inspiration'
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773465314-ND6S1X9FI2DZ0ELB3C3M/image-asset.jpeg)
+![](images/b61c7545-image-asset.jpeg)
 
 Neilson Powless, likely first Native American to compete in Tour de France, leads 'trail of journey, hope and inspiration' (Jared & Ashley Gruber)
 
@@ -67,7 +67,7 @@ She’s hoping her brother’s success can help change that.
 
 ### How Native Arctic women are taking back the art of Inuit tattoos
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773466284-5860BJCLKCTURKC7KUDV/image-asset.jpeg)
+![](images/c25f6101-image-asset.jpeg)
 
 Photo: Michael Conti Photography + www.naniqdesign.com
 

@@ -5,7 +5,7 @@ date: 2016-04-06
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/as-surely-as-the-sun-rises
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349cefbfd057b19f29c75f2/1748628700852/6776635-beautiful-sunrise-wallpaper.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781500763-4FIRAJQ3NQS86O7094C2/image-asset.jpeg"]
+images: ["images/d9511ab3-6776635-beautiful-sunrise-wallpaper.jpg", "images/2d5a2a8c-image-asset.jpeg"]
 ---
 # As surely as the sun rises
 
@@ -35,7 +35,7 @@ Without dealing with the underlying problems - the wounds of the heart and the h
 
 I found by better understanding the Word of God through thorough study, as I have begun to do in the EIIT program (Ethnic Immigrant Institute of Theology), I am much better able to speak truth with Christ’s love as it relates to a person’s individual and present needs. With this trip, I was better able to help them replace the lies they learned as a child with the real Truth of who they are in God’s eyes. The truth that they are fearfully and wonderfully made (Psalm 139:14) and that God does not hold their past against them. They are worthy as individuals, and they have a place in God’s story.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665781500763-4FIRAJQ3NQS86O7094C2/image-asset.jpeg)
+![](images/2d5a2a8c-image-asset.jpeg)
 
 Their love for God is growing, and their hate and pain are being released. As they learn to cope with their addictions and past actions, they will better understand their worth and see the love God has for them. It was extremely hard to leave when our week was up, at the beginning of their faith walk, but plans are already in the works to visit them again.
 

@@ -5,7 +5,7 @@ date: 2017-04-18
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/extra-reading-thank-you
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c10c7f9bf6106f0955de/1748628700852/lent+cover.jpg"]
+images: ["images/d43143ee-lent_cover.jpg"]
 ---
 # Extra Reading & Thank You
 

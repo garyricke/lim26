@@ -5,7 +5,7 @@ date: 2020-04-11
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/take-heart
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b02e1770ed03474a679d/1748628700852/Globe-1_940x940.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773617260-M3UO0NRGRODEUSWCPO15/image-asset.png"]
+images: ["images/cba342bf-Globe-1_940x940.jpg", "images/4d0a90a6-image-asset.png"]
 ---
 # Take Heart - Lent 2020
 
@@ -15,7 +15,7 @@ Apr 11
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773617260-M3UO0NRGRODEUSWCPO15/image-asset.png)
+![](images/4d0a90a6-image-asset.png)
 
 ### “I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.” [John 16:33](https://www.bible.com/bible/111/jhn.16.33)
 

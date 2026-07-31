@@ -5,7 +5,7 @@ date: 2020-12-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/be-a-follower-tuesday-december-29-advent-2020
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349ae7331413017034b21ca/1748628700852/1280x1280+%282%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773173276-ON1LUMAOIZ3RPGKJJNWF/image-asset.png"]
+images: ["images/44f18510-1280x1280__2_.jpg", "images/90e42b3f-image-asset.png"]
 ---
 # Be a Follower - Tuesday, December 29 (Advent 2020)
 
@@ -13,7 +13,7 @@ Dec 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773173276-ON1LUMAOIZ3RPGKJJNWF/image-asset.png)
+![](images/90e42b3f-image-asset.png)
 
 ## Then Jesus said to his disciples, “Whoever wants to be my disciple must deny themselves and take up their cross and follow me.” [Matthew 16:24](https://my.bible.com/bible/111/MAT.16.24)
 

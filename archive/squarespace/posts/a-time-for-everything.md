@@ -5,7 +5,7 @@ date: 2020-02-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/a-time-for-everything
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b0f6dd7dfe2ee01d40a6/1748628700852/10806.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773816466-IEKB576TLYUIKCH47G6F/image-asset.png"]
+images: ["images/91008e30-10806.jpeg", "images/7cdc5d23-image-asset.png"]
 ---
 # A Time for Everything - Lent 2020
 
@@ -15,7 +15,7 @@ Feb 27
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773816466-IEKB576TLYUIKCH47G6F/image-asset.png)
+![](images/7cdc5d23-image-asset.png)
 
 ### To every thing there is a season, and a time to every purpose under the heaven: A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted; A time to kill, and a time to heal; a time to break down, and a time to build up; time to weep, and a time to laugh; a time to mourn, and a time to dance; A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing. [Ecclesiastes 3:1-5](https://www.bible.com/bible/111/ecc.3.1-5)
 

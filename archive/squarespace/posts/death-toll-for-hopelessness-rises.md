@@ -5,7 +5,7 @@ date: 2015-08-25
 author: "LIM"
 original_url: https://www.lutheranindianministries.org/news-notes/wisconsinoneida/death-toll-for-hopelessness-rises
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349dcb3ddf221709075d2a2/1665785028147/", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785012740-RM4SCOXJ69B6RZL9KETJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785015495-3OOT61FBBZJN171IVG4K/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785017280-ZQD5KQA0ISTZ9FC0XC9K/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785018777-2AQ5KFX7NT2GVLNRG8P6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785019834-JWJG2U6ICZ9UXBPOOJ4O/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785020784-1N7XFA7LNB6Y3WHV7DIQ/image-asset.jpeg"]
+images: ["images/b403eb09-1665785028147", "images/13e1b0b4-image-asset.jpeg", "images/a3f65376-image-asset.jpeg", "images/3c6cadee-image-asset.jpeg", "images/cba13e53-image-asset.jpeg", "images/981cb530-image-asset.jpeg", "images/d21b51db-image-asset.jpeg"]
 ---
 # Death Toll for Hopelessness Rises
 
@@ -34,27 +34,27 @@ Tragically, suicide is prevalent among many Native people groups. We request you
 
 *Pictured are Bob Prue, Noah Prue and Debbie Wills with SWAMP-IN volunteers and Lakota residents during a servant event at Cheyenne River Sioux Reservation, Eagle Butte, South Dakota.*
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785012740-RM4SCOXJ69B6RZL9KETJ/image-asset.jpeg)
+![](images/13e1b0b4-image-asset.jpeg)
 
 Bob Prue with SWAMP-In volunteers
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785015495-3OOT61FBBZJN171IVG4K/image-asset.jpeg)
+![](images/a3f65376-image-asset.jpeg)
 
 Bob Prue SWAMP-IN VBS
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785017280-ZQD5KQA0ISTZ9FC0XC9K/image-asset.jpeg)
+![](images/3c6cadee-image-asset.jpeg)
 
 SWAMP-IN Volunteers
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785018777-2AQ5KFX7NT2GVLNRG8P6/image-asset.jpeg)
+![](images/cba13e53-image-asset.jpeg)
 
 Bob Prue with new friend from the Cheyenne River Sioux Reservation, Eagle Butte, South Dakota
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785019834-JWJG2U6ICZ9UXBPOOJ4O/image-asset.jpeg)
+![](images/981cb530-image-asset.jpeg)
 
 Bob Prue with friends
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665785020784-1N7XFA7LNB6Y3WHV7DIQ/image-asset.jpeg)
+![](images/d21b51db-image-asset.jpeg)
 
 Bob-Prue and friends
 

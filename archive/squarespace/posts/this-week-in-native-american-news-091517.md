@@ -5,7 +5,7 @@ date: 2017-09-15
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-091517
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bf018eead250d7bbfeab/1748628700852/adam-beach.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777409938-C3KRVU0R181YV6ZN99T3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777411233-AO4UEXVBPTKF205NBOUR/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777412615-79ZSDI3DB9XQQ6TDW75P/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777414160-Q112E0YLCUZ58W2YQ95G/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777415061-E5FVQQDM6OUNN3GI4Q5O/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777416631-PV0GY7823MPA6RA1AR6A/image-asset.jpeg"]
+images: ["images/b685e1eb-adam-beach.jpg", "images/4964d8a4-image-asset.jpeg", "images/d5db4747-image-asset.jpeg", "images/5746d6f2-image-asset.jpeg", "images/6b3a5f77-image-asset.jpeg", "images/98bceb15-image-asset.jpeg", "images/1b7120b7-image-asset.jpeg"]
 ---
 # This Week in Native American News (9/15/17): Miss Navajo, Hollywood, & Orange Shirt Day
 
@@ -13,7 +13,7 @@ Sep 15
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777409938-C3KRVU0R181YV6ZN99T3/image-asset.jpeg)
+![](images/4964d8a4-image-asset.jpeg)
 
 # September 15, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: New Miss Navajo Crowned
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777411233-AO4UEXVBPTKF205NBOUR/image-asset.jpeg)
+![](images/d5db4747-image-asset.jpeg)
 
 Audience members in the VIP section at the Miss Navajo Nation in 2015, including Miss Indian New Mexico Nicole Johnny, 25, center, look on during the butchering competition. (Allison Shelley)
 
@@ -39,7 +39,7 @@ Held every September since 1952 on the Navajo reservation, in an Arizona high de
 
 ## We Live on Native Land, but what does that mean?
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777412615-79ZSDI3DB9XQQ6TDW75P/image-asset.jpeg)
+![](images/5746d6f2-image-asset.jpeg)
 
 Cityscape
 
@@ -57,7 +57,7 @@ In this cosmopolitan corner of a globalized world, perhaps heritage need not imp
 
 ## Actor Speaks about Whitewashing Hollywood, as a Native man
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777414160-Q112E0YLCUZ58W2YQ95G/image-asset.jpeg)
+![](images/6b3a5f77-image-asset.jpeg)
 
 Adam Beach. (Jason Myers/Courtesy Cowboys & Indians)
 
@@ -69,13 +69,13 @@ The casting of non-Native Americans to play Native American characters has its r
 
 ## In more Hollywood news...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777415061-E5FVQQDM6OUNN3GI4Q5O/image-asset.jpeg)
+![](images/98bceb15-image-asset.jpeg)
 
 While her name will receive top billing when "Woman Walks Ahead" hits cinemas, Oscar-nominated actress Jessica Chastain was eager to avoid playing a white saviour in the tale of two disenfranchised people finding hope and resistance together.
 
 ### [Read more](http://www.channelnewsasia.com/news/lifestyle/chastain-s-sitting-bull-film-pays-heed-to-indigenous-voices-9207234)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777416631-PV0GY7823MPA6RA1AR6A/image-asset.jpeg)
+![](images/1b7120b7-image-asset.jpeg)
 
 Last year’s *Hidden Figures* introduced the world to three underrecognized women of color who changed American history; now the film [*Te Ata*](https://www.yahoo.com/movies/film/te-ata) is bringing another to light. The biopic tells the story of Mary Thompson Fisher, aka “Te Ata,” a Chickasaw woman who became a celebrated storyteller in the 1920s and remained active through the 1980s.
 

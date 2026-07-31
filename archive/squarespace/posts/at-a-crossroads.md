@@ -5,7 +5,7 @@ date: 2017-06-07
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/at-a-crossroads
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c04681715079237e4a52/1748628700852/3508b609-cdbd-4b94-a238-79dc173b03c2.jpg"]
+images: ["images/a1e97a3f-3508b609-cdbd-4b94-a238-79dc173b03c2.jpg"]
 ---
 # At a Crossroads
 

@@ -5,7 +5,7 @@ date: 2017-07-17
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/pray-for-rulers-faith-for-the-reservations
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bfb373f8a72aef856232/1748628700852/1+timothy+2.1-2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777587924-82KOJBDXU5XK0A840E45/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777588607-WGFOAV21IKE5TKVATYMX/image-asset.jpeg"]
+images: ["images/5d430a8d-1_timothy_2.1-2.jpg", "images/440f5af3-image-asset.jpeg", "images/5bbf91df-image-asset.jpeg"]
 ---
 # Pray for Rulers: Faith for the Reservations, Devo 6 - Monday Morning Devotion
 
@@ -13,7 +13,7 @@ Jul 17
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777587924-82KOJBDXU5XK0A840E45/image-asset.jpeg)
+![](images/440f5af3-image-asset.jpeg)
 
 This series focuses on praying for our Native American brothers and sisters, particularly those living on reservations.
 
@@ -35,7 +35,7 @@ Paul writes to the church in Ephesus, "I urge that petitions, prayers, requests,
 
 Focus your prayer on the leaders: tribal and governmental leaders, elders and all those in authority.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777588607-WGFOAV21IKE5TKVATYMX/image-asset.jpeg)
+![](images/5bbf91df-image-asset.jpeg)
 
 Paul was able, in his life, to share his testimony with many government leaders. God had set him up to have the visibility and influence to help the Gospel spread all over the world because he could preach to those in leadership positions, (albeit, he was usually first arrested by those authorities - nevertheless, he was ready to proclaim the Gospel).
 

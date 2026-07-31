@@ -5,7 +5,7 @@ date: 2019-06-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/starting-the-conversation-week-1-monday-morning-devotion
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b333981ba40c2a9a483e/1748628700852/1280x1280.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774388979-TKNWKJ1DVWL9GREAEGXQ/image-asset.jpeg"]
+images: ["images/a13ffe33-1280x1280.jpg", "images/9d826ab6-image-asset.jpeg"]
 ---
 # Starting the Conversation - Week 1 (Monday Morning Devotion)
 
@@ -13,7 +13,7 @@ Jun 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774388979-TKNWKJ1DVWL9GREAEGXQ/image-asset.jpeg)
+![](images/9d826ab6-image-asset.jpeg)
 
 We just spent six weeks discovering [“What is Hope?”](https://www.lutheranindianministries.org/news/what-is-hope-hope-is-given-as-a-gift-and-found-in-jesus-monday-morning-devotion-week-1) and now it’s time to share that hope.
 

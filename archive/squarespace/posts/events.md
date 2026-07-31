@@ -5,11 +5,11 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/events
 section: 
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1697496042040-SWZJBL29HPA5NA7TZNZ2/event-his-hands-upon-me--2023-10-21.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1697497407918-VNMNMNI38UGLTHQSJL1T/event-his-hands-upon-me--2023-10-23.jpg"]
+images: ["images/c9f5c035-event-his-hands-upon-me--2023-10-21.jpg", "images/a4af7ef0-event-his-hands-upon-me--2023-10-23.jpg"]
 ---
 ---
 
-[![KATHERINE GOTTLIEB: “HIS HAND UPON ME” FAIRBANKS](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1697497407918-VNMNMNI38UGLTHQSJL1T/event-his-hands-upon-me--2023-10-23.jpg)](/events/katherine-gottlieb-his-hand-upon-me-fairbanks-oct23)
+[![KATHERINE GOTTLIEB: “HIS HAND UPON ME” FAIRBANKS](images/a4af7ef0-event-his-hands-upon-me--2023-10-23.jpg)](/events/katherine-gottlieb-his-hand-upon-me-fairbanks-oct23)
 
 Oct
 
@@ -31,7 +31,7 @@ You are invited to a presentation by Katherine Gottlieb, who will share her life
 
 [View Event →](/events/katherine-gottlieb-his-hand-upon-me-fairbanks-oct23)
 
-[![KATHERINE GOTTLIEB: “HIS HAND UPON ME” Anchorage](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1697496042040-SWZJBL29HPA5NA7TZNZ2/event-his-hands-upon-me--2023-10-21.jpg)](/events/katherine-gottlieb-his-hand-upon-me-anchorage)
+[![KATHERINE GOTTLIEB: “HIS HAND UPON ME” Anchorage](images/c9f5c035-event-his-hands-upon-me--2023-10-21.jpg)](/events/katherine-gottlieb-his-hand-upon-me-anchorage)
 
 Oct
 

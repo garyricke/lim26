@@ -5,7 +5,7 @@ date: 2020-07-27
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/call-on-me-todays-lim
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349afc00bda9b5301494a36/1748628700852/Call+on+me.png"]
+images: ["images/7256a31b-Call_on_me.png"]
 ---
 # Call on Me (Today's LIM)
 

@@ -5,7 +5,7 @@ date: 2018-03-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-030218
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349bc2d9af4ad0956c83fa2/1748628700852/image.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776686739-9Y8LSOK7RKRZS0ZM2JNM/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776688401-FJBKUX4LUN72A7LEX9DA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776689986-YSUF5O7PDRMBKGC1CGES/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776691479-LAZUCVEKZ9ZK62FZUB31/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776693175-7Z9OAH1DNQNUPPACSY6N/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776695487-1MX5E4I2EMZKDUCXLUSO/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776697088-VD9XNFRFVML4201EDDF1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776699081-4FC8C53X50J9E4MTE09Y/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776700900-X6BT4L9BYVAT55E17OAI/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776702287-Y44A84XO3N7G8I8F31GW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776704118-DT7CL6R5D9X0K915DRB4/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776705357-YP6UZZFHIUYG32NLC2D1/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776707320-FD96CP8JRQ3V8YUAX0XV/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776708999-FKVKDY0HTTDTV9DSRRX9/image-asset.jpeg"]
+images: ["images/6ed58790-image.jpg", "images/012ba867-image-asset.jpeg", "images/6f0e877d-image-asset.jpeg", "images/b7c3877c-image-asset.jpeg", "images/3d7ef1d7-image-asset.jpeg", "images/2073d73d-image-asset.jpeg", "images/e46a6b5e-image-asset.jpeg", "images/dd5e290b-image-asset.jpeg", "images/9d4989f3-image-asset.jpeg", "images/75e10549-image-asset.jpeg", "images/13452e35-image-asset.jpeg", "images/89bdb590-image-asset.jpeg", "images/c4c11cca-image-asset.jpeg", "images/24226159-image-asset.jpeg", "images/a76e9768-image-asset.jpeg"]
 ---
 # This Week in Native American News (3/2/18): Homeless camps, racial purity, and underwater burial grounds
 
@@ -13,7 +13,7 @@ Mar 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776686739-9Y8LSOK7RKRZS0ZM2JNM/image-asset.jpeg)
+![](images/012ba867-image-asset.jpeg)
 
 # March 2, 2018
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Navajo Dentist Returns to Serve Her Community
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776688401-FJBKUX4LUN72A7LEX9DA/image-asset.jpeg)
+![](images/6f0e877d-image-asset.jpeg)
 
 Crystal Willie Sekaquaptewa is the first Native American woman dentist in the Utah Navajo Health System and a Creighton dental school graduate. “I love it,” she said. “I feel like I’m in a great place to serve this community, to serve my people.” ROHN SOLOMON, SUU PHOTO SERVICES
 
@@ -47,7 +47,7 @@ When she was in preschool, Sekaquaptewa drew a picture of herself as a dentist. 
 
 ## Homelessness in Hawaii: The Future of the Waianae Homeless Camp
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776689986-YSUF5O7PDRMBKGC1CGES/image-asset.jpeg)
+![](images/b7c3877c-image-asset.jpeg)
 
 Eighty people live in 20 houses on land at Pu‘uhonua o Waimanalo, leased from the state. DENNIS ODA / DODA@STARADVERTISER.COM
 
@@ -73,7 +73,7 @@ DLNR officials are considering proposing rules for Pu‘uhonua o Waianae that co
 
 ## The Hidden Cost of Federal Recognition
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776691479-LAZUCVEKZ9ZK62FZUB31/image-asset.jpeg)
+![](images/3d7ef1d7-image-asset.jpeg)
 
 Two Powhatan Tribal members looking over Richmond, Va., from the State Capitol during ceremonies for the 400th Anniversary of the Jamestown Settlement on May 3, 2007. Joseph Sohm—UIG via Getty Images
 
@@ -87,7 +87,7 @@ Yet the story of federal recognition for those six tribes—the Chickahominy, th
 
 ## You Might Also Be Interested In:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776693175-7Z9OAH1DNQNUPPACSY6N/image-asset.jpeg)
+![](images/2073d73d-image-asset.jpeg)
 
 ### [Identity Struggles: One Hawaiian African-American Family Story](http://hawaiipublicradio.org/post/identity-struggles-one-hawaiian-african-american-family-story)
 
@@ -97,7 +97,7 @@ Hawai‘i is often referred to as one of the most racially-diverse states in the
 
 ## Any Highway Can Be A Human Trafficking Corridor
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776695487-1MX5E4I2EMZKDUCXLUSO/image-asset.jpeg)
+![](images/e46a6b5e-image-asset.jpeg)
 
 Ngookimisnaanuk Grandmothers Council members Alison Recollet (L) and Marly Day-Bateman lead peaceful march along Hwy 17B – Garden River Ontario – Human Trafficking Awareness Day Feb.22nd, 2018.
 
@@ -113,7 +113,7 @@ Marly Day-Bateman said, “The highways between Thunder Bay to the Sault and fur
 
 ## 7,000-Year-Old Native American Burial Site Found Underwater
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776697088-VD9XNFRFVML4201EDDF1/image-asset.jpeg)
+![](images/dd5e290b-image-asset.jpeg)
 
 7,000-year-old Native American burial site discovered near Venice | WFLA.com
 
@@ -127,13 +127,13 @@ With a team of fellow underwater archaeologists, Duggins relocated the dive spot
 
 ## You Might Also Be Interested In:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776699081-4FC8C53X50J9E4MTE09Y/image-asset.jpeg)
+![](images/9d4989f3-image-asset.jpeg)
 
 ### [To avoid extermination, Native Americans were forced to assimilate](https://timeline.com/avoid-extermination-native-americans-were-forced-to-assimilate-826a9853388a)
 
 “Assimilate or die.” That was the gist of it. As the 19th century came to a close, this was the choice faced by Native Americans whose land, culture, and tribal identities had been nearly erased by a century of militarized westward expansion. Massacres and reservations had been two approaches to the “Indian Problem.” But by the 1880s, a new line of thought was beginning to find support among East Coast reformers and church types. The idea: Native people were essentially as human any other “civilized” person at birth, and could be “lifted up” through education into the ranks of mainstream white America.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776700900-X6BT4L9BYVAT55E17OAI/image-asset.jpeg)
+![](images/75e10549-image-asset.jpeg)
 
 ### [The Navajo Nation Treaty of 1868 Lives On at the Smithsonian's American Indian Museum](https://www.smithsonianmag.com/smithsonian-institution/old-paper-navajo-nation-treaty-1868-lives-american-indian-museum-180968235/)
 
@@ -142,7 +142,7 @@ The Navajo Nation is the largest, acreage-wise, and most numerous, of the 500 or
 Want to work at the National Museum of the American Indian?  
 [**CHECK THIS OUT**](https://uproxx.com/life/smithsonian-hiring-native-american-repatriation-specialist/)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776702287-Y44A84XO3N7G8I8F31GW/image-asset.jpeg)
+![](images/13452e35-image-asset.jpeg)
 
 ### [Meet the tiny island with a big presence in the history of Hawaii](http://www.k5thehometeam.com/story/37597788/what-you-need-to-know-about-kahoolawe-but-didnt-want-to-ask)
 
@@ -154,7 +154,7 @@ The artifacts of that rich history are still visible today, despite the destruct
 
 ## Native American actor relishes rare Oscar invite
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776704118-DT7CL6R5D9X0K915DRB4/image-asset.jpeg)
+![](images/89bdb590-image-asset.jpeg)
 
 Wes Studi of "Hostiles" to present at the Oscars.
 
@@ -168,7 +168,7 @@ Wes Studi will take the stage at Sunday's Oscars to present an award. But the ac
 
 ## You Might Also Be Interested In:
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776705357-YP6UZZFHIUYG32NLC2D1/image-asset.jpeg)
+![](images/c4c11cca-image-asset.jpeg)
 
 ### [‘Movies that Matter’ highlights contemporary Native American struggle](https://dailyfreepress.com/blog/2018/02/27/movies-that-matter-highlights-contemporary-native-american-struggle/)
 
@@ -176,13 +176,13 @@ Wednesday, Middletent spoke at **“Movies that Matter: Native America — The U
 
 Trisha Burke, executive director of Native Hope, said the nonprofit aims to share positive stories and unheard voices coming out of reservations despite disparities that have come to dominate the stereotypes of Native American life.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776707320-FD96CP8JRQ3V8YUAX0XV/image-asset.jpeg)
+![](images/24226159-image-asset.jpeg)
 
 ### [CELEBRATING 25 YEARS OF INDIGENOUS SCREEN STORIES](https://www.screenaustralia.gov.au/sa/media-centre/news/2018/02-28-25-years-of-indigenous-screen-stories)
 
 This year marks 25 years since the Indigenous Department at Screen Australia was established, resulting in some of the nation’s most beloved films, television shows and documentaries. Over 160 titles have been funded by the Department including *Redfern Now*, *Samson & Delilah*, *Spear*, *Mystery Road**,**Goldstone**,**Toomelah**,**8MMM Aboriginal Radio**,*and numerous documentaries including *We Don’t Need a Map*, and the historical series *First Australians*.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665776708999-FKVKDY0HTTDTV9DSRRX9/image-asset.jpeg)
+![](images/a76e9768-image-asset.jpeg)
 
 ### [Native American Culture at Disney](https://www.mouseplanet.com/12035/Native_American_Culture_at_Disneys_Wilderness_Lodge)
 

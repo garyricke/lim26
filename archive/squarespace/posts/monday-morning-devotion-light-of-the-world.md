@@ -5,7 +5,7 @@ date: 2016-08-29
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/category/monday-morning-devotion-light-of-the-world
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c5c0fd1d7d6219a9e530/1748628700852/light_of_the_world_by_kevron2001-d59ud25.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779137986-MHZ1TW1YUHCJWV7DFC5A/image-asset.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779139910-6WBHM44EZOQ6HKJDINZU/image-asset.jpeg"]
+images: ["images/053734ce-light_of_the_world_by_kevron2001-d59ud25.jpg", "images/a62a92c8-image-asset.png", "images/50d459fb-image-asset.jpeg"]
 ---
 # Monday Morning Devotion - Light of the World
 
@@ -15,7 +15,7 @@ Aug 29
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779137986-MHZ1TW1YUHCJWV7DFC5A/image-asset.png)
+![](images/a62a92c8-image-asset.png)
 
 This is week TWO in our seven-part devotion series, brought to you by Pastor Ricky Jacob, our Lutheran Indian Ministries Associate Pastor serving the Winnebago people of Nebraska.
 
@@ -37,7 +37,7 @@ Skip to a specific week:
 
 This week's "I am" statement is: I am the Light of the World
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665779139910-6WBHM44EZOQ6HKJDINZU/image-asset.jpeg)
+![](images/50d459fb-image-asset.jpeg)
 
 Can you imagine a world without light?
 

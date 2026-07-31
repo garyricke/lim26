@@ -5,7 +5,7 @@ date: 2017-03-03
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-love-medicine-tiny-houses-and-quilted-treaties
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c1d058242d0bafc7d265/1748628700852/GA-1.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778129771-2OWP5MJSZYRMDVGI1KIJ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778130845-H7XL3YL3TFIYARO37DDZ/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778132446-F8EG2RST48COXO8SHTQU/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778134068-2VZTB5M6R4ZIQ9302QX9/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778134768-HRZF23PIQCJMXAV935Z6/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778136013-UZD0JF5E846DYXUTYLHR/image-asset.jpeg"]
+images: ["images/0541a3f5-GA-1.jpg", "images/28f0efde-image-asset.jpeg", "images/0cbdf455-image-asset.jpeg", "images/90ed9612-image-asset.jpeg", "images/cac2450a-image-asset.jpeg", "images/f91b4302-image-asset.jpeg", "images/c314ccb1-image-asset.jpeg"]
 ---
 # This Week in Native American News: "love medicine", tiny houses, and quilted treaties
 
@@ -13,7 +13,7 @@ Mar 3
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778129771-2OWP5MJSZYRMDVGI1KIJ/image-asset.jpeg)
+![](images/28f0efde-image-asset.jpeg)
 
 # March 3, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Celebrating Diversity and Seeing Students Succeed
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778130845-H7XL3YL3TFIYARO37DDZ/image-asset.jpeg)
+![](images/0cbdf455-image-asset.jpeg)
 
 Chanel Timmons writes:
 
@@ -43,7 +43,7 @@ While the goal of the study is to better understand how and why these programs m
 
 ## Love is the Medicine that Indigenous Youth Need
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778132446-F8EG2RST48COXO8SHTQU/image-asset.jpeg)
+![](images/90ed9612-image-asset.jpeg)
 
 A recent public forum, focusing on the impact of how missing and murdered Indigenous women issue affects children and youth, opened the floor to the audience and guests to continue the discussion as to how to help today's Native youth.
 
@@ -59,7 +59,7 @@ Gray Smith says, "It calls on us to create safe spaces for our young people and 
 
 ## Tiny House Phenomenon May Help Housing Issues
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778134068-2VZTB5M6R4ZIQ9302QX9/image-asset.jpeg)
+![](images/cac2450a-image-asset.jpeg)
 
 Davis is one of 13 high school students learning new skills, gaining high school credits, logging apprenticeship hours and getting a stipend at the end of their six weekends’ work building a tiny house in Yorkton.
 
@@ -73,7 +73,7 @@ The tiny house is hoped to be the first of many, with the goal of improving the 
 
 ## History Lesson: What did the Louisiana Purchase ACTUALLY Cost
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778134768-HRZF23PIQCJMXAV935Z6/image-asset.jpeg)
+![](images/f91b4302-image-asset.jpeg)
 
 Vaguely defined at the time as the western watershed of the Mississippi River, and later pegged at about 827,000 square miles, the acquisition nearly doubled the national domain for a mere $15 million, or roughly $309 million in today’s dollars.
 
@@ -85,7 +85,7 @@ Figuring out how much the United States has actually spent to extinguish Indian 
 
 ## Speaking of treaties...
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778136013-UZD0JF5E846DYXUTYLHR/image-asset.jpeg)
+![](images/c314ccb1-image-asset.jpeg)
 
 Gina Adams sews text from the American Indian Treaties onto quilts, articulating the deception and violence used to marginalize Native Americans in the formation of the United States.
 

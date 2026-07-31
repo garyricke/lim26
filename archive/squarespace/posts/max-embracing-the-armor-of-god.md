@@ -5,7 +5,7 @@ date: 2019-03-11
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/sacred-connections-podcast/max-embracing-the-armor-of-god
 section: sacred-connections-podcast
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/660c235960ba3320f57b3607/660c235960ba3320f57b3608/1750081774387/podcast-max-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/0903e9f1-6473-4e8f-89d4-e7641e8a4baa/LIM-Max-2-Love%27s_Power_to_Transform_Lives_thumb.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312134165-O4ON1A6AON0DMQ6BZW17/podcast-healing-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312170456-RHLM9UNKIQOTY8GYOR9W/podcast-tanya-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312185244-OVJCWOSAIFVR3IOB8IFO/podcast-max-thumb-2-3.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1733749508126-E3WJUQ9TL8LDIDDCAZ3X/LIM+Wendy+Thumb+%281%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/2a8bfeb6-5e55-4178-a3fd-d2f3b3c59a1a/LIM-Max-1-From_Self_to_Abba__A_Journey_of_Faith-thumb.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/4d7b9332-1b5d-4949-9d4c-2ad3ba4b8791/LIM-Max-3-Embracing_the_Full_Armor_of_Faith_thumb.jpeg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/4a00a7e3-podcast-max-thumb-2-3.jpg", "images/78d6ba37-LIM-Max-2-Love_s_Power_to_Transform_Lives_thumb.jpeg", "images/b3add22d-podcast-healing-thumb-2-3.jpg", "images/2051b2e9-podcast-tanya-thumb-2-3.jpg", "images/c9555126-podcast-max-thumb-2-3.jpg", "images/ddbb8e31-LIM_Wendy_Thumb__1_.jpg", "images/cdcb35ea-LIM-Max-1-From_Self_to_Abba__A_Journey_of_Faith-thumb.jpeg", "images/646112c6-LIM-Max-3-Embracing_the_Full_Armor_of_Faith_thumb.jpeg", "images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # Embracing the Armor of God: A Tale of Redemption and Love
 
@@ -19,7 +19,7 @@ Written By [Gary Ricke](/sacred-connections-podcast?author=55f2f1aee4b0a206f577f
 
 ## From Self to Abba: A Journey of Faith
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/2a8bfeb6-5e55-4178-a3fd-d2f3b3c59a1a/LIM-Max-1-From_Self_to_Abba__A_Journey_of_Faith-thumb.jpeg)](https://player.vimeo.com/progressive_redirect/playback/940879736/rendition/1080p/file.mp4?loc=external&log_user=0&signature=6b33044dd2fb7862f60332029d8e026f595315a0b2d7c62d001ee6f812d90a41)
+[![](images/cdcb35ea-LIM-Max-1-From_Self_to_Abba__A_Journey_of_Faith-thumb.jpeg)](https://player.vimeo.com/progressive_redirect/playback/940879736/rendition/1080p/file.mp4?loc=external&log_user=0&signature=6b33044dd2fb7862f60332029d8e026f595315a0b2d7c62d001ee6f812d90a41)
 
 A most wonderful thing in my life is he brought me a woman into my life who actually helped introduce me to my father. I would see it in the Bible and I would actually break down in tears. And it was a longing that I wanted, that I didn't know that I already had, with the help of my wife reintroducing me to the Lord. I can say Abba, because to me, that's an all consuming love that he's been able to show and help me to where I am now. I didn't know how I was supposed to be. But now, looking at the Bible and the Lord's heart, the love he has for me, he's been showing me, you need a raise and be just like how I am.
 
@@ -29,7 +29,7 @@ Support transformative journeys like Max's by donating today. Help others find g
 
 ---
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/0903e9f1-6473-4e8f-89d4-e7641e8a4baa/LIM-Max-2-Love%27s_Power_to_Transform_Lives_thumb.jpeg)](https://player.vimeo.com/progressive_redirect/playback/940879748/rendition/1080p/file.mp4?loc=external&log_user=0&signature=903beeed9a923d0fa32cc23a2958a660a888813fb976869ebb6a5021c1d457a1)
+[![](images/78d6ba37-LIM-Max-2-Love_s_Power_to_Transform_Lives_thumb.jpeg)](https://player.vimeo.com/progressive_redirect/playback/940879748/rendition/1080p/file.mp4?loc=external&log_user=0&signature=903beeed9a923d0fa32cc23a2958a660a888813fb976869ebb6a5021c1d457a1)
 
 ## Love's Power to Transform Lives
 
@@ -37,7 +37,7 @@ And that is actually a gift, because I've found the harder I work at loving my w
 
 ---
 
-[![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/4d7b9332-1b5d-4949-9d4c-2ad3ba4b8791/LIM-Max-3-Embracing_the_Full_Armor_of_Faith_thumb.jpeg)](https://player.vimeo.com/progressive_redirect/playback/940879760/rendition/1080p/file.mp4?loc=external&log_user=0&signature=e2de7cb470f8bba0c06acd35376f3f5f875fc7b05567ca2905b5cecbfb064b6a)
+[![](images/646112c6-LIM-Max-3-Embracing_the_Full_Armor_of_Faith_thumb.jpeg)](https://player.vimeo.com/progressive_redirect/playback/940879760/rendition/1080p/file.mp4?loc=external&log_user=0&signature=e2de7cb470f8bba0c06acd35376f3f5f875fc7b05567ca2905b5cecbfb064b6a)
 
 ## Embracing the Full Armor of Faith
 
@@ -77,7 +77,7 @@ Support Max's journey of faith and help others find their path. [**Donate today*
 
 See Also
 
-[![From Brokenness to Hope: Wendy's Journey of Healing and Faith](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1733749508126-E3WJUQ9TL8LDIDDCAZ3X/LIM+Wendy+Thumb+%281%29.jpg)](/sacred-connections-podcast/from-brokenness-to-hope-wendys-journey-of-healing-and-faith)
+[![From Brokenness to Hope: Wendy's Journey of Healing and Faith](images/ddbb8e31-LIM_Wendy_Thumb__1_.jpg)](/sacred-connections-podcast/from-brokenness-to-hope-wendys-journey-of-healing-and-faith)
 
 October 21, 2024
 
@@ -89,7 +89,7 @@ In this episode, Wendy, a participant in the "Healing the Wounds of Trauma" trai
 
 October 21, 2024
 
-[![Healing The Wounds of Trauma: Stories of Faith and Resilience](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312134165-O4ON1A6AON0DMQ6BZW17/podcast-healing-thumb-2-3.jpg)](/sacred-connections-podcast/healing-the-wounds-of-trauma-stories-of-faith-and-resilience)
+[![Healing The Wounds of Trauma: Stories of Faith and Resilience](images/b3add22d-podcast-healing-thumb-2-3.jpg)](/sacred-connections-podcast/healing-the-wounds-of-trauma-stories-of-faith-and-resilience)
 
 July 8, 2024
 
@@ -101,7 +101,7 @@ In this podcast episode, attendees of LIM's Healing the Wounds of Trauma share h
 
 July 8, 2024
 
-[![Restoring Years in Marriage by Building a Strong Relationship with Christ](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312170456-RHLM9UNKIQOTY8GYOR9W/podcast-tanya-thumb-2-3.jpg)](/sacred-connections-podcast/tanya-restoring-years-in-marriage-by-building-a-strong-relationship-with-christ)
+[![Restoring Years in Marriage by Building a Strong Relationship with Christ](images/2051b2e9-podcast-tanya-thumb-2-3.jpg)](/sacred-connections-podcast/tanya-restoring-years-in-marriage-by-building-a-strong-relationship-with-christ)
 
 April 19, 2024
 
@@ -113,7 +113,7 @@ In this episode, Tanya Dolchok discusses her deeply personal and transformative 
 
 April 19, 2024
 
-[![Embracing the Armor of God: A Tale of Redemption and Love](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1728312185244-OVJCWOSAIFVR3IOB8IFO/podcast-max-thumb-2-3.jpg)](/sacred-connections-podcast/max-embracing-the-armor-of-god)
+[![Embracing the Armor of God: A Tale of Redemption and Love](images/c9555126-podcast-max-thumb-2-3.jpg)](/sacred-connections-podcast/max-embracing-the-armor-of-god)
 
 March 11, 2019
 
@@ -125,6 +125,6 @@ Max Dolchok reflects on his spiritual journey from a life of self-centeredness t
 
 March 11, 2019
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/sacred-connections-podcast?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

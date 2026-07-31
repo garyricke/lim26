@@ -5,7 +5,7 @@ date: 2019-08-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-08302019
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b26887fb27609f6cfb27/1748628700852/indigenous_languages-collage-high_res-square-w_logo.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774185787-JTZ0S6RMTBWTR3E2CWPG/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774187125-YRWR073RAONHY1OJ1BSX/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774188176-MUREXHRPERPJBWL9R9YA/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774189201-C9KRVOHOFNYCKUDEAGMW/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774190234-O0HMJ38PZG1JMS1D6SL7/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774192299-FKPZRIDJWY5GST7K5LCR/image-asset.jpeg"]
+images: ["images/57b48289-indigenous_languages-collage-high_res-square-w_logo.jpg", "images/260fa3ea-image-asset.jpeg", "images/c0a7c727-image-asset.jpeg", "images/a8fe086e-image-asset.jpeg", "images/06c4c8b2-image-asset.jpeg", "images/3261da98-image-asset.jpeg", "images/600cba9a-image-asset.jpeg"]
 ---
 # This Week in Native American News (8/30/19): internet surveys and tourism apps
 
@@ -13,7 +13,7 @@ Aug 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774185787-JTZ0S6RMTBWTR3E2CWPG/image-asset.jpeg)
+![](images/260fa3ea-image-asset.jpeg)
 
 # August 30, 2019
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Studying the Native American and Alaska Native population with internet surveys
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774187125-YRWR073RAONHY1OJ1BSX/image-asset.jpeg)
+![](images/c0a7c727-image-asset.jpeg)
 
 *In estimating public opinion, opt-in internet surveys give researchers and pollsters a unique opportunity to isolate specific tribal members across the US compared to national surveys conducted by landlines say Ben Pryor and James A. Davis*
 
@@ -37,7 +37,7 @@ Our new American Indian Quarterly article, with co-authors Rebekah Herrick and J
 
 ## At-Risk Indigenous Languages Spotlighted on New Google Earth Platform
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774188176-MUREXHRPERPJBWL9R9YA/image-asset.jpeg)
+![](images/a8fe086e-image-asset.jpeg)
 
 Speakers featured in the Celebrating Indigenous Languages project. (Google Earth)
 
@@ -49,7 +49,7 @@ In an effort to both preserve and raise awareness about these languages, Google 
 
 ## -BUT- Not everyone thinks this is the right way to help these languages
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774189201-C9KRVOHOFNYCKUDEAGMW/image-asset.jpeg)
+![](images/06c4c8b2-image-asset.jpeg)
 
 ### [Google Earth project about Indigenous languages feels like 'tourism,' scholar says](https://www.cbc.ca/radio/thecurrent/the-current-for-august-15-2019-1.5247769/google-earth-project-about-indigenous-languages-feels-like-tourism-scholar-says-1.5247773)
 
@@ -59,7 +59,7 @@ Jennifer Wemigwans said the digital map, which allows users to click and hear mo
 
 ## And Speaking of Online Tourism…
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774190234-O0HMJ38PZG1JMS1D6SL7/image-asset.jpeg)
+![](images/3261da98-image-asset.jpeg)
 
 ### [New tour app seeks to correct the Native American narrative in the nation’s capital](https://www.washingtonpost.com/local/dc-politics/new-tour-app-seeks-to-change-native-american-narrative-in-the-nations-capital/2019/08/21/f4454a06-b3a9-11e9-8949-5f36ff92706e_story.html?noredirect=on)
 
@@ -73,7 +73,7 @@ It showcases 17 sites important to the Native American story.
 
 ## Never-before-seen Native American artifacts to go on display
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665774192299-FKPZRIDJWY5GST7K5LCR/image-asset.jpeg)
+![](images/600cba9a-image-asset.jpeg)
 
 Also going on display will be a bag, known as quillwork, that was used by a Native American soldier. The bag is decorated with Iroquois symbols and is believed to have been used for carrying musket supply "or other battlefield necessities." **(Credit: Fort Ticonderoga)**
 

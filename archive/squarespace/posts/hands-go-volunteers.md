@@ -5,7 +5,7 @@ date: 2013-12-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/washingtonolympic-peninsula/hands-go-volunteers
 section: news-notes
-images: ["http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a444fe/1451491778168/Canoe-Journey-2013-Volunteers-003.jpg"]
+images: ["images/b93271e8-Canoe-Journey-2013-Volunteers-003.jpg"]
 ---
 # Our Hands Go Up to All Volunteers
 
@@ -20,7 +20,7 @@ This year, Lower Elwha hosted two days and nights as the canoes made their way t
 
 This year we had more than 100 volunteers, both Native and non-Native total. About 30 were young people from our local college, including exchange students.
 
-[![Canoe Journey 2013-Volunteers 003](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a444fe/1451491778168/Canoe-Journey-2013-Volunteers-003.jpg)](http://static1.squarespace.com/static/568400342399a37364b2c6c9/568401b704acd3cdb4a4403e/568401c204acd3cdb4a444fe/1451491778168/Canoe-Journey-2013-Volunteers-003.jpg?format=original)
+[![Canoe Journey 2013-Volunteers 003](images/b93271e8-Canoe-Journey-2013-Volunteers-003.jpg)](images/b93271e8-Canoe-Journey-2013-Volunteers-003.jpg)
 
 We love recruiting volunteers to serve at Lower Elwha during this time. The tribe appreciates the selflessness and sincere spirit of humility that the volunteers bring with them. They have such compassion in their hearts for the Natives. They work long hours serving and building relationships with the people of Elwha and other tribes that are present.
 

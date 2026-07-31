@@ -5,7 +5,7 @@ date: 2017-12-08
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/trials-advent-friday-december-8
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349be33748b2274c96762ea/1748628700852/Advent+%281%29.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777203742-9E4DW3F4HNJQCJMQ60SB/image-asset.png"]
+images: ["images/9b2693c1-Advent__1_.png", "images/52e3928b-image-asset.png"]
 ---
 # Trials (Advent) - Friday, December 8
 
@@ -15,7 +15,7 @@ Dec 8
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777203742-9E4DW3F4HNJQCJMQ60SB/image-asset.png)
+![](images/52e3928b-image-asset.png)
 
 ### **Trials - Friday, December 8**
 

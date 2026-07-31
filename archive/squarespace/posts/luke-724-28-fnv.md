@@ -5,7 +5,7 @@ date: 2018-06-10
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/luke-724-28-fnv
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b8b1eeb24f62b7c4187c/1748628700852/%E2%80%9CWhat+were+you+looking+for+in+the+desert+wilderness_+A+frail+reed+blowing+in+the+wind_+Did+you+see+a+man+in+costly+garments_+No%21+The+ones+who+wear+costly+clothes+and+buy+whatever+they+want+live+in+grand+h.png", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775794992-VWOR76JWE2JRJY9DD3HE/image-asset.png"]
+images: ["images/66c788e0-_What_were_you_looking_for_in_the_desert_wilderness__A_frail_reed_blowing_in_the_wind__Did_you_see_a_man_in_costly_garme", "images/1332a022-image-asset.png"]
 ---
 # Luke 7:24-28 FNV
 
@@ -13,7 +13,7 @@ Jun 10
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775794992-VWOR76JWE2JRJY9DD3HE/image-asset.png)
+![](images/1332a022-image-asset.png)
 
 How lovingly this was timed!
 

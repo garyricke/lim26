@@ -5,7 +5,7 @@ date: 2017-03-30
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/read-reflect-thursday-march-30
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c15b5e47eb614f782379/1748628700852/2017+lent+cover.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778012388-8PZ4MVWBBUQQDGTEM310/image-asset.png"]
+images: ["images/66387e75-2017_lent_cover.jpg", "images/26c04cdd-image-asset.png"]
 ---
 # Read & Reflect: Thursday, March 30
 
@@ -13,7 +13,7 @@ Mar 30
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665778012388-8PZ4MVWBBUQQDGTEM310/image-asset.png)
+![](images/26c04cdd-image-asset.png)
 
 ## Read: [Galatians 2:19-21](https://www.bible.com/bible/111/gal.2.19-21), [Colossians 3:9-11](https://www.bible.com/bible/111/col.3.9-11)
 

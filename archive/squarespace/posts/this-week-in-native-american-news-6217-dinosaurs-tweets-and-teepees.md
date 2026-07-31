@@ -5,7 +5,7 @@ date: 2017-06-02
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/this-week-in-native-american-news-6217-dinosaurs-tweets-and-teepees
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349c056a567bc0fe71c265c/1748628700852/fossil-dig-site.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777751509-O8PTFY6UX34V76MWBVW3/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777753702-RYKDRJESNAOLXGAM3S6N/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777755440-R9VTNVFUL2KS90RMDASN/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777758826-6JBK70BT37016MHY9T6U/image-asset.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777760210-99IW5A6A3LUSLRZWRUTS/image-asset.jpeg"]
+images: ["images/87d77ee6-fossil-dig-site.jpg", "images/6b05e343-image-asset.jpeg", "images/6dc62120-image-asset.jpeg", "images/0cb887d3-image-asset.jpeg", "images/2f22f21a-image-asset.jpeg", "images/a98062e3-image-asset.jpeg"]
 ---
 # This Week in Native American News (6/2/17): dinosaurs, tweets, and teepees
 
@@ -13,7 +13,7 @@ Jun 2
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777751509-O8PTFY6UX34V76MWBVW3/image-asset.jpeg)
+![](images/6b05e343-image-asset.jpeg)
 
 # June 2, 2017
 
@@ -21,7 +21,7 @@ Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
 ## Great People Doing Great Things: Artist Teaches the History of Native Marker Trees
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777753702-RYKDRJESNAOLXGAM3S6N/image-asset.jpeg)
+![](images/6dc62120-image-asset.jpeg)
 
 Local artist and author Dennis Downes of Antioch is a trail-marker tree researcher and gives frequent talks about Native American sign posts and culture, including one this week in Waukegan, Illinois, for the Waukegan Harbor Citizen's Advisory Group (CAG).
 
@@ -39,7 +39,7 @@ Recently, Otchingwanigan bestowed an Ojibwe name on Downes: " Mayaagaabaw," in h
 
 ## Learning Science Through Dinosaur Digs
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777755440-R9VTNVFUL2KS90RMDASN/image-asset.jpeg)
+![](images/0cb887d3-image-asset.jpeg)
 
 As the skies clear over the Black Mesa in Oklahoma’s panhandle a group of students begins digging into history. Along the top of one of the mesas is a carefully excavated site.
 
@@ -59,7 +59,7 @@ But how to dinosaurs fit into the plan to get students engaged in sciences?
 
 ## Social Media Amplifies Indigenous Voices, Even When They Don't Agree
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777758826-6JBK70BT37016MHY9T6U/image-asset.jpeg)
+![](images/2f22f21a-image-asset.jpeg)
 
 The impacts of social media on national conversations about Indigenous affairs have been revolutionary in the past decade.
 
@@ -79,7 +79,7 @@ In this and every disagreement, let's take the time to listen to both sides with
 
 ## Airbnb in trouble, Apologizes
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665777760210-99IW5A6A3LUSLRZWRUTS/image-asset.jpeg)
+![](images/a98062e3-image-asset.jpeg)
 
 An Airbnb post that featured a teepee and advertised an "off the grid" experience in "true Sioux style" is drawing criticism from Native Americans scholars and activists for thoughtlessly and inaccurately using American Indian references to promote a listing.
 

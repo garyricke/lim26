@@ -5,7 +5,7 @@ date: 2018-12-19
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/he-has-been-there-advent-devotion-wednesday-december-19
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b70689548629034e5308/1748628700852/Heb2.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775368332-FEOPX9LPP6WRA1M82CRU/image-asset.png"]
+images: ["images/a2e79c16-Heb2.jpg", "images/6ec25049-image-asset.png"]
 ---
 # He Has Been There (Advent Devotion) - Wednesday, December 19
 
@@ -15,7 +15,7 @@ Dec 19
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665775368332-FEOPX9LPP6WRA1M82CRU/image-asset.png)
+![](images/6ec25049-image-asset.png)
 
 ## Since the children are made of flesh and blood, it’s logical that the Savior took on flesh and blood in order to rescue them by his death. By embracing death, taking it into himself, he destroyed the Devil’s hold on death and freed all who cower through life, scared to death of death. It’s obvious, of course, that he didn’t go to all this trouble for angels. It was for people like us, children of Abraham. That’s why he had to enter into every detail of human life. Then, when he came before God as high priest to get rid of the people’s sins, he would have already experienced it all himself—all the pain, all the testing—and would be able to help where help was needed. (Hebrews 2:14-18 MSG)
 

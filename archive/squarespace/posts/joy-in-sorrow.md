@@ -5,7 +5,7 @@ date: 2020-03-28
 author: "Guest User"
 original_url: https://www.lutheranindianministries.org/news-notes/joy-in-sorrow
 section: news-notes
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/6349ae2f4b3be532ef7ef146/6349b06fcb88a56680aeb1e9/1748628700852/3-IMG_1192.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773685860-JFK7N623ESZ80G7NX9FG/image-asset.png"]
+images: ["images/f9c7c065-3-IMG_1192.jpg", "images/4be73295-image-asset.png"]
 ---
 # Joy in Sorrow - Lent 2020
 
@@ -13,7 +13,7 @@ Mar 28
 
 Written By [Guest User](/news-notes?author=6839f4dcc52c4707a9ee7c66)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773685860-JFK7N623ESZ80G7NX9FG/image-asset.png)
+![](images/4be73295-image-asset.png)
 
 ### Then the virgin will rejoice in the dance, And the young men and the old, together, For I will turn their mourning into joy And will comfort them and give them joy for their sorrow. [Jeremiah 31:13](https://www.bible.com/bible/111/jer.31.13)
 

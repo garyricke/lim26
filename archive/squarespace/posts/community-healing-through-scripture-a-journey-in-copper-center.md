@@ -5,7 +5,7 @@ date: 2024-03-25
 author: "Gary Ricke"
 original_url: https://www.lutheranindianministries.org/reflections/community-healing-through-scripture-a-journey-in-copper-center
 section: reflections
-images: ["http://static1.squarespace.com/static/62389dbdc8d62b0755bf6d44/62389dc8c8d62b0755bf6f33/6601da7fd733916f10d43b79/1714416284388/blog-copper-center-blog-image-0.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/2fd58d48-b416-45fe-a7db-16ee3407eace/blog-copper-center-blog-image-2.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/4acbd354-36c4-44f8-bc00-3ebe46b3be5a/blog-copper-center-blog-image-3.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/c97d2493-92cc-4e00-a0a4-c3b556a1960e/blog-copper-center-blog-image-4.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/f4f1c335-fd8d-4f68-a46b-bd325ed6a3f9/blog-copper-center-blog-image-1.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/fb0aac63-819b-46d5-8713-0a88d86792d9/blog-copper-center-blog-image-5.jpeg", "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg"]
+images: ["images/cf410463-blog-copper-center-blog-image-0.jpeg", "images/4ddff622-blog-copper-center-blog-image-2.jpeg", "images/844ffea3-blog-copper-center-blog-image-3.jpeg", "images/7032b923-blog-copper-center-blog-image-4.jpeg", "images/6689198c-blog-copper-center-blog-image-1.jpeg", "images/085b6597-blog-copper-center-blog-image-5.jpeg", "images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg"]
 ---
 # Community Healing Through Scripture: A Journey in Copper Center, Alaska
 
@@ -23,7 +23,7 @@ Healing the Wounds of Trauma (Healing Group) in Copper Center, Alaska was held F
 
 — Pastor Ron Paull
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/f4f1c335-fd8d-4f68-a46b-bd325ed6a3f9/blog-copper-center-blog-image-1.jpeg)
+![](images/6689198c-blog-copper-center-blog-image-1.jpeg)
 
 Copper Center, Alaska participants, Prayer Warrior, and a facilitator review a Healing Group lesson in small groups on how a good listener asks three questions: What happened? How did you feel? What was the hardest part for you?
 
@@ -33,7 +33,7 @@ Copper Center, Alaska participants, Prayer Warrior, and a facilitator review a H
 
 The six core lessons framed this training with a strong traditional welcome that included Katherine McConkey, Director of Tribal Community Services, Copper River Native Association and Tribal Court Judge; Lexis Martin, President/Elected Council Member, the Native Village of Kluti-Kaah as well as Robert Heffle, LIM CEO and Gene Amidon, Prayer Warrior. The first day also included the lesson: “what is a wound of the heart.” The second day included four lessons: “what can help our heart wounds heal,” “what happens when someone is grieving,” “if God loves us, why do we suffer,” and closed with “bringing your pain to the cross.” The third day completed with the final two lessons: “how can we forgive others” and “looking back and looking forward.”
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/2fd58d48-b416-45fe-a7db-16ee3407eace/blog-copper-center-blog-image-2.jpeg)
+![](images/4ddff622-blog-copper-center-blog-image-2.jpeg)
 
 Copper Center, Alaska participants (Pastor Ron Paull, center, and Jean Paull, far right) review a Healing Group lesson in small groups on What can help our heart wounds heal.
 
@@ -49,7 +49,7 @@ Participants completed a pre and post assessment, coming away from the training 
 * God forgives us of our wrong doings and loves us anyway
 * Grief isn’t limited to losing someone through death
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/4acbd354-36c4-44f8-bc00-3ebe46b3be5a/blog-copper-center-blog-image-3.jpeg)
+![](images/844ffea3-blog-copper-center-blog-image-3.jpeg)
 
 Lutheran Indian Ministry staff, Tanya Dolchok prays during a Healing Group lesson.
 
@@ -64,13 +64,13 @@ Robert Heffle added, “Lutheran Indian Ministries vision is about a day when ev
 [The Healing Wounds of Trauma has several upcoming sessions.   
 **Click here to learn more and register.**](/healing-wounds-of-trauma)
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/c97d2493-92cc-4e00-a0a4-c3b556a1960e/blog-copper-center-blog-image-4.jpeg)
+![](images/7032b923-blog-copper-center-blog-image-4.jpeg)
 
 Lutheran Indian Ministries Prayer Warrior, Gene Amidon, prays with a participant during a Healing Group lesson.
 
 Later in March, the Copper Center community will continue their healing journey with the Tribal Community Services: “Moving from trauma to healing” (a two-day community gathering); focusing on harm in communities, region, and state as well as understanding how people cope with trauma.
 
-![](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/fb0aac63-819b-46d5-8713-0a88d86792d9/blog-copper-center-blog-image-5.jpeg)
+![](images/085b6597-blog-copper-center-blog-image-5.jpeg)
 
 Lutheran Indian Ministries staff, Tanya Dolchok and Prayer Warrior, Gene Amidon, pray during the Healing Group lesson: Bringing your pain to the cross.
 
@@ -78,6 +78,6 @@ Copper Center (traditional name: Kluti-Kaah) is an ancient, sandy lakebed area. 
 
 The Ahtna Athabascan people have thrived in the Copper River basin for the past 5,000 to 7,000 years with summer fish camps and winter villages throughout the region. In 1896, gold miners travelled from Valdez to Fairbanks and Dawson, establishing Copper Center as a supply center. In 1909, Copper Center was designated a government agricultural experiment station (growing grains). In 1932, the original roadhouse (built in 1896) was rebuilt into the Copper Center Lodge (the lodge is on the National Register of Historic Roadhouses and considered the “jewel of Alaskan roadhouses”). In 1942, the first church, the Chapel on the Hill was built.
 
-[![](https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/55f2f1aee4b0a206f577f120/809d99397bba4aafb68f053de69e4200/809d99397bba4aafb68f053de69e4200.jpeg)
+[![](images/96dd30b0-809d99397bba4aafb68f053de69e4200.jpeg)
 Gary Ricke](/reflections?author=55f2f1aee4b0a206f577f120)
 <http://orbisdesign.com>

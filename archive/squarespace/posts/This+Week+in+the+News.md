@@ -5,7 +5,7 @@ date:
 author: ""
 original_url: https://www.lutheranindianministries.org/news-notes/tag/This+Week+in+the+News
 section: news-notes
-images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773186688-UBUWDU0PTYLJQVD4F8PT/Yellow+and+Green+Snowflakes+Christmas+Art+Card+%282%29.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773222303-H53K1GA6PXHSXY6J1MN1/Marie_Nez_big_rug.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773298745-ZTH27BFZAW4DFRAEY9NE/KME2IY5R2VF3DJ5UZCK652RWCE.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773364854-6HBS5TQJSS5Q87UOLQ06/5fb6fea346763.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773381557-39XDDXEOU6GXU5MLZL9H/180627-N-ZZ999-0004-scaled.jpeg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773413424-M5S7WPELNVHPNCGDU06I/2020-08-12-untitled-010-2432px.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773430197-MBH5M0V8GOYPZKG0GIWA/james+barker-IMG_2467.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773468305-978I86SX2YJRDR927OOV/5bdf55ba-8316-4732-b4e8-d34902531d4a-Red_Feather_Handwashing_5.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773476790-58XIAT8D9M4DYQH5JN0A/1WTC-ironworkers.jpg", "https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773486433-8Z2EOMPLS9R3L7KOY54P/V6HWFKA3YRDB5P7JEUKBHPCLRE.jpg"]
+images: ["images/65f2b653-Yellow_and_Green_Snowflakes_Christmas_Art_Card__2_.jpg", "images/c3ccf1d7-Marie_Nez_big_rug.jpg", "images/27d85103-KME2IY5R2VF3DJ5UZCK652RWCE.jpg", "images/4d93a17e-5fb6fea346763.jpg", "images/75c5836e-180627-N-ZZ999-0004-scaled.jpeg", "images/8b2c98a6-2020-08-12-untitled-010-2432px.jpg", "images/14d7910c-james_barker-IMG_2467.jpg", "images/cd00d237-5bdf55ba-8316-4732-b4e8-d34902531d4a-Red_Feather_Handwashing_5.jpg", "images/e69c60e5-1WTC-ironworkers.jpg", "images/cc9e34d4-V6HWFKA3YRDB5P7JEUKBHPCLRE.jpg"]
 ---
 * [devotion](/news-notes/tag/devotion)
 * [This Week in the News](/news-notes/tag/This+Week+in+the+News)
@@ -59,7 +59,7 @@ images: ["https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44
 * [augsburg confession](/news-notes/tag/augsburg+confession)
 * [prayer](/news-notes/tag/prayer)
 
-[![This Week in Native American News (12/25/2020): Merry Christmas!](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773186688-UBUWDU0PTYLJQVD4F8PT/Yellow+and+Green+Snowflakes+Christmas+Art+Card+%282%29.jpg)](/news-notes/this-week-in-native-american-news-12252020-1j1Kw)
+[![This Week in Native American News (12/25/2020): Merry Christmas!](images/65f2b653-Yellow_and_Green_Snowflakes_Christmas_Art_Card__2_.jpg)](/news-notes/this-week-in-native-american-news-12252020-1j1Kw)
 
 Guest User
 12/25/20
@@ -73,7 +73,7 @@ This Week in Native American News (12/25/2020): Merry Christmas!
 
 [Read More](/news-notes/this-week-in-native-american-news-12252020-1j1Kw)
 
-[![This Week in Native American News (12/18/2020): Suicide Prevention, Homeless Shelters, and Traditional Celebrations](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773222303-H53K1GA6PXHSXY6J1MN1/Marie_Nez_big_rug.jpg)](/news-notes/this-week-in-native-american-news-12182020)
+[![This Week in Native American News (12/18/2020): Suicide Prevention, Homeless Shelters, and Traditional Celebrations](images/c3ccf1d7-Marie_Nez_big_rug.jpg)](/news-notes/this-week-in-native-american-news-12182020)
 
 Guest User
 12/18/20
@@ -87,7 +87,7 @@ This Week in Native American News (12/18/2020): Suicide Prevention, Homeless She
 
 [Read More](/news-notes/this-week-in-native-american-news-12182020)
 
-[![This Week in Native American News (12/4/2020): National Parks, Short Films, &amp; Supporting Native Art](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773298745-ZTH27BFZAW4DFRAEY9NE/KME2IY5R2VF3DJ5UZCK652RWCE.jpg)](/news-notes/this-week-in-native-american-news-12042020)
+[![This Week in Native American News (12/4/2020): National Parks, Short Films, &amp; Supporting Native Art](images/27d85103-KME2IY5R2VF3DJ5UZCK652RWCE.jpg)](/news-notes/this-week-in-native-american-news-12042020)
 
 Guest User
 12/4/20
@@ -101,7 +101,7 @@ This Week in Native American News (12/4/2020): National Parks, Short Films, & Su
 
 [Read More](/news-notes/this-week-in-native-american-news-12042020)
 
-[![This Week in Native American News (11/20/2020): Celebrate Native Heritage &amp; Culture](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773364854-6HBS5TQJSS5Q87UOLQ06/5fb6fea346763.jpg)](/news-notes/this-week-in-native-american-news-11-20-2020)
+[![This Week in Native American News (11/20/2020): Celebrate Native Heritage &amp; Culture](images/4d93a17e-5fb6fea346763.jpg)](/news-notes/this-week-in-native-american-news-11-20-2020)
 
 Guest User
 11/20/20
@@ -115,7 +115,7 @@ This Week in Native American News (11/20/2020): Celebrate Native Heritage & Cult
 
 [Read More](/news-notes/this-week-in-native-american-news-11-20-2020)
 
-[![This Week in Native American News (11/13/2020): Saluting Veterans, Celebrating Bison, Honoring Native Heritage, and Remembering the Past](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773381557-39XDDXEOU6GXU5MLZL9H/180627-N-ZZ999-0004-scaled.jpeg)](/news-notes/this-week-in-native-american-news-11-13-2020)
+[![This Week in Native American News (11/13/2020): Saluting Veterans, Celebrating Bison, Honoring Native Heritage, and Remembering the Past](images/75c5836e-180627-N-ZZ999-0004-scaled.jpeg)](/news-notes/this-week-in-native-american-news-11-13-2020)
 
 Guest User
 11/13/20
@@ -129,7 +129,7 @@ This Week in Native American News (11/13/2020): Saluting Veterans, Celebrating B
 
 [Read More](/news-notes/this-week-in-native-american-news-11-13-2020)
 
-[![This Week in Native American News (10/30/2020): Run, Read, Listen, Watch, and Don't Dress Up as an Indian](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773413424-M5S7WPELNVHPNCGDU06I/2020-08-12-untitled-010-2432px.jpg)](/news-notes/this-week-in-native-american-news-10-30-2020)
+[![This Week in Native American News (10/30/2020): Run, Read, Listen, Watch, and Don't Dress Up as an Indian](images/8b2c98a6-2020-08-12-untitled-010-2432px.jpg)](/news-notes/this-week-in-native-american-news-10-30-2020)
 
 Guest User
 10/30/20
@@ -143,7 +143,7 @@ This Week in Native American News (10/16/2020): Run, Read, Listen, Watch, and Do
 
 [Read More](/news-notes/this-week-in-native-american-news-10-30-2020)
 
-[![This Week in Native American News (10/16/2020): Recovering, fighting, and educating](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773430197-MBH5M0V8GOYPZKG0GIWA/james+barker-IMG_2467.jpg)](/news-notes/this-week-in-native-american-news-10-16-2020)
+[![This Week in Native American News (10/16/2020): Recovering, fighting, and educating](images/14d7910c-james_barker-IMG_2467.jpg)](/news-notes/this-week-in-native-american-news-10-16-2020)
 
 Guest User
 10/16/20
@@ -157,7 +157,7 @@ This Week in Native American News (10/16/2020): Recovering, fighting, and educat
 
 [Read More](/news-notes/this-week-in-native-american-news-10-16-2020)
 
-[![This Week in Native American News (9/18/2020): Hand washing, Cycling, &amp; Tattoos](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773468305-978I86SX2YJRDR927OOV/5bdf55ba-8316-4732-b4e8-d34902531d4a-Red_Feather_Handwashing_5.jpg)](/news-notes/this-week-in-native-american-news-9-18-2020)
+[![This Week in Native American News (9/18/2020): Hand washing, Cycling, &amp; Tattoos](images/cd00d237-5bdf55ba-8316-4732-b4e8-d34902531d4a-Red_Feather_Handwashing_5.jpg)](/news-notes/this-week-in-native-american-news-9-18-2020)
 
 Guest User
 9/18/20
@@ -171,7 +171,7 @@ This Week in Native American News (9/18/2020): Hand washing, Cycling, & Tattoos
 
 [Read More](/news-notes/this-week-in-native-american-news-9-18-2020)
 
-[![This Week in Native American News (9/11/2020): Memorials, Internet, and Pageant Queens](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773476790-58XIAT8D9M4DYQH5JN0A/1WTC-ironworkers.jpg)](/news-notes/this-week-in-native-american-news-9-11-2020)
+[![This Week in Native American News (9/11/2020): Memorials, Internet, and Pageant Queens](images/e69c60e5-1WTC-ironworkers.jpg)](/news-notes/this-week-in-native-american-news-9-11-2020)
 
 Guest User
 9/11/20
@@ -185,7 +185,7 @@ This Week in Native American News (9/11/2020): Memorials, Internet, and Pageant 
 
 [Read More](/news-notes/this-week-in-native-american-news-9-11-2020)
 
-[![This Week in Native American News (8/28/2020): Skating, Dancing, and Name Changes](https://images.squarespace-cdn.com/content/v1/62389dbdc8d62b0755bf6d44/1665773486433-8Z2EOMPLS9R3L7KOY54P/V6HWFKA3YRDB5P7JEUKBHPCLRE.jpg)](/news-notes/this-week-in-native-american-news-8/28/2020)
+[![This Week in Native American News (8/28/2020): Skating, Dancing, and Name Changes](images/cc9e34d4-V6HWFKA3YRDB5P7JEUKBHPCLRE.jpg)](/news-notes/this-week-in-native-american-news-8/28/2020)
 
 Guest User
 8/28/20
