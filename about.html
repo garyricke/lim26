@@ -1458,6 +1458,11 @@
   var KEY='lim_cookie_consent';
   function gtm(){ if(window.__limGtm) return; window.__limGtm=true;
     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TD3Z4XNG');
+    // GTM-TZG3PCB is LIM's own container — it carries the GA4 tag for
+    // G-ZLC3QT9T1E. TD3Z4XNG is Meyer's and feeds a retired Universal
+    // Analytics property, so it cannot report into GA4. Both load here;
+    // dropping Meyer's would risk their Feathr hook.
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TZG3PCB');
   }
   function show(el,on){var e=document.getElementById(el); if(e) e.classList[on?'add':'remove']('cc-show');}
   window.ccChoose=function(ok){ try{localStorage.setItem(KEY, ok?'granted':'denied');}catch(e){} show('cc-banner',false); show('cc-reopen',true); if(ok) gtm(); };
