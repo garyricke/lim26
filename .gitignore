@@ -40,3 +40,6 @@ print-export/node_modules/
 .venv-archive/
 archive/squarespace/html
 archive/squarespace/images
+
+# archiver run log — regenerated each run
+archive/squarespace/run.log
