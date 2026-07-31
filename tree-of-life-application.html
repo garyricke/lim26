@@ -78,10 +78,6 @@
   /* Signature */
   .sig{font-family:var(--serif);font-size:1.15rem;font-style:italic;letter-spacing:.02em}
 
-  /* Waiver */
-  .waiver{max-height:280px;overflow-y:auto;background:var(--stone);border-radius:var(--r);padding:1.15rem 1.3rem;font-size:.85rem;line-height:1.7;color:var(--muted);margin-bottom:1.2rem;border:1px solid var(--border)}
-  .waiver h3{font-family:var(--cond);font-size:.92rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--charcoal);margin-bottom:.7rem}
-  .waiver p{margin-bottom:.8rem}
 
   /* Buttons + status */
   .btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:.95rem 2.2rem;border-radius:var(--r);font-family:var(--cond);font-size:1.05rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;transition:var(--t);border:2px solid transparent}
@@ -413,46 +409,13 @@
           <strong>About mandated reporting.</strong> Our team are mandated reporters and will report as required by law, to keep everyone safe. In practice, sharing your own story &mdash; including things that are happening now &mdash; is not something we report. The law requires us to act in narrower situations, such as a child under 18 currently being harmed or witnessing violence. We'll talk about this together at the gathering.
         </div>
 
-        <div class="row full">
-          <div class="field">
-            <label>May we photograph you during the gathering? <span class="req">*</span></label>
-            <div class="radio" data-name="photoPermission">
-              <label><input type="radio" name="photoPermission" value="yes" required> Yes</label>
-              <label><input type="radio" name="photoPermission" value="no"> No</label>
-            </div>
-            <span class="hint">Answering "no" will not affect your application in any way.</span>
-          </div>
+        <div class="notice">
+          <strong>What happens if you're accepted.</strong> Once your application is reviewed and you're
+          offered a place, we'll send you Lutheran Indian Ministries' <strong>release of liability</strong> and
+          <strong>media release</strong> forms to read and sign before the gathering. Nothing is being signed
+          here &mdash; this is the application only.
         </div>
 
-        <div class="row full">
-          <div class="field">
-            <label for="applicationSignature">Type Your Full Name to Sign This Application <span class="req">*</span></label>
-            <input id="applicationSignature" name="applicationSignature" class="sig" type="text" autocomplete="off" required>
-            <span class="hint">By typing your name above, you are providing your electronic signature, which has the same legal effect as a handwritten signature.</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- 7 · Waiver -->
-      <div class="sect">
-        <p class="sect-title">7 · Assumption of Risk &amp; Liability Waiver</p>
-        <div class="waiver" tabindex="0" aria-label="Liability waiver text">
-          <h3>Participant Assumption of Risks, Indemnity Agreement, and Liability Waiver and Release</h3>
-          <p>I am participating in the Tree of Life Gathering voluntarily and of my own free will.</p>
-          <p>I understand that the gathering addresses emotional, mental, and spiritual content, including subject matter related to trauma, grief, abuse, and loss. I understand that engaging with this material may bring up difficult memories, feelings, or reactions, during the gathering or afterward.</p>
-          <p>I knowingly and freely assume all risks inherent in participating, both known and unknown, including risks to my emotional and physical wellbeing.</p>
-          <p>I release, waive, and discharge Lutheran Indian Ministries, the Tree of Life Gathering, the host venue, and their respective officers, directors, employees, volunteers, and agents from any and all liability, claims, demands, or causes of action arising out of my participation, except for liability arising from willful misconduct or gross negligence.</p>
-          <p>I am responsible for my own health and wellbeing. I affirm that I have disclosed relevant health information in this application, and I will notify staff if my circumstances change before the gathering.</p>
-          <p>I agree to indemnify and hold harmless the parties named above from any loss, liability, damage, or cost they may incur arising out of my participation.</p>
-          <p>This agreement is governed by the laws of the State of Alaska. If any portion of this agreement is held to be invalid, the remainder shall continue in full legal force and effect.</p>
-          <p>I have read this waiver and release, I understand it, and I sign it freely and voluntarily.</p>
-        </div>
-        <div class="row full">
-          <div class="field">
-            <label for="waiverSignature">Type Your Full Name to Sign This Waiver <span class="req">*</span></label>
-            <input id="waiverSignature" name="waiverSignature" class="sig" type="text" autocomplete="off" required>
-          </div>
-        </div>
       </div>
 
       <!-- Honeypot -->
@@ -538,10 +501,7 @@
       ['unsafeHome','the safety at home question'],
       ['unusualStress','the stress question'],
       ['suicidalThoughts','the question about thoughts of suicide'],
-      ['recentTrauma','the recent trauma question'],
-      ['photoPermission','the photography question'],
-      ['applicationSignature','your signature on the application'],
-      ['waiverSignature','your signature on the waiver']
+      ['recentTrauma','the recent trauma question']
     ];
 
     for(var i=0;i<required.length;i++){
