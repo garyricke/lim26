@@ -216,43 +216,26 @@
         </div>
         <div class="row full">
           <div class="field">
-            <label for="ethnicity">Race / Ethnicity <span class="req">*</span></label>
-            <select id="ethnicity" name="ethnicity" required>
-              <option value="">Select one…</option>
-              <option>Alaska Native</option>
-              <option>American Indian</option>
-              <option>Caucasian</option>
-              <option>African American</option>
-              <option>Native Hawaiian</option>
-              <option>Pacific Islander</option>
-              <option>Hispanic</option>
-              <option>Other</option>
-            </select>
+            <label>Race / Ethnicity <span class="req">*</span> <span class="opt">(select all that apply)</span></label>
+            <div class="checks" style="display:grid;grid-template-columns:1fr 1fr;gap:.55rem 1rem">
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Alaska Native"> Alaska Native</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="American Indian"> American Indian</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Caucasian"> Caucasian</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Black or African American"> Black or African American</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Native Hawaiian"> Native Hawaiian</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Pacific Islander"> Pacific Islander</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Hispanic"> Hispanic</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Other"> Other</label>
+            </div>
           </div>
         </div>
-        <div class="row full">
-          <div class="field">
-            <label for="education">Highest Level of Education <span class="req">*</span></label>
-            <select id="education" name="education" required>
-              <option value="">Select one…</option>
-              <option>Secondary / High School</option>
-              <option>Vocational</option>
-              <option>Associate's Degree</option>
-              <option>Bachelor's Degree</option>
-              <option>Master's Degree</option>
-              <option>Doctorate</option>
-              <option>Other</option>
-            </select>
-          </div>
-        </div>
-      </div>
 
       <!-- 4 · Attendance -->
       <div class="sect">
         <p class="sect-title">4 · Attendance &amp; Accommodations</p>
         <div class="row full">
           <div class="field">
-            <label>Are you able to attend all three full days? <span class="req">*</span></label>
+            <label>Are you able to attend all three full days &mdash; including every small and large group session, and the evening celebration on the last day? <span class="req">*</span></label>
             <div class="radio" data-name="attendAll">
               <label><input type="radio" name="attendAll" value="yes" required> Yes</label>
               <label><input type="radio" name="attendAll" value="no"> No</label>
@@ -401,7 +384,7 @@
             <label><input type="checkbox" name="agreeAttend"> I will attend all sessions of the gathering.</label>
             <label><input type="checkbox" name="agreeSubstances"> I will refrain from drugs and alcohol for the duration of the gathering.</label>
             <label><input type="checkbox" name="agreeConfidentiality"> I will keep what others share in confidence.</label>
-            <label><input type="checkbox" name="agreeFollowUp"> I understand LIM may contact me for follow-up after the gathering.</label>
+            <label><input type="checkbox" name="agreeFollowUp"> I understand I may be called as part of the application process, and that those who attend are called within two weeks afterwards as part of follow-up.</label>
           </div>
         </div>
 
@@ -480,8 +463,13 @@
     });
     // Radios
     form.querySelectorAll('input[type=radio]:checked').forEach(function(el){ data[el.name] = el.value; });
-    // Checkboxes
-    form.querySelectorAll('input[type=checkbox]').forEach(function(el){ data[el.name] = el.checked; });
+    // Checkboxes — ethnicity is multi-select, so join it rather than flag it
+    form.querySelectorAll('input[type=checkbox]').forEach(function(el){
+      if(el.classList.contains('eth')) return;
+      data[el.name] = el.checked;
+    });
+    var eth = [].slice.call(form.querySelectorAll('input.eth:checked')).map(function(el){ return el.value; });
+    if(eth.length) data.ethnicity = eth.join(', ');
     var bot = form.querySelector('input[name="bot-field"]');
     if(bot && bot.value) data['bot-field'] = bot.value;
     return data;
