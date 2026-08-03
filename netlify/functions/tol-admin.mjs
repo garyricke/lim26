@@ -29,7 +29,7 @@ const CSV_FIELDS = [
   "receivingCare", "unsafeRelationship", "unsafeRelationshipExplain",
   "unsafeHome", "unsafeHomeExplain", "unusualStress", "unusualStressExplain",
   "suicidalThoughts", "suicidalThoughtsDetail", "recentTrauma",
-  "recentTraumaDetail", "supportSystem",
+  "recentTraumaDetail", "supportSystem", "photoPermission", "participantSignature",
 ];
 
 function json(status, obj) {

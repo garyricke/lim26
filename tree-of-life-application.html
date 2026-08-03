@@ -75,6 +75,11 @@
   .notice strong{color:var(--charcoal)}
   .notice.warn{background:#fff6f6;border-left:4px solid var(--red)}
 
+  /* Waiver */
+  .waiver{max-height:300px;overflow-y:auto;background:var(--stone);border-radius:var(--r);padding:1.15rem 1.3rem;font-size:.85rem;line-height:1.7;color:var(--muted);margin-bottom:1.2rem;border:1px solid var(--border)}
+  .waiver h3{font-family:var(--cond);font-size:.92rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--charcoal);margin-bottom:.7rem}
+  .waiver p{margin-bottom:.8rem}
+
   /* Signature */
   .sig{font-family:var(--serif);font-size:1.15rem;font-style:italic;letter-spacing:.02em}
 
@@ -395,13 +400,40 @@
           decision to make, not ours.
         </div>
 
-        <div class="notice">
-          <strong>What happens if you're accepted.</strong> Once your application is reviewed and you're
-          offered a place, we'll send you Lutheran Indian Ministries' <strong>release of liability</strong> and
-          <strong>media release</strong> forms to read and sign before the gathering. Nothing is being signed
-          here &mdash; this is the application only.
+        <div class="row full">
+          <div class="field">
+            <label>May we use photographs of you? <span class="req">*</span></label>
+            <div class="radio" data-name="photoPermission">
+              <label><input type="radio" name="photoPermission" value="yes" required> Yes</label>
+              <label><input type="radio" name="photoPermission" value="no"> No</label>
+            </div>
+            <span class="hint">&ldquo;Yes&rdquo; gives Lutheran Indian Ministries permission to use photographs, videos, or audio clips of you for outreach, advertising, and publications. Answering &ldquo;no&rdquo; will not affect your application in any way.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- 7 · Release -->
+      <div class="sect">
+        <p class="sect-title">7 · Assumption of Risk &amp; Liability Release</p>
+        <div class="waiver" tabindex="0" aria-label="Liability waiver and release">
+          <h3>Participant Assumption of Risks, Indemnity Agreement, and Liability Waiver and Release</h3>
+          <p>I, the undersigned, acknowledge and agree to the following terms and conditions as a condition of my participation in Tree of Life Gathering. I understand that my participation in this conference is voluntary and that I may withdraw at any time. I acknowledge that the content may involve emotional, mental, and spiritual content as part of the healing process, which may be challenging or difficult for participants. I certify that I have sufficient skill and fitness to participate in the activities offered in the Tree of Life Gathering.</p>
+          <p>I understand that my participation may involve certain inherent risks, including but not limited to emotional distress, physical discomfort, or other personal reactions as I engage in the conference activities. I assume all risks associated with my participation, including any effects that may arise during or after the event.</p>
+          <p>In consideration of being permitted to participate in the Tree of Life Gathering, I hereby release, waive, discharge, and covenant not to sue Lutheran Indian Ministries and Tree of Life Gathering, its creators, teachers, facilitators, affiliates, employees, volunteers, and the owners of the venue/building, from any and all liability for any injuries, illness, damages, claims, or demands that I, my heirs, or any personal representatives may have arising out of or in connection with my participation in this conference. This waiver includes but is not limited to any claims for physical or emotional injury, negligence, or any other liability.</p>
+          <p>I acknowledge that I am solely responsible for my own health and well-being and that I am not under the influence of any substances that would impair my ability to participate in the event activities safely. I agree to notify the organizers immediately if I experience any health issues during the conference.</p>
+          <p>I agree to indemnify and hold harmless Lutheran Indian Ministries, Tree of Life Gathering, its creators, teachers, facilitators, affiliates, employees, volunteers, and venue/building (Zion Lutheran Church) from any claims, liabilities, damages, or expenses arising from my actions or conduct during the conference.</p>
+          <p>This waiver and release shall be governed by and construed in accordance with the laws of the state of Alaska.</p>
+          <p>As lawful consideration for being allowed to participate in activities offered in the Tree of Life Gathering, I expressly agree and promise to accept and assume all the risks existing in these activities. My participation in this activity is purely voluntary, and I elect to participate in spite of the risks. I expressly agree and acknowledge that the terms and conditions of this Assumption of Risks, Release of Liability, and Indemnity Agreement are contractual in nature and that I am signing it of my own free will.</p>
+          <p>By signing below, I confirm that I have read, understood, and agree to the terms and conditions of this Liability Waiver and Release Form.</p>
         </div>
 
+        <div class="row full">
+          <div class="field">
+            <label for="participantSignature">Type Your Full Name to Sign <span class="req">*</span></label>
+            <input id="participantSignature" name="participantSignature" class="sig" type="text" autocomplete="off" required>
+            <span class="hint">By typing your name you are providing your electronic signature, which has the same legal effect as a handwritten signature. It covers this application, your photography answer above, and the release. Today's date is recorded automatically.</span>
+          </div>
+        </div>
       </div>
 
       <!-- Honeypot -->
@@ -492,7 +524,9 @@
       ['unsafeHome','the safety at home question'],
       ['unusualStress','the stress question'],
       ['suicidalThoughts','the question about thoughts of suicide'],
-      ['recentTrauma','the recent trauma question']
+      ['recentTrauma','the recent trauma question'],
+      ['photoPermission','the photography question'],
+      ['participantSignature','your signature']
     ];
 
     for(var i=0;i<required.length;i++){

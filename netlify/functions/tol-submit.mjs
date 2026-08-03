@@ -38,6 +38,7 @@ const ALLOWED = new Set([
   "recentTrauma", "recentTraumaDetail",
   "supportSystem",
   "agreeAdult", "agreeAttend", "agreeSubstances", "agreeConfidentiality", "agreeFollowUp",
+  "photoPermission", "participantSignature",
 ]);
 
 const REQUIRED = [
@@ -45,7 +46,7 @@ const REQUIRED = [
   "emergencyName", "emergencyPhone", "ageRange", "gender", "ethnicity",
   "education", "attendAll", "needHousing", "dvHistory", "behavioralHealth", "receivingCare",
   "unsafeRelationship", "unsafeHome", "unusualStress", "suicidalThoughts",
-  "recentTrauma",
+  "recentTrauma", "photoPermission", "participantSignature",
 ];
 
 function json(status, obj) {
