@@ -57,10 +57,9 @@ $609**, about $50 *more* than the Thursday pairing, and LIM covers housing
 through the 24th either way. Paying a premium to arrive home at 5:20 AM wrecked
 isn't a trade worth making.
 
-## Calendar conflicts — five meetings need moving
+## Calendar conflicts — five meetings, Gary is handling these
 
-These are all live recurring commitments sitting inside the gathering. Times
-shown Central, with the Fairbanks equivalent.
+Recorded for reference. Times shown Central, with the Fairbanks equivalent.
 
 | When (CT) | What | In Fairbanks |
 |---|---|---|
@@ -94,9 +93,6 @@ cooperates.
 
 ## Before you go
 
-- **Confirm the United fare isn't Basic Economy** — asked in the 7 Aug reply.
-  Basic Economy means no seat assignment (you asked for a window) and, on some
-  fares, baggage restrictions. Cheaper to fix at ticketing than at the counter.
 - **Carry the camera bodies and lenses on.** The return connects in Seattle
   across two airlines; checked gear is the one thing that can't be replaced in
   Fairbanks on a Monday morning.
