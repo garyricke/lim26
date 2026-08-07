@@ -1,0 +1,57 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Andrea — departure airport + booking details</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+
+<div class="copy-control" style="max-width:600px; margin:0 0 10px; display:flex; align-items:center; gap:12px;">
+  <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#0362BC; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+    Copy email
+  </button>
+  <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into Gmail.</span>
+</div>
+<p style="max-width:600px;margin:0 0 22px;font-size:12.5px;color:#8a8a82;line-height:1.5;">
+  Reply-all to Andrea's message (Robert + Roberta already on the thread). <strong style="color:#b42318;">Fill the four bracketed fields before sending</strong> — DOB, gender, Known Traveler number, mobile. Airlines match these to your ID exactly.
+</p>
+
+<div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+
+  <p style="margin:0 0 8px; font-size:13px; color:#4a5568;"><strong style="color:#1a2535;">Subject:</strong> RE: Travel to Fairbanks, AK and return</p>
+
+  <p style="margin:0 0 16px;">Hi Andrea,</p>
+
+  <p style="margin:0 0 16px;">Chicago O'Hare (ORD) &mdash; I'm out in the western suburbs.</p>
+
+  <p style="margin:0 0 6px;"><strong>Passenger details:</strong></p>
+  <ul style="margin:0 0 18px; padding-left:20px;">
+    <li style="margin-bottom:4px;">Name as it appears on my license: <strong>Gary [middle name] Ricke</strong></li>
+    <li style="margin-bottom:4px;">Date of birth: <strong>[DOB]</strong></li>
+    <li style="margin-bottom:4px;">Gender as listed on ID: <strong>[M/F]</strong></li>
+    <li style="margin-bottom:4px;">Known Traveler / TSA PreCheck: <strong>[number, or &ldquo;none&rdquo;]</strong></li>
+    <li style="margin-bottom:4px;">Mobile: <strong>[phone]</strong></li>
+    <li style="margin-bottom:0;">Email: gary.ricke@orbisdesign.com</li>
+  </ul>
+
+  <p style="margin:0 0 6px;"><strong>Dates:</strong></p>
+  <ul style="margin:0 0 18px; padding-left:20px;">
+    <li style="margin-bottom:4px;">Out <strong>Sunday 9/20</strong>, ORD &rarr; FAI</li>
+    <li style="margin-bottom:0;">Back <strong>Thursday 9/24</strong>, FAI &rarr; ORD</li>
+  </ul>
+
+  <p style="margin:0 0 16px;">I'll pass on the Wednesday red-eye if that's alright &mdash; the gathering runs until 6:00 that evening and housing is covered through the 24th anyway, so I'd rather fly out rested the next morning than go straight from the room to the airport.</p>
+
+  <p style="margin:0 0 16px;">No strong preference on carrier or routing. Aisle seat if there's a choice, and I'll have a checked bag with camera gear.</p>
+
+  <p style="margin:0 0 20px;">Robert, Roberta &mdash; thank you both for setting this up. Looking forward to finally getting up there.</p>
+
+  <p style="margin:0 0 4px;">Thanks,</p>
+  <p style="margin:0 0 24px;">Gary</p>
+
+</div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into Gmail':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into Gmail',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
