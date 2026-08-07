@@ -20,25 +20,42 @@ side of town near the university, not downtown.
 noon at home. Every recurring meeting on your calendar fires three hours earlier
 than it reads.
 
-## Recommended itinerary
+## Itinerary — selected 7 Aug from Andrea's options
 
-**Out Sunday 9/20. Back Thursday 9/24. Skip the red-eye.**
+| | |
+|---|---|
+| **Out, Sun 9/20** | United, ORD 3:35p → **nonstop** → FAI 7:16p — $310 |
+| **Back, Thu 9/24** | Alaska/American, FAI 8:30a → 2h20 SEA → ORD 10:10p — $250 |
+| **Total** | **$560** |
 
-Robert offered a Wednesday-night red-eye as an alternative to a Thursday travel
-day. It saves nothing — housing is already covered through the 24th — and it
-costs you the last evening of the gathering plus a wrecked Thursday. The session
-ends at 6:00 PM Wednesday and the Fairbanks red-eyes leave around 1:00 AM, so
-you'd be killing six hours in a nearly empty terminal after a three-day
-gathering.
+**United flies ORD–FAI nonstop.** That single fact decided the outbound. One
+segment means no connection to miss and no interline bag transfer with camera
+gear in it, and a 3:35p departure means no alarm clock on a day that's otherwise
+free. Arrival at 7:16p still leaves fourteen hours before the 9:00 AM Monday
+start.
 
-There is **no nonstop ORD–FAI**. Every routing connects, almost always through
-Seattle (Alaska) or Anchorage; roughly 10–11 hours gate to gate including the
-layover. Ask Andrea for a morning ORD departure — an evening one puts you into
-Fairbanks near midnight body-clock time.
+The trade-off, stated honestly: Delta's 7:00a option arrives 1:32p and recovers
+better if something breaks — a missed Seattle connection has later Alaska
+flights behind it, whereas a cancelled nonstop likely means Monday. But that's
+the ~2% case, and buying insurance against it costs a 4:00 AM wake-up with
+certainty.
 
-Arriving Sunday also buys a real buffer. A missed connection in Seattle on
-Sunday is an inconvenience; the same miss on Monday morning means you walk in
-halfway through day one.
+**On the return, the cheapest option is also the best one.** Alaska/American at
+$250 leaves at a reasonable hour and lands two hours *earlier* than the $332
+midday option, which would have put you home around 1:15 AM Friday with an 11:00
+call that morning. The $503 5:30a departure is both the most expensive and the
+most punishing — an easy pass.
+
+### The red-eye, reconsidered
+
+Andrea re-offered it and was right to. United's Wednesday red-eye is nonstop and
+leaves FAI at **8:22p** — not the 1:00 AM slog assumed earlier, and only two
+hours after the session ends, at an airport eight minutes from the venue.
+
+It still loses, but on cost rather than comfort: **$299 red-eye + $310 outbound =
+$609**, about $50 *more* than the Thursday pairing, and LIM covers housing
+through the 24th either way. Paying a premium to arrive home at 5:20 AM wrecked
+isn't a trade worth making.
 
 ## Calendar conflicts — five meetings need moving
 
@@ -77,7 +94,12 @@ cooperates.
 
 ## Before you go
 
-- **Confirm the departure airport** in the reply to Andrea — ORD assumed.
+- **Confirm the United fare isn't Basic Economy** — asked in the 7 Aug reply.
+  Basic Economy means no seat assignment (you asked for a window) and, on some
+  fares, baggage restrictions. Cheaper to fix at ticketing than at the counter.
+- **Carry the camera bodies and lenses on.** The return connects in Seattle
+  across two airlines; checked gear is the one thing that can't be replaced in
+  Fairbanks on a Monday morning.
 - **Robert still owes an answer on the Tree of Life release** (replace vs. add
   Edgenuity, one signature or two, media release). See
   `plan/tol-release-draft-for-robert-2026-08-03.md`. This matters more now that
