@@ -87,6 +87,13 @@ const FLYERS = [
     html: 'docs-board-report.html',
     file: 'board-report-2026-08',
     download: 'LIM-Board-Report-Aug-2026'
+  },
+  {
+    id: 'camp-report',
+    kind: 'doc',
+    html: 'docs-camp-perkins-report.html',
+    file: 'camp-perkins-report-2026',
+    download: 'LIM-Camp-Perkins-2026-Report'
   }
 ];
 

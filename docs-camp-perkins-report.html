@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>2026 LIM Summer Youth Camp — Report for Meyer Partners</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+    --sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--sky-d:#6fa3b8;
+    --stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;--green:#4f7d52;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:var(--body);color:var(--charcoal);background:var(--stone);line-height:1.72}
+  img{max-width:100%;display:block}
+
+  .bar{background:var(--charcoal);color:#fff;padding:1rem 1.5rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap;position:sticky;top:0;z-index:50}
+  .bar h1{font-family:var(--cond);font-size:1.05rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-right:auto}
+  .bar button,.bar .dl{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.6rem 1.25rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer;text-decoration:none;display:inline-block}
+  .bar button:hover,.bar .dl:hover{background:#ffe95c}
+  .bar button.secondary{background:transparent;color:rgba(255,255,255,.7);border:1.5px solid rgba(255,255,255,.25)}
+  .bar button.secondary:hover{background:rgba(255,255,255,.08);color:#fff}
+
+  .doc{max-width:7.4in;margin:2rem auto 4rem;background:#fff;padding:.8in .9in 1in;box-shadow:0 8px 30px rgba(0,0,0,.13)}
+
+  .mast{border-bottom:3px solid var(--charcoal);padding-bottom:1rem;margin-bottom:1.8rem}
+  .mast img.logo{height:40px;margin-bottom:1rem}
+  .mast .lbl{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.35rem}
+  .mast h2{font-family:var(--serif);font-size:1.8rem;font-weight:900;line-height:1.22}
+  .mast .sub{font-size:.88rem;color:var(--muted);margin-top:.5rem}
+
+  h3{font-family:var(--cond);font-size:1.1rem;font-weight:800;letter-spacing:.09em;text-transform:uppercase;margin:2rem 0 .7rem;padding-bottom:.3rem;border-bottom:1px solid var(--border);break-after:avoid}
+  p{margin-bottom:.9rem;font-size:.94rem}
+  .lede{font-family:var(--serif);font-size:1.03rem;line-height:1.8}
+  ul{margin:.3rem 0 1rem 0;list-style:none}
+  li{font-size:.94rem;margin-bottom:.6rem;padding-left:1.15rem;position:relative}
+  li::before{content:'';position:absolute;left:0;top:.62em;width:6px;height:6px;border-radius:50%;background:var(--yellow)}
+
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);border:1px solid var(--border);border-radius:8px;overflow:hidden;margin:1.4rem 0 1.6rem}
+  .stat{padding:1rem .8rem;text-align:center;border-right:1px solid var(--border);background:#fcfbf9}
+  .stat:last-child{border-right:0}
+  .stat .n{font-family:var(--cond);font-size:1.7rem;font-weight:800;line-height:1;color:var(--charcoal)}
+  .stat .n small{font-size:.9rem;font-weight:700;color:var(--muted)}
+  .stat .l{font-family:var(--cond);font-size:.67rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:.38rem;line-height:1.35}
+
+  .facts{display:grid;grid-template-columns:auto 1fr;gap:.4rem 1.2rem;font-size:.92rem;margin:.4rem 0 1.4rem}
+  .facts dt{font-family:var(--cond);font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--sage-d);font-size:.78rem;padding-top:.2rem}
+
+  .quote{border-left:4px solid var(--yellow);padding:.15rem 0 .15rem 1.15rem;margin:1.3rem 0;font-family:var(--serif);font-style:italic;font-size:.99rem;line-height:1.75}
+  .quote cite{display:block;font-style:normal;font-family:var(--cond);font-size:.75rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--sage-d);margin-top:.5rem}
+  .quote.big{font-size:1.06rem;border-left-color:var(--red)}
+
+  .callout{background:var(--stone);border-left:5px solid var(--sky-d);border-radius:6px;padding:1rem 1.2rem;margin:1.3rem 0}
+  .callout .h{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.11em;text-transform:uppercase;margin-bottom:.4rem}
+  .callout p:last-child{margin-bottom:0}
+  .callout.warn{border-left-color:var(--red);background:#fff6f6}
+
+  figure{margin:1.4rem 0}
+  figure img{border-radius:6px}
+  figcaption{font-size:.79rem;color:var(--muted);margin-top:.5rem;font-style:italic}
+  .duo{display:grid;grid-template-columns:1fr 1fr;gap:.8rem}
+
+  .foot{margin-top:2.2rem;padding-top:1rem;border-top:1px solid var(--border);font-size:.79rem;color:var(--muted)}
+
+  @media print{
+    @page{size:letter;margin:.65in .7in}
+    body{background:#fff}
+    .bar{display:none!important}
+    .doc{box-shadow:none;margin:0;padding:0;max-width:none}
+    h3{break-after:avoid}
+    .stats,.callout,.quote,figure{break-inside:avoid}
+  }
+  @media(max-width:760px){
+    .doc{padding:1.6rem 1.3rem}
+    .stats{grid-template-columns:1fr 1fr}
+    .duo{grid-template-columns:1fr}
+    .facts{grid-template-columns:1fr;gap:.1rem}
+    .facts dd{margin-bottom:.6rem}
+  }
+</style>
+</head>
+<body>
+
+<div class="bar">
+  <h1>Camp Perkins 2026 — Report</h1>
+  <a class="dl" id="dl-link" href="/print-export/exports/camp-perkins-report-2026_2026-08-17T19-29.pdf" download="LIM-Camp-Perkins-2026-Report_2026-08-17T19-29.pdf">Download PDF</a>
+  <button id="print" type="button" class="secondary">Print</button>
+</div>
+
+<div class="doc">
+
+  <div class="mast">
+    <img class="logo" src="/brand/lutheranindianMinistries-logo-horz-stacked.svg" alt="Lutheran Indian Ministries">
+    <span class="lbl">Programme Report &middot; Prepared for Meyer Partners</span>
+    <h2>The First LIM Summer Youth Camp</h2>
+    <p class="sub">Camp Perkins &middot; Sawtooth Mountains, Stanley, Idaho &middot; 27&ndash;31 July 2026</p>
+  </div>
+
+  <p class="lede">In July, Lutheran Indian Ministries sent seventeen Native young people to a camp in the Idaho mountains. For most of them it was the first time they had met Native Christians from outside their own community. For two of them it was the first time they had been on an aeroplane. It was the first youth camp LIM has ever run, and it was fully funded &mdash; not one family paid to send a child.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="n">17</div><div class="l">Youth<br>ages 9&ndash;17</div></div>
+    <div class="stat"><div class="n">4</div><div class="l">Tribal<br>nations</div></div>
+    <div class="stat"><div class="n">5</div><div class="l">Days<br>8am&ndash;9:30pm</div></div>
+    <div class="stat"><div class="n">$100</div><div class="l">Per person<br>per night</div></div>
+  </div>
+
+  <h3>The essentials</h3>
+  <dl class="facts">
+    <dt>What</dt><dd>The 2026 LIM Summer Youth Camp &mdash; the first youth camp in LIM's history</dd>
+    <dt>When</dt><dd>27&ndash;31 July 2026</dd>
+    <dt>Where</dt><dd>Camp Perkins, Sawtooth Mountains, near Stanley, Idaho</dd>
+    <dt>Theme</dt><dd>&ldquo;God is for us&rdquo; &mdash; Romans 8:31 and Psalm 56:9</dd>
+    <dt>Who came</dt><dd>17 youth aged 9 to 17, from the Winnebago, Navajo, Neah Bay and Northern Cheyenne communities, with 10 adults</dd>
+    <dt>Who led it</dt><dd>Pastors Ricky Jacob, Tim Norton and Ben Maxson led morning and evening devotions; chaperones from Winnebago and Navajo; two LIM staff on logistics, travel and coordination</dd>
+    <dt>Cost</dt><dd>$100 per person per night, covering lodging, three meals and all activities. Funded by LIM; no family paid.</dd>
+  </dl>
+
+  <figure>
+    <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,w_1400,h_620/lim2026/camp-perkins-2026/group-beach-arms" alt="The full camp group on the lakeshore below the Sawtooth Mountains">
+    <figcaption>Seventeen youth, ten adults, four tribal nations &mdash; on the lakeshore in the Sawtooth Mountains, Idaho.</figcaption>
+  </figure>
+
+  <h3>Why this camp existed</h3>
+  <p>Pastor Tim Norton, who serves the Makah community at Neah Bay, gave the plainest answer when the leaders debriefed afterwards. It is worth quoting at length, because it explains what a week of swimming and archery actually accomplishes.</p>
+
+  <div class="quote big">
+    &ldquo;They aren't really children. They've seen too many terrible things that most adults haven't. Most adults in the non-Native world haven't seen people get murdered, and dead bodies hanging after a suicide, and terrible things like that that a lot of these kids have seen. So that's the why. I wanted them just to be kids, and to be free&hellip; They never get to go on the lake and swim for hours. They never get to go on the climbing wall. They never get to ride their bikes, out and free and have fun. There's really no price you could put on it.&rdquo;
+    <cite>Pastor Tim Norton</cite>
+  </div>
+
+  <p>A camp is not a small thing when a child has been carrying what these children carry. Five days of safety is a rare commodity.</p>
+
+  <h3>What happened there</h3>
+  <p>Days ran from 8:00 am to 9:30 pm. Youth swam, hiked, biked, kayaked, climbed the wall, shot archery, played basketball and volleyball. Pastors led devotions morning and evening, and the young people were asked each day what &ldquo;God is for us&rdquo; meant to them &mdash; and answered in their own words.</p>
+
+  <div class="duo">
+    <figure style="margin:0">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,w_800,h_600/lim2026/camp-perkins-2026/lodge-devotions" alt="Youth holding a web of yarn during a devotion">
+    </figure>
+    <figure style="margin:0">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,w_800,h_600/lim2026/camp-perkins-2026/outdoor-circle" alt="Youth learning archery">
+    </figure>
+  </div>
+  <p style="font-size:.79rem;color:var(--muted);font-style:italic;margin-top:-.5rem">Left: Pastor Ben Maxson's object lesson &mdash; the knots of sin that tangle us, and the same thread that ties us back to Christ. Right: archery instruction.</p>
+
+  <div class="quote">
+    &ldquo;What I saw was the kids living the faith &mdash; not only hearing the word but then applying that word. They were kind to each other. They were caring for each other. I saw that time and time again&hellip; They had a great amount of fun as they learned to live the faith of loving their neighbour.&rdquo;
+    <cite>Pastor Ricky Jacob</cite>
+  </div>
+
+  <h3>What it produced</h3>
+
+  <p><b>Faith that the young people themselves named.</b> Pastor Ricky Jacob read the thank-you notes afterwards. One girl, Juliana, wrote about her faith growing four separate times in a single note.</p>
+
+  <p><b>Friendship across nations that had never met.</b> The youth had never encountered Native Christians from other communities. Chaperones deliberately pushed them out of their own groups to meet others. One parent's summary of what her children took home:</p>
+
+  <div class="quote">
+    &ldquo;To know that other people, and other Natives, do love Jesus too.&rdquo;
+    <cite>Natalie, chaperone and parent</cite>
+  </div>
+
+  <p><b>Confidence that will outlast the week.</b> Two youth from the Montana group had never flown. Rather than simply shepherd them through, LIM's Suzette Shreffler taught them to read a boarding pass, find a flight number and gate, and use the departure boards &mdash; then had them lead her through the airport. Both said afterwards they now feel able to fly somewhere on their own.</p>
+
+  <p><b>Leadership, unprompted.</b> During an evening check-in around the campfire, one of the youngest campers, Tamika, noticed two adults standing outside the circle and made sure both were brought in before the group moved on. She had also taught the other children a song. Tamika later shared how glad she was to have learned words in her own language, and in other Native languages too.</p>
+
+  <div class="quote">
+    &ldquo;That was a joy to see her taking some leadership like that. Finding her voice.&rdquo;
+    <cite>Pastor Tim Norton, on Tamika</cite>
+  </div>
+
+  <p>Another camper, a shy teenager from Winnebago serving as a junior chaperone, was given responsibility for calling the younger children back across the lake. He could not do it at first &mdash; he kept laughing, then trying again. Suzette kept at him until he found the volume. She told him she remembered being the same, not believing her voice mattered.</p>
+
+  <h3>What the youth said at the end</h3>
+  <p>Roberta Richardson, LIM's Ministry Coordinator, summarised the week's close in a single line:</p>
+  <div class="quote big">
+    &ldquo;The youth ended the summer camp with one question: <i>when is the next one?</i>&rdquo;
+    <cite>Roberta Richardson, Ministry Coordinator</cite>
+  </div>
+
+  <h3>What it cost, and what stopped more children coming</h3>
+  <p>Camp Perkins charged <b>$100 per person per night</b> &mdash; lodging, three meals a day, and every activity included. Pastor Tim Norton's assessment: <i>&ldquo;That is a bargain. There's no way you're going to get a place to stay, lots of activities, and three meals for a hundred bucks.&rdquo;</i></p>
+  <p>LIM covered it in full. One chaperone described what that meant for her family: her niece came because LIM paid, and her sister had just had an eighth baby. There was no version of that week in which the family funded it themselves.</p>
+
+  <div class="callout warn">
+    <div class="h">The honest limiting factor was not money</div>
+    <p><b>At least two more groups of young people were expected and did not come, because consent and background-check paperwork could not be completed in time.</b> One group leader reported simply that he could not get the forms signed. As Pastor Tim Norton put it: <i>&ldquo;It's just sad when we have a youth gathering and not all the youth are gathered.&rdquo;</i></p>
+    <p>LIM has already identified this as the first thing to fix for 2027, and the ministry is moving these forms onto its own website so they can be completed and returned digitally rather than chased on paper. It is a solvable problem, and solving it directly increases the number of children served.</p>
+  </div>
+
+  <h3>What LIM learned for next year</h3>
+  <ul>
+    <li><b>Travel needs breaking up.</b> Driving into the Sawtooths after dark on winding roads with heavy deer traffic was the single biggest safety concern. Arriving a day early is the fix.</li>
+    <li><b>Feed them more.</b> The camp budgets 2,000 calories per camper per day. Active youth on a 13-hour schedule needed considerably more; snacks bought in advance carried the week.</li>
+    <li><b>Build in downtime.</b> The relationships were the most valued outcome, and the schedule left too little room for them.</li>
+    <li><b>A theme song, and name games.</b> Both suggested by the pastors &mdash; repetition is what a child carries home.</li>
+    <li><b>Define the chaperone role.</b> Written expectations, so responsibilities are understood before arrival.</li>
+  </ul>
+
+  <h3>Looking ahead</h3>
+  <p>The pastors want to do it again, and are already discussing timing for 2027 &mdash; late May or early June, once school calendars across three regions can be reconciled. This was, in Pastor Ricky Jacob's words, a long-held goal finally realised. Roberta Richardson put the ambition plainly in the debrief: <i>&ldquo;Can you imagine if we had 50 kids?&rdquo;</i></p>
+
+  <div class="callout">
+    <div class="h">In one paragraph, for an appeal</div>
+    <p>Seventeen Native young people, aged nine to seventeen, from four tribal nations, spent five days in the Idaho mountains this July at the first summer youth camp Lutheran Indian Ministries has ever held. They swam, climbed, shot archery and heard scripture morning and evening on the theme <i>God is for us</i>. Two flew for the first time in their lives. Most met Native Christians from outside their own community for the first time. Every cost was covered by donors, because for these families it was that or nothing. They went home having learned, in the words of one chaperone, &ldquo;that other Natives do love Jesus too&rdquo; &mdash; and asking one question: <i>when is the next one?</i></p>
+  </div>
+
+  <p class="foot">
+    Prepared from Roberta Richardson's camp summary (17 Aug 2026), Suzette Shreffler's written review, and the recorded leaders' debrief of 11 Aug 2026 with Pastors Ricky Jacob, Tim Norton and Ben Maxson, Suzette Shreffler, Roberta Richardson, Jaylene Peterson-Nyren and chaperone Natalie. Quotations are drawn from that debrief and lightly tidied for readability without altering meaning. Photographs by camp staff and chaperones.
+  </p>
+
+</div>
+
+<script>document.getElementById('print').addEventListener('click',function(){window.print();});</script>
+</body>
+</html>
