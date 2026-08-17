@@ -46,6 +46,9 @@
 /songs                                           /songs-and-stories               301
 /board-report                                    /docs-board-report.html          200
 /camp-report                                     /docs-camp-perkins-report.html   200
+# Meyer Partners will link donors here from an appeal, so it gets a clean stem.
+/camp-perkins                                    /blog-camp-perkins-2026.html     200
+/youth-camp                                      /camp-perkins                    301
 /healing-group-intake                            /healing-group-intake.html       200
 /healing-group-post                              /healing-group-post.html         200
 
