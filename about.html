@@ -181,6 +181,13 @@
     .team-hd{text-align:center;margin-bottom:3.5rem}
     .team-sect-title{font-family:var(--cond);font-size:1.2rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--charcoal);text-align:center;margin:3.5rem 0 1.9rem;display:flex;align-items:center;justify-content:center;gap:1rem}
     .team-sect-title::before,.team-sect-title::after{content:'';height:3px;width:44px;background:var(--yellow);border-radius:2px;flex-shrink:0}
+    /* Join Our Team band — sits under the board, links out to Paylocity */
+    .join-team{max-width:var(--max);margin:4rem auto 0;background:var(--stone);border-radius:var(--rl);border-left:5px solid var(--yellow);padding:2.25rem 2.25rem;display:flex;align-items:center;justify-content:space-between;gap:2rem;flex-wrap:wrap}
+    .join-team-body{flex:1 1 320px}
+    .join-team h3{font-family:var(--cond);font-size:1.7rem;font-weight:800;letter-spacing:.02em;color:var(--charcoal);margin:.35rem 0 .5rem}
+    .join-team p{font-size:.94rem;line-height:1.65;color:var(--muted,#5a5a52);max-width:56ch;margin:0}
+    .join-team .btn{flex-shrink:0;white-space:nowrap}
+    @media(max-width:640px){.join-team{padding:1.75rem 1.5rem}.join-team .btn{width:100%;text-align:center}}
     /* Photo cards — big portrait panels, centered rows */
     .team-g{max-width:var(--max);margin:0 auto;display:flex;flex-wrap:wrap;justify-content:center;gap:1.5rem}
     .tm{flex:1 1 240px;max-width:290px;background:var(--charcoal);border-radius:var(--rl);overflow:hidden;transition:var(--t);display:flex;flex-direction:column}
@@ -394,7 +401,7 @@
     <a href="index.html" class="nav-logo">
       <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
     </a>
-    <button class="ham" aria-label="Toggle menu" onclick="this.nextElementSibling.classList.toggle('open')">
+    <button class="ham" type="button" aria-label="Toggle menu">
       <span></span><span></span><span></span>
     </button>
     <ul class="nav-links" id="navlinks">
@@ -404,6 +411,7 @@
           <a href="#mission">Mission &amp; Vision</a>
           <a href="#who">Who We Are</a>
           <a href="#team">Our Team</a>
+          <a href="#join-team">Join Our Team</a>
           <a href="#stories">Stories</a>
         </div>
       </li>
@@ -891,6 +899,20 @@
       <div class="bm" style="min-width:220px"><div class="bm-name">Daniel Novitch</div><div class="bm-loc">Merrill, WI</div></div>
       <div class="bm" style="min-width:220px"><div class="bm-name">Rev. Roger Stauffer</div><div class="bm-loc">Sanford, MI</div></div>
     </div>
+
+    <!-- Join Our Team — links straight to LIM's Paylocity job board so the
+         openings are never out of date on this page. -->
+    <div id="join-team" class="join-team fi">
+      <div class="join-team-body">
+        <span class="lbl">Careers</span>
+        <h3>Join Our Team</h3>
+        <p>LIM hires Native leaders, ministry staff, and administrators who want their work to matter. Current openings are posted on our recruitment page — see what's available and apply there.</p>
+      </div>
+      <a class="btn btn-red" href="https://recruiting.paylocity.com/recruiting/jobs/All/e19b9ab9-48b0-498b-b398-58f1cc233bb7/Lutheran-Indian-Ministries" target="_blank" rel="noopener">
+        View Open Positions
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="vertical-align:-3px;margin-left:.4rem"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
+    </div>
   </div>
 </section>
 
@@ -951,6 +973,7 @@
         <li><a href="#who">Who We Are</a></li>
         <li><a href="#pillars">Three Pillars</a></li>
         <li><a href="#team">Our Team</a></li>
+        <li><a href="#join-team">Join Our Team</a></li>
         <li><a href="#history">Our History</a></li>
       </ul>
     </div>
@@ -1020,6 +1043,7 @@
     <a href="go-live-plan.html"><span class="adm-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg></span><span class="adm-txt"><b>Go-Live Plan</b><small>Launch steps, DNS &amp; SEO</small></span></a>
     <a href="admin-events.html"><span class="adm-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 21V4M5 4c3-1.5 6 1.5 9 0s4 0 5 .5v9c-1-.5-2-2-5-.5s-6-1.5-9 0"/></svg></span><span class="adm-txt"><b>Events Manager</b><small>Add &amp; edit healing-group sessions</small></span></a>
     <a href="admin-tree-of-life.html"><span class="adm-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 2h6a1 1 0 0 1 1 1v2H8V3a1 1 0 0 1 1-1z"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><path d="M9 13l2 2 4-4"/></svg></span><span class="adm-txt"><b>Tree of Life Applications</b><small>Review applications as they arrive</small></span></a>
+    <a href="/tree-of-life/flyer"><span class="adm-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2h9l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/><path d="M15 2v5h5"/><path d="M8 12h8M8 16h5"/></svg></span><span class="adm-txt"><b>Tree of Life Flyer</b><small>Share by text or email &middot; print PDF</small></span></a>
     <a href="promotion-builder.html"><span class="adm-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16M4 5v14M4 5l6 4-6 4"/><rect x="12" y="7" width="8" height="10" rx="1"/></svg></span><span class="adm-txt"><b>Promotion Builder</b><small>Flyers, emails &amp; social posts</small></span></a>
     <a href="docs-seo-keywords.html"><span class="adm-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg></span><span class="adm-txt"><b>SEO Keyword Research</b><small>Keyword targets &amp; rankings</small></span></a>
     <a href="brand/LIM-2026-brand-style-guide.html" target="_blank"><span class="adm-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="13.5" cy="6.5" r="2.5"/><circle cx="18" cy="12" r="2.5"/><circle cx="7" cy="6" r="2.5"/><path d="M5 21c0-5 3-8 7-8 2 0 3 1 3 2.5S15 18 13 18"/></svg></span><span class="adm-txt"><b>Brand Guide</b><small>Colors, type &amp; logos</small></span></a>
@@ -1471,6 +1495,36 @@
   if(c==='granted'){ gtm(); show('cc-reopen',true); }
   else if(c==='denied'){ show('cc-reopen',true); }
   else { if(document.readyState!=='loading'){ show('cc-banner',true); } else { document.addEventListener('DOMContentLoaded', function(){ show('cc-banner',true); }); } }
+})();
+</script>
+<script>
+/* Mobile nav: toggle, close on navigate / outside tap / Escape. */
+(function(){
+  var ham = document.querySelector('.ham'),
+      links = document.querySelector('.nav-links');
+  if(!ham || !links) return;
+  function set(open){
+    links.classList.toggle('open', open);
+    ham.setAttribute('aria-expanded', open ? 'true' : 'false');
+  }
+  ham.setAttribute('aria-expanded','false');
+  ham.setAttribute('aria-controls', links.id || (links.id = 'navlinks'));
+  ham.addEventListener('click', function(e){
+    e.stopPropagation();
+    set(!links.classList.contains('open'));
+  });
+  links.addEventListener('click', function(e){
+    if(e.target.closest('a')) set(false);
+  });
+  document.addEventListener('click', function(e){
+    if(links.classList.contains('open') && !e.target.closest('.nav-i')) set(false);
+  });
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'Escape') set(false);
+  });
+  window.addEventListener('resize', function(){
+    if(window.innerWidth > 960) set(false);
+  });
 })();
 </script>
 </body>

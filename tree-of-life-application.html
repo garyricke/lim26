@@ -234,6 +234,22 @@
             </div>
           </div>
         </div>
+        <div class="row full">
+          <div class="field">
+            <label for="education">Highest Level of Education <span class="req">*</span></label>
+            <select id="education" name="education" required>
+              <option value="">Select one…</option>
+              <option>Secondary / High School</option>
+              <option>Vocational</option>
+              <option>Associate's Degree</option>
+              <option>Bachelor's Degree</option>
+              <option>Master's Degree</option>
+              <option>Doctorate</option>
+              <option>Other</option>
+            </select>
+          </div>
+        </div>
+      </div>
 
       <!-- 4 · Attendance -->
       <div class="sect">
@@ -507,27 +523,38 @@
     return data;
   }
 
+  // Every name here must exist in the form. If one is ever removed from the
+  // markup but left in this list, the applicant gets an error pointing at a
+  // question that isn't on screen and can never submit — which is exactly what
+  // happened when the Education question was dropped. The load-time check below
+  // makes that failure loud instead of silent.
+  var required = [
+    ['firstName','your first name'], ['lastName','your last name'],
+    ['address','your street address'], ['city','your city'], ['state','your state'],
+    ['zip','your ZIP code'], ['phone','your phone number'], ['email','your email address'],
+    ['emergencyName','an emergency contact name'], ['emergencyPhone','an emergency contact phone'],
+    ['ageRange','your age range'], ['gender','your gender'], ['ethnicity','your race or ethnicity'],
+    ['education','your level of education'], ['attendAll','whether you can attend all three days'],
+    ['needHousing','whether you need housing'],
+    ['dvHistory','the domestic violence question'], ['behavioralHealth','the behavioral health question'],
+    ['receivingCare','whether you are currently receiving care'],
+    ['unsafeRelationship','the unsafe relationship question'],
+    ['unsafeHome','the safety at home question'],
+    ['unusualStress','the stress question'],
+    ['suicidalThoughts','the question about thoughts of suicide'],
+    ['recentTrauma','the recent trauma question'],
+    ['photoPermission','the photography question'],
+    ['participantSignature','your signature']
+  ];
+
+  required.forEach(function(r){
+    if(!form.querySelector('[name="' + r[0] + '"]')){
+      console.error('[tol-form] required field "' + r[0] + '" is not in the form — applicants will be blocked from submitting.');
+    }
+  });
+
   function validate(data){
     form.querySelectorAll('.field.invalid').forEach(function(f){ f.classList.remove('invalid'); });
-
-    var required = [
-      ['firstName','your first name'], ['lastName','your last name'],
-      ['address','your street address'], ['city','your city'], ['state','your state'],
-      ['zip','your ZIP code'], ['phone','your phone number'], ['email','your email address'],
-      ['emergencyName','an emergency contact name'], ['emergencyPhone','an emergency contact phone'],
-      ['ageRange','your age range'], ['gender','your gender'], ['ethnicity','your race or ethnicity'],
-      ['education','your level of education'], ['attendAll','whether you can attend all three days'],
-      ['needHousing','whether you need housing'],
-      ['dvHistory','the domestic violence question'], ['behavioralHealth','the behavioral health question'],
-      ['receivingCare','whether you are currently receiving care'],
-      ['unsafeRelationship','the unsafe relationship question'],
-      ['unsafeHome','the safety at home question'],
-      ['unusualStress','the stress question'],
-      ['suicidalThoughts','the question about thoughts of suicide'],
-      ['recentTrauma','the recent trauma question'],
-      ['photoPermission','the photography question'],
-      ['participantSignature','your signature']
-    ];
 
     for(var i=0;i<required.length;i++){
       var name = required[i][0];

@@ -15,7 +15,14 @@ const FLYERS = [
   {
     id: 'fbx-healing-2026',
     html: 'flyer-fairbanks-healing-groups-2026.html',
-    file: 'flyer-fairbanks-healing-groups-2026'
+    file: 'flyer-fairbanks-healing-groups-2026',
+    download: 'LIM-Fairbanks-Healing-Groups-2026'
+  },
+  {
+    id: 'tol-2026',
+    html: 'flyer-tree-of-life-fairbanks-2026.html',
+    file: 'flyer-tree-of-life-fairbanks-2026',
+    download: 'LIM-Tree-of-Life-Fairbanks-2026'
   }
 ];
 
@@ -74,7 +81,7 @@ async function main() {
     );
     html = html.replace(
       /(id="dl-link"[\s\S]*?download=")[^"]+(")/,
-      `$1LIM-Fairbanks-Healing-Groups-2026_${stampFile}.pdf$2`
+      `$1${flyer.download}_${stampFile}.pdf$2`
     );
 
     writeFileSync(htmlPath, html);
