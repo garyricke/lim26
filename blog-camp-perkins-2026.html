@@ -67,7 +67,15 @@
   /* Video grid */
   .vids{background:var(--stone);padding:3.4rem 0;margin:3.2rem 0 0}
   .vids h2{margin-top:0}
-  .vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.5rem;margin-top:2rem}
+  .reel{display:grid;grid-template-columns:minmax(0,300px) 1fr;gap:2rem;align-items:center;background:#fff;border-radius:var(--rl);overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,.1);margin-top:2rem;padding:1.5rem}
+  .reel video{width:100%;aspect-ratio:9/16;object-fit:cover;background:#000;border-radius:10px;display:block}
+  .reel-tag{font-family:var(--cond);font-size:.74rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:#fff;background:var(--red);display:inline-block;padding:.25rem .7rem;border-radius:4px;margin-bottom:.7rem}
+  .reel-body h3{font-family:var(--cond);font-size:clamp(1.5rem,3vw,2rem);font-weight:800;letter-spacing:.02em;text-transform:uppercase;line-height:1.12;margin-bottom:.6rem}
+  .reel-body p{font-size:1rem;color:var(--muted);max-width:44ch;margin-bottom:.8rem}
+  .reel-len{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--sage-d)}
+  .vgrid-head{font-family:var(--cond);font-size:1.15rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:2.8rem 0 0}
+  .vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.5rem;margin-top:1.2rem}
+  @media(max-width:760px){.reel{grid-template-columns:1fr;gap:1.2rem}.reel video{max-width:280px;margin:0 auto}}
   .vcard{background:#fff;border-radius:var(--rl);overflow:hidden;box-shadow:0 3px 14px rgba(0,0,0,.08);display:flex;flex-direction:column}
   .vcard video{width:100%;aspect-ratio:9/16;object-fit:cover;background:#000;display:block}
   .vbody{padding:1.1rem 1.25rem 1.3rem}
@@ -96,7 +104,7 @@
 <body>
 
 <div class="review">
-  <b>Draft for Robert's approval.</b> The videos below are not yet public &mdash; this page is hidden from Google until you say go. All speakers are now named from their own introductions in the recordings.
+  <b>Draft for Robert's approval.</b> The videos below are not yet public &mdash; this page is hidden from Google until you say go. All speakers are named from their own introductions. Audio enhanced and captions added.
 </div>
 
 <header class="hero">
@@ -166,8 +174,21 @@
 <div class="vids">
   <div class="wide">
     <h2>Hear it from the people who were there</h2>
-    <p style="max-width:60ch;color:var(--muted)">Pastors, chaperones and youth, recorded at camp.</p>
+    <p style="max-width:60ch;color:var(--muted)">Start with the three-minute reel, or watch any of the full interviews below.</p>
 
+    <div class="reel">
+      <video controls preload="none" playsinline
+        poster="https://res.cloudinary.com/dsbllwpbh/video/upload/so_6,f_auto,q_auto,w_800/lim2026/camp-perkins-2026/highlight-reel.jpg"
+        src="https://res.cloudinary.com/dsbllwpbh/video/upload/f_auto,q_auto/lim2026/camp-perkins-2026/highlight-reel.mp4"></video>
+      <div class="reel-body">
+        <div class="reel-tag">Watch this first</div>
+        <h3>Camp Perkins in three minutes</h3>
+        <p>All six voices &mdash; three pastors, a deaconess student and two chaperones &mdash; on what the week did for these young people, in their own words.</p>
+        <div class="reel-len">3 min 1 sec &middot; captioned</div>
+      </div>
+    </div>
+
+    <h3 class="vgrid-head">The full interviews</h3>
     <div class="vgrid">
       <div class="vcard">
         <video controls preload="none" playsinline
