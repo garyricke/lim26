@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>Verse Jars — Lutheran Indian Ministries</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--red-h:#c8151c;--yellow:#FFDE16;--charcoal:#282924;
+    --sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--sky-d:#6fa3b8;
+    --stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:var(--body);color:var(--charcoal);background:var(--stone);line-height:1.6}
+
+  /* ── Controls (never printed) ── */
+  .bar{background:var(--charcoal);color:#fff;padding:1.1rem 1.5rem;display:flex;align-items:center;gap:1.1rem;flex-wrap:wrap;position:sticky;top:0;z-index:50}
+  .bar h1{font-family:var(--cond);font-size:1.25rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-right:auto}
+  .bar label{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.6);display:block;margin-bottom:.25rem}
+  .bar select{font-family:var(--body);font-size:.9rem;padding:.5rem .7rem;border-radius:5px;border:1.5px solid rgba(255,255,255,.2);background:#1e1e1a;color:#fff;min-width:190px}
+  .bar button{font-family:var(--cond);font-size:.85rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.62rem 1.3rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer}
+  .bar button:hover{background:#ffe95c}
+  .note{max-width:var(--max,1200px);margin:1.5rem auto 0;padding:0 1.5rem}
+  .licence{background:#fff;border-left:5px solid var(--sage-d);border-radius:8px;padding:1rem 1.2rem;font-size:.88rem;color:var(--muted)}
+  .licence strong{color:var(--charcoal)}
+  .count{font-size:.82rem;color:var(--muted);padding:1rem 1.5rem 0;max-width:1200px;margin:0 auto}
+
+  /* ── Sheets ── */
+  .sheets{padding:1.25rem 1.5rem 3rem}
+  .sheet{width:8.5in;height:11in;margin:0 auto 1.5rem;background:#fff;box-shadow:0 8px 28px rgba(0,0,0,.15);padding:.42in .5in;display:flex;flex-direction:column;overflow:hidden}
+  .sheet-hd{display:flex;align-items:baseline;justify-content:space-between;border-bottom:2px solid var(--charcoal);padding-bottom:.28rem;margin-bottom:.2in;flex-shrink:0}
+  .sheet-hd .theme{font-family:var(--cond);font-size:1.28rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase}
+  .sheet-hd .meta{font-family:var(--cond);font-size:.72rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  .strips{display:grid;grid-template-columns:1fr 1fr;gap:0}
+  /* Dashed cut lines shared between neighbours, so you cut once down the middle. */
+  .strip{border:1px dashed #b9b5ab;margin:-0.5px 0 0 -0.5px;padding:.11in .16in;min-height:.92in;display:flex;flex-direction:column;justify-content:center;break-inside:avoid}
+  .strip .vtext{font-family:var(--serif);font-size:7.9pt;line-height:1.38;color:var(--charcoal)}
+  .strip .vref{font-family:var(--cond);font-size:6.9pt;font-weight:700;letter-spacing:.11em;text-transform:uppercase;color:var(--sage-d);margin-top:.045in}
+  .strip .vref .mark{color:var(--red)}
+  .sheet-ft{margin-top:auto;padding-top:.14in;border-top:1px solid var(--border);flex-shrink:0;display:flex;justify-content:space-between;font-family:var(--cond);font-size:.68rem;font-weight:600;letter-spacing:.13em;text-transform:uppercase;color:var(--muted)}
+
+  @media print{
+    @page{size:letter;margin:0}
+    body{background:#fff}
+    .bar,.note,.count{display:none!important}
+    .sheets{padding:0}
+    /* Do NOT pin a height here. Absolute `in` units do not resolve at 96dpi in the
+       print context (a 10.96in box measured 1488px, not 1052px), so a pinned height
+       overflowed and every sheet printed as two pages. Let the page box size itself
+       and break only BETWEEN sheets — the on-screen preview keeps the fixed 11in
+       sheet so you can still see the true trim. */
+    .sheet{box-shadow:none;margin:0;width:auto;height:auto;overflow:visible}
+    .sheet + .sheet{break-before:page}
+    .strips{grid-template-columns:1fr 1fr}
+    .strip{break-inside:avoid}
+  }
+  @media screen and (max-width:920px){.sheet{width:100%;height:auto;overflow:visible}.strips{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<div class="bar">
+  <h1>Verse Jars</h1>
+  <div>
+    <label for="theme">Theme</label>
+    <select id="theme"><option value="__all">All themes</option></select>
+  </div>
+  <div>
+    <label for="trans">Translation</label>
+    <select id="trans"><option value="web">World English Bible</option></select>
+  </div>
+  <button id="print" type="button">Print / Save PDF</button>
+</div>
+
+<div class="note">
+  <p class="licence" id="licence">Loading…</p>
+</div>
+<p class="count" id="count"></p>
+
+<div class="sheets" id="sheets"></div>
+
+<script>
+(function(){
+  var sheets = document.getElementById('sheets'),
+      themeSel = document.getElementById('theme'),
+      transSel = document.getElementById('trans'),
+      licence = document.getElementById('licence'),
+      countEl = document.getElementById('count');
+  var DATA = null;
+
+  document.getElementById('print').addEventListener('click', function(){ window.print(); });
+
+  function esc(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+  function sheetFor(theme, verses){
+    var strips = verses.map(function(v){
+      return '<div class="strip"><div class="vtext">' + esc(v.text) + '</div>' +
+             '<div class="vref"><span class="mark">&mdash;</span> ' + esc(v.ref) + '</div></div>';
+    }).join('');
+    return '<article class="sheet">' +
+      '<div class="sheet-hd"><div class="theme">' + esc(theme) + '</div>' +
+      '<div class="meta">' + verses.length + ' verses &middot; cut on the dashed lines</div></div>' +
+      '<div class="strips">' + strips + '</div>' +
+      '<div class="sheet-ft"><span>Lutheran Indian Ministries &middot; limhope.org</span>' +
+      '<span>' + esc(DATA.translation) + '</span></div></article>';
+  }
+
+  function render(){
+    var pick = themeSel.value;
+    var themes = pick === '__all' ? Object.keys(DATA.themes) : [pick];
+    sheets.innerHTML = themes.map(function(t){ return sheetFor(t, DATA.themes[t]); }).join('');
+    var n = themes.reduce(function(a,t){ return a + DATA.themes[t].length; }, 0);
+    countEl.textContent = n + ' verses across ' + themes.length + ' theme' + (themes.length === 1 ? '' : 's') +
+                          ' — ' + themes.length + ' page' + (themes.length === 1 ? '' : 's') + ' to print.';
+  }
+
+  function load(){
+    fetch('/data/verse-jars-' + transSel.value + '.json?ts=' + Date.now())
+      .then(function(r){ if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(function(j){
+        DATA = j;
+        licence.innerHTML = '<strong>Translation: ' + esc(j.translation) + '.</strong> ' +
+          'Public domain, so LIM can print, give away, or sell these with no permission needed and no royalty. ' +
+          'Verse text is pulled from ' + esc(j.builtFrom) + ' by <code>scripts/build-verse-jar.mjs</code> — never typed from memory — ' +
+          'and any reference that fails to fetch is reported rather than silently dropped. ' +
+          '<strong>Do not swap in NIV, ESV, NLT, or CSB without written permission:</strong> those licences cap how much you may ' +
+          'reproduce, and a product whose entire content is verses goes well past the cap.';
+        themeSel.innerHTML = '<option value="__all">All themes</option>' +
+          Object.keys(j.themes).map(function(t){ return '<option value="' + esc(t) + '">' + esc(t) + '</option>'; }).join('');
+        render();
+      })
+      .catch(function(e){
+        licence.innerHTML = '<strong>Could not load the verse data.</strong> Run <code>node scripts/build-verse-jar.mjs web</code> first. (' + esc(e.message) + ')';
+      });
+  }
+
+  themeSel.addEventListener('change', render);
+  transSel.addEventListener('change', load);
+  load();
+})();
+</script>
+</body>
+</html>

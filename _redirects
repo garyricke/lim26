@@ -38,6 +38,7 @@
 # clean-stem treatment as the application.
 /tree-of-life/flyer                              /flyer-tree-of-life-fairbanks-2026.html   200
 /flyer/tree-of-life                              /tree-of-life/flyer              301
+/verse-jars                                      /verse-jars.html                 200
 
 # ── Posts that DO exist on the new site ──
 # Must precede the /news/* and /reflections/* catch-alls below — Netlify takes
