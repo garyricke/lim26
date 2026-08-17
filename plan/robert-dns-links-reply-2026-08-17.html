@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Reply to Robert — links that work (17 Aug 2026)</title>
+<style>
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif;background:#f5f4f0;color:#282924;line-height:1.6;margin:0;padding:2rem 1rem 4rem}
+  .wrap{max-width:680px;margin:0 auto}
+  .bar{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;margin-bottom:1rem}
+  .copy{font:600 .9rem/1 -apple-system,system-ui,sans-serif;background:#ED1C24;color:#fff;border:none;border-radius:8px;padding:.7rem 1.15rem;cursor:pointer}
+  .copy:hover{background:#c8161d}
+  .copy.ok{background:#5f8a4f}
+  .hint{font-size:.82rem;color:#5a5a52}
+  .subject{font-size:.82rem;color:#5a5a52;margin:.25rem 0 1rem}
+  .subject b{color:#282924}
+  .email{background:#fff;border:1px solid #d9d6ce;border-radius:12px;padding:1.75rem 1.9rem;box-shadow:0 2px 10px rgba(0,0,0,.05)}
+  /* email body styles kept simple & inline-safe so they survive a paste */
+  #body p{margin:0 0 1rem}
+  #body h3{font-size:1rem;margin:1.5rem 0 .4rem;color:#282924}
+  #body ul{margin:.2rem 0 1rem;padding-left:1.25rem}
+  #body li{margin:.3rem 0}
+  #body a{color:#ED1C24}
+  #body .sig{color:#5a5a52}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="bar">
+    <button class="copy" id="copyBtn">Copy email</button>
+    <span class="hint">Click, then reply to Robert's message and paste.</span>
+  </div>
+  <p class="subject"><b>Suggested subject:</b> RE: LIM website — use these links instead (our domain is having a DNS problem)</p>
+
+  <div class="email">
+    <div id="body">
+      <p>Robert,</p>
+
+      <p>Thanks for telling me &mdash; that's not you and it's not your computer. <b>Our domain name is genuinely misbehaving today, and it's the domain registrar's fault.</b> Roberta hit the same thing this morning and I wrongly told her it was her browser. She was right and I was wrong.</p>
+
+      <p><b>Use these links instead. They bypass the problem entirely and will work for everyone right now:</b></p>
+      <ul>
+        <li><b>Camp Perkins story + videos</b> &mdash; <a href="https://lim2026.netlify.app/camp-perkins">lim2026.netlify.app/camp-perkins</a></li>
+        <li><b>Camp report for Meyer Partners</b> &mdash; <a href="https://lim2026.netlify.app/camp-report">lim2026.netlify.app/camp-report</a></li>
+        <li><b>Board report</b> &mdash; <a href="https://lim2026.netlify.app/board-report">lim2026.netlify.app/board-report</a></li>
+        <li><b>Zion &mdash; Songs &amp; Stories of Hope</b> &mdash; <a href="https://lim2026.netlify.app/songs-and-stories">lim2026.netlify.app/songs-and-stories</a></li>
+        <li><b>LIM history draft</b> &mdash; <a href="https://lim2026.netlify.app/lim-history">lim2026.netlify.app/lim-history</a></li>
+        <li><b>Healing group forms</b> &mdash; <a href="https://lim2026.netlify.app/healing-group-intake">intake</a> and <a href="https://lim2026.netlify.app/healing-group-post">post-assessment</a></li>
+        <li><b>Tree of Life flyer</b> &mdash; <a href="https://lim2026.netlify.app/tree-of-life/flyer">lim2026.netlify.app/tree-of-life/flyer</a></li>
+        <li><b>Verse jars</b> &mdash; <a href="https://lim2026.netlify.app/verse-jars">lim2026.netlify.app/verse-jars</a></li>
+      </ul>
+      <p>That is the exact same website. Only the address is different.</p>
+
+      <h3>What's actually going on</h3>
+      <p>When we moved the website, we updated our domain records at Network Solutions. That change is correct &mdash; I've checked it against their own records.</p>
+      <p><b>The problem is that Network Solutions is answering the same question two different ways.</b> They run our domain across a bank of servers, and some still hold the old settings pointing at Squarespace. I tested this directly: asking the same server twenty times, it gave the correct answer fifteen times and the old one five times. So roughly one visitor in four is being sent to the old site, at random, and it changes from one click to the next.</p>
+      <p>That is why it worked for you this morning and stopped this afternoon, and why it works for some of us and not others. Nobody did anything wrong.</p>
+
+      <h3>What I'm doing about it</h3>
+      <ul>
+        <li><b>Right now</b> &mdash; use the links above. They don't touch the faulty part at all.</li>
+        <li><b>Next</b> &mdash; I'd like to move our domain's DNS off Network Solutions to a more reliable provider. <b>Every email setting stays exactly as it is</b>; staff email is not affected and I have the current settings recorded. This is the permanent fix, and it stops the same thing happening at the next change.</li>
+        <li><b>Meanwhile</b> &mdash; I'd hold off sending the Zion link to Bill and the camp report to Meyer Partners for a day, or send them the addresses above, so nobody lands on the old site.</li>
+      </ul>
+
+      <p>Sorry for the runaround. Everything we went through this morning is built and working &mdash; it's just the front door that's sticking.</p>
+
+      <p class="sig">Gary</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  const btn = document.getElementById('copyBtn');
+  const body = document.getElementById('body');
+  btn.addEventListener('click', async () => {
+    try {
+      const html = body.innerHTML;
+      const text = body.innerText;
+      if (navigator.clipboard && window.ClipboardItem) {
+        await navigator.clipboard.write([new ClipboardItem({
+          'text/html': new Blob([html], {type:'text/html'}),
+          'text/plain': new Blob([text], {type:'text/plain'})
+        })]);
+      } else {
+        // fallback: select + execCommand
+        const range = document.createRange();
+        range.selectNodeContents(body);
+        const sel = window.getSelection();
+        sel.removeAllRanges(); sel.addRange(range);
+        document.execCommand('copy');
+        sel.removeAllRanges();
+      }
+      btn.textContent = 'Copied ✓'; btn.classList.add('ok');
+      setTimeout(() => { btn.textContent = 'Copy email'; btn.classList.remove('ok'); }, 2000);
+    } catch (e) {
+      btn.textContent = 'Press ⌘C to copy';
+    }
+  });
+</script>
+</body>
+</html>
