@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>The New LIM Website — Report to the Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+    --sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--sky-d:#6fa3b8;
+    --stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;--green:#4f7d52;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:var(--body);color:var(--charcoal);background:var(--stone);line-height:1.72}
+
+  .bar{background:var(--charcoal);color:#fff;padding:1rem 1.5rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap;position:sticky;top:0;z-index:50}
+  .bar h1{font-family:var(--cond);font-size:1.1rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-right:auto}
+  .bar button{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.6rem 1.25rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer}
+  .bar button:hover{background:#ffe95c}
+
+  .doc{max-width:7.4in;margin:2rem auto 4rem;background:#fff;padding:.8in .9in 1in;box-shadow:0 8px 30px rgba(0,0,0,.13)}
+
+  .mast{border-bottom:3px solid var(--charcoal);padding-bottom:1rem;margin-bottom:1.9rem}
+  .mast img{height:40px;margin-bottom:1rem}
+  .mast .lbl{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.35rem}
+  .mast h2{font-family:var(--serif);font-size:1.85rem;font-weight:900;line-height:1.22}
+  .mast .sub{font-size:.88rem;color:var(--muted);margin-top:.5rem}
+
+  h3{font-family:var(--cond);font-size:1.1rem;font-weight:800;letter-spacing:.09em;text-transform:uppercase;margin:2.1rem 0 .7rem;padding-bottom:.3rem;border-bottom:1px solid var(--border);break-after:avoid}
+  p{margin-bottom:.9rem;font-size:.94rem}
+  .lede{font-family:var(--serif);font-size:1.04rem;line-height:1.8}
+  ul{margin:.3rem 0 1rem 0;list-style:none}
+  li{font-size:.94rem;margin-bottom:.62rem;padding-left:1.15rem;position:relative}
+  li::before{content:'';position:absolute;left:0;top:.62em;width:6px;height:6px;border-radius:50%;background:var(--yellow)}
+  li b{font-weight:700}
+
+  /* Stat band */
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:0;border:1px solid var(--border);border-radius:8px;overflow:hidden;margin:1.5rem 0 1.7rem}
+  .stat{padding:1.05rem .9rem;text-align:center;border-right:1px solid var(--border);background:#fcfbf9}
+  .stat:last-child{border-right:0}
+  .stat .n{font-family:var(--cond);font-size:1.72rem;font-weight:800;line-height:1;color:var(--charcoal)}
+  .stat .n small{font-size:.95rem;font-weight:700;color:var(--muted)}
+  .stat .l{font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);margin-top:.4rem;line-height:1.35}
+
+  table{width:100%;border-collapse:collapse;margin:.6rem 0 1.3rem;font-size:.88rem}
+  th{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);text-align:left;padding:.42rem .55rem;border-bottom:2px solid var(--charcoal)}
+  th.n,td.n{text-align:right;font-variant-numeric:tabular-nums}
+  td{padding:.42rem .55rem;border-bottom:1px solid var(--border)}
+  tr:last-child td{border-bottom:0}
+  td.pg{font-weight:600}
+
+  .callout{background:var(--stone);border-left:5px solid var(--sky-d);border-radius:6px;padding:1.05rem 1.2rem;margin:1.3rem 0}
+  .callout .h{font-family:var(--cond);font-size:.84rem;font-weight:800;letter-spacing:.11em;text-transform:uppercase;margin-bottom:.4rem}
+  .callout p:last-child{margin-bottom:0}
+  .callout.warn{border-left-color:var(--red);background:#fff6f6}
+  .callout.good{border-left-color:var(--green);background:#f4f8f4}
+
+  .foot{margin-top:2.3rem;padding-top:1rem;border-top:1px solid var(--border);font-size:.79rem;color:var(--muted)}
+
+  @media print{
+    @page{size:letter;margin:.65in .7in}
+    body{background:#fff}
+    .bar{display:none!important}
+    .doc{box-shadow:none;margin:0;padding:0;max-width:none}
+    h3{break-after:avoid}
+    .stats,table,.callout{break-inside:avoid}
+  }
+  @media(max-width:760px){
+    .doc{padding:1.6rem 1.3rem}
+    .stats{grid-template-columns:1fr 1fr}
+    .stat{border-bottom:1px solid var(--border)}
+  }
+</style>
+</head>
+<body>
+
+<div class="bar">
+  <h1>Board Report — New Website</h1>
+  <button id="print" type="button">Print / Save PDF</button>
+</div>
+
+<div class="doc">
+
+  <div class="mast">
+    <img src="/brand/lutheranindianMinistries-logo-horz-stacked.svg" alt="Lutheran Indian Ministries">
+    <span class="lbl">Report to the Board of Directors</span>
+    <h2>The New Website: Why We Rebuilt It, and What the Numbers Told Us</h2>
+    <p class="sub">August 2026 &middot; prepared by Gary Ricke, Orbis Design</p>
+  </div>
+
+  <p class="lede">LIM's website moved off Squarespace and went live on its own platform this month. This report covers why that was necessary, what nineteen months of traffic data revealed about how people actually find and use the site, and what the board should watch over the next two quarters.</p>
+
+  <h3>1 &middot; Why we left Squarespace</h3>
+  <p>The move was not about preference. Three things forced it:</p>
+  <ul>
+    <li><b>Nothing on the site could do real work.</b> Squarespace could publish pages, but it could not run an application, gate a form, take a registration into a reviewable queue, or connect our giving form to our advertising. Every one of those needed a separate paid service bolted on.</li>
+    <li><b>We were paying for tools to work around the tool we were paying for.</b> The Tree of Life application lived on Jotform. Healing group assessments went out as PDFs by hand and mostly never came back. Post-session surveys were heading to Survey Monkey. Each was a subscription and a separate place for our data to live.</li>
+    <li><b>We could not see whether any of it worked.</b> Meyer Partners was running advertising into a site that could not report a conversion back. We were spending on ads without knowing what they produced.</li>
+  </ul>
+  <p>The new site is a set of pages we own outright, hosted on Netlify, with the ministry's own tools built directly into it. There is no page-builder subscription, and no per-form fee.</p>
+
+  <h3>2 &middot; What nineteen months of traffic actually showed</h3>
+  <p>Before switching, we exported the full history from Squarespace Analytics &mdash; <b>1 January 2025 to 30 July 2026</b> &mdash; and captured a Google Search Console baseline. Both are archived. The findings shaped what the new site emphasises.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="n">41,431</div><div class="l">Pageviews<br>19 months</div></div>
+    <div class="stat"><div class="n">48<small>%</small></div><div class="l">Of all traffic on<br>just four pages</div></div>
+    <div class="stat"><div class="n">497<small>k</small></div><div class="l">Google impressions<br>16 months</div></div>
+    <div class="stat"><div class="n">5,910</div><div class="l">Google clicks<br>from those</div></div>
+  </div>
+
+  <p><b>Four pages carry the entire site.</b> Home, Healing Groups, About and Donate accounted for <b>19,881 of 41,431 pageviews &mdash; 48%</b>. Everything else, including more than 1,400 archived devotions and news posts, shared the remainder.</p>
+
+  <table>
+    <thead><tr><th>Page</th><th class="n">Views</th><th class="n">Avg. time</th><th class="n">Bounce</th></tr></thead>
+    <tbody>
+      <tr><td class="pg">Home</td><td class="n">8,927</td><td class="n">1:34</td><td class="n">68%</td></tr>
+      <tr><td class="pg">Healing Wounds of Trauma</td><td class="n">4,802</td><td class="n">3:29</td><td class="n">81%</td></tr>
+      <tr><td class="pg">About</td><td class="n">3,332</td><td class="n">2:42</td><td class="n">77%</td></tr>
+      <tr><td class="pg">Donate</td><td class="n">2,820</td><td class="n">1:35</td><td class="n">63%</td></tr>
+    </tbody>
+  </table>
+
+  <div class="callout good">
+    <div class="h">The clearest signal in the data</div>
+    <p><b>The healing groups page is the second most-visited page on the site, and people stay on it for three and a half minutes</b> &mdash; longer than any other main page, and more than twice as long as the homepage. That is not idle browsing. It is people reading carefully about trauma healing because they need it. The new site is built around that finding: healing groups are now reachable from the homepage, sessions are listed by location with dates, and registration happens on our own site.</p>
+  </div>
+
+  <p><b>Google already shows LIM to an enormous audience, and almost none of it converts.</b> Over sixteen months Google displayed the site <b>497,000 times</b> and those impressions produced <b>5,910 clicks</b> &mdash; a click-through rate of 1.2%. The pattern underneath is the interesting part:</p>
+
+  <table>
+    <thead><tr><th>Search query</th><th class="n">Impressions</th><th class="n">Clicks</th><th class="n">CTR</th></tr></thead>
+    <tbody>
+      <tr><td class="pg">&ldquo;lutheran indian ministries&rdquo;</td><td class="n">1,980</td><td class="n">754</td><td class="n">38%</td></tr>
+      <tr><td class="pg">&ldquo;lutheran sacraments&rdquo;</td><td class="n">7,569</td><td class="n">51</td><td class="n">0.7%</td></tr>
+      <tr><td class="pg">&ldquo;matthew 26:41&rdquo;</td><td class="n">17,135</td><td class="n">28</td><td class="n">0.16%</td></tr>
+    </tbody>
+  </table>
+
+  <p>When someone searches our name, they click <b>38% of the time</b>. For everything else it is under 4%. And people searching our name are a vanishingly small share of the total &mdash; under 1% of all impressions. <b>The overwhelming majority of people Google shows us to are looking for scripture, doctrine, and answers about faith and Native identity &mdash; not for our organisation.</b> They are being shown a result that either ranks too low to click or does not look like it answers the question.</p>
+
+  <p>Average position improved from 13.9 over sixteen months to <b>9.7 over the last three</b> &mdash; from the middle of page two to the bottom of page one. The trend was already in our favour before the rebuild.</p>
+
+  <h3>3 &middot; What we did about it</h3>
+  <ul>
+    <li><b>Archived everything first.</b> All <b>1,459 pages</b> and every image, going back to 2013, are saved outside Squarespace. Nothing was lost when the subscription ended, and any devotion can still be rebuilt.</li>
+    <li><b>Rebuilt the highest-demand content.</b> Pastor Ricky Jacob's seven-part <em>&ldquo;What Do Lutherans Believe?&rdquo;</em> series &mdash; roughly 1,500 views and the driver behind those 7,569 &ldquo;lutheran sacraments&rdquo; impressions &mdash; had been redirecting to the homepage. It is a real page again.</li>
+    <li><b>Preserved our search standing.</b> Every old address now forwards to its correct new home rather than dumping visitors on the homepage, which Google treats as a broken page and eventually drops from its index.</li>
+    <li><b>Brought the ministry's own tools in-house.</b> The Tree of Life application, healing group registration with a staff review queue, an events editor staff can use without a developer, and a flyer generator now run on our own site.</li>
+    <li><b>Made giving work on our page.</b> The donation form is embedded in our own site and tested end to end, with conversion tracking connected so Meyer Partners' advertising can finally be measured.</li>
+  </ul>
+
+  <h3>4 &middot; How to read the numbers from here</h3>
+  <div class="callout warn">
+    <div class="h">One thing to be aware of before the next report</div>
+    <p><b>Do not compare the new site's visitor counts directly against the old Squarespace numbers.</b> They are measured differently. Squarespace counted every visitor from the server. Our new analytics only counts visitors who accept the cookie notice, which privacy law requires us to show. The new figure will always read lower even if actual traffic grows.</p>
+    <p><b>Google Search Console is the honest comparison</b> &mdash; it measures the domain itself, so before and after are directly comparable. The numbers to watch, in order: impressions should hold steady; average position should beat <b>9.7</b>; and clicks and click-through rate are where the new site should win.</p>
+  </div>
+
+  <h3>5 &middot; What comes next</h3>
+  <ul>
+    <li><b>The scripture and doctrine archive is the biggest untapped opportunity we have.</b> Hundreds of thousands of impressions a year are going to devotions that currently redirect to the homepage. Rebuilding more of those 1,459 archived posts is the single highest-return work available, and it costs staff time rather than money.</li>
+    <li><b>Google Ad Grant</b> &mdash; nonprofits qualify for up to $10,000 per month in free Google search advertising. Worth pursuing now that the site can actually receive and measure that traffic.</li>
+    <li><b>Assessment and intake forms</b> for healing groups, so pre-assessments, waivers and post-session surveys are completed on our site and returned reliably, replacing the paid survey tool.</li>
+    <li><b>Email list.</b> The site now has a signup for the first time. Previously the only addresses we collected came from people registering for an event.</li>
+  </ul>
+
+  <div class="callout">
+    <div class="h">The short version</div>
+    <p>LIM had a website that looked fine and did very little. It now has one that carries applications, registrations, assessments and giving, that can prove what our advertising produces, and that we own outright. The traffic data says the healing ministry is what draws people most, and that our devotional archive is a far larger opportunity than anyone realised.</p>
+  </div>
+
+  <p class="foot">
+    Sources: Squarespace Analytics full export, 1 Jan 2025 &ndash; 30 Jul 2026 (41,431 pageviews; page-level detail archived). Google Search Console, property <span style="font-family:var(--cond)">lutheranindianministries.org</span>, 16-month and 3-month windows captured 31 July 2026 before the domain switch. Archive of 1,459 pages retained. All figures as measured; none estimated.
+  </p>
+
+</div>
+
+<script>document.getElementById('print').addEventListener('click',function(){window.print();});</script>
+</body>
+</html>

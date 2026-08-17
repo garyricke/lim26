@@ -44,6 +44,7 @@
 # Zion's September concert. Robert shares this by text, so it gets a clean stem.
 /songs-and-stories                               /songs-and-stories.html          200
 /songs                                           /songs-and-stories               301
+/board-report                                    /docs-board-report.html          200
 
 # ── Posts that DO exist on the new site ──
 # Must precede the /news/* and /reflections/* catch-alls below — Netlify takes
@@ -79,7 +80,8 @@
 /news-notes/tag/what+do+lutherans+believe                               /blog-what-lutherans-believe.html 301
 
 # ── Retired content (devotions / news / reflections / podcast were not migrated) → home ──
-# ~2,700 old posts. Redirecting to home avoids dead links for any inbound traffic.
+# 1,459 archived pages (1,457 post files in archive/squarespace/posts). Redirecting
+# to home avoids dead links for any inbound traffic.
 #
 # WARNING — this is a soft-404 pattern. Google treats bulk redirects to the
 # homepage as "not found" and drops those URLs rather than passing their value
