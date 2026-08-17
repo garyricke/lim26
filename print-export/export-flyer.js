@@ -1,11 +1,40 @@
 import { chromium } from 'playwright';
-import { mkdirSync, existsSync, writeFileSync, readFileSync } from 'node:fs';
-import { resolve, dirname } from 'node:path';
-import { fileURLToPath, pathToFileURL } from 'node:url';
+import { mkdirSync, existsSync, writeFileSync, readFileSync, createReadStream, statSync } from 'node:fs';
+import { resolve, dirname, extname, normalize, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { createServer } from 'node:http';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PROJECT_ROOT = resolve(__dirname, '..');
 const EXPORTS_DIR = resolve(PROJECT_ROOT, 'print-export/exports');
+
+// Flyer assets are referenced root-absolute (/images-master/…, /brand/…) because
+// the flyers are served from clean stems like /tree-of-life/flyer, where a
+// relative path would resolve against /tree-of-life/ and 404. Under file://
+// those same paths resolve to the filesystem root and load nothing — so render
+// over a local static server instead, which matches production exactly.
+const MIME = {
+  '.html': 'text/html; charset=utf-8', '.css': 'text/css', '.js': 'text/javascript',
+  '.svg': 'image/svg+xml', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg',
+  '.png': 'image/png', '.webp': 'image/webp', '.gif': 'image/gif',
+  '.json': 'application/json', '.pdf': 'application/pdf',
+  '.woff': 'font/woff', '.woff2': 'font/woff2'
+};
+
+function startStaticServer(root) {
+  const server = createServer((req, res) => {
+    // Strip the query string, decode, and clamp the path inside `root`.
+    const rel = decodeURIComponent(req.url.split('?')[0]);
+    const filePath = join(root, normalize(rel).replace(/^(\.\.[/\\])+/, ''));
+    if (!filePath.startsWith(root)) { res.writeHead(403).end(); return; }
+    try {
+      if (!statSync(filePath).isFile()) { res.writeHead(404).end(); return; }
+    } catch { res.writeHead(404).end(); return; }
+    res.writeHead(200, { 'content-type': MIME[extname(filePath).toLowerCase()] || 'application/octet-stream' });
+    createReadStream(filePath).pipe(res);
+  });
+  return new Promise(ok => server.listen(0, '127.0.0.1', () => ok({ server, port: server.address().port })));
+}
 
 // Letter size at 96 CSS DPI = 816 x 1056 layout px.
 const LAYOUT_WIDTH = 816;
@@ -77,7 +106,7 @@ async function main() {
     //    attribute names the saved file with the timestamp too.
     html = html.replace(
       /(id="dl-link"\s+href=")[^"]+(")/,
-      `$1print-export/exports/${pdfFile}$2`
+      `$1/print-export/exports/${pdfFile}$2`
     );
     html = html.replace(
       /(id="dl-link"[\s\S]*?download=")[^"]+(")/,
@@ -88,6 +117,7 @@ async function main() {
   }
   console.log(`Stamped: ${stampHuman}`);
 
+  const { server, port } = await startStaticServer(PROJECT_ROOT);
   const browser = await chromium.launch();
   const context = await browser.newContext({
     viewport: { width: LAYOUT_WIDTH, height: LAYOUT_HEIGHT },
@@ -105,9 +135,11 @@ async function main() {
     }
 
     const page = await context.newPage();
-    const fileUrl = pathToFileURL(htmlPath).href;
+    const url = `http://127.0.0.1:${port}/${flyer.html}`;
+    const missing = [];
+    page.on('response', r => { if (r.status() >= 400) missing.push(`${r.status()} ${r.url()}`); });
     console.log(`→ ${flyer.id}`);
-    await page.goto(fileUrl, { waitUntil: 'load' });
+    await page.goto(url, { waitUntil: 'load' });
 
     // Wait for web fonts (Merriweather, Barlow Condensed, Open Sans).
     await page.evaluate(() => document.fonts.ready);
@@ -132,12 +164,19 @@ async function main() {
       margin: { top: 0, right: 0, bottom: 0, left: 0 }
     });
     console.log(`  PDF: ${pdfPath}`);
+    // A flyer that silently loses its hero image still exports a clean-looking
+    // PDF, so surface any failed asset rather than shipping a blank panel.
+    if (missing.length) {
+      console.warn(`  WARN: ${missing.length} asset(s) failed to load:`);
+      missing.forEach(m => console.warn(`    ${m}`));
+    }
 
     await page.close();
   }
 
   await context.close();
   await browser.close();
+  server.close();
   console.log(`\nDone. ${targets.length} flyer${targets.length === 1 ? '' : 's'} exported.`);
 }
 
