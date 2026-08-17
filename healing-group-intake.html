@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>Healing Group Intake — Draft for Review — Lutheran Indian Ministries</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  :root{
+    --red:#ED1C24;--red-h:#c8151c;--yellow:#FFDE16;
+    --charcoal:#282924;--sage:#B2AC88;--sage-d:#8a8665;
+    --sky:#A2C2D1;--sky-d:#6fa3b8;--stone:#EBE9E4;
+    --white:#fff;--muted:#5a5a52;--border:#d9d6ce;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+    --r:8px;--rl:16px;--t:.3s ease;
+  }
+  body{font-family:var(--body);color:var(--charcoal);background:var(--stone);line-height:1.7}
+  button{cursor:pointer;font-family:inherit;border:none;background:none}
+  .wrap{max-width:780px;margin:0 auto;padding:0 1.25rem}
+
+  /* ── Review chrome (removed when approved) ── */
+  .review{background:#fffbe6;border-bottom:2px solid #e8d071;color:#7d6416;padding:.85rem 1.25rem;font-size:.88rem}
+  .review-i{max-width:780px;margin:0 auto;display:flex;gap:1rem;align-items:center;flex-wrap:wrap}
+  .review b{color:#5c4a10}
+  .review-i p{flex:1 1 380px;margin:0}
+  .toggle{font-family:var(--cond);font-size:.78rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;background:#7d6416;color:#fffbe6;padding:.5rem 1rem;border-radius:5px;white-space:nowrap}
+  .note{background:#fffbe6;border:1.5px solid #e8d071;border-left-width:5px;border-radius:6px;padding:.85rem 1rem;margin:1rem 0;font-size:.87rem;color:#6b5613}
+  .note b{color:#4a3c0d;display:block;font-family:var(--cond);letter-spacing:.08em;text-transform:uppercase;font-size:.78rem;margin-bottom:.3rem}
+  body.hide-notes .note{display:none}
+
+  /* ── Masthead ── */
+  .mast{background:var(--charcoal);padding:2.4rem 0 2.6rem;text-align:center}
+  .mast img{height:46px;margin:0 auto 1.2rem;display:block}
+  .mast .lbl{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--yellow);display:block;margin-bottom:.45rem}
+  .mast h1{font-family:var(--serif);font-size:clamp(1.7rem,4.2vw,2.35rem);color:#fff;line-height:1.2}
+
+  /* ── Steps ── */
+  .steps{display:flex;gap:.5rem;max-width:780px;margin:-1.3rem auto 0;padding:0 1.25rem;position:relative;z-index:3}
+  .step{flex:1;background:var(--white);border-radius:var(--r);padding:.7rem .6rem;text-align:center;box-shadow:0 3px 14px rgba(0,0,0,.09);border-top:4px solid var(--border)}
+  .step.on{border-top-color:var(--red)}
+  .step.done{border-top-color:var(--sage-d)}
+  .step .n{font-family:var(--cond);font-size:.7rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  .step .t{font-family:var(--cond);font-size:.9rem;font-weight:700;letter-spacing:.03em;line-height:1.25;margin-top:.1rem}
+  .step.on .t{color:var(--red)}
+
+  .card{background:var(--white);border-radius:var(--rl);padding:2rem 1.9rem 2.2rem;box-shadow:0 4px 20px rgba(0,0,0,.07);margin:1.5rem 0 2rem}
+  .panel{display:none}
+  .panel.on{display:block}
+  .intro{font-size:.95rem;color:var(--muted);margin-bottom:1.6rem}
+  .sect-title{font-family:var(--cond);font-size:.8rem;font-weight:800;letter-spacing:.13em;text-transform:uppercase;color:rgba(40,41,36,.45);border-bottom:1px solid var(--border);padding-bottom:.5rem;margin:0 0 1.2rem}
+
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:.85rem;margin-bottom:.85rem}
+  .row.full{grid-template-columns:1fr}
+  .field{display:flex;flex-direction:column;gap:.32rem}
+  .field label{font-family:var(--cond);font-size:.79rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:rgba(40,41,36,.58)}
+  .field .req{color:var(--red)}
+  .field .opt{color:rgba(40,41,36,.35);font-size:.7rem;text-transform:none;letter-spacing:0}
+  input[type=text],input[type=email],input[type=tel],input[type=date],select,textarea{
+    padding:.62rem .82rem;border:2px solid var(--border);border-radius:8px;font-size:.92rem;
+    color:var(--charcoal);background:#fff;font-family:var(--body);width:100%;transition:border .2s,box-shadow .2s}
+  input:focus,select:focus,textarea:focus{outline:none;border-color:var(--charcoal);box-shadow:0 0 0 3px rgba(40,41,36,.08)}
+  textarea{resize:vertical;min-height:84px}
+  .hint{font-size:.79rem;color:var(--muted);line-height:1.5}
+
+  .checks{display:grid;gap:.55rem;padding:.3rem 0}
+  .checks.two{grid-template-columns:1fr 1fr}
+  .checks label{display:flex;align-items:flex-start;gap:.55rem;font-size:.9rem;line-height:1.55;cursor:pointer}
+  .checks input{accent-color:var(--charcoal);margin-top:.28rem;flex-shrink:0}
+  .radio{display:flex;gap:1.1rem;flex-wrap:wrap;padding:.28rem 0}
+  .radio label{display:flex;align-items:center;gap:.42rem;font-size:.9rem;cursor:pointer}
+  .radio input{accent-color:var(--charcoal)}
+
+  /* ── 1–10 scale ── */
+  .scale{border:1px solid var(--border);border-radius:10px;overflow:hidden;margin-bottom:.7rem}
+  .scale-q{padding:.75rem .95rem .2rem;font-size:.92rem;font-weight:600}
+  .scale-r{display:flex;padding:.35rem .6rem .7rem;gap:2px}
+  .scale-r label{flex:1;text-align:center;cursor:pointer}
+  .scale-r input{position:absolute;opacity:0;width:0;height:0}
+  .scale-r .b{display:block;padding:.42rem 0;border:1.5px solid var(--border);border-radius:5px;font-family:var(--cond);font-weight:700;font-size:.9rem;transition:var(--t)}
+  .scale-r label:hover .b{border-color:var(--sky-d);background:#f2f7f9}
+  .scale-r input:checked + .b{background:var(--charcoal);border-color:var(--charcoal);color:var(--yellow)}
+  .scale-ends{display:flex;justify-content:space-between;padding:0 .95rem .6rem;font-family:var(--cond);font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+
+  .legal{max-height:260px;overflow-y:auto;background:var(--stone);border:1px solid var(--border);border-radius:var(--r);padding:1.1rem 1.25rem;font-size:.85rem;line-height:1.7;color:var(--muted);margin-bottom:1rem}
+  .legal h4{font-family:var(--cond);font-size:.9rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--charcoal);margin-bottom:.6rem}
+  .legal p{margin-bottom:.75rem}
+  .sig{font-family:var(--serif);font-size:1.1rem;font-style:italic}
+
+  .nav{display:flex;justify-content:space-between;gap:1rem;margin-top:1.8rem;padding-top:1.3rem;border-top:1px solid var(--border)}
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:.85rem 1.9rem;border-radius:var(--r);font-family:var(--cond);font-size:1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;transition:var(--t);border:2px solid transparent}
+  .btn-red{background:var(--red);color:#fff}
+  .btn-red:hover{background:var(--red-h)}
+  .btn-ol{background:transparent;color:var(--charcoal);border-color:var(--border)}
+  .btn-ol:hover{border-color:var(--charcoal)}
+  .btn[hidden]{display:none}
+
+  .err{display:none;background:#fff6f6;border-left:4px solid var(--red);border-radius:var(--r);padding:.85rem 1.1rem;font-size:.9rem;color:var(--red-h);margin-bottom:1.1rem}
+  .err.show{display:block}
+
+  .done{display:none;text-align:center;padding:1.5rem 0}
+  .done.show{display:block}
+  .done-ic{width:72px;height:72px;background:var(--charcoal);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 1.3rem;color:var(--yellow);font-size:2rem}
+  .done h2{font-family:var(--serif);font-size:1.7rem;margin-bottom:.8rem}
+  .done p{color:var(--muted);margin-bottom:.8rem}
+
+  .foot{text-align:center;padding:1rem 0 3rem;font-size:.85rem;color:var(--muted)}
+  @media(max-width:640px){
+    .row{grid-template-columns:1fr}
+    .checks.two{grid-template-columns:1fr}
+    .card{padding:1.5rem 1.25rem 1.75rem}
+    .steps{flex-direction:column}
+    .scale-r{flex-wrap:wrap}
+    .scale-r label{flex:0 0 18%}
+  }
+</style>
+</head>
+<body>
+
+<div class="review">
+  <div class="review-i">
+    <p><b>Draft for review — nothing you enter is saved.</b> This is the paper packet (workbook pages 5–7) rebuilt as a web form so you can click through it and tell me what to change. Yellow notes mark decisions I need from you.</p>
+    <button class="toggle" id="toggleNotes" type="button">Hide notes</button>
+  </div>
+</div>
+
+<div class="mast">
+  <img src="/brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries">
+  <span class="lbl">Healing the Wounds of Trauma</span>
+  <h1>Before Your Healing Group Begins</h1>
+</div>
+
+<div class="steps">
+  <div class="step on" data-step="0"><div class="n">Step 1</div><div class="t">Pre-Assessment</div></div>
+  <div class="step" data-step="1"><div class="n">Step 2</div><div class="t">Consent &amp; Release</div></div>
+  <div class="step" data-step="2"><div class="n">Step 3</div><div class="t">About You</div></div>
+</div>
+
+<div class="wrap">
+  <div class="card">
+    <div class="err" id="err"></div>
+
+    <div class="done" id="done">
+      <div class="done-ic">&#10003;</div>
+      <h2>That's the end of the draft.</h2>
+      <p><b>Nothing was saved</b> — this is a review copy only.</p>
+      <p>In the finished version this is where the participant would be confirmed for their group, and Roberta would see the completed packet in a staff review screen, the same way Tree of Life applications arrive now.</p>
+      <button class="btn btn-ol" type="button" onclick="location.reload()">Start over</button>
+    </div>
+
+    <form id="hg-form" novalidate>
+
+      <!-- ══ STEP 1 · PRE-ASSESSMENT ══ -->
+      <div class="panel on" data-panel="0">
+        <p class="sect-title">Step 1 of 3 &middot; Pre-Assessment</p>
+        <p class="intro">There are no right answers here. This helps your facilitator understand where you're starting from, and lets us see what changes for you by the end.</p>
+
+        <div class="row">
+          <div class="field"><label for="p-name">Your Name <span class="req">*</span></label><input id="p-name" name="preName" type="text" autocomplete="name"></div>
+          <div class="field"><label for="p-date">Date</label><input id="p-date" name="preDate" type="date"></div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label for="p-motiv">What motivated you to come to this group? <span class="req">*</span></label>
+            <textarea id="p-motiv" name="motivation"></textarea>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label for="p-hope">What are you hoping you will learn or gain? <span class="req">*</span></label>
+            <textarea id="p-hope" name="hoping"></textarea>
+          </div>
+        </div>
+
+        <p class="sect-title" style="margin-top:1.8rem">Your comfort level right now</p>
+        <p class="hint" style="margin-bottom:1rem">On a scale of 1 (least) to 10 (most).</p>
+        <div id="preScales"></div>
+
+        <div class="note">
+          <b>Note — this is the measurable part</b>
+          These five ratings are asked again word-for-word at the end of the group. Collected on paper they mostly never come back, so nothing can be compared. Collected here, you get each person's before-and-after and a group average &mdash; which is exactly the kind of evidence a grant application asks for.
+        </div>
+      </div>
+
+      <!-- ══ STEP 2 · CONSENT & RELEASE ══ -->
+      <div class="panel" data-panel="1">
+        <p class="sect-title">Step 2 of 3 &middot; Consent &amp; Release</p>
+
+        <div class="note">
+          <b>Robert — this one needs your decision before it goes live</b>
+          The release text below is copied word-for-word from the paper form so you can see it in place. Two problems with it:<br><br>
+          <b style="display:inline;text-transform:none;letter-spacing:0;font-size:.87rem">1. Some of it isn't about healing groups.</b> It has participants assume "personal and property risk," directs them to "use equipment, machinery or supplies in the manner they are intended," and to follow "worksite sign-off orientations." That's language from a work-site volunteer waiver. We found another organisation's name buried in the Tree of Life release the same way.<br><br>
+          <b style="display:inline;text-transform:none;letter-spacing:0;font-size:.87rem">2. LIM already has a different release on the website</b> &mdash; the Video &amp; Photo Release, with cleaner wording. If this goes up as-is we'd have two LIM releases saying different things.<br><br>
+          I'd suggest one reviewed release used everywhere. Happy to draft it, but the wording should have your and probably a lawyer's sign-off, not mine.
+        </div>
+
+        <div class="row">
+          <div class="field"><label for="c-name">Printed Name <span class="req">*</span></label><input id="c-name" name="consentName" type="text" autocomplete="name"></div>
+          <div class="field"><label for="c-email">Email Address <span class="req">*</span></label><input id="c-email" name="consentEmail" type="email" autocomplete="email"></div>
+        </div>
+        <div class="row full">
+          <div class="field"><label for="c-addr">Mailing Address <span class="req">*</span></label><input id="c-addr" name="consentAddress" type="text" autocomplete="street-address"></div>
+        </div>
+
+        <div class="legal" tabindex="0">
+          <h4>Media Consent &mdash; Image &amp; Video Permissions</h4>
+          <p>I hereby grant a perpetual and irrevocable non-exclusive, worldwide, royalty-free right to Lutheran Indian Ministries to use, reproduce, publicly display, publicly perform and publish digital videos and photographs of me (the &ldquo;Images&rdquo;), including my image and likeness as depicted therein, and to identify me by first name and state in connection with the images, in its marketing and instructional materials, or in any other manner it sees fit to conduct, promote or otherwise inform or educate others about its programs, or for any other purpose that furthers the educational and charitable mission of Lutheran Indian Ministries. I understand that photographs and video taken at a public event do not require express permission. I waive my right to inspect or approve any finished versions of any images.</p>
+          <h4>Release from Harm &amp; Indemnification</h4>
+          <p>I understand accepting this release is a condition of my participation in LIM events. I understand that this is a release of rights for myself, dependents and/or heirs, and I have carefully read and considered it before signing. I expressly release, indemnify and hold harmless Lutheran Indian Ministries and its directors, officers, employees, agents, licensees and assigns from any and all claims which I have or may have for invasion of privacy, right of publicity, defamation, copyright infringement, or any other cause of action arising out of the use, adaptation, reproduction, distribution, broadcast or exhibition of the images.</p>
+          <p>Participation in LIM events is a privilege. If that privilege is violated &mdash; failing to respect the rules or instructions, causing a disturbance, or disrupting an event &mdash; it may be withdrawn by LIM at its sole discretion.</p>
+        </div>
+
+        <div class="checks" style="margin-bottom:1rem">
+          <label><input type="checkbox" name="agreeMedia"> <span><b>I agree to the Media Consent above.</b> <span style="color:var(--muted)">(You may take part in the group either way &mdash; see the note below.)</span></span></label>
+          <label><input type="checkbox" name="agreeRelease"> <span><b>I have read and accept the Release from Harm.</b></span></label>
+          <label><input type="checkbox" name="agreeAge"> <span><b>I am 18 or older</b> and have authority to sign this for myself.</span></label>
+        </div>
+
+        <div class="note">
+          <b>Question — should photo consent be required?</b>
+          On paper all three are signed together, so declining photos looks like declining to attend. Given how personal these groups are, I'd suggest <b>the harm release and the age statement are required, and photo consent is genuinely optional</b> &mdash; a plain yes or no that changes nothing else. Roberta, is that right?
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label for="c-sig">Type your full name to sign <span class="req">*</span></label>
+            <input id="c-sig" name="consentSignature" class="sig" type="text" autocomplete="off">
+            <span class="hint">Typing your name is your electronic signature and covers the items you ticked above. Today's date is recorded automatically.</span>
+          </div>
+        </div>
+
+        <div class="note">
+          <b>Note — one signature instead of three</b>
+          The paper form has three separate signature lines. Online, one signature plus the tick boxes records the same consent and is easier to follow. Say the word if you'd rather keep three.
+        </div>
+      </div>
+
+      <!-- ══ STEP 3 · VOLUNTARY INFORMATION ══ -->
+      <div class="panel" data-panel="2">
+        <p class="sect-title">Step 3 of 3 &middot; About You</p>
+        <p class="intro">LIM uses this information for compliance reporting and to secure the funding that keeps these groups free. Your answers are kept confidential.</p>
+
+        <div class="note">
+          <b>Flag — the paper form contradicts itself here</b>
+          It says the data is used <i>&ldquo;anonymously&rdquo;</i> but then asks for name, address, phone, email and date of birth. That isn't anonymous, and saying so could be a problem if a funder or a participant ever looks closely. Two honest options: say <b>&ldquo;reported in aggregate, never individually&rdquo;</b> (which is probably what's meant), or genuinely drop the identifying fields. I've used the first wording above &mdash; confirm it's accurate.
+        </div>
+
+        <div class="note">
+          <b>Note — we'd be asking some people the same thing twice</b>
+          Education level and race/ethnicity are already on the Tree of Life application. Anyone doing both types them twice. Worth deciding later whether returning participants skip this step.
+        </div>
+
+        <div class="row">
+          <div class="field"><label for="v-name">Name <span class="req">*</span></label><input id="v-name" name="volName" type="text" autocomplete="name"></div>
+          <div class="field"><label for="v-dob">Date of Birth <span class="opt">(optional)</span></label><input id="v-dob" name="volDob" type="date"></div>
+        </div>
+        <div class="row full">
+          <div class="field"><label for="v-addr">Address <span class="opt">(optional)</span></label><input id="v-addr" name="volAddress" type="text" autocomplete="street-address"></div>
+        </div>
+        <div class="row">
+          <div class="field"><label for="v-cell">Cell Phone <span class="opt">(optional)</span></label><input id="v-cell" name="volCell" type="tel" autocomplete="tel"></div>
+          <div class="field"><label for="v-email">Email <span class="opt">(optional)</span></label><input id="v-email" name="volEmail" type="email" autocomplete="email"></div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label for="v-edu">Highest Level of Education Completed <span class="opt">(optional)</span></label>
+            <select id="v-edu" name="education">
+              <option value="">Prefer not to say</option>
+              <option>Elementary</option><option>High School</option><option>Trade School</option>
+              <option>College / University</option><option>Certifications</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label>Race / Ethnicity <span class="opt">(optional)</span></label>
+            <div class="checks two">
+              <label><input type="checkbox" class="eth" name="ethnicity" value="American Indian / Alaska Native"> American Indian / Alaska Native</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Asian"> Asian</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Black or African American"> Black or African American</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Native Hawaiian or Other Pacific Islander"> Native Hawaiian or Pacific Islander</label>
+              <label><input type="checkbox" class="eth" name="ethnicity" value="Prefer not to disclose"> I do not wish to disclose</label>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="field">
+            <label>Veteran Status <span class="opt">(optional)</span></label>
+            <div class="radio">
+              <label><input type="radio" name="veteran" value="Protected Veteran"> Protected Veteran</label>
+              <label><input type="radio" name="veteran" value="Non-Veteran"> Non-Veteran</label>
+            </div>
+          </div>
+          <div class="field">
+            <label>Employment Status <span class="opt">(optional)</span></label>
+            <div class="radio">
+              <label><input type="radio" name="employment" value="Employed"> Employed</label>
+              <label><input type="radio" name="employment" value="Unemployed"> Unemployed</label>
+              <label><input type="radio" name="employment" value="Retired"> Retired</label>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="field"><label for="v-denom">Denomination <span class="opt">(N/A if none)</span></label><input id="v-denom" name="denomination" type="text"></div>
+          <div class="field"><label for="v-church">Home Church <span class="opt">(N/A if none)</span></label><input id="v-church" name="homeChurch" type="text"></div>
+        </div>
+
+        <div class="row full">
+          <div class="field">
+            <label>How did you learn about LIM? <span class="opt">(check all that apply)</span></label>
+            <div class="checks two">
+              <label><input type="checkbox" class="src" name="heard" value="Facebook"> Facebook</label>
+              <label><input type="checkbox" class="src" name="heard" value="Instagram"> Instagram</label>
+              <label><input type="checkbox" class="src" name="heard" value="TikTok"> TikTok</label>
+              <label><input type="checkbox" class="src" name="heard" value="X / Twitter"> X / Twitter</label>
+              <label><input type="checkbox" class="src" name="heard" value="Flyer"> Flyer</label>
+              <label><input type="checkbox" class="src" name="heard" value="Friend"> Friend</label>
+              <label><input type="checkbox" class="src" name="heard" value="Family"> Family</label>
+              <label><input type="checkbox" class="src" name="heard" value="Co-worker"> Co-worker</label>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="field"><label for="v-churchname">Heard through a church <span class="opt">(name)</span></label><input id="v-churchname" name="heardChurch" type="text"></div>
+          <div class="field"><label for="v-orgname">Heard through an organisation <span class="opt">(name)</span></label><input id="v-orgname" name="heardOrg" type="text"></div>
+        </div>
+        <div class="row full">
+          <div class="field"><label for="v-other">Somewhere else? <span class="opt">(optional)</span></label><input id="v-other" name="heardOther" type="text"></div>
+        </div>
+
+        <div class="note">
+          <b>Note &mdash; a small addition worth making</b>
+          &ldquo;How did you learn about LIM&rdquo; is the only place we'd ever find out whether the Feathr advertising is reaching real people. I added <b>Instagram</b> and <b>TikTok</b> and modernised Twitter. Worth adding <b>&ldquo;Saw an ad online&rdquo;</b> too, Jaylene?
+        </div>
+      </div>
+
+      <div class="nav">
+        <button type="button" class="btn btn-ol" id="back" hidden>&larr; Back</button>
+        <button type="button" class="btn btn-red" id="next" style="margin-left:auto">Continue &rarr;</button>
+        <button type="submit" class="btn btn-red" id="finish" style="margin-left:auto" hidden>Finish</button>
+      </div>
+    </form>
+  </div>
+
+  <p class="foot">
+    Draft for review &middot; rebuilt from the <i>Healing the Wounds of Trauma</i> workbook, pages 5&ndash;7.<br>
+    <a href="/healing-group-post" style="color:var(--charcoal)">See the post-assessment draft &rarr;</a>
+  </p>
+</div>
+
+<script>
+(function(){
+  /* ---- Reviewer notes toggle ---- */
+  var tg=document.getElementById('toggleNotes');
+  tg.addEventListener('click',function(){
+    document.body.classList.toggle('hide-notes');
+    tg.textContent=document.body.classList.contains('hide-notes')?'Show notes':'Hide notes';
+  });
+
+  /* ---- Build the 1–10 scales (identical wording to the paper form) ---- */
+  var SCALES=[
+    ['sharing','Sharing &mdash; talking about yourself with others'],
+    ['listening','Listening &mdash; hearing what others say to you'],
+    ['responding','Responding &mdash; allowing others to share, encouraging conversation'],
+    ['harmPrevention','Do you understand harm prevention (keeping yourself safe)?'],
+    ['workingOnHealing','Have you been working on healing past trauma in your own life?']
+  ];
+  document.getElementById('preScales').innerHTML = SCALES.map(function(s){
+    var btns='';
+    for(var i=1;i<=10;i++){
+      btns+='<label><input type="radio" name="'+s[0]+'" value="'+i+'"><span class="b">'+i+'</span></label>';
+    }
+    return '<div class="scale"><div class="scale-q">'+s[1]+'</div>'+
+           '<div class="scale-r">'+btns+'</div>'+
+           '<div class="scale-ends"><span>Least</span><span>Okay</span><span>Most</span></div></div>';
+  }).join('');
+
+  /* ---- Step navigation ---- */
+  var form=document.getElementById('hg-form'),
+      panels=[].slice.call(document.querySelectorAll('.panel')),
+      steps=[].slice.call(document.querySelectorAll('.step')),
+      back=document.getElementById('back'), next=document.getElementById('next'),
+      finish=document.getElementById('finish'), err=document.getElementById('err'),
+      done=document.getElementById('done'), cur=0;
+
+  var REQUIRED=[
+    [['preName','your name'],['motivation','what motivated you to come'],['hoping','what you hope to gain']],
+    [['consentName','your printed name'],['consentEmail','your email'],['consentAddress','your mailing address'],['consentSignature','your signature']],
+    [['volName','your name']]
+  ];
+
+  function fail(msg,el){
+    err.textContent=msg; err.classList.add('show');
+    (el||err).scrollIntoView({behavior:'smooth',block:'center'});
+    if(el&&el.focus) el.focus({preventScroll:true});
+    return false;
+  }
+  function val(n){
+    var el=form.querySelector('[name="'+n+'"]');
+    if(!el) return '';
+    if(el.type==='radio'||el.type==='checkbox'){
+      var c=form.querySelector('[name="'+n+'"]:checked'); return c?c.value:'';
+    }
+    return el.value.trim();
+  }
+  function validate(step){
+    for(var i=0;i<REQUIRED[step].length;i++){
+      var n=REQUIRED[step][i][0];
+      if(!val(n)) return fail('Please complete '+REQUIRED[step][i][1]+'.', form.querySelector('[name="'+n+'"]'));
+    }
+    if(step===1){
+      if(!form.querySelector('[name=agreeRelease]').checked) return fail('Please accept the Release from Harm to continue.', form.querySelector('[name=agreeRelease]'));
+      if(!form.querySelector('[name=agreeAge]').checked) return fail('Please confirm you are 18 or older.', form.querySelector('[name=agreeAge]'));
+      var e=val('consentEmail');
+      if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(e)) return fail('That email address doesn’t look right.', form.querySelector('[name=consentEmail]'));
+    }
+    err.classList.remove('show');
+    return true;
+  }
+  function show(i){
+    panels.forEach(function(p,n){ p.classList.toggle('on', n===i); });
+    steps.forEach(function(s,n){
+      s.classList.toggle('on', n===i);
+      s.classList.toggle('done', n<i);
+    });
+    back.hidden = i===0;
+    next.hidden = i===panels.length-1;
+    finish.hidden = i!==panels.length-1;
+    cur=i;
+    window.scrollTo({top:0,behavior:'smooth'});
+  }
+  next.addEventListener('click',function(){ if(validate(cur)) show(cur+1); });
+  back.addEventListener('click',function(){ err.classList.remove('show'); show(cur-1); });
+
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    if(!validate(cur)) return;
+    /* Review draft: deliberately does NOT transmit or store anything. These
+       answers concern trauma history, so the real version will follow the
+       Tree of Life pattern — stored server-side for named staff, never emailed. */
+    form.style.display='none';
+    document.querySelector('.steps').style.display='none';
+    done.classList.add('show');
+    window.scrollTo({top:0,behavior:'smooth'});
+  });
+
+  var d=document.getElementById('p-date');
+  if(d) d.value=new Date().toISOString().slice(0,10);
+})();
+</script>
+</body>
+</html>

@@ -45,6 +45,8 @@
 /songs-and-stories                               /songs-and-stories.html          200
 /songs                                           /songs-and-stories               301
 /board-report                                    /docs-board-report.html          200
+/healing-group-intake                            /healing-group-intake.html       200
+/healing-group-post                              /healing-group-post.html         200
 
 # ── Posts that DO exist on the new site ──
 # Must precede the /news/* and /reflections/* catch-alls below — Netlify takes
