@@ -190,6 +190,27 @@
   </div>
 
   <!-- July 30 — Jaylene photo + board listing -->
+  <!-- Aug 17 — post-launch bug fixes from the team's first real use of the site -->
+  <div class="entry">
+    <div class="entry-head">
+      <span class="entry-date">August 17, 2026</span>
+      <span class="entry-tag released">Released</span>
+    </div>
+    <div class="entry-body">
+      <div class="entry-title">Two real bugs from the team's first post-launch week &mdash; Tree of Life application and the mobile menu</div>
+      <ul>
+        <li><strong>Tree of Life application could not be submitted.</strong> Roberta reported it twice (Aug 11 and Aug 14) and was right both times. The <strong>Education question had been deleted from the markup</strong> in <span class="ic">87ef62f</span> &mdash; the Race/Ethnicity block replaced it &mdash; but <span class="ic">education</span> stayed in the required list <em>and</em> in the Netlify function's schema. Result: the validator failed on a field with no DOM node, so <span class="ic">form.querySelector</span> returned null, the error had nothing to scroll to, and the applicant saw &ldquo;Please complete your level of education&rdquo; pointing at a question that was not on the page. <strong>No application could ever be submitted.</strong></li>
+        <li><strong>Fix:</strong> restored the select (Secondary/Vocational/Associate's/Bachelor's/Master's/Doctorate/Other) and closed the unclosed section-3 <span class="ic">div</span> the deletion had also taken with it. Added a <strong>load-time check</strong> that logs an error if any name in the required list is missing from the form, so this class of bug is loud rather than silent. Verified end-to-end with Playwright: blank education gives a targeted error at a visible field; a complete form passes validation and reaches submit.</li>
+        <li><strong>Mobile hamburger did nothing</strong> on the homepage and Healing Groups (found by Kaija Coleman at TRIUN3). Both set <span class="ic">.nav-links{display:none}</span> below 960px but <strong>never defined <span class="ic">.nav-links.open</span></strong> &mdash; only <span class="ic">about.html</span> had the rule &mdash; so the button toggled a class with no styling behind it. Added the rule to both and replaced the inline <span class="ic">onclick</span> with a shared handler that sets <span class="ic">aria-expanded</span> and closes on link tap, outside tap, Escape, and resize. Verified on all three pages at 390&times;844.</li>
+        <li><strong>Join Our Team</strong> (Jaylene, Aug 13 + Aug 14) &mdash; Careers band at the foot of the team section linking to LIM's <strong>Paylocity job board</strong>, plus About-dropdown and footer entries. Openings live on Paylocity, so the site can never carry a stale posting &mdash; which also disposes of the &ldquo;remove Ministry Coordinator&rdquo; ask: no positions were listed on the site to remove.</li>
+        <li><strong>Tree of Life flyer</strong> (Robert, Jul 31 + Aug 14) &mdash; <a href="flyer-tree-of-life-fairbanks-2026.html" class="ic">flyer-tree-of-life-fairbanks-2026.html</a> built off the approved letter template: Sept 21&ndash;23, Zion Lutheran Fairbanks, QR to the application. Served at the clean stem <span class="ic">/tree-of-life/flyer</span> for texting, linked from the Admin menu. Registered with the Playwright export pipeline, which now names each flyer's PDF after itself instead of hardcoding the Fairbanks name, and tags print orders with their source flyer.</li>
+        <li><strong>Email signup added</strong> (Jaylene, Aug 11) &mdash; she asked whether cookies were capturing emails for MailChimp. They cannot, and <strong>the site had no signup form at all</strong>; the only addresses arriving were healing-group registrations and ToL applications. New band above the homepage footer posting to Netlify Forms (<span class="ic">email-signup</span>, confirmed registered and live). <span class="todo">Needs a MailChimp audience ID + API key to sync automatically.</span></li>
+        <li><strong>Short domain checked</strong> (Robert, Jul 28) &mdash; <span class="ic">lim.org</span> is registered (created 1995, held privately, expiry Dec 2026), as are <span class="ic">lim.us</span> and <span class="ic">limhope.com</span>. Not a registrar purchase; it would be a broker approach with no guarantee. LIM already owns <strong>limhope.org</strong>, which is short and already in print and on signatures &mdash; recommended as the spoken/printed address.</li>
+        <li class="todo">Open: board report page + email, LIM history rewrite, healing-group assessment/waiver forms online (Roberta &mdash; needs scoping), youth-camp videos pending Robert's approval, Jaylene's newest photo, Zion September flyer.</li>
+      </ul>
+    </div>
+  </div>
+
   <div class="entry">
     <div class="entry-head">
       <span class="entry-date">July 30, 2026</span>
