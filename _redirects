@@ -22,6 +22,11 @@
 /ways-to-give                                    /donate.html           301
 
 # ── Short, shareable stems ──
+# IMPORTANT: a 200 rewrite keeps the pretty URL in the address bar, so the
+# browser resolves relative asset paths against the STEM (/tree-of-life/…), not
+# the repo root. Any page listed below must reference its assets root-absolute
+# (/brand/…, /images-master/…) or they will 404 on the clean URL while working
+# fine at the .html path. Both pages below were bitten by exactly this.
 # Robert sends the application by text and email, so it must never be a .html
 # link. Scoped under /tree-of-life rather than a bare /apply, so a future
 # healing-group or training application can sit alongside it without a clash.
