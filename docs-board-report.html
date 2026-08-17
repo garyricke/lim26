@@ -23,8 +23,10 @@
 
   .bar{background:var(--charcoal);color:#fff;padding:1rem 1.5rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap;position:sticky;top:0;z-index:50}
   .bar h1{font-family:var(--cond);font-size:1.1rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-right:auto}
-  .bar button{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.6rem 1.25rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer}
-  .bar button:hover{background:#ffe95c}
+  .bar button,.bar .dl{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.6rem 1.25rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer;text-decoration:none;display:inline-block}
+  .bar button:hover,.bar .dl:hover{background:#ffe95c}
+  .bar button.secondary{background:transparent;color:rgba(255,255,255,.7);border:1.5px solid rgba(255,255,255,.25)}
+  .bar button.secondary:hover{background:rgba(255,255,255,.08);color:#fff}
 
   .doc{max-width:7.4in;margin:2rem auto 4rem;background:#fff;padding:.8in .9in 1in;box-shadow:0 8px 30px rgba(0,0,0,.13)}
 
@@ -84,7 +86,8 @@
 
 <div class="bar">
   <h1>Board Report — New Website</h1>
-  <button id="print" type="button">Print / Save PDF</button>
+  <a class="dl" id="dl-link" href="/print-export/exports/board-report-2026-08_2026-08-17T16-42.pdf" download="LIM-Board-Report-Aug-2026_2026-08-17T16-42.pdf">Download PDF</a>
+  <button id="print" type="button" class="secondary">Print</button>
 </div>
 
 <div class="doc">

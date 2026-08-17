@@ -26,8 +26,10 @@
   .bar h1{font-family:var(--cond);font-size:1.25rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-right:auto}
   .bar label{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.6);display:block;margin-bottom:.25rem}
   .bar select{font-family:var(--body);font-size:.9rem;padding:.5rem .7rem;border-radius:5px;border:1.5px solid rgba(255,255,255,.2);background:#1e1e1a;color:#fff;min-width:190px}
-  .bar button{font-family:var(--cond);font-size:.85rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.62rem 1.3rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer}
-  .bar button:hover{background:#ffe95c}
+  .bar button,.bar .dl{font-family:var(--cond);font-size:.85rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.62rem 1.3rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer;text-decoration:none;display:inline-block}
+  .bar button:hover,.bar .dl:hover{background:#ffe95c}
+  .bar button.secondary{background:transparent;color:rgba(255,255,255,.7);border:1.5px solid rgba(255,255,255,.25)}
+  .bar button.secondary:hover{background:rgba(255,255,255,.08);color:#fff}
   .note{max-width:var(--max,1200px);margin:1.5rem auto 0;padding:0 1.5rem}
   .licence{background:#fff;border-left:5px solid var(--sage-d);border-radius:8px;padding:1rem 1.2rem;font-size:.88rem;color:var(--muted)}
   .licence strong{color:var(--charcoal)}
@@ -77,7 +79,8 @@
     <label for="trans">Translation</label>
     <select id="trans"><option value="web">World English Bible</option></select>
   </div>
-  <button id="print" type="button">Print / Save PDF</button>
+  <a class="dl" id="dl-link" href="/print-export/exports/verse-jars-web_2026-08-17T16-42.pdf" download="LIM-Verse-Jars_2026-08-17T16-42.pdf">Download PDF</a>
+  <button id="print" type="button" class="secondary">Print</button>
 </div>
 
 <div class="note">

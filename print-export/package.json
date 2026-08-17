@@ -1,7 +1,7 @@
 {
   "name": "lim2026-flyer-print-export",
   "version": "1.0.0",
-  "description": "Render print-ready PDFs from LIM 2026 flyer HTML at exact 8.5\" x 11\" using headless Chromium.",
+  "description": "Render print-ready PDFs from LIM flyers and documents at exact letter size using headless Chromium. Every printable page is exported here rather than relying on a visitor\u2019s print dialog.",
   "type": "module",
   "private": true,
   "scripts": {

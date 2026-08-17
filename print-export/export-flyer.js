@@ -40,18 +40,53 @@ function startStaticServer(root) {
 const LAYOUT_WIDTH = 816;
 const LAYOUT_HEIGHT = 1056;
 
+// Nobody should ever be asked to "Print to PDF" from their own browser. Print
+// dialogs default to adding headers and footers, dropping background graphics,
+// and scaling to fit — so what a person saves is rarely what we designed. Every
+// printable page here is rendered once, checked, and served as a finished file.
+//
+//   kind: 'sheet' — fixed-size artwork (flyers). Exact 8.5x11, no margins.
+//   kind: 'doc'   — flowing multi-page documents. Let the page's own @page rule
+//                   set size and margins via preferCSSPageSize.
 const FLYERS = [
   {
     id: 'fbx-healing-2026',
+    kind: 'sheet',
     html: 'flyer-fairbanks-healing-groups-2026.html',
     file: 'flyer-fairbanks-healing-groups-2026',
-    download: 'LIM-Fairbanks-Healing-Groups-2026'
+    download: 'LIM-Fairbanks-Healing-Groups-2026',
+    expectPages: 1
   },
   {
     id: 'tol-2026',
+    kind: 'sheet',
     html: 'flyer-tree-of-life-fairbanks-2026.html',
     file: 'flyer-tree-of-life-fairbanks-2026',
-    download: 'LIM-Tree-of-Life-Fairbanks-2026'
+    download: 'LIM-Tree-of-Life-Fairbanks-2026',
+    expectPages: 1
+  },
+  {
+    id: 'verse-jars',
+    kind: 'sheet',
+    html: 'verse-jars.html',
+    file: 'verse-jars-web',
+    download: 'LIM-Verse-Jars',
+    expectPages: 6,
+    settle: 2500          // waits on the verse JSON fetch before rendering
+  },
+  {
+    id: 'lim-history',
+    kind: 'doc',
+    html: 'docs-lim-history.html',
+    file: 'lim-history-draft',
+    download: 'LIM-History-Draft'
+  },
+  {
+    id: 'board-report',
+    kind: 'doc',
+    html: 'docs-board-report.html',
+    file: 'board-report-2026-08',
+    download: 'LIM-Board-Report-Aug-2026'
   }
 ];
 
@@ -59,6 +94,8 @@ function pickTargets(args) {
   if (args.length === 0) return FLYERS;
   return FLYERS.filter(f => args.includes(f.id) || args.includes(f.file));
 }
+
+let exitCode = 0;
 
 async function main() {
   const allArgs = process.argv.slice(2);
@@ -144,6 +181,9 @@ async function main() {
     // Wait for web fonts (Merriweather, Barlow Condensed, Open Sans).
     await page.evaluate(() => document.fonts.ready);
 
+    // Pages that build themselves from fetched data need a moment more.
+    if (flyer.settle) await page.waitForTimeout(flyer.settle);
+
     // Wait for every <img> to fully decode (hero, aside, QR code).
     await page.evaluate(() => Promise.all(
       Array.from(document.images).map(img =>
@@ -155,15 +195,32 @@ async function main() {
 
     const pdfFile = `${flyer.file}_${stampFile}.pdf`;
     const pdfPath = resolve(EXPORTS_DIR, pdfFile);
-    await page.pdf({
-      path: pdfPath,
-      width: '8.5in',
-      height: '11in',
-      printBackground: true,
-      pageRanges: '1',
-      margin: { top: 0, right: 0, bottom: 0, left: 0 }
-    });
-    console.log(`  PDF: ${pdfPath}`);
+
+    // 'sheet' artwork is pinned to exact letter with no margins and, for a
+    // single-page flyer, clipped to page 1. 'doc' pages carry their own @page
+    // rule, so let the CSS decide rather than overriding it.
+    const opts = flyer.kind === 'doc'
+      ? { path: pdfPath, preferCSSPageSize: true, printBackground: true }
+      : {
+          path: pdfPath, width: '8.5in', height: '11in', printBackground: true,
+          margin: { top: 0, right: 0, bottom: 0, left: 0 },
+          ...(flyer.expectPages === 1 ? { pageRanges: '1' } : {})
+        };
+    await page.pdf(opts);
+
+    // Verify what we actually produced. A silently-wrong page count is the
+    // failure mode here — six themes printing as twelve pages looked fine
+    // until the file was opened.
+    const bytes = readFileSync(pdfPath);
+    const counts = [...bytes.toString('latin1').matchAll(/\/Count\s+(\d+)/g)].map(m => +m[1]);
+    const pages = counts.length ? Math.max(...counts) : null;
+    const kb = Math.round(bytes.length / 1024);
+    let verdict = `${pages ?? '?'} page${pages === 1 ? '' : 's'}, ${kb}KB`;
+    if (flyer.expectPages && pages !== flyer.expectPages) {
+      verdict += `  ** EXPECTED ${flyer.expectPages} **`;
+      exitCode = 1;
+    }
+    console.log(`  PDF: ${pdfFile}  (${verdict})`);
     // A flyer that silently loses its hero image still exports a clean-looking
     // PDF, so surface any failed asset rather than shipping a blank panel.
     if (missing.length) {
@@ -177,7 +234,9 @@ async function main() {
   await context.close();
   await browser.close();
   server.close();
-  console.log(`\nDone. ${targets.length} flyer${targets.length === 1 ? '' : 's'} exported.`);
+  console.log(`\nDone. ${targets.length} document${targets.length === 1 ? '' : 's'} exported.`);
+  if (exitCode) console.error('One or more exports had the wrong page count — do not publish these.');
+  process.exitCode = exitCode;
 }
 
 main().catch(err => {
