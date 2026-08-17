@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>A History of Lutheran Indian Ministries — Board Draft</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+    --sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--sky-d:#6fa3b8;
+    --stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:var(--body);color:var(--charcoal);background:var(--stone);line-height:1.72}
+
+  .bar{background:var(--charcoal);color:#fff;padding:1rem 1.5rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap;position:sticky;top:0;z-index:50}
+  .bar h1{font-family:var(--cond);font-size:1.15rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-right:auto}
+  .bar button{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.6rem 1.25rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer}
+  .bar button:hover{background:#ffe95c}
+
+  .doc{max-width:7.1in;margin:2rem auto 4rem;background:#fff;padding:.85in .95in 1in;box-shadow:0 8px 30px rgba(0,0,0,.13)}
+
+  .mast{border-bottom:3px solid var(--charcoal);padding-bottom:1rem;margin-bottom:2rem}
+  .mast img{height:42px;margin-bottom:1.1rem}
+  .mast .lbl{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.4rem}
+  .mast h2{font-family:var(--serif);font-size:1.95rem;font-weight:900;line-height:1.2}
+  .mast .sub{font-size:.9rem;color:var(--muted);margin-top:.55rem}
+
+  h3{font-family:var(--cond);font-size:1.15rem;font-weight:800;letter-spacing:.09em;text-transform:uppercase;margin:2.1rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--border);break-after:avoid}
+  h3:first-of-type{margin-top:0}
+  p{margin-bottom:.95rem;font-size:.95rem}
+  .lede{font-family:var(--serif);font-size:1.05rem;line-height:1.75;color:var(--charcoal)}
+  strong{font-weight:700}
+
+  .era{font-family:var(--cond);font-size:.76rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--sky-d);display:block;margin-bottom:.15rem}
+
+  /* A missing fact Robert must supply. Deliberately loud on screen and in print —
+     an invented date in a board document is worse than an obvious blank. */
+  .gap{background:#fffbe6;border:1.5px solid #e8d071;border-radius:4px;padding:.06rem .4rem;font-family:var(--cond);font-weight:700;font-size:.86rem;letter-spacing:.05em;text-transform:uppercase;color:#8a6d1a;white-space:nowrap}
+
+  .editor{background:#fff6f6;border-left:5px solid var(--red);border-radius:6px;padding:1.15rem 1.3rem;margin-bottom:2.1rem}
+  .editor h4{font-family:var(--cond);font-size:.9rem;font-weight:800;letter-spacing:.11em;text-transform:uppercase;margin-bottom:.55rem;color:var(--charcoal)}
+  .editor p,.editor li{font-size:.87rem;color:var(--muted);margin-bottom:.5rem}
+  .editor ol{margin:.4rem 0 .2rem 1.2rem}
+  .editor li{margin-bottom:.35rem}
+  .editor strong{color:var(--charcoal)}
+
+  .pull{border-left:4px solid var(--yellow);padding:.2rem 0 .2rem 1.15rem;margin:1.5rem 0;font-family:var(--serif);font-style:italic;font-size:1rem;color:var(--charcoal)}
+  .pull cite{display:block;font-style:normal;font-family:var(--cond);font-size:.76rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--sage-d);margin-top:.5rem}
+
+  .foot{margin-top:2.4rem;padding-top:1rem;border-top:1px solid var(--border);font-size:.8rem;color:var(--muted)}
+
+  @media print{
+    @page{size:letter;margin:.7in .8in}
+    body{background:#fff}
+    .bar,.editor{display:none!important}
+    .doc{box-shadow:none;margin:0;padding:0;max-width:none}
+    h3{break-after:avoid}
+    .gap{background:#fff;border:1px solid #999;color:#000}
+  }
+</style>
+</head>
+<body>
+
+<div class="bar">
+  <h1>LIM History — Board Draft</h1>
+  <button id="print" type="button">Print / Save PDF</button>
+</div>
+
+<div class="doc">
+
+  <div class="editor">
+    <h4>Note to Robert — read before sending (this box does not print)</h4>
+    <p><strong>Source:</strong> the <code>Lutheran Indian Ministries History.doc</code> you forwarded. Its first two-thirds is Rev. Don Johnson's <em>“Statement For Mediators,”</em> written for the LAMP litigation around 2004. That is a legal position paper, not a history: it assigns motives to the Canadian board, raises racism, and recounts a private exchange about forgiveness. <strong>None of that is reproduced here.</strong> The factual spine below comes from the dates and outcomes in that document plus Paul Flaa's continuation.</p>
+    <p><strong>Every blank is marked <span class="gap">date needed</span>. I did not guess a single one</strong> — an invented date in a board document is far worse than a visible gap. Paul's note says several are “in records at the office.”</p>
+    <ol>
+      <li><strong>The incorporation date and state</strong> — the thing you specifically asked for. It is not anywhere in the source document.</li>
+      <li><strong>The founder's name.</strong> The source only ever says “the Founder.” Also your call whether to name him at all.</li>
+      <li><strong>CLAIM merger date</strong>, and <strong>Haskell LIGHT</strong>'s two dates (the parent/child agreement, then the full merger).</li>
+      <li><strong>The year “Lutheran Indian Ministries” was adopted</strong> — the source says “about 2011.”</li>
+      <li><strong>Leadership dates</strong> — Tim Young Eagle's tenure, and your own start date.</li>
+    </ol>
+    <p><strong>Two judgment calls that are yours, not mine:</strong></p>
+    <ol>
+      <li><strong>The Arizona matter.</strong> I included it, briefly and factually, because a history that omits it isn't a history and the board already knows. It states plainly that the billing agencies acted without LIM's knowledge and that LIM and its CFO were dismissed. No individual is named. Cut it if the board pack isn't the right venue.</li>
+      <li><strong>The separation from LAMP Canada.</strong> Written as a difference in mission philosophy and a board decision, with the court outcomes stated as fact. I deliberately did not characterise anyone's motives. If you want it shorter, the middle three paragraphs can go without breaking the narrative.</li>
+    </ol>
+  </div>
+
+  <div class="mast">
+    <img src="/brand/lutheranindianMinistries-logo-horz-stacked.svg" alt="Lutheran Indian Ministries">
+    <span class="lbl">Prepared for the Board of Directors</span>
+    <h2>A History of Lutheran Indian Ministries</h2>
+    <p class="sub">Draft for review &middot; August 2026</p>
+  </div>
+
+  <p class="lede">Lutheran Indian Ministries exists today because of a conviction that took decades to win: that Native people are not the objects of mission but the ones called to carry it. Nearly everything in this history &mdash; the separations, the mergers, the hard transitions &mdash; traces back to that single idea and what it cost to hold onto it.</p>
+
+  <h3>Origins</h3>
+  <span class="era">Founding through the early 1990s</span>
+  <p>The ministry began as the <strong>Lutheran Association of Missionaries and Pilots</strong>, a bush-aviation mission carrying pastors into remote Native communities across northern Canada and Alaska that no road reached. It operated as two national organisations &mdash; one Canadian, one American &mdash; sharing a name, a logo, and a mission field.</p>
+  <p>The United States organisation was incorporated as <strong>Lutheran Association of Missionaries and Pilots U.S., Inc.</strong> in <span class="gap">date + state needed</span>, and has raised support from American Lutheran congregations and donors <strong>continuously since 1985</strong> &mdash; a date that would later matter a great deal. It was founded by <span class="gap">founder's name needed</span>.</p>
+
+  <h3>A Change of Conviction</h3>
+  <span class="era">1993&ndash;1999</span>
+  <p><strong>Rev. Don Johnson</strong>, a Native American pastor, joined the staff in September 1993 and was appointed interim Executive Director in January 1994, confirmed by both boards that October. He inherited an organisation carrying roughly <strong>$3.7 million of combined debt</strong>. Within three years most of it was repaid, including the obligations to the endowment funds.</p>
+  <p>The deeper change was to the mission itself. Beginning in 1995 and approved by both boards in <strong>1996</strong>, a long-range plan reoriented the work from presence toward <strong>evangelism, discipleship, and the recruitment and training of Native Christians to lead ministry to their own communities</strong>. The older model flew volunteers and pastors in from the south to do ministry for Native people. The new one set out to equip Native people to do it themselves.</p>
+  <p>That reorientation was not universally welcomed, and the two national organisations came to hold genuinely different convictions about how the work should be done.</p>
+
+  <h3>The Separation</h3>
+  <span class="era">2000&ndash;2005</span>
+  <p>By 2000 the partnership between the two organisations had become unworkable. Joint board meetings no longer produced agreement, and staff on both sides of the border were leaving. On <strong>25 April 2000</strong> the joint executive staff wrote to the U.S. board asking it to act. On <strong>5 May 2000</strong> the <strong>U.S. board voted to end the ministry partnership</strong>. It convened in Edmonton that June still hoping to meet with its Canadian counterpart; that meeting did not take place, and the two organisations went their separate ways.</p>
+  <p>Litigation followed over the shared name and marks. The federal court's orders were clear in their outcome: the U.S. organisation <strong>could no longer use the acronym LAMP</strong>, though it retained its legal name, and its newsletter could no longer be called <em>The LAMPLighter</em>. A settlement order &mdash; <strong>still in force today</strong> &mdash; requires each organisation to notify the other of any estate gift executed between <strong>1 January 1985 and 1 April 2005</strong>. Fewer gifts fall inside that window with each passing year.</p>
+
+  <h3>Becoming Lutheran Indian Ministries</h3>
+  <span class="era">c. 2011 onward</span>
+  <p>To stand clearly on its own, the U.S. organisation began operating as <strong>Lutheran Indian Ministries</strong> in <span class="gap">year needed &mdash; source says “about 2011”</span>.</p>
+  <p>Around the same period it merged with the <strong>Council for Lutheran American Indian Ministries (CLAIM)</strong> in <span class="gap">date needed</span>. CLAIM ceased to exist as a separate body, and it is from CLAIM that LIM received the <strong>four-colour cross</strong> it still carries as its mark.</p>
+  <p><strong>Haskell LIGHT</strong>, the campus ministry at Haskell Indian Nations University in Lawrence, Kansas, had been a CLAIM member and sought closer alignment after the merger. For several years the two operated as separate legal entities with LIM as Haskell LIGHT's sole member, beginning <span class="gap">date needed</span>. Haskell LIGHT was fully merged into LIM in <span class="gap">date needed</span> and is now one of its central ministries, serving students from tribes across the country.</p>
+
+  <h3>Transition and Testing</h3>
+  <span class="era">c. 2016&ndash;2021</span>
+  <p>Don Johnson retired around 2016 after more than two decades. <strong>Tim Young Eagle</strong> succeeded him as Executive Director, serving <span class="gap">dates needed</span>. Under his leadership the ministry, which had always concentrated on remote villages apart from Haskell, <strong>expanded into urban Native communities</strong> and began adding social and healing ministry to its work &mdash; the seed of what would become LIM's healing groups.</p>
+  <p>An effort to offer fee-for-service programmes in Phoenix, Arizona brought the hardest chapter in the organisation's recent history. LIM contracted with outside billing agencies to handle Medicaid claims. <strong>Those agencies were committing fraud, without LIM's knowledge.</strong> The organisation and several staff were charged. <strong>LIM and its Chief Financial Officer were dismissed from the charges</strong>, and a portion of the fee-for-service revenue was returned to Medicaid.</p>
+  <p><strong>Robert Heffle</strong> was hired in the middle of that litigation, in <span class="gap">date needed</span>, and helped bring it to settlement and dismissal. He serves as Executive Director today.</p>
+
+  <h3>Where the Ministry Stands</h3>
+  <span class="era">2026</span>
+  <p>LIM today is a <strong>Native-led ministry</strong> organised around three commitments: to <strong>proclaim</strong> the Gospel in Native communities, to <strong>disciple</strong> Native leaders &mdash; most visibly through Haskell LIGHT &mdash; and to <strong>heal the wounds of trauma</strong> that generations of loss, boarding schools, and broken trust have left behind.</p>
+  <p>That third commitment has become some of the ministry's most consequential work. Its <strong>healing groups</strong>, built on the American Bible Society's Trauma Healing Institute curriculum and led by trained Native facilitators, meet in person and online at no cost to those who attend. The <strong>Tree of Life Gathering</strong> takes that work deeper still, walking participants through Christ's own experience of rejection and suffering over three days. Both are led by Native people for Native people &mdash; which is precisely what the 1996 long-range plan set out to make possible, thirty years on.</p>
+
+  <div class="pull">
+    I don't know how long God will have me at Lutheran Indian Ministries, but sometimes I think about past my retirement. How do we make sure we never go back? How do we make sure we stay the course?
+    <cite>Robert Heffle, Executive Director</cite>
+  </div>
+
+  <p>The history above is, read one way, a long argument about that question. The organisation has twice been through separations that turned on it, and has come out of each one more clearly Native-led than before. The task now is the one Robert names: to make the conviction structural, so it outlasts whoever holds the office.</p>
+
+  <p class="foot">
+    Prepared from <em>Lutheran Indian Ministries History.doc</em> (Rev. Don Johnson, <em>Statement For Mediators</em>, c. 2004; continuation by Paul Flaa, February 2026). Dates shown as needing confirmation are not recorded in that source. &mdash; Draft, August 2026.
+  </p>
+
+</div>
+
+<script>document.getElementById('print').addEventListener('click',function(){window.print();});</script>
+</body>
+</html>
