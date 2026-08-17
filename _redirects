@@ -48,6 +48,11 @@
 /healing-group-intake                            /healing-group-intake.html       200
 /healing-group-post                              /healing-group-post.html         200
 
+# Staff share this one another by text when someone has a video to send. Points
+# at the real instructions in the video guide rather than a second copy that
+# would drift out of sync.
+/send-video                                      /docs-video-interview-guide.html#send-video   301
+
 # ── Posts that DO exist on the new site ──
 # Must precede the /news/* and /reflections/* catch-alls below — Netlify takes
 # the first match, so a wildcard above these would swallow them.

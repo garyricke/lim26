@@ -337,6 +337,16 @@
     .signup-form button{background:var(--yellow);color:var(--charcoal);font-family:var(--cond);font-size:.88rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.85rem 1.7rem;border:0;border-radius:5px;cursor:pointer;transition:var(--t)}
     .signup-form button:hover{background:#ffe95c}
     .signup-note{font-size:.78rem;color:rgba(255,255,255,.35);margin-top:.8rem}
+    .signup-more{background:none;border:0;padding:.55rem 0 0;color:rgba(255,255,255,.5);font-family:var(--body);font-size:.82rem;cursor:pointer;text-align:left;text-decoration:underline;text-underline-offset:3px}
+    .signup-more:hover{color:var(--yellow)}
+    .signup-more[hidden]{display:none}
+    .signup-postal{margin-top:.8rem;display:grid;gap:.6rem}
+    .signup-postal input{background:rgba(255,255,255,.07);border:1.5px solid rgba(255,255,255,.16);border-radius:5px;padding:.72rem .9rem;color:#fff;font-family:var(--body);font-size:.9rem;width:100%}
+    .signup-postal input::placeholder{color:rgba(255,255,255,.38)}
+    .signup-postal input:focus{outline:none;border-color:var(--yellow);background:rgba(255,255,255,.1)}
+    .signup-grid{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
+    .signup-grid.three{grid-template-columns:2fr .7fr 1fr}
+    @media(max-width:560px){.signup-grid,.signup-grid.three{grid-template-columns:1fr}}
     .signup-done{display:none;font-family:var(--cond);font-size:1.05rem;font-weight:700;letter-spacing:.04em;color:var(--yellow)}
     .signup-done.show{display:block}
     @media(max-width:800px){.signup-i{grid-template-columns:1fr;gap:1.5rem}}
@@ -1325,6 +1335,22 @@
         <input type="email" id="signup-email" name="email" autocomplete="email" placeholder="you@example.com" required>
         <button type="submit">Sign Up</button>
       </form>
+      <!-- Postal details stay optional and hidden until asked for. Requiring an
+           address on a newsletter signup costs far more sign-ups than it gains
+           addresses; offering it costs nothing. -->
+      <button type="button" class="signup-more" id="signup-more">＋ Add my mailing address, so I can receive printed updates</button>
+      <div class="signup-postal" id="signup-postal" hidden>
+        <div class="signup-grid">
+          <input type="text" name="name" autocomplete="name" placeholder="Full name" form="signup-form">
+          <input type="tel" name="phone" autocomplete="tel" placeholder="Phone (optional)" form="signup-form">
+        </div>
+        <input type="text" name="address" autocomplete="street-address" placeholder="Street address" form="signup-form">
+        <div class="signup-grid three">
+          <input type="text" name="city" autocomplete="address-level2" placeholder="City" form="signup-form">
+          <input type="text" name="state" autocomplete="address-level1" placeholder="State" maxlength="2" form="signup-form">
+          <input type="text" name="zip" autocomplete="postal-code" placeholder="ZIP" inputmode="numeric" form="signup-form">
+        </div>
+      </div>
       <p class="signup-done" id="signup-done">Thank you — you're on the list.</p>
       <p class="signup-note">We never sell or share your address. Unsubscribe any time.</p>
     </div>
@@ -2039,8 +2065,15 @@
 <script>
 /* Email signup — POST to Netlify Forms without navigating away. */
 (function(){
-  var f=document.getElementById('signup-form'), done=document.getElementById('signup-done');
+  var f=document.getElementById('signup-form'), done=document.getElementById('signup-done'),
+      more=document.getElementById('signup-more'), postal=document.getElementById('signup-postal');
   if(!f) return;
+  if(more && postal){
+    more.addEventListener('click', function(){
+      postal.hidden=false; more.hidden=true;
+      var first=postal.querySelector('input'); if(first) first.focus();
+    });
+  }
   f.addEventListener('submit', function(e){
     e.preventDefault();
     var email=f.querySelector('[name=email]');
