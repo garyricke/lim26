@@ -40,3 +40,44 @@ Fade in over 4s; fade out from 175s over 6s so it lands with the last words.
 
 The six individual highlight cuts are also around **-32 LUFS** and would benefit
 from the same `loudnorm=I=-16` pass, with or without music.
+
+---
+
+## Loudness pass over all eight clips — 18 Aug 2026
+
+Descript's exports were not only quiet but wildly inconsistent: a **20.4 dB
+spread** across the page, so a viewer would have been riding the volume control
+between clips.
+
+| Clip | Before | After |
+|---|---|---|
+| Highlight reel | -32.1 | **-17.6** |
+| Emily Wilson | -38.2 | **-17.8** |
+| Pastor Ricky Jacob | -33.0 | **-16.2** |
+| Pastor Tim Norton | -39.6 | **-17.6** |
+| Pastor Ben Maxson | -29.2 | **-18.9** |
+| Chris Scott | -33.2 | **-16.2** |
+| Gia Scott | -32.5 | **-16.9** |
+| In the lodge | -19.2 | **-16.5** |
+
+Spread now **2.7 dB**. All values re-measured after download from Cloudinary,
+not just at encode time.
+
+Two-pass `loudnorm` with `linear=true` — a single dynamic pass pumps badly when
+it has to find +23 dB, which Tim and Emily both needed. Video stream copied, so
+no re-encode and no generation loss.
+
+```
+# pass 1 — measure
+ffmpeg -i in.mp4 -af loudnorm=I=-16:TP=-1.5:LRA=11:print_format=json -f null -
+# pass 2 — apply the measured values linearly
+ffmpeg -i in.mp4 -af "loudnorm=I=-16:TP=-1.5:LRA=11:measured_I=..:measured_TP=..\
+:measured_LRA=..:measured_thresh=..:linear=true" -c:v copy -c:a aac -b:a 128k \
+-movflags +faststart out.mp4
+```
+
+Note: ffmpeg's JSON output carries carriage returns; strip them (`tr -d '\r'`)
+before substituting the measured values or the next filter option gets mangled.
+
+Music is on the reel only. The individual cuts are clean voice — the reel is the
+produced overview, the interviews are people speaking for themselves.
