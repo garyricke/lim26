@@ -67,6 +67,29 @@
   .pill.declined{background:#8d8d85;color:#fff}
   .empty{background:#fff;border-radius:var(--rl);padding:3rem 2rem;text-align:center;color:var(--muted)}
 
+  /* How-this-works panel */
+  .help{background:#fff;border-radius:var(--rl);margin-top:1.6rem;overflow:hidden;border:1px solid var(--border)}
+  .help summary{list-style:none;cursor:pointer;padding:.85rem 1.1rem;font-family:var(--cond);font-size:.95rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;display:flex;align-items:center;gap:.5rem}
+  .help summary::-webkit-details-marker{display:none}
+  .help summary svg{width:18px;height:18px;flex:none;color:var(--sage-d)}
+  .help summary::after{content:'Show';margin-left:auto;font-size:.78rem;letter-spacing:.08em;color:var(--muted)}
+  .help[open] summary::after{content:'Hide'}
+  .help summary:hover{background:#faf9f7}
+  .help .body{padding:0 1.1rem 1.3rem;border-top:1px solid var(--border)}
+  .help p{font-size:.92rem;margin-top:1rem}
+  .help p:first-child{margin-top:1.1rem}
+  .help b{font-weight:600}
+  .help .lbl{display:inline-block;background:var(--red);color:#fff;font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.1rem .5rem;border-radius:20px;vertical-align:middle}
+
+  /* Flagged-application explainer inside the detail sheet */
+  .alert{background:#fdf0f0;border-left:4px solid var(--red);border-radius:var(--r);padding:1rem 1.1rem;margin-bottom:1.6rem}
+  .alert h4{font-family:var(--cond);font-size:.9rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--red-h);margin-bottom:.4rem;display:flex;align-items:center;gap:.4rem}
+  .alert h4 svg{width:17px;height:17px;flex:none}
+  .alert p{font-size:.88rem;margin-bottom:.5rem}
+  .alert p:last-child{margin-bottom:0}
+  .alert ul{margin:.1rem 0 .6rem 1.1rem;font-size:.88rem}
+  .alert li{margin-bottom:.1rem}
+
   /* Detail */
   .scrim{position:fixed;inset:0;background:rgba(24,24,20,.72);z-index:100;display:none;align-items:flex-start;justify-content:center;padding:2.5rem 1.25rem;overflow-y:auto}
   .scrim.show{display:flex}
@@ -110,6 +133,25 @@
   </div>
 
   <div id="app" hidden>
+
+    <details class="help">
+      <summary>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+        How this page works
+      </summary>
+      <div class="body">
+        <p>Every row is one application. Click a row to read the person&rsquo;s full answers, then set a status at the bottom.</p>
+
+        <p><b>To count applications:</b> the number at the top left is the total. Choose a status from the dropdown and that number updates to just that group &mdash; so &ldquo;how many have we accepted?&rdquo; is one click. <b>Export CSV</b> downloads every application, one row each, to count or sort in Excel or Google Sheets.</p>
+
+        <p><b>Statuses.</b> <b>New</b> means nobody has opened it yet. <b>Reviewed</b> means someone has read it but hasn&rsquo;t decided. Then <b>Accepted</b>, <b>Waitlisted</b> or <b>Declined</b>. Whatever you set is saved for everyone on staff, so the list doubles as the record of where each person stands.</p>
+
+        <p><b><span class="lbl">Review first</span> &nbsp;is not a decline.</b> It appears when the applicant answered <em>yes</em> to any of three questions: thoughts of suicide, not feeling safe at home, or being in an unsafe relationship. It means those answers &mdash; and whatever the person wrote to explain them &mdash; should be read by someone before an acceptance or a decline goes out, so nobody gets a form letter about a hard disclosure. Open the application and look at the <b>Health &amp; Safety</b> section; the <em>yes</em> answers are printed in red.</p>
+
+        <p><b>Please keep this page to yourself.</b> These answers include abuse history, behavioral health and suicidal thinking. Nothing here is ever emailed &mdash; staff only get a &ldquo;new application from X&rdquo; note, and the answers themselves live only on this page. Sign out when you&rsquo;re done on a shared computer.</p>
+      </div>
+    </details>
+
     <div class="bar">
       <span class="count" id="count"></span>
       <div class="spacer"></div>
@@ -289,6 +331,21 @@
       var html = '<button class="x" aria-label="Close">×</button>' +
         '<h2>' + esc(a.firstName + ' ' + a.lastName) + '</h2>' +
         '<p class="ref">' + esc(a.ref) + ' · received ' + esc(fmtDate(a.receivedAt)) + '</p>';
+
+      // Spell out why this one is flagged, and what "Review first" actually asks of staff.
+      var reasons = [];
+      if(a.suicidalThoughts === 'yes')     reasons.push('has had thoughts of suicide, an attempt, or a plan');
+      if(a.unsafeHome === 'yes')           reasons.push('does not feel safe at home');
+      if(a.unsafeRelationship === 'yes')   reasons.push('is in a relationship that feels unsafe');
+      if(reasons.length){
+        html += '<div class="alert">' +
+          '<h4><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/><path d="M12 9v4M12 17h.01"/></svg>Review first</h4>' +
+          '<p>On the form, this applicant said they:</p>' +
+          '<ul><li>' + reasons.join('</li><li>') + '</li></ul>' +
+          '<p>Read those answers and their explanations below (in red) before sending an acceptance, a waitlist note, or a decline. <b>The flag is a prompt to look, not a reason to turn someone away</b> — most people who disclose this are exactly who the gathering is for.</p>' +
+          '<p>If anything here suggests someone is in danger right now, don\'t wait on the application: call or text <b>988</b> (Suicide &amp; Crisis Lifeline) or <b>911</b>.</p>' +
+        '</div>';
+      }
 
       GROUPS.forEach(function(g){
         var rows = g[1].map(function(f){
