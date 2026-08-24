@@ -42,7 +42,10 @@
 /lim-history                                     /docs-lim-history.html           200
 
 # Zion's September concert. Robert shares this by text, so it gets a clean stem.
+# /zion is the one for print, radio and word of mouth: it puts Zion in the address
+# while LIM stays in the domain, which is what Robert and Bill each asked for.
 /songs-and-stories                               /songs-and-stories.html          200
+/zion                                            /songs-and-stories               301
 /songs                                           /songs-and-stories               301
 /board-report                                    /docs-board-report.html          200
 /camp-report                                     /docs-camp-perkins-report.html   200
