@@ -43,3 +43,6 @@ archive/squarespace/images
 
 # archiver run log — regenerated each run
 archive/squarespace/run.log
+
+# Rendered social/print artwork — the shipping copies live on Cloudinary.
+generated_imgs/zion-social/

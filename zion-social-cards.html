@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex,nofollow">
+<title>Social cards — Songs &amp; Stories of Hope</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@500;600;700;800&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  /* ─────────────────────────────────────────────────────────────────────────
+     Source of truth for the Zion event's social graphics. Each .card is an
+     exact pixel artboard; scripts/render-zion-social.js screenshots them by id
+     at deviceScaleFactor 1, so what is here is what ships. Palette matches
+     songs-and-stories.html so the page and the ads read as one thing.
+     ───────────────────────────────────────────────────────────────────────── */
+  :root{
+    --navy:#1B2A4A;--navy-d:#131f38;--gold:#C08A3E;--gold-lt:#DCA85C;
+    --cream:#F5F1E8;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --serif:'Merriweather',Georgia,serif;
+    --body:'Open Sans',system-ui,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#3a3a3a;font-family:var(--body);padding:30px;display:flex;flex-wrap:wrap;gap:30px;align-items:flex-start}
+  .lbl{color:#fff;font:600 13px var(--body);margin-bottom:8px;letter-spacing:.04em}
+  figure{margin:0}
+
+  .card{position:relative;overflow:hidden;background:var(--navy);color:#fff;flex-shrink:0}
+  .card .photo{position:absolute;overflow:hidden}
+  .card .photo img{width:100%;height:100%;object-fit:cover;display:block}
+  .card .rule{background:var(--gold);border-radius:99px}
+  .free{display:inline-block;background:var(--gold);color:#fff;font-family:var(--cond);font-weight:800;text-transform:uppercase;border-radius:99px}
+  .h{font-family:var(--cond);font-weight:800;text-transform:uppercase;line-height:.92;letter-spacing:.01em}
+  .h .amp{color:var(--gold-lt)}
+  .of{font-family:var(--serif);font-style:italic;font-weight:400;text-transform:none;letter-spacing:0;display:block}
+  .when{font-family:var(--cond);font-weight:700;text-transform:uppercase;letter-spacing:.04em;line-height:1.15}
+  .where{font-family:var(--body);color:rgba(255,255,255,.72)}
+  .url{font-family:var(--cond);font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--gold-lt)}
+  .host{display:flex;align-items:center;gap:14px}
+  .host img{display:block}
+  .host span{font-family:var(--body);color:rgba(255,255,255,.6);line-height:1.35}
+
+  /* ── 1080 × 1350 — the portrait feed post (best reach on FB and IG) ── */
+  #c1350{width:1080px;height:1350px}
+  #c1350 .photo{top:0;left:0;right:0;height:700px}
+  #c1350 .photo::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(19,31,56,0) 55%,rgba(19,31,56,.72) 82%,var(--navy) 100%)}
+  #c1350 .body{position:absolute;top:624px;left:72px;right:72px}
+  #c1350 .free{font-size:26px;letter-spacing:.16em;padding:9px 22px;margin-bottom:26px}
+  #c1350 .h{font-size:104px}
+  #c1350 .of{font-size:68px;margin-top:6px}
+  #c1350 .rule{width:96px;height:6px;margin:34px 0 30px}
+  #c1350 .when{font-size:46px}
+  #c1350 .where{font-size:26px;margin-top:12px;line-height:1.5}
+  #c1350 .foot{position:absolute;left:72px;right:72px;bottom:60px;display:flex;align-items:flex-end;justify-content:space-between;gap:24px}
+  #c1350 .url{font-size:34px}
+  #c1350 .host img{height:52px}
+  #c1350 .host span{font-size:17px}
+
+  /* ── 1080 × 1080 — the square feed post ── */
+  #c1080{width:1080px;height:1080px}
+  #c1080 .photo{top:0;right:0;bottom:0;width:452px}
+  #c1080 .photo::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,var(--navy) 0%,rgba(19,31,56,.5) 24%,rgba(19,31,56,0) 58%)}
+  #c1080 .body{position:absolute;top:150px;left:74px;width:660px}
+  #c1080 .free{font-size:23px;letter-spacing:.16em;padding:8px 19px;margin-bottom:30px}
+  #c1080 .h{font-size:78px}
+  #c1080 .of{font-size:52px;margin-top:4px}
+  #c1080 .rule{width:84px;height:6px;margin:38px 0 32px}
+  #c1080 .when{font-size:42px}
+  #c1080 .where{font-size:24px;margin-top:14px;line-height:1.5}
+  #c1080 .foot{position:absolute;left:74px;bottom:78px;width:660px}
+  #c1080 .url{font-size:30px;margin-bottom:22px}
+  #c1080 .host img{height:46px}
+  #c1080 .host span{font-size:15px}
+
+  /* ── 1080 × 1920 — the story / reel cover ──
+     Everything important sits inside the middle 1420px, clear of the app's
+     own chrome at top and the reply bar at the bottom. */
+  #c1920{width:1080px;height:1920px}
+  #c1920 .photo{top:0;left:0;right:0;height:1020px}
+  #c1920 .photo::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(19,31,56,.35) 0%,rgba(19,31,56,0) 30%,rgba(19,31,56,.8) 74%,var(--navy) 100%)}
+  #c1920 .body{position:absolute;top:940px;left:84px;right:84px}
+  #c1920 .free{font-size:28px;letter-spacing:.16em;padding:10px 24px;margin-bottom:30px}
+  #c1920 .h{font-size:100px}
+  #c1920 .of{font-size:64px;margin-top:8px}
+  #c1920 .rule{width:100px;height:7px;margin:40px 0 34px}
+  #c1920 .when{font-size:50px}
+  #c1920 .where{font-size:29px;margin-top:14px;line-height:1.5}
+  #c1920 .foot{position:absolute;left:84px;right:84px;bottom:250px}
+  #c1920 .url{font-size:38px;margin-bottom:30px}
+  #c1920 .host img{height:56px}
+  #c1920 .host span{font-size:18px}
+
+  /* ── 1200 × 630 — link preview, X, and anywhere landscape ── */
+  #c630{width:1200px;height:630px}
+  #c630 .photo{top:0;right:0;bottom:0;width:470px}
+  #c630 .photo::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,var(--navy) 0%,rgba(19,31,56,.5) 22%,rgba(19,31,56,0) 58%)}
+  #c630 .body{position:absolute;top:66px;left:62px;width:660px}
+  #c630 .free{font-size:19px;letter-spacing:.16em;padding:6px 16px;margin-bottom:18px}
+  #c630 .h{font-size:76px}
+  #c630 .of{font-size:48px;margin-top:2px}
+  #c630 .rule{width:70px;height:5px;margin:22px 0 20px}
+  #c630 .when{font-size:32px}
+  #c630 .where{font-size:19px;margin-top:8px;line-height:1.45}
+  #c630 .foot{position:absolute;left:62px;bottom:48px;width:660px;display:flex;align-items:flex-end;justify-content:space-between;gap:20px}
+  #c630 .url{font-size:25px}
+  #c630 .host img{height:40px}
+  #c630 .host span{font-size:13px}
+</style>
+</head>
+<body>
+
+<figure>
+  <div class="lbl">1080 × 1350 — portrait feed post (Facebook + Instagram)</div>
+  <div class="card" id="c1350">
+    <div class="photo"><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,e_brightness:18,c_fill,g_face,w_1080,h_700/zion-songs/becky-perform" alt=""></div>
+    <div class="body">
+      <span class="free">Free &middot; Everyone welcome</span>
+      <div class="h">Songs <span class="amp">&amp;</span> Stories<span class="of">of Hope</span></div>
+      <div class="rule"></div>
+      <div class="when">Saturday, September 26<br>2:00 &ndash; 3:30 PM</div>
+      <div class="where">Zion Lutheran Church<br>2982 Davis Road, Fairbanks</div>
+    </div>
+    <div class="foot">
+      <div class="url">lutheranindianministries.org/zion</div>
+      <div class="host">
+        <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="">
+        <span>with Zion<br>Lutheran Church</span>
+      </div>
+    </div>
+  </div>
+</figure>
+
+<figure>
+  <div class="lbl">1080 × 1080 — square feed post</div>
+  <div class="card" id="c1080">
+    <div class="photo"><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,e_brightness:10,c_fill,g_face,w_520,h_1080/zion-songs/becky-perform" alt=""></div>
+    <div class="body">
+      <span class="free">Free &middot; Everyone welcome</span>
+      <div class="h">Songs <span class="amp">&amp;</span> Stories<span class="of">of Hope</span></div>
+      <div class="rule"></div>
+      <div class="when">Saturday, September 26<br>2:00 &ndash; 3:30 PM</div>
+      <div class="where">Zion Lutheran Church<br>2982 Davis Road, Fairbanks</div>
+    </div>
+    <div class="foot">
+      <div class="url">lutheranindianministries.org/zion</div>
+      <div class="host">
+        <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="">
+        <span>with Zion Lutheran Church</span>
+      </div>
+    </div>
+  </div>
+</figure>
+
+<figure>
+  <div class="lbl">1080 × 1920 — story / reel cover</div>
+  <div class="card" id="c1920">
+    <div class="photo"><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,e_brightness:18,c_fill,g_face,w_1080,h_1020/zion-songs/becky-perform" alt=""></div>
+    <div class="body">
+      <span class="free">Free &middot; Everyone welcome</span>
+      <div class="h">Songs <span class="amp">&amp;</span> Stories<span class="of">of Hope</span></div>
+      <div class="rule"></div>
+      <div class="when">Saturday, September 26<br>2:00 &ndash; 3:30 PM</div>
+      <div class="where">Zion Lutheran Church<br>2982 Davis Road, Fairbanks</div>
+    </div>
+    <div class="foot">
+      <div class="url">lutheranindianministries.org/zion</div>
+      <div class="host">
+        <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="">
+        <span>with Zion Lutheran Church</span>
+      </div>
+    </div>
+  </div>
+</figure>
+
+<figure>
+  <div class="lbl">1200 × 630 — link preview / landscape</div>
+  <div class="card" id="c630">
+    <div class="photo"><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,e_brightness:10,c_fill,g_face,w_560,h_630/zion-songs/becky-perform" alt=""></div>
+    <div class="body">
+      <span class="free">Free &middot; Everyone welcome</span>
+      <div class="h">Songs <span class="amp">&amp;</span> Stories<span class="of">of Hope</span></div>
+      <div class="rule"></div>
+      <div class="when">Saturday, September 26 &middot; 2:00 &ndash; 3:30 PM</div>
+      <div class="where">Zion Lutheran Church &middot; 2982 Davis Road, Fairbanks</div>
+    </div>
+    <div class="foot">
+      <div class="url">lutheranindianministries.org/zion</div>
+      <div class="host">
+        <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="">
+        <span>with Zion Lutheran Church</span>
+      </div>
+    </div>
+  </div>
+</figure>
+
+</body>
+</html>
