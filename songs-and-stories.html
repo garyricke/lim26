@@ -7,7 +7,7 @@
 <link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
 <title>Songs &amp; Stories of Hope — Zion Lutheran Church, Fairbanks</title>
 <meta property="og:title" content="Songs &amp; Stories of Hope — Zion Lutheran Church, Fairbanks">
-<meta property="og:description" content="An afternoon of music, stories and the good news of Jesus. Saturday 26 September 2026, 2:00-3:30 PM at Zion Lutheran Church, Fairbanks. Free to attend, all are welcome.">
+<meta property="og:description" content="An afternoon of great music and honest stories of hope. Saturday 26 September 2026, 2:00-3:30 PM at Zion Lutheran Church, Fairbanks. Free to attend, all are welcome.">
 <meta property="og:image" content="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_1200,h_630/zion-songs/becky-perform">
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -36,18 +36,20 @@
   .draft{background:#fffbe6;border-bottom:2px solid #e8d071;color:#7d6416;padding:.8rem 1.5rem;font-size:.88rem;text-align:center}
   .draft b{color:#5c4a10}
 
-  /* ── Hero ── */
-  .hero{position:relative;background:var(--navy);color:#fff;overflow:hidden}
-  .hero-img{position:absolute;inset:0}
-  .hero-img img{width:100%;height:100%;object-fit:cover;object-position:center 22%;opacity:.42}
-  .hero::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(19,31,56,.72),rgba(19,31,56,.5) 45%,rgba(19,31,56,.9))}
-  .hero-c{position:relative;z-index:2;padding:4.5rem 0 4rem;text-align:center}
-  .kicker{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.28em;text-transform:uppercase;color:var(--gold-lt);margin-bottom:1.1rem}
-  .hero h1{font-family:var(--cond);font-weight:800;font-size:clamp(2.9rem,8vw,5.4rem);line-height:.94;letter-spacing:.01em;text-transform:uppercase}
+  /* ── Hero — split so the headline never sits over Becky's face, and the photo
+       runs at full brightness with no scrim over it (Josh's note, 23 Aug). ── */
+  .hero{background:var(--navy);color:#fff;overflow:hidden}
+  .hero-i{display:grid;grid-template-columns:1.05fr .95fr;align-items:stretch;max-width:1240px;margin:0 auto}
+  .hero-c{padding:4.6rem 3rem 4.4rem 1.5rem;display:flex;flex-direction:column;justify-content:center}
+  .hero h1{font-family:var(--cond);font-weight:800;font-size:clamp(2.9rem,7vw,5rem);line-height:.94;letter-spacing:.01em;text-transform:uppercase}
   .hero h1 .amp{color:var(--gold-lt)}
-  .hero h1 .of{display:block;font-family:var(--serif);font-style:italic;font-weight:400;text-transform:none;font-size:clamp(1.9rem,5vw,3.4rem);letter-spacing:0;margin-top:.15em}
-  .tagline{margin:1.6rem auto 0;max-width:34ch;font-family:var(--cond);font-size:clamp(1rem,2.2vw,1.22rem);font-weight:600;letter-spacing:.06em;text-transform:uppercase;line-height:1.5}
+  .hero h1 .of{display:block;font-family:var(--serif);font-style:italic;font-weight:400;text-transform:none;font-size:clamp(1.9rem,4.4vw,3.2rem);letter-spacing:0;margin-top:.15em}
+  .tagline{margin:1.6rem 0 0;max-width:30ch;font-family:var(--cond);font-size:clamp(1rem,2.2vw,1.22rem);font-weight:600;letter-spacing:.06em;text-transform:uppercase;line-height:1.5}
   .tagline .hope{color:var(--gold-lt)}
+  .hero-ph{position:relative;min-height:460px}
+  .hero-ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 18%}
+  /* Feathered edge only where the photo meets the navy — her face stays clear. */
+  .hero-ph::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,var(--navy) 0%,rgba(27,42,74,.45) 12%,rgba(27,42,74,0) 34%)}
 
   /* ── Facts bar ── */
   .facts{background:var(--navy-d);color:#fff;border-top:1px solid rgba(255,255,255,.1)}
@@ -58,10 +60,9 @@
   .fact .lbl{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.55);margin-bottom:.2rem}
   .fact .val{font-family:var(--cond);font-size:1.16rem;font-weight:700;letter-spacing:.03em;line-height:1.25}
   .fact .sub{font-size:.82rem;color:rgba(255,255,255,.6);margin-top:.15rem}
-  .tbd{background:#fffbe6;color:#7d6416;border-radius:3px;padding:0 .35rem;font-weight:800}
 
   /* ── Sections ── */
-  section{padding:4.5rem 0}
+  section{padding:3.6rem 0}
   .sec-lbl{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);text-align:center;margin-bottom:.6rem}
   h2{font-family:var(--cond);font-size:clamp(1.9rem,4vw,2.7rem);font-weight:800;letter-spacing:.02em;text-transform:uppercase;text-align:center;line-height:1.1;margin-bottom:1.1rem}
   .intro{max-width:62ch;margin:0 auto;text-align:center;font-family:var(--serif);font-size:1.05rem;line-height:1.85}
@@ -70,21 +71,14 @@
   .verse p{font-family:var(--serif);font-style:italic;font-size:clamp(1.05rem,2.4vw,1.3rem);line-height:1.75;max-width:46ch;margin:0 auto}
   .verse cite{display:block;font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-lt);font-style:normal;margin-top:1.1rem}
 
-  /* ── What to expect ── */
-  .expect{display:grid;grid-template-columns:repeat(3,1fr);gap:1.4rem;margin-top:2.6rem}
-  .ecard{background:var(--paper);border-radius:10px;border-top:4px solid var(--gold);padding:1.7rem 1.6rem;box-shadow:0 3px 14px rgba(27,42,74,.07)}
-  .ecard h3{font-family:var(--cond);font-size:1.2rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;margin-bottom:.5rem}
-  .ecard p{font-size:.93rem;color:var(--muted)}
-
   /* ── People ── */
   .people{display:grid;grid-template-columns:repeat(3,1fr);gap:1.6rem;margin-top:2.6rem}
   .person{background:var(--paper);border-radius:10px;overflow:hidden;box-shadow:0 3px 14px rgba(27,42,74,.08);display:flex;flex-direction:column}
   .person .ph{aspect-ratio:4/5;overflow:hidden;background:var(--navy)}
   .person .ph img{width:100%;height:100%;object-fit:cover}
-  .person .bd{padding:1.4rem 1.5rem 1.6rem;flex:1}
+  .person .bd{padding:1.1rem 1.2rem 1.25rem;flex:1;text-align:center}
   .person .nm{font-family:var(--cond);font-size:1.28rem;font-weight:800;letter-spacing:.03em}
-  .person .rl{font-family:var(--cond);font-size:.76rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin:.25rem 0 .8rem}
-  .person p{font-size:.9rem;color:var(--muted);line-height:1.7}
+  .person .rl{font-family:var(--cond);font-size:.76rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin:.2rem 0 0}
 
   /* ── Poster + CTA ── */
   .share{background:var(--paper);border-top:1px solid var(--border)}
@@ -109,9 +103,18 @@
   footer .real .hope{color:var(--gold-lt)}
 
   @media(max-width:900px){
+    .hero-i{grid-template-columns:1fr}
+    .hero-ph{order:-1;min-height:min(64vw,380px)}
+    .hero-ph::after{background:linear-gradient(180deg,rgba(27,42,74,0) 55%,var(--navy) 100%)}
+    .hero-c{padding:2.2rem 1.5rem 3rem;text-align:center;align-items:center}
+    .tagline{margin-left:auto;margin-right:auto}
     .facts-i{grid-template-columns:1fr}
     .fact{border-right:0;border-bottom:1px solid rgba(255,255,255,.1)}
-    .expect,.people{grid-template-columns:1fr}
+    /* Three names still fit side by side once the bios are gone */
+    .people{gap:.7rem}
+    .person .nm{font-size:1.02rem}
+    .person .rl{font-size:.65rem;letter-spacing:.1em}
+    .person .bd{padding:.8rem .5rem 1rem}
     .share-i{grid-template-columns:1fr;gap:2rem}
     .share-i .pos{max-width:340px;margin:0 auto}
   }
@@ -120,17 +123,18 @@
 <body>
 
 <div class="draft" id="draft">
-  <b>Ready to share.</b> Date and time confirmed by Robert on 17 August: <b>Saturday 26 September, 2:00&ndash;3:30 pm, free to attend.</b> Still hidden from Google until you say go.
+  <b>Revised 24 August</b> from Josh, Becky and Bobby&rsquo;s feedback: brighter photo clear of Becky&rsquo;s face, shorter intro, boxes removed, names only, tighter share line. <b>Saturday 26 September, 2:00&ndash;3:30 pm, free to attend.</b> Still hidden from Google until you say go.
 </div>
 
 <header class="hero">
-  <div class="hero-img">
-    <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_1800/zion-songs/becky-perform" alt="">
-  </div>
-  <div class="hero-c wrap">
-    <p class="kicker">An afternoon of music, stories &amp; the good news of Jesus</p>
-    <h1>Songs <span class="amp">&amp;</span> Stories<span class="of">of Hope</span></h1>
-    <p class="tagline">Music that encourages. Stories that inspire. <span class="hope">Hope</span> that lasts.</p>
+  <div class="hero-i">
+    <div class="hero-c">
+      <h1>Songs <span class="amp">&amp;</span> Stories<span class="of">of Hope</span></h1>
+      <p class="tagline">Music that encourages. Stories that inspire. <span class="hope">Hope</span> that lasts.</p>
+    </div>
+    <div class="hero-ph">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,e_brightness:12,c_fill,g_face,w_1100,h_1000/zion-songs/becky-perform" alt="Becky Key playing guitar and singing">
+    </div>
   </div>
 </header>
 
@@ -165,24 +169,8 @@
 
 <section>
   <div class="wrap">
-    <p class="sec-lbl">What this afternoon is</p>
     <h2>Come as you are. Bring a friend.</h2>
-    <p class="intro">An afternoon of country, folk and contemporary worship music, woven together with honest stories about where hope actually comes from. <b>Free to attend</b> &mdash; no ticket, no pressure, nothing to prepare. Just music worth hearing and a message worth carrying home.</p>
-
-    <div class="expect">
-      <div class="ecard">
-        <h3>The Music</h3>
-        <p>Country, folk and contemporary worship &mdash; original songs alongside hymns you already know, with plenty you can sing along to.</p>
-      </div>
-      <div class="ecard">
-        <h3>The Stories</h3>
-        <p>Honest, funny, real. The kind that put words to the hope behind the music instead of talking around it.</p>
-      </div>
-      <div class="ecard">
-        <h3>The Good News</h3>
-        <p>A clear, unhurried word about Jesus &mdash; for anyone carrying something heavy, and anyone just curious.</p>
-      </div>
-    </div>
+    <p class="intro">Want a relaxed afternoon of good music and something encouraging to take home? Join us for an afternoon of great music and honest stories of hope. <b>Free to attend, all are welcome!</b></p>
   </div>
 </section>
 
@@ -193,8 +181,7 @@
 
 <section>
   <div class="wrap">
-    <p class="sec-lbl">Who you&rsquo;ll hear</p>
-    <h2>Three people, one afternoon</h2>
+    <h2>Who You&rsquo;ll Hear</h2>
 
     <div class="people">
       <div class="person">
@@ -202,16 +189,14 @@
         <div class="bd">
           <div class="nm">Becky Key</div>
           <div class="rl">Singer &amp; Songwriter</div>
-          <p>Becky&rsquo;s music blends the warmth and storytelling of folk and country with the heart of contemporary worship. For more than 23 years she has shared music throughout California &mdash; in churches, community concerts and women&rsquo;s conferences. She loves songs that bring people together, invite them to sing along, and leave them encouraged.</p>
         </div>
       </div>
 
       <div class="person">
-        <div class="ph"><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_700,h_875/zion-songs/josh" alt="Joshua Vigran"></div>
+        <div class="ph"><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_face,w_700,h_875/zion-songs/josh" alt="Josh Vigran"></div>
         <div class="bd">
-          <div class="nm">Joshua Vigran</div>
-          <div class="rl">Music Director, Zion Lutheran</div>
-          <p>Josh has been in music ministry since he was twelve, playing piano, bass, guitar, drums and organ in churches across California, New York, Texas and Alaska. He has been Zion&rsquo;s Music Director since 2024, and was most recently collaborative pianist and instructor of piano at the University of Alaska Fairbanks. He is Becky&rsquo;s brother, and writing and performing together is one of their greatest joys.</p>
+          <div class="nm">Josh Vigran</div>
+          <div class="rl">Zion&rsquo;s Music Director</div>
         </div>
       </div>
 
@@ -220,7 +205,6 @@
         <div class="bd">
           <div class="nm">Pastor Bobby Key</div>
           <div class="rl">Stories &amp; Message</div>
-          <p>Bobby is a husband, dad of two girls, and a storyteller who believes hope is more than wishful thinking. For fifteen years he has helped people find the kind of hope that holds up in real life. His role here is simple: to put words to the hope behind the music, through honest stories and reflections that connect with everyday moments.</p>
         </div>
       </div>
     </div>
@@ -235,7 +219,7 @@
     <div>
       <p class="sec-lbl" style="text-align:left">Help us fill the room</p>
       <h2 style="text-align:left">Share it with someone.</h2>
-      <p style="font-size:.98rem;color:var(--muted);max-width:46ch">The easiest invitation is a text message. Copy the link and send it to one person who needs an afternoon like this &mdash; or save the poster and put it up where people will see it.</p>
+      <p style="font-size:.98rem;color:var(--muted);max-width:46ch">Copy the link, invite a friend. Save the poster, share online!</p>
       <div class="btnrow">
         <button class="btn btn-gold" id="copyLink" type="button">Copy the link</button>
         <a class="btn btn-ol" href="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_1400/zion-songs/poster" target="_blank" rel="noopener">Open the poster</a>
