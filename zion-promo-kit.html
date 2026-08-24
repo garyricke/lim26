@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>Promotion Kit — Songs &amp; Stories of Hope, Zion Lutheran Fairbanks</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700&family=Barlow+Condensed:wght@500;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;--sage:#B2AC88;--sage-d:#8a8665;
+    --sky:#A2C2D1;--sky-d:#6fa3b8;--stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;
+    --navy:#1B2A4A;--gold:#C08A3E;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:var(--body);color:var(--charcoal);background:#eceae4;line-height:1.6}
+  a{color:var(--red)}
+
+  .topbar{background:var(--charcoal);color:#fff;padding:.7rem 1.25rem;display:flex;align-items:center;gap:.9rem;position:sticky;top:0;z-index:20;flex-wrap:wrap}
+  .topbar h1{font-family:var(--cond);font-size:1.15rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;margin:0}
+  .topbar .sub{font-size:.78rem;color:rgba(255,255,255,.5)}
+  .topbar .home{margin-left:auto;color:rgba(255,255,255,.6);font-size:.8rem;text-decoration:none;border:1px solid rgba(255,255,255,.2);padding:.35rem .7rem;border-radius:6px}
+  .topbar .home:hover{color:var(--yellow);border-color:var(--yellow)}
+
+  .wrap{max-width:940px;margin:0 auto;padding:1.6rem 1.25rem 5rem}
+
+  .lede{background:#fff;border:1px solid var(--border);border-left:4px solid var(--red);border-radius:10px;padding:1.1rem 1.25rem;margin-bottom:1.6rem}
+  .lede p{margin:0 0 .6rem;font-size:.94rem}
+  .lede p:last-child{margin-bottom:0}
+
+  /* Event facts — the details every piece of copy below has to agree with */
+  .facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:0;background:var(--navy);border-radius:10px;overflow:hidden;margin-bottom:2rem}
+  .facts div{padding:.9rem 1.1rem;border-right:1px solid rgba(255,255,255,.12)}
+  .facts div:last-child{border-right:0}
+  .facts .k{font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.5)}
+  .facts .v{font-family:var(--cond);font-size:1.08rem;font-weight:700;color:#fff;letter-spacing:.02em;line-height:1.3}
+  .facts .v small{display:block;font-family:var(--body);font-size:.76rem;font-weight:400;color:rgba(255,255,255,.6);letter-spacing:0}
+
+  h2{font-family:var(--cond);font-size:1.5rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;margin:2.4rem 0 .3rem;padding-top:1.6rem;border-top:2px solid var(--border)}
+  h2:first-of-type{border-top:0;padding-top:0;margin-top:0}
+  .h2sub{font-size:.9rem;color:var(--muted);margin-bottom:1.2rem;max-width:68ch}
+
+  .block{background:#fff;border:1px solid var(--border);border-radius:10px;margin-bottom:1.1rem;overflow:hidden}
+  .bhd{background:var(--stone);padding:.6rem .95rem;display:flex;align-items:center;gap:.7rem;flex-wrap:wrap;border-bottom:1px solid var(--border)}
+  .bhd .t{font-family:var(--cond);font-weight:700;font-size:.88rem;letter-spacing:.08em;text-transform:uppercase}
+  .bhd .meta{font-size:.75rem;color:var(--muted);font-variant-numeric:tabular-nums}
+  .bhd .meta b{color:var(--charcoal)}
+  .bhd .btns{margin-left:auto;display:flex;gap:.4rem}
+  .cp{display:inline-flex;align-items:center;gap:.4rem;font:600 .78rem/1 var(--body);background:var(--red);color:#fff;border:none;border-radius:6px;padding:.5rem .8rem;cursor:pointer}
+  .cp:hover{background:#c8161d}
+  .cp.ok{background:var(--green)}
+  .cp svg{width:14px;height:14px}
+  .bbody{padding:1.05rem 1.15rem}
+  .bbody p{margin:0 0 .85rem}
+  .bbody p:last-child{margin-bottom:0}
+  .bbody .subj{font-size:.85rem;color:var(--muted);border-bottom:1px dashed var(--border);padding-bottom:.7rem;margin-bottom:.9rem}
+  .bbody .subj b{color:var(--charcoal)}
+
+  /* Broadcast copy is read aloud, so it gets monospace and generous leading */
+  .script{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.88rem;line-height:1.9;white-space:pre-wrap}
+  .slate{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.76rem;color:var(--muted);background:#f7f6f2;border:1px solid var(--border);border-radius:6px;padding:.6rem .75rem;margin-bottom:.95rem;white-space:pre-wrap}
+  .say{background:#fffbe6;border-left:3px solid var(--yellow);padding:.15rem .4rem;border-radius:2px}
+
+  ul{margin:.3rem 0 .9rem;padding-left:1.15rem}
+  li{margin:.35rem 0}
+  .todo{background:#fffbe6;border:1px solid #e8d071;border-radius:8px;padding:.85rem 1rem;font-size:.9rem;margin-bottom:1.1rem}
+  .todo b{color:#5c4a10}
+
+  .assets{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem}
+  .asset{background:#fff;border:1px solid var(--border);border-radius:10px;overflow:hidden;text-decoration:none;color:inherit;display:block}
+  .asset img{width:100%;display:block;border-bottom:1px solid var(--border)}
+  .asset .ab{padding:.8rem .95rem}
+  .asset .an{font-family:var(--cond);font-weight:700;font-size:.95rem;letter-spacing:.04em;text-transform:uppercase}
+  .asset .ad{font-size:.8rem;color:var(--muted)}
+
+  @media(max-width:640px){
+    .bhd .btns{margin-left:0;width:100%}
+    h2{font-size:1.28rem}
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <h1>Promotion Kit</h1>
+  <span class="sub">Songs &amp; Stories of Hope &middot; Zion Lutheran, Fairbanks</span>
+  <a class="home" href="/zion">View the event page &rarr;</a>
+</div>
+
+<div class="wrap">
+
+  <div class="lede">
+    <p><b>Everything here is written to be copied and sent as-is.</b> Each block has its own Copy button &mdash; click it, then paste into Outlook, into a bulletin, or into the station's submission form.</p>
+    <p>The radio scripts show their <b>real word count and read time</b>, measured from the text itself at a normal announcer pace of 150 words a minute. If you edit a script, the numbers update as you type, so you can see whether it still fits the slot.</p>
+  </div>
+
+  <div class="facts">
+    <div><div class="k">What</div><div class="v">Songs &amp; Stories of Hope<small>Free concert &amp; message</small></div></div>
+    <div><div class="k">When</div><div class="v">Sat, Sept 26, 2026<small>2:00 &ndash; 3:30 PM</small></div></div>
+    <div><div class="k">Where</div><div class="v">Zion Lutheran Church<small>2982 Davis Road, Fairbanks</small></div></div>
+    <div><div class="k">Link</div><div class="v">/zion<small>lutheranindianministries.org/zion</small></div></div>
+  </div>
+
+  <!-- ────────────────────────────── EMAIL ────────────────────────────── -->
+  <h2>1 &middot; Email</h2>
+  <p class="h2sub">Three lengths. Use the invitation when you're writing to people directly, the bulletin blurb when you're asking another church to run it for you, and the text message when you're inviting one person from your phone.</p>
+
+  <div class="block">
+    <div class="bhd">
+      <span class="t">The invitation</span>
+      <span class="meta">Send to your own list &middot; forwardable</span>
+      <span class="btns"><button class="cp" data-copy="inv-body" data-subject="inv-subj">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
+    </div>
+    <div class="bbody">
+      <p class="subj"><b>Subject:</b> <span id="inv-subj">You're invited &mdash; a free afternoon of music and stories, Sept 26 in Fairbanks</span></p>
+      <div id="inv-body">
+        <p>Hello,</p>
+        <p>You're invited to <b>Songs &amp; Stories of Hope</b> &mdash; a free afternoon of music and honest stories at Zion Lutheran Church in Fairbanks.</p>
+        <p><b>Saturday, September 26 &middot; 2:00&ndash;3:30 PM<br>
+        Zion Lutheran Church, 2982 Davis Road, Fairbanks<br>
+        Free to attend &mdash; no ticket, nothing to sign up for</b></p>
+        <p>Becky Key is a singer and songwriter who has spent more than twenty years playing in churches and community halls. Her brother, Josh Vigran, is Zion's music director. Pastor Bobby Key tells the stories in between &mdash; the honest kind, about where hope actually comes from when life is hard.</p>
+        <p>Come as you are, bring your family, bring a friend. If you know someone who is carrying something heavy right now, this is an easy afternoon to invite them to.</p>
+        <p>Everything &mdash; the music, the people, a map &mdash; is here: <a href="https://www.lutheranindianministries.org/zion">lutheranindianministries.org/zion</a></p>
+        <p>Hope to see you there.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="block">
+    <div class="bhd">
+      <span class="t">The bulletin blurb</span>
+      <span class="meta">For another church's newsletter or Sunday bulletin</span>
+      <span class="btns"><button class="cp" data-copy="bul-body">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
+    </div>
+    <div class="bbody">
+      <div id="bul-body">
+        <p><b>Songs &amp; Stories of Hope</b> &mdash; Saturday, September 26, 2:00&ndash;3:30 PM at Zion Lutheran Church, 2982 Davis Road, Fairbanks. An afternoon of music and honest stories with singer-songwriter Becky Key, Zion music director Josh Vigran, and Pastor Bobby Key. Free to attend, everyone welcome. Details at lutheranindianministries.org/zion.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="block">
+    <div class="bhd">
+      <span class="t">The text message</span>
+      <span class="meta">Inviting one person from your phone</span>
+      <span class="btns"><button class="cp" data-copy="txt-body">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
+    </div>
+    <div class="bbody">
+      <div id="txt-body">
+        <p>Free afternoon of music and stories at Zion Lutheran in Fairbanks &mdash; Sat Sept 26, 2 to 3:30. Thought of you. Come with me? lutheranindianministries.org/zion</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────────────────────────── RADIO ────────────────────────────── -->
+  <h2>2 &middot; Radio public service announcements</h2>
+  <p class="h2sub">Written to be read out loud, not read off a page. Numbers and the web address are spelled the way an announcer says them, so nobody has to work it out live on air. Stations usually want a <b>:30</b>; send all three and let them pick.</p>
+
+  <div class="todo">
+    <b>Two things to confirm with each station before sending.</b> Every station handles free announcements differently, so a two-minute phone call saves a rejected submission: <b>(1)</b> where to send it &mdash; some want an email, some a web form, some a paper letter on letterhead; <b>(2)</b> how far ahead they need it. Ask for their lead time and work backwards from September 26. Then use the cover note in section 3.
+  </div>
+
+  <div class="block">
+    <div class="bhd">
+      <span class="t">:15 &mdash; short</span>
+      <span class="meta" data-count="s15">&nbsp;</span>
+      <span class="btns"><button class="cp" data-copy="s15" data-plain="1">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
+    </div>
+    <div class="bbody">
+      <div class="slate">PUBLIC SERVICE ANNOUNCEMENT
+ORGANIZATION:  Lutheran Indian Ministries / Zion Lutheran Church
+SUBJECT:       Songs &amp; Stories of Hope — free community concert
+LENGTH:        :15
+RUN DATES:     On approval through September 26, 2026
+KILL DATE:     September 26, 2026</div>
+      <div class="script" contenteditable="true" spellcheck="false" id="s15">Music, true stories, and good news &mdash; free, at Zion Lutheran Church in Fairbanks. Saturday, September twenty-sixth, two to three-thirty in the afternoon. Everyone is welcome. Find it online at Lutheran Indian Ministries dot org, slash Zion.</div>
+    </div>
+  </div>
+
+  <div class="block">
+    <div class="bhd">
+      <span class="t">:30 &mdash; the one most stations want</span>
+      <span class="meta" data-count="s30">&nbsp;</span>
+      <span class="btns"><button class="cp" data-copy="s30" data-plain="1">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
+    </div>
+    <div class="bbody">
+      <div class="slate">PUBLIC SERVICE ANNOUNCEMENT
+ORGANIZATION:  Lutheran Indian Ministries / Zion Lutheran Church
+SUBJECT:       Songs &amp; Stories of Hope — free community concert
+LENGTH:        :30
+RUN DATES:     On approval through September 26, 2026
+KILL DATE:     September 26, 2026</div>
+      <div class="script" contenteditable="true" spellcheck="false" id="s30">Zion Lutheran Church and Lutheran Indian Ministries invite you to Songs and Stories of Hope &mdash; an afternoon of music and honest stories, free to everyone.
+
+Singer and songwriter Becky Key, Zion music director Josh Vigran, and Pastor Bobby Key. Songs you can sing along to, and real stories about where hope comes from when life gets hard.
+
+Saturday, September twenty-sixth, two to three-thirty in the afternoon, at Zion Lutheran Church, twenty-nine eighty-two Davis Road in Fairbanks. Admission is free.</div>
+    </div>
+  </div>
+
+  <div class="block">
+    <div class="bhd">
+      <span class="t">:60 &mdash; long</span>
+      <span class="meta" data-count="s60">&nbsp;</span>
+      <span class="btns"><button class="cp" data-copy="s60" data-plain="1">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
+    </div>
+    <div class="bbody">
+      <div class="slate">PUBLIC SERVICE ANNOUNCEMENT
+ORGANIZATION:  Lutheran Indian Ministries / Zion Lutheran Church
+SUBJECT:       Songs &amp; Stories of Hope — free community concert
+LENGTH:        :60
+RUN DATES:     On approval through September 26, 2026
+KILL DATE:     September 26, 2026</div>
+      <div class="script" contenteditable="true" spellcheck="false" id="s60">Some afternoons you just need good music and something encouraging to take home.
+
+Zion Lutheran Church and Lutheran Indian Ministries invite you to Songs and Stories of Hope, a free afternoon of music and honest storytelling in Fairbanks.
+
+Becky Key is a singer and songwriter who has spent more than twenty years playing in churches and community halls. Her brother, Josh Vigran, is Zion's music director. Together they'll play songs you can sing along to. In between, Pastor Bobby Key tells the honest kind of story &mdash; about where hope actually comes from when life gets hard.
+
+There's no ticket and no charge. Bring your family. Bring a friend who could use an afternoon like this.
+
+Songs and Stories of Hope. Saturday, September twenty-sixth, two to three-thirty in the afternoon, at Zion Lutheran Church, twenty-nine eighty-two Davis Road in Fairbanks.
+
+That's Lutheran Indian Ministries dot org, slash Zion. Everyone is welcome.</div>
+    </div>
+  </div>
+
+  <!-- ────────────────────────────── COVER NOTE ────────────────────────────── -->
+  <h2>3 &middot; The note that goes with it</h2>
+  <p class="h2sub">Paste this into the email carrying the scripts. Stations turn down announcements that arrive with no dates, no contact, and no idea who's asking &mdash; this covers all three. Fill in the two blanks before sending.</p>
+
+  <div class="block">
+    <div class="bhd">
+      <span class="t">Station cover note</span>
+      <span class="meta">Two blanks to fill in</span>
+      <span class="btns"><button class="cp" data-copy="cov-body" data-subject="cov-subj">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
+    </div>
+    <div class="bbody">
+      <p class="subj"><b>Subject:</b> <span id="cov-subj">PSA request &mdash; free community concert, Fairbanks, September 26</span></p>
+      <div id="cov-body">
+        <p>Hello <span class="say">[station / name]</span>,</p>
+        <p>I'm writing to ask whether you would run a public service announcement for a free community event in Fairbanks.</p>
+        <p><b>Songs &amp; Stories of Hope</b> is an afternoon of music and storytelling at Zion Lutheran Church on <b>Saturday, September 26, 2:00&ndash;3:30 PM</b>. It's free, open to everyone, and nothing is being sold or collected. It's hosted by Zion Lutheran Church together with Lutheran Indian Ministries, a nonprofit that has served Native people across Alaska and the lower forty-eight since 1985.</p>
+        <p>I've included scripts at fifteen, thirty and sixty seconds &mdash; please use whichever fits your rotation, and edit freely to match your on-air style. We'd ask that they run any time between now and <b>September 26</b>, and stop after that date.</p>
+        <p>Full event details, including a poster you're welcome to use: <a href="https://www.lutheranindianministries.org/zion">lutheranindianministries.org/zion</a></p>
+        <p>If you need anything else from us &mdash; letterhead, nonprofit documentation, or a recorded read &mdash; just say the word and I'll get it to you.</p>
+        <p>Thank you for considering it.</p>
+        <p>Robert Heffle<br>
+        Lutheran Indian Ministries<br>
+        <span class="say">[phone]</span> &middot; rheffle@lutheranindianministries.org</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────────────────────────── ASSETS ────────────────────────────── -->
+  <h2>4 &middot; What to attach</h2>
+  <p class="h2sub">Send the poster with anything going to a station, a church office, or social media. Send the link with everything.</p>
+
+  <div class="assets">
+    <a class="asset" href="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_1400/zion-songs/poster" target="_blank" rel="noopener">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,w_600/zion-songs/poster" alt="Songs &amp; Stories of Hope poster">
+      <div class="ab">
+        <div class="an">The poster</div>
+        <div class="ad">Opens full size &mdash; right-click to save, then attach.</div>
+      </div>
+    </a>
+    <a class="asset" href="/zion" target="_blank" rel="noopener">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:good,w_600/v1787582908/orbis/zion-songs-hero-2026-08-24.png" alt="The event page">
+      <div class="ab">
+        <div class="an">The event page</div>
+        <div class="ad">lutheranindianministries.org/zion &mdash; short enough to say on air.</div>
+      </div>
+    </a>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  // ── Read time, measured from the actual script text ──────────────────────
+  // 150 words a minute is a normal announcer pace. Shown live so an edited
+  // script can be checked against its slot without anyone using a stopwatch.
+  var WPM = 150, TARGET = {s15:15, s30:30, s60:60};
+
+  function words(el){
+    return (el.innerText || '').trim().split(/\s+/).filter(Boolean).length;
+  }
+  function tally(id){
+    var el = document.getElementById(id);
+    var out = document.querySelector('[data-count="'+id+'"]');
+    if(!el || !out) return;
+    var w = words(el), secs = Math.round(w / WPM * 60), target = TARGET[id];
+    var over = secs - target;
+    var verdict, color;
+    if(Math.abs(over) <= 2){ verdict = 'fits'; color = '#5f8a4f'; }
+    else if(over > 0){ verdict = over + 's long'; color = '#b42318'; }
+    else { verdict = Math.abs(over) + 's short'; color = '#8a6d1f'; }
+    out.innerHTML = '<b>' + w + '</b> words &middot; <b>' + secs + 's</b> read &middot; ' +
+                    '<span style="color:' + color + ';font-weight:600">' + verdict + '</span>';
+  }
+  Object.keys(TARGET).forEach(function(id){
+    var el = document.getElementById(id);
+    if(!el) return;
+    tally(id);
+    el.addEventListener('input', function(){ tally(id); });
+  });
+
+  // ── Copy ─────────────────────────────────────────────────────────────────
+  function flash(btn, msg){
+    var was = btn.innerHTML;
+    btn.classList.add('ok');
+    btn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>' + msg;
+    setTimeout(function(){ btn.classList.remove('ok'); btn.innerHTML = was; }, 2000);
+  }
+  function selectFallback(el, btn){
+    try{
+      var r = document.createRange(); r.selectNode(el);
+      var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+      var ok = document.execCommand('copy'); s.removeAllRanges();
+      flash(btn, ok ? 'Copied' : 'Press ⌘C');
+    }catch(e){ flash(btn, 'Press ⌘C'); }
+  }
+
+  document.querySelectorAll('.cp').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var el = document.getElementById(btn.dataset.copy);
+      if(!el) return;
+
+      // Scripts go to the clipboard as plain text — a station pasting into
+      // their own system does not want our markup coming with it.
+      if(btn.dataset.plain){
+        var txt = el.innerText.trim();
+        if(navigator.clipboard && navigator.clipboard.writeText){
+          navigator.clipboard.writeText(txt).then(function(){ flash(btn,'Copied'); },
+                                                  function(){ selectFallback(el, btn); });
+        } else { selectFallback(el, btn); }
+        return;
+      }
+
+      // Emails keep their formatting, and carry the subject line along as text.
+      var subjEl = btn.dataset.subject ? document.getElementById(btn.dataset.subject) : null;
+      var html = el.innerHTML;
+      var plain = el.innerText.trim();
+      if(subjEl){
+        plain = 'Subject: ' + subjEl.innerText.trim() + '\n\n' + plain;
+      }
+      if(navigator.clipboard && window.ClipboardItem){
+        navigator.clipboard.write([new ClipboardItem({
+          'text/html':  new Blob([html],  {type:'text/html'}),
+          'text/plain': new Blob([plain], {type:'text/plain'})
+        })]).then(function(){ flash(btn,'Copied'); }, function(){ selectFallback(el, btn); });
+      } else { selectFallback(el, btn); }
+    });
+  });
+})();
+</script>
+</body>
+</html>

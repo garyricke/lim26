@@ -46,6 +46,9 @@
 # while LIM stays in the domain, which is what Robert and Bill each asked for.
 /songs-and-stories                               /songs-and-stories.html          200
 /zion                                            /songs-and-stories               301
+# Internal promotion kit for the concert — copy blocks for email, radio and print.
+# Safe as a 200 because the page's own assets are root-absolute or on Cloudinary.
+/zion/promo                                      /zion-promo-kit.html             200
 /songs                                           /songs-and-stories               301
 /board-report                                    /docs-board-report.html          200
 /camp-report                                     /docs-camp-perkins-report.html   200
