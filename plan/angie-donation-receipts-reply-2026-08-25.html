@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Reply to Angie — donation receipts (25 Aug 2026)</title>
+<style>
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif;background:#f5f4f0;color:#282924;line-height:1.6;margin:0;padding:2rem 1rem 4rem}
+  .wrap{max-width:680px;margin:0 auto}
+  .bar{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;margin-bottom:1rem}
+  .copy{display:inline-flex;align-items:center;gap:.5rem;font:600 .9rem/1 -apple-system,system-ui,sans-serif;background:#ED1C24;color:#fff;border:none;border-radius:8px;padding:.7rem 1.15rem;cursor:pointer}
+  .copy:hover{background:#c8161d}
+  .copy svg{width:16px;height:16px}
+  .hint{font-size:.82rem;color:#5a5a52}
+  .subject{font-size:.82rem;color:#5a5a52;margin:.25rem 0 1rem}
+  .subject b{color:#282924}
+  .email{background:#fff;border:1px solid #d9d6ce;border-radius:12px;padding:1.75rem 1.9rem;box-shadow:0 2px 10px rgba(0,0,0,.05)}
+  /* email body styles kept simple & inline-safe so they survive a paste */
+  #body p{margin:0 0 1rem}
+  #body h3{font-size:1rem;margin:1.6rem 0 .4rem;color:#282924}
+  #body ul,#body ol{margin:.2rem 0 1rem;padding-left:1.25rem}
+  #body li{margin:.4rem 0}
+  #body a{color:#ED1C24}
+  #body .sig{color:#5a5a52}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="bar">
+    <button class="copy" id="copyBtn">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span class="hint" id="copyHint">Click, then reply to Angie's message and paste.</span>
+  </div>
+  <p class="subject"><b>Suggested subject:</b> RE: Lutheran Indian Ministries online donations &mdash; found the likely cause</p>
+
+  <div class="email">
+    <div id="body">
+      <p>Angie,</p>
+
+      <p>Thank you for catching this and for testing it with your own gift &mdash; that test is what makes it diagnosable.</p>
+
+      <p><b>First, the reassuring part: the gifts themselves are fine.</b> Money is being taken and recorded normally. What's broken is only the receipt email, which is a separate step.</p>
+
+      <h3>No, it isn't the new website</h3>
+      <p>I checked this carefully because it was the obvious suspect:</p>
+      <ul>
+        <li><b>The giving page hasn't been changed since July 31</b> &mdash; nothing at all on or near August 15.</li>
+        <li><b>The Blackbaud form it uses hasn't changed since July 6.</b> Same form, same ID.</li>
+        <li>The site went live before both of those dates, so August 15 doesn't line up with anything on our side.</li>
+      </ul>
+      <p>There's also a reason the website couldn't cause this even in principle. The receipt isn't sent by our page &mdash; our page just displays your Blackbaud form. When someone gives, <b>Blackbaud's own servers send the receipt</b>. The page it happens to sit on plays no part in that, which is why moving the form to a new website wouldn't stop the email.</p>
+
+      <h3>What I did find</h3>
+      <p>Blackbaud sends those receipts <i>as</i> Lutheran Indian Ministries &mdash; the donor sees them coming from your address, not from Blackbaud. For that to be allowed, our domain has to publicly vouch for Blackbaud, using two settings that live in our domain records.</p>
+      <p><b>Neither one is there.</b> I checked our live domain records this morning. They authorise Microsoft 365 to send email as Lutheran Indian Ministries and nothing else &mdash; there is no permission for Blackbaud, and no signing key for Blackbaud either. As far as the internet is concerned, when Blackbaud tries to send a receipt in your name, it isn't on the approved list.</p>
+      <p>This is almost certainly a long-standing gap rather than something that broke this month. What's changed is the enforcement: <b>Blackbaud has been tightening exactly this during 2026, and from their documentation they now decline to send email at all for domains that haven't set up the signing key.</b> That would explain everything you're seeing &mdash; a clean stop on a particular date, nothing changed on your end, no receipt to the donor and therefore no copy to you.</p>
+      <p>I want to be straight that this is the strongest explanation rather than a confirmed one. The next step settles it.</p>
+
+      <h3>The one check that will confirm it &mdash; five minutes</h3>
+      <ol>
+        <li><b>In Blackbaud, find the email authentication or sender settings</b> for your account. If our domain is showing as unverified, failing, or needing action, that's the answer and we're done diagnosing.</li>
+        <li><b>Check your Junk folder and your Microsoft 365 quarantine</b> for the receipt from your test gift. If it's sitting in either, the email is being sent but blocked on arrival &mdash; same root cause, same fix.</li>
+      </ol>
+
+      <h3>The fix, and who does what</h3>
+      <p><b>You:</b> ask Blackbaud support for the email authentication records for our account &mdash; the signing key, and the entry that adds them to our approved-senders list. They're specific to your account, so only they can issue them. Tell them online donation receipts have stopped sending; they'll know exactly what you mean.</p>
+      <p><b>Me:</b> send them over and I'll add them to our domain records the same day. It's a few minutes' work and takes about an hour to take effect worldwide. I'll then make a test gift myself and confirm the receipt actually arrives, rather than assuming it does.</p>
+      <p>While you're speaking to them, one more thing worth asking: <b>whether they can re-send the acknowledgements for gifts received since August 15</b> once mail is flowing again. Those donors still need their receipts, and it's better coming from the system than being rebuilt by hand.</p>
+
+      <p>Happy to get on a call with Blackbaud support with you if that's easier &mdash; this is the sort of thing that goes faster with the technical side on the line.</p>
+
+      <p class="sig">Gary</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copyHint');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your reply':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  document.getElementById('copyBtn').addEventListener('click',function(){
+    var el=document.getElementById('body');
+    if(navigator.clipboard&&window.ClipboardItem){
+      var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];
+      navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your reply (formatting included)',true);},function(){selectFallback(el);});
+    } else { selectFallback(el); }
+  });
+</script>
+</body>
+</html>
