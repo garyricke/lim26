@@ -1,0 +1,95 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Angie — Blackbaud DNS records reply (26 Aug 2026)</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#c8161d; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into your email (formatting included).</span>
+  </div>
+
+  <div style="max-width:600px; margin:0 0 20px; font-size:13px; color:#4a5568; border-bottom:1px solid #e6e8ec; padding-bottom:14px;">
+    <strong style="color:#1a2535;">To:</strong> Angie Pantazon &nbsp;·&nbsp; <strong style="color:#1a2535;">Subject:</strong> RE: Lutheran Indian Ministries online donations
+  </div>
+
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+
+    <p style="margin:0 0 16px;">Angie,</p>
+
+    <p style="margin:0 0 16px;">This is exactly what I needed — thank you. Blackbaud is asking for three records. <strong>Two of them we add. The third we must not.</strong></p>
+
+    <h2 style="margin:28px 0 10px; font-size:17px; font-weight:700; color:#1a2535;">Skip the DMARC one — this part matters</h2>
+
+    <p style="margin:0 0 16px;">We already have a DMARC record on our domain, and it's working. Blackbaud says the same thing themselves, right on the screen you sent — it's the grey italic line most people scroll past:</p>
+
+    <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:good,w_1100/v1787761496/orbis/lim-blackbaud-dmarc-skip.png" alt="Blackbaud DMARC section: 'If you already have an existing DMARC policy record, you may skip this step.'" style="display:block; width:100%; max-width:600px; height:auto; border:1px solid #dce3ed; border-radius:10px;">
+    <p style="margin:8px 0 16px; font-size:13px; color:#4a5568;">From your screenshot — Blackbaud's own instruction to skip.</p>
+
+    <p style="margin:0 0 16px;">The reason to be careful here: a domain is allowed exactly one DMARC record. Add a second and they don't combine — they cancel, and DMARC stops working for <em>everything</em>, staff Outlook email included. So that one record could turn a donation-receipt problem into an all-staff email problem. We leave it alone.</p>
+
+    <p style="margin:0 0 16px;">One small thing on the values you pasted: the text under <code style="font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:13px; background:#f5f4f0; padding:1px 5px; border-radius:4px;">_dmarc</code> is actually the DKIM key pasted a second time. Easy slip, and no harm done — that's the record we're skipping anyway.</p>
+
+    <h2 style="margin:28px 0 10px; font-size:17px; font-weight:700; color:#1a2535;">The two records to add</h2>
+
+    <p style="margin:0 0 16px;">Both are <strong>TXT</strong> records, both go in at Network Solutions under Advanced DNS, same place we made the two website changes in July. Nothing gets removed or edited — these are additions alongside what's already there.</p>
+
+    <table role="presentation" cellpadding="0" cellspacing="0" style="width:100%; max-width:600px; border-collapse:collapse; margin:0 0 8px; font-size:14px;">
+      <tr>
+        <td style="padding:14px 14px 6px; background:#f5f4f0; border:1px solid #dce3ed; border-bottom:none; border-radius:10px 10px 0 0; font-weight:700; color:#1a2535;">1 &nbsp;·&nbsp; Domain ownership</td>
+      </tr>
+      <tr>
+        <td style="padding:0 14px 14px; background:#f5f4f0; border:1px solid #dce3ed; border-top:none; border-radius:0 0 10px 10px;">
+          <div style="margin:8px 0 2px; font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:#4a5568;">Name / Host</div>
+          <div style="font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:13px; word-break:break-all;">lutheranindianministries.org</div>
+          <div style="margin:12px 0 2px; font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:#4a5568;">Value</div>
+          <div style="font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:13px; word-break:break-all;">4C80648E0F50EFF64722CC5D8ADF51DF3FEA8111</div>
+          <div style="margin:12px 0 2px; font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:#4a5568;">TTL</div>
+          <div style="font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:13px;">3600</div>
+        </td>
+      </tr>
+    </table>
+
+    <p style="margin:0 0 20px; font-size:13px; color:#4a5568;">If the Name field won't take the full domain, leave it blank or enter <code style="font-family:ui-monospace,SFMono-Regular,Menlo,monospace; background:#f5f4f0; padding:1px 5px; border-radius:4px;">@</code> — Network Solutions fills in the domain itself.</p>
+
+    <table role="presentation" cellpadding="0" cellspacing="0" style="width:100%; max-width:600px; border-collapse:collapse; margin:0 0 8px; font-size:14px;">
+      <tr>
+        <td style="padding:14px 14px 6px; background:#f5f4f0; border:1px solid #dce3ed; border-bottom:none; border-radius:10px 10px 0 0; font-weight:700; color:#1a2535;">2 &nbsp;·&nbsp; DKIM signing key</td>
+      </tr>
+      <tr>
+        <td style="padding:0 14px 14px; background:#f5f4f0; border:1px solid #dce3ed; border-top:none; border-radius:0 0 10px 10px;">
+          <div style="margin:8px 0 2px; font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:#4a5568;">Name / Host</div>
+          <div style="font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:13px; word-break:break-all;">sm._domainkey.lutheranindianministries.org</div>
+          <div style="margin:12px 0 2px; font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:#4a5568;">Value</div>
+          <div style="font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:13px; word-break:break-all; line-height:1.5;">v=DKIM1;k=rsa;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3g1L9T0x+yxeqn7oPSr0z9L2wiCgvArWeklnPklDjz+w1KK+bKq/ViKBMf4qTwypNuIR740ZFXmNjuIJ+Wbj1vyxRyWdszDxBRu6AEQ432RSpwo4OIUez1kM3Bi76VrCnJQ3ijxMxQhW3gasAtL0qpTT6QX/PLA3wR4fAyOrthwIDAQAB;n=blackbaud</div>
+          <div style="margin:12px 0 2px; font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:#4a5568;">TTL</div>
+          <div style="font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:13px;">3600</div>
+        </td>
+      </tr>
+    </table>
+
+    <p style="margin:0 0 16px; font-size:13px; color:#4a5568;">The long one has to go in as a single unbroken line — no spaces, no line breaks. Copy it straight from Blackbaud's copy button rather than retyping it; one wrong character and it silently fails.</p>
+
+    <h2 style="margin:28px 0 10px; font-size:17px; font-weight:700; color:#1a2535;">A correction to what I sent you yesterday</h2>
+
+    <p style="margin:0 0 16px;">I said we'd also need to add Blackbaud to our approved-senders list. Now that I can see what they're actually asking for, that isn't part of it — the signing key is what does that job. So our existing sender settings stay exactly as they are. Two records added, nothing changed, nothing removed.</p>
+
+    <h2 style="margin:28px 0 10px; font-size:17px; font-weight:700; color:#1a2535;">After they're in</h2>
+
+    <p style="margin:0 0 16px;">Blackbaud's screen will flip those two from <em>Unverified</em> to verified on its own. They say allow up to 72 hours; in practice it's usually much faster, but I wouldn't count on it being done within the hour. Once both show verified, I'll make a test gift and confirm a receipt actually lands — rather than assuming it does — and tell you either way.</p>
+
+    <p style="margin:0 0 16px;">Happy to sit on a screen-share while you add them if you'd rather not do it alone. Ten minutes, and I can check each value as it goes in.</p>
+
+    <p style="margin:0 0 16px;">One thing still worth asking Blackbaud while you have them: whether they can re-send the acknowledgements for gifts received since 15 August once mail is flowing again. Those donors still need their receipts, and it's better coming from the system than rebuilt by hand.</p>
+
+    <p style="margin:24px 0 0;">Gary</p>
+
+  </div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
