@@ -18,24 +18,22 @@
 
     <p style="margin:0 0 16px;">Angie,</p>
 
-    <p style="margin:0 0 16px;">You sent me exactly what I needed and then I left you waiting a week. That's on me, and I'm sorry — you asked whether you needed to do anything else and the answer has been sitting in my drafts since Tuesday. Nothing is waiting on you.</p>
+    <p style="margin:0 0 16px;">I left you waiting a week on this — sorry. Nothing was ever needed from you; the answer was sitting in my drafts.</p>
 
-    <p style="margin:0 0 16px;">Here's where it stands. Blackbaud is asking for three records. <strong>Two of them we add. The third we must not.</strong> I re-checked our live domain records this morning, so this is current as of today: neither of the two is in place yet, which means receipts are still not going out.</p>
+    <p style="margin:0 0 16px;">Blackbaud asks for three records. <strong>Add two. Do not add the third.</strong></p>
 
     <h2 style="margin:28px 0 10px; font-size:17px; font-weight:700; color:#1a2535;">Skip the DMARC one — this part matters</h2>
 
-    <p style="margin:0 0 16px;">We already have a DMARC record on our domain, and it's working. Blackbaud says the same thing themselves, right on the screen you sent — it's the grey italic line most people scroll past:</p>
+    <p style="margin:0 0 16px;">We already have one, and Blackbaud says to skip it themselves — the grey italic line on the screen you sent:</p>
 
     <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:good,w_1100/v1787761496/orbis/lim-blackbaud-dmarc-skip.png" alt="Blackbaud DMARC section: 'If you already have an existing DMARC policy record, you may skip this step.'" style="display:block; width:100%; max-width:600px; height:auto; border:1px solid #dce3ed; border-radius:10px;">
     <p style="margin:8px 0 16px; font-size:13px; color:#4a5568;">From your screenshot — Blackbaud's own instruction to skip.</p>
 
-    <p style="margin:0 0 16px;">The reason to be careful here: a domain is allowed exactly one DMARC record. Add a second and they don't combine — they cancel, and DMARC stops working for <em>everything</em>, staff Outlook email included. So that one record could turn a donation-receipt problem into an all-staff email problem. We leave it alone.</p>
-
-    <p style="margin:0 0 16px;">One small thing on the values you pasted: the text under <code style="font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:13px; background:#f5f4f0; padding:1px 5px; border-radius:4px;">_dmarc</code> is actually the DKIM key pasted a second time. Easy slip, and no harm done — that's the record we're skipping anyway.</p>
+    <p style="margin:0 0 16px;">A domain gets exactly one DMARC record. A second doesn't combine with the first, it cancels it — and DMARC stops working for <em>all</em> our email, staff Outlook included. That's how a receipt problem becomes an everyone problem.</p>
 
     <h2 style="margin:28px 0 10px; font-size:17px; font-weight:700; color:#1a2535;">The two records to add</h2>
 
-    <p style="margin:0 0 16px;">Both are <strong>TXT</strong> records, both go in at Network Solutions under Advanced DNS, same place we made the two website changes in July. Nothing gets removed or edited — these are additions alongside what's already there.</p>
+    <p style="margin:0 0 16px;">Both are <strong>TXT</strong> records, added at Network Solutions under Advanced DNS — same screen as the website change in July. Nothing gets removed or edited; these sit alongside what's there.</p>
 
     <table role="presentation" cellpadding="0" cellspacing="0" style="width:100%; max-width:600px; border-collapse:collapse; margin:0 0 8px; font-size:14px;">
       <tr>
@@ -73,26 +71,20 @@
 
     <p style="margin:0 0 16px; font-size:13px; color:#4a5568;">The long one has to go in as a single unbroken line — no spaces, no line breaks. Copy it straight from Blackbaud's copy button rather than retyping it; one wrong character and it silently fails.</p>
 
-    <h2 style="margin:28px 0 10px; font-size:17px; font-weight:700; color:#1a2535;">A correction to what I told you on the 25th</h2>
-
-    <p style="margin:0 0 16px;">I said we'd also need to add Blackbaud to our approved-senders list. Now that I can see what they're actually asking for, that isn't part of it — the signing key is what does that job. So our existing sender settings stay exactly as they are. Two records added, nothing changed, nothing removed.</p>
-
     <h2 style="margin:28px 0 10px; font-size:17px; font-weight:700; color:#1a2535;">After they're in</h2>
 
-    <p style="margin:0 0 16px;">I've put up a page that checks this for you, so you don't have to email me and wait to find out whether it worked:</p>
+    <p style="margin:0 0 16px;">You don't have to email me to find out whether it worked:</p>
 
     <p style="margin:0 0 8px;">
       <a href="https://www.lutheranindianministries.org/receipt-check" style="display:inline-block; background:#c8161d; color:#ffffff; text-decoration:none; font-weight:600; font-size:15px; padding:12px 22px; border-radius:8px;">Check whether it worked &rarr;</a>
     </p>
     <p style="margin:0 0 16px; font-size:13px; color:#4a5568;">lutheranindianministries.org/receipt-check &mdash; open it any time, it reads the live records fresh.</p>
 
-    <p style="margin:0 0 16px;">Add the two records, then open that page. It'll tell you in plain English whether they've landed. It also watches the records that carry your Outlook email and warns you if either of those changed by accident, which is the one genuine risk in editing that screen.</p>
+    <p style="margin:0 0 16px;">Add the records, then open it. It also watches the records carrying your Outlook email and warns you if one changed by accident &mdash; the only real risk on that screen. Red right after saving is normal; records can take up to 72 hours to spread. Once it's green I'll make a test gift and confirm a receipt actually arrives.</p>
 
-    <p style="margin:0 0 16px;">Don't be alarmed if it still shows red right after you save &mdash; records can take up to 72 hours to spread, though it's often much quicker. Once it goes green, I'll make a test gift and confirm a receipt actually arrives rather than assuming it does, and tell you either way.</p>
+    <p style="margin:0 0 16px;">I'm free this afternoon and most of tomorrow &mdash; send a time and I'll sit on a screen-share while you add them, ten minutes. Or just do it and tell me when they're in.</p>
 
-    <p style="margin:0 0 16px;">Given this has already run three weeks, let's not trade any more emails than we have to. I'm free this afternoon and most of tomorrow — send me a time and I'll sit on a screen-share while you add them. Ten minutes, and I can check each value as it goes in. If you'd rather just do it, that's fine too; tell me when they're in and I'll take it from there.</p>
-
-    <p style="margin:0 0 16px;">One thing still worth asking Blackbaud while you have them: whether they can re-send the acknowledgements for gifts received since 15 August once mail is flowing again. Those donors still need their receipts, and it's better coming from the system than rebuilt by hand.</p>
+    <p style="margin:0 0 16px;">One thing to ask Blackbaud while you have them: can they re-send the acknowledgements for gifts since 15 August once mail is flowing? Those donors still need receipts, and better from the system than rebuilt by hand.</p>
 
     <p style="margin:24px 0 0;">Gary</p>
 
