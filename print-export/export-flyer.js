@@ -66,6 +66,23 @@ const FLYERS = [
     expectPages: 1
   },
   {
+    id: 'zion-poster',
+    kind: 'sheet',
+    html: 'flyer-zion-songs-stories-2026.html',
+    file: 'flyer-zion-songs-stories-2026',
+    download: 'LIM-Zion-Songs-and-Stories-2026',
+    expectPages: 1
+  },
+  {
+    // Two 8.5 x 5.5in handouts on one letter sheet, guillotined down the middle.
+    id: 'zion-half',
+    kind: 'sheet',
+    html: 'flyer-zion-songs-stories-half.html',
+    file: 'flyer-zion-songs-stories-half',
+    download: 'LIM-Zion-Songs-and-Stories-Half-Page',
+    expectPages: 1
+  },
+  {
     id: 'verse-jars',
     kind: 'sheet',
     html: 'verse-jars.html',

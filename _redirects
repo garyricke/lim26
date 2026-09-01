@@ -49,6 +49,10 @@
 # Internal promotion kit for the concert — copy blocks for email, radio and print.
 # Safe as a 200 because the page's own assets are root-absolute or on Cloudinary.
 /zion/promo                                      /zion-promo-kit.html             200
+# Print-ready posters. Robert hands these to a print shop, so they need a stem
+# short enough to say on the phone. /zion/half is the 2-up cut sheet.
+/zion/poster                                     /flyer-zion-songs-stories-2026.html   200
+/zion/half                                       /flyer-zion-songs-stories-half.html   200
 /songs                                           /songs-and-stories               301
 /board-report                                    /docs-board-report.html          200
 /camp-report                                     /docs-camp-perkins-report.html   200

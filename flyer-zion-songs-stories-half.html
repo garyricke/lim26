@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Songs & Stories of Hope — half-page handouts, two per letter sheet. Zion Lutheran Church, Fairbanks, September 26, 2026.">
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="icon" type="image/svg+xml" href="brand/lim-favicon-2026-black-back.svg">
+  <title>Songs &amp; Stories of Hope · Half-page handouts, 2-up · Zion Lutheran Church</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* Two identical 8.5 x 5.5in handouts stacked on one letter sheet. The print
+       shop runs the sheet, then guillotines once along the centre line — two
+       handouts per sheet, so a hundred flyers costs fifty sheets of paper. */
+    :root{
+      --navy:#1B2A4A; --navy-d:#131f38; --gold:#C08A3E; --gold-lt:#DCA85C;
+      --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+      --serif:'Merriweather',Georgia,serif;
+      --body:'Open Sans',system-ui,sans-serif;
+    }
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{background:#3a3a3a;font-family:var(--body);padding:28px 16px 60px}
+    img{display:block;max-width:100%}
+
+    .sheet{
+      width:8.5in; height:11in;
+      margin:0 auto;
+      background:#fff;
+      position:relative;
+      overflow:hidden;
+      box-shadow:0 8px 40px rgba(0,0,0,.45);
+    }
+
+    /* The cut guide. Hairline, centred, prints faintly so the shop can see it. */
+    .cutline{
+      position:absolute; left:0; right:0; top:5.5in;
+      border-top:.5pt dashed rgba(255,255,255,.55);
+      z-index:5; pointer-events:none;
+    }
+    .cutline::after{
+      content:'cut here';
+      position:absolute; right:6px; top:3px;
+      font-family:var(--cond); font-size:7pt; letter-spacing:.18em;
+      text-transform:uppercase; color:rgba(255,255,255,.5);
+    }
+
+    /* ── One handout: 8.5 x 5.5in, photo left, words right ── */
+    .half{
+      width:8.5in; height:5.5in;
+      background:var(--navy); color:#fff;
+      display:grid; grid-template-columns:3.35in 1fr;
+      overflow:hidden;
+    }
+    .half .photo{position:relative; overflow:hidden}
+    .half .photo img{width:100%;height:100%;object-fit:cover;object-position:56% 22%}
+    .half .photo::after{
+      content:''; position:absolute; inset:0;
+      background:linear-gradient(90deg,rgba(19,31,56,0) 58%,rgba(19,31,56,.55) 84%,var(--navy) 100%);
+    }
+    .free{
+      position:absolute; top:.26in; left:.26in;
+      background:var(--gold); color:#fff;
+      font-family:var(--cond); font-weight:800; text-transform:uppercase;
+      font-size:12.5px; letter-spacing:.16em; padding:6px 14px; border-radius:99px;
+      z-index:2;
+    }
+
+    .half .body{padding:.4in .46in .34in .34in; display:flex; flex-direction:column}
+    .half h1{
+      font-family:var(--cond); font-weight:800; text-transform:uppercase;
+      font-size:52px; line-height:1; letter-spacing:.01em;
+    }
+    .half h1 .amp{color:var(--gold-lt)}
+    .half h1 .of{
+      display:block; font-family:var(--serif); font-style:italic;
+      font-weight:400; text-transform:none; font-size:31px;
+      letter-spacing:0; margin-top:.04em;
+    }
+    .half .tagline{
+      font-family:var(--cond); font-weight:600; text-transform:uppercase;
+      font-size:13.5px; letter-spacing:.06em; line-height:1.42;
+      margin:.13in 0 0;
+    }
+    .half .tagline .hope{color:var(--gold-lt)}
+    .half .rule{height:3px;width:.95in;background:var(--gold);border-radius:99px;margin:.15in 0}
+    .half .blurb{font-size:10.5px; line-height:1.6; color:rgba(255,255,255,.85)}
+    .half .blurb b{color:#fff}
+
+    .half .when{padding-top:.18in}
+    .half .when .v{
+      font-family:var(--cond); font-weight:700; text-transform:uppercase;
+      font-size:19px; line-height:1.2; letter-spacing:.02em;
+    }
+    .half .when .v + .v{margin-top:3px}
+    .half .when small{
+      display:block; font-family:var(--body); font-weight:400;
+      text-transform:none; letter-spacing:0; font-size:10.5px;
+      color:rgba(255,255,255,.7); margin-top:2px;
+    }
+    .half .url{
+      font-family:var(--cond); font-weight:700; text-transform:uppercase;
+      font-size:15px; letter-spacing:.05em; color:var(--gold-lt);
+      margin-top:auto; padding-top:.18in;
+      display:flex; align-items:center; justify-content:space-between; gap:.2in;
+    }
+    .half .url img{height:26px; width:auto}
+
+    /* Tiny export-stamp baked into the PDF */
+    .print-stamp{
+      position:absolute; bottom:5px; right:12px;
+      font-family:var(--cond); font-size:7px; letter-spacing:.16em;
+      color:rgba(255,255,255,.4); text-transform:uppercase;
+      z-index:10; pointer-events:none;
+    }
+
+    /* ── Toolbar (screen only) ── */
+    .toolbar{
+      max-width:8.5in; margin:0 auto 16px;
+      display:flex; gap:10px; justify-content:flex-end; align-items:center;
+    }
+    .toolbar .toolbar-stamp{
+      font-family:var(--cond); font-weight:600; font-size:11px;
+      letter-spacing:.14em; text-transform:uppercase;
+      color:rgba(255,255,255,.55); margin-right:auto;
+    }
+    .toolbar a.btn{
+      font-family:var(--cond); font-weight:700; letter-spacing:.18em;
+      text-transform:uppercase; font-size:12px;
+      background:#282924; color:#fff; border:0;
+      padding:10px 16px; border-radius:4px;
+      text-decoration:none; display:inline-block;
+    }
+    .toolbar a.btn.primary{background:var(--gold)}
+    .toolbar a.btn:hover{background:#000}
+    .toolbar a.btn.primary:hover{background:var(--gold-lt)}
+
+    /* ── Print ── */
+    @page{ size:Letter; margin:0 }
+    @media print{
+      html,body{background:#fff;padding:0;margin:0;width:8.5in;height:11in}
+      .sheet{
+        box-shadow:none; width:8.5in; height:11in; max-height:11in;
+        page-break-after:avoid; page-break-inside:avoid;
+        break-inside:avoid; overflow:hidden;
+      }
+      .no-print{display:none !important}
+    }
+  </style>
+</head>
+<body>
+
+  <div class="toolbar no-print">
+    <span class="toolbar-stamp" id="toolbar-stamp">Last export: Sep 1, 2026, 7:38 AM CDT</span>
+    <a class="btn primary"
+       id="dl-link"
+       href="/print-export/exports/flyer-zion-songs-stories-half_2026-09-01T12-38.pdf"
+       download="LIM-Zion-Songs-and-Stories-Half-Page_2026-09-01T12-38.pdf">Download PDF</a>
+    <a class="btn" href="/zion/promo">Promotion kit</a>
+  </div>
+
+  <article class="sheet" aria-label="Songs and Stories of Hope half-page handouts, two per sheet">
+
+    <div class="half">
+      <div class="photo">
+        <span class="free">Free &middot; All welcome</span>
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:best,e_brightness:12,c_fill,g_face,w_760,h_1250/zion-songs/becky-perform"
+             alt="Becky Key playing guitar and singing">
+      </div>
+      <div class="body">
+        <h1>Songs <span class="amp">&amp;</span> Stories<span class="of">of Hope</span></h1>
+        <p class="tagline">Great music and encouraging stories behind the songs.<br><span class="hope">Hope</span> that lasts.</p>
+        <div class="rule"></div>
+        <p class="blurb">Singer-songwriter <b>Becky Key</b> sings, then tells you where each song came from. With Zion
+        music director <b>Josh Vigran</b>, and a message from <b>Pastor Bobby Key</b>. Bring a friend.</p>
+        <div class="when">
+          <div class="v">Saturday, September 26<small>2:00 &ndash; 3:30 PM &middot; 2026</small></div>
+          <div class="v">Zion Lutheran Church<small>2982 Davis Road, Fairbanks, AK</small></div>
+        </div>
+        <div class="url">
+          <span>lutheranindianministries.org/zion</span>
+          <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg"
+               alt="Lutheran Indian Ministries">
+        </div>
+      </div>
+    </div>
+
+    <div class="cutline"></div>
+
+    <div class="half">
+      <div class="photo">
+        <span class="free">Free &middot; All welcome</span>
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:best,e_brightness:12,c_fill,g_face,w_760,h_1250/zion-songs/becky-perform"
+             alt="Becky Key playing guitar and singing">
+      </div>
+      <div class="body">
+        <h1>Songs <span class="amp">&amp;</span> Stories<span class="of">of Hope</span></h1>
+        <p class="tagline">Great music and encouraging stories behind the songs.<br><span class="hope">Hope</span> that lasts.</p>
+        <div class="rule"></div>
+        <p class="blurb">Singer-songwriter <b>Becky Key</b> sings, then tells you where each song came from. With Zion
+        music director <b>Josh Vigran</b>, and a message from <b>Pastor Bobby Key</b>. Bring a friend.</p>
+        <div class="when">
+          <div class="v">Saturday, September 26<small>2:00 &ndash; 3:30 PM &middot; 2026</small></div>
+          <div class="v">Zion Lutheran Church<small>2982 Davis Road, Fairbanks, AK</small></div>
+        </div>
+        <div class="url">
+          <span>lutheranindianministries.org/zion</span>
+          <img src="brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg"
+               alt="Lutheran Indian Ministries">
+        </div>
+      </div>
+    </div>
+
+    <div class="print-stamp" id="print-stamp">Exported Sep 1, 2026, 7:38 AM CDT</div>
+  </article>
+
+</body>
+</html>
