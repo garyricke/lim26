@@ -72,6 +72,24 @@
   .todo{background:#fffbe6;border:1px solid #e8d071;border-radius:8px;padding:.85rem 1rem;font-size:.9rem;margin-bottom:1.1rem}
   .todo b{color:#5c4a10}
 
+  /* Who-does-what panel. The single most-asked question about this kit was
+     "what do I actually have to do" — so it answers that before anything else. */
+  .split{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-bottom:1.8rem}
+  .split .col{background:#fff;border:1px solid var(--border);border-radius:10px;overflow:hidden}
+  .split .col.you{border-color:var(--red);border-width:2px}
+  .split .ch{font-family:var(--cond);font-weight:800;font-size:.95rem;letter-spacing:.1em;
+    text-transform:uppercase;padding:.6rem .95rem;color:#fff}
+  .split .col.me .ch{background:var(--sage-d)}
+  .split .col.you .ch{background:var(--red)}
+  .split .cb{padding:.85rem .95rem}
+  .split ul{margin:0;padding:0;list-style:none}
+  .split li{margin:0 0 .5rem;padding-left:1.5rem;position:relative;font-size:.9rem;line-height:1.5}
+  .split li:last-child{margin-bottom:0}
+  .split .col.me li::before{content:'✓';position:absolute;left:0;top:0;color:var(--sage-d);font-weight:700}
+  .split .col.you li::before{content:'→';position:absolute;left:0;top:0;color:var(--red);font-weight:700}
+  .split .none{font-size:.9rem;color:var(--muted);font-style:italic}
+  @media(max-width:640px){.split{grid-template-columns:1fr}}
+
   .assets{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem}
   .asset{background:#fff;border:1px solid var(--border);border-radius:10px;overflow:hidden;text-decoration:none;color:inherit;display:block}
   .asset img{width:100%;display:block;border-bottom:1px solid var(--border)}
@@ -95,17 +113,44 @@
 
 <div class="wrap">
 
+  <div class="split">
+    <div class="col me">
+      <div class="ch">Gary is doing these &mdash; ignore them</div>
+      <div class="cb">
+        <ul>
+          <li><b>The free News-Miner calendar listing</b> (section 4). Submitted &mdash; nobody needs to open that form.</li>
+          <li><b>All the radio submissions</b> (section 3). KJNP, the iHeart stations and KUAC, cover note and all.</li>
+          <li><b>The Facebook and Instagram ads</b>, once Robert confirms the budget.</li>
+          <li><b>Newspaper artwork</b>, as soon as Bill has a size quoted.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="col you">
+      <div class="ch">Only these need you</div>
+      <div class="cb">
+        <ul>
+          <li><b>Say the radio scripts read right</b> (section 3). That's the only approval I need.</li>
+          <li><b>Share the posts yourselves</b> (section 2) &mdash; Robert, Bill, Josh and Becky, not just Zion's page.
+            And into the Fairbanks and North Pole Facebook groups, which only accept posts from members.</li>
+          <li><b>Order the prints</b> (section 6) and get the half-pages out around town.</li>
+          <li><b>Bill only:</b> call the News-Miner if he wants a <i>paid</i> ad (section 4). The free listing is
+            already handled.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <div class="lede">
-    <p><b>Everything here is written to be copied and sent as-is</b> &mdash; email, social posts, radio scripts and newspaper copy, all carrying the same date, address and link. Each block has its own Copy button &mdash; click it, then paste into Outlook, into a bulletin, or into the station's submission form.</p>
+    <p><b>Everything here is written to be copied and sent as-is</b> &mdash; email, social posts, radio scripts and newspaper copy, all carrying the same date, address and link. Each block has its own Copy button &mdash; click it, then paste into Outlook, into a bulletin, or into a Facebook post.</p>
     <p>The radio scripts show their <b>real word count and read time</b>, measured from the text itself at a normal announcer pace of 150 words a minute. If you edit a script, the numbers update as you type, so you can see whether it still fits the slot.</p>
   </div>
 
   <div class="todo" style="margin-bottom:1.6rem">
-    <b>Cleared &mdash; everything on this page is ready to send. 1 Sept.</b> Josh confirmed it: the afternoon is
+    <b>Cleared &mdash; everything on this page is ready. 1 Sept.</b> Josh confirmed it: the afternoon is
     <i>song, then the story behind that song</i>. Every block below has been rewritten to say that, so the page,
-    the posts, the radio scripts and the newspaper copy all match. Nothing here is waiting on anyone.
-    Send the radio and newspaper copy now &mdash; the paper wants roughly two weeks' notice and the 26th is close.
+    the posts, the radio scripts and the newspaper copy all match.
   </div>
+
 
   <div class="facts">
     <div><div class="k">What</div><div class="v">Songs &amp; Stories of Hope<small>Free concert &amp; message</small></div></div>
@@ -271,8 +316,8 @@ Link in bio 👆
       <ul style="margin:0">
         <li><b>KJNP &mdash; 1170 AM / 100.3 FM, North Pole.</b> The one that matters most for this audience: Christian
           station, Fairbanks and North Pole, and the audience most likely to come. <code>kjnp@mosquitonet.com</code>,
-          907-488-2216. Their kjnp.com domain is parked and for sale, so their web presence is patchy and this is the
-          one address I'd verify by phone rather than trust cold.</li>
+          907-488-2216. Their kjnp.com domain is parked and for sale, so this is the one address I won't trust cold
+          &mdash; <b>I'm calling them to confirm it before sending.</b> Nothing needed from you.</li>
         <li><b>The iHeart cluster &mdash; KIAK 102.5, KFBX 970, KAKQ 101.1 and their sister stations.</b> One address
           covers all of them: <code>fairbanksradio@iheartmedia.com</code>. Offices at 546 9th Avenue, weekdays 8&ndash;5.</li>
         <li><b>KUAC &mdash; 89.9 FM, public radio.</b> Takes PSAs through an online form linked from
@@ -359,12 +404,16 @@ Lutheran Indian Ministries dot org, slash Zion. Everyone welcome.</div>
 
   <div class="block" style="border-color:#c9d8c4">
     <div class="bhd" style="background:#e7f0e4;border-color:#c9d8c4">
-      <span class="t">Do this first &mdash; it's free</span>
-      <span class="meta">Takes about five minutes</span>
+      <span class="t">Free calendar listing &mdash; Gary is submitting this</span>
+      <span class="meta">Nothing needed from you</span>
     </div>
     <div class="bbody">
-      <p>The News-Miner runs its events calendar through a service called <b>evvnt</b>, and <b>a basic listing on it costs nothing</b>. Paid upgrades get offered during the flow &mdash; featured placement and syndication to other calendars &mdash; but the free listing stands on its own, so decline them if you don't want them. Do this whether or not Bill buys an ad.</p>
-      <p><a href="https://new.evvnt.com/?with_navbar&amp;force_snap_sell&amp;partner=NEWSMINER&amp;publisher_url:newsminer.com#/quick" target="_blank" rel="noopener"><b>Open the News-Miner's event submission &rarr;</b></a></p>
+      <p><b>I'm submitting this one &mdash; you can skip past it.</b> It's here so you know it's covered and can see
+      what went in. The News-Miner runs its events calendar through a service called <b>evvnt</b>, and
+      <b>a basic listing costs nothing</b>. Paid upgrades get offered during the flow &mdash; featured placement and
+      syndication to other calendars &mdash; and I'm declining those. This goes in whether or not Bill buys an ad.</p>
+      <p style="font-size:.85rem;color:var(--muted)">The form, if you ever want it for another event:
+      <a href="https://new.evvnt.com/?with_navbar&amp;force_snap_sell&amp;partner=NEWSMINER&amp;publisher_url:newsminer.com#/quick" target="_blank" rel="noopener">News-Miner event submission &rarr;</a></p>
       <p style="font-size:.88rem;color:var(--muted);margin-bottom:0">Paste the community-calendar copy below into it, and use the wide graphic from section 2 if it asks for an image.</p>
     </div>
   </div>
@@ -487,7 +536,7 @@ Info: lutheranindianministries.org/zion</div>
   <p class="h2sub">Send the poster with anything going to a station, a church office, or social media. Send the link with everything.</p>
 
   <div class="todo" style="margin-bottom:1.2rem">
-    <b>For the print shop &mdash; two sizes, both ready.</b> Open either one and press <i>Download PDF</i>.
+    <b>For the print shop &mdash; two sizes, both ready. This one is yours.</b> Open either one and press <i>Download PDF</i>.
     They are true 8.5 &times; 11 with no margin, so the shop prints them as-is and nothing gets scaled or cropped.
     The <b>half page</b> sheet holds two handouts with a cut line down the middle &mdash; the shop runs the sheet and
     guillotines once, so a hundred handouts costs fifty sheets. Ask for 100&ndash;150 lb gloss cover for the
