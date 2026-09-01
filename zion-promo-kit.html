@@ -72,6 +72,15 @@
   .todo{background:#fffbe6;border:1px solid #e8d071;border-radius:8px;padding:.85rem 1rem;font-size:.9rem;margin-bottom:1.1rem}
   .todo b{color:#5c4a10}
 
+  /* Green stroke = Gary sends it. Used on every block I'm submitting, so the
+     colour means one thing across the whole kit: green mine, red theirs. */
+  .block.gary{border:2px solid var(--green)}
+  .block.gary .bhd{background:#eef4ec;border-bottom-color:#cfe0c9}
+  .gtag{display:inline-flex;align-items:center;gap:.35rem;font-family:var(--cond);
+    font-weight:700;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;
+    background:var(--green);color:#fff;padding:.25rem .55rem;border-radius:99px;white-space:nowrap}
+  .gtag svg{width:11px;height:11px}
+
   /* Who-does-what panel. The single most-asked question about this kit was
      "what do I actually have to do" — so it answers that before anything else. */
   .split{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-bottom:1.8rem}
@@ -79,13 +88,13 @@
   .split .col.you{border-color:var(--red);border-width:2px}
   .split .ch{font-family:var(--cond);font-weight:800;font-size:.95rem;letter-spacing:.1em;
     text-transform:uppercase;padding:.6rem .95rem;color:#fff}
-  .split .col.me .ch{background:var(--sage-d)}
+  .split .col.me .ch{background:var(--green)}
   .split .col.you .ch{background:var(--red)}
   .split .cb{padding:.85rem .95rem}
   .split ul{margin:0;padding:0;list-style:none}
   .split li{margin:0 0 .5rem;padding-left:1.5rem;position:relative;font-size:.9rem;line-height:1.5}
   .split li:last-child{margin-bottom:0}
-  .split .col.me li::before{content:'✓';position:absolute;left:0;top:0;color:var(--sage-d);font-weight:700}
+  .split .col.me li::before{content:'✓';position:absolute;left:0;top:0;color:var(--green);font-weight:700}
   .split .col.you li::before{content:'→';position:absolute;left:0;top:0;color:var(--red);font-weight:700}
   .split .none{font-size:.9rem;color:var(--muted);font-style:italic}
   @media(max-width:640px){.split{grid-template-columns:1fr}}
@@ -301,16 +310,19 @@ Link in bio 👆
   <p class="h2sub">Written to be read out loud, not read off a page. Numbers and the web address are spelled the way an announcer says them, so nobody has to work it out live on air. Stations usually want a <b>:30</b>; send all three and let them pick.</p>
 
   <div class="todo">
-    <b>Gary is handling the stations &mdash; nothing here needs doing.</b> <b>All that's needed from LIM is a yes to
-    the scripts below.</b> No phoning around required: I checked, and the Fairbanks stations take these by email or
-    web form. One thing may still come back to you &mdash; a station occasionally wants the request to come from the
-    nonprofit itself, or asks for the 501(c)(3) letter. If that happens I'll come straight to Robert for that one item.
+    <b>Everything outlined in green on this page is mine to send.</b> The scripts below, the cover note, the
+    station calls &mdash; all of it. <b>The one thing I need from you is a yes to the words.</b> Read the three
+    scripts, tell me they sound right, and I'll do the rest. No phoning around at your end: the Fairbanks stations
+    take these by email or web form. One thing may still come back to you &mdash; a station occasionally wants the
+    request to come from the nonprofit itself, or asks for the 501(c)(3) letter. If that happens I'll come straight
+    to Robert for that one item.
   </div>
 
-  <div class="block">
+  <div class="block gary">
     <div class="bhd">
       <span class="t">Where these are going</span>
       <span class="meta">Checked 1 Sept</span>
+      <span class="gtag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4Z"/></svg>Gary sends this</span>
     </div>
     <div class="bbody">
       <ul style="margin:0">
@@ -329,10 +341,11 @@ Link in bio 👆
     </div>
   </div>
 
-  <div class="block">
+  <div class="block gary">
     <div class="bhd">
       <span class="t">:15 &mdash; short</span>
       <span class="meta" data-count="s15">&nbsp;</span>
+      <span class="gtag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4Z"/></svg>Gary sends this</span>
       <span class="btns"><button class="cp" data-copy="s15" data-plain="1">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
     </div>
@@ -347,10 +360,11 @@ KILL DATE:     September 26, 2026</div>
     </div>
   </div>
 
-  <div class="block">
+  <div class="block gary">
     <div class="bhd">
       <span class="t">:30 &mdash; the one most stations want</span>
       <span class="meta" data-count="s30">&nbsp;</span>
+      <span class="gtag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4Z"/></svg>Gary sends this</span>
       <span class="btns"><button class="cp" data-copy="s30" data-plain="1">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
     </div>
@@ -369,10 +383,11 @@ Saturday, September twenty-sixth, two to three-thirty, at Zion Lutheran Church, 
     </div>
   </div>
 
-  <div class="block">
+  <div class="block gary">
     <div class="bhd">
       <span class="t">:60 &mdash; long</span>
       <span class="meta" data-count="s60">&nbsp;</span>
+      <span class="gtag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4Z"/></svg>Gary sends this</span>
       <span class="btns"><button class="cp" data-copy="s60" data-plain="1">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
     </div>
@@ -402,10 +417,11 @@ Lutheran Indian Ministries dot org, slash Zion. Everyone welcome.</div>
   <h2>4 &middot; Newspaper</h2>
   <p class="h2sub">For the <i>Fairbanks Daily News-Miner</i>, or any paper. There is a <b>free listing to claim before anyone spends anything</b>, then copy at three depths for a bought space &mdash; papers charge by the inch, so the shortest one that still carries the date, place and price is usually the right buy.</p>
 
-  <div class="block" style="border-color:#c9d8c4">
-    <div class="bhd" style="background:#e7f0e4;border-color:#c9d8c4">
-      <span class="t">Free calendar listing &mdash; Gary is submitting this</span>
+  <div class="block gary">
+    <div class="bhd">
+      <span class="t">Free calendar listing</span>
       <span class="meta">Nothing needed from you</span>
+      <span class="gtag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4Z"/></svg>Gary sends this</span>
     </div>
     <div class="bbody">
       <p><b>I'm submitting this one &mdash; you can skip past it.</b> It's here so you know it's covered and can see
@@ -506,10 +522,11 @@ Info: lutheranindianministries.org/zion</div>
   <h2>5 &middot; The note that goes with it</h2>
   <p class="h2sub">Paste this into the email carrying the scripts. Stations turn down announcements that arrive with no dates, no contact, and no idea who's asking &mdash; this covers all three. <b>Gary is sending these</b>, so nothing here needs doing &mdash; it's shown so you can see what goes out over LIM's name.</p>
 
-  <div class="block">
+  <div class="block gary">
     <div class="bhd">
       <span class="t">Station cover note</span>
-      <span class="meta">Gary sends this &mdash; one blank, the station name</span>
+      <span class="meta">One blank, the station name</span>
+      <span class="gtag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4Z"/></svg>Gary sends this</span>
       <span class="btns"><button class="cp" data-copy="cov-body" data-subject="cov-subj">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button></span>
     </div>
