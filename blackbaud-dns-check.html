@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>Donation receipt check — Lutheran Indian Ministries</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--charcoal:#282924;--stone:#EBE9E4;--muted:#5a5a52;
+    --border:#d9d6ce;--green:#2f7d32;--green-bg:#eef6ee;--amber:#8a6d1f;--amber-bg:#fdf8e8;
+    --red-bg:#fdeceb;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:var(--body);color:var(--charcoal);background:#eceae4;line-height:1.6}
+  .topbar{background:var(--charcoal);color:#fff;padding:.7rem 1.25rem;display:flex;align-items:center;gap:.9rem;flex-wrap:wrap}
+  .topbar h1{font-family:var(--cond);font-size:1.15rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;margin:0}
+  .topbar .sub{font-size:.78rem;color:rgba(255,255,255,.5)}
+  .wrap{max-width:760px;margin:0 auto;padding:1.6rem 1.25rem 5rem}
+
+  .verdict{border-radius:12px;padding:1.15rem 1.3rem;margin-bottom:1.5rem;border:2px solid}
+  .verdict h2{font-family:var(--cond);font-size:1.45rem;font-weight:800;letter-spacing:.04em;
+    text-transform:uppercase;margin-bottom:.2rem}
+  .verdict p{font-size:.94rem;margin:0}
+  .v-wait{background:var(--amber-bg);border-color:#e0c977;color:var(--amber)}
+  .v-ok{background:var(--green-bg);border-color:#a9cdab;color:var(--green)}
+  .v-bad{background:var(--red-bg);border-color:#f0a9a6;color:#b3261e}
+  .verdict p{color:var(--charcoal)}
+
+  .card{background:#fff;border:1px solid var(--border);border-radius:10px;margin-bottom:.85rem;overflow:hidden}
+  .card.ok{border-left:5px solid var(--green)}
+  .card.miss{border-left:5px solid var(--red)}
+  .card.warn{border-left:5px solid #d9a441}
+  .ch{padding:.7rem .95rem;display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;border-bottom:1px solid var(--border);background:#faf9f6}
+  .ch .n{font-family:var(--cond);font-weight:700;font-size:.95rem;letter-spacing:.07em;text-transform:uppercase}
+  .pill{margin-left:auto;font-family:var(--cond);font-weight:700;font-size:.75rem;letter-spacing:.11em;
+    text-transform:uppercase;padding:.22rem .6rem;border-radius:99px;color:#fff;white-space:nowrap}
+  .pill.ok{background:var(--green)}
+  .pill.miss{background:var(--red)}
+  .pill.warn{background:#d9a441}
+  .pill.load{background:var(--muted)}
+  .cb{padding:.8rem .95rem;font-size:.88rem}
+  .cb .lbl{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.16em;
+    text-transform:uppercase;color:var(--muted);margin-bottom:.1rem}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.78rem;
+    word-break:break-all;background:#f7f6f2;border:1px solid var(--border);border-radius:5px;
+    padding:.45rem .55rem;margin-bottom:.6rem}
+  .note{font-size:.85rem;color:var(--muted);margin-top:.3rem}
+
+  .bar{display:flex;align-items:center;gap:.7rem;flex-wrap:wrap;margin-bottom:1.2rem}
+  button{font-family:var(--cond);font-weight:700;letter-spacing:.13em;text-transform:uppercase;
+    font-size:.82rem;background:var(--charcoal);color:#fff;border:0;border-radius:7px;
+    padding:.65rem 1.1rem;cursor:pointer}
+  button:hover{background:#000}
+  button:disabled{opacity:.5;cursor:default}
+  .stamp{font-size:.8rem;color:var(--muted)}
+  .foot{margin-top:1.8rem;font-size:.85rem;color:var(--muted);border-top:1px solid var(--border);padding-top:1rem}
+  .foot a{color:var(--red)}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <h1>Donation receipt check</h1>
+  <span class="sub">lutheranindianministries.org &middot; Blackbaud email settings</span>
+</div>
+
+<div class="wrap">
+
+  <div id="verdict" class="verdict v-wait">
+    <h2 id="v-title">Checking&hellip;</h2>
+    <p id="v-text">Reading the live domain records.</p>
+  </div>
+
+  <div class="bar">
+    <button id="recheck" onclick="runAll()">Check again</button>
+    <span class="stamp" id="stamp"></span>
+  </div>
+
+  <div id="cards"></div>
+
+  <div class="foot">
+    <p>This page reads the domain's public records directly, live, each time you open it &mdash; it isn't a stored
+    status. Records can take up to 72 hours to show after they're added, so a red mark right after adding them is
+    normal; check back later before worrying.</p>
+    <p style="margin-top:.6rem">The two records themselves are in the email &mdash; and remember Blackbaud shows a
+    third, a DMARC record, which we deliberately <b>do not</b> add because one already exists.</p>
+  </div>
+
+</div>
+
+<script>
+/* Checks the domain's public DNS over HTTPS. Google's resolver is used rather
+   than the browser, because a browser can't query TXT records directly and a
+   local cache would show stale answers — this asks the internet, not this
+   machine. */
+var DOMAIN = 'lutheranindianministries.org';
+var OWNERSHIP = '4C80648E0F50EFF64722CC5D8ADF51DF3FEA8111';
+var DKIM_KEY  = 'MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3g1L9T0x+yxeqn7oPSr0z9L2wiCgvArWeklnPklDjz';
+
+function dns(name){
+  return fetch('https://dns.google/resolve?name=' + encodeURIComponent(name) + '&type=TXT',
+               {headers:{'accept':'application/dns-json'}})
+    .then(function(r){ return r.json(); })
+    .then(function(j){
+      return (j.Answer || [])
+        .filter(function(a){ return a.type === 16; })
+        .map(function(a){ return a.data.replace(/^"|"$/g,'').replace(/" "/g,''); });
+    });
+}
+
+var CHECKS = [
+  {
+    id:'own', name:'1 · Domain ownership', host: DOMAIN,
+    what:'Proves to Blackbaud that we own the domain.',
+    test:function(recs){
+      var hit = recs.filter(function(r){ return r.indexOf(OWNERSHIP) !== -1; });
+      return hit.length ? {s:'ok', m:'Found.'} : {s:'miss', m:'Not there yet.'};
+    }
+  },
+  {
+    id:'dkim', name:'2 · DKIM signing key', host:'sm._domainkey.' + DOMAIN,
+    what:'Lets Blackbaud send receipts in LIM’s name. This is the one that stopped the receipts.',
+    test:function(recs){
+      if(!recs.length) return {s:'miss', m:'Not there yet.'};
+      var k = recs.filter(function(r){ return r.indexOf(DKIM_KEY) !== -1; });
+      if(k.length) return {s:'ok', m:'Found, and the key matches what Blackbaud issued.'};
+      if(recs.join('').indexOf('DKIM1') !== -1)
+        return {s:'warn', m:'A DKIM record is there, but the key does not match the one Blackbaud gave us. Likely a copy/paste truncation — re-paste the whole value.'};
+      return {s:'warn', m:'Something is at this name but it is not a DKIM record.'};
+    }
+  },
+  {
+    id:'dmarc', name:'3 · DMARC — leave alone', host:'_dmarc.' + DOMAIN,
+    what:'Already existed. Blackbaud offers a second one; adding it would break DMARC for all LIM email.',
+    test:function(recs){
+      var d = recs.filter(function(r){ return r.toLowerCase().indexOf('v=dmarc1') === 0; });
+      if(d.length === 1) return {s:'ok', m:'Exactly one, as it should be.'};
+      if(d.length === 0) return {s:'miss', m:'The existing DMARC record has gone missing. That is a problem — it was there before.'};
+      return {s:'warn', m:'There are ' + d.length + ' DMARC records. A domain may only have one; two cancel each other out and DMARC stops working for all staff email. Remove the Blackbaud one.'};
+    }
+  },
+  {
+    id:'spf', name:'4 · Staff email (SPF) — must not change', host: DOMAIN,
+    what:'Not part of the Blackbaud fix. Checked because it lives at the same place, and deleting it by accident would send all LIM email to spam.',
+    test:function(recs){
+      var spf = recs.filter(function(r){ return r.indexOf('v=spf1') === 0; });
+      if(spf.length === 1 && spf[0].indexOf('spf.protection.outlook.com') !== -1)
+        return {s:'ok', m:'Untouched.'};
+      if(spf.length === 0) return {s:'miss', m:'SPF is gone. Staff email will start landing in spam — put it back before anything else.'};
+      return {s:'warn', m:'SPF looks different from what it was. Worth a look.'};
+    }
+  }
+];
+
+function render(list){
+  document.getElementById('cards').innerHTML = list.map(function(c){
+    var cls = c.state === 'load' ? '' : c.state;
+    var label = {ok:'OK', miss:'Not found', warn:'Check this', load:'Checking'}[c.state];
+    return '<div class="card ' + cls + '">' +
+      '<div class="ch"><span class="n">' + c.name + '</span>' +
+        '<span class="pill ' + c.state + '">' + label + '</span></div>' +
+      '<div class="cb">' +
+        '<div class="lbl">Record name</div>' +
+        '<div class="mono">' + c.host + '</div>' +
+        '<div><b>' + (c.msg || '') + '</b></div>' +
+        '<div class="note">' + c.what + '</div>' +
+      '</div></div>';
+  }).join('');
+}
+
+function verdict(list){
+  var el = document.getElementById('verdict');
+  var t = document.getElementById('v-title');
+  var p = document.getElementById('v-text');
+  var own = list[0], dkim = list[1], dmarc = list[2], spf = list[3];
+
+  if(spf.state === 'miss' || dmarc.state === 'warn' || dmarc.state === 'miss'){
+    el.className = 'verdict v-bad';
+    t.textContent = 'Something needs undoing';
+    p.textContent = 'An existing record has changed that should not have. Fix that before worrying about the receipts — see the marked item below.';
+    return;
+  }
+  if(own.state === 'ok' && dkim.state === 'ok'){
+    el.className = 'verdict v-ok';
+    t.textContent = 'Both records are live';
+    p.textContent = 'Blackbaud can verify the domain now. Their screen may still say Unverified for a while — they recheck on their own schedule, up to 72 hours. Next step is a test gift to confirm a receipt actually arrives.';
+    return;
+  }
+  el.className = 'verdict v-wait';
+  t.textContent = 'Not yet — receipts are still down';
+  var missing = [];
+  if(own.state !== 'ok') missing.push('domain ownership');
+  if(dkim.state !== 'ok') missing.push('the DKIM signing key');
+  p.textContent = 'Still waiting on ' + missing.join(' and ') + '. Nothing else on the domain has been disturbed.';
+}
+
+function runAll(){
+  var btn = document.getElementById('recheck');
+  btn.disabled = true;
+  document.getElementById('stamp').textContent = 'Checking…';
+
+  var list = CHECKS.map(function(c){
+    return {name:c.name, host:c.host, what:c.what, state:'load', msg:''};
+  });
+  render(list);
+
+  Promise.all(CHECKS.map(function(c){
+    return dns(c.host).then(function(recs){
+      var r = c.test(recs);
+      return {name:c.name, host:c.host, what:c.what, state:r.s, msg:r.m};
+    }).catch(function(){
+      return {name:c.name, host:c.host, what:c.what, state:'warn',
+              msg:'Could not reach the DNS service just now. Try Check again.'};
+    });
+  })).then(function(res){
+    render(res);
+    verdict(res);
+    btn.disabled = false;
+    var d = new Date();
+    document.getElementById('stamp').textContent =
+      'Checked ' + d.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
+  });
+}
+
+runAll();
+</script>
+</body>
+</html>

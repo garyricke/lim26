@@ -53,6 +53,9 @@
 # short enough to say on the phone. /zion/half is the 2-up cut sheet.
 /zion/poster                                     /flyer-zion-songs-stories-2026.html   200
 /zion/half                                       /flyer-zion-songs-stories-half.html   200
+# Live check on the two Blackbaud email records. Angie opens this after adding
+# them rather than emailing to ask whether they took.
+/receipt-check                                   /blackbaud-dns-check.html        200
 /songs                                           /songs-and-stories               301
 /board-report                                    /docs-board-report.html          200
 /camp-report                                     /docs-camp-perkins-report.html   200
