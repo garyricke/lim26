@@ -205,25 +205,26 @@
     "id": "fairbanks-nov",
     "title": "Fairbanks Healing Group",
     "loc": "Fairbanks, AK · Zion Lutheran Church",
-    "datelabel": "Nov 4–6, 2026",
-    "sub": "3 Days · Wed–Fri",
+    "datelabel": "Dates to be determined",
+    "sub": "3 Days · New dates coming",
     "type": "in-person",
-    "end": "2026-11-06",
+    "end": "2027-03-31",
     "open": true,
     "cta": "register",
-    "desc": "Wed Nov 4 noon–4:30 PM (lunch), Thu Nov 5 9 AM–4:30 PM, Fri Nov 6 9 AM–1:00 PM — Alaska Standard Time. Lunch provided — bring your own if you have dietary needs.",
+    "desc": "The November 4–6 dates have been postponed. New dates are being set — please register if you're interested and we'll contact you as soon as they're confirmed.",
     "details": {
       "badges": [
         "🍽 Lunch Provided",
         "3 Days"
       ],
-      "intro": "Zion Lutheran Church, Fairbanks, Alaska",
+      "intro": "Zion Lutheran Church, Fairbanks, Alaska · new dates to be announced",
       "bullets": [
-        "Wednesday Nov 4: 12:00 PM – 4:30 PM (includes lunch)",
-        "Thursday Nov 5: 9:00 AM – 4:30 PM (includes lunch)",
-        "Friday Nov 6: 9:00 AM – 1:00 PM (includes lunch)",
-        "All times Alaska Standard Time · must attend all sessions to complete",
-        "Lunch provided — bring your own if you have dietary needs"
+        "Wednesday: 12:00 PM – 4:30 PM (includes lunch)",
+        "Thursday: 9:00 AM – 4:30 PM (includes lunch)",
+        "Friday: 9:00 AM – 1:00 PM (includes lunch)",
+        "All times Alaska time · must attend all sessions to complete",
+        "Lunch provided — bring your own if you have dietary needs",
+        "Register now and we'll contact you as soon as dates are confirmed"
       ]
     }
   }
