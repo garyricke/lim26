@@ -1,0 +1,41 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Robert — maintenance block, next installment (14 Sept 2026)</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into your email (formatting included).</span>
+  </div>
+  <p style="max-width:600px; margin:0 0 14px; font-size:13px; color:#4a5568;">To: Robert Heffle &nbsp;·&nbsp; (cc Angie if you want the invoice to follow without a second email) &nbsp;·&nbsp; Subject: Website maintenance — where the hours stand, and the next block</p>
+
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Robert,</p>
+
+    <p style="margin:0 0 16px;">A money note, separate from the project email so it doesn't get lost in it. Short version: <b>the maintenance block LIM prepaid in January ran out on 20 July</b>, the week we went live. I kept working through launch, Tree of Life, the camp videos and Zion rather than stop and invoice mid-stream, and I'd like to set up the next block now.</p>
+
+    <p style="margin:0 0 8px;"><b>The numbers</b> (from my time log, through 10 September):</p>
+    <table style="border-collapse:collapse; margin:0 0 16px; font-size:15px;">
+      <tr><td style="padding:6px 18px 6px 0; color:#4a5568;">Prepaid, invoice 03043694 (6 Jan)</td><td style="padding:6px 0; text-align:right;">$5,000 &nbsp;=&nbsp; <b>71.4 hrs</b> at $70</td></tr>
+      <tr><td style="padding:6px 18px 6px 0; color:#4a5568;">Hours worked, 12 Jan &ndash; 10 Sept</td><td style="padding:6px 0; text-align:right;"><b>101.6 hrs</b></td></tr>
+      <tr style="border-top:1px solid #dce3ed;"><td style="padding:6px 18px 6px 0; color:#4a5568;">Beyond the block</td><td style="padding:6px 0; text-align:right;"><b>30.2 hrs</b> &nbsp;(about $2,114 at the same rate)</td></tr>
+    </table>
+
+    <p style="margin:0 0 16px;">Since launch it's been running <b>12 to 16 hours a month</b> &mdash; July 16, August 13, September 5 so far. That's the honest pace for a site that's doing this much: the events tool, the Tree of Life application, the board and camp reports, the Zion campaign, the receipts investigation.</p>
+
+    <p style="margin:0 0 16px;"><b>What I'd propose.</b> One new block on the same terms &mdash; <b>$5,000 for 71.4 hours at $70</b>, the discounted rate. I'll apply the 30.2 hours already worked against it, which leaves about 41 hours in hand: roughly three months at the current pace, carrying us through Zion, the Fairbanks follow-up and the November board cycle. No separate catch-up invoice, no rate change.</p>
+
+    <p style="margin:0 0 16px;">If you'd rather see it as two pieces &mdash; an invoice for the 30 hours and a fresh block starting at zero &mdash; that's fine too; the total is the same. Tell me which and I'll have Angie's invoice out the same day.</p>
+
+    <p style="margin:0 0 16px;">I'll keep sending the hours with each block from here so nobody's surprised again &mdash; that one's on me.</p>
+
+    <p style="margin:0; color:#4a5568;">Gary</p>
+  </div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
