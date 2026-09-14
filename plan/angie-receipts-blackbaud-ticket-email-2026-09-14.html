@@ -1,0 +1,45 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Angie — receipts: Blackbaud ticket (14 Sept 2026)</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into your email (formatting included).</span>
+  </div>
+  <p style="max-width:600px; margin:0 0 14px; font-size:13px; color:#4a5568;">To: Angie Pantazon &nbsp;·&nbsp; Subject: RE: Lutheran Indian Ministries online donations</p>
+
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Angie,</p>
+
+    <p style="margin:0 0 16px;">Yes &mdash; donors are still not getting receipts. I tested it myself an hour ago: a $10 gift on our site, my own email address. Blackbaud took the money, showed me <i>&ldquo;An email receipt was sent to your email address,&rdquo;</i> and nothing arrived. Not in my inbox, not in spam. Same for your copy.</p>
+
+    <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:good,w_1100/v1789396796/lim2026/blackbaud-confirm-2026-09-14.png" alt="Blackbaud confirmation page for the $10 test gift, stating an email receipt was sent" style="display:block; width:100%; max-width:600px; height:auto; border:1px solid #dce3ed; border-radius:10px;">
+    <p style="margin:6px 0 20px; font-size:13px; color:#4a5568;">Blackbaud&rsquo;s own confirmation for my test gift, 9/14. It believes it sent a receipt.</p>
+
+    <p style="margin:0 0 16px;"><b>What this tells us.</b> Everything on our side is done and confirmed working &mdash; the domain records are live and Blackbaud itself shows the domain as Verified. And the email isn&rsquo;t getting lost on the way to people: if it were merely failing a security check it would land in spam, not vanish. It&rsquo;s vanishing. That means Blackbaud isn&rsquo;t sending it at all, and only Blackbaud can see why.</p>
+
+    <p style="margin:0 0 10px;"><b>One thing to do.</b> Open a support case with Blackbaud &mdash; it has to come from the account holder, so it can&rsquo;t be me. Paste this in as written; it gives them a specific gift to trace instead of a general complaint:</p>
+
+    <div style="border:1px solid #dce3ed; border-left:4px solid #ED1C24; border-radius:8px; padding:14px 16px; margin:0 0 20px; background:#fafafa; font-size:14px;">
+      <p style="margin:0 0 10px;"><b>Subject:</b> Online Express donation acknowledgement emails not sending since 8/15/2026</p>
+      <p style="margin:0 0 10px;">Our Online Express donation form has not sent any acknowledgement emails to donors, or notification copies to staff, since August 15, 2026. Gifts are processing normally. The confirmation page tells donors &ldquo;an email receipt was sent,&rdquo; but nothing is delivered &mdash; not to the inbox and not to spam.</p>
+      <p style="margin:0 0 10px;">We have completed email domain authentication: lutheranindianministries.org shows as <b>Verified</b> in our Blackbaud settings, and the DKIM and ownership records are live in public DNS.</p>
+      <p style="margin:0 0 10px;">Please trace this specific gift and tell us whether an acknowledgement was generated, and if so where it went: <b>$10.00 on 9/14/2026, donor email gary.ricke@orbisdesign.com, MasterCard ending 8014, designation Mission Work</b>, Online Express form ID 82adc758-cd1c-42f0-981c-36c79eaabd08.</p>
+      <p style="margin:0;">Please also check whether the acknowledgement email and staff notification are enabled on that form, whether the &ldquo;From&rdquo; address on them is valid under the verified domain, and whether anything changed on your side on or around August 15. Once sending is restored, we need the acknowledgements for all online gifts since August 15 re-sent to those donors.</p>
+    </div>
+
+    <p style="margin:0 0 16px;">If they ask you anything technical, forward it to me and I&rsquo;ll answer it. If they want to talk to someone, give them my number &mdash; 630 492 0642.</p>
+
+    <p style="margin:0 0 16px;">And please don&rsquo;t apologize. You noticed receipts had stopped when nobody else did, you tested it with your own gift, and you got the domain verified in Blackbaud &mdash; every step so far has been yours and every one was right. This is a foreign language to almost everyone; you&rsquo;re doing fine in it.</p>
+
+    <p style="margin:0; color:#4a5568;">Gary</p>
+  </div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
