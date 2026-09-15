@@ -1,0 +1,33 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Angie — past receipts snippet (15 Sept 2026)</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy snippet
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into your draft where you want it — formatting carries over clean.</span>
+  </div>
+
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 12px;"><b>Getting thank-yous to the donors who gave between 15 August and today</b></p>
+
+    <p style="margin:0 0 12px;">The gifts themselves are all recorded &mdash; it's only the email that never went out. Three ways to fix that, easiest first:</p>
+
+    <p style="margin:0 0 6px;"><b>1. Ask Blackbaud first.</b> Add one line to the case:</p>
+    <p style="margin:0 0 12px 18px; padding:8px 12px; border-left:3px solid #dce3ed; color:#4a5568;">The sending address is corrected and receipts are working. Can you re-send the Online Express thank-you email for all gifts on this form from 8/15/2026 through 9/15/2026?</p>
+    <p style="margin:0 0 12px;">They may be able to re-trigger them in bulk from their side. If yes, you're done.</p>
+
+    <p style="margin:0 0 12px;"><b>2. If they can't: send them from Raiser's Edge.</b> Every online gift already landed in the database as a gift record. Pull the online gifts for that date range (Online Express &rarr; Donations shows the list, or a gift query on gift date with Online Express as the source), then run the same donor-acknowledgement mail you'd use for check gifts and have it go out by email. One caution: Blackbaud may have marked these gifts as &ldquo;acknowledged&rdquo; even though the email failed, so filter by <b>date</b>, not by acknowledged status, or the list will come up empty.</p>
+
+    <p style="margin:0 0 12px;"><b>3. If the list is short, do it by hand.</b> A month of online gifts is often a manageable number. A personal email from you with the gift date, amount and designation &mdash; and a line saying the automatic receipt failed and you wanted to thank them yourself &mdash; is the version donors remember most warmly. If you want, forward me the list and I'll draft the note.</p>
+
+    <p style="margin:0;">Whichever route, the donors should get their tax-receipt information: date, amount, LIM's EIN 39-1506889, and that no goods or services were provided. Routes 1 and 2 handle that automatically; for route 3 I'll put it in the template.</p>
+  </div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your draft':'Press ⌘C to copy the selected text',ok);}catch(e){setStatus('Select the text and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your draft (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
