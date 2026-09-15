@@ -1,0 +1,34 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Angie — yes, change the sending address (15 Sept 2026)</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste as a reply to Angie (formatting included).</span>
+  </div>
+  <p style="max-width:600px; margin:0 0 14px; font-size:13px; color:#4a5568;">Reply to: Angie Pantazon &nbsp;·&nbsp; Subject: RE: FW: Blackbaud Support Case 021060824</p>
+
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Angie,</p>
+
+    <p style="margin:0 0 16px;"><b>Yes &mdash; that's it.</b> The sending address has to be one of ours, not a Gmail address. Blackbaud is only allowed to send mail as <i>lutheranindianministries.org</i> (that's what the records we added last month gave them permission to do); it has no permission to send as gmail.com, so every receipt from that form has been stopped at the door since they tightened up in August. Your screenshot shows exactly that: <i>From: lutheranindian@gmail.com</i>.</p>
+
+    <p style="margin:0 0 8px;"><b>The fix is the one change Alan described.</b> On the Thank Yous tab, click the email, and change the sending address to:</p>
+    <p style="margin:0 0 16px; padding:10px 14px; background:#fafafa; border:1px solid #dce3ed; border-radius:8px; font-family:ui-monospace,Menlo,Consolas,monospace; font-size:14px;">apantazon@lutheranindianministries.org</p>
+    <p style="margin:0 0 16px;">I'd use yours because donors sometimes hit Reply on a receipt &mdash; a thank-you, a changed address, a question &mdash; and you're the person who should see those. The display name can stay &ldquo;Robert Heffle, Lutheran Indian Ministries&rdquo; or become just &ldquo;Lutheran Indian Ministries&rdquo;; your call. If there's more than one donation form, repeat it on each.</p>
+
+    <p style="margin:0 0 16px;"><b>Then tell me it's saved and I'll make a test gift right away.</b> If the receipt lands, we ask Blackbaud to re-send the acknowledgements for every online gift since 15 August &mdash; you can add that request straight to the case.</p>
+
+    <p style="margin:0 0 16px;">Nothing on the domain needs to change again; everything Blackbaud asked for there is done.</p>
+
+    <p style="margin:0; color:#4a5568;">Gary</p>
+  </div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
