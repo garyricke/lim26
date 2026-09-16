@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Angie — the two website invoices (16 Sept 2026)</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste as a Reply-all to Robert's "FW: Website maintenance" email, with the two invoices attached.</span>
+  </div>
+  <p style="max-width:600px; margin:0 0 14px; font-size:13px; color:#4a5568;">Reply-all: Angie (cc Robert, Jaylene) &nbsp;·&nbsp; Subject: RE: FW: Website maintenance — where the hours stand, and the next block</p>
+
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Angie,</p>
+
+    <p style="margin:0 0 16px;">Two invoices attached, so each one is clear on its own. Robert and I agreed this on Monday's call.</p>
+
+    <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:100%; max-width:600px; margin:0 0 16px; font-size:15px;">
+      <tr style="background:#f6f7f9;">
+        <td style="padding:10px 12px; border:1px solid #dce3ed; font-weight:600;">1 &middot; Bringing the account current</td>
+        <td style="padding:10px 12px; border:1px solid #dce3ed; text-align:right; font-weight:600; white-space:nowrap;">$2,114.00</td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding:8px 12px 12px; border:1px solid #dce3ed; border-top:none; color:#4a5568; font-size:14px;">30.2 hours worked beyond the January block (invoice 03043694), 20 July &ndash; 10 September, at the block rate of $70/hr.</td>
+      </tr>
+      <tr style="background:#f6f7f9;">
+        <td style="padding:10px 12px; border:1px solid #dce3ed; font-weight:600;">2 &middot; New prepaid maintenance block</td>
+        <td style="padding:10px 12px; border:1px solid #dce3ed; text-align:right; font-weight:600; white-space:nowrap;">$5,000.00</td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding:8px 12px 12px; border:1px solid #dce3ed; border-top:none; color:#4a5568; font-size:14px;">71.4 hours at the prepaid rate of $70/hr (my standard rate is $100). Same terms as January: hours, not months &mdash; the block doesn't expire, it simply lasts until the hours are used.</td>
+      </tr>
+    </table>
+
+    <p style="margin:0 0 16px;">From here you'll see the running balance of hours at every check-in, so the next block is never a surprise.</p>
+
+    <p style="margin:0 0 16px;">Any questions, just ask.</p>
+
+    <p style="margin:0; color:#4a5568;">Gary</p>
+  </div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
