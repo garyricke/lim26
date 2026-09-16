@@ -133,3 +133,65 @@ STORIES=[
 ]
 
 CONCORDANCE_WORDS=["anger","angered","angers","angry","wrath","wrathful","fury","furious","rage","raged","rages","raging","enraged","indignation","indignant","provoke","provoked","provokes","provoking","temper","hot-tempered","quick-tempered"]
+
+# One discussion question per story, same order as STORIES.
+QUESTIONS=[
+ "God spoke to Cain between the anger and the act. Where is that gap in your own anger, and who or what speaks into it?",
+ "Esau planned his revenge for after the funeral. What does 'waiting to get even' look like in your life — and what changed Esau?",
+ "The brothers' grievance was real. Where does a just cause turn into an unjust response?",
+ "Joseph had the power to punish and chose to provide. What made that possible for him — and what would it take for you?",
+ "Moses looked both ways first. When has secret anger cost you more than the wrong you were answering?",
+ "Moses pleaded against God's anger, then acted in his own. Is there anger you're quick to excuse in yourself that you'd talk someone else out of?",
+ "Forty years of faithfulness, one rash sentence. What does 'he spoke rashly with his lips' mean for how you handle provocation?",
+ "Balaam beat the one thing that was saving him. Who in your life keeps 'turning aside' from a danger you can't see — and how do you treat them?",
+ "Every blow in Samson's story only answered the one before. How does the cycle stop when both sides feel justified?",
+ "Saul's anger began as a song he couldn't stand to hear. What comparison feeds your anger?",
+ "Abigail met David on the road with food and truth. Who has been your Abigail — and whose Abigail could you be?",
+ "David was furious at a man in a story who was himself. Where might your strongest anger at others be pointing back at you?",
+ "Absalom said nothing for two years. What is the difference between holding your tongue and holding a grudge?",
+ "Ahab sulked and Jezebel acted. When your anger goes quiet, who ends up carrying it out?",
+ "Naaman almost missed his healing because it wasn't the ceremony he expected. What healing might your pride be walking away from?",
+ "Asa raged at the man who told him the truth. How do you respond to correction — and who has stopped correcting you?",
+ "Uzziah's anger came at the moment he was told no. What 'no' have you been fighting?",
+ "Nehemiah was very angry, then 'took counsel with himself.' What would it look like to build that pause into your reactions?",
+ "Haman's friends said 'build a gallows.' Who around you feeds your anger, and who cools it?",
+ "'Do you do well to be angry?' God asked twice. Is there mercy shown to someone else that makes you angry?",
+ "Nebuchadnezzar's face changed. What does your anger look like from the outside — and what does it cost the people who see it?",
+ "Herod's fear became fury with power behind it. Where does your anger have power over people who can't answer back?",
+ "The synagogue was fine until grace reached outsiders. What limits do you quietly put on who deserves God's kindness?",
+ "Jesus was angry and grieved at the same time, and the result was a healed hand. What would it mean for your anger to end in mercy?",
+ "Jesus made the whip — this was deliberate, not a flash. How do you tell zeal for God's honour from anger at your own?",
+ "James and John wanted fire for Jesus' sake. When has loyalty made you crueller than the one you're loyal to?",
+ "The servant was forgiven a fortune and choked a man over pennies. What debt has God cancelled for you — and who are you still holding by the throat?",
+ "The older brother wouldn't go in, and the father came out to him too. Where are you standing outside the feast?",
+ "Peter's sword was drawn out of love. What damage has your loyal anger done that Jesus would have to heal?",
+ "Stephen prayed for the people killing him. Where does that kind of forgiveness come from, and can it be learned?",
+ "Two good men disagreed sharply and separated for a time. Is there a fallout in your life that God may be ready to mend?",
+ "Most of the crowd didn't know why they were shouting. When has your anger belonged to a crowd rather than to you?",
+]
+
+# Guided paths: a starting question, then an ordered set of stops.
+# Stop kinds: ("story", n) 1-based · ("theme", n) 1-based · ("passage", book, spec)
+PATHS=[
+ ("hurt","Someone hurt me and I can't let it go",
+  "Anger that is really a wound. This path goes from what God says about settling accounts, through two men who had every right to revenge, to the forgiveness Jesus ties to our own.",
+  [("passage","Leviticus","19:17-18"),("theme",6),("story",4),("story",11),("story",27),("passage","Ephesians","4:31-32"),("theme",8)]),
+ ("temper","I lose my temper fast",
+  "The quick fuse. Proverbs first, then three men whose one rash moment cost them, then the one man who paused.",
+  [("theme",3),("story",7),("story",5),("story",17),("story",18),("passage","James","1:19-21"),("passage","Proverbs","16:32")]),
+ ("unfair","I'm angry at God, or at how unfair things are",
+  "The anger that doesn't have a person to aim at. Two who were angry at God's mercy, the psalms that pray it honestly, and how God answers.",
+  [("story",20),("story",28),("passage","Habakkuk","1:2-4"),("passage","Psalms","73:21-26"),("passage","Psalms","13:1-6"),("theme",1),("passage","Romans","5:8-9")]),
+ ("grudge","I've held on to this for years",
+  "Anger that went quiet and stayed. Two brothers who waited, the sun-goes-down verse, the root of bitterness, and the embrace that ended a twenty-year grudge.",
+  [("story",13),("story",14),("passage","Ephesians","4:26-27"),("passage","Hebrews","12:14-15"),("story",2),("passage","Colossians","3:12-15")]),
+ ("atme","Someone is angry at me",
+  "On the receiving end. A soft answer, the servants who reasoned with a raging man, the woman who met an army on the road, and what Jesus says to do before worship.",
+  [("passage","Proverbs","15:1"),("story",15),("story",11),("passage","Matthew","5:21-26"),("story",2),("passage","Romans","12:17-21")]),
+ ("right","Is anger ever right?",
+  "Yes — and the Bible shows what it looks like. God's own anger, Jesus angry in the synagogue and the temple, Nehemiah, and the verse that holds both sides together.",
+  [("theme",1),("story",24),("story",25),("story",18),("passage","Psalms","4:4-5"),("passage","Ephesians","4:26-27"),("story",26)]),
+ ("home","Anger in my home",
+  "Where it costs the most. Fathers and children, a father who did nothing, a family cursed by two sons' rage, and the words for under one roof.",
+  [("theme",7),("story",13),("story",3),("story",10),("passage","Colossians","3:19-21"),("passage","1 Peter","3:8-9"),("theme",8)]),
+]

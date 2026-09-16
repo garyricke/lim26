@@ -89,6 +89,8 @@ page=f'''<!DOCTYPE html>
   .bar h1{{font-family:var(--cond);font-size:1.1rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-right:auto}}
   .bar nav a{{color:rgba(255,255,255,.75);text-decoration:none;font-family:var(--cond);font-size:.85rem;letter-spacing:.08em;text-transform:uppercase;margin-right:1rem}}
   .bar nav a:hover{{color:var(--yellow)}}
+  .bar .explore{{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.55rem 1.1rem;border-radius:5px;border:1.5px solid var(--yellow);color:var(--yellow);text-decoration:none}}
+  .bar .explore:hover{{background:var(--yellow);color:var(--charcoal)}}
   .bar button{{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.55rem 1.2rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer}}
   .doc{{max-width:7.4in;margin:2rem auto 4rem;background:#fff;padding:.85in .95in 1in;box-shadow:0 8px 30px rgba(0,0,0,.13)}}
   .mast{{border-bottom:3px solid var(--charcoal);padding-bottom:1rem;margin-bottom:1.6rem}}
@@ -155,6 +157,7 @@ page=f'''<!DOCTYPE html>
 <div class="bar">
   <h1>Anger in Scripture — ESV</h1>
   <nav><a href="#part1">Passages</a><a href="#part2">Stories</a><a href="#part3">Every verse</a></nav>
+  <a class="explore" href="/anger-explore">Explore it step by step &rarr;</a>
   <button id="print" type="button">Print</button>
 </div>
 
