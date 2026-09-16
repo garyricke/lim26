@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Robert — Scripture on anger, ESV (16 Sept 2026)</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, paste as a reply to Robert's "Scripture/Anger" email, then type the password where marked.</span>
+  </div>
+  <p style="max-width:600px; margin:0 0 14px; font-size:13px; color:#4a5568;">Reply to: Robert Heffle &nbsp;·&nbsp; Subject: RE: Scripture/Anger</p>
+
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Robert,</p>
+
+    <p style="margin:0 0 16px;">Glad you're on the mend &mdash; a month of walking pneumonia explains a lot. Take the rest.</p>
+
+    <p style="margin:0 0 16px;">Yes, it's possible, and it's done. Here is every passage and story on anger in the ESV, laid out so Joe can build sessions from it:</p>
+
+    <a href="https://www.lutheranindianministries.org/anger-scripture" style="text-decoration:none;"><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:good,w_1100/v1789591734/lim2026/anger-scripture-preview-2026-09-16.png" alt="What the Bible Says About Anger — the resource page" style="display:block; width:100%; max-width:600px; height:auto; border:1px solid #dce3ed; border-radius:10px;"></a>
+    <p style="margin:6px 0 16px; font-size:13px; color:#4a5568;">Password-protected; staff only. Password: <b>[type it here]</b></p>
+    <p style="margin:0 0 24px;">
+      <a href="https://www.lutheranindianministries.org/anger-scripture" style="display:inline-block; background:#ED1C24; color:#ffffff; text-decoration:none; font-weight:600; font-size:15px; padding:12px 22px; border-radius:8px;">Open the anger resource &rarr;</a>
+    </p>
+
+    <p style="margin:0 0 8px;">Three parts:</p>
+    <ul style="margin:0 0 16px; padding-left:22px;">
+      <li><b>The teaching passages</b>, grouped into nine themes &mdash; God slow to anger, Proverbs on the hot temper, Jesus on anger, the apostles, forgiveness, and so on. Full ESV text, every reference linked to esv.org.</li>
+      <li><b>Thirty-two stories</b> where anger drives the plot &mdash; Cain, Esau, Moses and the rock, Abigail talking David down, Nehemiah, Jonah, the older brother, Stephen &mdash; each with a summary, the key verses, and a line on what it shows.</li>
+      <li><b>Every verse in the ESV</b> that uses anger, wrath, fury, rage, indignation or provoke &mdash; 596 of them, by book, so nothing is missed.</li>
+    </ul>
+
+    <p style="margin:0 0 16px;">One assumption to check: I read &ldquo;New English Standard&rdquo; as the <b>English Standard Version</b> &mdash; the one in Lutheran Service Book. If Joe works from the <b>New American Standard</b> instead, tell me and I'll regenerate the whole thing in that version; it's a switch, not a rebuild.</p>
+
+    <p style="margin:0 0 16px;">Small note on Moses: he was told to speak to the rock and struck it twice; he did see the land from Nebo but wasn't allowed to enter. It's Story 7, with Psalm 106's line about it &mdash; &ldquo;he spoke rashly with his lips&rdquo; &mdash; which may be the best single verse in the Bible for an anger course.</p>
+
+    <p style="margin:0 0 16px;">When Joe has picked the themes and stories he wants, send me the list and I'll turn it into the participant handout. It prints cleanly as it is if he wants the whole thing on paper.</p>
+
+    <p style="margin:0; color:#4a5568;">Gary</p>
+  </div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
