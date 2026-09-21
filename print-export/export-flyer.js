@@ -58,6 +58,14 @@ const FLYERS = [
     expectPages: 1
   },
   {
+    id: 'busby-2026',
+    kind: 'sheet',
+    html: 'flyer-busby-healing-group-2026.html',
+    file: 'flyer-busby-healing-group-2026',
+    download: 'LIM-Busby-Healing-Group-2026',
+    expectPages: 1
+  },
+  {
     id: 'tol-2026',
     kind: 'sheet',
     html: 'flyer-tree-of-life-fairbanks-2026.html',
