@@ -58,6 +58,30 @@ const FLYERS = [
     expectPages: 1
   },
   {
+    id: 'about-story',
+    kind: 'sheet',
+    html: 'flyer-about-lim-story.html',
+    file: 'flyer-about-lim-story',
+    download: 'LIM-About-Story',
+    expectPages: 1
+  },
+  {
+    id: 'about-pillars',
+    kind: 'sheet',
+    html: 'flyer-about-lim-pillars.html',
+    file: 'flyer-about-lim-pillars',
+    download: 'LIM-About-Three-Pillars',
+    expectPages: 1
+  },
+  {
+    id: 'about-healing',
+    kind: 'sheet',
+    html: 'flyer-about-lim-healing.html',
+    file: 'flyer-about-lim-healing',
+    download: 'LIM-About-Healing',
+    expectPages: 1
+  },
+  {
     id: 'anchorage-2026',
     kind: 'sheet',
     html: 'flyer-anchorage-healing-group-2026.html',

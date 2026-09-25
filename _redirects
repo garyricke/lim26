@@ -42,6 +42,14 @@
 /anchorage                                       /flyer-anchorage-healing-group-2026.html   200
 /flyer/tree-of-life                              /tree-of-life/flyer              301
 /verse-jars                                      /verse-jars.html                 200
+
+# General "about LIM" handouts. Robert picks one at an event and prints it, so
+# the picker and each sheet get their own sayable stem. All three reference
+# their assets root-absolute, which the 200 rewrites require.
+/handouts                                        /handouts.html                   200
+/handouts/story                                  /flyer-about-lim-story.html      200
+/handouts/pillars                                /flyer-about-lim-pillars.html    200
+/handouts/healing                                /flyer-about-lim-healing.html    200
 /lim-history                                     /docs-lim-history.html           200
 /anger-scripture                                 /docs-scripture-anger.html       200
 /anger-explore                                   /docs-scripture-anger-explore.html 200

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>Lutheran Indian Ministries — Healing That Lasts</title>
+<meta name="description" content="Free, scripture-based healing groups from Lutheran Indian Ministries — for the wounds that have been carried for generations.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@500;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;--sage:#B2AC88;--sage-d:#6f6c50;
+    --sky:#A2C2D1;--sky-d:#5b93ab;--stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  body{background:#57564f;font-family:var(--body);color:var(--charcoal)}
+
+  .toolbar{max-width:8.5in;margin:0 auto;padding:14px 8px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+  .toolbar-stamp{font:500 12px/1 var(--body);color:rgba(255,255,255,.75)}
+  .toolbar .btn{margin-left:auto;display:inline-flex;align-items:center;gap:7px;background:var(--red);color:#fff;
+    font:700 13px/1 var(--body);padding:10px 16px;border-radius:7px;text-decoration:none}
+  .toolbar .btn svg{width:15px;height:15px}
+
+  .sheet{
+    width:8.5in;height:11in;margin:0 auto 24px;background:var(--stone);position:relative;overflow:hidden;
+    display:grid;grid-template-rows:auto auto minmax(0,1fr) auto auto;
+    page-break-inside:avoid;box-shadow:0 10px 40px rgba(0,0,0,.35);
+  }
+
+  .topbar{background:var(--charcoal);color:#fff;padding:14px 48px;display:flex;align-items:center;gap:13px}
+  .topbar img{width:32px;height:32px;object-fit:contain}
+  .topbar .org{font-family:var(--cond);font-weight:700;font-size:13.5px;letter-spacing:.2em;text-transform:uppercase;line-height:1.25}
+  .topbar .org small{display:block;font-family:var(--body);font-weight:400;font-size:9px;letter-spacing:.13em;color:rgba(255,255,255,.65)}
+  .topbar .tag{margin-left:auto;font-family:var(--cond);font-weight:700;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--yellow)}
+
+  /* ── Quote hero: photo with a large pulled quote over it ── */
+  .qhero{position:relative;height:3.36in;overflow:hidden;background:var(--charcoal)}
+  .qhero img{width:100%;height:100%;object-fit:cover;object-position:center 55%}
+  .qhero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(40,41,36,.30) 0%,rgba(40,41,36,.72) 52%,rgba(40,41,36,.93) 100%)}
+  .qbox{position:absolute;inset:auto 0 0 0;z-index:2;padding:0 48px 22px}
+  .mark{font-family:var(--serif);font-size:52px;line-height:.7;color:var(--yellow);opacity:.9}
+  .qbox blockquote{font-family:var(--serif);font-style:italic;font-weight:400;font-size:18px;line-height:1.4;color:#fff;margin-top:4px;max-width:6.7in}
+  .qbox .attr{margin-top:13px;display:flex;align-items:baseline;gap:9px;flex-wrap:wrap}
+  .qbox .attr .nm{font-family:var(--cond);font-weight:700;font-size:15px;letter-spacing:.1em;text-transform:uppercase;color:var(--yellow)}
+  .qbox .attr .mt{font-size:11px;color:rgba(255,255,255,.78)}
+
+  /* ── Explainer ── */
+  .mid{padding:18px 48px 0;display:grid;grid-template-columns:1fr 2.55in;gap:28px;align-items:start}
+  .mid h2{font-family:var(--cond);font-weight:800;font-size:20px;letter-spacing:.09em;text-transform:uppercase;margin-bottom:8px}
+  .mid p{font-size:12px;line-height:1.62;margin-bottom:8px}
+  .mid p:last-child{margin-bottom:0}
+  .facts{list-style:none;margin-top:9px}
+  .facts li{position:relative;padding-left:23px;font-size:11.3px;line-height:1.45;margin-bottom:6px}
+  .facts li:last-child{margin-bottom:0}
+  .facts li svg{position:absolute;left:0;top:.12em;width:15px;height:15px;color:var(--sage-d)}
+
+  .ways{background:#fff;border:1.5px solid var(--border);border-radius:8px;overflow:hidden}
+  .ways .wh{background:var(--sage);color:#fff;padding:9px 14px;font-family:var(--cond);font-weight:800;font-size:13.5px;letter-spacing:.14em;text-transform:uppercase}
+  .ways .wb{padding:12px 14px 14px}
+  .way{display:grid;grid-template-columns:auto 1fr;gap:10px;padding-bottom:9px;margin-bottom:9px;border-bottom:1px dashed var(--border)}
+  .way:last-child{padding-bottom:0;margin-bottom:0;border-bottom:0}
+  .way .ic{width:26px;height:26px;border-radius:50%;background:var(--stone);display:grid;place-items:center;flex:none;color:var(--charcoal)}
+  .way .ic svg{width:14px;height:14px}
+  .way .t{font-family:var(--cond);font-weight:700;font-size:13px;letter-spacing:.11em;text-transform:uppercase;line-height:1.3}
+  .way .d{font-size:10.9px;line-height:1.48;color:var(--muted);margin-top:2px}
+
+  /* ── More-of-the-ministry band ── */
+  .more{margin:0 48px;padding:15px 0 0;border-top:2px solid var(--border)}
+  .more h3{font-family:var(--cond);font-weight:800;font-size:15px;letter-spacing:.11em;text-transform:uppercase;margin-bottom:3px}
+  .more .sub{font-size:11.2px;color:var(--muted);margin-bottom:10px}
+  .trio{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .trio .it{display:grid;grid-template-columns:auto 1fr;gap:9px;align-items:start}
+  .trio .ic{width:26px;height:26px;border-radius:50%;display:grid;place-items:center;flex:none;color:var(--charcoal)}
+  .trio .ic svg{width:14px;height:14px}
+  .trio .it.pro .ic{background:var(--yellow)}
+  .trio .it.dis .ic{background:var(--sky)}
+  .trio .it.hea .ic{background:var(--sage);color:#fff}
+  .trio .t{font-family:var(--cond);font-weight:700;font-size:13px;letter-spacing:.12em;text-transform:uppercase;line-height:1.35}
+  .trio .d{font-size:10.7px;line-height:1.45;color:var(--muted);margin-top:1px}
+  .numline{margin-top:12px;display:grid;grid-template-columns:repeat(4,1fr);background:#fff;border:1.5px solid var(--border);border-radius:7px;overflow:hidden}
+  .numline div{padding:8px 12px;border-right:1px solid var(--border)}
+  .numline div:last-child{border-right:0}
+  .numline .n{font-family:var(--cond);font-weight:800;font-size:20px;line-height:1;color:var(--red)}
+  .numline .l{font-family:var(--cond);font-weight:600;font-size:9.2px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);margin-top:2px;line-height:1.3}
+
+  /* ── Footer ── */
+  .foot{background:var(--charcoal);color:#fff;padding:22px 48px 38px;display:grid;grid-template-columns:1fr auto auto;gap:24px;align-items:center;min-height:1.45in}
+  .foot .lbl{font-family:var(--cond);font-weight:700;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--yellow);margin-bottom:5px}
+  .foot h4{font-family:var(--serif);font-size:15px;font-weight:700;line-height:1.3}
+  .foot p{font-size:11.2px;color:rgba(255,255,255,.72);line-height:1.55;margin-top:3px}
+  .foot .url{font-family:var(--cond);font-weight:700;font-size:16px;letter-spacing:.03em;color:#fff;text-decoration:none;display:block}
+  .foot .phone{font-size:11.2px;color:rgba(255,255,255,.72);margin-top:2px}
+  .qr{width:.95in;height:.95in;background:#fff;padding:5px;border-radius:4px}
+  .qr img{width:100%;height:100%;display:block}
+
+  .print-stamp{position:absolute;right:16px;bottom:6px;font:500 6.5px/1 var(--body);color:rgba(255,255,255,.4);letter-spacing:.08em;z-index:3}
+
+  @media print{
+    @page{size:8.5in 11in;margin:0}
+    body{background:#fff}
+    .no-print{display:none!important}
+    .sheet{margin:0;box-shadow:none;page-break-inside:avoid}
+  }
+</style>
+</head>
+<body>
+
+  <div class="toolbar no-print">
+    <span class="toolbar-stamp" id="toolbar-stamp">Last export: Sep 25, 2026, 12:26 PM AKDT</span>
+    <a class="btn" id="dl-link" href="/print-export/exports/flyer-about-lim-healing_2026-09-25T20-26.pdf" download="LIM-About-Healing_2026-09-25T20-26.pdf">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+      Download PDF</a>
+  </div>
+
+  <article class="sheet" aria-label="Lutheran Indian Ministries healing flyer">
+
+    <header class="topbar">
+      <img src="/brand/lim-mark.svg" alt="Lutheran Indian Ministries mark">
+      <div class="org">Lutheran Indian Ministries
+        <small>Native-Led &middot; Christ-Centered &middot; Since 1985</small></div>
+      <span class="tag">Healing That Lasts</span>
+    </header>
+
+    <section class="qhero">
+      <img src="/images-master/thing-tipi-sunrise.jpg" alt="A tipi at sunrise above a lake in Alaska">
+      <div class="qbox">
+        <div class="mark" aria-hidden="true">&ldquo;</div>
+        <blockquote>I got to let go of deep hurts and disappointments I&rsquo;ve had my entire life. Talk about freedom. You feel so much lighter &mdash; you are not shackled anymore.</blockquote>
+        <div class="attr">
+          <span class="nm">Roberta Richardson</span>
+          <span class="mt">Uuvanagaa Atigah Kitigruq &middot; Anchorage, Alaska &middot; Healing Group participant, now LIM staff</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="mid">
+      <div>
+        <h2>What is a Healing Group?</h2>
+        <p>Some wounds don&rsquo;t heal on their own. Boarding schools. Family separation. Loss carried down through generations. A Healing Group is a small circle of people who sit with those wounds together, in the light of Scripture, and begin to set them down.</p>
+        <p>The curriculum comes from the American Bible Society&rsquo;s Trauma Healing Institute. There is no pressure to share. You come as you are, and you take what is meaningful to you.</p>
+        <ul class="facts">
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"></path></svg>Always free &mdash; lunch included at in-person sessions</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"></path></svg>All are welcome, whatever your faith or background</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"></path></svg>Confidential &mdash; the group agrees to that together</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"></path></svg>Held in villages, on reservations, in cities, and online</li>
+        </ul>
+      </div>
+
+      <aside class="ways">
+        <div class="wh">Three ways to be part of it</div>
+        <div class="wb">
+          <div class="way">
+            <span class="ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 2"></path></svg></span>
+            <div><div class="t">Come to one</div><div class="d">Find the next group near you &mdash; or join one online.</div></div>
+          </div>
+          <div class="way">
+            <span class="ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.8 5.6a5 5 0 0 0-7.1 0L12 7.3l-1.7-1.7a5 5 0 1 0-7.1 7.1L12 21.5l8.8-8.8a5 5 0 0 0 0-7.1z"></path></svg></span>
+            <div><div class="t">Pray</div><div class="d">Prayer Warriors pray for every participant by name, before and after every session.</div></div>
+          </div>
+          <div class="way">
+            <span class="ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10h18"></path><rect x="3" y="5" width="18" height="14" rx="2"></rect><path d="M7 15h4"></path></svg></span>
+            <div><div class="t">Give</div><div class="d">Donors cover every cost, so no one is ever asked to pay to heal.</div></div>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <div class="print-stamp" id="print-stamp">Exported Sep 25, 2026, 12:26 PM AKDT</div>
+
+    <section class="more" aria-label="The rest of the ministry">
+      <h3>Healing is one of three</h3>
+      <div class="sub">Lutheran Indian Ministries has walked alongside Native people for 40 years. The work rests on three pillars.</div>
+      <div class="trio">
+        <div class="it pro">
+          <span class="ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11v3a1 1 0 0 0 1 1h2l4 4V6L6 10H4a1 1 0 0 0-1 1z"></path><path d="M16 8a5 5 0 0 1 0 8"></path><path d="M19.5 5a9 9 0 0 1 0 14"></path></svg></span>
+          <div><div class="t">Proclaim</div><div class="d">The Gospel shared in ways rooted in Native culture. We go only where we are invited.</div></div>
+        </div>
+        <div class="it dis">
+          <span class="ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10L12 5 2 10l10 5 10-5z"></path><path d="M6 12v5c0 1.5 2.7 3 6 3s6-1.5 6-3v-5"></path></svg></span>
+          <div><div class="t">Disciple</div><div class="d">Native leaders raised up at Haskell LIGHT, beside Haskell Indian Nations University.</div></div>
+        </div>
+        <div class="it hea">
+          <span class="ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.8 5.6a5 5 0 0 0-7.1 0L12 7.3l-1.7-1.7a5 5 0 1 0-7.1 7.1L12 21.5l8.8-8.8a5 5 0 0 0 0-7.1z"></path></svg></span>
+          <div><div class="t">Heal</div><div class="d">The groups on this page &mdash; in villages, on reservations, in cities, and online.</div></div>
+        </div>
+      </div>
+      <div class="numline">
+        <div><div class="n">1985</div><div class="l">Serving since</div></div>
+        <div><div class="n">40</div><div class="l">Years of ministry</div></div>
+        <div><div class="n">575</div><div class="l">Recognized tribes</div></div>
+        <div><div class="n">229</div><div class="l">Tribes in Alaska</div></div>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <div>
+        <div class="lbl">Find a group &middot; Give &middot; Learn more</div>
+        <h4>All healing comes from God.</h4>
+        <p>Lutheran Indian Ministries is a Native-led, independent nonprofit &mdash; no church funding, supported entirely by people who believe in this work.</p>
+      </div>
+      <div>
+        <div class="lbl">Start here</div>
+        <a href="https://www.lutheranindianministries.org/healing-groups" class="url">limhope.org</a>
+        <div class="phone">or call (262) 439&#8209;5663</div>
+      </div>
+      <div class="qr" aria-label="QR code to the healing groups page">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=240x240&margin=0&data=https%3A%2F%2Flimhope.org"
+             alt="Scan to find a healing group">
+      </div>
+    </footer>
+
+  </article>
+
+</body>
+</html>
