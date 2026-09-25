@@ -58,6 +58,14 @@ const FLYERS = [
     expectPages: 1
   },
   {
+    id: 'anchorage-2026',
+    kind: 'sheet',
+    html: 'flyer-anchorage-healing-group-2026.html',
+    file: 'flyer-anchorage-healing-group-2026',
+    download: 'LIM-Anchorage-Healing-Group-2026',
+    expectPages: 1
+  },
+  {
     id: 'busby-2026',
     kind: 'sheet',
     html: 'flyer-busby-healing-group-2026.html',
