@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>Print the Flyers — Songs &amp; Stories of Hope, Zion Lutheran Fairbanks</title>
+<meta name="description" content="Both print-ready flyers for Songs &amp; Stories of Hope — full-page poster and half-page handouts. Download the PDF and print.">
+<link rel="canonical" href="https://www.lutheranindianministries.org/zion/print">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700&family=Barlow+Condensed:wght@500;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;--stone:#EBE9E4;
+    --muted:#5a5a52;--border:#d9d6ce;--green:#5f8a4f;--navy:#1B2A4A;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:var(--body);color:var(--charcoal);background:#eceae4;line-height:1.6}
+  a{color:var(--red)}
+
+  .topbar{background:var(--charcoal);color:#fff;padding:.7rem 1.25rem;display:flex;align-items:center;gap:.9rem;position:sticky;top:0;z-index:20;flex-wrap:wrap}
+  .topbar h1{font-family:var(--cond);font-size:1.15rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;margin:0}
+  .topbar .sub{font-size:.78rem;color:rgba(255,255,255,.5)}
+  .topbar .home{margin-left:auto;color:rgba(255,255,255,.6);font-size:.8rem;text-decoration:none;border:1px solid rgba(255,255,255,.2);padding:.35rem .7rem;border-radius:6px}
+  .topbar .home:hover{color:var(--yellow);border-color:var(--yellow)}
+
+  .wrap{max-width:880px;margin:0 auto;padding:1.6rem 1.25rem 4rem}
+
+  .lede{background:#fff;border:1px solid var(--border);border-left:4px solid var(--red);border-radius:10px;padding:1.1rem 1.25rem;margin-bottom:1.5rem}
+  .lede p{margin:0 0 .6rem;font-size:.94rem}
+  .lede p:last-child{margin-bottom:0}
+
+  .facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:0;background:var(--navy);border-radius:10px;overflow:hidden;margin-bottom:1.9rem}
+  .facts div{padding:.9rem 1.1rem;border-right:1px solid rgba(255,255,255,.12)}
+  .facts div:last-child{border-right:0}
+  .facts .k{font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.5)}
+  .facts .v{font-family:var(--cond);font-size:1.08rem;font-weight:700;color:#fff;letter-spacing:.02em;line-height:1.3}
+  .facts .v small{display:block;font-family:var(--body);font-size:.76rem;font-weight:400;color:rgba(255,255,255,.6);letter-spacing:0}
+
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:1.15rem;margin-bottom:1.9rem}
+  @media(max-width:660px){.grid{grid-template-columns:1fr}}
+
+  .card{background:#fff;border:1px solid var(--border);border-radius:10px;overflow:hidden;display:flex;flex-direction:column}
+  .card .shot{display:block;background:var(--stone);border-bottom:1px solid var(--border)}
+  .card .shot img{width:100%;display:block}
+  .card .cb{padding:.95rem 1.05rem 1.05rem;display:flex;flex-direction:column;flex:1}
+  .card .n{font-family:var(--cond);font-weight:800;font-size:1.12rem;letter-spacing:.04em;text-transform:uppercase;line-height:1.2}
+  .card .w{font-family:var(--cond);font-weight:700;font-size:.9rem;letter-spacing:.03em;color:var(--muted);margin-top:.1rem}
+  .card .d{font-size:.87rem;color:var(--muted);margin-top:.5rem;flex:1}
+  .card .btns{display:flex;gap:.45rem;margin-top:.95rem;flex-wrap:wrap}
+
+  .btn{display:inline-flex;align-items:center;gap:.4rem;font:600 .8rem/1 var(--body);
+    border-radius:6px;padding:.6rem .9rem;text-decoration:none;border:1.5px solid transparent;white-space:nowrap}
+  .btn svg{width:14px;height:14px;flex:none}
+  .btn.pdf{background:var(--red);color:#fff}
+  .btn.pdf:hover{background:#c8161d}
+  .btn.open{background:#fff;color:var(--charcoal);border-color:var(--border)}
+  .btn.open:hover{border-color:var(--charcoal)}
+
+  h2{font-family:var(--cond);font-size:1.35rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;margin:0 0 .8rem}
+
+  .tips{background:#fff;border:1px solid var(--border);border-radius:10px;padding:1.05rem 1.2rem}
+  .tips ul{margin:0;padding:0;list-style:none}
+  .tips li{margin:0 0 .6rem;padding-left:1.4rem;position:relative;font-size:.9rem}
+  .tips li:last-child{margin-bottom:0}
+  .tips li::before{content:'';position:absolute;left:.15rem;top:.62em;width:6px;height:6px;border-radius:50%;background:var(--red)}
+
+  .foot{margin-top:2rem;padding-top:1.1rem;border-top:2px solid var(--border);font-size:.85rem;color:var(--muted)}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <h1>Print the Flyers</h1>
+  <span class="sub">Songs &amp; Stories of Hope &middot; Zion Lutheran, Fairbanks</span>
+  <a class="home" href="/zion">View the event page &rarr;</a>
+</div>
+
+<div class="wrap">
+
+  <div class="lede">
+    <p>Two sizes, both finished and ready to go. Press <b>Download PDF</b> and print it &mdash; that PDF is also the file to hand a print shop.</p>
+    <p>Both are true 8.5 &times; 11 with no margin, so nothing gets scaled or cropped.</p>
+  </div>
+
+  <div class="facts">
+    <div><div class="k">What</div><div class="v">Songs &amp; Stories of Hope<small>Free concert &middot; Pastor Bobby Kay</small></div></div>
+    <div><div class="k">When</div><div class="v">Sat, Sept 26<small>2:00 &ndash; 3:30 PM</small></div></div>
+    <div><div class="k">Where</div><div class="v">Zion Lutheran<small>2982 Davis Road, Fairbanks</small></div></div>
+  </div>
+
+  <div class="grid">
+
+    <div class="card">
+      <div class="shot">
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:good,w_700/v1788266347/zion-songs/print-full.png" alt="Full-page poster for Songs and Stories of Hope">
+      </div>
+      <div class="cb">
+        <div class="n">Full-page poster</div>
+        <div class="w">8.5 &times; 11 &middot; 1 per sheet</div>
+        <div class="d">For the notice board, the church entryway, and anywhere it gets taped to a wall. Ask a print shop for 100&ndash;150 lb gloss cover.</div>
+        <div class="btns">
+          <a class="btn pdf" href="/print-export/exports/flyer-zion-songs-stories-2026_2026-09-01T12-45.pdf" download="LIM-Zion-Songs-and-Stories-2026.pdf">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+            Download PDF</a>
+          <a class="btn open" href="/zion/poster">Open it</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="shot">
+        <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:good,w_700/v1788266348/zion-songs/print-half.png" alt="Half-page handouts, two per sheet">
+      </div>
+      <div class="cb">
+        <div class="n">Half-page handouts</div>
+        <div class="w">2 per sheet &middot; cut down the middle</div>
+        <div class="d">The ones people take home and pass on. One sheet makes two handouts, so a hundred handouts costs fifty sheets. Plain 80 lb text is plenty.</div>
+        <div class="btns">
+          <a class="btn pdf" href="/print-export/exports/flyer-zion-songs-stories-half_2026-09-01T12-45.pdf" download="LIM-Zion-Songs-and-Stories-Half-Page.pdf">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+            Download PDF</a>
+          <a class="btn open" href="/zion/half">Open it</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <h2>Printing them right</h2>
+  <div class="tips">
+    <ul>
+      <li><b>Print at 100% / Actual Size.</b> Turn off &ldquo;Fit to page&rdquo; or &ldquo;Shrink oversized pages&rdquo; in the print dialog &mdash; otherwise you get a white band around the edge instead of color running to the trim.</li>
+      <li><b>Turn on background graphics</b> if your printer asks. Print the downloaded PDF rather than the web page and the colors come out right on their own.</li>
+      <li><b>The half-page sheet cuts once,</b> horizontally down the middle. A print shop will guillotine a stack in one pass.</li>
+    </ul>
+  </div>
+
+  <div class="foot">
+    Everything else for this concert &mdash; email, social posts, radio spots &mdash; is on the <a href="/zion/promo">promotion kit page</a>.
+  </div>
+
+</div>
+
+</body>
+</html>
