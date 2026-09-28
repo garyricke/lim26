@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Jaylene — check-in invite fixed (28 Sept 2026)</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#0362BC; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Reply on the “Updated invitation” thread.</span>
+  </div>
+
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Jaylene &mdash;</p>
+
+    <p style="margin:0 0 16px;">That screenshot was exactly what I needed, and it showed I told you wrong. There <i>was</i> a new invite needed.</p>
+
+    <p style="margin:0 0 16px;">When I moved the standing meeting, Google didn&rsquo;t reschedule it &mdash; it ended the old series and quietly started a new one. So everyone got the cancellation and nobody got the replacement. Left alone, I&rsquo;d have been sitting on the Zoom by myself on the 5th.</p>
+
+    <p style="margin:0 0 16px;"><b>Fixed now.</b> A fresh invitation has gone out for <b>Monday 5 October, 12:00&ndash;1:00 PM Central</b> &mdash; same Zoom link, every two weeks as before, and Martha is off the list.</p>
+
+    <p style="margin:0 0 16px;"><b>One thing to watch for:</b> Outlook often leaves the old cancelled block sitting on the calendar even after the new invite arrives. Yours was showing at 9:00 on the 5th. If you see both, the cancelled one is just a leftover &mdash; delete it and keep the noon one.</p>
+
+    <p style="margin:0 0 16px;">Would you mind confirming you can see it at noon on the 5th? If it&rsquo;s right on your end I&rsquo;ll assume Robert and Roberta got theirs too.</p>
+
+    <p style="margin:0 0 4px;">Thanks for catching this &mdash; genuinely.</p>
+    <p style="margin:0;">Gary</p>
+  </div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
