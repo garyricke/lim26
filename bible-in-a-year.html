@@ -283,6 +283,16 @@
     // Analytics property, so it cannot report into GA4. Both load here;
     // dropping Meyer's would risk their Feathr hook.
     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TZG3PCB');
+    // Meta pixel 2628936207536583 — loads only after consent, exactly like the GTM
+    // containers above. It sends PageView and, on the healing-group form,
+    // a bare CompleteRegistration. No name, email, phone or anything about
+    // why a person is there is ever passed to Meta.
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
+    (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init','2628936207536583'); fbq('track','PageView');
   }
   function show(el,on){var e=document.getElementById(el); if(e) e.classList[on?'add':'remove']('cc-show');}
   window.ccChoose=function(ok){ try{localStorage.setItem(KEY, ok?'granted':'denied');}catch(e){} show('cc-banner',false); show('cc-reopen',true); if(ok) gtm(); };
