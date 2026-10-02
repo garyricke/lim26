@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Angie — info@ fixed + branded email (2 Oct 2026)</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#0362BC; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Reply on the “website link for Email LIM” thread (Robert is cc'd).</span>
+  </div>
+
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Angie &mdash;</p>
+
+    <p style="margin:0 0 16px;">Thank you for flagging this. You caught something worse than a wrong link, and I owe you an explanation of how it got there.</p>
+
+    <p style="margin:0 0 16px;"><b>Fixed as of this morning.</b> Every &ldquo;Email LIM&rdquo; and &ldquo;Contact Us&rdquo; link on the site now goes to your address, and I&rsquo;ve removed <span style="white-space:nowrap">info@</span> from all eighteen places it appeared, including the hidden site data that Google reads.</p>
+
+    <p style="margin:0 0 16px;"><b>What was actually wrong.</b> I tested <span style="white-space:nowrap">info@lutheranindianministries.org</span> and it doesn&rsquo;t just go to the wrong place &mdash; it bounces. Microsoft rejects it outright:</p>
+
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 16px;"><tr>
+      <td bgcolor="#fdecee" style="background-color:#fdecee; padding:12px 16px; font-family:Menlo,Consolas,monospace; font-size:13px;">550 5.4.1 Recipient address rejected: Access denied</td>
+    </tr></table>
+
+    <p style="margin:0 0 16px;">So anyone who clicked &ldquo;Email LIM&rdquo; since the site launched got their message returned. Most of them wouldn&rsquo;t have told us &mdash; they&rsquo;d just have assumed the ministry didn&rsquo;t answer. I don&rsquo;t know how many that is, and that bothers me.</p>
+
+    <p style="margin:0 0 16px;"><b>How it happened, honestly:</b> I believe we created that address ourselves when we built the site, because a general contact address is the right thing for a ministry to have. What we should have done is ask you to set it up first, rather than publish an address and assume it existed. That one is on us, and I&rsquo;m sorry.</p>
+
+    <p style="margin:0 0 10px;"><b>On using the Gmail address instead.</b> I&rsquo;d push back on that one, and not for cosmetic reasons:</p>
+    <ul style="margin:0 0 16px; padding-left:20px;">
+      <li style="margin:0 0 8px;"><b>It&rsquo;s the address that broke the donation receipts.</b> <span style="white-space:nowrap">lutheranindian@gmail.com</span> was the sender Blackbaud was using when every receipt stopped arriving in August. The fix in September was moving off it. Our security settings are now stricter than they were then, so putting it back on the website invites the same kind of trouble.</li>
+      <li style="margin:0 0 8px;"><b>A Gmail belongs to a person, not the ministry.</b> Whoever holds that password owns the inbox and everything in it. An address on your own domain belongs to LIM, and survives staff changes.</li>
+      <li style="margin:0 0 8px;"><b>Donors notice.</b> A ministry asking for gifts from a Gmail address reads differently than one using its own name &mdash; to donors, and to the foundations that check these things.</li>
+      <li style="margin:0 0 8px;"><b>Only one person can really watch a Gmail.</b> A shared mailbox lets several of you see it, which matters when someone&rsquo;s on leave.</li>
+    </ul>
+
+    <p style="margin:0 0 10px;"><b>What I&rsquo;d suggest, and it&rsquo;s small.</b> You&rsquo;re already on Microsoft 365, so:</p>
+    <ol style="margin:0 0 16px; padding-left:20px;">
+      <li style="margin:0 0 8px;">Create <span style="white-space:nowrap">info@lutheranindianministries.org</span> as a <b>shared mailbox</b> in the Microsoft 365 admin centre. Shared mailboxes are free &mdash; they don&rsquo;t need their own licence.</li>
+      <li style="margin:0 0 8px;">Give access to whoever should see it &mdash; you, Robert, anyone else.</li>
+      <li style="margin:0 0 8px;">If it&rsquo;s easier to read day to day in the Gmail inbox, set it to forward there. You&rsquo;d still get the mail where you want it; the website just wouldn&rsquo;t advertise a Gmail address.</li>
+      <li style="margin:0 0 8px;"><b>Then test it from outside</b> &mdash; your phone&rsquo;s personal email, not your LIM account. This matters: the error we got can also mean a mailbox exists but refuses outside senders, and a test from your LIM account would pass and prove nothing.</li>
+    </ol>
+
+    <p style="margin:0 0 16px;">Tell me when it&rsquo;s live and I&rsquo;ll switch the website over the same day. Until then everything comes to you, so nothing is lost.</p>
+
+    <p style="margin:0 0 16px;">If setting it up would be easier with company, I&rsquo;m happy to get on a call and walk through it with you &mdash; it&rsquo;s about a five minute job.</p>
+
+    <p style="margin:0;">Gary</p>
+  </div>
+
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
