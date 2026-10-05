@@ -41,7 +41,7 @@
 
   <div class="gap">
     <b class="t">Gary — fill these before you send</b>
-    <b>No blanks left.</b> Hours in section 8 come from time.orbisdesign.com (LIM 2, entries 14 Sept – 2 Oct = 35.6 h). Check the box below before sending, because a few days look unlogged.
+    <b>No blanks left.</b> Hours in section 8 come from time.orbisdesign.com (LIM 2, 14 Sept – 2 Oct, Fairbanks trip excluded = 17.1 h). Check the box below before sending, because a few days look unlogged.
     </div>
 
   <div class="me">
@@ -50,13 +50,14 @@
     <table>
       <tr><td>New prepaid block</td><td>$5,000 ÷ $70</td><td>71.4 h</td></tr>
       <tr><td>14–17 Sept</td><td>call follow-up, anger resource, Montana, PSAs</td><td>7.8 h</td></tr>
-      <tr><td>21–22 Sept</td><td>Tree of Life days 1–2</td><td>17.75 h</td></tr>
-      <tr><td>21–26 Sept</td><td>Busby, Anchorage, Zion flyers, handouts, concert</td><td>4.25 h</td></tr>
+      <tr><td>21–22 Sept</td><td>Tree of Life days 1–2 — <i>not billed (trip LIM paid for)</i></td><td style="text-decoration:line-through;font-weight:400">17.75 h</td></tr>
+      <tr><td>21–25 Sept</td><td>Busby, Anchorage, Zion flyers, handouts</td><td>3.5 h</td></tr>
+      <tr><td>26 Sept</td><td>Filming the Zion concert — <i>not billed (trip)</i></td><td style="text-decoration:line-through;font-weight:400">0.75 h</td></tr>
       <tr><td>28 Sept – 2 Oct</td><td>invites, invoicing, Anchorage ask, pixel, info@</td><td>5.75 h</td></tr>
-      <tr><td><b>Used</b></td><td>≈ $2,491</td><td>35.6 h</td></tr>
-      <tr><td><b>Remaining</b></td><td></td><td>35.8 h</td></tr>
+      <tr><td><b>Used</b></td><td>≈ $1,196</td><td>17.1 h</td></tr>
+      <tr><td><b>Remaining</b></td><td></td><td>54.3 h</td></tr>
     </table>
-    <b>Looks unlogged, so add these before you quote the numbers:</b> <b>Tree of Life day 3 (Wed 23 Sept)</b> · <b>the Thu/Fri 24–25 Sept recording days</b> (only the flyers are logged on the 25th) · <b>the 1 Oct Anchorage campaign build</b> (only 0.5 h for the pixel is in) · <b>this morning</b> (GA4 fix, Ads Manager pull, agenda). If you add them, update section 8.
+    <b>Still unlogged (billable):</b> the 1 Oct Anchorage campaign build (only 0.5 h for the pixel is in) and this morning (Google Analytics fix, Ads Manager pull, agenda). The Tree of Life and concert entries are still in Time as LIM 2, so mark them non-billable there too, or every later pull will count them again.
     <br><br><b>Done this morning (5 Oct):</b> the 1 Oct “GA4 now counts registrations” fix <i>wasn't working</i> — the page pushed a <code>healing_group_registration</code> event but LIM's GTM container (TZG3PCB) has only the Google tag, nothing listening. Now sent as a gtag event with <code>send_to</code>; Playwright-verified through the real submit path (commit <code>d67a74a</code>). In GA4 Admin → Events, mark <code>healing_group_registration</code> as a key event once the first real one appears. Also checked both GTM containers for the stale-tag problem you found at Represent Justice: clean — no old Meta/UA pixels.
     <br><br><b>Still yours to check:</b> the two overlapping Camp Perkins captions (page is public). An older boosted post shows <i>Rejected</i> in Ads Manager — not this campaign. Bible-in-a-Year requests (Nelly Ewan, Copper Center, 4 Oct) notify only you — does anyone at LIM see them?
   </div>
@@ -146,7 +147,7 @@
 
       <h3>8. Hours and billing</h3>
 
-      <p>Both invoices went to Angie on 28 September: the $2,114 catch-up for the 30.2 hours past the old block, and the new $5,000 block (71.4 hours at $70), which started on 11 September. Since then I've used <b>35.6 hours</b>, most of it the two Tree of Life days I logged in Fairbanks (17.75 h), plus the Busby, Anchorage and Zion flyers, the handouts, the Anchorage ads and pixel, and the <code>info@</code> fix. That leaves <b>about 35.8 hours</b> on the block. The block doesn't expire.</p>
+      <p>Both invoices went to Angie on 28 September: the $2,114 catch-up for the 30.2 hours past the old block, and the new $5,000 block (71.4 hours at $70), which started on 11 September. Since then I've used <b>17.1 hours</b>: the Busby, Anchorage and Zion flyers and handouts, the anger resource, the Anchorage ads and pixel, and the <code>info@</code> fix. That leaves <b>about 54.3 hours</b> on the block. The Fairbanks trip, meaning Tree of Life and filming the concert, isn't charged against it. LIM paid for that trip, and I'm not billing hours on top of it. The block doesn't expire.</p>
 
       <p class="sig">See you at noon.<br>Gary</p>
     </div>
