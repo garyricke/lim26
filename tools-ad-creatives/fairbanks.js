@@ -1,5 +1,5 @@
 // Fairbanks healing-group Facebook/Instagram ad images (1080x1350, details printed on the photo).
-// Once Roberta sets dates:   node tools-ad-creatives/fairbanks.js "Wed–Fri · Nov 4–6"
+// Usage: node tools-ad-creatives/fairbanks.js "Wed–Fri · Nov 11–13" ["<b>Starts Wed at noon</b> &middot; Lunch every day"]
 // Output: assets/ads-fairbanks/ (not committed — upload those JPGs to Meta).
 const { chromium } = require('/Users/garyricke/Documents/lim2026/print-export/node_modules/playwright');
 const fs=require('fs');
@@ -9,7 +9,7 @@ const WHEN=process.argv[2]||'Dates coming soon';
 const tpl=fs.readFileSync(S+'/ad-tpl.html','utf8')
   .replace('KICKER','Fairbanks, Alaska')
   .replace('WHEN',WHEN.replace(/&/g,'&amp;'))
-  .replace('ROW1','<b>3 days</b> &middot; Lunch provided every day')
+  .replace('ROW1',process.argv[3]||'<b>3 days</b> &middot; Lunch provided every day')
   .replace('ROW2','<b>Zion Lutheran Church</b> &middot; 2982 Davis Road');
 const photos={embrace:[ROOT+'/images-master/people-healing-embrace.jpg','50% 12%'],
               zion:['https://res.cloudinary.com/dsbllwpbh/image/upload/q_auto/lim2026/zion-2026/sign.jpg','50% 44%']};
