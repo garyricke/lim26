@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>The Website’s First Two Months — Report to the Board</title>
+<link rel="canonical" href="https://www.lutheranindianministries.org/board-report/website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;
+    --sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--sky-d:#6fa3b8;
+    --stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;--green:#4f7d52;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:var(--body);color:var(--charcoal);background:var(--stone);line-height:1.72}
+
+  .bar{background:var(--charcoal);color:#fff;padding:1rem 1.5rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap;position:sticky;top:0;z-index:50}
+  .bar h1{font-family:var(--cond);font-size:1.1rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-right:auto}
+  .bar button,.bar .dl{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.6rem 1.25rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer;text-decoration:none;display:inline-block}
+  .bar button:hover,.bar .dl:hover{background:#ffe95c}
+  .bar button.secondary{background:transparent;color:rgba(255,255,255,.7);border:1.5px solid rgba(255,255,255,.25)}
+  .bar button.secondary:hover{background:rgba(255,255,255,.08);color:#fff}
+
+  .doc{max-width:7.4in;margin:2rem auto 4rem;background:#fff;padding:.8in .9in 1in;box-shadow:0 8px 30px rgba(0,0,0,.13)}
+
+  .mast{border-bottom:3px solid var(--charcoal);padding-bottom:1rem;margin-bottom:1.9rem}
+  .mast img{height:40px;margin-bottom:1rem}
+  .mast .lbl{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.35rem}
+  .mast h2{font-family:var(--serif);font-size:1.85rem;font-weight:900;line-height:1.22}
+  .mast .sub{font-size:.88rem;color:var(--muted);margin-top:.5rem}
+
+  h3{font-family:var(--cond);font-size:1.1rem;font-weight:800;letter-spacing:.09em;text-transform:uppercase;margin:2.1rem 0 .7rem;padding-bottom:.3rem;border-bottom:1px solid var(--border);break-after:avoid}
+  p{margin-bottom:.9rem;font-size:.94rem}
+  .lede{font-family:var(--serif);font-size:1.04rem;line-height:1.8}
+  ul{margin:.3rem 0 1rem 0;list-style:none}
+  li{font-size:.94rem;margin-bottom:.62rem;padding-left:1.15rem;position:relative}
+  li::before{content:'';position:absolute;left:0;top:.62em;width:6px;height:6px;border-radius:50%;background:var(--yellow)}
+  li b{font-weight:700}
+
+  /* Stat band */
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:0;border:1px solid var(--border);border-radius:8px;overflow:hidden;margin:1.5rem 0 1.7rem}
+  .stat{padding:1.05rem .9rem;text-align:center;border-right:1px solid var(--border);background:#fcfbf9}
+  .stat:last-child{border-right:0}
+  .stat .n{font-family:var(--cond);font-size:1.72rem;font-weight:800;line-height:1;color:var(--charcoal)}
+  .stat .n small{font-size:.95rem;font-weight:700;color:var(--muted)}
+  .stat .l{font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);margin-top:.4rem;line-height:1.35}
+
+  table{width:100%;border-collapse:collapse;margin:.6rem 0 1.3rem;font-size:.88rem}
+  th{font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);text-align:left;padding:.42rem .55rem;border-bottom:2px solid var(--charcoal)}
+  th.n,td.n{text-align:right;font-variant-numeric:tabular-nums}
+  td{padding:.42rem .55rem;border-bottom:1px solid var(--border)}
+  tr:last-child td{border-bottom:0}
+  td.pg{font-weight:600}
+
+  .callout{background:var(--stone);border-left:5px solid var(--sky-d);border-radius:6px;padding:1.05rem 1.2rem;margin:1.3rem 0}
+  .callout .h{font-family:var(--cond);font-size:.84rem;font-weight:800;letter-spacing:.11em;text-transform:uppercase;margin-bottom:.4rem}
+  .callout p:last-child{margin-bottom:0}
+  .callout.warn{border-left-color:var(--red);background:#fff6f6}
+  .callout.good{border-left-color:var(--green);background:#f4f8f4}
+
+  .foot{margin-top:2.3rem;padding-top:1rem;border-top:1px solid var(--border);font-size:.79rem;color:var(--muted)}
+
+  @media print{
+    @page{size:letter;margin:.65in .7in}
+    body{background:#fff}
+    .bar{display:none!important}
+    .doc{box-shadow:none;margin:0;padding:0;max-width:none}
+    h3{break-after:avoid}
+    .stats,table,.callout{break-inside:avoid}
+  }
+  @media(max-width:760px){
+    .doc{padding:1.6rem 1.3rem}
+    .stats{grid-template-columns:1fr 1fr}
+    .stat{border-bottom:1px solid var(--border)}
+  }
+</style>
+</head>
+<body>
+
+<div class="bar">
+  <h1>Board Report — Website, Nov 2026</h1>
+  <button id="print" type="button">Print / Save as PDF</button>
+</div>
+
+<div class="doc">
+
+  <div class="mast">
+    <img src="/brand/lutheranindianMinistries-logo-horz-stacked.svg" alt="Lutheran Indian Ministries">
+    <span class="lbl">Report to the Board of Directors &middot; November 3&ndash;4, 2026</span>
+    <h2>The Website&rsquo;s First Two Months</h2>
+    <p class="sub">Covers 3 August (launch) &ndash; 8 October 2026 &middot; prepared by Gary Ricke, Orbis Design</p>
+  </div>
+
+  <p class="lede">The new site went live on 3 August. Its job is not traffic for its own sake: it is to turn interest into people in the room &mdash; registrations, applications and requests. This report counts what it produced, shows what visitors read, and is plain about what we can and can&rsquo;t yet measure.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="n">19</div><div class="l">Healing-group<br>registrations</div></div>
+    <div class="stat"><div class="n">16</div><div class="l">Tree of Life<br>applications</div></div>
+    <div class="stat"><div class="n">1,032</div><div class="l">Visits from the<br>Anchorage ad</div></div>
+    <div class="stat"><div class="n">2<small> min</small></div><div class="l">Average time on site,<br>U.S. visitors</div></div>
+  </div>
+
+  <h3>1 &middot; What the site produced</h3>
+  <p>Every item below is a form someone filled in on the site, so these are complete counts &mdash; not samples or estimates. Duplicate submissions by the same person are counted once.</p>
+  <table>
+    <tr><th>Action</th><th>When</th><th class="n">Count</th></tr>
+    <tr><td class="pg">Online Healing Group registrations</td><td>Aug 4&ndash;7, for the Aug 5&ndash;14 group</td><td class="n">8</td></tr>
+    <tr><td class="pg">Anchorage Healing Group registrations</td><td>Aug 23 &ndash; Oct 9, for Oct 9&ndash;10</td><td class="n">7</td></tr>
+    <tr><td class="pg">Facilitator Equipping Training sign-ups</td><td>Aug 4 &ndash; Oct 7</td><td class="n">4</td></tr>
+    <tr><td class="pg">Tree of Life Gathering applications</td><td>Aug 17 &ndash; Sep 18, for Sep 21&ndash;23</td><td class="n">16</td></tr>
+    <tr><td class="pg">Bible-in-a-Year study Bible requests</td><td>Aug 26 &ndash; Oct 5</td><td class="n">3</td></tr>
+    <tr><td class="pg">Email newsletter sign-ups</td><td>Since launch</td><td class="n">1</td></tr>
+  </table>
+  <p>Before launch, Tree of Life applications went through a paid Jotform account and healing-group sign-ups came by phone and email. All of it now lands on LIM&rsquo;s own site, in one place, at no per-form cost.</p>
+  <div class="callout">
+    <div class="h">Not in this report yet: online gifts</div>
+    <p>Donations run through Blackbaud, which we can&rsquo;t see from the website side. Angie can pull the number of online gifts and dollars since 3 August for the board pack. <b>[Pending from Angie]</b></p>
+  </div>
+
+  <h3>2 &middot; What visitors read, and where they came from</h3>
+  <div class="callout warn">
+    <div class="h">Read these numbers as proportions, not totals</div>
+    <p>Google Analytics only counts visitors who click <i>Accept</i> on the site&rsquo;s cookie notice &mdash; a privacy protection we chose deliberately. Our own ad data shows how big the gap is: in the first four days of the Anchorage ad, Facebook delivered 773 visits but only 83 were counted. The counted sample is 449 people, 698 visits and 1,008 page views, and nearly a third of those &ldquo;people&rdquo; are overseas bots that stay one second. The patterns below come from the real visitors. Section 4 explains how we&rsquo;ll get a full count.</p>
+  </div>
+  <table>
+    <tr><th>Page</th><th class="n">Share of page views</th></tr>
+    <tr><td class="pg">Home</td><td class="n">61%</td></tr>
+    <tr><td class="pg">Healing Groups</td><td class="n">18%</td></tr>
+    <tr><td class="pg">About</td><td class="n">9%</td></tr>
+    <tr><td class="pg">&ldquo;The Choice: Native OR Christian?&rdquo; (story)</td><td class="n">6%</td></tr>
+    <tr><td class="pg">Give / Donate</td><td class="n">5%</td></tr>
+  </table>
+  <ul>
+    <li><b>Healing Groups is still the second-most-visited page,</b> exactly as it was on the old site. It is what people come for.</li>
+    <li><b>Google search brings the most engaged visitors</b> &mdash; two-thirds of them read on, for close to two minutes. About one visit in five comes from Google.</li>
+    <li><b>Visitors from our Facebook ads were the most engaged of all</b> (78% read past the first page). Paid ads are the newest channel and already the best-quality one.</li>
+    <li><b>Most U.S. visitors stay about two minutes</b>, which on a ministry site means reading, not bouncing.</li>
+  </ul>
+
+  <h3>3 &middot; Advertising</h3>
+  <table>
+    <tr><th>Campaign</th><th class="n">Spent</th><th>Result</th></tr>
+    <tr><td class="pg">Zion &ldquo;Songs &amp; Stories of Hope&rdquo; concert, Fairbanks</td><td class="n">$249.57</td><td>Seen by 4,821 people in the Fairbanks area, about 5 times each</td></tr>
+    <tr><td class="pg">Anchorage Healing Group, Oct 9&ndash;10</td><td class="n">$250</td><td>1,032 visits to the healing-groups page at about 16&cent; each (to 7 Oct); 6 of the 7 Anchorage registrations arrived after the ad started</td></tr>
+    <tr><td class="pg">Fairbanks Healing Group, Nov 11&ndash;13</td><td class="n">$250</td><td>Scheduled to run 28 Oct &ndash; 11 Nov</td></tr>
+  </table>
+  <p><b>Feathr</b> (display and retargeting ads run by Meyer Partners) is reported separately. We are asking Meyer for impressions, clicks, spend and any donations attributed to the ads since launch. <b>[Pending from Meyer Partners]</b></p>
+
+  <h3>4 &middot; Conversion rate &mdash; what we can honestly say</h3>
+  <p>A true conversion rate is actions divided by all visitors, and we don&rsquo;t yet have the &ldquo;all visitors&rdquo; number (see Section 2). The clearest measured case is Anchorage: about 1,000 ad visits produced 6 registrations in the same window, <b>a little under 1%</b>. For a two-day trauma-healing group, a much bigger ask than a click, that is a reasonable start, and it is the first real benchmark LIM has.</p>
+
+  <h3>5 &middot; What we&rsquo;re fixing before the next report</h3>
+  <ul>
+    <li><b>Count every visit, without cookies.</b> Add a privacy-friendly, server-side visit counter so the board sees full totals, alongside Google Analytics for behaviour. Small monthly cost (about $9).</li>
+    <li><b>Track the newer pages.</b> Camp Perkins, the event recaps, the event flyers and the Tree of Life pages were built after launch and aren&rsquo;t yet counted at all.</li>
+    <li><b>Report registrations as a goal in Google Analytics,</b> so &ldquo;did it work&rdquo; is answered automatically each month.</li>
+    <li><b>Restore Google Search Console access,</b> which shows how often LIM appears in Google searches and for what.</li>
+    <li><b>Connect newsletter sign-ups to MailChimp</b> and make the sign-up more visible &mdash; one sign-up in two months says it&rsquo;s too easy to miss.</li>
+  </ul>
+
+  <p class="foot">Sources: Netlify form records (complete); Google Analytics 4 property G-ZLC3QT9T1E, consenting visitors only; Meta Ads Manager. Window 3 Aug &ndash; 8 Oct 2026 unless noted. Prepared 9 October 2026.</p>
+</div>
+
+<script>document.getElementById('print').addEventListener('click',function(){window.print();});</script>
+</body>
+</html>

@@ -79,6 +79,7 @@
 /receipt-check                                   /blackbaud-dns-check.html        200
 /songs                                           /songs-and-stories               301
 /board-report                                    /docs-board-report.html          200
+/board-report/website                            /docs-board-report-website-nov2026.html   200
 /camp-report                                     /docs-camp-perkins-report.html   200
 # Meyer Partners will link donors here from an appeal, so it gets a clean stem.
 /camp-perkins                                    /blog-camp-perkins-2026.html     200
