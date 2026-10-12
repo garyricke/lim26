@@ -7,6 +7,7 @@ const path=require('path'); const ROOT=path.resolve(__dirname,'..'); const S=__d
 const OUT=ROOT+'/assets/ads-fairbanks'; fs.mkdirSync(OUT,{recursive:true});
 const WHEN=process.argv[2]||'Dates coming soon';
 const tpl=fs.readFileSync(S+'/ad-tpl.html','utf8')
+  .replace('Free &middot; No cost, ever', process.env.TAG||'Free &middot; No cost, ever')
   .replace('KICKER','Fairbanks, Alaska')
   .replace('WHEN',WHEN.replace(/&/g,'&amp;'))
   .replace('ROW1',process.argv[3]||'<b>3 days</b> &middot; Lunch provided every day')
