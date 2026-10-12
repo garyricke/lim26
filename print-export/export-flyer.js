@@ -139,6 +139,13 @@ const FLYERS = [
     download: 'LIM-History-Draft'
   },
   {
+    id: 'board-website-2026-11',
+    kind: 'doc',
+    html: 'docs-board-report-website-nov2026.html',
+    file: 'board-report-website-2026-11',
+    download: 'LIM-Board-Report-Website-Nov-2026'
+  },
+  {
     id: 'board-report',
     kind: 'doc',
     html: 'docs-board-report.html',
