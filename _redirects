@@ -43,6 +43,8 @@
 # Roberta shares the Anchorage healing-group flyer by text and email, so it gets
 # its own stem too. Its assets are root-absolute, which a 200 rewrite requires.
 /anchorage                                       /flyer-anchorage-healing-group-2026.html   200
+/busby                                           /flyer-busby-healing-group-2026.html   200
+/fairbanks                                       /flyer-fairbanks-healing-groups-2026.html   200
 /flyer/tree-of-life                              /tree-of-life/flyer              301
 /verse-jars                                      /verse-jars.html                 200
 
