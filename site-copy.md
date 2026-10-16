@@ -240,7 +240,7 @@ _File: `index.html`_
 - `[idx-144]` **Label** — Dedicate this gift (in honor or memory of someone)
 - `[idx-145]` **Form placeholder** — In honor / memory of…
 - `[idx-146]` **Button** — Give $100 Now
-- `[idx-147]` **Paragraph** — Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
+- `[idx-147]` **Paragraph** — Secure & encrypted · 501(c)(3) EIN 39-1509253 · Tax-deductible
 - `[idx-148]` **H3** — Thank You!
 - `[idx-149]` **Paragraph** — Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.
 - `[idx-150]` **Button** — Close
@@ -490,7 +490,7 @@ _File: `about.html`_
 - `[abt-092]` **Link** — (262) 783-5267
 - `[abt-093]` **Link** — Email LIM
 - `[abt-094]` **Link** — Official Website
-- `[abt-095]` **Paragraph** — © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · EIN 39-1506889 · All Rights Reserved
+- `[abt-095]` **Paragraph** — © 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · EIN 39-1509253 · All Rights Reserved
 - `[abt-096]` **Button** — A
 
 
@@ -515,7 +515,7 @@ _File: `about.html`_
 - `[abt-113]` **Label** — Dedicate this gift (in honor or memory of someone)
 - `[abt-114]` **Form placeholder** — In honor / memory of…
 - `[abt-115]` **Button** — Give $100 Now
-- `[abt-116]` **Paragraph** — Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
+- `[abt-116]` **Paragraph** — Secure & encrypted · 501(c)(3) EIN 39-1509253 · Tax-deductible
 - `[abt-117]` **H3** — Thank You!
 - `[abt-118]` **Paragraph** — Your generous gift is making a difference in Native communities across the country. A confirmation will be sent to your email.
 - `[abt-119]` **Button** — Close

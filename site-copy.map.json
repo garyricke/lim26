@@ -1324,7 +1324,7 @@
           "tag": "p",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
-          "text": "Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible",
+          "text": "Secure & encrypted · 501(c)(3) EIN 39-1509253 · Tax-deductible",
           "css": "form#don-form > p.don-trust",
           "line": null
         },
@@ -2825,7 +2825,7 @@
           "tag": "p",
           "section": "footer#footer",
           "section_slug": "footer",
-          "text": "© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · EIN 39-1506889 · All Rights Reserved",
+          "text": "© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · EIN 39-1509253 · All Rights Reserved",
           "css": "footer#footer > div.foot-bot:nth-of-type(2) > p",
           "line": 874
         },
@@ -3014,7 +3014,7 @@
           "tag": "p",
           "section": "modal#m-donate",
           "section_slug": "m-donate",
-          "text": "Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible",
+          "text": "Secure & encrypted · 501(c)(3) EIN 39-1509253 · Tax-deductible",
           "css": "form#don-form > p.don-trust",
           "line": null
         },

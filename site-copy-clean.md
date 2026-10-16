@@ -670,7 +670,7 @@ Give $100 Now
 
 [idx-147]
 
-Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
+Secure & encrypted · 501(c)(3) EIN 39-1509253 · Tax-deductible
 
 [idx-148]
 
@@ -1403,7 +1403,7 @@ Official Website
 
 [abt-095]
 
-© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · EIN 39-1506889 · All Rights Reserved
+© 2026 Lutheran Indian Ministries · 501(c)(3) Non-Profit Organization · EIN 39-1509253 · All Rights Reserved
 
 [abt-096]
 
@@ -1490,7 +1490,7 @@ Give $100 Now
 
 [abt-116]
 
-Secure & encrypted · 501(c)(3) EIN 39-1506889 · Tax-deductible
+Secure & encrypted · 501(c)(3) EIN 39-1509253 · Tax-deductible
 
 [abt-117]
 
