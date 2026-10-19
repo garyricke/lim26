@@ -1,0 +1,42 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Team — check-in links (19 Oct 2026)</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into your email (formatting included).</span>
+  </div>
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Hi Robert, Jaylene and Roberta,</p>
+    <p style="margin:0 0 16px;">Here's everything for today's noon check-in, in one place.</p>
+
+    <p style="margin:0 0 8px;"><strong>Today's agenda.</strong> Two decisions (the cookie notice and the Google Ad Grant), a few quick questions, and where the hours stand.</p>
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 20px;"><tr>
+      <td bgcolor="#ED1C24" style="background-color:#ED1C24; border-radius:8px; padding:11px 20px;">
+        <a href="https://www.lutheranindianministries.org/checkin" style="color:#ffffff; text-decoration:none; font-weight:600; font-size:15px;"><font color="#ffffff">Open today's agenda &rarr;</font></a>
+      </td></tr></table>
+
+    <p style="margin:0 0 8px;"><strong>Board report.</strong> The website's first two months for the November board pack, with a Download PDF button.</p>
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 20px;"><tr>
+      <td bgcolor="#282924" style="background-color:#282924; border-radius:8px; padding:11px 20px;">
+        <a href="https://www.lutheranindianministries.org/board-report/website" style="color:#ffffff; text-decoration:none; font-weight:600; font-size:15px;"><font color="#ffffff">Open the board report &rarr;</font></a>
+      </td></tr></table>
+
+    <p style="margin:0 0 8px;"><strong>Google Ad Grant plan.</strong> Now that Goodstack has approved LIM, this is how we'd use the grant: six campaigns with sample ads, the keywords to target, how each answers what we've talked about in past meetings, and the first 90 days.</p>
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 20px;"><tr>
+      <td bgcolor="#282924" style="background-color:#282924; border-radius:8px; padding:11px 20px;">
+        <a href="https://www.lutheranindianministries.org/ad-grant-plan" style="color:#ffffff; text-decoration:none; font-weight:600; font-size:15px;"><font color="#ffffff">Open the Ad Grant plan &rarr;</font></a>
+      </td></tr></table>
+
+    <p style="margin:0 0 16px;">If you have a few minutes before we meet, the plan is the one to skim.</p>
+    <p style="margin:0 0 4px;">See you at noon,</p>
+    <p style="margin:0;">Gary</p>
+  </div>
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
