@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>LIM Google Ad Grant Plan</title>
+<link rel="canonical" href="https://www.lutheranindianministries.org/ad-grant-plan">
+<link rel="icon" href="/brand/lim-favicon-2026.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Barlow+Condensed:wght@600;700;800&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#282924; --paper:#F7F5F0; --card:#fff; --line:#E3DFD5; --dim:#6B6A62;
+    --yellow:#FFDE16; --red:#ED1C24; --green:#2F7A4F; --green-bg:#E6F2EA; --g-blue:#1a0dab; --g-url:#202124;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font:400 1rem/1.6 "Open Sans",system-ui,sans-serif}
+  .wrap{max-width:860px;margin:0 auto;padding:0 16px 4rem}
+  header{background:var(--ink);color:#fff}
+  header .wrap{padding-top:1.4rem;padding-bottom:1.4rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap}
+  header img{height:42px}
+  header .when{margin-left:auto;text-align:right}
+  header .when b{display:block;font:800 1.5rem/1 "Barlow Condensed",sans-serif;letter-spacing:.02em;text-transform:uppercase;color:var(--yellow)}
+  header .when span{font-size:.85rem;color:rgba(255,255,255,.7)}
+  h1{font:700 1.6rem/1.3 "Merriweather",serif;margin:2rem 0 .6rem;text-wrap:balance}
+  h2{font:800 1.15rem/1 "Barlow Condensed",sans-serif;letter-spacing:.08em;text-transform:uppercase;margin:2.6rem 0 .9rem;display:flex;align-items:center;gap:.5rem}
+  h2 svg{width:22px;height:22px;color:var(--red);flex:none}
+  h3{font:700 1.05rem/1.3 "Open Sans",sans-serif;margin:0}
+  p{margin:.7rem 0 0;max-width:68ch}
+  .lede{font:700 1.1rem/1.5 "Merriweather",serif;margin-top:.4rem}
+  a{color:var(--red)}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1.1rem 1.2rem;margin:.7rem 0}
+  .card > p:first-of-type{margin-top:.4rem}
+  .note{font-size:.88rem;color:var(--dim)}
+  .tag{display:inline-block;font:700 .7rem/1 "Barlow Condensed",sans-serif;letter-spacing:.08em;text-transform:uppercase;background:var(--ink);color:var(--yellow);padding:.25rem .45rem;border-radius:4px;vertical-align:2px;margin-left:.3rem}
+  .tag.go{background:var(--green);color:#fff}
+  .tag.later{background:#E8E4DA;color:var(--ink)}
+
+  /* three jobs */
+  .jobs{display:grid;grid-template-columns:repeat(3,1fr);gap:.6rem;margin-top:1rem}
+  .job{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:.9rem 1rem}
+  .job b{display:block;font:800 1.05rem/1.2 "Barlow Condensed",sans-serif;letter-spacing:.04em;text-transform:uppercase}
+  .job span{font-size:.9rem;color:var(--dim)}
+  @media (max-width:640px){.jobs{grid-template-columns:1fr}}
+
+  /* tables */
+  .tw{overflow-x:auto;margin:.7rem 0;background:var(--card);border:1px solid var(--line);border-radius:12px}
+  table{border-collapse:collapse;width:100%;font-size:.92rem}
+  th,td{text-align:left;padding:.65rem .9rem;border-top:1px solid var(--line);vertical-align:top}
+  thead th{border-top:0;font:700 .78rem/1.2 "Barlow Condensed",sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--dim);background:#FBFAF6}
+  td:first-child{font-weight:600}
+
+  /* campaigns */
+  .camp{background:var(--card);border:1px solid var(--line);border-radius:12px;margin:1rem 0;overflow:hidden}
+  .camp-head{padding:1rem 1.2rem;border-bottom:1px solid var(--line);display:flex;gap:.8rem;align-items:baseline;flex-wrap:wrap}
+  .camp-head .n{font:800 1.6rem/1 "Barlow Condensed",sans-serif;color:var(--red)}
+  .camp-head h3{flex:1;min-width:12rem}
+  .camp-body{padding:.4rem 1.2rem 1.2rem}
+  .facts{display:grid;grid-template-columns:8.5rem 1fr;gap:.35rem 1rem;margin-top:.8rem;font-size:.93rem}
+  .facts dt{font:700 .82rem/1.5 "Barlow Condensed",sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--dim)}
+  .facts dd{margin:0}
+  @media (max-width:560px){.facts{grid-template-columns:1fr}.facts dt{margin-top:.4rem}}
+  .kw{display:flex;flex-wrap:wrap;gap:.35rem;margin:.2rem 0 0;padding:0;list-style:none}
+  .kw li{font-size:.84rem;background:#F1EEE6;border:1px solid var(--line);border-radius:6px;padding:.15rem .5rem}
+  .kw.neg li{background:#FCEBEC;border-color:#F2C5C8}
+
+  /* sample ads, drawn like a Google result */
+  .ads{display:grid;grid-template-columns:1fr 1fr;gap:.7rem;margin-top:1rem}
+  @media (max-width:700px){.ads{grid-template-columns:1fr}}
+  .ad{border:1px solid var(--line);border-radius:10px;padding:.8rem .9rem;background:#fff;font-family:Arial,Helvetica,sans-serif}
+  .ad .sp{font-size:.75rem;font-weight:700;color:var(--g-url)}
+  .ad .url{font-size:.8rem;color:var(--g-url);margin-top:.1rem}
+  .ad .hl{color:var(--g-blue);font-size:1.08rem;line-height:1.3;margin-top:.25rem}
+  .ad .ds{font-size:.86rem;color:#4d5156;margin-top:.3rem;line-height:1.45}
+  .ad .sl{display:flex;flex-wrap:wrap;gap:.2rem .8rem;margin-top:.45rem;font-size:.82rem;color:var(--g-blue)}
+  .pool{margin-top:.9rem;font-size:.88rem}
+  .pool summary{cursor:pointer;font-weight:600}
+  .pool ol{margin:.4rem 0 0;padding-left:1.3rem}
+  .pool li{margin:.1rem 0}
+  .pool .c{color:var(--dim);font-size:.78rem;margin-left:.3rem}
+
+  /* lists */
+  ul.plain{margin:.6rem 0 0;padding-left:1.15rem}
+  ul.plain li{margin:.3rem 0}
+  .steps{list-style:none;margin:.7rem 0 0;padding:0;background:var(--card);border:1px solid var(--line);border-radius:12px}
+  .steps li{display:grid;grid-template-columns:7rem 1fr 6.5rem;gap:.8rem;padding:.75rem 1rem;border-top:1px solid var(--line);align-items:baseline}
+  .steps li:first-child{border-top:0}
+  .steps .w{font:700 .85rem/1.3 "Barlow Condensed",sans-serif;letter-spacing:.05em;text-transform:uppercase;color:var(--dim)}
+  .steps .o{font-size:.82rem;font-weight:700;text-align:right}
+  @media (max-width:560px){.steps li{grid-template-columns:1fr}.steps .o{text-align:left}}
+  .opts{display:grid;gap:.5rem;margin-top:.8rem}
+  .opt{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.8rem 1rem}
+  .opt b{display:block}
+  .opt.rec{border-color:var(--ink);box-shadow:inset 4px 0 0 var(--yellow)}
+  .decide{background:var(--ink);color:#fff;border-radius:12px;padding:1.1rem 1.2rem;margin-top:.7rem}
+  .decide ol{margin:.4rem 0 0;padding-left:1.3rem}
+  .decide li{margin:.35rem 0}
+  .decide b{color:var(--yellow)}
+  footer{margin-top:2.5rem;font-size:.8rem;color:var(--dim)}
+  :focus-visible{outline:2px solid var(--red);outline-offset:2px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <a href="/checkin"><img src="/brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries"></a>
+    <div class="when"><b>Google Ad Grant Plan</b><span>Draft for the Oct 19 check-in · Robert · Jaylene · Roberta · Gary</span></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <h1>How LIM uses $10,000 a month of free Google search ads</h1>
+  <p class="lede">Put LIM at the top of Google when people search for trauma healing, for Native ministry, and for the scripture LIM already writes about. Then turn those visits into registrations, applications and supporters.</p>
+  <p>This plan works the same whoever runs the account: LIM itself, Gary, Ad Grants Pilot or an agency. It is the brief they work from. It sets out what to advertise, to whom, with what words, where each click lands, and how we'll know it worked.</p>
+
+  <div class="jobs">
+    <div class="job"><b>Fill the healing groups</b><span>Reach people near each session who are searching for help right now.</span></div>
+    <div class="job"><b>Be found as a Native ministry</b><span>Show up when someone searches "Native American ministry" and today finds everyone but LIM.</span></div>
+    <div class="job"><b>Grow supporters</b><span>Turn scripture and faith searchers into newsletter readers, then givers.</span></div>
+  </div>
+
+  <h2><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>What you've asked for, and where it's answered</h2>
+  <div class="tw"><table>
+    <thead><tr><th>The ask</th><th>From</th><th>Answered by</th></tr></thead>
+    <tbody>
+      <tr><td>"Free Google ads." Find out about the grant and use it if it works for LIM.</td><td>Robert, Aug 13 (a board member asked)</td><td>The whole plan. Goodstack approved LIM on Oct 16.</td></tr>
+      <tr><td>"Why don't we come up when you search Native ministries?"</td><td>Roberta &amp; Jaylene, May 11</td><td>Campaign 4, Native ministry</td></tr>
+      <tr><td>Fill the healing groups, and advertise near the communities they serve</td><td>Robert</td><td>Campaign 1, Healing groups (geo-targeted)</td></tr>
+      <tr><td>Keep Fairbanks advertising local, to hold travel and housing costs down</td><td>Roberta</td><td>Campaign 1 targets each session's own area only</td></tr>
+      <tr><td>Treat the website as LIM's donor front door, not only awareness</td><td>Board report review</td><td>Campaigns 3 and 6, plus newsletter sign-up as a goal</td></tr>
+      <tr><td>Use the 497,000 Google showings a year for scripture and doctrine that almost nobody clicks</td><td>Board report, section 5</td><td>Campaign 3, Faith &amp; scripture</td></tr>
+      <tr><td>More facilitators, so more groups can run</td><td>Roberta</td><td>Campaign 2, Facilitator training</td></tr>
+      <tr><td>Partners and link-sharing with other Native ministries</td><td>Robert, May 11</td><td>Not an ad. Covered under "Everything around the ads"</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 9h10M7 13h6"/></svg>The grant's rules shape the plan</h2>
+  <p>The grant pays for text ads on Google Search only (no YouTube, no display banners). Google enforces rules to keep it, and every choice below is built to pass them. Confirm the current wording when we enroll, because Google updates them.</p>
+  <div class="tw"><table>
+    <thead><tr><th>Rule</th><th>What it means for LIM</th></tr></thead>
+    <tbody>
+      <tr><td>Keep at least a 5% click rate across the account</td><td>Only bid on searches that clearly match what LIM offers. A brand campaign (people searching "Lutheran Indian Ministries") lifts the average.</td></tr>
+      <tr><td>No single-word or overly broad keywords</td><td>"Trauma" or "ministry" alone is out. Every keyword is a phrase that shows intent.</td></tr>
+      <tr><td>Track real conversions</td><td>Registrations, applications, sign-ups and gifts must be counted in Google. This depends on the cookie-notice decision on today's agenda.</td></tr>
+      <tr><td>Each campaign needs at least two ad groups, two ads each, and sitelinks</td><td>Built into every campaign below.</td></tr>
+      <tr><td>Bids cap at $2 a click unless Google's automatic "maximize conversions" bidding is on</td><td>Turn that bidding on once conversions are tracked, so LIM can win the competitive searches.</td></tr>
+      <tr><td>Answer Google's yearly program survey</td><td>Jaylene, once a year.</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>Six campaigns</h2>
+  <p>Ordered by when they start. Keywords are shown as people type them. In the account each one is set to phrase or exact match, so ads only appear on searches that mean the same thing. The sample ads are written to Google's limits (headlines up to 30 characters, descriptions up to 90). Google mixes and matches them, so each campaign also gets a pool of extra lines.</p>
+
+  <!-- 1 -->
+  <section class="camp" id="c1">
+    <div class="camp-head"><span class="n">1</span><h3>Healing groups</h3><span class="tag go">Start first</span></div>
+    <div class="camp-body">
+      <p>People searching for trauma or grief help near a session that is coming up. LIM's best-proven page: visitors stay 3½ minutes on it, longer than anywhere else on the site.</p>
+      <dl class="facts">
+        <dt>Where</dt><dd>One ad group per session, targeted to that area only and running for 4&ndash;5 weeks before it. Next up: Fairbanks for Nov 11&ndash;13 (Fairbanks North Star Borough). After that, whichever group is announced next. The online group targets the whole U.S.</dd>
+        <dt>Keywords</dt><dd><ul class="kw">
+          <li>trauma healing group</li><li>christian trauma healing</li><li>bible based trauma healing</li><li>healing the wounds of trauma</li><li>grief support group fairbanks</li><li>trauma support group fairbanks</li><li>native american trauma healing</li><li>alaska native healing group</li><li>healing generational trauma</li><li>free grief support group near me</li><li>church grief group near me</li><li>online christian grief group</li></ul></dd>
+        <dt>Lands on</dt><dd><a href="/fairbanks">/fairbanks</a> (or that session's page) for local ads; <a href="/healing-groups">/healing-groups</a> for the general ones</dd>
+        <dt>Counts as success</dt><dd>A healing-group registration</dd>
+      </dl>
+      <div class="ads">
+        <div class="ad"><div class="sp">Sponsored</div><div class="url">lutheranindianministries.org/fairbanks</div>
+          <div class="hl">Fairbanks Healing Group | Nov 11&ndash;13 at Zion Lutheran | Register Today</div>
+          <div class="ds">Bible-based healing from trauma and grief. No cost to attend. Registration required.</div>
+          <div class="sl"><span>What to expect</span><span>Register</span><span>Other dates</span></div></div>
+        <div class="ad"><div class="sp">Sponsored</div><div class="url">lutheranindianministries.org/healing-groups</div>
+          <div class="hl">Christian Trauma Healing | Native-Led Healing Groups | Find a Group Near You</div>
+          <div class="ds">Small groups that walk through grief and trauma with Scripture and people who understand.</div>
+          <div class="sl"><span>Upcoming groups</span><span>Online group</span><span>Lead a group</span></div></div>
+      </div>
+      <details class="pool"><summary>Extra lines for this campaign</summary><ol>
+        <li class="h">Healing From Trauma and Grief</li><li class="h">No Cost to Attend</li><li class="h">Three Days. Real Hope.</li><li class="h">Led by People Who Understand</li><li class="h">Register for Fairbanks</li>
+        <li class="d">You don't have to carry it alone. Join others finding healing through God's Word.</li>
+        <li class="d">Three days together, in person. All are welcome, 18 and older. Register to save a seat.</li>
+      </ol></details>
+    </div>
+  </section>
+
+  <!-- 2 -->
+  <section class="camp" id="c2">
+    <div class="camp-head"><span class="n">2</span><h3>Facilitator training</h3><span class="tag go">Start first</span></div>
+    <div class="camp-body">
+      <p>Pastors, church leaders and counselors who want to lead a trauma-healing group. Each new facilitator means more groups LIM can run, so a small volume of searches is worth a lot.</p>
+      <dl class="facts">
+        <dt>Where</dt><dd>United States</dd>
+        <dt>Keywords</dt><dd><ul class="kw">
+          <li>trauma healing facilitator training</li><li>become a trauma healing facilitator</li><li>healing the wounds of trauma training</li><li>church trauma ministry training</li><li>how to lead a grief support group</li><li>native ministry leadership training</li></ul></dd>
+        <dt>Lands on</dt><dd><a href="/healing-groups">/healing-groups</a>, at the Facilitator Equipping Training listing</dd>
+        <dt>Counts as success</dt><dd>A training sign-up</dd>
+      </dl>
+      <div class="ads">
+        <div class="ad"><div class="sp">Sponsored</div><div class="url">lutheranindianministries.org/healing-groups</div>
+          <div class="hl">Lead a Trauma Healing Group | Facilitator Training | Equip Your Community</div>
+          <div class="ds">Learn to lead Bible-based groups for trauma and grief, trained by a Native-led team.</div>
+          <div class="sl"><span>Training dates</span><span>What you'll learn</span><span>Sign up</span></div></div>
+        <div class="ad"><div class="sp">Sponsored</div><div class="url">lutheranindianministries.org/healing-groups</div>
+          <div class="hl">Trauma Healing Training | For Pastors and Leaders | Sign Up for Training</div>
+          <div class="ds">Bring healing to your church or community. Get trained and supported to lead a group.</div>
+          <div class="sl"><span>Training dates</span><span>About LIM</span><span>Contact us</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3 -->
+  <section class="camp" id="c3">
+    <div class="camp-head"><span class="n">3</span><h3>Faith &amp; scripture</h3><span class="tag go">Start month 1</span></div>
+    <div class="camp-body">
+      <p>The biggest audience LIM already has and doesn't reach. Google showed LIM 497,000 times in 16 months for questions like these, mostly too low on the page to be clicked. These readers share LIM's convictions and have never heard of it. The goal is a newsletter sign-up, the first step toward becoming a supporter.</p>
+      <dl class="facts">
+        <dt>Where</dt><dd>United States</dd>
+        <dt>Keywords</dt><dd><ul class="kw">
+          <li>what do lutherans believe</li><li>lutheran sacraments</li><li>lutheran beliefs about baptism</li><li>matthew 26:41 meaning</li><li>philippians 4:13 meaning</li><li>can you be native american and christian</li><li>native american christian devotional</li><li>identity in christ devotional</li></ul></dd>
+        <dt>Lands on</dt><dd>The matching article: <a href="/blog-what-lutherans-believe">What Lutherans Believe</a>, <a href="/blog-i-can-do-all-things">I Can Do All Things</a>, <a href="/blog-the-choice">The Choice</a>, <a href="/blog-discovering-identity-bev">Discovering Identity</a>. Every ad points at an article that answers that exact question.</dd>
+        <dt>Counts as success</dt><dd>Newsletter sign-up or a Bible-in-a-Year request</dd>
+        <dt>Watch</dt><dd>Scripture searches are huge and click lightly. Only keep the phrases whose article truly answers them, and pause anything under 5% after two weeks. Each new devotion rebuilt from the archive adds keywords here.</dd>
+      </dl>
+      <div class="ads">
+        <div class="ad"><div class="sp">Sponsored</div><div class="url">lutheranindianministries.org/blog-what-lutherans-believe</div>
+          <div class="hl">What Do Lutherans Believe? | A Pastor Explains the Faith | Seven Short Readings</div>
+          <div class="ds">Baptism, communion, grace and the Word, explained plainly by Pastor Ricky Jacob.</div>
+          <div class="sl"><span>The sacraments</span><span>Read the series</span><span>Get devotions</span></div></div>
+        <div class="ad"><div class="sp">Sponsored</div><div class="url">lutheranindianministries.org/blog-the-choice</div>
+          <div class="hl">Native and Christian? | You Don't Have to Choose | A Native Voice on Faith</div>
+          <div class="ds">A Native Christian on the choice people say you must make, and why Jesus doesn't ask it.</div>
+          <div class="sl"><span>Read the story</span><span>Identity in Christ</span><span>Get devotions</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4 -->
+  <section class="camp" id="c4">
+    <div class="camp-head"><span class="n">4</span><h3>Native ministry</h3><span class="tag go">Start month 1</span></div>
+    <div class="camp-body">
+      <p>The searches where LIM is missing today. Sites with "native ministry" in their web address hold the top organic spots, and an ad is the fastest way onto that page while the partner listings and content work on the long game.</p>
+      <dl class="facts">
+        <dt>Where</dt><dd>United States, with higher bids in Alaska, Montana, Nebraska, Wisconsin and South Dakota, where LIM serves and where its supporters are</dd>
+        <dt>Keywords</dt><dd><ul class="kw">
+          <li>native american ministry</li><li>native american ministries</li><li>native american christian ministry</li><li>alaska native ministry</li><li>ministry to native americans</li><li>lutheran native american ministry</li><li>native led christian ministry</li><li>support native american ministry</li></ul></dd>
+        <dt>Lands on</dt><dd><a href="/about">/about</a> (story, team, the three pillars)</dd>
+        <dt>Counts as success</dt><dd>Newsletter sign-up, a healing-group registration, or a gift</dd>
+      </dl>
+      <div class="ads">
+        <div class="ad"><div class="sp">Sponsored</div><div class="url">lutheranindianministries.org/about</div>
+          <div class="hl">Lutheran Indian Ministries | Native-Led Gospel Ministry | Serving Since 1985</div>
+          <div class="ds">Proclaiming Christ, developing Native leaders, and bringing healing to tribal communities.</div>
+          <div class="sl"><span>Our story</span><span>Healing groups</span><span>Give</span></div></div>
+        <div class="ad"><div class="sp">Sponsored</div><div class="url">lutheranindianministries.org/about</div>
+          <div class="hl">Native American Ministry | Gospel, Leadership, Healing | Meet the Team</div>
+          <div class="ds">A Native-led team walking with tribal communities across the U.S. and Alaska since 1985.</div>
+          <div class="sl"><span>Our team</span><span>What we do</span><span>Partner with us</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5 -->
+  <section class="camp" id="c5">
+    <div class="camp-head"><span class="n">5</span><h3>LIM by name</h3><span class="tag go">Start first</span></div>
+    <div class="camp-body">
+      <p>People searching LIM's own name already click 38% of the time. Owning the top spot costs almost nothing, keeps other ministries' ads off LIM's name, and holds the whole account comfortably above the 5% rule.</p>
+      <dl class="facts">
+        <dt>Where</dt><dd>United States</dd>
+        <dt>Keywords</dt><dd><ul class="kw"><li>lutheran indian ministries</li><li>lutheran indian ministry</li><li>LIM healing groups</li><li>limhope</li></ul></dd>
+        <dt>Lands on</dt><dd>Homepage, with sitelinks straight to Healing Groups, Give and About</dd>
+      </dl>
+      <div class="ads">
+        <div class="ad"><div class="sp">Sponsored</div><div class="url">lutheranindianministries.org</div>
+          <div class="hl">Lutheran Indian Ministries | Official Site | Healing Groups and More</div>
+          <div class="ds">Find a healing group, read devotions, or give to support Native-led ministry.</div>
+          <div class="sl"><span>Healing groups</span><span>Give</span><span>About us</span><span>Contact</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6 -->
+  <section class="camp" id="c6">
+    <div class="camp-head"><span class="n">6</span><h3>Give</h3><span class="tag later">After gift tracking works</span></div>
+    <div class="camp-body">
+      <p>People already looking to support Native ministry. Hold this until a completed gift can be counted. That's the Feathr fix with Meyer, and the same fix serves Google. Without it the grant can't learn which searches bring donors.</p>
+      <dl class="facts">
+        <dt>Where</dt><dd>United States</dd>
+        <dt>Keywords</dt><dd><ul class="kw"><li>donate to native american ministry</li><li>support native american christians</li><li>christian charity native americans</li><li>give to native ministry</li><li>native american mission donation</li></ul></dd>
+        <dt>Lands on</dt><dd><a href="/donate">/donate</a></dd>
+        <dt>Counts as success</dt><dd>A completed gift, with its amount</dd>
+      </dl>
+      <div class="ads">
+        <div class="ad"><div class="sp">Sponsored</div><div class="url">lutheranindianministries.org/donate</div>
+          <div class="hl">Support Native-Led Ministry | Give to LIM | Gifts Are Tax-Deductible</div>
+          <div class="ds">Your gift brings the Gospel, leadership training and trauma healing to tribal communities.</div>
+          <div class="sl"><span>Give monthly</span><span>Where gifts go</span><span>Give by mail</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <h3 style="margin-top:1.6rem">Searches to block in every campaign</h3>
+  <p>"Indian" also means India, and "native" and "trauma" have many meanings LIM doesn't serve. These negative keywords stop ads showing where clicks would be wasted and drag the click rate down.</p>
+  <ul class="kw neg" style="margin-top:.6rem">
+    <li>india</li><li>indian food</li><li>indian restaurant</li><li>hindi</li><li>bollywood</li><li>casino</li><li>tribal enrollment</li><li>dna test</li><li>costume</li><li>native plants</li><li>jobs</li><li>salary</li><li>trauma surgeon</li><li>trauma center</li><li>trauma nursing</li><li>lawyer</li><li>grant money</li><li>history essay</li><li>pdf download</li></ul>
+
+  <h2><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/></svg>Everything around the ads</h2>
+  <p>Search ads catch people when they're looking. Everything else LIM already does decides whether a click turns into a relationship. Each channel has one job.</p>
+  <div class="tw"><table>
+    <thead><tr><th>Channel</th><th>Its job</th><th>Status</th></tr></thead>
+    <tbody>
+      <tr><td>Google Ad Grant (this plan)</td><td>Be at the top when people search</td><td>Enroll next</td></tr>
+      <tr><td>Facebook &amp; Instagram, local</td><td>Reach people near a session who aren't searching yet. Anchorage: 1,278 visits at about 20&cent; each</td><td>Fairbanks ad runs Oct 28 &ndash; Nov 11</td></tr>
+      <tr><td>Feathr (Meyer Partners)</td><td>Re-show LIM to people who visited, to bring them back to give</td><td>Waiting on Meyer's tag fix</td></tr>
+      <tr><td>Email newsletter</td><td>Keep every new contact. The sign-up is the goal for campaigns 3 and 4</td><td>Needs the MailChimp connection</td></tr>
+      <tr><td>Printed appeals</td><td>Reach supporters by mail, the board's donor-acquisition ask</td><td>Sign-up takes mailing addresses</td></tr>
+      <tr><td>Flyers with short links</td><td>Local word of mouth: <a href="/busby">/busby</a>, <a href="/fairbanks">/fairbanks</a></td><td>Live</td></tr>
+      <tr><td>Radio PSAs</td><td>Local reach in Alaska (KJNP, iHeart)</td><td>Submitted in September</td></tr>
+      <tr><td>Partner directories and link-sharing</td><td>Robert's partnership ask. Also how LIM eventually earns "native ministries" without paying</td><td>List started by Roberta &amp; Jaylene</td></tr>
+      <tr><td>Rebuilding archived devotions</td><td>Each one is a free search result and a new campaign 3 landing page</td><td>4 rebuilt of 1,459</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3v18h18"/><path d="M7 15l4-4 3 3 6-6"/></svg>How we'll know it's working</h2>
+  <ul class="plain">
+    <li><b>Goals Google counts:</b> healing-group registration, Tree of Life application, training sign-up, newsletter sign-up, Bible-in-a-Year request, and (after the fix) a completed gift.</li>
+    <li><b>Reported at every check-in:</b> clicks, click rate (must stay above 5%), cost the grant covered, and registrations and sign-ups by campaign. One short table in the agenda.</li>
+    <li><b>The cookie notice matters here.</b> Google can only count a goal for visitors whose tracking loads. With today's Accept-only banner it sees about 1 visitor in 9, so the grant would look like it isn't working even when it is. That's the first decision on today's agenda.</li>
+    <li><b>Fair test:</b> after 90 days, compare registrations and sign-ups per month with the 90 days before. Keep what works, cut what doesn't.</li>
+  </ul>
+
+  <h2><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="8" r="4"/><path d="M2 21c0-4 3-6 7-6s7 2 7 6"/><path d="M17 11l2 2 4-4"/></svg>Who runs it</h2>
+  <p>Google requires active management. Whoever runs it works from this plan, so the choice is about upkeep, not strategy.</p>
+  <div class="opts">
+    <div class="opt rec"><b>Ad Grants Pilot · ~$199/month <span class="tag">Recommended start</span></b>Software manages bids, keywords and the compliance rules day to day; the first 30 days are free. LIM supplies this plan, the ad copy and the goals. Gary checks its work for about an hour a month from the maintenance block.</div>
+    <div class="opt"><b>Nonprofit Megaphone · ~$5,000/year</b>An agency runs everything. What Represent Justice pays. Worth it if the grant grows into a major channel.</div>
+    <div class="opt"><b>Gary, from the maintenance block</b>No new contract. Setup is a few days of work, then a few hours each month from the prepaid block.</div>
+  </div>
+
+  <h2><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>First 90 days</h2>
+  <ol class="steps">
+    <li><span class="w">This week</span><span>Activate Ad Grants inside LIM's Google for Nonprofits account. Goodstack verification is done.</span><span class="o">Jaylene</span></li>
+    <li><span class="w">This week</span><span>Decide the cookie notice, and who runs the account</span><span class="o">Robert</span></li>
+    <li><span class="w">Week 1</span><span>Build the account; connect goals from the site; launch campaigns 1 (Fairbanks), 2 and 5</span><span class="o">Gary / Pilot</span></li>
+    <li><span class="w">Weeks 2&ndash;4</span><span>Launch 3 and 4; prune any keyword under 5%; add Busby-style ad groups for each new session</span><span class="o">Gary / Pilot</span></li>
+    <li><span class="w">Nov 2 check-in</span><span>First results table: clicks, click rate, Fairbanks registrations from search</span><span class="o">Gary</span></li>
+    <li><span class="w">Month 2</span><span>Switch on automatic conversion bidding; add new devotion pages to campaign 3</span><span class="o">Gary / Pilot</span></li>
+    <li><span class="w">Month 3</span><span>Turn on campaign 6 once gift tracking works; 90-day review</span><span class="o">All</span></li>
+  </ol>
+
+  <h2><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2l3 7h7l-5.5 4.5L18 21l-6-4-6 4 1.5-7.5L2 9h7z"/></svg>Decisions for today</h2>
+  <div class="decide"><ol>
+    <li><b>Go:</b> enroll in Ad Grants this week?</li>
+    <li><b>Who runs it:</b> Ad Grants Pilot, Nonprofit Megaphone, or Gary from the block?</li>
+    <li><b>Cookie notice:</b> on by default with easy opt-out, so the grant can be measured?</li>
+    <li><b>Copy:</b> anything in the sample ads LIM wouldn't say? (Edit freely. Wording is cheap to change.)</li>
+  </ol></div>
+
+  <footer>Prepared by Gary Ricke · Orbis Design · Oct 19, 2026 · internal, not indexed. Search figures: Google Search Console baseline (Jan 2025 &ndash; Jul 2026) and the November board report. Grant rules from Google's Ad Grants policy; confirm current wording at enrollment.</footer>
+</div>
+</body>
+</html>
