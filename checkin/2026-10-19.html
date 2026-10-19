@@ -35,8 +35,27 @@
   summary:hover{background:#FBFAF6}
   .who{flex:none;font:700 .72rem/1 "Barlow Condensed",sans-serif;letter-spacing:.08em;text-transform:uppercase;background:var(--yellow);color:var(--ink);padding:.35rem .5rem;border-radius:5px;min-width:5.2rem;text-align:center}
   .q{flex:1;font-weight:600}
-  .chev{flex:none;width:20px;height:20px;color:var(--dim);transition:transform .2s}
+  .hint{flex:none;display:inline-flex;align-items:center;gap:.25rem;font:700 .78rem/1 "Barlow Condensed",sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--red);border:1.5px solid var(--red);border-radius:99px;padding:.3rem .45rem .3rem .65rem;background:#fff;transition:background .15s,color .15s}
+  .chev{flex:none;width:16px;height:16px;color:currentColor;transition:transform .2s}
   details[open] .chev{transform:rotate(180deg)}
+  details[open] .hint-t{font-size:0}
+  details[open] .hint-t::after{content:"Hide";font-size:.78rem}
+  summary:hover .hint,summary:focus-visible .hint{background:var(--red);color:#fff}
+  summary:focus-visible{outline:2px solid var(--red);outline-offset:-2px}
+  details{box-shadow:inset 4px 0 0 var(--yellow)}
+  details[open]{box-shadow:inset 4px 0 0 var(--red)}
+  @media (max-width:560px){.hint-t{display:none}.hint{padding:.3rem}}
+
+  /* the plan, called out */
+  .plan-cta{display:flex;align-items:center;gap:1rem;background:var(--ink);color:#fff;border-radius:12px;padding:1rem 1.2rem;margin:.55rem 0;text-decoration:none}
+  .plan-cta svg.doc{flex:none;width:34px;height:34px;color:var(--yellow)}
+  .plan-cta .t{flex:1;min-width:0}
+  .plan-cta b{display:block;font:800 1.35rem/1.1 "Barlow Condensed",sans-serif;letter-spacing:.03em;text-transform:uppercase;color:var(--yellow)}
+  .plan-cta span{font-size:.9rem;color:rgba(255,255,255,.82)}
+  .plan-cta .go{flex:none;font:700 .85rem/1 "Barlow Condensed",sans-serif;letter-spacing:.08em;text-transform:uppercase;background:var(--yellow);color:var(--ink);border-radius:8px;padding:.6rem .8rem;white-space:nowrap}
+  .plan-cta:hover .go,.plan-cta:focus-visible .go{background:#fff}
+  .plan-cta:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+  @media (max-width:560px){.plan-cta{flex-wrap:wrap}.plan-cta .go{width:100%;text-align:center}}
   .more{padding:0 1rem 1rem 1rem;border-top:1px solid var(--line);font-size:.94rem}
   .more p{margin:.8rem 0 0}
   .more ul{margin:.6rem 0 0;padding-left:1.1rem}
@@ -45,6 +64,8 @@
   .opt{border:1px solid var(--line);border-radius:9px;padding:.65rem .8rem}
   .opt b{display:block}
   .opt.rec{border-color:var(--ink);box-shadow:inset 4px 0 0 var(--yellow)}
+  .why{margin:.5rem 0 0;padding-left:1.1rem;font-size:.9rem}
+  .why li{margin:.25rem 0}
   .tag{font:700 .68rem/1 "Barlow Condensed",sans-serif;letter-spacing:.08em;text-transform:uppercase;background:var(--ink);color:var(--yellow);padding:.2rem .4rem;border-radius:4px;margin-left:.35rem;vertical-align:2px}
   .quote{border-left:3px solid var(--yellow);padding:.1rem 0 .1rem .8rem;margin:.8rem 0 0;color:#45443d;font-style:italic}
 
@@ -96,7 +117,7 @@
   <h2><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>Decisions needed today</h2>
 
   <details>
-    <summary><span class="who">Robert</span><span class="q">Cookie notice: turn tracking on by default, with an easy opt-out?</span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></summary>
+    <summary><span class="who">Robert</span><span class="q">Cookie notice: turn tracking on by default, with an easy opt-out?</span><span class="hint"><span class="hint-t">Details</span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></span></summary>
     <div class="more">
       <p>Today the site loads Google Analytics, the Facebook pixel and Feathr <b>only after a visitor clicks Accept</b>. Most people never click it. Our own numbers show we see <b>about 1 visitor in 9</b>.</p>
       <ul>
@@ -112,17 +133,27 @@
   </details>
 
   <details>
-    <summary><span class="who">Robert · Jaylene</span><span class="q">Google Ad Grant: Goodstack approved LIM. Next, turn on the grant. Who runs the ads?</span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></summary>
+    <summary><span class="who">Robert · Jaylene</span><span class="q">Google Ad Grant: Goodstack approved LIM. Next, turn on the grant. Who runs the ads?</span><span class="hint"><span class="hint-t">Details</span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></span></summary>
     <div class="more">
       <p><b>Goodstack verified LIM on Oct 16</b> (steps 1&ndash;3 are done). Step 4, enrolling in Ad Grants, isn&rsquo;t on Goodstack. It&rsquo;s done inside LIM&rsquo;s <b>Google for Nonprofits</b> account, where Ad Grants is one of the programs you activate. We can do it together on the call with whoever holds that login.</p>
-      <p><b>The plan:</b> <a href="/ad-grant-plan">/ad-grant-plan</a> sets out six campaigns with sample ads, keywords and landing pages, how each answers what the team has asked for, and the first 90 days.</p>
       <div class="opts">
         <div class="opt"><b>Nonprofit Megaphone · ~$5,000/yr</b>An agency runs it all. This is what Represent Justice pays.</div>
-        <div class="opt rec"><b>Ad Grants Pilot · ~$199/month <span class="tag">Recommended start</span></b>AI-managed, and the first 30 days are free. Gary checks its work for about an hour a month.</div>
+        <div class="opt rec"><b>Ad Grants Pilot · ~$199/month <span class="tag">Recommended start</span></b>Software manages the account every day, and the first 30 days are free. Gary checks its work for about an hour a month.
+          <ul class="why">
+            <li><b>It watches the rules daily.</b> Grants are lost to the 5% click rate and keyword checks, and those slip between monthly human reviews.</li>
+            <li><b>Half the agency price.</b> About $2,400 a year against about $5,000, and Gary's hour a month keeps the words and pages right.</li>
+            <li><b>Free trial during Fairbanks.</b> The 30 days cover the Nov 11&ndash;13 campaign, so LIM sees real registrations before paying anything.</li>
+            <li><b>Easy to change later.</b> The Google account stays LIM's, and the plan is written for any manager, so moving to an agency loses nothing.</li>
+          </ul></div>
         <div class="opt"><b>Gary · from the maintenance block</b>No new contract, but it uses hours every month.</div>
       </div>
     </div>
   </details>
+  <a class="plan-cta" href="/ad-grant-plan">
+    <svg class="doc" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M14 3v6h6"/><path d="M8 13h8M8 17h5"/></svg>
+    <span class="t"><b>Read the Ad Grant plan</b><span>Six campaigns with sample ads, keywords and landing pages, how each answers what the team has asked for, and the first 90 days.</span></span>
+    <span class="go">Open the plan &rarr;</span>
+  </a>
 
   <h2><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>Quick questions</h2>
   <ul class="list">
@@ -142,7 +173,7 @@
     <div class="stat"><b>0</b><span>gifts Feathr could credit</span></div>
   </div>
   <details>
-    <summary><span class="q">What this means</span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></summary>
+    <summary><span class="q">What this means</span><span class="hint"><span class="hint-t">Details</span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></span></summary>
     <div class="more">
       <ul>
         <li>The full report is at <a href="/board-report/website">/board-report/website</a>, with a Download PDF button for the board pack.</li>
