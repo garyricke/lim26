@@ -69,6 +69,15 @@
   .hours{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1rem}
   .hours .row{display:flex;justify-content:space-between;font-size:.9rem;color:var(--dim)}
   .hours .row b{color:var(--ink)}
+  .hl{margin-top:.6rem}
+  .hl summary .hl-tot{flex:none;font-size:.85rem;color:var(--dim)}
+  .hl-month{display:flex;justify-content:space-between;padding:.55rem 1rem;background:#F4F1E8;border-top:1px solid var(--line);font:700 .85rem/1.2 "Barlow Condensed",sans-serif;letter-spacing:.06em;text-transform:uppercase}
+  .hl-list{list-style:none;margin:0;padding:0}
+  .hl-list li{display:grid;grid-template-columns:4.2rem 1fr auto;gap:.75rem;padding:.6rem 1rem;border-top:1px solid var(--line);font-size:.92rem;align-items:baseline}
+  .hl-d{font:700 .82rem/1.2 "Barlow Condensed",sans-serif;letter-spacing:.04em;text-transform:uppercase;color:var(--dim)}
+  .hl-h{font-weight:700;white-space:nowrap}
+  .hl-msg{font-size:.9rem;color:var(--dim);margin:.6rem 0 0}
+  @media (max-width:560px){.hl-list li{grid-template-columns:1fr auto}.hl-d{grid-column:1/-1}}
   a{color:var(--red)}
   footer{margin-top:2.5rem;font-size:.8rem;color:var(--dim)}
 </style>
@@ -168,8 +177,10 @@
     <div class="row"><span>The Fairbanks trip isn't billed. LIM paid for the travel.</span><span>The block never expires</span></div>
     <div class="row"><span>Block started Sep 11. It and the $2,114 overage invoice were both paid Oct 7. Thank you.</span><span>Hours through Oct 16</span></div>
   </div>
+  <div data-hours-log data-until="2026-10-19"></div>
 
   <footer>Prepared by Gary Ricke · Orbis Design · internal, not indexed</footer>
 </div>
+<script src="/hours-log.js" defer></script>
 </body>
 </html>

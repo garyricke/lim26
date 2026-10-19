@@ -25,6 +25,12 @@
   to = "/.netlify/functions/events-publish"
   status = 200
 
+# Check-in "Where the hours went" (reads Time with a scoped read-only key)
+[[redirects]]
+  from = "/api/hours"
+  to = "/.netlify/functions/hours"
+  status = 200
+
 # Tree of Life application intake + staff review
 [[redirects]]
   from = "/api/tol-submit"
