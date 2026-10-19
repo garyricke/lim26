@@ -23,7 +23,7 @@
       });
       el.innerHTML =
         '<details class="hl" open><summary><span class="q">Where the hours went</span>' +
-        '<span class="hl-tot">' + fmtH(d.usedHours) + ' · ' + d.entries.length + ' entries</span>' +
+        '<span class="hl-tot">' + d.usedHours.toFixed(1) + ' h · ' + d.entries.length + ' entries</span>' +
         '<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary>' +
         groups.map(function (g) {
           return '<div class="hl-month"><span>' + esc(g.label) + '</span><span>' + fmtH(g.hours) + '</span></div>' +
