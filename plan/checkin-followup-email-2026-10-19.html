@@ -1,0 +1,52 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Team — follow-up from the 19 Oct check-in</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into your email (formatting included).</span>
+  </div>
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Hi Robert, Jaylene and Roberta,</p>
+    <p style="margin:0 0 16px;">Here's where things stand since yesterday's check-in.</p>
+
+    <p style="margin:0 0 8px;"><strong>Done</strong></p>
+    <p style="margin:0 0 8px;"><strong>AFN is on the homepage.</strong> It covers the booth, the Saturday 11 AM drawing, and photos of every prize, with Rose Tepp and the Haskell LIGHT students credited. It takes itself down after Saturday.</p>
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 6px;"><tr><td bgcolor="#f4eee4" style="background-color:#f4eee4; padding:8px;">
+      <a href="https://www.lutheranindianministries.org/#afn"><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto:good,w_1100/v1792509340/lim2026/email/afn-band-2026-10-20.png" width="584" alt="The AFN booth section on the LIM homepage, with photos of all seven prizes" style="display:block;width:584px;max-width:100%;height:auto;border:0"></a>
+    </td></tr></table>
+    <p style="margin:0 0 14px;"><font color="#4a5568" style="font-size:13px;">The new AFN section on the homepage</font></p>
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 22px;"><tr>
+      <td bgcolor="#ED1C24" style="background-color:#ED1C24; border-radius:8px; padding:11px 20px;">
+        <a href="https://www.lutheranindianministries.org/#afn" style="color:#ffffff; text-decoration:none; font-weight:600; font-size:15px;"><font color="#ffffff">See it on the homepage &rarr;</font></a>
+      </td></tr></table>
+
+    <p style="margin:0 0 8px;"><strong>Board report in Word.</strong> Jaylene, the report page now has a Download Word button next to the PDF, so you can paste the tables straight into LIM's format.</p>
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 22px;"><tr>
+      <td bgcolor="#282924" style="background-color:#282924; border-radius:8px; padding:11px 20px;">
+        <a href="https://www.lutheranindianministries.org/board-report/website" style="color:#ffffff; text-decoration:none; font-weight:600; font-size:15px;"><font color="#ffffff">Open the board report &rarr;</font></a>
+      </td></tr></table>
+
+    <p style="margin:0 0 16px;"><strong>Cookie notice is now opt-out,</strong> as we decided. Visitors are counted unless they choose to opt out, so Google Analytics and Feathr will see far more of the real traffic from here on.</p>
+
+    <p style="margin:0 0 8px;"><strong>Next</strong></p>
+    <p style="margin:0 0 8px;"><strong>Google Ad Grant.</strong> Jaylene and I will get the account set up together this week. As soon as we do, I'll send Robert a target go-live date for the board report.</p>
+    <p style="margin:0 0 8px;"><strong>Registration.</strong> I'll add a "need more information? call us" line, a note that says "no confirmation email? register again or call," and short automatic reminder emails before each group (including that people must attend every day).</p>
+    <p style="margin:0 0 8px;"><strong>Bible in a Year.</strong> I'll add it to the ad plan. When you're ready with dates for the New Testament study, I'll build the page and promote it the same way.</p>
+    <p style="margin:0 0 16px;"><strong>Feathr.</strong> Still waiting on Meyer's change; then I'll make a test gift to confirm gifts are tracked end to end.</p>
+
+    <p style="margin:0 0 8px;"><strong>Two quick asks</strong></p>
+    <p style="margin:0 0 8px;"><strong>Robert:</strong> which phone number should the "call us" line use? Your work number, or the office line (262) 439-5663?</p>
+    <p style="margin:0 0 16px;"><strong>Roberta:</strong> if you or Suzette can snap a couple of photos of the booth once it's set up Thursday, I'll put them on the homepage and in a Saturday "last chance" post.</p>
+
+    <p style="margin:0 0 4px;">Thank you all,</p>
+    <p style="margin:0;">Gary</p>
+  </div>
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
