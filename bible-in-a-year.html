@@ -247,7 +247,7 @@
     });
   }
 </script>
-<!-- ===== Cookie consent + Google Tag Manager (GTM loads ONLY after Accept) ===== -->
+<!-- ===== Cookie notice + Google Tag Manager (opt-out: tags load unless the visitor opts out; decided 19 Oct 2026) ===== -->
 <style>
   #cc-banner{position:fixed;left:0;right:0;bottom:0;z-index:9000;background:#282924;color:#fff;padding:1rem 1.25rem;box-shadow:0 -4px 24px rgba(0,0,0,.35);font-family:'Open Sans',system-ui,-apple-system,sans-serif;display:none}
   #cc-banner.cc-show{display:block}
@@ -265,10 +265,10 @@
 </style>
 <div id="cc-banner" role="dialog" aria-label="Cookie consent">
   <div class="cc-inner">
-    <p class="cc-text">We use cookies for <strong>analytics and advertising</strong> to help us reach more people and steward this ministry well. You can decline and still use the whole site &mdash; nothing is blocked.</p>
+    <p class="cc-text">We use cookies for <strong>analytics and advertising</strong> to help us reach more people and steward this ministry well. You can opt out and still use the whole site &mdash; nothing is blocked.</p>
     <div class="cc-btns">
-      <button class="cc-btn cc-decline" onclick="ccChoose(false)">Decline</button>
-      <button class="cc-btn cc-accept" onclick="ccChoose(true)">Accept</button>
+      <button class="cc-btn cc-decline" onclick="ccChoose(false)">Opt out</button>
+      <button class="cc-btn cc-accept" onclick="ccChoose(true)">OK</button>
     </div>
   </div>
 </div>
@@ -295,12 +295,13 @@
     fbq('init','2628936207536583'); fbq('track','PageView');
   }
   function show(el,on){var e=document.getElementById(el); if(e) e.classList[on?'add':'remove']('cc-show');}
-  window.ccChoose=function(ok){ try{localStorage.setItem(KEY, ok?'granted':'denied');}catch(e){} show('cc-banner',false); show('cc-reopen',true); if(ok) gtm(); };
+  // Opting out after the tags loaded needs a reload to unload them.
+  window.ccChoose=function(ok){ try{localStorage.setItem(KEY, ok?'granted':'denied');}catch(e){} show('cc-banner',false); show('cc-reopen',true); if(ok) gtm(); else if(window.__limGtm) location.reload(); };
   window.ccOpen=function(){ show('cc-banner',true); };
   var c=null; try{c=localStorage.getItem(KEY);}catch(e){}
   if(c==='granted'){ gtm(); show('cc-reopen',true); }
   else if(c==='denied'){ show('cc-reopen',true); }
-  else { if(document.readyState!=='loading'){ show('cc-banner',true); } else { document.addEventListener('DOMContentLoaded', function(){ show('cc-banner',true); }); } }
+  else { gtm(); if(document.readyState!=='loading'){ show('cc-banner',true); } else { document.addEventListener('DOMContentLoaded', function(){ show('cc-banner',true); }); } }
 })();
 </script>
 </body>
