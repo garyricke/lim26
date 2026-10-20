@@ -90,6 +90,14 @@ const FLYERS = [
     expectPages: 1
   },
   {
+    id: 'bible-in-a-year',
+    kind: 'sheet',
+    html: 'flyer-bible-in-a-year.html',
+    file: 'flyer-bible-in-a-year',
+    download: 'LIM-Bible-In-A-Year',
+    expectPages: 1
+  },
+  {
     id: 'busby-2026',
     kind: 'sheet',
     html: 'flyer-busby-healing-group-2026.html',
