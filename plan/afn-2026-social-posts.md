@@ -1,12 +1,8 @@
 # AFN 2026 — social posts (draft for Gary's review)
 
 Booth: AFN Convention exhibitor hall, downtown Anchorage · Thu–Sat 22–24 Oct · drawing Sat 11 AM.
-Photos (Cloudinary, already optimized):
-- Green kuspuk, adult M — lim2026/afn-2026/kuspuk-green-adult
-- Quilt + pillow set — lim2026/afn-2026/quilt-pillow-set
-- Child's yellow kuspuk — lim2026/afn-2026/kuspuk-yellow-child
-- Child's teal kuspuk — lim2026/afn-2026/kuspuk-teal-child
-Ribbon skirt + fry bread photos are in Roberta's 19 Oct emails (not yet downloaded).
+Photos (Cloudinary `lim2026/afn-2026/*-pro`, background blurred, items untouched):
+kuspuk-green-adult-pro · kuspuk-yellow-child-pro · kuspuk-teal-child-pro · quilt-pillow-set-pro · ribbon-skirt-green-pro · ribbon-skirt-blue-pro · frybread-mix-pro
 
 ## Post 1 — Wed 21 Oct (announce)
 Headed to AFN this week? Come find Lutheran Indian Ministries in the exhibitor hall, Thursday through Saturday.
