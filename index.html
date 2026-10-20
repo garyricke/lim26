@@ -560,6 +560,55 @@
   </div>
 </section>
 
+<!-- AFN 2026 booth promo · hides itself after Sat 24 Oct (Alaska time) -->
+<section class="afn-band" id="afn" aria-label="Visit LIM at AFN 2026" data-until="2026-10-25T00:00:00-08:00">
+  <div class="afn-inner">
+    <div class="afn-text">
+      <span class="afn-eyebrow">This week · Anchorage</span>
+      <h2>Come see us at AFN</h2>
+      <p class="afn-body">Lutheran Indian Ministries will be in the exhibitor hall at the Alaska Federation of Natives Convention. Stop by the booth to meet Roberta and Suzette, hear about healing groups, and enter our prize drawing.</p>
+      <ul class="afn-details">
+        <li><strong>When:</strong> Thursday to Saturday, October 22–24</li>
+        <li><strong>Where:</strong> AFN Convention exhibitor hall, downtown Anchorage</li>
+        <li><strong>Drawing:</strong> Saturday at 11 AM. Enter once at the booth. You don't need to be there to win; we'll call you.</li>
+      </ul>
+      <p class="afn-prizes-h">Prizes</p>
+      <ul class="afn-prizes">
+        <li>Three kuspuks (one adult medium, two children's) and a quilt-and-pillow set, made and donated by <strong>Rose Tepp</strong>, Yup'ik artist of Kenai</li>
+        <li>Two ribbon skirts made by Haskell LIGHT students</li>
+        <li>Two fry bread mixes</li>
+      </ul>
+      <a class="afn-btn" href="/healing-groups">See upcoming healing groups &rarr;</a>
+    </div>
+    <div class="afn-grid" aria-label="Prizes donated by Rose Tepp">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_480,h_640/v1792506085/lim2026/afn-2026/kuspuk-green-adult.jpg" alt="Green kuspuk with a beaded medallion pattern, adult medium, by Rose Tepp" loading="lazy" width="240" height="320">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_480,h_640/v1792506088/lim2026/afn-2026/quilt-pillow-set.jpg" alt="Bright patchwork quilt with matching pillow by Rose Tepp" loading="lazy" width="240" height="320">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_480,h_640/v1792506086/lim2026/afn-2026/kuspuk-yellow-child.jpg" alt="Child's yellow and blue floral kuspuk by Rose Tepp" loading="lazy" width="240" height="320">
+      <img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_480,h_640/v1792506087/lim2026/afn-2026/kuspuk-teal-child.jpg" alt="Child's teal kuspuk with orange hood lining and pocket by Rose Tepp" loading="lazy" width="240" height="320">
+    </div>
+  </div>
+  <style>
+    .afn-band{background:var(--charcoal);border-top:6px solid var(--yellow)}
+    .afn-inner{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:1.1fr .9fr;gap:2.5rem;padding:3.5rem 3rem;align-items:center}
+    .afn-text{color:#fff}
+    .afn-eyebrow{display:inline-block;font-family:var(--cond);font-weight:700;font-size:.8rem;letter-spacing:.2em;text-transform:uppercase;color:var(--yellow);margin-bottom:.6rem}
+    .afn-band h2{font-family:var(--serif);font-size:clamp(1.7rem,3vw,2.4rem);font-weight:900;line-height:1.12;margin-bottom:.8rem;color:#fff}
+    .afn-body{color:rgba(255,255,255,.78);line-height:1.75;margin-bottom:1.1rem;max-width:52ch}
+    .afn-details,.afn-prizes{list-style:none;margin:0 0 1.2rem;padding:0}
+    .afn-details li,.afn-prizes li{position:relative;padding-left:1.4rem;margin:.45rem 0;color:rgba(255,255,255,.9);font-size:.98rem;line-height:1.55}
+    .afn-details li::before,.afn-prizes li::before{content:"";position:absolute;left:0;top:.55rem;width:7px;height:7px;border-radius:50%;background:var(--sky)}
+    .afn-prizes li::before{background:var(--yellow)}
+    .afn-prizes-h{font-family:var(--cond);font-weight:700;font-size:.85rem;letter-spacing:.16em;text-transform:uppercase;color:var(--sky);margin:0 0 .2rem}
+    .afn-btn{display:inline-block;background:var(--red);color:#fff;font-family:var(--cond);font-weight:800;letter-spacing:.06em;text-transform:uppercase;font-size:1rem;padding:.85rem 1.8rem;border-radius:9px;transition:background .15s}
+    .afn-btn:hover{background:#c8161d}
+    .afn-grid{display:grid;grid-template-columns:1fr 1fr;gap:.75rem}
+    .afn-grid img{width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;border-radius:10px;display:block}
+    @media(max-width:860px){.afn-inner{grid-template-columns:1fr;padding:2.5rem 1rem;gap:1.75rem}.afn-grid{grid-template-columns:repeat(4,1fr);gap:.5rem;order:-1}}
+    @media(max-width:480px){.afn-grid{grid-template-columns:1fr 1fr}}
+  </style>
+  <script>(function(){var s=document.getElementById('afn');if(s&&Date.now()>=Date.parse(s.getAttribute('data-until')))s.remove();})();</script>
+</section>
+
 <!-- Upcoming Healing Groups -->
 <section id="upcoming" aria-label="Upcoming healing groups">
   <div class="up-wrap">
