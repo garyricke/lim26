@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<link rel="canonical" href="https://lutheranindianministries.org/signups">
+<title>Healing Group Sign-ups — LIM</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&family=Barlow+Condensed:wght@600;700;800&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  [hidden]{display:none!important}
+  :root{
+    --red:#ED1C24;--red-h:#c8151c;--yellow:#FFDE16;
+    --charcoal:#282924;--sage:#B2AC88;--sage-d:#8a8665;
+    --sky:#A2C2D1;--sky-d:#6fa3b8;--stone:#EBE9E4;
+    --muted:#5a5a52;--border:#d9d6ce;
+    --serif:'Merriweather',Georgia,serif;
+    --cond:'Barlow Condensed','Arial Narrow',sans-serif;
+    --body:'Open Sans',system-ui,sans-serif;
+    --r:8px;--rl:14px;
+  }
+  body{font-family:var(--body);color:var(--charcoal);background:var(--stone);line-height:1.6;min-height:100vh}
+  button{cursor:pointer;font-family:inherit;border:none;background:none;color:inherit}
+  .wrap{max-width:960px;margin:0 auto;padding:0 1rem}
+
+  .top{background:var(--charcoal);color:#fff;padding:1.2rem 0}
+  .top .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+  .top h1{font-family:var(--cond);font-size:1.35rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+  .top h1 span{color:var(--yellow)}
+  .top .acts{display:flex;gap:.5rem;align-items:center}
+  .top .acts button{display:inline-flex;align-items:center;gap:.4rem;font-family:var(--cond);font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:.85rem;padding:.4rem .8rem;border:1px solid rgba(255,255,255,.3);border-radius:var(--r)}
+  .top .acts button:hover{border-color:var(--yellow);color:var(--yellow)}
+  .top .acts svg{width:16px;height:16px}
+
+  .gate{max-width:400px;margin:5rem auto;background:#fff;border-radius:var(--rl);padding:2rem 1.6rem;box-shadow:0 6px 30px rgba(0,0,0,.1);text-align:center}
+  .gate h2{font-family:var(--serif);font-size:1.35rem;margin-bottom:.4rem}
+  .gate p{font-size:.9rem;color:var(--muted);margin-bottom:1.3rem}
+  .gate input{width:100%;padding:.75rem .9rem;border:2px solid var(--border);border-radius:var(--r);font-size:1rem;font-family:var(--body);margin-bottom:.8rem}
+  .gate input:focus{outline:none;border-color:var(--charcoal)}
+  .gate .err{color:var(--red-h);font-size:.87rem;min-height:1.3em;margin-bottom:.4rem}
+  .btn{display:inline-flex;align-items:center;justify-content:center;width:100%;padding:.75rem 1.5rem;border-radius:var(--r);font-family:var(--cond);font-size:1rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;background:var(--red);color:#fff}
+  .btn:hover{background:var(--red-h)}
+  .btn:disabled{opacity:.6;cursor:default}
+
+  .meta{font-size:.82rem;color:var(--muted);margin:1.4rem 0 .4rem}
+  .sec-h{font-family:var(--cond);font-size:.85rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--sage-d);margin:1.6rem 0 .7rem}
+
+  .card{background:#fff;border-radius:var(--rl);margin-bottom:.8rem;overflow:hidden;border:1px solid var(--border)}
+  .card-head{display:grid;grid-template-columns:1fr auto;gap:1rem;align-items:center;padding:1.1rem 1.2rem;width:100%;text-align:left}
+  .card-head:hover{background:#faf9f7}
+  .card .t{display:block;font-family:var(--serif);font-size:1.08rem;font-weight:700;line-height:1.35}
+  .card .sub{font-size:.85rem;color:var(--muted);margin-top:.15rem}
+  .num{text-align:right;white-space:nowrap}
+  .num b{display:block;font-family:var(--cond);font-size:2.4rem;font-weight:800;line-height:1}
+  .num small{font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  .card.up .num b{color:var(--red)}
+  .card .toggle{display:inline-flex;align-items:center;gap:.3rem;font-size:.82rem;color:var(--sky-d);font-weight:600;margin-top:.45rem}
+  .card .toggle svg{width:16px;height:16px;transition:transform .2s}
+  .card.open .toggle svg{transform:rotate(180deg)}
+  .people{display:none;border-top:1px solid var(--border)}
+  .card.open .people{display:block}
+  .person{display:grid;grid-template-columns:1.2fr 1.6fr auto;gap:.3rem 1rem;padding:.7rem 1.2rem;border-bottom:1px solid #efede8;font-size:.9rem;align-items:baseline}
+  .person:last-child{border-bottom:none}
+  .person .nm{font-weight:600}
+  .person .ct a{color:var(--charcoal)}
+  .person .ct span{display:block;font-size:.84rem;color:var(--muted)}
+  .person .when{font-size:.8rem;color:var(--muted);white-space:nowrap;text-align:right}
+  .person .diet{grid-column:1/-1;font-size:.82rem;color:var(--muted)}
+  .person.cx{opacity:.55}
+  .person.cx .nm{text-decoration:line-through}
+  .tag{display:inline-block;font-family:var(--cond);font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.1rem .45rem;border-radius:20px;background:var(--sage);color:var(--charcoal);margin-left:.4rem;text-decoration:none;vertical-align:middle}
+  .none{padding:.9rem 1.2rem;font-size:.88rem;color:var(--muted)}
+  .msg{background:#fff;border-radius:var(--rl);padding:2rem;text-align:center;color:var(--muted);margin-top:1.5rem}
+  details.past>summary{cursor:pointer;list-style:none}
+  details.past>summary::-webkit-details-marker{display:none}
+  details.past>summary .sec-h{display:inline-flex;align-items:center;gap:.35rem}
+  details.past>summary svg{width:16px;height:16px;transition:transform .2s}
+  details.past[open]>summary svg{transform:rotate(180deg)}
+  .foot{font-size:.8rem;color:var(--muted);padding:2rem 0 3rem}
+
+  @media(max-width:600px){
+    .person{grid-template-columns:1fr auto}
+    .person .ct{grid-column:1/-1;order:3}
+    .num b{font-size:2rem}
+  }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <h1>Healing Group <span>Sign-ups</span></h1>
+    <div class="acts" id="acts" hidden>
+      <button type="button" id="refresh" aria-label="Refresh sign-ups">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>Refresh
+      </button>
+      <button type="button" id="signout">Sign out</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <form class="gate" id="gate">
+    <h2>Sign-ups</h2>
+    <p>Enter the staff password to see who has registered.</p>
+    <input type="password" id="pw" autocomplete="current-password" placeholder="Password" required>
+    <div class="err" id="err" role="alert"></div>
+    <button class="btn" id="go" type="submit">View sign-ups</button>
+  </form>
+
+  <div id="out" hidden></div>
+</main>
+
+<script>
+(function(){
+  var KEY = 'lim_signups_pw';
+  var CHEV = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>';
+  var gate = document.getElementById('gate'), out = document.getElementById('out'),
+      acts = document.getElementById('acts'), err = document.getElementById('err'),
+      go = document.getElementById('go'), pwIn = document.getElementById('pw');
+  var password = '';
+
+  function esc(s){ return String(s == null ? '' : s).replace(/[&<>"']/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+  function fmtDate(iso){
+    var d = new Date(iso);
+    return d.toLocaleDateString('en-US', { month:'short', day:'numeric', timeZone:'America/Anchorage' });
+  }
+  // Today in Alaska time, as YYYY-MM-DD, to compare with each event's end date
+  function todayAK(){
+    return new Date().toLocaleDateString('en-CA', { timeZone:'America/Anchorage' });
+  }
+
+  function load(){
+    out.hidden = false;
+    out.innerHTML = '<div class="msg">Loading sign-ups…</div>';
+    return Promise.all([
+      fetch('/api/signups', { method:'POST', headers:{'content-type':'application/json'}, body: JSON.stringify({ password: password }) })
+        .then(function(r){ return r.json().then(function(j){ j._status = r.status; return j; }); }),
+      fetch('/data/events.json', { cache:'no-store' }).then(function(r){ return r.json(); }).catch(function(){ return []; })
+    ]).then(function(res){
+      var data = res[0], ev = res[1];
+      if (data._status === 401){ signOut('That password didn’t work.'); return; }
+      if (!data.ok){ out.innerHTML = '<div class="msg">' + esc(data.error || 'Something went wrong.') + '</div>'; return; }
+      render(data, Array.isArray(ev) ? ev : (ev.events || []));
+    }).catch(function(){
+      out.innerHTML = '<div class="msg">Couldn’t reach the server. Check your connection and refresh.</div>';
+    });
+  }
+
+  function render(data, events){
+    var today = todayAK();
+    // Group registrations by the session label the form saved
+    var groups = {};
+    data.items.forEach(function(it){ (groups[it.session] = groups[it.session] || []).push(it); });
+
+    // Match each session to its event so we know which groups are still ahead
+    var cards = [], used = {};
+    events.forEach(function(e){
+      var prefix = e.title + ' — ' + e.datelabel;
+      var label = Object.keys(groups).filter(function(s){ return s.indexOf(prefix) === 0; });
+      var people = [];
+      label.forEach(function(s){ people = people.concat(groups[s]); used[s] = 1; });
+      var upcoming = (e.end || '') >= today;
+      if (!upcoming && !people.length) return;
+      cards.push({ title: e.title, sub: e.datelabel + (e.loc ? ' · ' + e.loc : ''), people: people, upcoming: upcoming, end: e.end || '' });
+    });
+    // Sessions no longer in the events list (older groups)
+    Object.keys(groups).forEach(function(s){
+      if (used[s]) return;
+      var parts = s.split(' — ');
+      cards.push({ title: parts[0], sub: parts.slice(1).join(' — '), people: groups[s], upcoming: false, end: '' });
+    });
+
+    var up = cards.filter(function(c){ return c.upcoming; }).sort(function(a,b){ return a.end.localeCompare(b.end); });
+    var past = cards.filter(function(c){ return !c.upcoming; }).sort(function(a,b){ return b.end.localeCompare(a.end); });
+
+    var checked = new Date(data.checkedAt).toLocaleString('en-US', { month:'short', day:'numeric', hour:'numeric', minute:'2-digit' });
+    var html = '<p class="meta">Live from the website registration form · checked ' + esc(checked) + '. Tap a group to see names.</p>';
+    html += '<p class="sec-h">Upcoming groups</p>';
+    html += up.length ? up.map(cardHTML).join('') : '<div class="msg">No upcoming groups on the calendar.</div>';
+    if (past.length){
+      html += '<details class="past"><summary><span class="sec-h">Past groups ' + CHEV + '</span></summary>' + past.map(cardHTML).join('') + '</details>';
+    }
+    html += '<p class="foot">Counts leave out anyone who cancelled through the website’s cancellation form; they still show in the list, crossed out. People who register at the door aren’t included.</p>';
+    out.innerHTML = html;
+  }
+
+  function cardHTML(c){
+    var active = c.people.filter(function(p){ return !p.cancelled; }).length;
+    var cx = c.people.length - active;
+    var rows = c.people.length ? c.people.map(function(p){
+      var place = [p.city, p.state].filter(Boolean).join(', ');
+      return '<div class="person' + (p.cancelled ? ' cx' : '') + '">' +
+        '<div class="nm">' + esc(p.name) + (p.cancelled ? '<span class="tag">Cancelled</span>' : '') + (place ? '<span class="sub" style="display:block;font-weight:400;font-size:.82rem;color:var(--muted)">' + esc(place) + '</span>' : '') + '</div>' +
+        '<div class="ct">' + (p.phone ? '<a href="tel:' + esc(p.phone.replace(/[^\d+]/g,'')) + '">' + esc(p.phone) + '</a>' : '') + (p.email ? '<span>' + esc(p.email) + '</span>' : '') + '</div>' +
+        '<div class="when">' + esc(fmtDate(p.receivedAt)) + '</div>' +
+        (p.dietary ? '<div class="diet">Dietary: ' + esc(p.dietary) + '</div>' : '') +
+      '</div>';
+    }).join('') : '<div class="none">No one has registered yet.</div>';
+    return '<div class="card' + (c.upcoming ? ' up' : '') + '">' +
+      '<button type="button" class="card-head" aria-expanded="false">' +
+        '<div><span class="t">' + esc(c.title) + '</span><div class="sub">' + esc(c.sub) + '</div>' +
+        '<span class="toggle">' + (c.people.length ? 'Names' : 'Details') + ' ' + CHEV + '</span></div>' +
+        '<div class="num"><b>' + active + '</b><small>signed up</small>' + (cx ? '<small style="display:block">' + cx + ' cancelled</small>' : '') + '</div>' +
+      '</button><div class="people">' + rows + '</div></div>';
+  }
+
+  out.addEventListener('click', function(e){
+    var head = e.target.closest('.card-head');
+    if (!head) return;
+    var card = head.parentNode;
+    card.classList.toggle('open');
+    head.setAttribute('aria-expanded', card.classList.contains('open'));
+  });
+
+  function signOut(msg){
+    try{ sessionStorage.removeItem(KEY); }catch(e){}
+    password = '';
+    out.hidden = true; out.innerHTML = '';
+    acts.hidden = true; gate.hidden = false;
+    err.textContent = msg || ''; go.disabled = false; pwIn.value = ''; pwIn.focus();
+  }
+
+  gate.addEventListener('submit', function(e){
+    e.preventDefault();
+    password = pwIn.value;
+    if (!password) return;
+    go.disabled = true; err.textContent = '';
+    try{ sessionStorage.setItem(KEY, password); }catch(e){}
+    gate.hidden = true; acts.hidden = false;
+    load().then(function(){ go.disabled = false; });
+  });
+  document.getElementById('refresh').addEventListener('click', load);
+  document.getElementById('signout').addEventListener('click', function(){ signOut(); });
+
+  var saved = null;
+  try{ saved = sessionStorage.getItem(KEY); }catch(e){}
+  if (saved){ password = saved; gate.hidden = true; acts.hidden = false; load(); }
+  else pwIn.focus();
+})();
+</script>
+</body>
+</html>

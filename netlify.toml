@@ -41,3 +41,9 @@
   from = "/api/tol-admin"
   to = "/.netlify/functions/tol-admin"
   status = 200
+
+# Staff view of healing-group sign-up counts (/signups)
+[[redirects]]
+  from = "/api/signups"
+  to = "/.netlify/functions/signups"
+  status = 200
