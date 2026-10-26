@@ -8,6 +8,8 @@
 // Required env vars (Netlify → Site settings → Environment variables):
 //   SIGNUPS_PASSWORD  — shared password staff type to view sign-ups
 //   NETLIFY_API_TOKEN — personal access token that can read this site's forms
+//                       (create one under Netlify → User settings → Applications;
+//                       mark both vars "secret")
 //
 // POST JSON body:
 //   { password } → { ok, items: [{ session, name, email, phone, city, state,
