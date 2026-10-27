@@ -5,7 +5,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
 <link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
-<title>A History of Lutheran Indian Ministries — Board Draft</title>
+<title>A History of Lutheran Indian Ministries</title>
+<link rel="canonical" href="https://www.lutheranindianministries.org/lim-history">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -48,6 +49,15 @@
      an invented date in a board document is worse than an obvious blank. */
   .gap{background:#fffbe6;border:1.5px solid #e8d071;border-radius:4px;padding:.06rem .4rem;font-family:var(--cond);font-weight:700;font-size:.86rem;letter-spacing:.05em;text-transform:uppercase;color:#8a6d1a;white-space:nowrap}
 
+  /* A fact Robert must confirm. Highlighted on screen, plain in print. */
+  .confirm{background:#fff3a3;box-shadow:0 0 0 2px #fff3a3;border-radius:2px}
+
+  .timeline{background:var(--stone);border-radius:6px;padding:1.3rem 1.5rem .8rem;margin-top:2.4rem;break-inside:avoid}
+  .timeline h3{margin-top:0;border-bottom-color:#cfcbc1}
+  .timeline dl{display:grid;grid-template-columns:3.4rem 1fr;gap:.35rem .9rem;font-size:.88rem;line-height:1.5}
+  .timeline dt{font-family:var(--cond);font-weight:800;font-size:.98rem;letter-spacing:.04em}
+  .timeline dd{color:var(--charcoal)}
+
   .editor{background:#fff6f6;border-left:5px solid var(--red);border-radius:6px;padding:1.15rem 1.3rem;margin-bottom:2.1rem}
   .editor h4{font-family:var(--cond);font-size:.9rem;font-weight:800;letter-spacing:.11em;text-transform:uppercase;margin-bottom:.55rem;color:var(--charcoal)}
   .editor p,.editor li{font-size:.87rem;color:var(--muted);margin-bottom:.5rem}
@@ -60,21 +70,28 @@
 
   .foot{margin-top:2.4rem;padding-top:1rem;border-top:1px solid var(--border);font-size:.8rem;color:var(--muted)}
 
+  @media (max-width:640px){
+    .bar{padding:.8rem 16px}
+    .doc{margin:0;padding:1.6rem 16px 2.5rem;box-shadow:none}
+    .mast h2{font-size:1.55rem}
+  }
+
   @media print{
     @page{size:letter;margin:.7in .8in}
     body{background:#fff}
     .bar,.editor{display:none!important}
     .doc{box-shadow:none;margin:0;padding:0;max-width:none}
     h3{break-after:avoid}
-    .gap{background:#fff;border:1px solid #999;color:#000}
+    .confirm{background:none;box-shadow:none}
+    .timeline{background:none;border:1px solid var(--border)}
   }
 </style>
 </head>
 <body>
 
 <div class="bar">
-  <h1>LIM History — Board Draft</h1>
-  <a class="dl" id="dl-link" href="/print-export/exports/lim-history-draft_2026-08-17T16-42.pdf" download="LIM-History-Draft_2026-08-17T16-42.pdf">Download PDF</a>
+  <h1>LIM History</h1>
+  <a class="dl" href="/lim-history/word" download="A History of Lutheran Indian Ministries.docx">Download Word</a>
   <button id="print" type="button" class="secondary">Print</button>
 </div>
 
@@ -82,19 +99,12 @@
 
   <div class="editor">
     <h4>Note to Robert — read before sending (this box does not print)</h4>
-    <p><strong>Source:</strong> the <code>Lutheran Indian Ministries History.doc</code> you forwarded. Its first two-thirds is Rev. Don Johnson's <em>“Statement For Mediators,”</em> written for the LAMP litigation around 2004. That is a legal position paper, not a history: it assigns motives to the Canadian board, raises racism, and recounts a private exchange about forgiveness. <strong>None of that is reproduced here.</strong> The factual spine below comes from the dates and outcomes in that document plus Paul Flaa's continuation.</p>
-    <p><strong>Every blank is marked <span class="gap">date needed</span>. I did not guess a single one</strong> — an invented date in a board document is far worse than a visible gap. Paul's note says several are “in records at the office.”</p>
+    <p>This is your October draft rewritten to read as one history: grouped into eras, in date order, with a timeline at the end. <strong>Every fact comes from your draft.</strong> Nothing was added, and the Arizona and LAMP Canada passages keep their careful wording. The Word version is for you and Jaylene to keep editing.</p>
+    <p><strong>Please confirm before it goes in the board packet:</strong></p>
     <ol>
-      <li><strong>The incorporation date and state</strong> — you sent “1985, Milwaukee, Wisconsin” on 24 Aug; that is now in the text. Still worth confirming the exact date and the state on the articles of incorporation, since the Milwaukee office and the legal filing may not be the same thing.</li>
-      <li><strong>The founder's name.</strong> The source only ever says “the Founder.” Also your call whether to name him at all.</li>
-      <li><strong>CLAIM merger date</strong>, and <strong>Haskell LIGHT</strong>'s two dates (the parent/child agreement, then the full merger).</li>
-      <li><strong>The year “Lutheran Indian Ministries” was adopted</strong> — the source says “about 2011.”</li>
-      <li><strong>Leadership dates</strong> — Tim Young Eagle's tenure, and your own start date.</li>
-    </ol>
-    <p><strong>Two judgment calls that are yours, not mine:</strong></p>
-    <ol>
-      <li><strong>The Arizona matter.</strong> I included it, briefly and factually, because a history that omits it isn't a history and the board already knows. It states plainly that the billing agencies acted without LIM's knowledge and that LIM and its CFO were dismissed. No individual is named. Cut it if the board pack isn't the right venue.</li>
-      <li><strong>The separation from LAMP Canada.</strong> Written as a difference in mission philosophy and a board decision, with the court outcomes stated as fact. I deliberately did not characterise anyone's motives. If you want it shorter, the middle three paragraphs can go without breaking the narrative.</li>
+      <li><strong>Your hire date.</strong> Your draft says December <em>2001</em>, which can't be right if you came in during the Arizona litigation after 2018. I used <span class="confirm">2021</span>, highlighted here and in the Word file.</li>
+      <li><strong>The third commitment.</strong> Your draft lists two of the "three commitments." I completed it as healing the wounds of trauma, since the next paragraph calls healing "that third commitment."</li>
+      <li><strong>The RSO change has no year.</strong> It sits under "Recent years." Add the year if you have it.</li>
     </ol>
   </div>
 
@@ -102,54 +112,91 @@
     <img src="/brand/lutheranindianMinistries-logo-horz-stacked.svg" alt="Lutheran Indian Ministries">
     <span class="lbl">Prepared for the Board of Directors</span>
     <h2>A History of Lutheran Indian Ministries</h2>
-    <p class="sub">Draft for review &middot; August 2026</p>
+    <p class="sub">October 2026</p>
   </div>
 
-  <p class="lede">Lutheran Indian Ministries exists today because of a conviction that took decades to win: that Native people are not the objects of mission but the ones called to carry it. Nearly everything in this history &mdash; the separations, the mergers, the hard transitions &mdash; traces back to that single idea and what it cost to hold onto it.</p>
+  <!-- BUILD:START -->
+  <p class="lede">Lutheran Indian Ministries began more than fifty years ago as a handful of pilots and pastors flying the Gospel into northern communities that no road reached. It is now a Native-led ministry that equips Native people to carry that Gospel to their own communities. This history traces how that change came about, what it cost, and where it has led.</p>
 
-  <h3>Origins</h3>
-  <span class="era">Founding through the early 1990s</span>
-  <p>The ministry began as the <strong>Lutheran Association of Missionaries and Pilots</strong>, a bush-aviation mission carrying pastors into remote Native communities across northern Canada and Alaska that no road reached. It operated as two national organisations &mdash; one Canadian, one American &mdash; sharing a name, a logo, and a mission field.</p>
-  <p>The United States organisation was incorporated as <strong>Lutheran Association of Missionaries and Pilots U.S., Inc.</strong> in <strong>1985</strong>, opening an office in <strong>Milwaukee, Wisconsin</strong> <span class="gap">exact date + state of incorporation to confirm from the articles</span>, and has raised support from American Lutheran congregations and donors <strong>continuously since 1985</strong> &mdash; a date that would later matter a great deal. It was founded by <span class="gap">founder's name needed</span>.</p>
+  <h3>Wings Over the North</h3>
+  <span class="era">1970&ndash;1984</span>
+  <p>On <strong>June 16, 1970</strong>, the <strong>Lutheran Association of Missionaries and Pilots (LAMP)</strong> was incorporated in Canada. Its founder, <strong>Rev. Les Stahlke</strong>, was a Lutheran pastor who combined his flying skills with Christian outreach to people in remote, sparsely settled areas of northern Alberta who had no pastoral care. Over the years LAMP added more pilot-pastors and extended its reach into the Northwest Territories, British Columbia, Alberta, Manitoba, Saskatchewan and Ontario.</p>
+  <p>LAMP built working relationships with the major denominations that had historically held spiritual responsibility for many northern communities. From those relationships grew a full-time volunteer corps, <strong>Christians-in-Service (CIS)</strong>, whose members lived and worked in northern communities as a Christian presence, helping local service providers and assisting local churches.</p>
+  <p>In <strong>1981</strong> LAMP added the <strong>Volunteers-in-Ministry (VIM)</strong> program. Like CIS volunteers, VIM volunteers provided their own financial support, and over the years they came from all over North America. LAMP also sent <strong>Vacation Bible School</strong> teams, typically three to five teachers who spent one to two weeks in a northern Native community.</p>
+
+  <h3>An American Partner</h3>
+  <span class="era">1985&ndash;1993</span>
+  <p>On <strong>January 3, 1985</strong>, <strong>Lutheran Association of Missionaries and Pilots U.S., Inc.</strong> was incorporated in the United States, with an office in <strong>Milwaukee, Wisconsin</strong>. Its purpose was to help Christian churches carry out ministry in the sparsely settled and physically isolated areas of Canada. In <strong>March 1989</strong> the work expanded to <strong>Alaska</strong>.</p>
+  <p>LAMP now operated as two national organizations, one Canadian and one American, sharing a name, a logo and a mission field: a bush-aviation ministry carrying pastors into remote Native communities across northern Canada and Alaska with limited or no road access.</p>
 
   <h3>A Change of Conviction</h3>
   <span class="era">1993&ndash;1999</span>
-  <p><strong>Rev. Don Johnson</strong>, a Native American pastor, joined the staff in September 1993 and was appointed interim Executive Director in January 1994, confirmed by both boards that October. He inherited an organisation carrying roughly <strong>$3.7 million of combined debt</strong>. Within three years most of it was repaid, including the obligations to the endowment funds.</p>
-  <p>The deeper change was to the mission itself. Beginning in 1995 and approved by both boards in <strong>1996</strong>, a long-range plan reoriented the work from presence toward <strong>evangelism, discipleship, and the recruitment and training of Native Christians to lead ministry to their own communities</strong>. The older model flew volunteers and pastors in from the south to do ministry for Native people. The new one set out to equip Native people to do it themselves.</p>
-  <p>That reorientation was not universally welcomed, and the two national organisations came to hold genuinely different convictions about how the work should be done.</p>
+  <p><strong>Rev. Don Johnson</strong>, a Native American LCMS pastor, joined the staff in September 1993 and was appointed interim Executive Director in January 1994, the first Native American to lead the organization.</p>
+  <p>Under his leadership the emphasis shifted toward equipping Native American, First Nations and Alaska Native people to become spiritual leaders in their own communities. Beginning in 1995, and approved by both boards in <strong>1996</strong>, a long-range plan reoriented the work from presence toward <strong>evangelism, discipleship, and the recruitment and training of Native Christians to serve as pastors to their own people</strong>. The vision was to disciple Native people for ministry, and Native Christians joined the staff.</p>
+  <p>That reorientation was not universally welcomed, and the two national organizations came to hold genuinely different convictions about how the work should be done.</p>
 
   <h3>The Separation</h3>
   <span class="era">2000&ndash;2005</span>
-  <p>By 2000 the partnership between the two organisations had become unworkable. Joint board meetings no longer produced agreement, and staff on both sides of the border were leaving. On <strong>25 April 2000</strong> the joint executive staff wrote to the U.S. board asking it to act. On <strong>5 May 2000</strong> the <strong>U.S. board voted to end the ministry partnership</strong>. It convened in Edmonton that June still hoping to meet with its Canadian counterpart; that meeting did not take place, and the two organisations went their separate ways.</p>
-  <p>Litigation followed over the shared name and marks. The federal court's orders were clear in their outcome: the U.S. organisation <strong>could no longer use the acronym LAMP</strong>, though it retained its legal name, and its newsletter could no longer be called <em>The LAMPLighter</em>. A settlement order &mdash; <strong>still in force today</strong> &mdash; requires each organisation to notify the other of any estate gift executed between <strong>1 January 1985 and 1 April 2005</strong>. Fewer gifts fall inside that window with each passing year.</p>
+  <p>By 2000 the partnership had become unworkable. Joint board meetings no longer produced agreement, and staff of both LAMP U.S. and LAMP Canada were leaving. On <strong>April 25, 2000</strong>, the joint executive staff wrote to the U.S. board asking it to act. On <strong>May 5, 2000</strong>, the <strong>U.S. board voted to end the ministry partnership</strong>.</p>
+  <p>The U.S. organization's own work kept growing. As more Native leaders served their people through the ministry, it expanded in <strong>2001</strong> to the <strong>Makah Indian Reservation at Neah Bay, Washington</strong>, and later to the Lower Elwha and other tribes of the Olympic Peninsula.</p>
+  <p>Litigation followed over the shared name and marks. The federal court's orders were clear in their outcome: the U.S. organization <strong>could no longer use the acronym LAMP</strong>, though it kept its legal name, and its newsletter could no longer be called <em>The LAMPLighter</em>. A settlement order, <strong>still in force today</strong>, requires each organization to notify the other of any estate gift executed between <strong>January 1, 1985 and April 1, 2005</strong>. Fewer gifts fall inside that window with each passing year.</p>
 
-  <h3>Becoming Lutheran Indian Ministries</h3>
-  <span class="era">c. 2011 onward</span>
-  <p>To stand clearly on its own, the U.S. organisation began operating as <strong>Lutheran Indian Ministries</strong> in <span class="gap">year needed &mdash; source says “about 2011”</span>.</p>
-  <p>Around the same period it merged with the <strong>Council for Lutheran American Indian Ministries (CLAIM)</strong> in <span class="gap">date needed</span>. CLAIM ceased to exist as a separate body, and it is from CLAIM that LIM received the <strong>four-colour cross</strong> it still carries as its mark.</p>
-  <p><strong>Haskell LIGHT</strong>, the campus ministry at Haskell Indian Nations University in Lawrence, Kansas, had been a CLAIM member and sought closer alignment after the merger. For several years the two operated as separate legal entities with LIM as Haskell LIGHT's sole member, beginning <span class="gap">date needed</span>. Haskell LIGHT was fully merged into LIM in <span class="gap">date needed</span> and is now one of its central ministries, serving students from tribes across the country.</p>
+  <h3>One Ministry, Many Nations</h3>
+  <span class="era">2006&ndash;2015</span>
+  <p>In <strong>2006</strong>, Lutheran Association of Missionaries and Pilots U.S. merged with the <strong>Council for Lutheran American Indian Ministries (CLAIM)</strong>, bringing Lutheran ministry among Native Americans under a single organization. Alongside the existing work in Alaska, Canada and the Olympic Peninsula, the merger added ministry in <strong>Kansas</strong>, through <strong>Haskell LIGHT</strong>, and in <strong>New Mexico</strong>, through <strong>Shepherd of the Valley Lutheran Church</strong> in Navajo.</p>
+  <p>In <strong>March 2010</strong> the ministry adopted a new name that better reflected its mission and vision: <strong>Lutheran Indian Ministries (LIM)</strong>. Its legal name remains Lutheran Association of Missionaries and Pilots U.S., Inc. In <strong>2014</strong> LIM extended its work to <strong>Hawaii</strong>, serving Native Hawaiian people.</p>
 
   <h3>Transition and Testing</h3>
-  <span class="era">c. 2016&ndash;2021</span>
-  <p>Don Johnson retired around 2016 after more than two decades. <strong>Tim Young Eagle</strong> succeeded him as Executive Director, serving <span class="gap">dates needed</span>. Under his leadership the ministry, which had always concentrated on remote villages apart from Haskell, <strong>expanded into urban Native communities</strong> and began adding social and healing ministry to its work &mdash; the seed of what would become LIM's healing groups.</p>
-  <p>An effort to offer fee-for-service programmes in Phoenix, Arizona brought the hardest chapter in the organisation's recent history. LIM contracted with outside billing agencies to handle Medicaid claims. <strong>Those agencies were committing fraud, without LIM's knowledge.</strong> The organisation and several staff were charged. <strong>LIM and its Chief Financial Officer were dismissed from the charges</strong>, and a portion of the fee-for-service revenue was returned to Medicaid.</p>
-  <p><strong>Robert Heffle</strong> was hired in the middle of that litigation, in <span class="gap">date needed</span>, and helped bring it to settlement and dismissal. He serves as Executive Director today.</p>
+  <span class="era">2016&ndash;2021</span>
+  <p>Don Johnson retired in 2016 after more than two decades. <strong>Tim Young Eagle</strong> (Pawnee), a former board member and long-time advocate of Native American outreach, succeeded him as Executive Director and served from 2016 to 2020. In <strong>2018</strong> the ministry expanded to the many tribes living in and around <strong>Phoenix, Arizona</strong>.</p>
+  <p>Under Tim's leadership LIM moved into <strong>urban Native communities</strong> and began adding social and healing ministry to its work. It affirmed the diversity of God's creation and the unity all believers share in Christ, encouraging Native Christians to use every gift God has given them, including their languages and cultures, to glorify their Savior, Jesus Christ.</p>
+  <p>An effort to offer fee-for-service programs in Phoenix brought the hardest chapter in the organization's recent history. LIM contracted with outside billing agencies to handle Medicaid claims. <strong>Those agencies were committing fraud, without LIM's knowledge.</strong> The organization and several staff were charged. <strong>LIM and its Chief Financial Officer were dismissed from the charges</strong>, and a portion of the fee-for-service revenue was returned to Medicaid.</p>
+  <p><strong>Robert Heffle</strong> was hired in <strong>December [[2021]]</strong>, in the middle of that litigation, and brought all court proceedings with the State of Arizona to a settlement.</p>
+
+  <h3>A New Footing</h3>
+  <span class="era">Recent years</span>
+  <p>When the requirements for LCMS <strong>Recognized Service Organizations (RSOs)</strong> changed to call for a board made up entirely of LCMS members, LIM was not renewed as an RSO. Without that status LIM could no longer call pastors, and the change led it to rethink its role in Native missions.</p>
+  <p>Its focus turned to supporting the LCMS congregations and pastors who serve Native communities. LIM began an annual <strong>Pastor Gathering</strong> to support pastors, solve problems together and hear their needs. Rather than calling a pastor to Neah Bay, LIM now supports the congregation there with a direct financial contribution, while the pastor is supervised by the Northwest District and the congregation's board.</p>
+
+  <h3>Healing the Wounds of Trauma</h3>
+  <span class="era">2022 onward</span>
+  <p>In <strong>2022</strong> the LIM board approved a focus on the trauma that affects Native communities and families, with the aim of offering Christ-centered programs to meet that need. LIM adopted <strong><em>Healing the Wounds of Trauma: How the Church Can Help</em></strong>, from the American Bible Society's Trauma Healing Institute.</p>
+  <p>The first trainings were held in <strong>Fairbanks and Anchorage, Alaska</strong>. Those trained, including LIM staff, an LCMS pastor and an Elder, went on to lead in-person healing groups in cities, villages and reservations. When invited, LIM holds a healing group, trains local facilitators, and offers ongoing support virtually and in person. Healing groups are now also offered <strong>online</strong>, so that people can experience Christ-centered healing and learn to help others in their own communities who have experienced trauma.</p>
+
+  <h3>Into the Word</h3>
+  <span class="era">2026</span>
+  <p>In <strong>2026</strong> LIM invited people to read through the <strong>Bible in a Year</strong> together, with a reading guide and a general schedule. Sixteen people signed up in the first week and <strong>91</strong> in all, and 8 to 15 take part in each bi-weekly online meeting. The group expects to finish reading the entire Bible in <strong>March 2027</strong>. Next, LIM plans to invite a group to read through the New Testament, with context for each chapter offered by an LCMS pastor.</p>
 
   <h3>Where the Ministry Stands</h3>
-  <span class="era">2026</span>
-  <p>LIM today is a <strong>Native-led ministry</strong> organised around three commitments: to <strong>proclaim</strong> the Gospel in Native communities, to <strong>disciple</strong> Native leaders &mdash; most visibly through Haskell LIGHT &mdash; and to <strong>heal the wounds of trauma</strong> that generations of loss, boarding schools, and broken trust have left behind.</p>
-  <p>That third commitment has become some of the ministry's most consequential work. Its <strong>healing groups</strong>, built on the American Bible Society's Trauma Healing Institute curriculum and led by trained Native facilitators, meet in person and online at no cost to those who attend. The <strong>Tree of Life Gathering</strong> takes that work deeper still, walking participants through Christ's own experience of rejection and suffering over three days. Both are led by Native people for Native people &mdash; which is precisely what the 1996 long-range plan set out to make possible, thirty years on.</p>
+  <span class="era">Today</span>
+  <p>LIM today is a <strong>Native-led ministry</strong> organized around three commitments: to <strong>proclaim</strong> the Gospel in Native communities, to <strong>disciple</strong> Native leaders, most visibly through Haskell LIGHT, and to <strong>heal</strong> the wounds of trauma in Native communities and families.</p>
+  <p>That third commitment has become some of the ministry's most consequential work. Its healing groups, built on the Trauma Healing Institute curriculum and led by trained Native facilitators, meet in person and online at no cost to those who attend.</p>
+  <p>LIM continues to proclaim the Gospel of Jesus Christ among Native American people, equipping Nations with the Word of God and with resources that help heal social suffering, while valuing Native cultures. Its message to Native people is that even the wounded can be used by God to reach others, and that generational change is possible.</p>
 
-  <div class="pull">
-    I don't know how long God will have me at Lutheran Indian Ministries, but sometimes I think about past my retirement. How do we make sure we never go back? How do we make sure we stay the course?
-    <cite>Robert Heffle, Executive Director</cite>
+  <div class="timeline">
+    <h3>Timeline at a Glance</h3>
+    <dl>
+      <dt>1970</dt><dd>LAMP incorporated in Canada (June 16), founded by Rev. Les Stahlke</dd>
+      <dt>1981</dt><dd>Volunteers-in-Ministry program begins</dd>
+      <dt>1985</dt><dd>LAMP U.S. incorporated (January 3), Milwaukee, Wisconsin</dd>
+      <dt>1989</dt><dd>Ministry expands to Alaska (March)</dd>
+      <dt>1994</dt><dd>Rev. Don Johnson becomes the first Native American to lead the ministry</dd>
+      <dt>1996</dt><dd>Both boards approve the long-range plan to train Native leaders</dd>
+      <dt>2000</dt><dd>U.S. board ends the partnership with LAMP Canada (May 5)</dd>
+      <dt>2001</dt><dd>Ministry expands to Neah Bay, Washington</dd>
+      <dt>2006</dt><dd>Merger with CLAIM adds Kansas (Haskell LIGHT) and New Mexico</dd>
+      <dt>2010</dt><dd>New name: Lutheran Indian Ministries (March)</dd>
+      <dt>2014</dt><dd>Ministry expands to Hawaii</dd>
+      <dt>2016</dt><dd>Tim Young Eagle succeeds Don Johnson</dd>
+      <dt>2018</dt><dd>Ministry expands to Phoenix, Arizona</dd>
+      <dt><span class="confirm">2021</span></dt><dd>Robert Heffle hired (December)</dd>
+      <dt>2022</dt><dd>Board adopts the trauma-healing focus; healing groups begin</dd>
+      <dt>2026</dt><dd>Bible in a Year reading group begins</dd>
+    </dl>
   </div>
 
-  <p>The history above is, read one way, a long argument about that question. The organisation has twice been through separations that turned on it, and has come out of each one more clearly Native-led than before. The task now is the one Robert names: to make the conviction structural, so it outlasts whoever holds the office.</p>
-
-  <p class="foot">
-    Prepared from <em>Lutheran Indian Ministries History.doc</em> (Rev. Don Johnson, <em>Statement For Mediators</em>, c. 2004; continuation by Paul Flaa, February 2026). Dates shown as needing confirmation are not recorded in that source. &mdash; Draft, August 2026.
-  </p>
+  <p class="foot">Compiled from LIM's <em>History of LAMP</em> (2018, updated 2023), the August 2026 board draft, and additions by Robert Heffle, October 2026.</p>
+  <!-- BUILD:END -->
 
 </div>
 
