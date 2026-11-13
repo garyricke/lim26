@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="canonical" href="https://limhope.org/anger-program">
+<link rel="icon" type="image/svg+xml" href="/brand/lim-favicon-2026-black-back.svg">
+<title>Turning Away From Wrath — Anger Management Program, Draft 1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Barlow+Condensed:wght@400;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{--red:#ED1C24;--yellow:#FFDE16;--charcoal:#282924;--sage:#B2AC88;--sage-d:#8a8665;--sky:#A2C2D1;--sky-d:#6fa3b8;--stone:#EBE9E4;--muted:#5a5a52;--border:#d9d6ce;
+    --serif:'Merriweather',Georgia,serif;--cond:'Barlow Condensed','Arial Narrow',sans-serif;--body:'Open Sans',system-ui,sans-serif}
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-padding-top:4.5rem}
+  body{font-family:var(--body);color:var(--charcoal);background:var(--stone);line-height:1.7}
+  .bar{background:var(--charcoal);color:#fff;padding:.85rem 1.5rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap;position:sticky;top:0;z-index:50}
+  .bar h1{font-family:var(--cond);font-size:1.1rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-right:auto}
+  .bar nav a{color:rgba(255,255,255,.75);text-decoration:none;font-family:var(--cond);font-size:.85rem;letter-spacing:.08em;text-transform:uppercase;margin-right:.9rem}
+  .bar nav a:hover{color:var(--yellow)}
+  .bar button{font-family:var(--cond);font-size:.82rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.55rem 1.2rem;border:0;border-radius:5px;background:var(--yellow);color:var(--charcoal);cursor:pointer}
+  .doc{max-width:8in;margin:2rem auto 4rem;background:#fff;padding:.85in .95in 1in;box-shadow:0 8px 30px rgba(0,0,0,.13)}
+  .mast{border-bottom:3px solid var(--charcoal);padding-bottom:1rem;margin-bottom:1.6rem}
+  .mast img{height:42px;margin-bottom:1.1rem}
+  .lbl{font-family:var(--cond);font-size:.74rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--sage-d);display:block;margin-bottom:.4rem}
+  .mast h2{font-family:var(--serif);font-size:2rem;font-weight:900;line-height:1.2}
+  .mast .sub{font-size:.92rem;color:var(--muted);margin-top:.55rem}
+  .part{font-family:var(--serif);font-size:1.55rem;font-weight:900;margin:3.2rem 0 .6rem;break-before:page}
+  .part small{display:block;font-family:var(--cond);font-size:.78rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--sage-d);margin-bottom:.3rem}
+  h3{font-family:var(--cond);font-size:1.2rem;font-weight:800;letter-spacing:.07em;text-transform:uppercase;margin:2rem 0 .5rem;padding-bottom:.3rem;border-bottom:1px solid var(--border);break-after:avoid}
+  h4{font-family:var(--cond);font-size:1rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;margin:1.5rem 0 .4rem;color:var(--charcoal);break-after:avoid}
+  h4 .t{font-weight:600;color:var(--sage-d);letter-spacing:.06em;margin-left:.4rem}
+  p{margin-bottom:.85rem;font-size:.94rem}
+  ul,ol{margin:0 0 .9rem 1.3rem;font-size:.94rem} li{margin-bottom:.3rem}
+  .lede{font-family:var(--serif);font-size:.98rem;line-height:1.7;color:var(--muted);font-style:italic}
+  .editor{background:#fff6f6;border-left:5px solid var(--red);border-radius:6px;padding:1.15rem 1.3rem;margin-bottom:2rem}
+  .editor h4{margin-top:0}
+  .editor p,.editor li{font-size:.87rem;color:var(--muted)}
+  .editor strong{color:var(--charcoal)}
+  .exec{background:var(--charcoal);color:#fff;border-radius:8px;padding:1.6rem 1.7rem;margin:1rem 0 1.4rem}
+  .exec h3{color:var(--yellow);border-color:rgba(255,255,255,.18);margin-top:0}
+  .exec p,.exec li{color:rgba(255,255,255,.88);font-size:.93rem}
+  .exec strong{color:#fff}
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:.7rem;margin:1.1rem 0 .4rem}
+  .stat{background:rgba(255,255,255,.07);border-radius:6px;padding:.7rem .8rem}
+  .stat b{display:block;font-family:var(--cond);font-size:1.7rem;font-weight:800;color:var(--yellow);line-height:1.1}
+  .stat span{font-size:.78rem;color:rgba(255,255,255,.7)}
+  table{width:100%;border-collapse:collapse;font-size:.86rem;margin:.6rem 0 1.2rem}
+  th{font-family:var(--cond);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;text-align:left;background:var(--stone);padding:.5rem .6rem;border-bottom:2px solid var(--charcoal)}
+  td{padding:.5rem .6rem;border-bottom:1px solid var(--border);vertical-align:top}
+  td a{color:var(--charcoal)}
+  .heard{border-left:3px solid var(--sky);padding:.1rem 0 .1rem 1rem;margin:0 0 1.1rem}
+  .heard q{display:block;font-family:var(--serif);font-style:italic;font-size:.9rem;color:var(--muted);margin-bottom:.3rem;quotes:"\201C" "\201D"}
+  .heard p{margin:0;font-size:.9rem}
+  .lesson{margin-top:2.6rem;break-before:page}
+  .lhead{background:var(--stone);border-radius:8px 8px 0 0;padding:1.1rem 1.3rem;border-top:6px solid var(--red)}
+  .lhead .num{font-family:var(--cond);font-size:.8rem;font-weight:800;letter-spacing:.2em;text-transform:uppercase;color:var(--red)}
+  .lhead h3{font-family:var(--serif);font-size:1.45rem;font-weight:900;text-transform:none;letter-spacing:0;border:0;margin:.2rem 0 .3rem;padding:0}
+  .lhead .q{font-family:var(--serif);font-style:italic;color:var(--muted);margin:0;font-size:.95rem}
+  .lbody{border:1px solid var(--border);border-top:0;border-radius:0 0 8px 8px;padding:.4rem 1.3rem 1.2rem}
+  .goal{font-size:.88rem;background:#fffbe6;border-left:4px solid var(--yellow);padding:.6rem .9rem;border-radius:0 6px 6px 0;margin:1rem 0 .4rem}
+  .story{font-family:var(--serif);font-size:.92rem;line-height:1.8;background:#fafaf7;border:1px solid var(--border);border-radius:6px;padding:1rem 1.2rem;margin-bottom:.8rem}
+  .story .st{font-family:var(--cond);font-size:1.05rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;margin-bottom:.4rem;display:block}
+  .story p{font-size:.92rem;margin-bottom:.7rem} .story p:last-child{margin-bottom:0}
+  .disc{font-size:.9rem;margin-bottom:.8rem}
+  .disc b{font-family:var(--cond);letter-spacing:.1em;text-transform:uppercase;font-size:.82rem;color:var(--sky-d)}
+  .culture{background:#f1f6f8;border-left:4px solid var(--sky-d);border-radius:0 6px 6px 0;padding:.7rem 1rem;margin:.6rem 0 .9rem;font-size:.9rem}
+  .culture b{font-family:var(--cond);letter-spacing:.1em;text-transform:uppercase;font-size:.82rem;color:var(--sky-d);display:block;margin-bottom:.2rem}
+  .vid{display:flex;gap:.7rem;align-items:flex-start;background:var(--charcoal);color:#fff;border-radius:6px;padding:.7rem .9rem;margin:.6rem 0 .9rem;font-size:.86rem}
+  .vid svg{flex:0 0 auto;width:24px;height:24px;color:var(--yellow);margin-top:.1rem}
+  .vid b{color:var(--yellow);font-family:var(--cond);letter-spacing:.08em;text-transform:uppercase;font-size:.85rem}
+  .psg{margin:0 0 .8rem;break-inside:avoid}
+  .psg .ref{font-family:var(--cond);font-size:.82rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--sky-d)}
+  .psg .txt{font-family:var(--serif);font-size:.92rem;line-height:1.7;padding-left:1rem;border-left:3px solid var(--stone);margin:0}
+  .deeper{border:1px solid var(--sky);border-radius:6px;padding:.75rem 1rem;margin:.4rem 0 1rem;font-size:.86rem;break-inside:avoid}
+  .deeper b{font-family:var(--cond);letter-spacing:.1em;text-transform:uppercase;font-size:.82rem;color:var(--sky-d)} .deeper b a{color:inherit}
+  .deeper p{font-size:.84rem;color:var(--muted);margin:.2rem 0 .4rem}
+  .deeper ul{margin:0 0 0 1.1rem;font-size:.86rem} .deeper li{margin-bottom:.2rem} .deeper a{color:var(--charcoal)}
+  .deeper .k{font-family:var(--cond);font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:.75rem;color:var(--sage-d)}
+  .fac{background:#f6f5f0;border:1px dashed var(--sage);border-radius:6px;padding:.75rem 1rem;margin-top:1.2rem;font-size:.85rem}
+  .fac b{font-family:var(--cond);letter-spacing:.1em;text-transform:uppercase;font-size:.82rem;color:var(--sage-d);display:block;margin-bottom:.2rem}
+  .fac p,.fac li{font-size:.85rem;color:var(--muted)}
+  .take{font-size:.9rem;border-top:1px solid var(--border);padding-top:.6rem;margin-top:.6rem}
+  .tag{display:inline-block;font-family:var(--cond);font-size:.72rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;background:var(--stone);color:var(--muted);border-radius:10px;padding:.05rem .55rem;margin-left:.3rem;vertical-align:middle}
+  .tag.rec{background:var(--yellow);color:var(--charcoal)}
+  .dec{border:1px solid var(--border);border-radius:6px;padding:.8rem 1rem;margin-bottom:.8rem;break-inside:avoid}
+  .dec h4{margin:0 0 .3rem}
+  .dec p{font-size:.88rem;margin-bottom:.4rem}
+  .scale td:not(:first-child){text-align:center;width:2.2rem}
+  .src{font-size:.82rem;color:var(--muted)} .src a{color:var(--charcoal)}
+  .foot{margin-top:2.4rem;padding-top:1rem;border-top:1px solid var(--border);font-size:.78rem;color:var(--muted)}
+  @media (max-width:760px){.doc{padding:1.2rem 1rem;margin:0}.stats{grid-template-columns:repeat(2,1fr)} table{font-size:.8rem}}
+  @media print{@page{size:letter;margin:.65in .75in} body{background:#fff} .bar,.editor{display:none!important} .doc{box-shadow:none;margin:0;padding:0;max-width:none} .exec{background:#fff;color:var(--charcoal);border:2px solid var(--charcoal)} .exec p,.exec li,.exec strong{color:var(--charcoal)} .exec h3,.stat b{color:var(--charcoal)} .stat{background:var(--stone)} .stat span{color:var(--muted)} .vid{background:#fff;color:var(--charcoal);border:1.5px solid var(--charcoal)} .vid svg,.vid b{color:var(--charcoal)} a{color:inherit;text-decoration:none}}
+</style>
+<script>
+(function(){
+  var KEY='lim_anger_auth',HASH='53d81e6c17c82d10718106513d7a21defa05a0d73b2c89f59be66b40f8a05aac';
+  if(localStorage.getItem(KEY)==='ok')return;
+  document.documentElement.style.visibility='hidden';
+  function hexOf(buf){return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('')}
+  function showGate(){
+    document.documentElement.style.visibility='';
+    var o=document.createElement('div');o.id='auth-gate';
+    o.innerHTML='<div style="background:#282924;position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;font-family:\'Open Sans\',sans-serif">'
+      +'<img src="/brand/lutheranindianMinistries-logo-horz-stacked-2026-over-dark-background.svg" alt="Lutheran Indian Ministries" style="width:200px;margin-bottom:2rem">'
+      +'<h2 style="color:#fff;font-family:\'Merriweather\',serif;font-size:1.2rem;margin:0 0 .5rem;text-align:center">Turning Away From Wrath</h2>'
+      +'<p style="color:rgba(255,255,255,.45);font-size:.85rem;margin:0 0 2rem;text-align:center">Curriculum working draft &mdash; staff only</p>'
+      +'<input id="ag-pw" type="password" placeholder="Enter password" style="width:100%;max-width:300px;padding:.75rem 1rem;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;background:rgba(255,255,255,.07);color:#fff;font-size:1rem;outline:none;margin-bottom:1rem;box-sizing:border-box" autocomplete="current-password">'
+      +'<div id="ag-err" style="color:#ED1C24;font-size:.85rem;min-height:1.2rem;margin-bottom:.75rem"></div>'
+      +'<button id="ag-btn" style="background:#FFDE16;color:#282924;border:none;padding:.75rem 2.5rem;font-family:\'Barlow Condensed\',sans-serif;font-size:1.1rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;cursor:pointer;width:100%;max-width:300px">Enter</button></div>';
+    document.body.appendChild(o);
+    var inp=document.getElementById('ag-pw'),btn=document.getElementById('ag-btn'),err=document.getElementById('ag-err');
+    function attempt(){var pw=inp.value;if(!pw){err.textContent='Please enter the password.';return;}
+      crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw)).then(function(buf){if(hexOf(buf)===HASH){localStorage.setItem(KEY,'ok');o.remove();}else{err.textContent='Incorrect password.';inp.value='';inp.focus();}});}
+    btn.addEventListener('click',attempt);inp.addEventListener('keydown',function(e){if(e.key==='Enter')attempt();});setTimeout(function(){inp.focus();},100);
+  }
+  if(document.body){showGate();}else{document.addEventListener('DOMContentLoaded',showGate);}
+})();
+</script>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-video" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="14" height="14" rx="2"/><path d="m16 10 6-3v10l-6-3"/></symbol>
+</svg>
+
+<div class="bar">
+  <h1>Turning Away From Wrath</h1>
+  <nav><a href="#summary">Summary</a><a href="#design">Design</a><a href="#lessons">Lessons</a><a href="#videos">Videos</a><a href="#decisions">Decisions</a><a href="#culture">Culture &amp; research</a><a href="#sources">Joe&rsquo;s draft</a></nav>
+  <button id="print" type="button">Print</button>
+</div>
+
+<div class="doc">
+  <div class="mast">
+    <img src="/brand/lutheranindianMinistries-logo-horz-stacked-2026.svg" alt="Lutheran Indian Ministries">
+    <span class="lbl">Program draft 1 &middot; Christ-centered anger management</span>
+    <h2>Turning Away From Wrath</h2>
+    <p class="sub">A 20-hour anger management program in the Healing the Wounds of Trauma style, for Alaska Native, American Indian and all participants. Built from Joe Federici&rsquo;s draft of 22 Sept 2026, Robert Heffle&rsquo;s requests of 7 and 9 Nov, and the 12 Nov conversation between Joe, Robert and Gary. Working draft, 12 November 2026.</p>
+  </div>
+
+  <div class="editor">
+    <h4>Note to Robert and Joe: read this first (this box does not print)</h4>
+    <p><strong>What this is.</strong> A first full draft of the program for you to react to: cut it, push back, add to it. Robert asked for five things on 7 Nov. Each one is covered here: <strong>(1)</strong> a written training of 16 to 24 hours (the core is 20, and two optional modules bring it to 24); <strong>(2)</strong> where short videos fit, with a production list; <strong>(3)</strong> participant text written for about a 9th-grade reader; <strong>(4)</strong> an executive summary; <strong>(5)</strong> the HWT lesson pattern: story, pair and small-group discussion, an art exercise, reflection and a closing.</p>
+    <p><strong>What I kept from Joe&rsquo;s draft.</strong> All of the teaching: triggers, thinking errors, ABCD, cues, righteous and sinful anger, the toolbox, assertiveness and the conflict model, and the final personal plan. I rewrote it in shorter sentences and spread it over eight lessons. Joe&rsquo;s case stories are all kept as a case lab (Optional Module B). The <a href="#sources">map at the end</a> shows where each part of his draft went.</p>
+    <p><strong>What is new.</strong> Eight new opening stories set in Native communities, the cultural discussion question in every lesson (the same approach HWT takes), and two lessons that came out of the 12 Nov conversation: <em>Where did I learn it?</em> and <em>Quiet, stuffed or exploding?</em> <strong>The stories need to be read by Native facilitators</strong> before anyone uses them. I wrote them; they need people who know the communities to say whether they ring true.</p>
+    <p><strong>Scripture</strong> is quoted in the ESV, to match <a href="/anger-scripture">/anger-scripture</a>. That September resource is now built into the program. Every lesson has a <em>Go deeper</em> box that links to the matching themes, stories and guided paths there, and the table under &ldquo;How every lesson runs&rdquo; shows which ones go with each lesson. 24 of its 32 stories and all 9 themes are used.</p>
+  </div>
+
+  <!-- ============ EXECUTIVE SUMMARY ============ -->
+  <section id="summary">
+    <div class="exec">
+      <h3>Executive summary</h3>
+      <p><strong>Turning Away From Wrath</strong> is a faith-based anger management program from Lutheran Indian Ministries. It brings together three things that are rarely found in one place: the proven skills of secular anger management (triggers, thinking errors, calming tools, assertiveness), what the Bible teaches about anger, and respect for the cultures of Alaska Native and American Indian people.</p>
+      <p>It is built the way LIM&rsquo;s Healing Groups are built. People don&rsquo;t sit through a lecture. Each lesson opens with a story so people can talk about someone else before they talk about themselves. It moves through pair and small-group discussion, a short teaching, Scripture, a hands-on or art exercise and a body-calming practice, and it closes with one thing to remember. Every lesson asks participants what their own culture, family and church taught them about anger, and nobody is told what &ldquo;Native culture&rdquo; is.</p>
+      <div class="stats">
+        <div class="stat"><b>8</b><span>core lessons</span></div>
+        <div class="stat"><b>20 hrs</b><span>core (2.5 hrs per lesson)</span></div>
+        <div class="stat"><b>24 hrs</b><span>with 2 optional modules</span></div>
+        <div class="stat"><b>12</b><span>short videos (2&ndash;4 min)</span></div>
+      </div>
+      <p><strong>The journey:</strong> Why am I here &rarr; Where did I learn it &rarr; What sets me off &rarr; What am I telling myself &rarr; What&rsquo;s under the anger &rarr; Quiet, stuffed or exploding &rarr; My toolbox &rarr; Making peace and walking on.</p>
+      <p><strong>Who it is for:</strong> adults who want help with their anger, whether they come on their own, at a pastor&rsquo;s suggestion, or by court order. Everyone is treated the same. Optional Module A serves people who <em>live with</em> someone&rsquo;s anger.</p>
+      <p><strong>Delivery:</strong> eight weekly evenings, or a four-day intensive like a Healing Group. It needs two trained facilitators (at least one Alaska Native or American Indian) and 8 to 12 participants.</p>
+      <p><strong>Recommended rollout:</strong> pilot it with volunteers first, as Joe suggested, revise it, and then ask local courts and probation what they would need to accept it. It is not a substitute for a state-approved domestic violence intervention program.</p>
+    </div>
+  </section>
+
+  <!-- ============ DESIGN ============ -->
+  <h2 class="part" id="design"><small>Part 1</small>What we heard, and how it shaped the design</h2>
+  <p class="lede">Each design choice below comes from something said on 12 November. The quotes are lightly cleaned up from the transcript.</p>
+
+  <div class="heard"><q>Every anger management program is gonna have that in it. But how do they offer it? Because you have to have the ears to receive it.</q><p><strong>&rarr; Story first, never lecture first.</strong> Each lesson opens with a story and questions, the way HWT does. Teaching blocks are kept to about 15 minutes of talking at most.</p></div>
+  <div class="heard"><q>When a person is sent to anger management, they&rsquo;re probably angry. They even got to go.</q><p><strong>&rarr; Lesson 1 is designed to settle people who don&rsquo;t want to be there.</strong> It names the feeling, sets the group agreements together, and the first real question is &ldquo;What has your anger cost you?&rdquo; rather than a rule list.</p></div>
+  <div class="heard"><q>The family tree of anger, if you will&hellip; You can almost say with a certainty that it was learned.</q><p><strong>&rarr; A full lesson on where anger is learned</strong> (Lesson 2), with a family-tree art exercise. It also covers Joe&rsquo;s point that a learned coping habit is not the same thing as a trigger.</p></div>
+  <div class="heard"><q>If they understand two things: where it came from&hellip; and how it&rsquo;s sabotaging his life. He has to be losing something in order to want to change it.</q><p><strong>&rarr; Two threads run through every lesson:</strong> <em>where did this come from?</em> and <em>what is it costing me?</em> Both come back in the final plan.</p></div>
+  <div class="heard"><q>They just quit talking to each other until enough time has passed&hellip; It&rsquo;s hard for me to say native and cultural around anger&hellip; That might be a good question to ask some other people.</q><p><strong>&rarr; Ask participants about culture; don&rsquo;t tell them about it.</strong> Every lesson has a culture question. Lesson 6 takes up silence and withdrawal directly, along with Joe&rsquo;s observation about passivity, and treats restraint as a strength that sometimes needs a voice.</p></div>
+  <div class="heard"><q>What part of your body is reacting? &hellip; Take a beat.</q><p><strong>&rarr; A body-calming practice in every lesson</strong>, starting with breathing (as in HWT) and building to the body scan, grounding and muscle relaxation.</p></div>
+  <div class="heard"><q>Do we want to just say we&rsquo;re not going that far with this? That&rsquo;s for the healing training&hellip;</q><p><strong>&rarr; Name the root; don&rsquo;t try to dig it all out.</strong> Lessons 2 and 5 help people see where their anger comes from. Deeper wounds are referred on to a Healing Group or a counselor. This is <a href="#decisions">Decision 1</a>.</p></div>
+  <div class="heard"><q>Do you think there could be value in somebody attending who maybe doesn&rsquo;t have a significant anger problem, but living with somebody who does?</q><p><strong>&rarr; Optional Module A</strong>, for people living with someone&rsquo;s anger, run as a separate group for safety.</p></div>
+  <div class="heard"><q>I just need five minutes when I walk through the door.</q><p><strong>&rarr; Lesson 7 covers the body&rsquo;s needs</strong> (being hungry, tired, in pain or sick) and how to ask for what you need before the blow-up instead of getting it through one.</p></div>
+  <div class="heard"><q>Let&rsquo;s throw something together and see&hellip; That could work, or no, let&rsquo;s cut that.</q><p><strong>&rarr; This draft is meant to be cut.</strong> Mark it up freely.</p></div>
+
+  <h3>Program at a glance</h3>
+  <table>
+    <tr><th>#</th><th>Lesson</th><th>Big question</th><th>Skill practiced</th><th>Art / hands-on</th></tr>
+    <tr><td>1</td><td><a href="#l1">Why am I here?</a></td><td>What has my anger cost me?</td><td>Slow breathing</td><td>Two baskets: what anger gets me / what it costs me</td></tr>
+    <tr><td>2</td><td><a href="#l2">Where did I learn it?</a></td><td>Who taught me how to be angry?</td><td>Grounding (5-4-3-2-1)</td><td>Family tree of anger</td></tr>
+    <tr><td>3</td><td><a href="#l3">What sets me off?</a></td><td>What are my triggers and warning signs?</td><td>Body scan: &ldquo;take a beat&rdquo;</td><td>Body map</td></tr>
+    <tr><td>4</td><td><a href="#l4">What am I telling myself?</a></td><td>Is my story about this true?</td><td>STOP</td><td>Two stories (ABCD)</td></tr>
+    <tr><td>5</td><td><a href="#l5">What&rsquo;s under the anger?</a></td><td>What hurt, fear or shame is hiding underneath?</td><td>Pouring out the heart (lament)</td><td>Iceberg</td></tr>
+    <tr><td>6</td><td><a href="#l6">Quiet, stuffed or exploding?</a></td><td>How can I speak up without blowing up?</td><td>Calm voice</td><td>Role-play, one scene three ways</td></tr>
+    <tr><td>7</td><td><a href="#l7">My toolbox</a></td><td>What will I do when it rises?</td><td>Progressive muscle relaxation</td><td>Tackle box of tools + timeout agreement</td></tr>
+    <tr><td>8</td><td><a href="#l8">Making peace and walking on</a></td><td>How do I repair harm and keep going?</td><td>Review of all skills</td><td>My anger plan + letter</td></tr>
+    <tr><td>A</td><td><a href="#ma">Living with someone&rsquo;s anger</a> <span class="tag">optional</span></td><td>Where does their problem end and mine begin?</td><td>Safety plan</td><td>Boundaries circle</td></tr>
+    <tr><td>B</td><td><a href="#mb">Case lab</a> <span class="tag">optional</span></td><td>Can I spot it in someone else?</td><td>Applying all tools</td><td>Joe&rsquo;s four cases</td></tr>
+  </table>
+
+  <h3>Schedule options</h3>
+  <table>
+    <tr><th>Format</th><th>Shape</th><th>Hours</th><th>Best for</th></tr>
+    <tr><td><strong>Weekly</strong> <span class="tag rec">recommended for pilot</span></td><td>8 evenings, 2.5 hrs each</td><td>20</td><td>Practice between sessions; court-referred participants; town settings</td></tr>
+    <tr><td><strong>Intensive</strong></td><td>4 days, 2 lessons a day (5 hrs plus lunch)</td><td>20</td><td>Village visits and travel teams, the same as Healing Groups</td></tr>
+    <tr><td><strong>Extended</strong></td><td>10 sessions: 8 core + Modules A and B (2 hrs each)</td><td>24</td><td>Church programs; groups that want more practice</td></tr>
+  </table>
+
+  <h3>How every lesson runs (the HWT pattern)</h3>
+  <table>
+    <tr><th>Part</th><th>Minutes</th><th>What happens</th></tr>
+    <tr><td>Opening circle</td><td>15</td><td>Welcome, optional prayer, a weather check-in (&ldquo;Calm, cloudy or stormy today?&rdquo;), and a report back on the between-session challenge. A talking piece is passed if the group wants one.</td></tr>
+    <tr><td>Section 1 &middot; Story</td><td>25</td><td>The story is read aloud or watched, then discussed in pairs, then in the whole group.</td></tr>
+    <tr><td>Section 2 &middot; Teaching</td><td>30</td><td>A short teaching with a video spot, plus the culture question in small groups.</td></tr>
+    <tr><td>Section 3 &middot; What the Bible says</td><td>25</td><td>Passages read in small groups, each answering the same two or three questions.</td></tr>
+    <tr><td>Break</td><td>10</td><td>Food and coffee. Facilitators check in with anyone who seems stirred up.</td></tr>
+    <tr><td>Exercise</td><td>25</td><td>Art or hands-on work alone, then sharing &ldquo;as much or as little as you like&rdquo; (HWT&rsquo;s wording).</td></tr>
+    <tr><td>Practice</td><td>10</td><td>A body-calming skill, done together.</td></tr>
+    <tr><td>Closing</td><td>10</td><td>&ldquo;What is one thing you want to remember?&rdquo; The between-session challenge is given, then a closing prayer or blessing.</td></tr>
+    <tr><td colspan="2"><strong>Total 150 min</strong></td><td>2.5 hours</td></tr>
+  </table>
+
+  <h3>Scripture across the program</h3>
+  <p style="font-size:.9rem">Each lesson quotes two to four passages in the session itself. The <a href="/anger-scripture">Anger in Scripture</a> resource built in September (9 themes, 32 stories, 596 verses) supplies the rest. Use it to swap stories or give each small group its own passage, and give participants the <a href="/anger-explore">step-by-step version</a> on their phones as between-session reading.</p>
+  <table>
+    <tr><th>Lesson</th><th>Themes</th><th>Stories</th><th>Guided path</th></tr>
+    <tr><td>1 &middot; Why am I here?</td><td>1, 3</td><td>Moses strikes the rock &middot; Balaam &middot; Naaman</td><td>I lose my temper fast</td></tr>
+    <tr><td>2 &middot; Where did I learn it?</td><td>7</td><td>Cain &middot; Simeon and Levi &middot; Saul and Jonathan</td><td>Anger in my home</td></tr>
+    <tr><td>3 &middot; What sets me off?</td><td>3</td><td>Saul&rsquo;s jealousy &middot; Haman &middot; Nehemiah</td><td>I lose my temper fast</td></tr>
+    <tr><td>4 &middot; What am I telling myself?</td><td>5</td><td>Naaman &middot; James and John &middot; The older brother</td><td>Angry at God / unfairness</td></tr>
+    <tr><td>5 &middot; What&rsquo;s under the anger?</td><td>2, 4</td><td>Jesus in the synagogue &middot; Temple &middot; Jonah &middot; Older brother</td><td>Is anger ever right?</td></tr>
+    <tr><td>6 &middot; Quiet, stuffed or exploding?</td><td>&mdash;</td><td>Absalom&rsquo;s silence &middot; Ahab sulks &middot; Nathan &middot; Abigail &middot; Paul and Barnabas</td><td>Someone is angry at me &middot; Held on for years</td></tr>
+    <tr><td>7 &middot; My toolbox</td><td>6, 9</td><td>Nehemiah &middot; Peter&rsquo;s sword</td><td>I lose my temper fast</td></tr>
+    <tr><td>8 &middot; Making peace</td><td>8</td><td>Esau&rsquo;s embrace &middot; Joseph &middot; Unforgiving servant &middot; Stephen</td><td>Someone hurt me &middot; Held on for years</td></tr>
+    <tr><td>A &middot; Living with anger</td><td>7</td><td>Abigail &middot; David and Saul</td><td>Someone is angry at me &middot; Anger in my home</td></tr>
+  </table>
+
+  <!-- ============ LESSONS ============ -->
+  <h2 class="part" id="lessons"><small>Part 2</small>The lessons</h2>
+  <p class="lede">Story boxes, teaching paragraphs and questions are written for participants, at about a 9th-grade level. Facilitator notes (the dashed boxes) are for leaders only.</p>
+
+  <!-- LESSON 1 -->
+  <section class="lesson" id="l1">
+    <div class="lhead"><span class="num">Lesson 1</span><h3>Why am I here?</h3><p class="q">What has my anger cost me?</p></div>
+    <div class="lbody">
+      <p class="goal"><strong>By the end:</strong> people feel safe enough to come back. They know anger is a normal, God-given feeling and that what we <em>do</em> with it is learned and can change. Each person has named one thing anger has cost them.</p>
+
+      <h4>Opening circle <span class="t">15 min</span></h4>
+      <p>Welcome everyone by name. Say plainly: <em>&ldquo;Some of you chose to be here. Some of you were sent. Either way, you&rsquo;re welcome, and you&rsquo;ll be treated the same. Nobody is going to lecture you. You decide what you take home.&rdquo;</em> Build the group agreements <strong>together</strong> instead of reading rules (see facilitator notes).</p>
+
+      <h4>Section 1 &middot; Story: &ldquo;Monday Night&rdquo; <span class="t">25 min</span></h4>
+      <div class="story"><span class="st">Monday Night</span>
+        <p>Dale was forty-one. He had never been to a group like this, and he didn&rsquo;t plan to talk. A judge had ordered him to come after a shouting match at a gas station turned into a shove. He took the chair closest to the door and folded his arms.</p>
+        <p>The leader was a woman named Martha. She had grown up in a small village up the river. She didn&rsquo;t hand out rules. She poured coffee, asked everyone their name and where their family was from, and told a story about her own father&rsquo;s temper. Then she asked one question: &ldquo;What has your anger cost you?&rdquo;</p>
+        <p>Nobody said anything for a long time. A young man finally said, &ldquo;My job.&rdquo; A woman said, &ldquo;My sister won&rsquo;t talk to me.&rdquo; Dale said nothing.</p>
+        <p>At the break, Dale stood outside in the cold. Martha came out, stood next to him and didn&rsquo;t say a word. After a while he said, &ldquo;My daughter won&rsquo;t let me see my grandson.&rdquo; Martha nodded. &ldquo;That&rsquo;s a big cost,&rdquo; she said. &ldquo;I&rsquo;m glad you came.&rdquo;</p>
+        <p>The next Monday, Dale took a chair in the middle of the room.</p>
+      </div>
+      <div class="disc"><b>Discussion (pairs, then the whole group)</b><ol><li>Why do you think Dale sat by the door?</li><li>What did Martha do that helped? What did she <em>not</em> do?</li><li>Why do you think Dale moved his chair the next week?</li></ol></div>
+
+      <h4>Section 2 &middot; Teaching: anger is not the enemy <span class="t">30 min</span></h4>
+      <p>Anger is a normal feeling. God made us able to feel it. It tells us something seems unfair, unsafe or wrong. Anger can even push us to do good things, like protect a child or stand up against something unjust.</p>
+      <p>The problem is not the feeling. The problem is what we do with it. <strong>Anger</strong> is a feeling. <strong>Aggression</strong> is an action meant to hurt, scare or control someone. You can feel angry without being aggressive.</p>
+      <p>Here are four things many people believe that are not true:</p>
+      <ul>
+        <li><strong>&ldquo;I was born this way. I can&rsquo;t change.&rdquo;</strong> Our bodies react to anger on their own, but what we do next is learned. What is learned can be relearned.</li>
+        <li><strong>&ldquo;Anger always leads to fighting.&rdquo;</strong> There are other ways to handle it, and you&rsquo;ll learn them here.</li>
+        <li><strong>&ldquo;You have to be tough to get what you want.&rdquo;</strong> Being firm and respectful works better than being aggressive, and it doesn&rsquo;t cost you your relationships.</li>
+        <li><strong>&ldquo;It&rsquo;s healthy to let it all out.&rdquo;</strong> Studies show that people who yell or hit things to &ldquo;vent&rdquo; just get better at being angry.</li>
+      </ul>
+      <p>Anger has costs. Over time it wears on the heart, blood pressure, sleep and stomach. It wears on families too. Children learn how to handle anger by watching us. And being sorry afterward, even truly sorry, doesn&rsquo;t undo what was said or done.</p>
+      <div class="vid"><svg aria-hidden="true"><use href="#i-video"/></svg><div><b>Video 1 &middot; &ldquo;This isn&rsquo;t a lecture&rdquo;</b> (2 min). A Native facilitator or Elder welcomes the group: why they came to this work, what the group is and isn&rsquo;t, and that everyone is treated the same.</div></div>
+      <div class="culture"><b>Culture question (small groups)</b>Growing up, what did you learn about anger: from your family, your community, your church? Was it OK to show it? Who was allowed to be angry, and who wasn&rsquo;t?</div>
+
+      <h4>Section 3 &middot; What the Bible says <span class="t">25 min</span></h4>
+      <div class="psg"><div class="ref">Exodus 34:6</div><p class="txt">&ldquo;The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Ephesians 4:26&ndash;27</div><p class="txt">&ldquo;Be angry and do not sin; do not let the sun go down on your anger, and give no opportunity to the devil.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Numbers 20:7&ndash;12 &middot; Moses and the rock</div><p class="txt">God told Moses to <em>speak</em> to the rock so it would give water. Moses was fed up with the people. He shouted at them and &ldquo;struck the rock with his staff twice.&rdquo; Water still came. But because of what he did that day, Moses was not allowed to lead the people into the promised land.</p></div>
+      <div class="disc"><b>Discussion</b><ol><li>What does Exodus 34:6 tell us about how God handles anger?</li><li>Does Ephesians 4:26 say anger is wrong? What <em>does</em> it say?</li><li>What did Moses&rsquo; anger cost him? Has your anger ever cost you something you can&rsquo;t get back?</li></ol></div>
+      <div class="vid"><svg aria-hidden="true"><use href="#i-video"/></svg><div><b>Video 2 &middot; Moses and the rock</b> (3 min). A narrated, illustrated retelling of Numbers 20 that ends on the question &ldquo;What did his anger cost him?&rdquo;</div></div>
+
+      <div class="deeper"><b>Go deeper in <a href="/anger-scripture">Anger in Scripture</a></b><p>More passages and stories for this lesson. Use them to swap in a different Bible story, give a small group its own passage, or send people home with reading.</p><ul><li><span class="k">Theme 1</span> <a href="/anger-scripture#t1">The LORD is slow to anger</a> &middot; <a href="/anger-explore#/theme/1">read one passage at a time</a></li><li><span class="k">Theme 3</span> <a href="/anger-scripture#t3">Wisdom on the hot temper</a> &middot; <a href="/anger-explore#/theme/3">read one passage at a time</a></li><li><span class="k">Story 7</span> <a href="/anger-scripture#s7">Moses strikes the rock</a>: what one angry moment cost Moses &middot; <a href="/anger-explore#/story/7">explore</a></li><li><span class="k">Story 8</span> <a href="/anger-scripture#s8">Balaam beats his donkey</a>: lashing out at the one who was protecting him &middot; <a href="/anger-explore#/story/8">explore</a></li><li><span class="k">Story 15</span> <a href="/anger-scripture#s15">Naaman goes away in a rage</a>: anger nearly costs Naaman his healing &middot; <a href="/anger-explore#/story/15">explore</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/temper">&ldquo;I lose my temper fast&rdquo;</a></li></ul></div>
+
+      <h4>Exercise &middot; Two baskets <span class="t">25 min</span></h4>
+      <p>Draw two baskets (or buckets, or boxes). In the first, draw or write what anger has <strong>gotten</strong> you, because anger often works in the short term: people back off, you feel strong, you get your way. In the second, draw what anger has <strong>cost</strong> you: people, jobs, trust, peace, health. Look at both. Which one is heavier? Share as much or as little as you like.</p>
+      <p>Then fill in the <a href="#selfcheck">Anger Self-Check</a> privately. Nobody else sees it. You&rsquo;ll fill it in again in Lesson 8.</p>
+
+      <h4>Practice &middot; Slow breathing <span class="t">10 min</span></h4>
+      <p>Sit comfortably. Close your eyes or look at one spot on the floor. Breathe in slowly through your nose while you count to four. Hold for a moment. Breathe out slowly while you count to six. Do this ten times. If it feels uncomfortable at any point, stop. You are in control.</p>
+
+      <h4>Closing <span class="t">10 min</span></h4>
+      <p class="take"><strong>One thing to remember:</strong> What is one thing you want to take from today?<br><strong>Between-session challenge:</strong> Each day, notice one time you felt even a little angry. Just notice it. Don&rsquo;t try to fix it yet.</p>
+
+      <div class="fac"><b>Facilitator notes</b>
+        <ul>
+          <li><strong>Agreements, built together:</strong> safety (no threats or violence), confidentiality (what&rsquo;s said here stays here, with the legal limits explained: harm to self, harm to others, child abuse), speaking for yourself, the right to pass, and that facilitators may call a timeout. Write them on newsprint and post them every week. These are Joe&rsquo;s draft rules, reworded as agreements.</li>
+          <li>Tell your own story, briefly and honestly, as Martha does. It sets the tone more than any rule.</li>
+          <li>Court-referred participants: sign attendance sheets quietly at the door and keep paperwork out of the circle.</li>
+          <li>Screen before the first session (see <a href="#decisions">Decision 4</a>).</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- LESSON 2 -->
+  <section class="lesson" id="l2">
+    <div class="lhead"><span class="num">Lesson 2</span><h3>Where did I learn it?</h3><p class="q">Who taught me how to be angry?</p></div>
+    <div class="lbody">
+      <p class="goal"><strong>By the end:</strong> people can see that the way they handle anger was learned, often from family, and sometimes passed down through generations of hurt. Learned habits can end with them.</p>
+
+      <h4>Section 1 &middot; Story: &ldquo;Three Generations&rdquo; <span class="t">25 min</span></h4>
+      <div class="story"><span class="st">Three Generations</span>
+        <p>When Walter was seven, he was sent away to a boarding school. If he spoke his own language there, he was punished. He learned to keep quiet and keep his face blank. As a grown man he was gentle most of the time. But when he drank, the anger he had kept in for years came out all at once, and his family learned to stay out of his way.</p>
+        <p>His son Gerald swore he would never drink, and he never did. But Gerald yelled. He slammed doors when the bills came. His kids learned to go to their rooms and be very quiet until it passed.</p>
+        <p>Gerald&rsquo;s son Tyler is twenty-four now. Last month he punched a hole in the wall when his truck wouldn&rsquo;t start. When he turned around, his three-year-old daughter was hiding behind the couch with her hands over her ears. Tyler stood very still. He had hidden behind that same kind of couch when he was little.</p>
+        <p>That night he called his grandfather. &ldquo;Grandpa,&rdquo; he said, &ldquo;how do I make it stop with me?&rdquo;</p>
+      </div>
+      <div class="disc"><b>Discussion</b><ol><li>What did Walter learn about anger? Gerald? Tyler?</li><li>Each man handled anger differently. What did they have in common?</li><li>What do you think Tyler&rsquo;s grandfather said to him?</li></ol></div>
+
+      <h4>Section 2 &middot; Teaching: anger is learned <span class="t">30 min</span></h4>
+      <p>Nobody wakes up one day with an anger problem. We learn how to handle anger mostly by watching the people who raised us. When researchers look at children who blow up at school, they usually find someone at home who blows up too.</p>
+      <p>Sometimes anger <strong>works</strong>, at least for a while. When a parent yells, the kids obey. When a man slams the table, the argument ends. So the habit sticks, because it gets a need met. The question is whether there is a better way to meet that need.</p>
+      <p>Some anger is a <strong>coping habit</strong>, the way we learned to protect ourselves. That is different from a <strong>trigger</strong>, which is a reaction to something that reminds us of an old hurt (Lesson 3). Habits need new habits to replace them. Triggers need to be understood.</p>
+      <p>Many Native families also carry <strong>historical trauma</strong>: hurt from boarding schools, losing land and language, and broken families, passed from one generation to the next. That isn&rsquo;t an excuse for hurting people. But it helps explain why anger, silence or drinking can run through a family. Understanding where it came from is the first step to letting it stop with you.</p>
+      <div class="vid"><svg aria-hidden="true"><use href="#i-video"/></svg><div><b>Video 3 &middot; &ldquo;Where I learned it&rdquo;</b> (3 min). A Native man or woman tells their own family story of anger and what changed.</div></div>
+      <div class="culture"><b>Culture question</b>In your family or community, what happened when someone got angry? Did people yell, go quiet, leave, drink, pray? Are there good ways of handling conflict in your culture that have been lost or forgotten?</div>
+
+      <h4>Section 3 &middot; What the Bible says <span class="t">25 min</span></h4>
+      <div class="psg"><div class="ref">Genesis 4:6&ndash;7 &middot; Cain</div><p class="txt">&ldquo;The LORD said to Cain, &lsquo;Why are you angry, and why has your face fallen? &hellip; sin is crouching at the door. Its desire is contrary to you, but you must rule over it.&rsquo;&rdquo;</p></div>
+      <div class="psg"><div class="ref">2 Timothy 1:5</div><p class="txt">&ldquo;I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Lamentations 3:22&ndash;23</div><p class="txt">&ldquo;The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning.&rdquo;</p></div>
+      <div class="disc"><b>Discussion</b><ol><li>God spoke to Cain <em>before</em> he did anything. What was God warning him about?</li><li>Timothy&rsquo;s faith was passed down from his grandmother and mother. What good things were passed down in your family?</li><li>What does &ldquo;new every morning&rdquo; mean for someone trying to break an old pattern?</li></ol></div>
+
+      <div class="deeper"><b>Go deeper in <a href="/anger-scripture">Anger in Scripture</a></b><p>More passages and stories for this lesson. Use them to swap in a different Bible story, give a small group its own passage, or send people home with reading.</p><ul><li><span class="k">Theme 7</span> <a href="/anger-scripture#t7">Anger in the home</a> &middot; <a href="/anger-explore#/theme/7">read one passage at a time</a></li><li><span class="k">Story 1</span> <a href="/anger-scripture#s1">Cain and Abel</a>: anger that God warns about before it happens &middot; <a href="/anger-explore#/story/1">explore</a></li><li><span class="k">Story 3</span> <a href="/anger-scripture#s3">Simeon and Levi at Shechem</a>: two brothers&rsquo; rage marks the family for generations (Genesis 49:5&ndash;7) &middot; <a href="/anger-explore#/story/3">explore</a></li><li><span class="k">Story 10</span> <a href="/anger-scripture#s10">Saul&rsquo;s jealousy turns to rage</a>: a father&rsquo;s rage turned on his own son (1 Samuel 20:30&ndash;34) &middot; <a href="/anger-explore#/story/10">explore</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/home">&ldquo;Anger in my home&rdquo;</a></li></ul></div>
+
+      <h4>Exercise &middot; Family tree of anger <span class="t">25 min</span></h4>
+      <p>Draw your family tree as far back as you know it: grandparents, parents, aunts and uncles, you, your children. Next to each person, draw a symbol for how they handled anger: a <strong>storm</strong> (exploded), a <strong>stone</strong> (went silent), a <strong>door</strong> (left), a <strong>bottle</strong> (drank), a <strong>bridge</strong> (talked it out). Look at your tree. What do you notice? What symbol do you want to pass on?</p>
+
+      <h4>Practice &middot; Grounding (5-4-3-2-1) <span class="t">10 min</span></h4>
+      <p>When feelings are strong, bring yourself back to the room. Name 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell and 1 you can taste.</p>
+
+      <h4>Closing <span class="t">10 min</span></h4>
+      <p class="take"><strong>Between-session challenge:</strong> Talk with one family member you trust. Ask: &ldquo;How did people in our family handle anger when you were growing up?&rdquo;</p>
+
+      <div class="fac"><b>Facilitator notes</b><ul><li>This lesson can stir up grief and boarding-school pain. Keep the HWT stance: honor the hurt, and don&rsquo;t try to process it fully here. Have Healing Group dates and a counselor list on hand.</li><li>Some participants may feel the church was part of the harm. Let that be said without defending. HWT Lesson 1 (&ldquo;If we have had bad experiences with the church&rdquo;) is a good model.</li><li>Not everyone has family information. Adoption, foster care or not knowing is fine. They can draw the people who raised them.</li></ul></div>
+    </div>
+  </section>
+
+  <!-- LESSON 3 -->
+  <section class="lesson" id="l3">
+    <div class="lhead"><span class="num">Lesson 3</span><h3>What sets me off?</h3><p class="q">What are my triggers, and what are my warning signs?</p></div>
+    <div class="lbody">
+      <p class="goal"><strong>By the end:</strong> people can name two or three of their triggers, describe the stages of the anger cycle, and recognize the early warning signs in their own body.</p>
+
+      <h4>Section 1 &middot; Story: &ldquo;Nathan&rsquo;s First Job&rdquo; <span class="t">25 min</span></h4>
+      <div class="story"><span class="st">Nathan&rsquo;s First Job</span>
+        <p>Nathan had just finished high school. He was proud to get a job at the building supply store in town, loading lumber and helping customers. He wanted to save money and move out of his parents&rsquo; house, because he and his dad didn&rsquo;t get along.</p>
+        <p>His supervisor turned out to be a man who drank. Some mornings Nathan could smell it on his breath. The man was moody and quick to criticize, even though Nathan worked hard and got along with everyone. Nathan knew that feeling. His father drank too. He went quiet, tried harder and stayed out of the man&rsquo;s way. Nothing was ever good enough.</p>
+        <p>One Monday, after unloading a whole truck of lumber and cement by himself, Nathan asked for his ten-minute break. The supervisor yelled, &ldquo;What&rsquo;s the matter with you, kid? Can&rsquo;t you do anything right?&rdquo;</p>
+        <p>Something welled up in Nathan. He shoved the man, who fell to the ground. &ldquo;Nothing I do is ever good enough for you!&rdquo; Nathan shouted. &ldquo;I quit!&rdquo;</p>
+        <p>Later, some coworkers who knew what had been going on talked to Nathan and to the manager. The store moved Nathan to another department instead of firing him.</p>
+      </div>
+      <div class="disc"><b>Discussion</b><ol><li>What were Nathan&rsquo;s triggers? Where did they come from?</li><li>Did Nathan know he was being triggered by his past?</li><li>Looking back, when could Nathan have seen it coming?</li><li>What could he have done differently?</li></ol></div>
+
+      <h4>Section 2 &middot; Teaching: triggers and the anger cycle <span class="t">30 min</span></h4>
+      <p>A <strong>trigger</strong> is anything that sets off a strong reaction because it reminds us, often without our knowing, of an old hurt. It can be outside us (a loud voice, someone standing too close, being ignored) or inside us (a memory, replaying an old injustice, a feeling of shame).</p>
+      <p>When we have been hurt badly, especially more than once, the brain&rsquo;s alarm system gets more sensitive. It goes off at things that only <em>resemble</em> the old danger. Meanwhile, the thinking part of the brain gets pushed aside. That&rsquo;s why a trigger can feel so fast and so strong.</p>
+      <p>Anger usually moves through four stages:</p>
+      <ol><li><strong>Trigger:</strong> something happens.</li><li><strong>Build-up:</strong> the heart races, muscles tighten, and thinking narrows.</li><li><strong>Blow-up:</strong> yelling, hitting, slamming, or shutting down and walking out.</li><li><strong>After:</strong> the body stays stirred up for hours, and we&rsquo;re primed to go off again. Guilt or shame often follows.</li></ol>
+      <p>The best time to stop the cycle is during the <strong>build-up</strong>. To do that, you need to know your warning signs. They come in four kinds: <strong>body</strong> (hot face, tight chest, clenched jaw), <strong>actions</strong> (pacing, pointing, raising your voice), <strong>feelings</strong> (hurt, embarrassed, disrespected) and <strong>thoughts</strong> (&ldquo;He did that on purpose,&rdquo; thoughts of getting even).</p>
+      <div class="vid"><svg aria-hidden="true"><use href="#i-video"/></svg><div><b>Video 4 &middot; The anger cycle</b> (2 min). A simple animation of the four stages, showing where you can step off.</div></div>
+      <div class="culture"><b>Culture question</b>Are there things that are disrespectful in your culture that outsiders might not understand, like eye contact, interrupting an Elder, or being rushed? Do any of those set you off?</div>
+
+      <h4>Section 3 &middot; What the Bible says <span class="t">25 min</span></h4>
+      <div class="psg"><div class="ref">Psalm 139:23&ndash;24</div><p class="txt">&ldquo;Search me, O God, and know my heart! Try me and know my thoughts! And see if there be any grievous way in me, and lead me in the way everlasting!&rdquo;</p></div>
+      <div class="psg"><div class="ref">James 1:19&ndash;20</div><p class="txt">&ldquo;Let every person be quick to hear, slow to speak, slow to anger; for the anger of man does not produce the righteousness of God.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Proverbs 29:11</div><p class="txt">&ldquo;A fool gives full vent to his spirit, but a wise man quietly holds it back.&rdquo;</p></div>
+      <div class="disc"><b>Discussion</b><ol><li>The psalm writer asks God to search his heart. How could prayer help you find your triggers?</li><li>&ldquo;Slow to anger&rdquo;: what slows you down? What speeds you up?</li></ol></div>
+
+      <div class="deeper"><b>Go deeper in <a href="/anger-scripture">Anger in Scripture</a></b><p>More passages and stories for this lesson. Use them to swap in a different Bible story, give a small group its own passage, or send people home with reading.</p><ul><li><span class="k">Theme 3</span> <a href="/anger-scripture#t3">Wisdom on the hot temper</a> &middot; <a href="/anger-explore#/theme/3">read one passage at a time</a></li><li><span class="k">Story 10</span> <a href="/anger-scripture#s10">Saul&rsquo;s jealousy turns to rage</a>: a song in the street becomes Saul&rsquo;s trigger &middot; <a href="/anger-explore#/story/10">explore</a></li><li><span class="k">Story 19</span> <a href="/anger-scripture#s19">Haman&rsquo;s fury</a>: one man not bowing sets off Haman &middot; <a href="/anger-explore#/story/19">explore</a></li><li><span class="k">Story 18</span> <a href="/anger-scripture#s18">Nehemiah takes counsel with himself</a>: Nehemiah feels the anger and pauses before acting &middot; <a href="/anger-explore#/story/18">explore</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/temper">&ldquo;I lose my temper fast&rdquo;</a></li></ul></div>
+
+      <h4>Exercise &middot; Body map and trigger list <span class="t">25 min</span></h4>
+      <p>On an outline of a body, color in where you feel anger first and where it goes next. Use any colors you like. Then check off your triggers from the list in the workbook (Joe&rsquo;s checklist from his Session II) and add your own. Choose your top three.</p>
+
+      <h4>Practice &middot; &ldquo;Take a beat&rdquo; body scan <span class="t">10 min</span></h4>
+      <p>Think of a time you were a little angry (not your worst). Notice where your body reacts: stomach, chest, jaw, hands. Breathe into that spot and let it loosen. The body holds onto a feeling longer than the mind does. When you relax the body, the anger passes faster. Next time you feel it, take a beat. Don&rsquo;t answer right away.</p>
+      <div class="vid"><svg aria-hidden="true"><use href="#i-video"/></svg><div><b>Video 5 &middot; Take a beat</b> (4 min). A guided body scan people can replay at home.</div></div>
+
+      <h4>Closing <span class="t">10 min</span></h4>
+      <p class="take"><strong>Between-session challenge:</strong> Keep an anger log. Each time, write what happened (trigger), what you noticed in your body, and what you did.</p>
+
+      <div class="fac"><b>Facilitator notes</b><ul><li>The body-scan idea came from Gary&rsquo;s own experience on 12 Nov (from a book by a former Google engineer turned mindfulness teacher; title to confirm). It is a good example for a facilitator to retell in their own words.</li><li>Joe&rsquo;s trauma examples (the war veteran triggered by a restaurant uniform, the survivor triggered by a bedroom door) are powerful but heavy. Use them with care; they suit facilitator training better than session one.</li><li>Joe&rsquo;s checklist has many spouse-and-household items. Add items that fit village and reservation life (crowded housing, gossip, being talked about at the store, tribal politics, being passed over).</li></ul></div>
+    </div>
+  </section>
+
+  <!-- LESSON 4 -->
+  <section class="lesson" id="l4">
+    <div class="lhead"><span class="num">Lesson 4</span><h3>What am I telling myself?</h3><p class="q">Is my story about what happened true?</p></div>
+    <div class="lbody">
+      <p class="goal"><strong>By the end:</strong> people understand that our anger usually comes from how we read an event, not from the event itself. They can name the common thinking errors and use ABCD to check one.</p>
+
+      <h4>Section 1 &middot; Story: &ldquo;The Last Parking Spot&rdquo; <span class="t">25 min</span></h4>
+      <div class="story"><span class="st">The Last Parking Spot</span>
+        <p>It was thirty below, and Carla&rsquo;s little boy had a fever. The clinic parking lot was full. She saw a car backing out near the door, put on her blinker and waited. Just as the space opened, a pickup came around the other way and pulled right in.</p>
+        <p>Carla was furious. <em>He saw me. He saw my blinker. He just doesn&rsquo;t care.</em> She rolled down her window and yelled at the driver, words she would not want her son to repeat.</p>
+        <p>She parked far away and carried her boy across the icy lot. At the door, she saw the pickup driver helping an old man with an oxygen tank out of the passenger side. The driver looked up at her, confused. He didn&rsquo;t seem to know why she had yelled.</p>
+        <p>Carla went inside with her face burning. She thought about it all day. Had he seen her or not? She would never know. But she knew how fast she had decided he was a bad person.</p>
+      </div>
+      <div class="disc"><b>Discussion</b><ol><li>What did Carla tell herself about the driver? Was it true?</li><li>Why do you think she was so quick to think the worst?</li><li>Has something like this ever happened to you?</li></ol></div>
+
+      <h4>Section 2 &middot; Teaching: thinking errors <span class="t">30 min</span></h4>
+      <p>Every day we make thousands of quick guesses about what is going on. Most of the time we are right. But when we are tired, hurt or triggered, our guesses get bent toward the worst. These bent guesses are called <strong>thinking errors</strong>. They happen in a split second, usually without our noticing. Here are six that feed anger:</p>
+      <ul>
+        <li><strong>Mind reading:</strong> &ldquo;He did that to disrespect me.&rdquo;</li>
+        <li><strong>Taking it personally:</strong> &ldquo;She&rsquo;s late because she doesn&rsquo;t care about me.&rdquo;</li>
+        <li><strong>Always and never:</strong> &ldquo;People always walk all over me.&rdquo;</li>
+        <li><strong>Making it huge:</strong> &ldquo;This ruins everything.&rdquo;</li>
+        <li><strong>Should rules:</strong> &ldquo;He should never talk to me like that.&rdquo;</li>
+        <li><strong>Replaying it:</strong> going over and over it until you&rsquo;re angrier than when it happened.</li>
+      </ul>
+      <p>Old beliefs shape our guesses too. Someone who grew up where every argument ended in a fight expects a fight. Someone who was told they were worthless hears an insult where none was meant.</p>
+      <p><strong>ABCD</strong> is a way to check your thinking:</p>
+      <ul><li><strong>A</strong> &middot; <strong>A</strong>ctivating event: what actually happened? (Just the facts a camera would see.)</li><li><strong>B</strong> &middot; <strong>B</strong>elief: what did I tell myself about it?</li><li><strong>C</strong> &middot; <strong>C</strong>onsequence: how did I feel, and what did I do?</li><li><strong>D</strong> &middot; <strong>D</strong>ispute: is my belief true? What else could explain it? What&rsquo;s the worst, best and most likely answer?</li></ul>
+      <div class="vid"><svg aria-hidden="true"><use href="#i-video"/></svg><div><b>Video 6 &middot; The parking spot, two ways</b> (3 min). Carla&rsquo;s story acted out, then replayed with her pausing to run ABCD before she rolls down the window.</div></div>
+      <div class="culture"><b>Culture question</b>Are there beliefs in your community about outsiders, other families, or people in charge that make it easy to assume the worst? Where did those beliefs come from? Are some of them based on real history?</div>
+
+      <h4>Section 3 &middot; What the Bible says <span class="t">25 min</span></h4>
+      <div class="psg"><div class="ref">Proverbs 18:13</div><p class="txt">&ldquo;If one gives an answer before he hears, it is his folly and shame.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Proverbs 19:11</div><p class="txt">&ldquo;Good sense makes one slow to anger, and it is his glory to overlook an offense.&rdquo;</p></div>
+      <div class="psg"><div class="ref">2 Corinthians 10:5 &middot; also Romans 12:2, Philippians 4:8</div><p class="txt">&ldquo;&hellip;take every thought captive to obey Christ.&rdquo;</p></div>
+      <div class="disc"><b>Discussion</b><ol><li>What does it look like to &ldquo;take a thought captive&rdquo; before it takes you?</li><li>Is it always right to overlook an offense? When is it not? (This leads into Lesson 6.)</li></ol></div>
+
+      <div class="deeper"><b>Go deeper in <a href="/anger-scripture">Anger in Scripture</a></b><p>More passages and stories for this lesson. Use them to swap in a different Bible story, give a small group its own passage, or send people home with reading.</p><ul><li><span class="k">Theme 5</span> <a href="/anger-scripture#t5">The apostles on anger</a> &middot; <a href="/anger-explore#/theme/5">read one passage at a time</a></li><li><span class="k">Story 15</span> <a href="/anger-scripture#s15">Naaman goes away in a rage</a>: &ldquo;Behold, I thought&hellip;&rdquo;: anger from an expectation &middot; <a href="/anger-explore#/story/15">explore</a></li><li><span class="k">Story 26</span> <a href="/anger-scripture#s26">James and John want fire from heaven</a>: assuming the worst about a whole village &middot; <a href="/anger-explore#/story/26">explore</a></li><li><span class="k">Story 28</span> <a href="/anger-scripture#s28">The older brother</a>: &ldquo;You never gave me&hellip;&rdquo;: the older brother&rsquo;s story about himself &middot; <a href="/anger-explore#/story/28">explore</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/unfair">&ldquo;I&rsquo;m angry at God, or at how unfair things are&rdquo;</a></li></ul></div>
+
+      <h4>Exercise &middot; Two stories <span class="t">25 min</span></h4>
+      <p>Pick a recent time you got angry. On the left side of the page, write the story you told yourself. On the right side, write a second story: another way it could have happened that is just as possible. Then answer: Which story makes me angrier? Which one do I actually know is true? Share in pairs.</p>
+
+      <h4>Practice &middot; STOP <span class="t">10 min</span></h4>
+      <p><strong>S</strong>top. <strong>T</strong>ake a breath. <strong>O</strong>bserve your body, your thoughts and the situation. <strong>P</strong>roceed on purpose. Practice it with a few made-up situations in pairs.</p>
+
+      <h4>Closing <span class="t">10 min</span></h4>
+      <p class="take"><strong>Between-session challenge:</strong> Do ABCD once on paper this week, on a real moment.</p>
+
+      <div class="fac"><b>Facilitator notes</b><ul><li>Joe&rsquo;s draft lists ten thinking errors. For a 9th-grade group, six is plenty; the full list is in the facilitator guide.</li><li>Be careful with the culture question. Distrust of institutions is often <em>earned</em> by history. The point isn&rsquo;t that suspicion is always wrong. It&rsquo;s to check whether this particular person, in this moment, deserves it.</li><li>Joe&rsquo;s biblical teaching on &ldquo;error&rdquo; as departure from God&rsquo;s truth fits here for church groups. His Exercise III (Biblical thinking errors) can be used as the exercise instead.</li></ul></div>
+    </div>
+  </section>
+
+  <!-- LESSON 5 -->
+  <section class="lesson" id="l5">
+    <div class="lhead"><span class="num">Lesson 5</span><h3>What&rsquo;s under the anger?</h3><p class="q">What hurt, fear or shame is hiding underneath?</p></div>
+    <div class="lbody">
+      <p class="goal"><strong>By the end:</strong> people understand anger as often a &ldquo;cover&rdquo; feeling over hurt, fear or shame. They can tell righteous anger from sinful anger, and they know where to go for deeper healing.</p>
+
+      <h4>Section 1 &middot; Story: &ldquo;Ray Comes Home&rdquo; <span class="t">25 min</span></h4>
+      <div class="story"><span class="st">Ray Comes Home</span>
+        <p>Ray served two tours in the Army. When he came home, everyone said he was a hero. He found work, fixed up his mom&rsquo;s house and never complained. He also never talked about what happened over there.</p>
+        <p>But Ray was angry all the time. When his kids got loud, he yelled at them to shut up. When a tire went flat on the highway, he punched the dashboard so hard he cracked it. His wife, Annie, started walking on eggshells. The kids stayed in their rooms.</p>
+        <p>One fall day his uncle Joe, who had served in Vietnam, asked Ray to help him at the smokehouse. They worked for hours without talking much. Then his uncle said, &ldquo;When I came home, I was mad at everything. Took me years to figure out I wasn&rsquo;t really mad. I was scared, and I was sad about the guys who didn&rsquo;t come back. Being mad was easier.&rdquo;</p>
+        <p>Ray didn&rsquo;t answer. But he didn&rsquo;t leave either. They kept working until dark.</p>
+      </div>
+      <div class="disc"><b>Discussion</b><ol><li>What do you think is under Ray&rsquo;s anger?</li><li>Why might anger feel &ldquo;easier&rdquo; than fear or sadness?</li><li>What did his uncle do that might help Ray?</li></ol></div>
+
+      <h4>Section 2 &middot; Teaching: the iceberg <span class="t">30 min</span></h4>
+      <p>Anger is like the tip of an iceberg. People see the anger. Underneath, where no one sees, are bigger feelings: <strong>hurt, fear, shame, grief, loneliness, embarrassment, feeling disrespected or helpless</strong>. Anger can feel safer than those feelings. It makes us feel strong when we really feel weak.</p>
+      <p>The sad part is that when we lead with anger, nobody sees the pain behind it. They only see someone who is scary. We get judged by our anger instead of by what is causing it, and we don&rsquo;t get the care we need.</p>
+      <p><strong>Righteous anger and sinful anger.</strong> The Bible shows that some anger is right. Jesus was angry when people were being hurt or God was being dishonored. Righteous anger is aimed at what is wrong, not at hurting a person. It comes from love, stays under control, and tries to fix things. Sinful anger is about <em>me</em>: my pride, my getting even. It hurts people, holds grudges and tries to control others. Most of our everyday anger, if we&rsquo;re honest, is the second kind.</p>
+      <div class="vid"><svg aria-hidden="true"><use href="#i-video"/></svg><div><b>Video 7 &middot; The iceberg</b> (2 min). An animation that names the feelings below the waterline.</div></div>
+      <div class="culture"><b>Culture question</b>In your culture or family, which feelings were OK to show and which were not? Was it OK for men to cry? For women to be angry? What happens to the feelings we aren&rsquo;t allowed to show?</div>
+
+      <h4>Section 3 &middot; What the Bible says <span class="t">25 min</span></h4>
+      <div class="psg"><div class="ref">Mark 3:5 &middot; Jesus</div><p class="txt">&ldquo;And he looked around at them with anger, grieved at their hardness of heart&hellip;&rdquo;</p></div>
+      <div class="psg"><div class="ref">Jonah 4:1&ndash;4, 9 &middot; Jonah</div><p class="txt">Jonah was angry that God showed mercy to his enemies. God asked him twice, &ldquo;Do you do well to be angry?&rdquo;</p></div>
+      <div class="psg"><div class="ref">Psalm 62:8</div><p class="txt">&ldquo;Trust in him at all times, O people; pour out your heart before him; God is a refuge for us.&rdquo;</p></div>
+      <div class="disc"><b>Discussion</b><ol><li>Jesus felt anger <em>and</em> grief at the same time. What does that tell us?</li><li>Was Jonah&rsquo;s anger righteous or sinful? Why do you think God asked him a question instead of scolding him?</li><li>What would it look like to &ldquo;pour out your heart&rdquo; to God about what&rsquo;s under your anger?</li></ol></div>
+
+      <div class="deeper"><b>Go deeper in <a href="/anger-scripture">Anger in Scripture</a></b><p>More passages and stories for this lesson. Use them to swap in a different Bible story, give a small group its own passage, or send people home with reading.</p><ul><li><span class="k">Theme 2</span> <a href="/anger-scripture#t2">God&rsquo;s righteous wrath, and rescue from it</a> &middot; <a href="/anger-explore#/theme/2">read one passage at a time</a></li><li><span class="k">Theme 4</span> <a href="/anger-scripture#t4">Jesus on anger</a> &middot; <a href="/anger-explore#/theme/4">read one passage at a time</a></li><li><span class="k">Story 24</span> <a href="/anger-scripture#s24">Jesus angry in the synagogue</a>: anger and grief together &middot; <a href="/anger-explore#/story/24">explore</a></li><li><span class="k">Story 25</span> <a href="/anger-scripture#s25">Jesus clears the temple</a>: righteous anger in action &middot; <a href="/anger-explore#/story/25">explore</a></li><li><span class="k">Story 20</span> <a href="/anger-scripture#s20">Jonah: &ldquo;Do you do well to be angry?&rdquo;</a>: anger that hides hurt pride &middot; <a href="/anger-explore#/story/20">explore</a></li><li><span class="k">Story 28</span> <a href="/anger-scripture#s28">The older brother</a>: anger that hides feeling unloved &middot; <a href="/anger-explore#/story/28">explore</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/right">&ldquo;Is anger ever right?&rdquo;</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/unfair">&ldquo;I&rsquo;m angry at God, or at how unfair things are&rdquo;</a></li></ul></div>
+
+      <h4>Exercise &middot; My iceberg <span class="t">25 min</span></h4>
+      <p>Draw an iceberg with a waterline. Above the line, write or draw how your anger shows. Below it, write the feelings you think are underneath. Go as deep as you are comfortable with. This is <strong>voluntary</strong>. Share as much or as little as you like.</p>
+
+      <h4>Practice &middot; Pouring out the heart <span class="t">10 min</span></h4>
+      <p>Write a short lament to God, the way the psalms do: tell God what happened, how you feel, what you need, and end with one thing you trust about God. (HWT teaches the same form in its grief lesson.)</p>
+
+      <h4>Closing <span class="t">10 min</span></h4>
+      <p class="take"><strong>Between-session challenge:</strong> Next time you feel angry, ask yourself: &ldquo;What else am I feeling right now?&rdquo; Write it down.</p>
+
+      <div class="fac"><b>Facilitator notes</b><ul><li><strong>This is where the program stops digging</strong> (<a href="#decisions">Decision 1</a>). If someone finds childhood abuse, combat trauma or deep grief under their anger, honor it, then point them to a Healing Group (HWT), a pastor or a counselor. Say plainly: &ldquo;This group can help you see it. Healing it takes more time than we have here.&rdquo;</li><li>Joe&rsquo;s &ldquo;Michelle&rdquo; story (childhood sexual abuse showing up as anger in marriage) belongs here, but it is heavy for mixed groups. It may suit facilitator training or one-on-one follow-up better.</li><li>Signs someone needs more help now: talk of suicide, harming others, flashbacks, heavy drinking. Have the referral list ready (HWT Lesson 3 has a good checklist).</li></ul></div>
+    </div>
+  </section>
+
+  <!-- LESSON 6 -->
+  <section class="lesson" id="l6">
+    <div class="lhead"><span class="num">Lesson 6</span><h3>Quiet, stuffed or exploding?</h3><p class="q">How can I speak up without blowing up?</p></div>
+    <div class="lbody">
+      <p class="goal"><strong>By the end:</strong> people can name four ways of handling conflict (passive, aggressive, passive-aggressive, assertive), see their own pattern, and practice saying a hard thing calmly and respectfully.</p>
+
+      <h4>Section 1 &middot; Story: &ldquo;Lorraine&rsquo;s Job&rdquo; <span class="t">25 min</span></h4>
+      <div class="story"><span class="st">Lorraine&rsquo;s Job</span>
+        <p>Lorraine worked the front desk at the clinic for three years. She was good at it. She knew every family by name and stayed late when it got busy. When a new manager came, he never thanked her. At meetings he gave other people credit for her ideas.</p>
+        <p>Lorraine didn&rsquo;t say anything. In her family you didn&rsquo;t complain, and you didn&rsquo;t make trouble for people in charge. She just worked harder and went home tired and hurt.</p>
+        <p>Then the clinic cut her position. Now she was angry, really angry. She avoided the manager at the store. She stopped talking to a coworker she thought had taken his side. A year later she was still angry, and she still didn&rsquo;t know why they had cut her job.</p>
+        <p>Her cousin listened to the whole story and asked, &ldquo;Did you ever tell him how you felt?&rdquo; Lorraine looked at her. &ldquo;How could I say that to my boss?&rdquo;</p>
+      </div>
+      <div class="disc"><b>Discussion</b><ol><li>Was it wrong for Lorraine to stay quiet? What did her silence protect? What did it cost?</li><li>Was there a respectful way she could have told her manager how she felt?</li><li>Where is Lorraine&rsquo;s anger going now?</li></ol></div>
+
+      <h4>Section 2 &middot; Teaching: four ways to handle conflict <span class="t">30 min</span></h4>
+      <ul>
+        <li><strong>Passive (stuffing it):</strong> you say nothing, give in, or walk away and stop talking. The message: <em>your feelings matter, mine don&rsquo;t.</em> The anger doesn&rsquo;t go away. It builds.</li>
+        <li><strong>Aggressive (exploding):</strong> yelling, threats, put-downs, hitting. The message: <em>my feelings matter, yours don&rsquo;t.</em></li>
+        <li><strong>Passive-aggressive (getting even sideways):</strong> the silent treatment, doing a job badly on purpose, gossip, sarcasm.</li>
+        <li><strong>Assertive (speaking up with respect):</strong> saying what you feel and need, calmly and honestly, while respecting the other person. The message: <em>your feelings matter, and so do mine.</em></li>
+      </ul>
+      <p>Many Native cultures value quiet, patience and not interfering in other people&rsquo;s business. Those are strengths. Being assertive doesn&rsquo;t mean becoming loud or pushy. It means being able to say, when it really matters, <em>&ldquo;That hurt me,&rdquo;</em> before the hurt turns into a grudge or an explosion.</p>
+      <p><strong>Five steps for working out a conflict</strong> (from Joe&rsquo;s draft):</p>
+      <ol><li><strong>Name the problem:</strong> what exactly happened?</li><li><strong>Name the feeling:</strong> hurt, frustrated, embarrassed?</li><li><strong>Name the impact:</strong> what did it cause?</li><li><strong>Decide:</strong> is this worth bringing up, or can I truly let it go?</li><li><strong>Talk it through:</strong> pick a calm time and say, &ldquo;When ___ happened, I felt ___, because ___. What I&rsquo;d like is ___.&rdquo; Then listen.</li></ol>
+      <div class="vid"><svg aria-hidden="true"><use href="#i-video"/></svg><div><b>Video 8 &middot; One conversation, three ways</b> (4 min). Lorraine and her manager, played passive, then aggressive, then assertive. Joe&rsquo;s draft already marks a video here.</div></div>
+      <div class="culture"><b>Culture question</b>Some families and communities handle conflict by not talking for a while, then going on as if nothing happened. Does that happen in yours? When does it work? When does it leave things broken? Is there a traditional, respectful way to tell someone they have hurt you, such as through an Elder or a go-between?</div>
+
+      <h4>Section 3 &middot; What the Bible says <span class="t">25 min</span></h4>
+      <div class="psg"><div class="ref">Leviticus 19:17</div><p class="txt">&ldquo;You shall not hate your brother in your heart, but you shall reason frankly with your neighbor, lest you incur sin because of him.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Matthew 18:15</div><p class="txt">&ldquo;If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Proverbs 15:1 &middot; Ephesians 4:15</div><p class="txt">&ldquo;A soft answer turns away wrath, but a harsh word stirs up anger.&rdquo; &hellip; &ldquo;speaking the truth in love.&rdquo;</p></div>
+      <div class="psg"><div class="ref">1 Samuel 25 &middot; Abigail</div><p class="txt">David is on his way to kill Nabal for insulting him. Nabal&rsquo;s wife Abigail goes out to meet David with food and wise, humble words, and turns his anger aside.</p></div>
+      <div class="disc"><b>Discussion</b><ol><li>Leviticus says hating someone &ldquo;in your heart&rdquo; is a problem. How is silent hate different from honest words?</li><li>Jesus says to go &ldquo;between you and him alone.&rdquo; Why alone?</li><li>What did Abigail do that worked? Could you do something like it?</li></ol></div>
+
+      <div class="deeper"><b>Go deeper in <a href="/anger-scripture">Anger in Scripture</a></b><p>More passages and stories for this lesson. Use them to swap in a different Bible story, give a small group its own passage, or send people home with reading.</p><ul><li><span class="k">Story 13</span> <a href="/anger-scripture#s13">Absalom&rsquo;s two-year silence</a>: two years of silence, then murder: where stuffed anger can go &middot; <a href="/anger-explore#/story/13">explore</a></li><li><span class="k">Story 14</span> <a href="/anger-scripture#s14">Ahab sulks over a vineyard</a>: sulking instead of speaking &middot; <a href="/anger-explore#/story/14">explore</a></li><li><span class="k">Story 12</span> <a href="/anger-scripture#s12">Nathan confronts David</a>: Nathan says the hard thing wisely &middot; <a href="/anger-explore#/story/12">explore</a></li><li><span class="k">Story 11</span> <a href="/anger-scripture#s11">David, Nabal and Abigail</a>: Abigail turns aside an angry man &middot; <a href="/anger-explore#/story/11">explore</a></li><li><span class="k">Story 31</span> <a href="/anger-scripture#s31">Paul and Barnabas part ways</a>: a sharp disagreement between two good men &middot; <a href="/anger-explore#/story/31">explore</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/atme">&ldquo;Someone is angry at me&rdquo;</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/grudge">&ldquo;I&rsquo;ve held on to this for years&rdquo;</a></li></ul></div>
+
+      <h4>Exercise &middot; One scene, three ways <span class="t">25 min</span></h4>
+      <p>In threes: one person shares a real (not too heavy) situation where they stayed quiet or blew up. The other two act it out passive, then aggressive, then assertive, using the five steps. Switch roles. Talk about how each version felt.</p>
+
+      <h4>Practice &middot; Calm voice <span class="t">10 min</span></h4>
+      <p>Practice saying your assertive sentence out loud: slow, low and steady. Breathe out before you start. Notice how your body feels when you speak calmly.</p>
+
+      <h4>Closing <span class="t">10 min</span></h4>
+      <p class="take"><strong>Between-session challenge:</strong> Use the &ldquo;When ___, I felt ___&rdquo; sentence once this week about something small.</p>
+
+      <div class="fac"><b>Facilitator notes</b><ul><li>This lesson comes straight from Joe&rsquo;s observation that passivity and weak assertive skills are a common pattern, and from Robert&rsquo;s story of a tribe that stops talking until time passes. Hold both: don&rsquo;t pathologize restraint, and don&rsquo;t pretend silence always heals.</li><li>Lorraine&rsquo;s story is loosely based on an example from the 11 Nov workshop, with details changed so no one can be identified.</li><li><strong>Safety:</strong> assertiveness is not the right tool with someone who is dangerous. If a participant is in an abusive relationship, the goal is safety, not a conversation. See Module A.</li></ul></div>
+    </div>
+  </section>
+
+  <!-- LESSON 7 -->
+  <section class="lesson" id="l7">
+    <div class="lhead"><span class="num">Lesson 7</span><h3>My toolbox</h3><p class="q">What will I do when anger rises?</p></div>
+    <div class="lbody">
+      <p class="goal"><strong>By the end:</strong> each person has a personal set of &ldquo;right now&rdquo; tools and &ldquo;every day&rdquo; tools, a timeout agreement with someone at home, and a plan for caring for their body.</p>
+
+      <h4>Section 1 &middot; Story: &ldquo;Five Minutes at the Door&rdquo; <span class="t">25 min</span></h4>
+      <div class="story"><span class="st">Five Minutes at the Door</span>
+        <p>Mike worked twelve-hour shifts at the mine, two weeks on and two weeks off. On his first night home he walked in tired and sore. The dishes were piled up, the TV was loud, and the kids ran at him all talking at once.</p>
+        <p>Mike exploded. He yelled about the mess, the noise, everything. The kids scattered. His wife went quiet. In a strange way, Mike got what he needed: the house was silent. But nobody felt good, including him.</p>
+        <p>Later that night his wife said, &ldquo;You need something when you walk in. What is it?&rdquo; Mike thought about it. &ldquo;Fifteen minutes. A shower. Something to eat. Then I can be a dad.&rdquo;</p>
+        <p>The next time he came home, he hugged everyone and said, &ldquo;Give me fifteen minutes, then I&rsquo;m all yours.&rdquo; He showered, ate a sandwich, and came out and played cards with the kids. Same need. Different way of meeting it.</p>
+      </div>
+      <div class="disc"><b>Discussion</b><ol><li>What was Mike really needing?</li><li>He got his quiet both times. What was different?</li><li>What do <em>you</em> need when you walk in the door?</li></ol></div>
+
+      <h4>Section 2 &middot; Teaching: building your toolbox <span class="t">30 min</span></h4>
+      <p>A good plan has two kinds of tools. <strong>Right-now tools</strong> help in the moment. <strong>Every-day tools</strong> lower how often you get there at all.</p>
+      <table>
+        <tr><th>Right now</th><th>Every day</th></tr>
+        <tr><td>Take a timeout<br>Slow breathing<br>Take a beat (body scan)<br>STOP<br>Walk it off<br>A quick prayer: &ldquo;Lord, help me&rdquo;<br>Call someone you trust</td><td>Sleep, food, exercise<br>Prayer and Scripture<br>Muscle relaxation<br>Talking things out early (Lesson 6)<br>A support group or sponsor<br>Forgiveness (Lesson 8)<br>Time on the land, the water, in creation</td></tr>
+      </table>
+      <p><strong>The timeout.</strong> Agree ahead of time, with your family or partner, that anyone can call a timeout. The person who calls it leaves for a set time, at least 20 minutes, to calm down, not to stew. Then they come back to finish the talk or set a time to finish it. Coming back is the important part.</p>
+      <p><strong>Watch your body.</strong> We are all quicker to anger when we are <strong>H</strong>ungry, <strong>A</strong>ngry already, <strong>L</strong>onely or <strong>T</strong>ired (HALT), and also when we are in pain or sick. Pain, poor sleep, thyroid problems and some medicines can all shorten your fuse. If your anger has changed suddenly, see a doctor.</p>
+      <div class="vid"><svg aria-hidden="true"><use href="#i-video"/></svg><div><b>Video 9 &middot; Progressive muscle relaxation</b> (6 min). Guided, so people can use it at home. Joe&rsquo;s draft marks videos for breathing and PMR.</div></div>
+      <div class="culture"><b>Culture question</b>What helps people in your community calm down and get back in balance? Being on the land, fishing, berry picking, beading, singing, church, talking with an Elder? Which of these could go in your toolbox?</div>
+
+      <h4>Section 3 &middot; What the Bible says <span class="t">25 min</span></h4>
+      <div class="psg"><div class="ref">1 Kings 19:4&ndash;8 &middot; Elijah</div><p class="txt">Elijah was worn out, afraid and ready to give up. God did not scold him. &ldquo;He lay down and slept under a broom tree. And behold, an angel touched him and said to him, &lsquo;Arise and eat.&rsquo;&rdquo;</p></div>
+      <div class="psg"><div class="ref">Mark 6:31</div><p class="txt">&ldquo;Come away by yourselves to a desolate place and rest a while.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Galatians 5:22&ndash;23 &middot; Philippians 4:6&ndash;7</div><p class="txt">Self-control is a fruit of the Spirit: something God grows in us, not something we have to force alone. Prayer brings a peace that guards our hearts and minds.</p></div>
+      <div class="disc"><b>Discussion</b><ol><li>What did God give Elijah first: a lecture, or sleep and food? Why does that matter?</li><li>Jesus told his tired friends to rest. Is rest part of following God?</li></ol></div>
+
+      <div class="deeper"><b>Go deeper in <a href="/anger-scripture">Anger in Scripture</a></b><p>More passages and stories for this lesson. Use them to swap in a different Bible story, give a small group its own passage, or send people home with reading.</p><ul><li><span class="k">Theme 9</span> <a href="/anger-scripture#t9">Prayers for the angry and the hurting</a> &middot; <a href="/anger-explore#/theme/9">read one passage at a time</a></li><li><span class="k">Theme 6</span> <a href="/anger-scripture#t6">Leave room for God&rsquo;s justice</a> &middot; <a href="/anger-explore#/theme/6">read one passage at a time</a></li><li><span class="k">Story 18</span> <a href="/anger-scripture#s18">Nehemiah takes counsel with himself</a>: &ldquo;I took counsel with myself&rdquo;: a timeout &middot; <a href="/anger-explore#/story/18">explore</a></li><li><span class="k">Story 29</span> <a href="/anger-scripture#s29">Peter draws the sword</a>: &ldquo;Put your sword into its sheath&rdquo; &middot; <a href="/anger-explore#/story/29">explore</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/temper">&ldquo;I lose my temper fast&rdquo;</a></li></ul></div>
+
+      <h4>Exercise &middot; My tackle box <span class="t">25 min</span></h4>
+      <p>Draw a tackle box (or toolbox) with compartments. Fill the top tray with your right-now tools and the bottom with your every-day tools. Use the list above and add your own. Then write out a <strong>timeout agreement</strong> to take home and talk over with someone in your house.</p>
+
+      <h4>Practice &middot; Progressive muscle relaxation <span class="t">10 min</span></h4>
+      <p>Starting with your feet and moving up to your face, tighten each muscle group for five seconds, then let go and notice the difference. It works best if you practice daily, so it&rsquo;s ready when you need it.</p>
+
+      <h4>Closing <span class="t">10 min</span></h4>
+      <p class="take"><strong>Between-session challenge:</strong> Make your timeout agreement with someone at home. Use one tool from your box every day.</p>
+
+      <div class="fac"><b>Facilitator notes</b><ul><li>The &ldquo;five minutes at the door&rdquo; idea comes from Robert, 12 Nov. The health point (thyroid, pain, long shifts) is his too.</li><li>&ldquo;Tackle box&rdquo; is chosen because it is everyday and familiar. Avoid sacred objects such as a medicine bag as metaphors.</li><li>Joe&rsquo;s full toolbox text (timeouts, social support, &ldquo;do not sin,&rdquo; pause and reflect, address hurts, community and accountability) goes in the participant workbook as reading.</li></ul></div>
+    </div>
+  </section>
+
+  <!-- LESSON 8 -->
+  <section class="lesson" id="l8">
+    <div class="lhead"><span class="num">Lesson 8</span><h3>Making peace and walking on</h3><p class="q">How do I repair harm and keep going?</p></div>
+    <div class="lbody">
+      <p class="goal"><strong>By the end:</strong> each person has a written anger plan, understands the difference between saying sorry and making things right, knows what to do after a slip, and leaves with a blessing and a certificate.</p>
+
+      <h4>Section 1 &middot; Story: &ldquo;Leonard&rsquo;s Letter&rdquo; <span class="t">25 min</span></h4>
+      <div class="story"><span class="st">Leonard&rsquo;s Letter</span>
+        <p>Leonard was fifty-eight. For most of his son Danny&rsquo;s childhood, Leonard had been angry, loud and sometimes rough. He had said &ldquo;sorry&rdquo; a hundred times. Then it would happen again. Danny was grown now, and they hardly spoke.</p>
+        <p>After finishing the group, Leonard wrote Danny a letter. He didn&rsquo;t make excuses. He wrote down the things he had done that he remembered. He wrote that he knew it had made Danny afraid in his own home. He wrote that he was working on it and had a plan. He didn&rsquo;t ask Danny for anything, not even forgiveness.</p>
+        <p>Danny didn&rsquo;t answer. Weeks went by, then months. Leonard kept working his plan anyway.</p>
+        <p>In June, a text came: &ldquo;Going to fish camp next weekend. You can come if you want.&rdquo;</p>
+      </div>
+      <div class="disc"><b>Discussion</b><ol><li>What made this letter different from Leonard&rsquo;s hundred sorries?</li><li>Why do you think he didn&rsquo;t ask for anything?</li><li>What if Danny had never answered? Was the letter still worth writing?</li></ol></div>
+
+      <h4>Section 2 &middot; Teaching: repair, forgiveness and slips <span class="t">30 min</span></h4>
+      <p><strong>Sorry isn&rsquo;t the same as making it right.</strong> Being sorry is a feeling. Making things right means naming what you did, owning how it hurt, changing the behavior over time, and accepting that the other person may need a long time to trust you, or may never fully trust you again.</p>
+      <p><strong>Forgiveness</strong> means letting go of the right to get even and handing the hurt to God. It doesn&rsquo;t mean pretending it didn&rsquo;t happen, and it doesn&rsquo;t mean you must trust someone who is still unsafe. Holding onto bitterness keeps anger alive. Letting go frees <em>you</em>. (HWT Lesson 6 covers forgiveness in depth.)</p>
+      <p><strong>Slips happen.</strong> Changing a lifelong habit takes time. If you blow up again, it doesn&rsquo;t mean you failed. Do what you learned: take a timeout, figure out what set you off, make it right, and get back to your plan. If it keeps happening, reach out for more help.</p>
+      <div class="vid"><svg aria-hidden="true"><use href="#i-video"/></svg><div><b>Video 10 &middot; &ldquo;Making it right&rdquo;</b> (3 min). A testimony from someone who repaired a relationship after years of anger.</div></div>
+      <div class="culture"><b>Culture question</b>How does your culture make peace after harm has been done? Are there ceremonies, gatherings, gifts or words that restore a relationship? How do those fit with what the Bible teaches?</div>
+
+      <h4>Section 3 &middot; What the Bible says <span class="t">25 min</span></h4>
+      <div class="psg"><div class="ref">Genesis 33:4 &middot; Jacob and Esau</div><p class="txt">After twenty years of anger and fear: &ldquo;But Esau ran to meet him and embraced him and fell on his neck and kissed him, and they wept.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Matthew 5:23&ndash;24</div><p class="txt">&ldquo;&hellip;leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Ephesians 4:31&ndash;32</div><p class="txt">&ldquo;Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice. Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.&rdquo;</p></div>
+      <div class="psg"><div class="ref">Romans 12:18</div><p class="txt">&ldquo;If possible, so far as it depends on you, live peaceably with all.&rdquo;</p></div>
+      <div class="disc"><b>Discussion</b><ol><li>Jesus says making peace with someone comes even before worship. Why?</li><li>&ldquo;So far as it depends on you&rdquo;: what part depends on you, and what part doesn&rsquo;t?</li></ol></div>
+
+      <div class="deeper"><b>Go deeper in <a href="/anger-scripture">Anger in Scripture</a></b><p>More passages and stories for this lesson. Use them to swap in a different Bible story, give a small group its own passage, or send people home with reading.</p><ul><li><span class="k">Theme 8</span> <a href="/anger-scripture#t8">Forgiveness and reconciliation</a> &middot; <a href="/anger-explore#/theme/8">read one passage at a time</a></li><li><span class="k">Story 2</span> <a href="/anger-scripture#s2">Esau&rsquo;s grudge, and the embrace</a>: twenty years of anger end in an embrace &middot; <a href="/anger-explore#/story/2">explore</a></li><li><span class="k">Story 4</span> <a href="/anger-scripture#s4">Joseph and his brothers</a>: &ldquo;You meant evil against me, but God meant it for good&rdquo; &middot; <a href="/anger-explore#/story/4">explore</a></li><li><span class="k">Story 27</span> <a href="/anger-scripture#s27">The unforgiving servant</a>: forgiven much, forgiving little &middot; <a href="/anger-explore#/story/27">explore</a></li><li><span class="k">Story 30</span> <a href="/anger-scripture#s30">The stoning of Stephen</a>: Stephen prays for the people killing him &middot; <a href="/anger-explore#/story/30">explore</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/hurt">&ldquo;Someone hurt me and I can&rsquo;t let it go&rdquo;</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/grudge">&ldquo;I&rsquo;ve held on to this for years&rdquo;</a></li></ul></div>
+
+      <h4>Exercise &middot; My anger plan <span class="t">25 min</span></h4>
+      <p>Using Joe&rsquo;s final exercise: for your top three triggers, write the <strong>trigger</strong>, <strong>where it came from</strong>, <strong>how I usually react</strong>, and <strong>what I will do instead</strong>. Add your warning signs, your top five tools, your timeout person and one relationship you want to repair. Fill in the Anger Self-Check again and compare it with Lesson 1. If you are ready, write a letter like Leonard&rsquo;s. You don&rsquo;t have to send it.</p>
+
+      <h4>Practice &middot; All of it <span class="t">10 min</span></h4>
+      <p>Go through each skill once together: breathing, grounding, take a beat, STOP, calm voice, muscle relaxation. Each person names the one they&rsquo;ll use most.</p>
+
+      <h4>Closing &middot; Sending out <span class="t">10 min</span></h4>
+      <p>Each person shares one thing they&rsquo;re taking with them. Certificates are given. Close with a blessing, prayer or song chosen by the group&rsquo;s facilitators following local protocol.</p>
+
+      <div class="fac"><b>Facilitator notes</b><ul><li>Letters to people who were harmed should <strong>not</strong> be sent where there is a protective order or a safety concern. Talk it over first.</li><li>Joe&rsquo;s quiz list (myths, triggers, thinking errors, cues, ABCD, assertiveness, conflict model) can be a fun team review game at the start of this session.</li><li>Offer next steps: a Healing Group, a men&rsquo;s or women&rsquo;s group, a monthly alumni circle.</li></ul></div>
+    </div>
+  </section>
+
+  <!-- MODULE A -->
+  <section class="lesson" id="ma">
+    <div class="lhead"><span class="num">Optional Module A &middot; 2 hours</span><h3>Living with someone&rsquo;s anger</h3><p class="q">Where does their problem end and mine begin?</p></div>
+    <div class="lbody">
+      <p class="goal"><strong>For</strong> spouses, parents, adult children and others who live with an angry person. Robert raised this on 12 Nov and compared it to Al-Anon and CoDA. <strong>Run it as a separate group, never with the person whose anger is the problem.</strong></p>
+      <h4>Story &middot; &ldquo;Annie&rsquo;s Side&rdquo;</h4>
+      <p>Ray&rsquo;s story from Lesson 5, told from his wife Annie&rsquo;s side: walking on eggshells, keeping the kids quiet, wondering whether it&rsquo;s her fault.</p>
+      <h4>Teaching</h4>
+      <ul><li>You are not the cause of someone else&rsquo;s anger, and you can&rsquo;t fix it for them.</li><li>Understanding triggers and the iceberg can help you not take it personally, but it never makes abuse acceptable.</li><li>Boundaries: what you will and won&rsquo;t accept, and what you will do if it happens.</li><li><strong>Safety planning:</strong> warning signs that it&rsquo;s getting dangerous, a safe place to go, people to call, and local shelter and hotline numbers.</li></ul>
+      <h4>Bible</h4>
+      <p>Abigail (1 Samuel 25), and David fleeing Saul&rsquo;s rage (1 Samuel 19). Getting out of harm&rsquo;s way is not a lack of faith.</p>
+      <div class="deeper"><b>Go deeper in <a href="/anger-scripture">Anger in Scripture</a></b><p>More passages and stories for this lesson. Use them to swap in a different Bible story, give a small group its own passage, or send people home with reading.</p><ul><li><span class="k">Theme 7</span> <a href="/anger-scripture#t7">Anger in the home</a> &middot; <a href="/anger-explore#/theme/7">read one passage at a time</a></li><li><span class="k">Story 11</span> <a href="/anger-scripture#s11">David, Nabal and Abigail</a>: Abigail and an angry household &middot; <a href="/anger-explore#/story/11">explore</a></li><li><span class="k">Story 10</span> <a href="/anger-scripture#s10">Saul&rsquo;s jealousy turns to rage</a>: David gets out of the way of Saul&rsquo;s spear &middot; <a href="/anger-explore#/story/10">explore</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/atme">&ldquo;Someone is angry at me&rdquo;</a></li><li><span class="k">Guided path</span> <a href="/anger-explore#/path/home">&ldquo;Anger in my home&rdquo;</a></li></ul></div>
+
+      <h4>Exercise &middot; Boundaries circle</h4>
+      <p>Draw a circle. Inside it, write what is yours to control (your words, your safety, your support). Outside it, write what isn&rsquo;t (their temper, their choices).</p>
+      <div class="fac"><b>Facilitator notes</b><p>Have a domestic violence advocate available, or at least on call. Never encourage couples to &ldquo;work it out&rdquo; in the group where there is violence.</p></div>
+    </div>
+  </section>
+
+  <!-- MODULE B -->
+  <section class="lesson" id="mb">
+    <div class="lhead"><span class="num">Optional Module B &middot; 2 hours</span><h3>Case lab</h3><p class="q">Can I spot it in someone else?</p></div>
+    <div class="lbody">
+      <p class="goal"><strong>Joe&rsquo;s four case studies</strong> from his Session IV, used as practice after Lesson 5 or 6. Small groups each take one case and report back on trigger, thinking errors, what&rsquo;s under the anger, righteous or sinful, and what they would say to the person.</p>
+      <table>
+        <tr><th>Case</th><th>In short</th><th>Good for practicing</th></tr>
+        <tr><td><strong>Alfonso and Helen</strong></td><td>Lost work hours in the pandemic; money fears from childhood; yelling at his wife; once felt the urge to hit her.</td><td>Escalation; internal triggers; spotting the move toward violence</td></tr>
+        <tr><td><strong>Allen and Joy</strong></td><td>A hitchhiker steals their steaks; Allen swears off ever trusting &ldquo;her kind&rdquo; again.</td><td>Overgeneralization; how one event becomes a new trigger</td></tr>
+        <tr><td><strong>Valerie</strong></td><td>Passed over for a law job; years of measuring up to her brothers; storms into the office.</td><td>Old beliefs; righteous versus sinful anger; shame afterward</td></tr>
+        <tr><td><strong>Joanna</strong></td><td>Teased about her weight as a child; explodes when her husband gently mentions dessert.</td><td>Triggers from old shame; anger at someone who means well</td></tr>
+      </table>
+      <div class="fac"><b>Facilitator notes</b><p>These cases are set outside Native communities, which can make them easier to discuss: people can talk about &ldquo;them&rdquo; first. Native facilitators may want to add one or two local cases. Joe&rsquo;s full discussion questions are kept in the facilitator guide.</p></div>
+    </div>
+  </section>
+
+  <h3 id="selfcheck">Anger Self-Check (Lessons 1 and 8)</h3>
+  <p style="font-size:.88rem;color:var(--muted)">Private. Circle a number from 1 (never) to 5 (very often). Robert suggested a 1-to-10 scale on 12 Nov; 1 to 5 is easier to answer quickly.</p>
+  <table class="scale">
+    <tr><th>In the past month&hellip;</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
+    <tr><td>I got angry faster than I wanted to.</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td></tr>
+    <tr><td>Once I got angry, I had a hard time letting it go.</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td></tr>
+    <tr><td>I said or did things in anger that I regretted.</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td></tr>
+    <tr><td>People at home were afraid of my anger.</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td></tr>
+    <tr><td>I kept my anger inside and stopped talking to someone.</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td></tr>
+    <tr><td>I acted one way at work or church and another way at home.</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td></tr>
+    <tr><td>I told myself someone else &ldquo;made me&rdquo; angry.</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td></tr>
+    <tr><td>My anger cost me something: a relationship, a job, trust or peace.</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td><td>&#9675;</td></tr>
+  </table>
+
+  <!-- ============ VIDEOS ============ -->
+  <h2 class="part" id="videos"><small>Part 3</small>Video plan</h2>
+  <p class="lede">Twelve short pieces. Most can be shot on location with LIM staff and facilitators, the same way as the Healing Group interviews. Testimonies need signed release forms (<a href="/release-form">/release-form</a>).</p>
+  <table>
+    <tr><th>#</th><th>Title</th><th>Lesson</th><th>Type</th><th>Length</th></tr>
+    <tr><td>1</td><td>This isn&rsquo;t a lecture</td><td>1</td><td>Talking head: Native facilitator or Elder</td><td>2 min</td></tr>
+    <tr><td>2</td><td>Moses and the rock</td><td>1</td><td>Narrated, illustrated Bible story</td><td>3 min</td></tr>
+    <tr><td>3</td><td>Where I learned it</td><td>2</td><td>Testimony</td><td>3 min</td></tr>
+    <tr><td>4</td><td>The anger cycle</td><td>3</td><td>Simple animation</td><td>2 min</td></tr>
+    <tr><td>5</td><td>Take a beat</td><td>3</td><td>Guided body scan (audio over nature footage)</td><td>4 min</td></tr>
+    <tr><td>6</td><td>The parking spot, two ways</td><td>4</td><td>Acted scene, two endings</td><td>3 min</td></tr>
+    <tr><td>7</td><td>The iceberg</td><td>5</td><td>Animation</td><td>2 min</td></tr>
+    <tr><td>8</td><td>One conversation, three ways</td><td>6</td><td>Acted role-play</td><td>4 min</td></tr>
+    <tr><td>9</td><td>Muscle relaxation</td><td>7</td><td>Guided (audio over footage)</td><td>6 min</td></tr>
+    <tr><td>10</td><td>Making it right</td><td>8</td><td>Testimony</td><td>3 min</td></tr>
+    <tr><td>11</td><td>Slow breathing</td><td>1, 7</td><td>Guided (Joe&rsquo;s draft asks for one)</td><td>3 min</td></tr>
+    <tr><td>12</td><td>Facilitator orientation</td><td>Training</td><td>Joe and Robert on how to run the program</td><td>10 min</td></tr>
+  </table>
+  <p style="font-size:.88rem">Stories 1&ndash;8 can also be recorded as audio read by Native voices, for groups that prefer listening to reading.</p>
+
+  <!-- ============ DECISIONS ============ -->
+  <h2 class="part" id="decisions"><small>Part 4</small>Decisions for Robert and Joe</h2>
+
+  <div class="dec"><h4>1 &middot; How deep do we go into the roots of anger? <span class="tag rec">recommend: name it, refer it</span></h4><p>Joe asked this on 12 Nov. The draft helps people <em>see</em> where their anger comes from (Lessons 2 and 5), stops short of trying to heal childhood or combat wounds in a 20-hour group, and hands off to Healing Groups and counselors. That keeps it focused and safe, and it links LIM&rsquo;s two programs together.</p></div>
+  <div class="dec"><h4>2 &middot; Court-ordered participants <span class="tag rec">recommend: pilot with volunteers</span></h4><p>Pilot with volunteers first, as Joe suggested, then ask local courts and probation what they would need to accept it (hours, attendance records, facilitator credentials). One caution from research: in Alaska, domestic violence cases are referred to <strong>state-approved batterers&rsquo; intervention programs</strong> under Department of Corrections rules. This program shouldn&rsquo;t be offered as a replacement for those (<a href="https://dps.alaska.gov/cdvsa/bip/" target="_blank" rel="noopener">Alaska CDVSA</a>).</p></div>
+  <div class="dec"><h4>3 &middot; Family members (Module A)</h4><p>Include it? If yes, run it as a separate group, never alongside the person whose anger is the problem, with an advocate available.</p></div>
+  <div class="dec"><h4>4 &middot; Who is it <em>not</em> for (screening)?</h4><p>Joe&rsquo;s draft excludes people with active substance use problems. Also consider: current violence or a protective order, active suicidal thinking, and severe untreated mental illness. Each needs a referral path, not just a &ldquo;no.&rdquo;</p></div>
+  <div class="dec"><h4>5 &middot; Native review of the stories</h4><p>All eight stories were written for this draft. Robert and two or three Native facilitators (one Alaska Native, one from the Lower 48) should read them for anything that rings false or stereotyped. Regional versions may be worth it, since Robert noted that Lower 48 and Alaska Native experiences differ.</p></div>
+  <div class="dec"><h4>6 &middot; Name</h4><p>Keep <strong>Turning Away From Wrath</strong> (from Psalm 37:8)? It&rsquo;s strong for church settings. For court and community settings, a plainer subtitle may help, such as <em>&ldquo;A path through anger.&rdquo;</em></p></div>
+  <div class="dec"><h4>7 &middot; Bible translation</h4><p>ESV, to match the <a href="/anger-scripture">/anger-scripture</a> resource. Joe&rsquo;s draft mixes NIV wording. If you want NIV or NASB instead, it&rsquo;s a quick swap.</p></div>
+  <div class="dec"><h4>8 &middot; Facilitators</h4><p>Same facilitators as Healing Groups, plus a one-day anger-specific training? Joe&rsquo;s background makes him the natural trainer.</p></div>
+  <div class="dec"><h4>9 &middot; Source check before publishing</h4><p>Joe&rsquo;s secular teaching closely follows SAMHSA&rsquo;s <em>Anger Management for Substance Use Disorder and Mental Health Clients</em> (myths, group rules, timeouts, the four cue types, the conflict resolution model). That&rsquo;s a strength: it is a tested 12-week model, listed as public domain (<a href="https://integrationacademy.ahrq.gov/resources/13066" target="_blank" rel="noopener">AHRQ listing</a>; <a href="https://store.samhsa.gov/product/anger-management-substance-use-disorder-and-mental-health-clients-participant-workbook/pep19-02-01-002" target="_blank" rel="noopener">SAMHSA</a>). It should be credited. The trigger checklist (&ldquo;My spouse doesn&rsquo;t load the dishwasher right&hellip;&rdquo;) reads like it came from another book. If so, find the source before printing.</p></div>
+
+  <!-- ============ CULTURE & RESEARCH ============ -->
+  <h2 class="part" id="culture"><small>Part 5</small>Cultural tailoring and research</h2>
+  <p class="lede">On 12 Nov Joe asked whether there are real, studied differences in how Native and non-Native people express anger. Here is a first look. The short answer: there is very little research on anger specifically, but there are useful threads.</p>
+
+  <h3>What we found</h3>
+  <ul>
+    <li><strong>Very little has been studied directly.</strong> Most evidence-based treatments were not built with or tested on American Indian and Alaska Native people, and researchers keep calling for culturally adapted versions. We found no published outcome study of an anger management program adapted for Native participants. LIM would be breaking new ground. <span class="src">(<a href="https://ruralhealth.und.edu/assets/2470-9128/jmcd_0412_vol40.pdf" target="_blank" rel="noopener">Gray &amp; Rose, J. Multicultural Counseling &amp; Development</a>)</span></li>
+    <li><strong>Restraint and silence are often values, not deficits.</strong> Writers on Native counseling describe silence as valued in many communities, and people who are expressive in safe company but reserved when there is distrust. This supports Joe&rsquo;s observation and Robert&rsquo;s story, and it is why Lesson 6 treats quiet as a strength that sometimes needs a voice, not a problem to fix.</li>
+    <li><strong>Holding feelings in has a health cost.</strong> A study in an American Indian community linked suppressing emotions with higher cardiovascular risk. That gives the &ldquo;stuffing it&rdquo; pattern a concrete cost participants can weigh. <span class="src">(<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9764238" target="_blank" rel="noopener">PMC9764238</a>)</span></li>
+    <li><strong>Federal guidance on adapting programs.</strong> SAMHSA&rsquo;s TIP 61, <em>Behavioral Health Services for American Indians and Alaska Natives</em>, was written with Native professionals. It also notes that not every client wants traditional practices in treatment, which is one more reason to ask rather than assume. <span class="src">(<a href="https://sprc.org/wp-content/uploads/2022/12/TIP_61_AIAN_full.pdf" target="_blank" rel="noopener">TIP 61</a>)</span></li>
+    <li><strong>A model that includes anger skills:</strong> the BRAVE program for Native teens and young adults teaches non-violent anger management alongside cultural values, and was designed with Native youth input. <span class="src">(<a href="https://healthynativeyouth.npaihb.org/?p=3112" target="_blank" rel="noopener">Healthy Native Youth</a>)</span></li>
+    <li><strong>Historical trauma</strong> (Maria Yellow Horse Brave Heart&rsquo;s work) and <strong>traditional ethics of non-interference and emotional restraint</strong> (Clare Brant, 1990, <em>Canadian Journal of Psychiatry</em>) are the two classic frames behind Lessons 2 and 6. Cited from memory; confirm before quoting.</li>
+  </ul>
+
+  <h3>Principles this draft follows</h3>
+  <ol>
+    <li><strong>Ask, don&rsquo;t tell.</strong> Every lesson asks what participants&rsquo; own culture teaches. No lesson defines &ldquo;Native culture.&rdquo; This is Robert&rsquo;s caution and HWT&rsquo;s method.</li>
+    <li><strong>Native facilitators lead.</strong> At least one per group, following local tribal protocol as Healing Groups do.</li>
+    <li><strong>Name history without making it an excuse.</strong> Boarding schools and historical trauma explain patterns. They don&rsquo;t excuse harm, and they don&rsquo;t mean anyone is stuck.</li>
+    <li><strong>Hold faith gently.</strong> Some participants carry harm done in the name of the church. Scripture is offered as invitation and comfort, never as a weapon.</li>
+    <li><strong>Relevant for everyone.</strong> Robert wants it to work for all participants. The stories are set in Native communities, but the skills are universal.</li>
+  </ol>
+
+  <h3>Still to research</h3>
+  <ul>
+    <li>Talk with three or four Native facilitators and Elders, Alaska and Lower 48, using the culture questions in this draft, and note common themes (Robert&rsquo;s suggestion).</li>
+    <li>Ask Alaska courts, tribal courts and probation in Fairbanks and Anchorage what they would require to accept the program.</li>
+    <li>Look at the full BRAVE evaluation and the <em>Native Path to Courage</em> trial for activities we could adapt.</li>
+    <li>Find out whether tribal health organizations (such as Southcentral Foundation, where Joe worked) have any internal anger or family-wellness curricula that could be shared.</li>
+  </ul>
+
+  <!-- ============ SOURCE MAP ============ -->
+  <h2 class="part" id="sources"><small>Part 6</small>Where Joe&rsquo;s draft went</h2>
+  <table>
+    <tr><th>Joe&rsquo;s draft (22 Sept)</th><th>In this program</th></tr>
+    <tr><td>Introduction, purpose, group rules</td><td>Lesson 1 (rules reworded as agreements built together)</td></tr>
+    <tr><td>Session I: myths, overview, health effects, biblical view of anger</td><td>Lesson 1 teaching and Bible section</td></tr>
+    <tr><td>Session I/III: righteous versus sinful anger</td><td>Lesson 5</td></tr>
+    <tr><td>Session II: triggers, anger cycle, trauma and the brain</td><td>Lesson 3</td></tr>
+    <tr><td>Session II: Nathan&rsquo;s story</td><td>Lesson 3 opening story (lightly retold)</td></tr>
+    <tr><td>Session II: Michelle&rsquo;s story</td><td>Lesson 5 facilitator notes (heavy; best for training or one-on-one)</td></tr>
+    <tr><td>Session II: &ldquo;Understanding my triggers&rdquo; (checklist, origins, reactions)</td><td>Lesson 3 exercise; origins in Lesson 2</td></tr>
+    <tr><td>Session III: thinking errors, underlying beliefs, ABCD, Rita&rsquo;s story</td><td>Lesson 4 (six errors for participants; full list for facilitators)</td></tr>
+    <tr><td>Session III: parking-lot example</td><td>Lesson 4 opening story (&ldquo;The Last Parking Spot&rdquo;)</td></tr>
+    <tr><td>Session III: biblical teaching on error</td><td>Lesson 4 Bible section and facilitator notes</td></tr>
+    <tr><td>Session IV: four case studies</td><td>Optional Module B (case lab)</td></tr>
+    <tr><td>Session V: cues to anger</td><td>Lesson 3 teaching</td></tr>
+    <tr><td>Session V: anger toolbox, timeouts, social support, relaxation</td><td>Lesson 7</td></tr>
+    <tr><td>Session V: assertiveness, conflict resolution model, biblical response</td><td>Lesson 6</td></tr>
+    <tr><td>Putting it all together: review quiz, Exercises 1&ndash;3</td><td>Lesson 8</td></tr>
+  </table>
+
+  <div class="foot">
+    <p>Scripture quotations are from the ESV&reg; Bible (The Holy Bible, English Standard Version&reg;), &copy; 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.</p>
+    <p>Lesson format follows the pattern of <em>Healing the Wounds of Trauma</em> (American Bible Society / Trauma Healing Institute). Secular content is adapted from Joe Federici&rsquo;s draft, which draws on SAMHSA&rsquo;s public-domain <em>Anger Management for Substance Use Disorder and Mental Health Clients</em>. Prepared for Lutheran Indian Ministries, November 2026. Internal working draft, not for distribution.</p>
+  </div>
+</div>
+<script>document.getElementById('print').addEventListener('click',function(){window.print();});</script>
+</body>
+</html>
