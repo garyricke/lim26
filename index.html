@@ -562,52 +562,79 @@
 
 <!-- AFN 2026 booth promo · hides itself after Sat 24 Oct (Alaska time) -->
 <!-- $25,000 MATCHING GIFT (Bill Slayden, through Dec 31 2026). Removes itself at midnight Central on Jan 1.
-     CONCEPT pending Robert: OK to name Bill online? Do online gifts count? Blackbaud appeal code? -->
-<section class="match-band" id="match" aria-label="$25,000 matching gift" data-until="2027-01-01T00:00:00-06:00">
-  <div class="match-inner">
-    <div class="match-text">
-      <span class="match-eyebrow">$25,000 Matching Gift · Through December&nbsp;31</span>
-      <h2>Your gift goes twice as far this&nbsp;Advent</h2>
-      <p class="match-body"><strong>Bill Slayden</strong> has supported Lutheran Indian Ministries for more than 40&nbsp;years. He has walked through our trauma healing workshops, trained as a facilitator, and helped spark our Bible-in-a-Year group. Now he will match every gift, including gifts made here online, through December&nbsp;31, up to a total of $25,000.</p>
-      <ul class="match-math" aria-label="How the match works">
-        <li><span>$25</span>becomes&nbsp;<b>$50</b></li>
-        <li><span>$50</span>becomes&nbsp;<b>$100</b></li>
-        <li><span>$100</span>becomes&nbsp;<b>$200</b></li>
-      </ul>
-      <a class="match-btn" href="/donate">Double my gift &rarr;</a>
+     CONCEPT v2 pending Robert: OK to name Bill online? Do online gifts count? Blackbaud appeal code?
+     Amount cards open /donate?amt=N, which preselects that amount in the Blackbaud form. -->
+<section class="mg" id="match" aria-label="$25,000 matching gift" data-until="2027-01-01T00:00:00-06:00">
+  <div class="mg-inner">
+    <div class="mg-mark" aria-hidden="true"><span class="mg-x">&times;</span>2</div>
+    <div class="mg-head">
+      <p class="mg-eyebrow"><span>$25,000 Matching Gift</span><span class="mg-days" id="mg-days">Through December&nbsp;31</span></p>
+      <h2>Every gift is doubled through December&nbsp;31.</h2>
+      <p class="mg-lede"><strong>Bill Slayden</strong>, a friend of Lutheran Indian Ministries for more than 40&nbsp;years, will match every gift, including gifts made online, up to $25,000. Give once, and it counts&nbsp;twice.</p>
     </div>
-    <div class="match-uses">
-      <p class="match-uses-h">Where your gift goes</p>
-      <ul>
-        <li><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_560,h_420/lim2026/pillar-heal-session" alt="" width="280" height="210" loading="lazy"><span><b>Restoring Hope Bibles</b>and supplies for Native men and women in our Healing the Wounds of Trauma&nbsp;workshops</span></li>
-        <li><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_560,h_420/lim2026/haskell-carousel-01-women-flowers" alt="" width="280" height="210" loading="lazy"><span><b>Haskell LIGHT</b>sharing Christ at Haskell Indian Nations University, where students come from nearly every federally recognized&nbsp;tribe</span></li>
-        <li><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_560,h_420/lim2026/camp-perkins-2026/group-beach-arms" alt="" width="280" height="210" loading="lazy"><span><b>Bible camp</b>a week of faith and fellowship for Native&nbsp;youth</span></li>
-      </ul>
+    <div class="mg-pick" role="list" aria-label="Choose a gift to double">
+      <a role="listitem" class="mg-card" href="/donate?amt=25"><span class="mg-give">You give <b>$25</b></span><span class="mg-gets"><em data-to="50">$50</em> for the ministry</span></a>
+      <a role="listitem" class="mg-card mg-card--hot" href="/donate?amt=50"><span class="mg-tag">Most chosen</span><span class="mg-give">You give <b>$50</b></span><span class="mg-gets"><em data-to="100">$100</em> for the ministry</span></a>
+      <a role="listitem" class="mg-card" href="/donate?amt=100"><span class="mg-give">You give <b>$100</b></span><span class="mg-gets"><em data-to="200">$200</em> for the ministry</span></a>
+      <a role="listitem" class="mg-card" href="/donate?amt=250"><span class="mg-give">You give <b>$250</b></span><span class="mg-gets"><em data-to="500">$500</em> for the ministry</span></a>
     </div>
+    <div class="mg-cta"><a class="mg-btn" href="/donate">Double my gift &rarr;</a><a class="mg-other" href="/donate">Or choose any&nbsp;amount</a></div>
+    <ul class="mg-uses" aria-label="Where your gift goes">
+      <li><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_360,h_240/lim2026/pillar-heal-session" alt="" width="180" height="120" loading="lazy"><span><b>Restoring Hope Bibles</b> for our trauma healing&nbsp;workshops</span></li>
+      <li><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_360,h_240/lim2026/haskell-carousel-01-women-flowers" alt="" width="180" height="120" loading="lazy"><span><b>Haskell LIGHT</b> campus ministry for students from nearly every&nbsp;tribe</span></li>
+      <li><img src="https://res.cloudinary.com/dsbllwpbh/image/upload/f_auto,q_auto,c_fill,g_auto,w_360,h_240/lim2026/camp-perkins-2026/group-beach-arms" alt="" width="180" height="120" loading="lazy"><span><b>Bible camp</b> for Native&nbsp;youth</span></li>
+    </ul>
   </div>
   <style>
-    .match-band{background:var(--charcoal);border-top:6px solid var(--red);color:#fff}
-    .match-inner{max-width:1200px;margin:0 auto;padding:3.5rem 3rem;display:grid;grid-template-columns:1.1fr 1fr;gap:3rem;align-items:center}
-    .match-eyebrow{display:inline-block;font-family:var(--cond);font-weight:700;font-size:.82rem;letter-spacing:.2em;text-transform:uppercase;color:var(--yellow);margin-bottom:.6rem}
-    .match-band h2{font-family:var(--serif);font-size:clamp(1.8rem,3.2vw,2.6rem);font-weight:900;line-height:1.12;margin-bottom:.9rem;color:#fff;text-wrap:balance}
-    .match-body{color:rgba(255,255,255,.82);line-height:1.75;margin-bottom:1.4rem;max-width:56ch;text-wrap:pretty}
-    .match-body strong{color:#fff}
-    .match-math{list-style:none;margin:0 0 1.6rem;padding:0;display:flex;gap:.75rem;flex-wrap:wrap}
-    .match-math li{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);border-radius:10px;padding:.6rem .9rem;font-size:.92rem;color:rgba(255,255,255,.75)}
-    .match-math span{font-family:var(--cond);font-weight:700;font-size:1.15rem;color:#fff;margin-right:.35rem}
-    .match-math b{font-family:var(--cond);font-size:1.15rem;color:var(--yellow)}
-    .match-btn{display:inline-block;background:var(--red);color:#fff;font-family:var(--cond);font-weight:800;letter-spacing:.06em;text-transform:uppercase;font-size:1.05rem;padding:.9rem 2rem;border-radius:9px;transition:background .15s}
-    .match-btn:hover{background:#c8161d}
-    .match-uses-h{font-family:var(--cond);font-weight:700;font-size:.85rem;letter-spacing:.16em;text-transform:uppercase;color:var(--sky);margin:0 0 .9rem}
-    .match-uses ul{list-style:none;margin:0;padding:0;display:grid;gap:1rem}
-    .match-uses li{display:grid;grid-template-columns:120px 1fr;gap:1rem;align-items:center}
-    .match-uses img{width:120px;height:90px;object-fit:cover;border-radius:10px;display:block}
-    .match-uses li span{font-size:.93rem;line-height:1.5;color:rgba(255,255,255,.78);text-wrap:pretty}
-    .match-uses li b{display:block;font-family:var(--cond);font-weight:700;font-size:1.05rem;letter-spacing:.03em;color:#fff}
-    @media(max-width:960px){.match-inner{grid-template-columns:1fr;gap:2.25rem}}
-    @media(max-width:600px){.match-inner{padding:2.5rem 1rem}.match-uses li{grid-template-columns:96px 1fr}.match-uses img{width:96px;height:72px}}
+    .mg{position:relative;background:var(--yellow);color:var(--charcoal);overflow:hidden;border-top:8px solid var(--red);border-bottom:8px solid var(--red)}
+    .mg-inner{position:relative;max-width:1200px;margin:0 auto;padding:4rem 3rem 3.5rem;display:grid;grid-template-columns:1fr;gap:2rem}
+    .mg-mark{position:absolute;right:1.5rem;top:-2.5rem;font-family:var(--serif);font-weight:900;font-size:clamp(14rem,26vw,24rem);line-height:1;color:var(--charcoal);opacity:.09;letter-spacing:-.04em;pointer-events:none;user-select:none}
+    .mg-x{font-size:.6em;vertical-align:.25em;margin-right:.02em}
+    .mg-head{max-width:820px}
+    .mg-eyebrow{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin:0 0 .9rem}
+    .mg-eyebrow span{font-family:var(--cond);font-weight:800;font-size:.9rem;letter-spacing:.16em;text-transform:uppercase}
+    .mg-eyebrow span:first-child{background:var(--charcoal);color:var(--yellow);padding:.35rem .75rem;border-radius:6px}
+    .mg-days{background:var(--red);color:#fff;padding:.35rem .75rem;border-radius:6px}
+    .mg h2{font-family:var(--serif);font-weight:900;font-size:clamp(2.3rem,5.4vw,4.4rem);line-height:1.02;letter-spacing:-.015em;margin:0 0 1rem;text-wrap:balance}
+    .mg-lede{font-size:1.12rem;line-height:1.65;max-width:62ch;margin:0;text-wrap:pretty}
+    .mg-pick{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem;margin-top:.5rem}
+    .mg-card{position:relative;display:flex;flex-direction:column;gap:.35rem;background:#fff;color:var(--charcoal);border-radius:16px;padding:1.3rem 1.2rem 1.2rem;box-shadow:0 6px 0 var(--charcoal);border:3px solid var(--charcoal);transition:transform .15s ease,box-shadow .15s ease}
+    .mg-card:hover,.mg-card:focus-visible{transform:translateY(-4px);box-shadow:0 10px 0 var(--charcoal);outline:none}
+    .mg-card--hot{background:var(--charcoal);color:#fff}
+    .mg-tag{position:absolute;top:-.8rem;left:1rem;background:var(--red);color:#fff;font-family:var(--cond);font-weight:800;font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;padding:.2rem .6rem;border-radius:5px}
+    .mg-give{font-size:.95rem;opacity:.8}
+    .mg-give b{font-family:var(--cond);font-size:1.3rem;opacity:1}
+    .mg-gets{font-size:.95rem;line-height:1.2}
+    .mg-gets em{display:block;font-style:normal;font-family:var(--serif);font-weight:900;font-size:clamp(2.2rem,4vw,3rem);line-height:1;color:var(--red);margin-bottom:.15rem}
+    .mg-card--hot .mg-gets em{color:var(--yellow)}
+    .mg-cta{display:flex;flex-wrap:wrap;align-items:center;gap:1.25rem}
+    .mg-btn{display:inline-block;background:var(--red);color:#fff;font-family:var(--cond);font-weight:800;letter-spacing:.06em;text-transform:uppercase;font-size:1.2rem;padding:1rem 2.2rem;border-radius:10px;box-shadow:0 5px 0 #9e1016;transition:transform .15s,box-shadow .15s}
+    .mg-btn:hover{transform:translateY(-2px);box-shadow:0 7px 0 #9e1016}
+    .mg-other{font-weight:700;color:var(--charcoal);text-decoration:underline;text-underline-offset:3px}
+    .mg-uses{list-style:none;margin:.75rem 0 0;padding:1.5rem 0 0;border-top:2px solid rgba(40,41,36,.18);display:grid;grid-template-columns:repeat(3,1fr);gap:1.25rem}
+    .mg-uses li{display:grid;grid-template-columns:72px 1fr;gap:.8rem;align-items:center;font-size:.92rem;line-height:1.4}
+    .mg-uses img{width:72px;height:72px;object-fit:cover;border-radius:50%;border:3px solid var(--charcoal);display:block}
+    @media(max-width:960px){.mg-pick{grid-template-columns:repeat(2,1fr)}.mg-uses{grid-template-columns:1fr}}
+    @media(max-width:600px){.mg-inner{padding:3rem 1rem 2.75rem}.mg-pick{gap:.75rem}.mg-card{padding:1.1rem .9rem 1rem}.mg-mark{top:-1rem;right:-.5rem}}
+    @media(prefers-reduced-motion:reduce){.mg-card,.mg-btn{transition:none}}
   </style>
-  <script>(function(){var s=document.getElementById('match');if(s&&Date.now()>=Date.parse(s.getAttribute('data-until')))s.remove();})();</script>
+  <script>(function(){
+    var s=document.getElementById('match'); if(!s) return;
+    var end=Date.parse(s.getAttribute('data-until'));
+    if(Date.now()>=end){s.remove();return;}
+    // "N days left" chip, counted to midnight Central on Jan 1
+    var d=Math.ceil((end-Date.now())/86400000), el=document.getElementById('mg-days');
+    if(el) el.textContent = d<=1 ? 'Last day to double your gift' : d+' days left to double your gift';
+    // Count the doubled amounts up from the gift once the band scrolls into view
+    if(window.matchMedia('(prefers-reduced-motion: reduce)').matches || !('IntersectionObserver' in window)) return;
+    var ems=s.querySelectorAll('.mg-gets em');
+    var io=new IntersectionObserver(function(es){ if(!es[0].isIntersecting) return; io.disconnect();
+      ems.forEach(function(e){ var to=+e.dataset.to, from=to/2, t0=performance.now();
+        (function step(t){ var k=Math.min(1,(t-t0)/900); e.textContent='$'+Math.round(from+(to-from)*(1-Math.pow(1-k,3))); if(k<1) requestAnimationFrame(step); })(t0);
+      });
+    },{threshold:.35});
+    io.observe(s.querySelector('.mg-pick'));
+  })();</script>
 </section>
 
 <section class="afn-band" id="afn" aria-label="Visit LIM at AFN 2026" data-until="2026-10-25T00:00:00-08:00">
