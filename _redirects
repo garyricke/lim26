@@ -146,6 +146,13 @@
 # 869, Augsburg Confession 301, confession 222, repentance 142). Every one of
 # those is captured in archive/squarespace/posts/ — rebuild them as real pages
 # and point these at the rebuilds rather than at /.
+# Old Squarespace sitelink paths still used in the Google Ads account (found 16 Nov 2026)
+/weekly-devotions             /   301
+/advent-devotions             /   301
+/lent-devotions               /   301
+/native-news                  /   301
+/what-we-do                   /about   301
+/what-we-do/*                 /about   301
 /devotions                    /   301
 /devotions-advent             /   301
 /devotions-lent               /   301
