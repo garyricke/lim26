@@ -37,6 +37,11 @@
   .dnav .back{font-family:var(--cond);font-weight:700;letter-spacing:.05em;text-transform:uppercase;font-size:.85rem;color:rgba(255,255,255,.75);display:inline-flex;align-items:center;gap:.4rem}
   .dnav .back:hover{color:var(--yellow)}
   .wrap{max-width:780px;margin:0 auto;padding:2.5rem 1.5rem 4rem}
+  .match-callout{background:#fff;border:1px solid var(--border);border-left:6px solid var(--red);border-radius:12px;padding:1.1rem 1.3rem;margin:0 0 1.5rem}
+  .mc-eyebrow{font-family:var(--cond);font-weight:700;font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;color:var(--red)}
+  .mc-head{font-family:var(--serif);font-weight:700;font-size:1.15rem;line-height:1.4;margin:.25rem 0 .35rem;text-wrap:balance}
+  .mc-body{font-size:.95rem;color:var(--muted);text-wrap:pretty}
+  .mc-body strong{color:var(--charcoal)}
   .eyebrow{font-family:var(--cond);font-size:.8rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--sage-d);display:block;text-align:center}
   h1{font-family:var(--serif);font-size:clamp(1.8rem,4vw,2.5rem);line-height:1.15;text-align:center;margin:.4rem 0 .6rem}
   .lede{text-align:center;color:var(--muted);max-width:34rem;margin:0 auto 1.75rem;line-height:1.8}
@@ -63,7 +68,15 @@
 <div class="wrap">
   <span class="eyebrow">Partner With Us</span>
   <h1>Give to Lutheran Indian Ministries</h1>
-  <p class="lede">Your gift proclaims the Gospel, develops Native leaders, and brings healing to communities across the country. Thank you for standing with us.</p>
+  <p class="lede">Your gift proclaims the Gospel, develops Native leaders, and brings healing to communities across the country. Thank you for standing with&nbsp;us.</p>
+
+  <!-- $25,000 MATCHING GIFT callout. Removes itself at midnight Central on Jan 1. Robert approved Nov 16 2026, donor not named on the web. -->
+  <div class="match-callout" id="match" data-until="2027-01-01T00:00:00-06:00">
+    <span class="mc-eyebrow">$25,000 Matching Gift</span>
+    <p class="mc-head">Every gift through December&nbsp;31 is matched, up to $25,000. Your $50 becomes&nbsp;$100.</p>
+    <p class="mc-body">Made possible by a friend who has supported Lutheran Indian Ministries for more than 40&nbsp;years.</p>
+  </div>
+  <script>(function(){var s=document.getElementById('match');if(s&&Date.now()>=Date.parse(s.getAttribute('data-until')))s.remove();})();</script>
 
   <div class="form-card">
     <div id="bbox-root"><p class="loading">Loading our secure giving form…</p></div>
