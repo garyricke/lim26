@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Joe: curriculum changes from our call</title></head>
+<body style="margin:0; padding:24px; background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#1a2535; line-height:1.6;">
+  <div class="copy-control" style="max-width:600px; margin:0 0 18px; display:flex; align-items:center; gap:12px;">
+    <button id="copy-btn" onclick="copyEmail()" style="display:inline-flex; align-items:center; gap:8px; background:#ED1C24; color:#fff; border:none; border-radius:8px; padding:10px 16px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+      Copy email
+    </button>
+    <span id="copy-status" style="font-size:13px; color:#4a5568;">Click, then paste into your email (formatting included).</span>
+  </div>
+  <div id="email-body" style="max-width:600px; margin:0; background:#ffffff;">
+    <p style="margin:0 0 16px;">Hi Joe,</p>
+    <p style="margin:0 0 16px;">Good talking today, even with the audio fight. Here&rsquo;s what I took away for the curriculum. Before I build the next draft, please fix or add anything in your own words. Reply to this, mark it up, or send a voice memo. Your words beat my&nbsp;shorthand.</p>
+
+    <p style="margin:0 0 8px;"><b>1. Don&rsquo;t build the program around Native&nbsp;culture</b></p>
+    <ul style="margin:0 0 18px; padding-left:22px;">
+      <li style="margin-bottom:8px;">Take the Native framing out of the structure: no &ldquo;for Alaska Native and American Indian participants&rdquo; in the title and summary, no culture question built into every lesson, and no rule that a facilitator must be&nbsp;Native.</li>
+      <li style="margin-bottom:8px;">Keep the stories set in Native communities as&nbsp;examples.</li>
+      <li style="margin-bottom:8px;">When we present it, we say it is sensitive to Native&nbsp;participants.</li>
+      <li style="margin-bottom:0;">Aggression and passivity stay the pivotal part. You noted Alaska Natives tend toward the quiet side and American Indians can run more aggressive. Lesson&nbsp;6 (&ldquo;Quiet, stuffed or exploding?&rdquo;) carries&nbsp;that.</li>
+    </ul>
+
+    <p style="margin:0 0 8px;"><b>2. New order for every lesson: introduction, teaching, group&nbsp;work</b></p>
+    <ul style="margin:0 0 18px; padding-left:22px;">
+      <li style="margin-bottom:8px;"><b>Introduction.</b> The facilitator gets up, introduces themself, makes the topic personal with a bit of their own experience, and goes over the&nbsp;subject.</li>
+      <li style="margin-bottom:8px;"><b>Teaching.</b> The idea or skill for the session, with the Bible&nbsp;passages.</li>
+      <li style="margin-bottom:0;"><b>Group work.</b> It starts with an example story about someone else, and the group takes it apart using what was just&nbsp;taught.</li>
+    </ul>
+    <p style="margin:0 0 16px;">That flips the Healing Groups pattern, where the story comes first and the teaching&nbsp;after.</p>
+
+    <p style="margin:0 0 8px;"><b>3. Move from &ldquo;them&rdquo; to &ldquo;you&rdquo;&nbsp;slowly</b></p>
+    <ul style="margin:0 0 18px; padding-left:22px;">
+      <li style="margin-bottom:8px;">Early sessions keep the discussion on the person in the story: &ldquo;Bobby&rsquo;s boss treated him miserably, and he avoided&nbsp;him.&rdquo;</li>
+      <li style="margin-bottom:8px;">Once there&rsquo;s trust, around the second day, questions start turning personal: &ldquo;Has this ever happened to&nbsp;you?&rdquo;</li>
+      <li style="margin-bottom:0;">By the end it&rsquo;s mostly about the participant. So the personal exercises that now come early (the two baskets, the family tree) move later, or the early ones become about the story&nbsp;character.</li>
+    </ul>
+
+    <p style="margin:0 0 16px;"><b>One question:</b> in the four-day format (two lessons a day), &ldquo;the second day&rdquo; means personal questions start at Lesson&nbsp;3. In the weekly format, that&rsquo;s week three. Does that sound&nbsp;right?</p>
+
+    <p style="margin:0 0 16px;">Once I hear back, I&rsquo;ll build draft 3 and send it as a Word file like&nbsp;before.</p>
+    <p style="margin:0 0 16px;">For next time, put the free Zoom app on your phone. Let me know when it&rsquo;s installed and we&rsquo;ll do a five-minute&nbsp;test.</p>
+    <p style="margin:0 0 16px;">Thanks,</p>
+    <p style="margin:0;">Gary<br><span style="color:#4a5568;">Orbis Design</span></p>
+  </div>
+<script>
+  function setStatus(m,ok){var s=document.getElementById('copy-status');s.textContent=m;s.style.color=ok?'#1a7f37':'#b42318';}
+  function selectFallback(el){try{var r=document.createRange();r.selectNode(el);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=document.execCommand('copy');s.removeAllRanges();setStatus(ok?'✓ Copied — paste into your email':'Press ⌘C to copy the selected email',ok);}catch(e){setStatus('Select the email and press ⌘C',false);}}
+  function copyEmail(){var el=document.getElementById('email-body');if(navigator.clipboard&&window.ClipboardItem){var d=[new ClipboardItem({'text/html':new Blob([el.outerHTML],{type:'text/html'}),'text/plain':new Blob([el.innerText],{type:'text/plain'})})];navigator.clipboard.write(d).then(function(){setStatus('✓ Copied — paste into your email (formatting included)',true);},function(){selectFallback(el);});}else{selectFallback(el);}}
+</script>
+</body></html>
