@@ -1,6 +1,20 @@
 # Latest check-in agenda — move this when the next one is made
 /checkin   /checkin/2026-11-16   302
 
+# ── Keep plan/ private: drafts and email copies hold passwords and contacts ──
+# The check-in agendas linked from /agendas stay public; everything else 404s.
+/plan/checkin-agenda-2026-06-22.html                /plan/checkin-agenda-2026-06-22.html                200
+/plan/checkin-agenda-2026-07-06.html                /plan/checkin-agenda-2026-07-06.html                200
+/plan/checkin-agenda-2026-07-20.html                /plan/checkin-agenda-2026-07-20.html                200
+/plan/checkin-agenda-email-2026-06-22.html          /plan/checkin-agenda-email-2026-06-22.html          200
+/plan/checkin-agenda-email-2026-07-06.html          /plan/checkin-agenda-email-2026-07-06.html          200
+/plan/checkin-agenda-email-2026-07-20.html          /plan/checkin-agenda-email-2026-07-20.html          200
+/plan/checkin-agenda-email-2026-08-17.html          /plan/checkin-agenda-email-2026-08-17.html          200
+/plan/checkin-agenda-email-2026-09-14.html          /plan/checkin-agenda-email-2026-09-14.html          200
+/plan/checkin-agenda-email-2026-10-05.html          /plan/checkin-agenda-email-2026-10-05.html          200
+/plan                                            /404-private   404!
+/plan/*                                          /404-private   404!
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Old Squarespace URL migration → new site (301 permanent)
 # Source: old sitemap https://www.lutheranindianministries.org/sitemap.xml (July 2026)
